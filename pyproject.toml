@@ -1,0 +1,27 @@
+[project]
+name = "otr"
+version = "0.1.0"
+description = "Set OTR filenames and ID3 tags."
+readme = "README.md"
+authors = [
+    { name = "Sheldon McGrandle", email = "developer@8cylinder.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "click>=8.1.8",
+    "mutagen>=1.47.0",
+    "rich>=13.9.4",
+]
+
+[project.scripts]
+otr = "otr:cli.otr"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "black>=25.1.0",
+    "mypy>=1.15.0",
+]
