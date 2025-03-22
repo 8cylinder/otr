@@ -12,6 +12,7 @@ import mutagen
 from rich import print  # noqa: F401
 from .slugify import SlugifyString  # noqa: F401
 from dataclasses import dataclass
+import shlex
 
 
 __version__ = importlib.metadata.version("otr")
@@ -33,10 +34,14 @@ class FileParts:
     file_type: str = "mp3"
 
 
-def get_parts(file_path: Path, regs: dict[str, str]) -> SimpleNamespace:
+def get_parts(file_path: Path, regs: dict[str, str], custom: str) -> SimpleNamespace:
     parts = {}
+    filename = file_path.stem
+    if custom:
+        filename = re.sub(custom, "", filename)
+        print(">>>", filename)
     for field, regex in regs.items():
-        match = re.findall(regex, file_path.stem)[0]
+        match = re.findall(regex, filename)[0]
         if field == "date":
             match = parse_date(match)
         parts[field] = match
@@ -49,10 +54,13 @@ def parse_date(date_str: str) -> datetime.datetime:
         (r"(\d\d-\d\d-\d\d)", "%Y-%m-%d"),
         (r"(\d\d-\d\d)-xx", "%Y-%m"),
         (r"(\d\d)-xx-xx", "%Y"),
+        ("(xx-xx-xx)", ""),
     ]
     broadcast_date = datetime.datetime.strptime("1000-01-01", "%Y-%m-%d")
     for date_regex in date_regexes:
-        if re.search(date_regex[0], date_str):
+        if date_str == "xx-xx-xx":
+            return broadcast_date
+        elif re.search(date_regex[0], date_str):
             datestr = re.findall(date_regex[0], date_str)[0]
             if len(datestr.split("-")[0]) == 2:
                 datestr = "19" + datestr
@@ -62,7 +70,9 @@ def parse_date(date_str: str) -> datetime.datetime:
 
 
 def slug(string: str) -> str:
-    return string.replace(" ", "-").replace("_", "-").lower()
+    string = string.replace(" ", "-").replace("_", "-").lower()
+    string = re.sub(r"[-_]+", "-", string)
+    return string
 
 
 # fmt: off
@@ -73,11 +83,12 @@ CONTEXT_SETTINGS = {
 @click.command(context_settings=CONTEXT_SETTINGS)
 @click.argument("files", nargs=-1, type=click.Path(exists=True, path_type=Path))
 
-@click.option('--show', '-s', default=r'^(.*)-')
-@click.option('--episode', '-p', default=r'-(.*)\.')
-@click.option('--date', '-d', default=r'-(\d\d-\d\d-\d\d)-')
+@click.option('--show', '-s', default=r'^(.*)[-_]\d\d-\d\d-\d\d')
+@click.option('--episode', '-p', default=r'e\d\d[_-](.*)')
+@click.option('--date', '-d', default=r'(\d\d-\d\d-\d\d)')
 @click.option('--number', '-n', default=r'e(\d+)')
 
+@click.option('--custom', '-c', help='Custom regex to delete')
 @click.option('--edit/--view', '-e/-v', default=False,
     help="Make edits to the files.")
 @click.version_option()
@@ -90,8 +101,11 @@ def otr(
     episode: str,
     date: str,
     number: str,
+    custom: str,
 ) -> None:
     """Rename and set ID3 tags for old time radio shows."""
+
+    cmd = shlex.join(sys.argv[:])
 
     regexes = {
         "show": show,
@@ -108,10 +122,11 @@ def otr(
     print(padding)
 
     for otr_file in files:
+
         print(f"[blue]{otr_file}")
 
         # file_parts = parse(otr_file)
-        file_parts = get_parts(otr_file, regexes)
+        file_parts = get_parts(otr_file, regexes, custom)
         # print(file_parts)
 
         name = template.format(
@@ -126,3 +141,11 @@ def otr(
         print(f"[green]{name}")
 
         print()
+
+    # print(__name__, cmd)
+    cmd_log_file = Path("otr-cmd.log")
+    with open(cmd_log_file, "w") as f:
+        f.write(f"[{datetime.datetime.now()}] otr {cmd}\n")
+        # for file in files:
+        #     f.write(f"{file}\n")
+        # f.write("\n")
