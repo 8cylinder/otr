@@ -5,16 +5,14 @@ import re
 import datetime
 import importlib.metadata
 from typing import NamedTuple
-from types import SimpleNamespace
 from pathlib import Path
 from pprint import pprint as pp  # noqa: F401
 import mutagen
-from rich import print  # noqa: F401
+from rich.console import Console  # noqa: F401
 from .slugify import SlugifyString  # noqa: F401
-from dataclasses import dataclass
 import shlex
 
-
+console = Console(highlight=False)
 __version__ = importlib.metadata.version("otr")
 
 
@@ -25,54 +23,38 @@ class Regexes(NamedTuple):
     number: str
 
 
-@dataclass
-class FileParts:
-    show_title: str
-    episode_title: str
-    broadcast_date: datetime.datetime
-    episode_number: int
-    file_type: str = "mp3"
+def get_show(pat: str, fname: Path) -> str:
+    match = re.search(pat, str(fname.stem))
+    # print(pat, fname, match)
+    if match:
+        return match.groups()[0]
+    return ""
 
 
-def get_parts(file_path: Path, regs: dict[str, str], custom: str) -> SimpleNamespace:
-    parts = {}
-    filename = file_path.stem
-    if custom:
-        filename = re.sub(custom, "", filename)
-        print(">>>", filename)
-    for field, regex in regs.items():
-        match = re.findall(regex, filename)[0]
-        if field == "date":
-            match = parse_date(match)
-        parts[field] = match
-
-    return SimpleNamespace(**parts)
+def get_date(pat: str, fname: Path) -> str:
+    match = re.search(pat, str(fname.stem))
+    if match:
+        d = list(match.groups())
+        # print(">>>", d)
+        if len(d) == 2:
+            d[0] = f"19{d[0]}"
+        return "-".join(d)
+    return ""
 
 
-def parse_date(date_str: str) -> datetime.datetime:
-    date_regexes: list[tuple[str, str]] = [
-        (r"(\d\d-\d\d-\d\d)", "%Y-%m-%d"),
-        (r"(\d\d-\d\d)-xx", "%Y-%m"),
-        (r"(\d\d)-xx-xx", "%Y"),
-        ("(xx-xx-xx)", ""),
-    ]
-    broadcast_date = datetime.datetime.strptime("1000-01-01", "%Y-%m-%d")
-    for date_regex in date_regexes:
-        if date_str == "xx-xx-xx":
-            return broadcast_date
-        elif re.search(date_regex[0], date_str):
-            datestr = re.findall(date_regex[0], date_str)[0]
-            if len(datestr.split("-")[0]) == 2:
-                datestr = "19" + datestr
-            broadcast_date = datetime.datetime.strptime(datestr, date_regex[1])
-            break
-    return broadcast_date
+def get_number(pat: str, fname: Path, count: int) -> str:
+    match = re.search(pat, str(fname.stem))
+    if match:
+        number = match.groups()[0]
+        return f"e{number:>0{count}}"
+    return ""
 
 
-def slug(string: str) -> str:
-    string = string.replace(" ", "-").replace("_", "-").lower()
-    string = re.sub(r"[-_]+", "-", string)
-    return string
+def get_episode(pat: str, fname: Path) -> str:
+    match = re.search(pat, str(fname.stem))
+    if match:
+        return match.groups()[0]
+    return ""
 
 
 # fmt: off
@@ -83,12 +65,16 @@ CONTEXT_SETTINGS = {
 @click.command(context_settings=CONTEXT_SETTINGS)
 @click.argument("files", nargs=-1, type=click.Path(exists=True, path_type=Path))
 
-@click.option('--show', '-s', default=r'^(.*)[-_]\d\d-\d\d-\d\d')
-@click.option('--episode', '-p', default=r'e\d\d[_-](.*)')
-@click.option('--date', '-d', default=r'(\d\d-\d\d-\d\d)')
-@click.option('--number', '-n', default=r'e(\d+)')
+@click.option('--show-re', '-s', default=r'^(.*)[-_]\d\d-\d\d-\d\d',
+              help='Regex to extract the show name.')
+@click.option('--episode-re', '-p', default=r'e\d\d[_-](.*)',
+              help='Regex to extract the episode name.')
+@click.option('--date-re', '-d', default=None,
+              help='Regex to extract the date.')
+@click.option('--number-re', '-n', default=None,
+              help='Regex to extract the episode number.')
 
-@click.option('--custom', '-c', help='Custom regex to delete')
+@click.option('--custom-re', '-c', help='Custom regex to delete')
 @click.option('--edit/--view', '-e/-v', default=False,
     help="Make edits to the files.")
 @click.version_option()
@@ -97,55 +83,51 @@ def otr(
     files: list[Path],
     edit: bool,
     # ---------------------------
-    show: str,
-    episode: str,
-    date: str,
-    number: str,
-    custom: str,
+    show_re: str,
+    episode_re: str,
+    date_re: str,
+    number_re: str,
+    # ---------------------------
+    custom_re: str,
 ) -> None:
     """Rename and set ID3 tags for old time radio shows."""
-
-    cmd = shlex.join(sys.argv[:])
-
-    regexes = {
-        "show": show,
-        "episode": episode,
-        "date": date,
-        "number": number,
-    }
-
-    sep = "--"
-    template = (
-        "{show}{sep}{date:%Y-%m-%d}{sep}e{number:0{padding}}{sep}{episode}{file_type}"
-    )
     padding = len(str(len(files)))
     print(padding)
 
     for otr_file in files:
 
-        print(f"[blue]{otr_file}")
+        parts: list[str] = []
+        if show_re and (formated_show := get_show(show_re, otr_file)):
+            # print("show:", formated_show)
+            parts.append(formated_show)
 
-        # file_parts = parse(otr_file)
-        file_parts = get_parts(otr_file, regexes, custom)
-        # print(file_parts)
+        if date_re and (formated_date := get_date(date_re, otr_file)):
+            # print("date:", formated_date)
+            parts.append(formated_date)
 
-        name = template.format(
-            show=slug(file_parts.show),
-            date=file_parts.date,
-            number=file_parts.number,
-            episode=slug(file_parts.episode),
-            file_type=otr_file.suffix,
-            padding=padding,
-            sep=sep,
-        )
-        print(f"[green]{name}")
+        if number_re and (formated_number := get_number(number_re, otr_file, padding)):
+            # print("number:", formated_number)
+            parts.append(formated_number)
+
+        if episode_re and (formated_episode := get_episode(episode_re, otr_file)):
+            # print("episode:", formated_episode)
+            parts.append(formated_episode)
+
+        # print(parts)
+        tags = mutagen.File(otr_file)
+        for tag in tags:
+            print(tag, tags[tag])
+        # pp(tags)
+
+        print(parts)
+        parts = [re.sub(r"[-_ ]+", "-", i).lower() for i in parts]
+        new = "--".join(parts) + otr_file.suffix
+        console.print(f"[blue]{otr_file}")
+        console.print(f"{new}", style="green")
 
         print()
 
-    # print(__name__, cmd)
+    cmd = shlex.join(sys.argv[:])
     cmd_log_file = Path("otr-cmd.log")
-    with open(cmd_log_file, "w") as f:
+    with open(cmd_log_file, "a") as f:
         f.write(f"[{datetime.datetime.now()}] otr {cmd}\n")
-        # for file in files:
-        #     f.write(f"{file}\n")
-        # f.write("\n")
