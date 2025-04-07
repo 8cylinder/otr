@@ -1,0 +1,73 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313810",
+      "date": "1939-06-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Question - How Many Keys On A Piano"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hour of Musical Fun",
+          "name": "Hour of Musical Fun 390604 01 1st Question - How Many Keys On A Piano_OTRRPG.mp3",
+          "time": "1750",
+          "size": "28079968"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Hour of Musical Fun 39-06-04 First Show of Series.mp3",
+          "time": "1752",
+          "size": "14018141"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hour of Musical Fun"
+    }
+  ]
+}

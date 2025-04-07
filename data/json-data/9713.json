@@ -1,0 +1,84 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,774947,00.html",
+      "label": "1944-05-01: Stilwell's Program",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [
+    {
+      "synopsis": "War Correspondents interview American Forces Members in Asian Theater of World War 2."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "247319",
+      "date": "1945-01-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yanks In The Orient"
+        }
+      ],
+      "files": [
+        {
+          "path": "Y",
+          "folder": "Yanks In The Orient",
+          "name": "Yanks In The Orient 1945.01.14 Yanks In The Orient.mp3",
+          "time": "926",
+          "size": "3810161"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Information"
+    },
+    {
+      "genre": "War"
+    },
+    {
+      "genre": "Interview"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-10-01",
+      "dow": "Su",
+      "time": "11:15 PM",
+      "end": "1945-07-15",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Yanks in the Orient"
+    }
+  ]
+}

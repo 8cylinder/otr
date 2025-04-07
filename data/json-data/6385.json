@@ -1,0 +1,125 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "47155",
+      "first": "Hooper",
+      "last": "White",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "47155",
+      "first": "Hooper",
+      "last": "White",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "6906",
+      "first": "Ethel",
+      "last": "Owen",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "246706",
+      "date": "0000-00-00",
+      "epnum": "545",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Morning Melodies - Guest - The Three Suns"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Morning Melodies",
+          "name": "Morning Melodies 19xx.xx.xx Guests The Three Suns.mp3",
+          "time": "938",
+          "size": "3859971"
+        }
+      ]
+    },
+    {
+      "ide": "246705",
+      "date": "0000-00-00",
+      "epnum": "546",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Morning Melodies - Guest - Art Van Damme Quintet"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Morning Melodies",
+          "name": "Morning Melodies 19xx.xx.xx Guests Art Van Damme Quintet.mp3",
+          "time": "933",
+          "size": "3841386"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1951-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Morning Melodies"
+    }
+  ]
+}

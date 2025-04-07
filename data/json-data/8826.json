@@ -1,0 +1,106 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "36496",
+      "first": "Texas Jim",
+      "last": "Robertson",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Country Music"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-03-18",
+      "dow": "Su",
+      "time": "8:00 PM",
+      "end": "1940-10-26",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1941-05-10",
+      "dow": "Su",
+      "time": "9:00 AM",
+      "end": "1941-07-12",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1941-07-15",
+      "dow": "M,Tu,W,Th,F",
+      "time": "8:30 AM",
+      "end": "1941-09-26",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1946-11-09",
+      "dow": "",
+      "time": "12:00 PM",
+      "end": "1947-03-15",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1947-06-14",
+      "dow": "",
+      "time": "12:00 PM",
+      "end": "1947-09-20",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Texas Jim Robertson"
+    }
+  ]
+}

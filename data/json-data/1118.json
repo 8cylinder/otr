@@ -1,0 +1,100 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "331336",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hosanna"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Band Box Orchestra",
+          "name": "The Band Box Orchestra - 193x-xx-xx First Song - Hosanna.mp3",
+          "time": "847",
+          "size": "33889073"
+        },
+        {
+          "path": "B",
+          "folder": "Band Box Orchestra",
+          "name": "The Band Box Orchestra - 193x-xx-xx First Song - Hosanna.flac",
+          "time": "847",
+          "size": "45573818"
+        }
+      ]
+    },
+    {
+      "ide": "331337",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Smile at the Cockeyed World"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Band Box Orchestra",
+          "name": "The Band Box Orchestra - 193x-xx-xx First Song - Smile at the Cockeyed World.mp3",
+          "time": "843",
+          "size": "33758513"
+        },
+        {
+          "path": "B",
+          "folder": "Band Box Orchestra",
+          "name": "The Band Box Orchestra - 193x-xx-xx First Song - Smile at the Cockeyed World.flac",
+          "time": "844",
+          "size": "45139288"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Band Box Revue"
+    }
+  ]
+}

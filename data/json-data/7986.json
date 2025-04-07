@@ -1,0 +1,83 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "45635",
+      "first": "C. L.",
+      "last": "Fenton",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "45636",
+      "first": "Dr. Forest Ray",
+      "last": "Fenton",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-10-10",
+      "dow": "M",
+      "time": "7:45 PM",
+      "end": "1939-11-06",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1939-10-09",
+      "dow": "M",
+      "time": "7:15 PM",
+      "end": "1940-02-12",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Science on the March"
+    }
+  ]
+}

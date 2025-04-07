@@ -1,0 +1,221 @@
+{
+  "avail": [
+    {
+      "avail": "6",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/I Series/It Pays To Be Married/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-5055-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5670",
+      "first": "Jay",
+      "last": "Stewart",
+      "f": "Noted Role",
+      "character": "Emcee"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "82887",
+      "date": "1953-07-20",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr and Mrs Charles Fronk"
+        },
+        {
+          "title": "Where Is the Lowest Land Surface in the World?"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "It Pays To Be Married",
+          "name": "IPTBM 53-07-20 #xxx Mr. and Mrs. Charles Fronk.mp3",
+          "time": "863",
+          "size": "5179299"
+        }
+      ]
+    },
+    {
+      "ide": "82888",
+      "date": "1953-09-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "82889",
+      "date": "1954-01-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr and Mrs Irwin T Porter"
+        },
+        {
+          "title": "Mr. and Mrs. Jimmy Wakely"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "It Pays To Be Married",
+          "name": "IPTBM 54-01-15 #xxx Mr. and Mrs. Irwin T. Porter.mp3",
+          "time": "858",
+          "size": "5147789"
+        }
+      ]
+    },
+    {
+      "ide": "82890",
+      "date": "1954-01-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr and Mrs John Scovern"
+        },
+        {
+          "title": "Gadget-Filled Kitchen"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "It Pays To Be Married",
+          "name": "IPTBM 54-01-27 #xxx Mr. and Mrs. John Scovern.mp3",
+          "time": "856",
+          "size": "5136243"
+        }
+      ]
+    },
+    {
+      "ide": "82891",
+      "date": "1954-02-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Is Danny Thomas"
+        },
+        {
+          "title": "The Story of Danny Thomas"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "It Pays To Be Married",
+          "name": "IPTBM 54-02-25 #xxx Guest is Danny Thomas.mp3",
+          "time": "805",
+          "size": "4831417"
+        }
+      ]
+    },
+    {
+      "ide": "82892",
+      "date": "1954-03-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phil Harris & Alice Faye"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "It Pays To Be Married",
+          "name": "It Pays To Be Married 54-03-08_Phil Harris & Alice Faye.mp3",
+          "time": "861",
+          "size": "5168848"
+        }
+      ]
+    },
+    {
+      "ide": "82893",
+      "date": "1955-04-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Game Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1953-09-28",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1955-05-27",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "It Pays to Be Married"
+    }
+  ]
+}

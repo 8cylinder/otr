@@ -1,0 +1,100 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312331",
+      "date": "0000-00-00",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tom Was Almost Late"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Howard and Shelton",
+          "name": "Howard & Shelton For Royal Crown 41xxxx 075 Tom Was Almost Late (192-44)_OTRRPG.mp3",
+          "time": "307",
+          "size": "7386612"
+        },
+        {
+          "path": "H",
+          "folder": "Howard and Shelton",
+          "name": "Howard And Shelton For Royal Crown 41-xx-xx (75).mp3",
+          "time": "302",
+          "size": "2419924"
+        }
+      ]
+    },
+    {
+      "ide": "312332",
+      "date": "0000-00-00",
+      "epnum": "80",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In the Hotel Business"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Howard and Shelton",
+          "name": "Howard & Shelton For Royal Crown 41xxxx 080 In the Hotel Business (192-44)_OTRRPG.mp3",
+          "time": "306",
+          "size": "7346548"
+        },
+        {
+          "path": "H",
+          "folder": "Howard and Shelton",
+          "name": "Howard and Shelton for Royal Crown 41-xx-xx (80).mp3",
+          "time": "300",
+          "size": "2398708"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Howard and Shelton"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/N Series/Nelson Olmsted's Short Stories/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Norman Olmstead is also known as Norman Olmsted which probably accounts for this program also being known as Stories by Olmsted (as in Terrace's Radio's Golden Years)."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "1897",
+      "first": "Norman",
+      "last": "Felton",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "4498",
+      "first": "Nelson",
+      "last": "Olmsted",
+      "f": "Noted Role",
+      "character": "Storyteller"
+    },
+    {
+      "idperson": "4498",
+      "first": "Nelson",
+      "last": "Olmsted",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1946-03-09",
+      "dow": "Sa",
+      "time": "2:45 PM",
+      "end": "1946-09-20",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1947-06-13",
+      "dow": "F",
+      "time": "8:30 PM",
+      "end": "1947-06-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1947-10-19",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1948-07-16",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Stories By Olmstead"
+    }
+  ]
+}

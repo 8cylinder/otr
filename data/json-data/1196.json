@@ -1,0 +1,299 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "FLYS"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Five_Star_Theater",
+      "label": "Wikipedia",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3875",
+      "first": "Chico",
+      "last": "Marx",
+      "f": "Noted Role",
+      "character": "Emmanuel Ravelli"
+    },
+    {
+      "idperson": "3876",
+      "first": "Groucho",
+      "last": "Marx",
+      "f": "Noted Role",
+      "character": "Waldorf T. Flywheel"
+    },
+    {
+      "idperson": "4365",
+      "first": "Frank",
+      "last": "Nelson",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321384",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain John Smith"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321385",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Convict Ravelli"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321386",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crexton Mansion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321387",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flywheel And Juliet"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321388",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Going Hollywood"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321389",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Miracle On Eatwell Street"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321390",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One Round Goombatz"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258083",
+      "date": "1990-06-09",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Theatre Company, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258075",
+      "date": "1990-06-16",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Joe Crookley"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258079",
+      "date": "1990-06-23",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Foo Foo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258082",
+      "date": "1990-06-30",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prize Fighter, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258077",
+      "date": "1990-07-07",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Election, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258076",
+      "date": "1991-05-11",
+      "epnum": "201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doctor Hackenbush"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258085",
+      "date": "1991-05-18",
+      "epnum": "202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Uncle Abner"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258080",
+      "date": "1992-07-11",
+      "epnum": "301",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Haunted House, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258081",
+      "date": "1992-07-18",
+      "epnum": "302",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Laughing Hyena"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258084",
+      "date": "1992-07-25",
+      "epnum": "303",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tour Bus, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258078",
+      "date": "1992-08-15",
+      "epnum": "306",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flywheel at Christmas"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258086",
+      "date": "1992-08-22",
+      "epnum": "307",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Uncle Abner"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1932-11-28",
+      "dow": "M",
+      "time": "7:30 PM",
+      "end": "1933-05-22",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Flywheel Shyster Flywheel"
+    },
+    {
+      "title": "Beagle, Shyster, and Beagle"
+    }
+  ]
+}

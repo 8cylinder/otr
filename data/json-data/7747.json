@@ -1,0 +1,124 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "RLAW"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Rip Lawson, Adventurer/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "642",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1994-06-01",
+      "source": "Illustrated Press/IP_213.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #213 Jun 94",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "289909",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Black Shark, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rip Lawson, Adventurer",
+          "name": "Rip Lawson,  Adventurer xx-xx-xx (01) The Black Shark.mp3",
+          "time": "788",
+          "size": "3151757"
+        }
+      ]
+    },
+    {
+      "ide": "289910",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dalai Lama, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rip Lawson, Adventurer",
+          "name": "Rip Lawson,  Adventurer xx-xx-xx (37) The Dalai Lama.mp3",
+          "time": "778",
+          "size": "4669774"
+        }
+      ]
+    },
+    {
+      "ide": "289911",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Experiment, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rip Lawson, Adventurer",
+          "name": "Rip Lawson,  Adventurer xx-xx-xx (38) The Experiment.mp3",
+          "time": "969",
+          "size": "5814407"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Rip Lawson, Adventurer"
+    }
+  ]
+}

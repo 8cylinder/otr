@@ -1,0 +1,2340 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324162954-640aaf91.jpg",
+      "label": "Family Robinson",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324163000-7744526d.jpg",
+      "label": "Family Robinson #2",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185557-955ebde4.jpg",
+      "label": "American Family Robinson CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185558-410acf57.jpg",
+      "label": "American Family Robinson CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185559-969567b7.jpg",
+      "label": "American Family Robinson CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-739-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,761613,00.html",
+      "label": "1939-07-03: From Headquarters",
+      "idtype": "11"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/American Family Robinson",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "42059",
+      "first": "Douglas",
+      "last": "Silver",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "45765",
+      "first": "Marjorie",
+      "last": "Barlett",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7511",
+      "first": "Eunice",
+      "last": "Howard",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "307258",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke to Mr. Merriweather"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xxxxxx xxx Luke to Mr. Merriweather.mp3",
+          "time": "881",
+          "size": "10574842"
+        }
+      ]
+    },
+    {
+      "ide": "312404",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke to Mr. Merriweather; I'm Proud to be a Businessman"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson xxxxxx xxx Luke to Mr. Merriweather; I'm Proud to be a Businessman_OTRRPG.mp3",
+          "time": "881",
+          "size": "14099216"
+        }
+      ]
+    },
+    {
+      "ide": "329786",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "At the Club, Mr. Merryweather Criticizes Luke's Newspaper"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xxxxxx xxx At the Club, Mr. Merryweather Criticizes Luke's Newspaper.mp3",
+          "time": "880",
+          "size": "14158228"
+        }
+      ]
+    },
+    {
+      "ide": "22892",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "22891",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "22873",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "22149",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "307257",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gus the Bodyguard is Offered a Job"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (40).mp3",
+          "time": "890",
+          "size": "7120769"
+        }
+      ]
+    },
+    {
+      "ide": "22144",
+      "date": "0000-00-00",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wendy Takes Part In The Ceremony"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (48).mp3",
+          "time": "889",
+          "size": "7111992"
+        }
+      ]
+    },
+    {
+      "ide": "22143",
+      "date": "0000-00-00",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Offers Wendy A Job"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (49).mp3",
+          "time": "877",
+          "size": "7016697"
+        }
+      ]
+    },
+    {
+      "ide": "22148",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "22142",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bill's Opportunity as Contact Manager"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (50).mp3",
+          "time": "900",
+          "size": "7197465"
+        }
+      ]
+    },
+    {
+      "ide": "22855",
+      "date": "0000-00-00",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Takes His Vacation"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (53).mp3",
+          "time": "871",
+          "size": "6964452"
+        }
+      ]
+    },
+    {
+      "ide": "22147",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "22146",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "22145",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "22929",
+      "date": "1940-03-31",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Has His Troubles as Manager of Aunt Agatha's Emporium"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22930",
+      "date": "1940-03-31",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Has Hired 'The Baron', with the Help of Twink"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22931",
+      "date": "1940-04-07",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke, Myra, Emmy Lou and 'The Baron' Are Discussing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22932",
+      "date": "1940-04-07",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aunt Agatha Has Bought the Radio Station"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22933",
+      "date": "1940-04-14",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "At Station W I N K in Birch Falls, Aunt Agatha Goes On"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22934",
+      "date": "1940-04-14",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aunt Agatha's Broadcasts Are Stopped by Laryngitis"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22935",
+      "date": "1940-05-05",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aunt Agatha Takes over as Manager of the Emporium"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22936",
+      "date": "1940-05-05",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Finds a Cache of Fishing Rods"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22937",
+      "date": "1940-05-12",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Windy Bill Is Blown off the Air by 'Atmospheric Disturbance,'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22939",
+      "date": "1940-05-19",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Twink Pennypacker's Scheme to Get Windy and Monty Off"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22940",
+      "date": "1940-05-19",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Windy and Monty Have a Free-for-all in the Store"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22941",
+      "date": "1940-05-26",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Wants to Find out What's Going On"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22942",
+      "date": "1940-05-26",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Goes Down to the Post Office to Catch Windy Picking"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22943",
+      "date": "1940-06-02",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Learns That Windy's Scheme Is to Get Twink Pennypacker"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400602 038 Luke Learns That Windy's_OTRRPG.mp3",
+          "time": "869",
+          "size": "13982187"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (38).mp3",
+          "time": "871",
+          "size": "6969259"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-06-02 (39) While Myra's House cleaning, Luke tells her how America's.mp3",
+          "time": "880",
+          "size": "7036550"
+        }
+      ]
+    },
+    {
+      "ide": "22944",
+      "date": "1940-06-02",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Myra's House Cleaning"
+        },
+        {
+          "title": "While Myra's House Cleaning, Luke Tells Her How America's"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400602 039 While Myra's House Cleaning, Luke Tells Her How America's_OTRRPG.mp3",
+          "time": "880",
+          "size": "14073984"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (39).mp3",
+          "time": "880",
+          "size": "7036550"
+        }
+      ]
+    },
+    {
+      "ide": "312398",
+      "date": "1940-06-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "While Luke And Myra Talk"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400609 040 While Luke And Myra Talk_OTRRPG.mp3",
+          "time": "888",
+          "size": "14284789"
+        }
+      ]
+    },
+    {
+      "ide": "22945",
+      "date": "1940-06-09",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Explains the Merits of Business Competition"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400609 041 Luke Explains The Merits of Business Competition_OTRRPG.mp3",
+          "time": "948",
+          "size": "15171712"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (41).mp3",
+          "time": "948",
+          "size": "7585749"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-06-09 (40) Wile Luke and Myra talk about their problems, Luke.mp3",
+          "time": "890",
+          "size": "7120769"
+        }
+      ]
+    },
+    {
+      "ide": "22947",
+      "date": "1940-06-16",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke and Aunt Agatha Discuss the Debacle in the Mayor's"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400616 042 Luke and Aunt Agatha Discuss The Debacle In The Mayor's_OTRRPG.mp3",
+          "time": "882",
+          "size": "14112896"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (42).mp3",
+          "time": "882",
+          "size": "7055776"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-06-16 (43) Luke comes home at lunchtime, depressed over the three.mp3",
+          "time": "885",
+          "size": "7083362"
+        }
+      ]
+    },
+    {
+      "ide": "22948",
+      "date": "1940-06-16",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Comes Home at Lunchtime"
+        },
+        {
+          "title": "Luke Comes Home At Lunch"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400616 043 Luke Comes Home At Lunch_OTRRPG.mp3",
+          "time": "883",
+          "size": "14209975"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (43).mp3",
+          "time": "885",
+          "size": "7083362"
+        }
+      ]
+    },
+    {
+      "ide": "22949",
+      "date": "1940-06-23",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aunt Agatha Decides to Make Twink the Singing Star"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "312399",
+      "date": "1940-07-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wendy Takes Part In The Ceremony"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400707 048 Wendy Takes Part In The Ceremony_OTRRPG.mp3",
+          "time": "887",
+          "size": "14267661"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-07-07 (48).mp3",
+          "time": "889",
+          "size": "7111992"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-07-07 (49).mp3",
+          "time": "877",
+          "size": "7016697"
+        }
+      ]
+    },
+    {
+      "ide": "312400",
+      "date": "1940-07-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke offers Wendy A Job"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400707 049 Luke offers Wendy A Job_OTRRPG.mp3",
+          "time": "875",
+          "size": "14076645"
+        }
+      ]
+    },
+    {
+      "ide": "22888",
+      "date": "1940-07-14",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Lesson on Capitalism"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-07-14 (51).mp3",
+          "time": "866",
+          "size": "6930807"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-07-14 (50).mp3",
+          "time": "900",
+          "size": "7197465"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (51).mp3",
+          "time": "866",
+          "size": "6930807"
+        }
+      ]
+    },
+    {
+      "ide": "312401",
+      "date": "1940-07-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Decides To Take His"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400721 053 Luke Decides To Take His_OTRRPG.mp3",
+          "time": "847",
+          "size": "13633191"
+        }
+      ]
+    },
+    {
+      "ide": "22884",
+      "date": "1940-07-21",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Myrna's Popularity As A Radio Speaker"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400721 052 Myra's Popularity As A R_OTRRPG.mp3",
+          "time": "843",
+          "size": "13562556"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (52).mp3",
+          "time": "889",
+          "size": "7113873"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-07-21 (52).mp3",
+          "time": "845",
+          "size": "6759443"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-07-21 (53).mp3",
+          "time": "849",
+          "size": "6794970"
+        }
+      ]
+    },
+    {
+      "ide": "22951",
+      "date": "1940-07-28",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Myra Has Taken up a Radio Career"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400728 054 Myra Has Taken up a Radio Career_OTRRPG.mp3",
+          "time": "854",
+          "size": "13660288"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (54).mp3",
+          "time": "885",
+          "size": "7083153"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-07-28 (54) Myra Has Taken up a Radio Career.mp3",
+          "time": "854",
+          "size": "6829661"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-07-28 (55) Luke and 'The Baron get bread a.mp3",
+          "time": "874",
+          "size": "6990157"
+        }
+      ]
+    },
+    {
+      "ide": "22952",
+      "date": "1940-07-28",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke and 'The Baron' Get Bread and Water for Dinner"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400728 055 Luke and 'The Baron' Get Bread and Water For Dinner_OTRRPG.mp3",
+          "time": "858",
+          "size": "13723776"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (55).mp3",
+          "time": "874",
+          "size": "6990157"
+        }
+      ]
+    },
+    {
+      "ide": "22953",
+      "date": "1940-08-04",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Myra Turns up and Identifies Luke, Getting Him Out"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400804 056 Myra Turns Up And Identifies Luke, Getting Him Out_OTRRPG.mp3",
+          "time": "865",
+          "size": "13925788"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (56).mp3",
+          "time": "868",
+          "size": "6941047"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-08-04 (57) Myra can't get a train back to B.mp3",
+          "time": "874",
+          "size": "6992665"
+        }
+      ]
+    },
+    {
+      "ide": "22954",
+      "date": "1940-08-04",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Myra Can't Get a Train Back to Birch Falls for Three"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400804 057 Myra Can't Get A Train Back To Birch Falls For Three_OTRRPG.mp3",
+          "time": "872",
+          "size": "14028608"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (57).mp3",
+          "time": "874",
+          "size": "6992665"
+        }
+      ]
+    },
+    {
+      "ide": "22955",
+      "date": "1940-08-11",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aunt Agatha Shows up on the Train from Birch Falls"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400811 058 Aunt Agatha Shows Up On The Train From Birch Falls_OTRRPG.mp3",
+          "time": "873",
+          "size": "14055356"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (58).mp3",
+          "time": "876",
+          "size": "7006039"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-08-11 (59) Luke and 'The Baron' are desparate.mp3",
+          "time": "869",
+          "size": "6950660"
+        }
+      ]
+    },
+    {
+      "ide": "22956",
+      "date": "1940-08-11",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke and 'The Baron' Are Desperately Trying to Get"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400811 059 Luke And 'The Baron' Are Desperately Trying To Get_OTRRPG.mp3",
+          "time": "867",
+          "size": "13945014"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (59).mp3",
+          "time": "869",
+          "size": "6950660"
+        }
+      ]
+    },
+    {
+      "ide": "22957",
+      "date": "1940-08-18",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Myra Has a Surprise Broadcast Planned Not Only For"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400818 060 Myra Has A Surprise Broadcast Planned Not Only For_OTRRPG.mp3",
+          "time": "874",
+          "size": "14058699"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (60).mp3",
+          "time": "876",
+          "size": "7007502"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-08-18 (61) After several days, Luke and Myra.mp3",
+          "time": "871",
+          "size": "6970931"
+        }
+      ]
+    },
+    {
+      "ide": "22958",
+      "date": "1940-08-18",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After Several Days, Luke and Myra Finally Kiss And"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400818 061 After Several Days, Luke And Myra Finally Kiss And_OTRRPG.mp3",
+          "time": "869",
+          "size": "13985139"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (61).mp3",
+          "time": "871",
+          "size": "6970931"
+        }
+      ]
+    },
+    {
+      "ide": "22959",
+      "date": "1940-08-25",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aunt Agatha, Myra, and 'The Baron' Go off on a Hike"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400825 062 Aunt Agatha, Myra, And 'The Baron' Go off On A Hike_OTRRPG.mp3",
+          "time": "873",
+          "size": "14049087"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (62).mp3",
+          "time": "875",
+          "size": "7002905"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-08-25 (63) Luke's become too much of a help.mp3",
+          "time": "854",
+          "size": "6836348"
+        }
+      ]
+    },
+    {
+      "ide": "22960",
+      "date": "1940-08-25",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke's Become Too Much of a Helpful Husband, Myra And"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400825 063 Luke's Become Too Much of a Helpful Husband_OTRRPG.mp3",
+          "time": "854",
+          "size": "13672576"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (63).mp3",
+          "time": "854",
+          "size": "6836348"
+        }
+      ]
+    },
+    {
+      "ide": "312402",
+      "date": "1940-09-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke's Resolve To Be An Ideal Husband Has Turned The Tide"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400901 064 Luke's Resolve To Be An Ideal Husband Has Turned The Tide_OTRRPG.mp3",
+          "time": "843",
+          "size": "13573038"
+        }
+      ]
+    },
+    {
+      "ide": "22961",
+      "date": "1940-09-01",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke and Myra Continue Their Personal War in the Truck"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400901 065 Luke And Myra Continue Their Personal War In The Truck_OTRRPG.mp3",
+          "time": "846",
+          "size": "13612323"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-09-01 (65) Luke and Myra Continue Their Personal War in the Truck.mp3",
+          "time": "848",
+          "size": "6784312"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-09-01 (64) Luke's Resolve to Be an Ideal Husband Has Turned The Tide.mp3",
+          "time": "846",
+          "size": "6764668"
+        }
+      ]
+    },
+    {
+      "ide": "22963",
+      "date": "1940-09-08",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Agatha Lays Down the Law to Windy - Get That Stuff Out"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22964",
+      "date": "1940-09-08",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vying for Radio Popularity Is Wreaking Havoc with Luke"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22965",
+      "date": "1940-09-15",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Show Is On, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400915 068 The Big Show Is On_OTRRPG.mp3",
+          "time": "898",
+          "size": "14373028"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (68).mp3",
+          "time": "898",
+          "size": "7181582"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-09-15 (69) Mr. Popplemeyer is trying to hire.mp3",
+          "time": "876",
+          "size": "7005621"
+        }
+      ]
+    },
+    {
+      "ide": "22966",
+      "date": "1940-09-15",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Popplemeyer Is Trying to Hire Windy Away from The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 400915 069 Mr Popplemeyer Is Trying To Hire Windy Away From The_OTRRPG.mp3",
+          "time": "873",
+          "size": "14054940"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (69).mp3",
+          "time": "876",
+          "size": "7005621"
+        }
+      ]
+    },
+    {
+      "ide": "22894",
+      "date": "1940-09-22",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Dick an Heir to an Irish Fortune?"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-09-22 (70).mp3",
+          "time": "890",
+          "size": "7119306"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (70).mp3",
+          "time": "890",
+          "size": "7119306"
+        }
+      ]
+    },
+    {
+      "ide": "22893",
+      "date": "1940-09-29",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dick is Off to Chicago"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (71).mp3",
+          "time": "891",
+          "size": "7126412"
+        }
+      ]
+    },
+    {
+      "ide": "22967",
+      "date": "1940-10-06",
+      "epnum": "74",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Popplemeyer Tries to Discredit Luke and Myra By"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22968",
+      "date": "1940-10-06",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Is Reluctant to Leave the Store for Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22969",
+      "date": "1940-10-13",
+      "epnum": "76",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke's Had All He Can Take Being Polite with Myra"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 401013 076 Luke's Had All He Can Take Being Polite With Myra_OTRRPG.mp3",
+          "time": "845",
+          "size": "13601033"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-10-13 (77) Luke Leaves Birch Falls on a Train.mp3",
+          "time": "857",
+          "size": "6854111"
+        },
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "Family Robinson xx-xx-xx (76) Dick returns from Chicago, announcing he has inherited an estate.mp3",
+          "time": "881",
+          "size": "10573590"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-10-13 (76) Luke's Had All He Can Take Being Polite with Myra.mp3",
+          "time": "847",
+          "size": "6778670"
+        }
+      ]
+    },
+    {
+      "ide": "22970",
+      "date": "1940-10-13",
+      "epnum": "77",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Leaves Birch Falls on a Train"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 401013 077 Luke Leaves Birch Falls on a Train_OTRRPG.mp3",
+          "time": "857",
+          "size": "13709440"
+        }
+      ]
+    },
+    {
+      "ide": "312403",
+      "date": "1940-10-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Is In A Very Quiet Hotel"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 401020 078 Luke Is In A Very Quiet Hotel_OTRRPG.mp3",
+          "time": "849",
+          "size": "13667469"
+        }
+      ]
+    },
+    {
+      "ide": "22971",
+      "date": "1940-10-20",
+      "epnum": "79",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All the Customers Are Wondering Where Luke Is"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 401020 079 All The Customers Are Wondering Where Luke Is_OTRRPG.mp3",
+          "time": "857",
+          "size": "13726055"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-10-20 (79) All the Customers Are Wondering Where Luke Is.mp3",
+          "time": "857",
+          "size": "6858082"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-10-20 (78) Luke Is in a Very Quiet Hotel.mp3",
+          "time": "851",
+          "size": "6811897"
+        }
+      ]
+    },
+    {
+      "ide": "22973",
+      "date": "1940-10-27",
+      "epnum": "80",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poor Lonely Luke, He's Regretting the Loss of Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 401027 080 Poor Lonely Luke, He's Regretting The Loss of Home_OTRRPG.mp3",
+          "time": "849",
+          "size": "13658712"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-10-27 (81) The Emporium's Women Customers Are Remaining Loyal.mp3",
+          "time": "846",
+          "size": "6771355"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-10-27 (80) Poor Lonely Luke, He's Regretting the Loss of Home.mp3",
+          "time": "851",
+          "size": "6807718"
+        }
+      ]
+    },
+    {
+      "ide": "22974",
+      "date": "1940-10-27",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Emporium's Women Customers Are Remaining Loyal, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 401027 081 The Emporium's Women Customers Are Remaining Loyal_OTRRPG.mp3",
+          "time": "844",
+          "size": "13585987"
+        }
+      ]
+    },
+    {
+      "ide": "22975",
+      "date": "1940-11-03",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Has Walked out on Myra, and Is Homesick"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 401103 082 Luke Has Walked out on Myra, and Is Homesick_OTRRPG.mp3",
+          "time": "858",
+          "size": "13746534"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-11-03 (83) Luke Is Taking the Train Back to Birch Falls.mp3",
+          "time": "843",
+          "size": "6741053"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson 40-11-03 (82) Luke Has Walked out on Myra, and Is Homesick.mp3",
+          "time": "858",
+          "size": "6868113"
+        }
+      ]
+    },
+    {
+      "ide": "22976",
+      "date": "1940-11-03",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Is Taking the Train Back to Birch Falls"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 401103 083 Luke Is Taking The Train Back To Birch Falls_OTRRPG.mp3",
+          "time": "840",
+          "size": "13525795"
+        }
+      ]
+    },
+    {
+      "ide": "22977",
+      "date": "1940-11-10",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Is Determined to Stay Home, No Matter What Happens"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 34xxxx 084 Gus Olson is Really The Heir To The Inheritance_OTRRPG.mp3",
+          "time": "878",
+          "size": "14129339"
+        },
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 401110 084 Luke Is Determined To Stay Home, No Matter What Happens_OTRRPG.mp3",
+          "time": "880",
+          "size": "14086272"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (84).mp3",
+          "time": "880",
+          "size": "7043029"
+        }
+      ]
+    },
+    {
+      "ide": "22978",
+      "date": "1940-11-10",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Myra Tries to Convince Luke to Have a Public Reconciliation"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 34xxxx 085 A Disguised Windy Bill Visits Dick In Jail_OTRRPG.mp3",
+          "time": "877",
+          "size": "14118895"
+        },
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 401110 085 Myra Tries To Convince Luke To Have a Public Reconciliation_OTRRPG.mp3",
+          "time": "880",
+          "size": "14076032"
+        },
+        {
+          "path": "A",
+          "folder": "American Family Robinson",
+          "name": "American Family Robinson xx-xx-xx (85).mp3",
+          "time": "880",
+          "size": "7037595"
+        }
+      ]
+    },
+    {
+      "ide": "22979",
+      "date": "1940-11-17",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robinsons Are Leaving Birch Falls Today, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22980",
+      "date": "1940-11-17",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robinsons Are on the Train Returning to Centerville, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22981",
+      "date": "1940-11-24",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gus Tells Luke How the Herald Was Allowed to Run Down"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22982",
+      "date": "1940-11-24",
+      "epnum": "89",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Now Owns a Half Interest in the Hearld"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22983",
+      "date": "1940-12-01",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Faye Mulligan Has Written Her First 'Bed-time Story'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22985",
+      "date": "1940-12-08",
+      "epnum": "92",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Betty and Her Daughter Pudgy Add to the Stress of Family"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22986",
+      "date": "1940-12-08",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Windy Bill Is Back"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22987",
+      "date": "1940-12-15",
+      "epnum": "95",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Is Checking up on the Competition"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22989",
+      "date": "1940-12-22",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Myra Has Peruaded Mrs Rubotham to Support the Soap"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22991",
+      "date": "1940-12-29",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It's the Day of the Big Race"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22992",
+      "date": "1940-12-29",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Becker of the Eagle Makes Joe Spivak Admit That"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22993",
+      "date": "1941-01-05",
+      "epnum": "100",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke and Gus Try to Figure out What to Do Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22994",
+      "date": "1941-01-05",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Becker Plans to Print the Whole Story in the Eagle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22995",
+      "date": "1941-01-12",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Both Becker and Luke Try to Sell Mr Slap More Advertising"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22997",
+      "date": "1941-01-19",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What the Herald Needs More Than Ever Is Advertising"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22998",
+      "date": "1941-01-19",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Tries to See 'Cousin Willie,'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22999",
+      "date": "1941-01-26",
+      "epnum": "107",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Arranges for Hundred of Phoney Fan Letters"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23001",
+      "date": "1941-02-02",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke and Windy Bill Visit the Home of Mr Slap"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23003",
+      "date": "1941-02-09",
+      "epnum": "111",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brilliant Idea Is Needed to Get Publicity for Centerville, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23005",
+      "date": "1941-02-16",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Centerville, the City Beautiful"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23007",
+      "date": "1941-02-23",
+      "epnum": "115",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Al Stump Is in Hollywood Trying to Sell the Idea Of"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23009",
+      "date": "1941-03-09",
+      "epnum": "118",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Robinson Is Feeling Sickly"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23010",
+      "date": "1941-03-09",
+      "epnum": "119",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Sloat of Stupendous Pictures Refuses to Accept Windy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23011",
+      "date": "1941-03-23",
+      "epnum": "123",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Has Been with Joe Sloat in His Hospital Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23013",
+      "date": "1941-03-30",
+      "epnum": "125",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Joe Sloat Has Taken over Myra's Sitting Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23015",
+      "date": "1941-04-06",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Owner of a Shipyard Asks Mr Robinson's Advice, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23017",
+      "date": "1941-04-13",
+      "epnum": "128",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lutitia Olsen Wants to Be in the Picture Too"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23018",
+      "date": "1941-04-13",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Windy Bill Meets the Robinsons Down at the Antler Hotel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23019",
+      "date": "1941-04-20",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke's Working on the Picture with Mr Sloat"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23020",
+      "date": "1941-04-20",
+      "epnum": "131",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Is Now Running the Centerville Herald"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23021",
+      "date": "1941-04-27",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Convinces Mr Sloat That Myra's Publicity Is Good"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23023",
+      "date": "1941-05-04",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Telegram from the Head of the Studio, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23025",
+      "date": "1941-05-11",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Opening Deleted, Synopsis Affected, Story Line Is Complete"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23026",
+      "date": "1941-05-11",
+      "epnum": "137",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Program Opening Has Been Deleted, Synopsis Affected, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23027",
+      "date": "1941-05-18",
+      "epnum": "138",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After the Disastrous Movie Opening, Eveyone Leaves"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23028",
+      "date": "1941-05-18",
+      "epnum": "139",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Tells About the Need for Sacrifices"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23029",
+      "date": "1941-05-25",
+      "epnum": "140",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After Trying to Pump Confidence Back into Luke, Myra's"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23030",
+      "date": "1941-05-25",
+      "epnum": "141",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Slaps Tells Luke That He's Seen the Whole Movie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23031",
+      "date": "1941-06-01",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robinsons, Windy Bill and Pudgie Are on the Road, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Family Robinson",
+          "name": "American Family Robinson 410601 142 The Robinsons, Windy Bill And Pudgie Are On The Road_OTRRPG.mp3",
+          "time": "845",
+          "size": "13602526"
+        }
+      ]
+    },
+    {
+      "ide": "23032",
+      "date": "1941-06-01",
+      "epnum": "143",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Myra's Found a 'Heroine of the Defense Department'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23033",
+      "date": "1941-06-08",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "At a Gas Staion in the Desert, Windy Bill Meets His"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23034",
+      "date": "1941-06-08",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robinsons' Are in a Tourist Camp in the Rockies, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23035",
+      "date": "1941-06-15",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Windy Has Worked His First Full Day at the Copper Mine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23036",
+      "date": "1941-06-15",
+      "epnum": "147",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robinsons' Are on the Road Again, Heading for Hollywood, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23037",
+      "date": "1941-06-22",
+      "epnum": "148",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Windy Got out of the Car and Went into a Pool Hall"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23038",
+      "date": "1941-06-22",
+      "epnum": "149",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Windy Has Beaten One of the Locals in a Pool Game"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23039",
+      "date": "1941-06-29",
+      "epnum": "151",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "While in a Lunchroom, Luke, Myra and Windy Bill Debate"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23041",
+      "date": "1941-07-06",
+      "epnum": "152",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In His Haste to Get Away from the Greasewood Boys"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23042",
+      "date": "1941-07-06",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke, Myra, and Little Pudgie Are Now on a Dusty Day-coach"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23043",
+      "date": "1941-07-13",
+      "epnum": "154",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke, Myra and Pudgie Finally Arrive in Los Angeles"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23044",
+      "date": "1941-07-13",
+      "epnum": "155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Myra's Finally Arrived at Stupendous Studios"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23045",
+      "date": "1941-07-20",
+      "epnum": "156",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "As Luke and Myra Are About to Leave for Her Reception"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23046",
+      "date": "1941-07-20",
+      "epnum": "157",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke Rushes Back to Myra with a Check from His Magazine"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    },
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "American Family Robinson, The"
+    }
+  ]
+}

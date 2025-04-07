@@ -1,0 +1,226 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Breakfast With Dorothy And Dick/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,792814,00.html",
+      "label": "1946-04-22: Breakfast at Kollmars1",
+      "idtype": "11"
+    }
+  ],
+  "infos": [
+    {
+      "info": "WOR New York, mostly broadcast locally."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "3205",
+      "first": "Dorothy",
+      "last": "Kilgallen",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "3205",
+      "first": "Dorothy",
+      "last": "Kilgallen",
+      "f": "Noted Role",
+      "character": "Co-Host"
+    },
+    {
+      "idperson": "3288",
+      "first": "Richard",
+      "last": "Kollmar",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "50350",
+      "first": "Dick",
+      "last": "Kollmar",
+      "f": "Noted Role",
+      "character": "Co-Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2707",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "1946-05-01",
+      "source": "Tune In/Tune In 4605.pdf",
+      "idpytype2": "4",
+      "title": "Tune In - May 1946",
+      "author": ""
+    },
+    {
+      "idprint": "2199",
+      "idtype": "4",
+      "page": "55",
+      "article": "",
+      "url": "",
+      "date": "1947-09-01",
+      "source": "Radio Mirror/Radio Mirror 4709.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4709",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311088",
+      "date": "1947-04-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Breakfast with Dorothy and Dick 47-04-26 Guest - Leo Durocher"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Breakfast with Dorothy and Dick 47-04-26 Guest - Leo Durocher.mp3",
+          "time": "2323",
+          "size": "18580374"
+        }
+      ]
+    },
+    {
+      "ide": "312778",
+      "date": "1947-04-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Host - Florence Pritchett"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Breakfast With Dorothy And Dick",
+          "name": "Breakfast With Dorothy And Dick 470426 xxx Guest Host - Florence Pritchett_OTRRPG.mp3",
+          "time": "2245",
+          "size": "35920000"
+        },
+        {
+          "path": "B",
+          "folder": "Breakfast With Dorothy And Dick",
+          "name": "Breakfast With Dorothy And Dick 47-04-26 Guest Host - Florence Pritchett.mp3",
+          "time": "2245",
+          "size": "17964138"
+        }
+      ]
+    },
+    {
+      "ide": "312779",
+      "date": "1947-05-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Leo Durocher, Lorraine Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Breakfast With Dorothy And Dick",
+          "name": "Breakfast With Dorothy And Dick 470509 Guests - Leo Durocher, Laraine Day_OTRRPG.mp3",
+          "time": "2322",
+          "size": "37161088"
+        },
+        {
+          "path": "B",
+          "folder": "Breakfast With Dorothy And Dick",
+          "name": "Breakfast With Dorothy and Dick 47-05-09 Guest - Leo Durocher.mp3",
+          "time": "2323",
+          "size": "18584598"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Breakfast with Dorothy & Dick"
+    }
+  ]
+}

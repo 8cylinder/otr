@@ -1,0 +1,275 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrrlibrary.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Alex Dreier's Weekly News Analysis/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Skelly News with Alex Drier/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2913",
+      "first": "Charles",
+      "last": "Irving",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "267197",
+      "date": "1941-09-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "267198",
+      "date": "1941-09-11",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "267199",
+      "date": "1941-09-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "267200",
+      "date": "1941-09-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "267201",
+      "date": "1943-04-24",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "307230",
+      "date": "1944-02-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "World News for 02/05/44"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Skelly News with Alex Drier",
+          "name": "Skelly News with Alex Drier 44-02-05 .mp3",
+          "time": "899",
+          "size": "3595167"
+        }
+      ]
+    },
+    {
+      "ide": "307231",
+      "date": "1944-05-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "World News for 05/13/44"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Skelly News with Alex Drier",
+          "name": "Skelly News with Alex Drier 44-05-13 .mp3",
+          "time": "898",
+          "size": "3592162"
+        }
+      ]
+    },
+    {
+      "ide": "267202",
+      "date": "1945-02-17",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "267203",
+      "date": "1945-03-03",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "267204",
+      "date": "1945-03-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "267205",
+      "date": "1945-04-29",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "267206",
+      "date": "1945-06-16",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "World News for 06/16/45"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Alex Dreier's Weekly News Analysis",
+          "name": "Alex Dreier's Weekly News Analysis 45-06-16 Fifth Fleet Attack on Tokyo.mp3",
+          "time": "852",
+          "size": "3410058"
+        }
+      ]
+    },
+    {
+      "ide": "267207",
+      "date": "1945-08-11",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "World News for 08/11/45"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Alex Dreier's Weekly News Analysis",
+          "name": "Alex Dreier's Weekly News Analysis 1945.08.11 The Worlds Worst Insurance Risk.mp3",
+          "time": "852",
+          "size": "3514368"
+        }
+      ]
+    },
+    {
+      "ide": "267208",
+      "date": "1946-03-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "267209",
+      "date": "1948-06-28",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Alex Dreier"
+    }
+  ]
+}

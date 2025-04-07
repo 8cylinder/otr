@@ -1,0 +1,222 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323051419-4d63e94d.jpg",
+      "label": "Happy Island",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323051426-f31bbeb8.jpg",
+      "label": "Happy Island",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323051429-adf0ade1.jpg",
+      "label": "Happy Island",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323051431-2965c18d.jpg",
+      "label": "Happy Island",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1797",
+      "first": "Hope",
+      "last": "Emerson",
+      "f": "Noted Role",
+      "character": "Elsie the Cow"
+    },
+    {
+      "idperson": "6496",
+      "first": "Ed",
+      "last": "Wynn",
+      "f": "Noted Role",
+      "character": "King Bubbles"
+    },
+    {
+      "idperson": "6496",
+      "first": "Ed",
+      "last": "Wynn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6558",
+      "first": "Evelyn",
+      "last": "Knight",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "308551",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Ed Wynn - Fire Chief",
+          "name": "Ed Wynn Happy Island 001 _OTRRPG.mp3",
+          "time": "1766",
+          "size": "28339718"
+        }
+      ]
+    },
+    {
+      "ide": "308552",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Ed Wynn - Fire Chief",
+          "name": "Ed Wynn Happy Island 002 _OTRRPG.mp3",
+          "time": "1771",
+          "size": "28419130"
+        },
+        {
+          "path": "H",
+          "folder": "Happy Island",
+          "name": "Happy Island 002.mp3",
+          "time": "1773",
+          "size": "28385609"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-09-08",
+      "dow": "F",
+      "time": "7:00 PM",
+      "end": "1945-01-05",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-01-15",
+      "dow": "M",
+      "time": "9:00 PM",
+      "end": "1945-02-26",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Happy Island"
+    }
+  ]
+}

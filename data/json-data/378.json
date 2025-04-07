@@ -1,0 +1,1215 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185222-985d79c7.jpg",
+      "label": "Adventure in Reading CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185223-8738d527.jpg",
+      "label": "Adventure in Reading CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185224-b9db1418.jpg",
+      "label": "Adventure in Reading CD Front",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6170",
+      "first": "Helen",
+      "last": "Walpole",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "12287",
+      "first": "Margaret",
+      "last": "Leaf",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "13471",
+      "first": "James",
+      "last": "Church",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "5164",
+      "first": "Selena",
+      "last": "Royle",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "266692",
+      "date": "1938-05-02",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266693",
+      "date": "1938-05-09",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266694",
+      "date": "1938-05-16",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266695",
+      "date": "1938-05-23",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266696",
+      "date": "1938-10-17",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266697",
+      "date": "1938-10-24",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266794",
+      "date": "1938-10-31",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Miguel de Cervantes"
+        },
+        {
+          "title": "Enchantment"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars in the Air 52-01-24 (07) Enchantment.mp3",
+          "time": "1752",
+          "size": "28031114"
+        }
+      ]
+    },
+    {
+      "ide": "266698",
+      "date": "1938-11-07",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Nathaniel Hawthorne"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266795",
+      "date": "1938-11-14",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Geoffrey Chaucer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266699",
+      "date": "1938-11-21",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Charles Dickens"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266700",
+      "date": "1938-11-28",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Bret Harte"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266701",
+      "date": "1938-12-05",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Brontes, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266702",
+      "date": "1938-12-12",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Jonathan Swift"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266703",
+      "date": "1938-12-19",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sir Walter Scott"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266704",
+      "date": "1938-12-26",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266705",
+      "date": "1939-01-02",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266796",
+      "date": "1939-01-09",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Herman Melville"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266706",
+      "date": "1939-01-15",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266707",
+      "date": "1939-01-16",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "James Fenimore Cooper"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266708",
+      "date": "1939-01-23",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "John Milton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266709",
+      "date": "1939-01-30",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266710",
+      "date": "1939-02-06",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266711",
+      "date": "1939-02-13",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266712",
+      "date": "1939-02-20",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266713",
+      "date": "1939-02-27",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266714",
+      "date": "1939-03-06",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266715",
+      "date": "1939-03-13",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266716",
+      "date": "1939-03-20",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266797",
+      "date": "1939-03-27",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Leo Tolstoy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266717",
+      "date": "1939-04-03",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266718",
+      "date": "1939-04-10",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266719",
+      "date": "1939-04-17",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266720",
+      "date": "1939-04-24",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266721",
+      "date": "1939-05-01",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ralph Waldo Emerson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266722",
+      "date": "1939-05-08",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Samuel Pepys"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266723",
+      "date": "1939-05-15",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266724",
+      "date": "1939-05-22",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266798",
+      "date": "1939-05-29",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wilkie Collins"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266725",
+      "date": "1939-06-05",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Helen Walpole"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266799",
+      "date": "1939-06-12",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Louisa May Alcott"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266726",
+      "date": "1939-06-19",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266727",
+      "date": "1939-06-26",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266728",
+      "date": "1939-07-03",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266729",
+      "date": "1939-07-10",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Samuel Pepys (Repeat)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266730",
+      "date": "1939-07-17",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rifles for Washington"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266731",
+      "date": "1939-07-24",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266732",
+      "date": "1939-07-31",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266733",
+      "date": "1939-08-07",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266734",
+      "date": "1939-08-14",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266800",
+      "date": "1939-08-21",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robert Browning and Elizabeth Barrett Browning"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266735",
+      "date": "1939-08-28",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Audubon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266736",
+      "date": "1939-09-04",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266737",
+      "date": "1939-09-11",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Thread of Scarlet"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266738",
+      "date": "1939-09-18",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Boswell and Johnson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266801",
+      "date": "1939-09-25",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Salem in the Eighteenth Century"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266802",
+      "date": "1939-10-02",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Anton Chekhov"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266739",
+      "date": "1939-10-09",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266740",
+      "date": "1939-10-16",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266741",
+      "date": "1939-10-23",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266742",
+      "date": "1939-10-30",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266743",
+      "date": "1939-11-06",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266744",
+      "date": "1939-11-13",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266745",
+      "date": "1939-11-20",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266746",
+      "date": "1939-11-27",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266747",
+      "date": "1939-12-04",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266748",
+      "date": "1939-12-11",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266749",
+      "date": "1939-12-18",
+      "epnum": "59",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266750",
+      "date": "1939-12-25",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266751",
+      "date": "1940-01-01",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266752",
+      "date": "1940-01-08",
+      "epnum": "60",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266753",
+      "date": "1940-01-15",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Victor Hugo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266803",
+      "date": "1940-01-22",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "James Fenimore Cooper"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266754",
+      "date": "1940-01-29",
+      "epnum": "63",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266804",
+      "date": "1940-02-05",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sir Walter Scott"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266755",
+      "date": "1940-02-12",
+      "epnum": "65",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266756",
+      "date": "1940-02-19",
+      "epnum": "66",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266757",
+      "date": "1940-02-26",
+      "epnum": "67",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266758",
+      "date": "1940-03-04",
+      "epnum": "68",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266759",
+      "date": "1940-03-11",
+      "epnum": "69",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266760",
+      "date": "1940-03-18",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266761",
+      "date": "1940-03-25",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266762",
+      "date": "1940-04-01",
+      "epnum": "72",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266763",
+      "date": "1940-04-08",
+      "epnum": "73",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266764",
+      "date": "1940-04-15",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266765",
+      "date": "1940-04-22",
+      "epnum": "74",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266766",
+      "date": "1940-04-29",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266767",
+      "date": "1940-05-06",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266768",
+      "date": "1940-05-13",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266769",
+      "date": "1940-05-20",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266770",
+      "date": "1940-05-27",
+      "epnum": "79",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266771",
+      "date": "1940-06-03",
+      "epnum": "80",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266772",
+      "date": "1940-06-10",
+      "epnum": "81",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266773",
+      "date": "1940-06-17",
+      "epnum": "82",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266774",
+      "date": "1940-06-24",
+      "epnum": "83",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266775",
+      "date": "1940-07-01",
+      "epnum": "84",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266776",
+      "date": "1940-07-08",
+      "epnum": "85",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266777",
+      "date": "1940-07-15",
+      "epnum": "86",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266778",
+      "date": "1940-07-22",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266779",
+      "date": "1940-07-29",
+      "epnum": "87",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266780",
+      "date": "1940-08-05",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-Empted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266781",
+      "date": "1940-08-12",
+      "epnum": "88",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266782",
+      "date": "1940-08-19",
+      "epnum": "89",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266783",
+      "date": "1940-08-26",
+      "epnum": "90",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266784",
+      "date": "1940-09-02",
+      "epnum": "91",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266785",
+      "date": "1940-09-09",
+      "epnum": "92",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266786",
+      "date": "1940-09-16",
+      "epnum": "93",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266787",
+      "date": "1940-09-23",
+      "epnum": "94",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266788",
+      "date": "1940-09-30",
+      "epnum": "95",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266789",
+      "date": "1940-10-07",
+      "epnum": "96",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266790",
+      "date": "1940-10-14",
+      "epnum": "97",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266791",
+      "date": "1940-11-06",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266792",
+      "date": "1940-11-13",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266793",
+      "date": "1940-11-20",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    },
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventure In Reading"
+    },
+    {
+      "title": "Adventures In Reading"
+    }
+  ]
+}

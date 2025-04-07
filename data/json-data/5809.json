@@ -1,0 +1,197 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3276",
+      "first": "Frank",
+      "last": "Knight",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3276",
+      "first": "Frank",
+      "last": "Knight",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4701",
+      "first": "Mishel",
+      "last": "Piastro",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4701",
+      "first": "Mishel",
+      "last": "Piastro",
+      "f": "Noted Role",
+      "character": "From 3/13/49"
+    },
+    {
+      "idperson": "15624",
+      "first": "Macklin",
+      "last": "Marrow",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Moonlight Sonata"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "309706",
+      "date": "1957-09-13",
+      "epnum": "276",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Slave Dance"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Longine's Symphonette",
+          "name": "Longine's Symphonette - 57xxxx - AFRTS #276 - ship-by date 570913 - 1st Slave Dance.mp3",
+          "time": "1564",
+          "size": "25029066"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1950-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1943-07-05",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:45 PM",
+      "end": "1949-03-11",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1949-03-13",
+      "dow": "",
+      "time": "",
+      "end": "1957-05-26",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Longines-Wittnauer Watches",
+      "begin": "1940-00-00",
+      "end": "0000-00-00"
+    },
+    {
+      "sponsor": "Longines Watches",
+      "begin": "1943-07-05",
+      "end": "1957-06-26"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Longines Symphonette, The"
+    },
+    {
+      "title": "Longine Symphonette"
+    }
+  ]
+}

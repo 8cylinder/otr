@@ -1,0 +1,219 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "TERN"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logt1018.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Jay Hickerson"
+    }
+  ],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "141024",
+      "date": "1936-03-01",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phantom Rickshaw (This log was originallly prepared by Martin Grams), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141025",
+      "date": "1936-03-08",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Restless Dead, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141026",
+      "date": "1936-03-22",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Bells, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141027",
+      "date": "1936-03-29",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Tell-Tale Heart, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141028",
+      "date": "1936-04-05",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death of a Friend"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141029",
+      "date": "1936-04-12",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Half-Pint Flask, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141030",
+      "date": "1936-04-19",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Ghost"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141031",
+      "date": "1936-05-03",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Phantom Coach, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141032",
+      "date": "1936-05-17",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death of a Friend"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141033",
+      "date": "1936-05-24",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Open Door, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Horror"
+    },
+    {
+      "genre": "Mystery"
+    },
+    {
+      "genre": "Suspense"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1936-03-01",
+      "dow": "Su",
+      "time": "10:00 PM",
+      "end": "1936-06-07",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1936-03-01",
+      "end": "1936-06-07"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Terror by Night"
+    }
+  ]
+}

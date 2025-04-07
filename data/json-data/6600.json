@@ -1,0 +1,1514 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "MNAK"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/My Name Is Adam Kain/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6600-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "1585",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "2004-10-01",
+      "source": "OTR Digest_1990s/OTRDigest_(107)Fall04.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (107) Fall 2004",
+      "author": ""
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "251008",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aviary (2), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251009",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bird In the Hand, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx A Bird In The Hand (56-22)_OTRRPG.mp3",
+          "time": "1313",
+          "size": "9203645"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) A Bird in the Hand.mp3",
+          "time": "1307",
+          "size": "5231795"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx A Bird in the Hand (56-22).mp3",
+          "time": "1307",
+          "size": "10456921"
+        }
+      ]
+    },
+    {
+      "ide": "251011",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Calling Card, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx The Calling Card (56-22)_OTRRPG.mp3",
+          "time": "1370",
+          "size": "9601176"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) The Calling Card.mp3",
+          "time": "1372",
+          "size": "5491766"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx The Calling Card (56-22).mp3",
+          "time": "1364",
+          "size": "10908905"
+        }
+      ]
+    },
+    {
+      "ide": "251012",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cherry Blossom"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Cherry Blossom (56-22)_OTRRPG.mp3",
+          "time": "1532",
+          "size": "10737817"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Cherry Blossom .mp3",
+          "time": "1532",
+          "size": "10729684"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xxxx xxxx Cherry Blossom (56-22).mp3",
+          "time": "1525",
+          "size": "12202041"
+        }
+      ]
+    },
+    {
+      "ide": "6458",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Come Fly with Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 73-xx-xx (xxx) Come Fly with Me .mp3",
+          "time": "1614",
+          "size": "12910346"
+        },
+        {
+          "path": "Curated",
+          "folder": "adamKane",
+          "name": "ADAM KANE Come Fly With Me 3194-1 TD-C.flac",
+          "time": "1621",
+          "size": "106533259"
+        }
+      ]
+    },
+    {
+      "ide": "251013",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cuckoo, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) The Cuckoo.mp3",
+          "time": "1681",
+          "size": "13447306"
+        }
+      ]
+    },
+    {
+      "ide": "251014",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death Dance"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 73-xx-xx (xxx) Death Dance .mp3",
+          "time": "1500",
+          "size": "3002088"
+        },
+        {
+          "path": "Curated",
+          "folder": "adamKane",
+          "name": "ADAM KANE Death Dance 3241-2 TD-C.flac",
+          "time": "1480",
+          "size": "89036043"
+        }
+      ]
+    },
+    {
+      "ide": "6457",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Debt for a Ducat"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Debt For a Ducat (64-44)_OTRRPG.mp3",
+          "time": "1280",
+          "size": "10240930"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Debt for a Ducat.mp3",
+          "time": "1280",
+          "size": "10241818"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx Debt For a Ducat (64-44).mp3",
+          "time": "1280",
+          "size": "10239410"
+        }
+      ]
+    },
+    {
+      "ide": "251015",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deep Freeze War, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx The Deep Freeze War (56-22)_OTRRPG.mp3",
+          "time": "1402",
+          "size": "9827005"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) The Deep Freeze War .mp3",
+          "time": "1402",
+          "size": "9818872"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx The Deep Freeze War (56-22).mp3",
+          "time": "1396",
+          "size": "11165785"
+        }
+      ]
+    },
+    {
+      "ide": "6456",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Devil You Don't Know, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) The Devil You Don't Know .mp3",
+          "time": "1515",
+          "size": "12124970"
+        },
+        {
+          "path": "Curated",
+          "folder": "adamKane",
+          "name": "ADAM KANE Devil You Don't Know 3170-1 TD-C.flac",
+          "time": "1521",
+          "size": "99304501"
+        }
+      ]
+    },
+    {
+      "ide": "251017",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Blood"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 7605xx xxxx First Blood (56-22)_OTRRPG.mp3",
+          "time": "1243",
+          "size": "8708833"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 76-05-xx (xxx) First Blood .mp3",
+          "time": "1237",
+          "size": "4951554"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 76-05-xx xxxx First Blood (56-22).mp3",
+          "time": "1237",
+          "size": "9893865"
+        }
+      ]
+    },
+    {
+      "ide": "6453",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Happy Loser, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name Is Adam Kane xx-xx-xx (xxx) The Happy Loser.mp3",
+          "time": "1197",
+          "size": "19156390"
+        }
+      ]
+    },
+    {
+      "ide": "6452",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How The Other Half"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx How The other Half (56-22)_OTRRPG.mp3",
+          "time": "1582",
+          "size": "11081587"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name Is Adam Kane 75-xx-xx How The Other Half.mp3",
+          "time": "1483",
+          "size": "23733462"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx How the other Half (56-22).mp3",
+          "time": "1574",
+          "size": "12592873"
+        }
+      ]
+    },
+    {
+      "ide": "6451",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Immigrant, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 75xxxx xxxx The Immigrant_OTRRPG.mp3",
+          "time": "1503",
+          "size": "24120456"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx The Immigrant (56-22)_OTRRPG.mp3",
+          "time": "1504",
+          "size": "10541245"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) The Immigrant.mp3",
+          "time": "1504",
+          "size": "10533112"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx The Immigrant (56-22).mp3",
+          "time": "1497",
+          "size": "11978233"
+        }
+      ]
+    },
+    {
+      "ide": "251020",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Iron Road"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6450",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Iron Road, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Iron Road_OTRRPG.mp3",
+          "time": "1516",
+          "size": "24331510"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx The Iron Road (64-16)_OTRRPG.mp3",
+          "time": "1532",
+          "size": "12269656"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Iron Road.mp3",
+          "time": "1532",
+          "size": "12261472"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx The Iron Road (64-16).mp3",
+          "time": "1525",
+          "size": "12201625"
+        }
+      ]
+    },
+    {
+      "ide": "251021",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Light Touch of Terror"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 73-xx-xx (xxx) Light Touch of Terror.mp3",
+          "time": "1524",
+          "size": "3049179"
+        },
+        {
+          "path": "Curated",
+          "folder": "adamKane",
+          "name": "ADAM KANE Light Touch Of Terror 3194-2 TD-C.flac",
+          "time": "1775",
+          "size": "116058064"
+        }
+      ]
+    },
+    {
+      "ide": "6449",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lochinvar"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Lochinvar (56-22)_OTRRPG.mp3",
+          "time": "1442",
+          "size": "10106410"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Lochinvar.mp3",
+          "time": "1436",
+          "size": "5745049"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx Lochinvar (56-22).mp3",
+          "time": "1435",
+          "size": "11483817"
+        }
+      ]
+    },
+    {
+      "ide": "251022",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moonshine"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 75xxxx xxxx Moonshine_OTRRPG.mp3",
+          "time": "1459",
+          "size": "23419117"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Moonshine (32-16)_OTRRPG.mp3",
+          "time": "1460",
+          "size": "5851288"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Moonshine_OTRRPG.mp3",
+          "time": "1459",
+          "size": "23421612"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Moonshine .mp3",
+          "time": "1460",
+          "size": "5843114"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx Moonshine (32-16).mp3",
+          "time": "1453",
+          "size": "11626921"
+        }
+      ]
+    },
+    {
+      "ide": "6447",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder Passage"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Murder Passage_OTRRPG.mp3",
+          "time": "1548",
+          "size": "24843097"
+        }
+      ]
+    },
+    {
+      "ide": "251023",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Acquaintance"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Old Aquaintance (64-16)_OTRRPG.mp3",
+          "time": "1539",
+          "size": "12322360"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 73-xx-xx (xxx) Old Acquaintance.mp3",
+          "time": "1539",
+          "size": "12314186"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx Old Aquaintance (64-16).mp3",
+          "time": "1532",
+          "size": "12254041"
+        },
+        {
+          "path": "Curated",
+          "folder": "adamKane",
+          "name": "ADAM KANE Old Acquaintance 3241-1 TD-C.flac",
+          "time": "1540",
+          "size": "89758969"
+        }
+      ]
+    },
+    {
+      "ide": "6446",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Outside Straight"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Outside Straight (56-22)_OTRRPG.mp3",
+          "time": "1466",
+          "size": "10270616"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Outside Straight.mp3",
+          "time": "1491",
+          "size": "5966568"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx Outside Straight (56-22).mp3",
+          "time": "1459",
+          "size": "11670393"
+        }
+      ]
+    },
+    {
+      "ide": "251024",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poppy Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Poppy Day .mp3",
+          "time": "1549",
+          "size": "3099682"
+        },
+        {
+          "path": "Curated",
+          "folder": "adamKane",
+          "name": "ADAM KANE Poppy Day 3170-2 TD-C.flac",
+          "time": "1626",
+          "size": "97800299"
+        }
+      ]
+    },
+    {
+      "ide": "251025",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Silencer, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx The Silencer (64-44)_OTRRPG.mp3",
+          "time": "1553",
+          "size": "12430063"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 75-xx-xx (xxx) The Silencer .mp3",
+          "time": "1554",
+          "size": "6216298"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx The Silencer (64-44).mp3",
+          "time": "1546",
+          "size": "12369736"
+        }
+      ]
+    },
+    {
+      "ide": "251026",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strongarm"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Strong Arm (64-44)_OTRRPG.mp3",
+          "time": "1351",
+          "size": "9464582"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Strong Arm.mp3",
+          "time": "1351",
+          "size": "5404830"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx Strong Arm (64-44).mp3",
+          "time": "1344",
+          "size": "10753321"
+        }
+      ]
+    },
+    {
+      "ide": "251027",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tail Spin"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Tail Spin (56-22)_OTRRPG.mp3",
+          "time": "1542",
+          "size": "10804010"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Tailspin .mp3",
+          "time": "1535",
+          "size": "12285002"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx Tail Spin (56-22).mp3",
+          "time": "1535",
+          "size": "12277129"
+        }
+      ]
+    },
+    {
+      "ide": "6436",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Turkish Delight"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6435",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wall Street"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Wall Street (56-22)_OTRRPG.mp3",
+          "time": "1356",
+          "size": "9504993"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx)  Wall Street.mp3",
+          "time": "1350",
+          "size": "5402532"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx Wall Street (56-22).mp3",
+          "time": "1350",
+          "size": "10799705"
+        }
+      ]
+    },
+    {
+      "ide": "314266",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All The Money In The World"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx All The Money In The World (64-44)_OTRRPG.mp3",
+          "time": "1380",
+          "size": "9671027"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) All the Money in the World.mp3",
+          "time": "1380",
+          "size": "5522904"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx xxxx All the Money in the World (64-44).mp3",
+          "time": "1374",
+          "size": "10988361"
+        }
+      ]
+    },
+    {
+      "ide": "319012",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flying Bomb"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 73-xx-xx (xxx) Flying Bomb .mp3",
+          "time": "1536",
+          "size": "3072219"
+        },
+        {
+          "path": "Curated",
+          "folder": "adamKane",
+          "name": "ADAM KANE Flying Bomb 3218-1 TD-C.flac",
+          "time": "1587",
+          "size": "95422843"
+        }
+      ]
+    },
+    {
+      "ide": "319013",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eagle One"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Eagle One.mp3",
+          "time": "1430",
+          "size": "11442981"
+        }
+      ]
+    },
+    {
+      "ide": "108690",
+      "date": "0000-00-00",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dressed to Kill"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx 0136 Dressed To Kill (64-16)_OTRRPG.mp3",
+          "time": "1519",
+          "size": "12165400"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx 0136 Dressed To Kill_OTRRPG.mp3",
+          "time": "1517",
+          "size": "24348234"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Dressed to Kill.mp3",
+          "time": "1519",
+          "size": "12157226"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xx-xx-xx 0136 Dressed to Kill (64-16).mp3",
+          "time": "1512",
+          "size": "12097833"
+        },
+        {
+          "path": "Curated",
+          "folder": "adamKane",
+          "name": "ADAM KANE Dressed To Kill 3241-3 TD-C.flac",
+          "time": "1770",
+          "size": "107965752"
+        }
+      ]
+    },
+    {
+      "ide": "251019",
+      "date": "1972-09-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Healthy Way to Die, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) A Healthy Way to Die.mp3",
+          "time": "1490",
+          "size": "10433810"
+        }
+      ]
+    },
+    {
+      "ide": "163512",
+      "date": "1973-03-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bird Of Passage [poss mis-dated]"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 73-03-11 (xxx) Bird of Passage .mp3",
+          "time": "1390",
+          "size": "5560938"
+        },
+        {
+          "path": "Curated",
+          "folder": "adamKane",
+          "name": "ADAM KANE Bird Of Passage 3218-2 TD-C.flac",
+          "time": "1568",
+          "size": "88358088"
+        }
+      ]
+    },
+    {
+      "ide": "251010",
+      "date": "1973-07-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bird Of Passage [poss mis-dated]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "163513",
+      "date": "1974-06-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Greek Fire, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 740620 xxxx Greek Fire (56-22)_OTRRPG.mp3",
+          "time": "1418",
+          "size": "9933793"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 74-06-20 (xxx) Greek Fire.mp3",
+          "time": "1418",
+          "size": "5673160"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 74-06-20 xxxx Greek Fire (56-22).mp3",
+          "time": "1411",
+          "size": "11287257"
+        }
+      ]
+    },
+    {
+      "ide": "163514",
+      "date": "1975-02-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Soundwave"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 750222 xxx Soundwave (64-44)_OTRRPG.mp3",
+          "time": "1466",
+          "size": "11729064"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] xxxxxx xxxx Soundwave_OTRRPG.mp3",
+          "time": "1444",
+          "size": "23182958"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 75-02-22 (xxx) Soundwave.mp3",
+          "time": "1466",
+          "size": "11729074"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 75-02-22 xxx Soundwave (64-44).mp3",
+          "time": "1459",
+          "size": "11671909"
+        }
+      ]
+    },
+    {
+      "ide": "163515",
+      "date": "1975-03-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Silver Doctor, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 750315 xxxx The Silver Doctor (56-22)_OTRRPG.mp3",
+          "time": "638",
+          "size": "4473978"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 75-03-15 (xxx) The Silver Doctor.mp3",
+          "time": "1473",
+          "size": "10310392"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 75-03-15 xxxx The Silver Doctor (56-22).mp3",
+          "time": "635",
+          "size": "5076793"
+        }
+      ]
+    },
+    {
+      "ide": "163516",
+      "date": "1975-04-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Body Snatch"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 750426 xxxx Body Snatch (64-44)_OTRRPG.mp3",
+          "time": "1390",
+          "size": "11119343"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 75-04-26 (xxx) Body Snatch.mp3",
+          "time": "1390",
+          "size": "11119481"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 75-04-26 xxxx Body Snatch (64-44).mp3",
+          "time": "1383",
+          "size": "11065164"
+        }
+      ]
+    },
+    {
+      "ide": "163517",
+      "date": "1975-06-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aviary, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 750605 xxxx The Avery (64-44)_OTRRPG.mp3",
+          "time": "1755",
+          "size": "17546522"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 750605 xxxx The Avery (80-44)_OTRRPG.mp3",
+          "time": "1751",
+          "size": "17590161"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 77xxxx xxxx The Aviary_OTRRPG.mp3",
+          "time": "1560",
+          "size": "25037038"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 75-06-05 (xxx) The Aviary.mp3",
+          "time": "1755",
+          "size": "17548172"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 75-06-05 xxxx The Avery (64-44).mp3",
+          "time": "1748",
+          "size": "13983191"
+        }
+      ]
+    },
+    {
+      "ide": "163518",
+      "date": "1976-05-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nightshade"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 760508 xxxx Nightshade (56-22)_OTRRPG.mp3",
+          "time": "1263",
+          "size": "8852742"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 76-05-08 (xxx) Nightshade .mp3",
+          "time": "1263",
+          "size": "5055626"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 76-05-08 xxxx Nightshade (56-22).mp3",
+          "time": "1257",
+          "size": "10057769"
+        }
+      ]
+    },
+    {
+      "ide": "163520",
+      "date": "1976-07-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House Party [poss mis-dated]"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 760708 xxxx House Party (64-16)_OTRRPG.mp3",
+          "time": "1531",
+          "size": "12256120"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 760708 xxxx House Party_OTRRPG.mp3",
+          "time": "1530",
+          "size": "24560147"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 76-07-08 (xxx) House Party.mp3",
+          "time": "1531",
+          "size": "12247946"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 76-07-08 xxxx House Party (64-16).mp3",
+          "time": "1523",
+          "size": "12188105"
+        }
+      ]
+    },
+    {
+      "ide": "163521",
+      "date": "1976-10-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Thy Neighbor"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 761016 xxxx Love Thy Neighbor (64-44)_OTRRPG.mp3",
+          "time": "1637",
+          "size": "13175847"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 76-10-16 (xxx) Love Thy Neighbor.mp3",
+          "time": "1641",
+          "size": "13133850"
+        }
+      ]
+    },
+    {
+      "ide": "251018",
+      "date": "1980-04-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "he Drycleaner"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) The Dry Cleaner.mp3",
+          "time": "1296",
+          "size": "9072002"
+        }
+      ]
+    },
+    {
+      "ide": "163522",
+      "date": "1980-08-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rother Spy"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 800807 xxxx Brother Spy (56-22)_OTRRPG.mp3",
+          "time": "1227",
+          "size": "8595885"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane xx-xx-xx (xxx) Brother Spy .mp3",
+          "time": "1227",
+          "size": "4911953"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 80-08-07 xxxx Brother Spy (56-22).mp3",
+          "time": "1227",
+          "size": "9818643"
+        }
+      ]
+    },
+    {
+      "ide": "163523",
+      "date": "1980-08-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Esert Flower"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 800814 xxxx Desert Flower (56-22)_OTRRPG.mp3",
+          "time": "1373",
+          "size": "9613629"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name is Adam Kane 80-08-14 (xxx) Desert Flower .mp3",
+          "time": "1384",
+          "size": "5536279"
+        },
+        {
+          "path": "M",
+          "folder": "My Name Is Adam Kain",
+          "name": "My Name's Adam Kane [SA] 80-08-14 xxxx Desert Flower (56-22).mp3",
+          "time": "1373",
+          "size": "10981575"
+        }
+      ]
+    },
+    {
+      "ide": "251016",
+      "date": "1980-09-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "esert Flower"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Episodic Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "0000-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "South Africa",
+      "network": "Springbok"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "My Name is Adam Kane"
+    }
+  ]
+}

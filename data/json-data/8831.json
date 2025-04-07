@@ -1,0 +1,231 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2580",
+      "first": "Bob",
+      "last": "Hawk",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4073",
+      "first": "Jack",
+      "last": "Meakin",
+      "f": "Noted Role",
+      "character": "Composer"
+    },
+    {
+      "idperson": "2580",
+      "first": "Bob",
+      "last": "Hawk",
+      "f": "Noted Role",
+      "character": "First Emcee"
+    },
+    {
+      "idperson": "4915",
+      "first": "Alan",
+      "last": "Reed (aka Teddy Bergman)",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5820",
+      "first": "Frederick Chase",
+      "last": "Taylor",
+      "f": "Noted Role",
+      "character": "Second Emcee"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2697",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "1943-07-01",
+      "source": "Tune In/Tune In 4307.pdf",
+      "idpytype2": "4",
+      "title": "Tune In - Jul 1943",
+      "author": ""
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Thanks To The Yanks"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "245940",
+      "date": "1940-03-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bob Hawk Show, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bob Hawk Show",
+          "name": "Bob Hawk Show 49-03-21.mp3",
+          "time": "1730",
+          "size": "13840970"
+        }
+      ]
+    },
+    {
+      "ide": "141432",
+      "date": "1944-03-11",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141433",
+      "date": "1944-03-18",
+      "epnum": "73",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141434",
+      "date": "1944-03-25",
+      "epnum": "74",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141435",
+      "date": "1944-04-01",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141436",
+      "date": "1944-04-08",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "315572",
+      "date": "1949-03-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st guest - Ruth Hothwood"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bob Hawk Show",
+          "name": "Bob Hawk Show 490321 xxx 1st guest - Ruth Hothwood_OTRRPG.mp3",
+          "time": "1730",
+          "size": "27683666"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Quiz"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-10-31",
+      "dow": "Sa",
+      "time": "7:30 PM",
+      "end": "1943-07-03",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1943-07-09",
+      "dow": "F",
+      "time": "10:00 PM",
+      "end": "1943-10-08",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1943-10-09",
+      "dow": "Sa",
+      "time": "7:30 PM",
+      "end": "1944-06-23",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1938-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1941-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "R. J. Reynolds Camel Cigarettes",
+      "begin": "1942-10-31",
+      "end": "1944-06-23"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Thanks to the Yanks"
+    },
+    {
+      "title": "Bob Hawk Show, The"
+    },
+    {
+      "title": "Bob Hawk's Quixie Doodles Quiz"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/D Series/Dorothy Thompson/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,762609,00.html",
+      "label": "1939-09-18: Casualties, Replacements",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,773223,00.html",
+      "label": "1942-03-30: The Blue Begins",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.otr.com/thompson.shtml",
+      "label": "Radio Days : Radio News : Commentators : Dorothy Thompson",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5887",
+      "first": "Dorothy",
+      "last": "Thompson",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1114",
+      "idtype": "4",
+      "page": "19",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_01.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #1",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "318039",
+      "date": "1939-09-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The European Situation"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dorothy Thompson",
+          "name": "Dorothy Thompson 39-09-02 - The European Situation.mp3",
+          "time": "341",
+          "size": "8192352"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-08-06",
+      "dow": "F",
+      "time": "10:45 PM",
+      "end": "1938-05-27",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1938-01-04",
+      "dow": "Tu",
+      "time": "7:30 PM",
+      "end": "1939-05-24",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1938-08-30",
+      "dow": "",
+      "time": "",
+      "end": "1941-03-30",
+      "length": "0",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1938-10-03",
+      "dow": "M",
+      "time": "9:00 PM",
+      "end": "1939-05-29",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1942-09-20",
+      "dow": "Su",
+      "time": "9:45 PM",
+      "end": "1942-12-13",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1942-03-19",
+      "dow": "Th",
+      "time": "8:45 PM",
+      "end": "1942-06-11",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1943-03-28",
+      "dow": "Su",
+      "time": "9:45 PM",
+      "end": "1943-06-20",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1943-09-19",
+      "dow": "",
+      "time": "",
+      "end": "1943-12-19",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1944-03-19",
+      "dow": "Su",
+      "time": "",
+      "end": "1944-06-11",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1944-09-24",
+      "dow": "Su",
+      "time": "",
+      "end": "1944-12-17",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-00-19",
+      "dow": "Su",
+      "time": "",
+      "end": "1945-06-17",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Pall Mall Cigarettes",
+      "begin": "1937-08-06",
+      "end": "1938-05-07"
+    },
+    {
+      "sponsor": "Clipper Craft Clothes",
+      "begin": "1945-00-19",
+      "end": "1945-06-17"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Dorothy Thompson"
+    },
+    {
+      "title": "People in the News"
+    }
+  ]
+}

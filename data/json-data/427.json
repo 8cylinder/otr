@@ -1,0 +1,846 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Adventures Of Champion/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/The_Adventures_of_Champion",
+      "label": "Wikipedia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-427-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Gene Autry was not involved in this series."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "7729",
+      "first": "William",
+      "last": "Burch",
+      "f": "Director",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "329486",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Young mountaineer mysteriously shot"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "AdvBillySwiftJHMC",
+          "name": "Tennessee Jed 460122 Jed rescues Cookstove Tate & Jose from hanging.mp3",
+          "time": "1733",
+          "size": "21748301"
+        }
+      ]
+    },
+    {
+      "ide": "42535",
+      "date": "1949-06-20",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "PREMIERE (daily @ 530pm on the Mutual network - except in New York City)"
+        },
+        {
+          "title": "[PREMIERE (daily @ 530pm on the Mutual network - except in New York City)]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42536",
+      "date": "1949-06-21",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42537",
+      "date": "1949-06-22",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42538",
+      "date": "1949-06-23",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42539",
+      "date": "1949-06-24",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42540",
+      "date": "1949-06-27",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42541",
+      "date": "1949-06-28",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42542",
+      "date": "1949-06-29",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42543",
+      "date": "1949-06-30",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42544",
+      "date": "1949-07-01",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42545",
+      "date": "1949-07-04",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42546",
+      "date": "1949-07-05",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42547",
+      "date": "1949-07-06",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42548",
+      "date": "1949-07-07",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42549",
+      "date": "1949-07-08",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42550",
+      "date": "1949-07-11",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42551",
+      "date": "1949-07-12",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42552",
+      "date": "1949-07-13",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42553",
+      "date": "1949-07-14",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42554",
+      "date": "1949-07-15",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42555",
+      "date": "1949-07-18",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42556",
+      "date": "1949-07-19",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42557",
+      "date": "1949-07-20",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42558",
+      "date": "1949-07-21",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42559",
+      "date": "1949-07-22",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42560",
+      "date": "1949-07-25",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42561",
+      "date": "1949-07-26",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42562",
+      "date": "1949-07-27",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42563",
+      "date": "1949-07-28",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42564",
+      "date": "1949-07-29",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42565",
+      "date": "1949-08-01",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Rustler's Hideout [Chapter 1], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42566",
+      "date": "1949-08-02",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Rustler's Hideout [Chapter 2], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42567",
+      "date": "1949-08-03",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Rustler's Hideout [Chapter 3], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42568",
+      "date": "1949-08-04",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Rustler's Hideout [Chapter 4], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42569",
+      "date": "1949-08-05",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery of the Rustler's Hideout [Chapter 5], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Champion",
+          "name": "Adventures Of Champion 49-08-05 - Mystery of the Rustler's Hid.mp3",
+          "time": "879",
+          "size": "3518474"
+        },
+        {
+          "path": "A",
+          "folder": "Adventures Of Champion",
+          "name": "Adventures of Champion 490805 TMOT Rustler's Hangout (C).mp3",
+          "time": "731",
+          "size": "5851197"
+        }
+      ]
+    },
+    {
+      "ide": "42570",
+      "date": "1949-08-08",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Vanishing Cattle [Chapter 1], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42571",
+      "date": "1949-08-09",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Vanishing Cattle [Chapter 2], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42572",
+      "date": "1949-08-10",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Vanishing Cattle [Chapter 3], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42573",
+      "date": "1949-08-11",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Vanishing Cattle [Chapter 4], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42574",
+      "date": "1949-08-12",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Vanishing Cattle [Chapter 5], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42575",
+      "date": "1949-08-15",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42576",
+      "date": "1949-08-16",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42577",
+      "date": "1949-08-17",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42578",
+      "date": "1949-08-18",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42579",
+      "date": "1949-08-19",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42580",
+      "date": "1949-08-22",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Lost Treasure [Chapter 1], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42581",
+      "date": "1949-08-23",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Lost Treasure [Chapter 2], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42582",
+      "date": "1949-08-24",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery of the Lost Treasure Chapter 3] (mis-dated in RadioGoldIndex log), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42583",
+      "date": "1949-08-25",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Lost Treasure Chapter 4], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42584",
+      "date": "1949-08-26",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Lost Treasure Chapter 5], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42585",
+      "date": "1949-08-29",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ghost of Black Mountain [Chapter 1], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "AdvOfChampionJHMC",
+          "name": "Adventures of Champion 490829 Ghost of Black Mountain.mp3",
+          "time": "883",
+          "size": "12348966"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "AdvOfChampionJHMC",
+          "name": "Adventures of Champion 490829 Ghost of Black Mountain.mp3",
+          "time": "883",
+          "size": "12348966"
+        }
+      ]
+    },
+    {
+      "ide": "42586",
+      "date": "1949-08-30",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ghost of Black Mountain [Chapter 2], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42587",
+      "date": "1949-08-31",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ghost of Black Mountain [Chapter 3], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42588",
+      "date": "1949-09-01",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ghost of Black Mountain [Chapter 4], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42589",
+      "date": "1949-09-02",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ghost of Black Mountain [Chapter 5], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "42590",
+      "date": "1949-09-05",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42591",
+      "date": "1949-09-06",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42592",
+      "date": "1949-09-07",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42593",
+      "date": "1949-09-08",
+      "epnum": "59",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42594",
+      "date": "1949-09-09",
+      "epnum": "60",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42595",
+      "date": "1949-09-12",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42596",
+      "date": "1949-09-13",
+      "epnum": "62",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42597",
+      "date": "1949-09-14",
+      "epnum": "63",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42598",
+      "date": "1949-09-15",
+      "epnum": "64",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "42599",
+      "date": "1949-09-16",
+      "epnum": "65",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Last Episode in series]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321243",
+      "date": "1949-10-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery Of The Lost Treasure"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Champion",
+          "name": "Adventures Of Champion 1949.10.24 Mystery Of The Lost Treasure.mp3",
+          "time": "879",
+          "size": "3624960"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Campion"
+    },
+    {
+      "title": "Campion, The Adventures Of"
+    },
+    {
+      "title": "Adventures of Champion, The"
+    },
+    {
+      "title": "Champion, The Adventures Of"
+    },
+    {
+      "title": "Adventures Of Champion, The"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/O Series/Our Foreign Policy/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,779076,00.html",
+      "label": "1947-06-09: Program Preview",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,793536,00.html",
+      "label": "1947-03-31: Program Preview",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,793752,00.html",
+      "label": "1947-05-26: Program Preview",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "19842",
+      "first": "Ken",
+      "last": "French",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "31014",
+      "first": "Selden C.",
+      "last": "Menefee",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "45156",
+      "first": "Sterling",
+      "last": "Fisher",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314387",
+      "date": "1946-12-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Our International Information Policy"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Our Foreign Policy",
+          "name": "Our Foreign Policy 451215 043 Our International Information Policy {AFRS#043}_OTRRPG.mp3",
+          "time": "1813",
+          "size": "29433194"
+        },
+        {
+          "path": "O",
+          "folder": "Our Foreign Policy",
+          "name": "Our Foreign Policy 45-12-15 043 Our International Information Policy {AFRS#043}.mp3",
+          "time": "1805",
+          "size": "14438249"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Information"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-01-24",
+      "dow": "Sa",
+      "time": "7:00 PM",
+      "end": "1947-09-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Our Foreign Policy"
+    }
+  ]
+}

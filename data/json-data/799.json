@@ -1,0 +1,881 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Americana/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-799-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2596",
+      "first": "S. I.",
+      "last": "Hayakawa",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312419",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rehearsal & Multiple Excerpts"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 5310xx xxx Rehearsal & Multiple Excerpts_OTRRPG.mp3",
+          "time": "1347",
+          "size": "21633575"
+        }
+      ]
+    },
+    {
+      "ide": "311238",
+      "date": "1953-05-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Walter O'Keefe's Americana 53-05-06 Guest - Paul Wellman"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Walter O'Keefe's Americana 53-05-06 Guest - Paul Wellman.mp3",
+          "time": "946",
+          "size": "7571120"
+        }
+      ]
+    },
+    {
+      "ide": "23302",
+      "date": "1953-09-23",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Enclosures For A Cornerstone"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 53092x 001 Enclosures For A Cornerstone_OTRRPG.mp3",
+          "time": "1747",
+          "size": "28029604"
+        }
+      ]
+    },
+    {
+      "ide": "23303",
+      "date": "1953-09-30",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The American Frontiersman"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 530930 002 The American Frontiersman_OTRRPG.mp3",
+          "time": "1690",
+          "size": "27127227"
+        }
+      ]
+    },
+    {
+      "ide": "23304",
+      "date": "1953-10-07",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sense of Humor, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23305",
+      "date": "1953-10-14",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chronicle of Voyages, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23306",
+      "date": "1953-10-21",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "American Rogue's Gallery, An"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 531021 005 An American Rogue's Gallery_OTRRPG.mp3",
+          "time": "1751",
+          "size": "28091043"
+        }
+      ]
+    },
+    {
+      "ide": "23307",
+      "date": "1953-10-28",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Some New World Ghosts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23308",
+      "date": "1953-11-07",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poet's Life, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 531107 007 The Poet's Life_OTRRPG.mp3",
+          "time": "1752",
+          "size": "28116526"
+        }
+      ]
+    },
+    {
+      "ide": "23309",
+      "date": "1953-11-14",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "United States Marines, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23310",
+      "date": "1953-11-21",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boys from Mars, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23311",
+      "date": "1953-11-28",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Postscript on the Pilgrims, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23312",
+      "date": "1953-12-05",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "American Sampler, An"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 531205 011 An American Sampler_OTRRPG.mp3",
+          "time": "1798",
+          "size": "28774904"
+        }
+      ]
+    },
+    {
+      "ide": "23313",
+      "date": "1953-12-12",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Miss Stein and Friends"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23314",
+      "date": "1953-12-19",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Faustus in Tennessee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23315",
+      "date": "1953-12-26",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pleasures of Scholarship, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23316",
+      "date": "1954-01-02",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Some Rebels, Eccentrics and Others"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 540102 015 Some Rebels, Eccentrics And Others_OTRRPG.mp3",
+          "time": "1780",
+          "size": "28553730"
+        }
+      ]
+    },
+    {
+      "ide": "23317",
+      "date": "1954-01-09",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How to Change the World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23318",
+      "date": "1954-01-15",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Getting from Here to There"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 540115 017 Getting From Here To There_OTRRPG.mp3",
+          "time": "1746",
+          "size": "28017063"
+        }
+      ]
+    },
+    {
+      "ide": "23319",
+      "date": "1954-01-23",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chicago"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 540123 018 Chicago_OTRRPG.mp3",
+          "time": "1753",
+          "size": "28130311"
+        }
+      ]
+    },
+    {
+      "ide": "23320",
+      "date": "1954-01-30",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Profession of Piracy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23321",
+      "date": "1954-02-06",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Writer in Person, The"
+        },
+        {
+          "title": "Radio Essays On The American Scene"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 540206 020 The Writer In Person_OTRRPG.mp3",
+          "time": "1756",
+          "size": "28179225"
+        }
+      ]
+    },
+    {
+      "ide": "23322",
+      "date": "1954-02-13",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Study in Villainy, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 540213 021 A Study In Villainy_OTRRPG.mp3",
+          "time": "1768",
+          "size": "28364798"
+        }
+      ]
+    },
+    {
+      "ide": "23323",
+      "date": "1954-02-20",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Man"
+        },
+        {
+          "title": "Great Man, Good Man"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 540220 022 Great Man, Good Man_OTRRPG.mp3",
+          "time": "1746",
+          "size": "28021235"
+        }
+      ]
+    },
+    {
+      "ide": "23324",
+      "date": "1954-02-27",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Through Alien Eyes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23325",
+      "date": "1954-03-13",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thomas Wolfe's America"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 540313 024 Thomas Wolfe's America_OTRRPG.mp3",
+          "time": "1645",
+          "size": "26394525"
+        }
+      ]
+    },
+    {
+      "ide": "23326",
+      "date": "1954-03-20",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Showboat and Other Pastimes, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23327",
+      "date": "1954-03-27",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Indians and Indian Fighters"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23328",
+      "date": "1954-04-03",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lives of the Americans"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23329",
+      "date": "1954-04-06",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "23330",
+      "date": "1954-04-10",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mormon Principal, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23331",
+      "date": "1954-04-17",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Collector's Items"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23332",
+      "date": "1954-10-16",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "23333",
+      "date": "1954-10-23",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "23334",
+      "date": "1954-10-30",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "23335",
+      "date": "1954-11-06",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "23336",
+      "date": "1954-11-13",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Literary Lights"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 541113 006 Two Literary Lights_OTRRPG.mp3",
+          "time": "1733",
+          "size": "27806404"
+        }
+      ]
+    },
+    {
+      "ide": "23337",
+      "date": "1954-11-20",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Three Musketeers And Other Characters"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 541120 007 The Three Musketeers And Other Characters_OTRRPG.mp3",
+          "time": "1738",
+          "size": "27891690"
+        }
+      ]
+    },
+    {
+      "ide": "23338",
+      "date": "1954-11-27",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yankee Crusade"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 541127 008 Yankee Crusade_OTRRPG.mp3",
+          "time": "1742",
+          "size": "27949341"
+        }
+      ]
+    },
+    {
+      "ide": "23339",
+      "date": "1954-12-04",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "23340",
+      "date": "1954-12-11",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Some Pleasant People"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 541211 010 Some Pleasant People_OTRRPG.mp3",
+          "time": "1769",
+          "size": "28378174"
+        }
+      ]
+    },
+    {
+      "ide": "23341",
+      "date": "1954-12-18",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "23342",
+      "date": "1954-12-25",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winter Scene"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 541225 011 Winter Scene_OTRRPG.mp3",
+          "time": "1766",
+          "size": "28273345"
+        }
+      ]
+    },
+    {
+      "ide": "23343",
+      "date": "1955-01-01",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fine Additions"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 550101 012 Fine Additions_OTRRPG.mp3",
+          "time": "1751",
+          "size": "28101896"
+        }
+      ]
+    },
+    {
+      "ide": "23344",
+      "date": "1955-01-08",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fugitives from Unreason"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23345",
+      "date": "1955-01-15",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Big Town"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 550115 014 The Big Town_OTRRPG.mp3",
+          "time": "1773",
+          "size": "28452980"
+        }
+      ]
+    },
+    {
+      "ide": "23346",
+      "date": "1955-01-22",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stories from Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 550122 015 Stories From Home_OTRRPG.mp3",
+          "time": "1740",
+          "size": "27917997"
+        }
+      ]
+    },
+    {
+      "ide": "23347",
+      "date": "1955-01-29",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Reason Why"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 550129 016 The Reason Why_OTRRPG.mp3",
+          "time": "1767",
+          "size": "28346821"
+        }
+      ]
+    },
+    {
+      "ide": "23348",
+      "date": "1955-02-05",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Notable Books"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 550205 017 Notable Books_OTRRPG.mp3",
+          "time": "1773",
+          "size": "28447130"
+        }
+      ]
+    },
+    {
+      "ide": "23349",
+      "date": "1955-02-12",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr. Lincoln"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Americana",
+          "name": "Americana 550212 018 Mr. Lincoln_OTRRPG.mp3",
+          "time": "1767",
+          "size": "28280868"
+        }
+      ]
+    },
+    {
+      "ide": "23350",
+      "date": "1955-02-19",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "23351",
+      "date": "1955-02-26",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wild West, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23352",
+      "date": "1955-03-05",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sound of Jazz, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Americana"
+    }
+  ]
+}

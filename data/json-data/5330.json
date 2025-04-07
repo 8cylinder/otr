@@ -1,0 +1,101 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "46046",
+      "first": "Sarah Ann",
+      "last": "McCabe",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "2121",
+      "first": "Joseph",
+      "last": "Gallicchio",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1932-01-23",
+      "dow": "W",
+      "time": "5:00 PM",
+      "end": "1933-01-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1938-05-31",
+      "dow": "Sa",
+      "time": "3:30 PM",
+      "end": "1938-08-11",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1940-04-13",
+      "dow": "Sa",
+      "time": "11:30 AM",
+      "end": "1940-08-03",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1940-08-10",
+      "dow": "Sa",
+      "time": "10:30 AM",
+      "end": "1940-11-30",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Joseph Gallichio Orchestra"
+    }
+  ]
+}

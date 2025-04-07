@@ -1,0 +1,229 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "DANE"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322180428-823bcaa6.jpg",
+      "label": "Darkness, RADIO KLON CALIFORNIA",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322180449-f610268b.jpg",
+      "label": "Darkness (large version)",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/D Series/Darkness/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "19246",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For My Next Trick"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Darkness",
+          "name": "Darkness-01-For My Next Trick.mp3",
+          "time": "1665",
+          "size": "6659352"
+        }
+      ]
+    },
+    {
+      "ide": "19247",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Catch Kill"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Darkness",
+          "name": "Darkness-02-Catch Kill.mp3",
+          "time": "1493",
+          "size": "5971704"
+        }
+      ]
+    },
+    {
+      "ide": "19248",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Funhouse"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Darkness",
+          "name": "Darkness-03-Funhouse.mp3",
+          "time": "1577",
+          "size": "6306480"
+        }
+      ]
+    },
+    {
+      "ide": "19256",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life Span"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Darkness",
+          "name": "Darkness-04-Life Span.mp3",
+          "time": "1667",
+          "size": "6669024"
+        }
+      ]
+    },
+    {
+      "ide": "19257",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Toltecs Tomb"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Darkness",
+          "name": "Darkness-05-ToltecsTomb.mp3",
+          "time": "1392",
+          "size": "5568912"
+        }
+      ]
+    },
+    {
+      "ide": "19255",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can't You Do Anything Right"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Darkness",
+          "name": "Darkness-06-Cant You Do Anything Right.mp3",
+          "time": "1618",
+          "size": "6471216"
+        }
+      ]
+    },
+    {
+      "ide": "54638",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Weekend Vacation"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Darkness",
+          "name": "Darkness-07-Weekend Vacation.mp3",
+          "time": "1506",
+          "size": "6023704"
+        }
+      ]
+    },
+    {
+      "ide": "54637",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trust Me Darling I Love You"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Darkness",
+          "name": "Darkness-08-Trust Me Darling I Love You.mp3",
+          "time": "1460",
+          "size": "5842120"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Darkness, The"
+    }
+  ]
+}

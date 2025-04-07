@@ -1,0 +1,144 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1899",
+      "first": "Parker",
+      "last": "Fennelly",
+      "f": "Noted Role",
+      "character": "Esly Stebbins"
+    },
+    {
+      "idperson": "3627",
+      "first": "Phillips H.",
+      "last": "Lord",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3627",
+      "first": "Phillips H.",
+      "last": "Lord",
+      "f": "Noted Role",
+      "character": "Esly Stebbins"
+    },
+    {
+      "idperson": "5718",
+      "first": "Robert",
+      "last": "Strauss",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "8092",
+      "first": "Arthur B.",
+      "last": "Allen",
+      "f": "Noted Role",
+      "character": "John Stebbins"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "3194",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "undefined",
+      "date": "1932-11-01",
+      "source": "Radio Stars/Radio Stars 3211.pdf",
+      "idpytype2": "4",
+      "title": "Radio Stars 3211.pdf",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Serial"
+    },
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1932-03-14",
+      "dow": "M,Tu,W,Th,F",
+      "time": "6:45 PM",
+      "end": "1932-10-21",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1931-06-22",
+      "dow": "M,Tu,W,Th,F",
+      "time": "6:45 PM",
+      "end": "1932-03-14",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Swift and Company",
+      "begin": "1931-06-22",
+      "end": "1932-10-21"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Stebbens Boys, The"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "23474",
+      "first": "Isabel Manning",
+      "last": "Hewson",
+      "f": "Noted Role",
+      "character": "Commentator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1936-12-01",
+      "dow": "Tu,Th",
+      "time": "",
+      "end": "1937-04-22",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1937-09-14",
+      "dow": "",
+      "time": "2:00 PM",
+      "end": "1937-12-09",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Pure Milk Products (Gold-n-Rich Cheese)",
+      "begin": "1936-12-01",
+      "end": "1937-04-22"
+    },
+    {
+      "sponsor": "J.B. Ford Company (Wyandotte Cleaning Products)",
+      "begin": "1937-09-14",
+      "end": "1937-12-09"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Petticoat Philosopher"
+    }
+  ]
+}

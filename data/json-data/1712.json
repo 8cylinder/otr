@@ -1,0 +1,542 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Broadway In Review/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-1712-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Anchors Aweigh"
+    },
+    {
+      "theme": "Give My Regards To Broadway"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "254659",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Four Brothers - (Allen Prescott Announcer)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "173624",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jane Wilson - (Allen Prescott Announcer)"
+        },
+        {
+          "title": "Guest - Jane Wilson, 1st Juke Box Saturday Night"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 53xxxx 010 Guest - Jane Wilson, 1st; Juke Box Saturday Night (192-44).mp3",
+          "time": "921",
+          "size": "22179073"
+        }
+      ]
+    },
+    {
+      "ide": "173625",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Kay Armen - (Allen Prescott Announcer) (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "173628",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Jane Pickens - (George Hicks Announcer)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "173629",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Take the A-Train - (George Hicks Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (15) First Song - Take the A-Train - (George Hicks Announcer).mp3",
+          "time": "826",
+          "size": "13220810"
+        }
+      ]
+    },
+    {
+      "ide": "173630",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Big Wide Wonderful World - (George Hicks Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (16) First Song - Big Wide Wonderful World - (George Hicks Announcer).mp3",
+          "time": "878",
+          "size": "14040854"
+        }
+      ]
+    },
+    {
+      "ide": "254664",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - South Rampart Street Parade - (George Hicks Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (19) First Song - South Rampart Street Parade - (George Hicks Announcer).mp3",
+          "time": "824",
+          "size": "13188221"
+        }
+      ]
+    },
+    {
+      "ide": "173616",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Take the A-Train - (Allen Prescott Announcer)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "254658",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Forty Second Street - (George Hicks Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (20) First Song - Forty Second Street - (George Hicks Announcer).mp3",
+          "time": "874",
+          "size": "13981499"
+        }
+      ]
+    },
+    {
+      "ide": "254660",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - It's a Good Day - (George Hicks Announcer)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "254663",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Oklahoma - (George Hicks Announcer)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "254666",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You're Driving Me Crazy - (George Hicks Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (23) First Song - You're Driving Me Crazy - (George Hicks Announcer).mp3",
+          "time": "875",
+          "size": "13999475"
+        }
+      ]
+    },
+    {
+      "ide": "254665",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - There's No Business Like Show Business - (George Hicks Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (24) First Song - There's No Business Like Show Business - (George Hicks Announcer).mp3",
+          "time": "910",
+          "size": "14555376"
+        }
+      ]
+    },
+    {
+      "ide": "254661",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Juke Box Saturday Night - (George Hicks Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (25) First Song - Juke Box Saturday Night - (George Hicks Announcer).mp3",
+          "time": "835",
+          "size": "13357490"
+        }
+      ]
+    },
+    {
+      "ide": "254662",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Manhattan - (George Hicks Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (26) First Song - Manhattan - (George Hicks Announcer).mp3",
+          "time": "877",
+          "size": "14032062"
+        }
+      ]
+    },
+    {
+      "ide": "173617",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Jane Wilson - (Allen Prescott Announcer)"
+        },
+        {
+          "title": "Guest - Jane Wilson, 1st Song - Juke Box Saturday Night"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "173618",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Kay Armen - (Allen Prescott Announcer)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "173619",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Opus Number One - (Allen Prescott Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (05) First Song - Opus Number One - (Allen Prescott Announcer).mp3",
+          "time": "910",
+          "size": "14552428"
+        }
+      ]
+    },
+    {
+      "ide": "173620",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Big Noise From Winnetka - (Allen Prescott Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (06) First Song - Big Noise From Winnetka - (Allen Prescott Announcer).mp3",
+          "time": "916",
+          "size": "14656090"
+        }
+      ]
+    },
+    {
+      "ide": "173621",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Jane Pickens - (Allen Prescott Announcer)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "173622",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Judy Johnson - (Allen Prescott Announcer)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "173626",
+      "date": "1953-08-30",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Kitty Kallen - (Allen Prescott Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 53-08-30with Kitty Kallen.mp3",
+          "time": "909",
+          "size": "7279221"
+        }
+      ]
+    },
+    {
+      "ide": "173623",
+      "date": "1954-03-31",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Pat Marand - (Allen Prescott Announcer)"
+        },
+        {
+          "title": "1st- June is Bustin' Out All Over. Guest, Pat Marand"
+        },
+        {
+          "title": "1st- June is Bustin' Out All Over. Guest, Pat Marand"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 540331 09 1st- June is Bustin' Out All Over. Guest, Pat Marand (192-44).mp3",
+          "time": "920",
+          "size": "22164654"
+        }
+      ]
+    },
+    {
+      "ide": "173631",
+      "date": "1954-05-26",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Can't Give You Anything But Love - (George Hicks Announcer)"
+        },
+        {
+          "title": "1st-'I Can't Give You Anything but Love'. Guest, Judy Lynn"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 540526 17 1st-'I Can't Give You Anything but Love'. Guest, Judy Lynn (c).mp3",
+          "time": "882",
+          "size": "14186858"
+        },
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (17) First Song - I Can't Give You Anything But Love - (George Hicks Announcer).mp3",
+          "time": "825",
+          "size": "13194079"
+        }
+      ]
+    },
+    {
+      "ide": "173632",
+      "date": "1954-06-02",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Carioca - (George Hicks Announcer)"
+        },
+        {
+          "title": "1st- 'The Carioca'. Guest, Eugenie Baird"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 540602 18 1st- 'The Carioca'. Guest, Eugenie Baird (c).mp3",
+          "time": "880",
+          "size": "14152585"
+        },
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 5x-xx-xx (18) First Song - Carioca - (George Hicks Announcer).mp3",
+          "time": "827",
+          "size": "13226653"
+        }
+      ]
+    },
+    {
+      "ide": "173627",
+      "date": "1954-10-11",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Annette Warren - (Allen Prescott Announcer)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Broadway In Review",
+          "name": "Broadway In Review 54-10-11 with Annette Warren.mp3",
+          "time": "916",
+          "size": "7331466"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Broadway in Review"
+    }
+  ]
+}

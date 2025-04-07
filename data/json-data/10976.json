@@ -1,0 +1,85 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2977",
+      "first": "Gordon",
+      "last": "Jenkins",
+      "f": "Noted Role",
+      "character": "6/22/41-10/19/41"
+    },
+    {
+      "idperson": "2977",
+      "first": "Gordon",
+      "last": "Jenkins",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "16175",
+      "first": "Charles",
+      "last": "Dant",
+      "f": "Noted Role",
+      "character": "9/6/40-4/27/41"
+    },
+    {
+      "idperson": "16175",
+      "first": "Charles",
+      "last": "Dant",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-09-06",
+      "dow": "Su",
+      "time": "7:45 PM",
+      "end": "1941-04-27",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1941-06-22",
+      "dow": "",
+      "time": "6:30 PM",
+      "end": "1941-10-19",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Music for Listening"
+    }
+  ]
+}

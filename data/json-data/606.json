@@ -1,0 +1,232 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185522-a64404c7.jpg",
+      "label": "Aliens In The Mind CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185523-9c64bcf8.jpg",
+      "label": "Aliens In The Mind CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185524-cbd5b2e1.jpg",
+      "label": "Aliens In The Mind CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/aim.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loga1011.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Aliens In The Mind/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4786",
+      "first": "Vincent",
+      "last": "Price",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45850",
+      "first": "Peter",
+      "last": "Cushing",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "19603",
+      "date": "1977-01-02",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Island Genesis"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Aliens In The Mind",
+          "name": "Aliens in the Mind 77-01-02 (1 of 6) Island Genesis.mp3",
+          "time": "1643",
+          "size": "13142917"
+        }
+      ]
+    },
+    {
+      "ide": "19604",
+      "date": "1977-01-09",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hurried Exodus"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Aliens In The Mind",
+          "name": "Aliens in the Mind 77-01-09 (2 of 6) Hurried Exodus.mp3",
+          "time": "1638",
+          "size": "13104437"
+        }
+      ]
+    },
+    {
+      "ide": "19605",
+      "date": "1977-01-16",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unexpected Visitations"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Aliens In The Mind",
+          "name": "Aliens in the Mind 77-01-16 (3 of 6) Unexpected Visitations.mp3",
+          "time": "1642",
+          "size": "13140021"
+        }
+      ]
+    },
+    {
+      "ide": "19606",
+      "date": "1977-01-23",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Official Intercession"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Aliens In The Mind",
+          "name": "Aliens in the Mind 77-01-23 (4 of 6) Official Intercessions.mp3",
+          "time": "1636",
+          "size": "13092389"
+        }
+      ]
+    },
+    {
+      "ide": "19607",
+      "date": "1977-01-30",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Genetic Revelation"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Aliens In The Mind",
+          "name": "Aliens in the Mind 77-01-30 (5 of 6) Genetic Revelation.mp3",
+          "time": "1640",
+          "size": "13120461"
+        }
+      ]
+    },
+    {
+      "ide": "19608",
+      "date": "1977-02-06",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Final Tribulation"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Aliens In The Mind",
+          "name": "Aliens in the Mind 77-02-06 (6 of 6) Final Tribulations.mp3",
+          "time": "1628",
+          "size": "13023741"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1977-01-02",
+      "dow": "",
+      "time": "",
+      "end": "1977-02-06",
+      "length": "30",
+      "country": "United Kingdom",
+      "network": "BBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Aliens In The Mind"
+    }
+  ]
+}

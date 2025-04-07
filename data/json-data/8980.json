@@ -1,0 +1,122 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "51100",
+      "first": "Jessie",
+      "last": "Hamilton",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "51101",
+      "first": "Pearl",
+      "last": "Hamilton",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "51102",
+      "first": "Violet",
+      "last": "Hamilton",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "There's Music In The Air"
+    }
+  ],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1932-10-03",
+      "dow": "M,W,F",
+      "time": "6:30 PM",
+      "end": "1932-11-26",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1933-03-02",
+      "dow": "",
+      "time": "",
+      "end": "1935-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1935-00-00",
+      "dow": "Tu,Th",
+      "time": "",
+      "end": "1936-07-07",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Tydol",
+      "begin": "1932-10-03",
+      "end": "1932-11-26"
+    },
+    {
+      "sponsor": "Feen-A-Mint",
+      "begin": "1933-03-03",
+      "end": "1935-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Three X Sisters"
+    }
+  ]
+}

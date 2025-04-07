@@ -1,0 +1,82 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4206",
+      "first": "Lucy",
+      "last": "Monroe",
+      "f": "Noted Role",
+      "character": "Hostess - vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-05-20",
+      "dow": "Sa",
+      "time": "1:30 PM",
+      "end": "1944-09-09",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1944-09-16",
+      "dow": "Sa",
+      "time": "12:00 PM",
+      "end": "1944-10-25",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Swing Shift Frolics"
+    }
+  ]
+}

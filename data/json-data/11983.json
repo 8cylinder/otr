@@ -1,0 +1,93 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5893",
+      "first": "Larry",
+      "last": "Thor",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46806",
+      "first": "Bob",
+      "last": "Lamond",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Stairway to the stars"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "315636",
+      "date": "1948-10-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - The Ewing Sisters"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tomorrow Calling",
+          "name": "Tomorrow Calling 481030 Guests - The Ewing Sisters_OTRRPG.mp3",
+          "time": "1725",
+          "size": "27685810"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    },
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1948-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Tomorrow Calling"
+    }
+  ]
+}

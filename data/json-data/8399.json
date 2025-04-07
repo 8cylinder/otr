@@ -1,0 +1,188 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Spotlight Playhouse/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6237",
+      "first": "Jack",
+      "last": "Webb",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6995",
+      "first": "Phil",
+      "last": "Bovero",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "22225",
+      "first": "Herb",
+      "last": "Haley",
+      "f": "Noted Role",
+      "character": "Narrated"
+    },
+    {
+      "idperson": "22225",
+      "first": "Herb",
+      "last": "Haley",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "29978",
+      "first": "Monte",
+      "last": "Masters",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "29979",
+      "first": "Natalie",
+      "last": "Masters",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "315097",
+      "date": "1946-03-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From This Window"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Spotlight Playhouse",
+          "name": "Spotlight Playhouse 460314 xxx From This Window (64-44)_OTRRPG.mp3",
+          "time": "1765",
+          "size": "14133314"
+        }
+      ]
+    },
+    {
+      "ide": "315098",
+      "date": "1946-03-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Genius From Hoboken"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Spotlight Playhouse",
+          "name": "Spotlight Playhouse 460321 xxx Genius From Hoboken (64-44)_OTRRPG.mp3",
+          "time": "1745",
+          "size": "13973239"
+        },
+        {
+          "path": "S",
+          "folder": "Spotlight Playhouse",
+          "name": "Spotlight Playhouse 46-03-21 Genius From Hoboken.mp3",
+          "time": "1737",
+          "size": "13896948"
+        },
+        {
+          "path": "S",
+          "folder": "Spotlight Playhouse",
+          "name": "Spotlight Playhouse 46-03-21 Genius From Hoboken.mp3",
+          "time": "1737",
+          "size": "13896948"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-03-14",
+      "dow": "Th",
+      "time": "",
+      "end": "1946-08-15",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Spotlight Playhouse"
+    }
+  ]
+}

@@ -1,0 +1,753 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323171609-d1ddaba3.jpg",
+      "label": "Miss Marple",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321247",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sleeping Murder By Agatha Christie Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321248",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sleeping Murder By Agatha Christie Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21682",
+      "date": "1993-12-26",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder at the Vicarage Pt 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE 931227 MURDER AT THE VICARAGE PT01.MP3",
+          "time": "2454",
+          "size": "9816920"
+        }
+      ]
+    },
+    {
+      "ide": "21683",
+      "date": "1993-12-27",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder at the Vicarage Pt 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE 931228 MURDER AT THE VICARAGE PT02.MP3",
+          "time": "2429",
+          "size": "9714102"
+        }
+      ]
+    },
+    {
+      "ide": "21684",
+      "date": "1993-12-28",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder at the Vicarage Pt 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE 931229 MURDER AT THE VICARAGE PT03.MP3",
+          "time": "1646",
+          "size": "6585051"
+        }
+      ]
+    },
+    {
+      "ide": "21685",
+      "date": "1993-12-29",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder at the Vicarage Pt 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE 931230 MURDER AT THE VICARAGE PT04.MP3",
+          "time": "1680",
+          "size": "6719007"
+        }
+      ]
+    },
+    {
+      "ide": "21686",
+      "date": "1993-12-30",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder at the Vicarage Pt 5"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21687",
+      "date": "1995-02-11",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Pocket Full of Rye, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21688",
+      "date": "1995-12-25",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "At Bertram's Hotel Pt 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AgathaChristie___BertramsHotel_Pt1.mp3",
+          "time": "2045",
+          "size": "32712829"
+        },
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "At Bertram's Hotel, 1 of 5.mp3",
+          "time": "1770",
+          "size": "21243506"
+        }
+      ]
+    },
+    {
+      "ide": "21689",
+      "date": "1995-12-26",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "At Bertram's Hotel Pt 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AgathaChristie___BertramsHotel_Pt2.mp3",
+          "time": "2067",
+          "size": "33068931"
+        },
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "At Bertram's Hotel, 2 of 5.mp3",
+          "time": "1770",
+          "size": "21235670"
+        }
+      ]
+    },
+    {
+      "ide": "21690",
+      "date": "1995-12-27",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "At Bertram's Hotel Pt 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AgathaChristie___BertramsHotel_Pt3.mp3",
+          "time": "2236",
+          "size": "35782322"
+        },
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "At Bertram's Hotel, 3 of 5.mp3",
+          "time": "1750",
+          "size": "20999314"
+        }
+      ]
+    },
+    {
+      "ide": "21691",
+      "date": "1995-12-28",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "At Bertram's Hotel Pt 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AgathaChristie___BertramsHotel_Pt4.mp3",
+          "time": "2245",
+          "size": "35923592"
+        },
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "At Bertram's Hotel, 4 of 5.mp3",
+          "time": "1763",
+          "size": "21157616"
+        }
+      ]
+    },
+    {
+      "ide": "21692",
+      "date": "1995-12-29",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "At Bertram's Hotel Pt 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "At Bertram's Hotel, 5 of 5.mp3",
+          "time": "1755",
+          "size": "21061694"
+        }
+      ]
+    },
+    {
+      "ide": "21693",
+      "date": "1997-03-29",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "4:50 from Paddington, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "Agatha Christie 970320 4.50 From Paddington pt01.mp3",
+          "time": "2661",
+          "size": "10645272"
+        },
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "Agatha Christie 970320 4.50 From Paddington pt02.mp3",
+          "time": "2666",
+          "size": "10662594"
+        }
+      ]
+    },
+    {
+      "ide": "21694",
+      "date": "1997-10-30",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Caribbean Mystery, A Pt 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "Agatha Christie 971030 Caribbean Mystery 01 .mp3",
+          "time": "1996",
+          "size": "8049664"
+        }
+      ]
+    },
+    {
+      "ide": "21695",
+      "date": "1997-11-06",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Caribbean Mystery, A Pt 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "Agatha Christie 971106 Caribbean Mystery 02 .mp3",
+          "time": "1931",
+          "size": "7789664"
+        }
+      ]
+    },
+    {
+      "ide": "21696",
+      "date": "1997-11-13",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Caribbean Mystery, A Pt 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "Agatha Christie 971113 Caribbean Mystery 03 .mp3",
+          "time": "1914",
+          "size": "7721664"
+        }
+      ]
+    },
+    {
+      "ide": "21697",
+      "date": "1997-11-20",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Caribbean Mystery, A Pt 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "Agatha Christie 971120 Caribbean Mystery 04 .mp3",
+          "time": "1876",
+          "size": "7569664"
+        }
+      ]
+    },
+    {
+      "ide": "21698",
+      "date": "1997-11-27",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Caribbean Mystery, A Pt 5"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21699",
+      "date": "1998-08-29",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mirror Crack'd from Side to Side, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21700",
+      "date": "1998-11-09",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nemesis Pt 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE Nemisis PT1.mp3",
+          "time": "1609",
+          "size": "25751424"
+        }
+      ]
+    },
+    {
+      "ide": "21701",
+      "date": "1998-11-16",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nemesis Pt 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE Nemisis PT2.mp3",
+          "time": "1666",
+          "size": "26663706"
+        }
+      ]
+    },
+    {
+      "ide": "21702",
+      "date": "1998-11-23",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nemesis Pt 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE Nemisis PT3A.mp3",
+          "time": "1107",
+          "size": "17716872"
+        },
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE Nemisis PT3B.mp3",
+          "time": "580",
+          "size": "9284127"
+        }
+      ]
+    },
+    {
+      "ide": "21703",
+      "date": "1998-11-30",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nemesis Pt 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE Nemisis PT4.mp3",
+          "time": "1631",
+          "size": "26092356"
+        }
+      ]
+    },
+    {
+      "ide": "21704",
+      "date": "1998-12-04",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nemesis Pt 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE Nemisis PT5.mp3",
+          "time": "1699",
+          "size": "27184483"
+        }
+      ]
+    },
+    {
+      "ide": "21705",
+      "date": "1999-05-22",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Body in the Library, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21706",
+      "date": "1999-08-09",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder Is Announced, A Pt 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "A.C. Miss Marple   Murder Is Announced pt.1.mp3",
+          "time": "2318",
+          "size": "11590271"
+        },
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE Murder Is Announced PT1.mp3",
+          "time": "2318",
+          "size": "37080922"
+        }
+      ]
+    },
+    {
+      "ide": "21707",
+      "date": "1999-08-16",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder Is Announced, A Pt 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "A.C. Miss Marple   Murder Is Announced pt.2.mp3",
+          "time": "2345",
+          "size": "11727284"
+        },
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE Murder Is Announced PT2.mp3",
+          "time": "2345",
+          "size": "37519360"
+        }
+      ]
+    },
+    {
+      "ide": "21708",
+      "date": "1999-08-23",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder Is Announced, A Pt 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "A.C. Miss Marple   Murder Is Announced pt.3.mp3",
+          "time": "1569",
+          "size": "7844819"
+        },
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE Murder Is Announced PT3.mp3",
+          "time": "1568",
+          "size": "25095524"
+        }
+      ]
+    },
+    {
+      "ide": "21709",
+      "date": "1999-08-30",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder Is Announced, A Pt 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "A.C. Miss Marple   Murder Is Announced pt.4.mp3",
+          "time": "1592",
+          "size": "7961341"
+        },
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "AGATHA CHRISTIE Murder Is Announced PT4.mp3",
+          "time": "1592",
+          "size": "25468344"
+        }
+      ]
+    },
+    {
+      "ide": "21710",
+      "date": "1999-09-06",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Is Announced, A Pt 5"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21711",
+      "date": "2001-05-05",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moving Finger, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Agatha Christie 1",
+          "name": "The Moving Finger .mp3",
+          "time": "5229",
+          "size": "41828937"
+        }
+      ]
+    },
+    {
+      "ide": "21712",
+      "date": "2001-07-23",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "They Do It with Mirrors Pt 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21713",
+      "date": "2001-07-30",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "They Do It with Mirrors Pt 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21714",
+      "date": "2001-08-06",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "They Do It with Mirrors Pt 3"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21715",
+      "date": "2001-08-13",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "They Do It with Mirrors Pt 4"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21716",
+      "date": "2001-08-20",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "They Do It with Mirrors Pt 5"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21717",
+      "date": "2001-12-08",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sleeping Murder, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Amateur Detective"
+    },
+    {
+      "genre": "Private Detective"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Agatha Christie's Miss Marple"
+    }
+  ]
+}

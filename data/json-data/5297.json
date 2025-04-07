@@ -1,0 +1,139 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3620",
+      "first": "Johnny",
+      "last": "Long",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3620",
+      "first": "Johnny",
+      "last": "Long",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "50227",
+      "first": "Helen",
+      "last": "Long",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "The White Star Of Sigma Nu', ' Shanty Town', 'Just Like That'"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1940-08-10",
+      "dow": "Sa",
+      "time": "3:30 PM",
+      "end": "1940-09-21",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1941-01-11",
+      "dow": "Sa",
+      "time": "6:00 PM",
+      "end": "1941-05-17",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1941-06-28",
+      "dow": "Sa",
+      "time": "2:00 PM",
+      "end": "1941-09-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Johnny Long Show, The"
+    }
+  ]
+}

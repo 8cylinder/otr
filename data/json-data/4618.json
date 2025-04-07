@@ -1,0 +1,1268 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "HILL"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324045307-9daaf169.jpg",
+      "label": "PatODanielHillbillyBoys CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324045312-4e9ca015.jpg",
+      "label": "PatODanielHillbillyBoys CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324045316-8e4c4811.jpg",
+      "label": "PatODanielHillbillyBoys CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Certified_The_Hillbilly_Boys",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_The_Hillbilly_Boys_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "home.hiwaay.net/%7Eajohns/retro/Hillbilly.html",
+      "label": "W. Lee O'Daniel and His Hillbilly Boys",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.texasstories.com/library/program.html?loc=TXS060917.html",
+      "label": "Texas Stories",
+      "idtype": "1"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,795014,00.html",
+      "label": "1940-04-29: O'Daniel Pays His Tithe",
+      "idtype": "11"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Certified_The_Hillbilly_Boys",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50695",
+      "first": "Pat",
+      "last": "O'Daniel",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "75071",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Never Slept A Wink Last Night"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep01_First_Song_-_I_Never_Slept_A_Wink_Last_Night.mp3",
+          "time": "858",
+          "size": "10295640"
+        }
+      ]
+    },
+    {
+      "ide": "257611",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Speed The Plow"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep10_First_Song_-_Speed_The_Plan.mp3",
+          "time": "888",
+          "size": "10657834"
+        }
+      ]
+    },
+    {
+      "ide": "257593",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Doofus"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep11_First_Song_-_Doofus.mp3",
+          "time": "892",
+          "size": "10706954"
+        }
+      ]
+    },
+    {
+      "ide": "257591",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Cross Patch"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep12_First_Song_-_Cross_Patch.mp3",
+          "time": "924",
+          "size": "11083786"
+        }
+      ]
+    },
+    {
+      "ide": "257599",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Ida"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep13_First_Song_-_Ida.mp3",
+          "time": "947",
+          "size": "11362314"
+        }
+      ]
+    },
+    {
+      "ide": "257619",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Wabash Blues"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep14_First_Song_-_Wabash_Blues.mp3",
+          "time": "947",
+          "size": "11358252"
+        }
+      ]
+    },
+    {
+      "ide": "257595",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Dream Time"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep15_First_Song_-_Dream_Time.mp3",
+          "time": "939",
+          "size": "11266058"
+        }
+      ]
+    },
+    {
+      "ide": "257620",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Washington Reel"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep16_First_Song_-_Washington_Reel.mp3",
+          "time": "937",
+          "size": "11247626"
+        }
+      ]
+    },
+    {
+      "ide": "257609",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sing On Brother, Sing!"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep17_First_Song_-_Sing_On_Brother_Sing.mp3",
+          "time": "888",
+          "size": "10654697"
+        }
+      ]
+    },
+    {
+      "ide": "257596",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Goin' Back To Texas"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep18_First_Song_-_Goin_Back_To_Texas.mp3",
+          "time": "900",
+          "size": "10795018"
+        }
+      ]
+    },
+    {
+      "ide": "257605",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Ned Kendall's Horn Pipe"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep19_First_Song_-_Ned_Kendalls_Horn_Pipe.mp3",
+          "time": "930",
+          "size": "11165799"
+        }
+      ]
+    },
+    {
+      "ide": "75070",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Fisher's Hornpipe"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep02_First_Song_-_Fishers_Hornpipe.mp3",
+          "time": "888",
+          "size": "10654028"
+        }
+      ]
+    },
+    {
+      "ide": "257592",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Darktown Strutters Ball"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep20_First_Song_-_Darktown_Strutters_Ball.mp3",
+          "time": "934",
+          "size": "11204618"
+        }
+      ]
+    },
+    {
+      "ide": "257589",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bye Bye Blues"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep21_First_Song_-_Bye_Bye_Blues.mp3",
+          "time": "952",
+          "size": "11419694"
+        }
+      ]
+    },
+    {
+      "ide": "257602",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Leave Me With A Smile"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep22_First_Song_-_Leave_Me_With_A_Smile.mp3",
+          "time": "995",
+          "size": "11939850"
+        }
+      ]
+    },
+    {
+      "ide": "257621",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Yes Sir, That's My Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep23_First_Song_-_Yes_Sir_Thats_My_Baby.mp3",
+          "time": "915",
+          "size": "10981386"
+        }
+      ]
+    },
+    {
+      "ide": "257598",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Was Doing Alright"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep24_First_Song_-_I_Was_Doing_Alright.mp3",
+          "time": "866",
+          "size": "10387466"
+        }
+      ]
+    },
+    {
+      "ide": "257617",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Tumblin' Tumbleweeds"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep25_First_Song_-_Tumblin_Tumbleweeds.mp3",
+          "time": "954",
+          "size": "11449024"
+        }
+      ]
+    },
+    {
+      "ide": "257610",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Skip To My Lou"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep26_First_Song_-_Skip_To_My_Lou.mp3",
+          "time": "938",
+          "size": "11259677"
+        }
+      ]
+    },
+    {
+      "ide": "257614",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The West Texas Stomp"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep27_First_Song_-_The_West_Texas_Stomp.mp3",
+          "time": "902",
+          "size": "10820205"
+        }
+      ]
+    },
+    {
+      "ide": "257615",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Whitesboro Jump"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep28_First_Song_-_The_Whitesboro_Jump.mp3",
+          "time": "962",
+          "size": "11545567"
+        }
+      ]
+    },
+    {
+      "ide": "257590",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Chinese Breakdown"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep29_First_Song_-_Chinese_Breakdown.mp3",
+          "time": "938",
+          "size": "11250279"
+        }
+      ]
+    },
+    {
+      "ide": "75069",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - LIttle Mother Of The Hill"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep03_First_Song_-_LIttle_Mother_Of_The_Hill.mp3",
+          "time": "871",
+          "size": "10446560"
+        }
+      ]
+    },
+    {
+      "ide": "257601",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Kilham"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep30_First_Song_-_Kilham.mp3",
+          "time": "900",
+          "size": "10799188"
+        }
+      ]
+    },
+    {
+      "ide": "257588",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bluezies"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep31_First_Song_-_Bluezies.mp3",
+          "time": "932",
+          "size": "11180680"
+        }
+      ]
+    },
+    {
+      "ide": "257606",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Old Uncle Zeke"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep32_First_Song_-_Old_Uncle_Zeke.mp3",
+          "time": "977",
+          "size": "11725179"
+        }
+      ]
+    },
+    {
+      "ide": "257604",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Milenburg Joys"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep33_First_Song_-_Milenburg_Joys.mp3",
+          "time": "912",
+          "size": "10949654"
+        }
+      ]
+    },
+    {
+      "ide": "257600",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jealous"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep34_First_Song_-_Jealous.mp3",
+          "time": "945",
+          "size": "11338040"
+        }
+      ]
+    },
+    {
+      "ide": "257613",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Bear Creek Hop"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep35_First_Song_-_The_Bear_Creek_Hop.mp3",
+          "time": "939",
+          "size": "11266268"
+        }
+      ]
+    },
+    {
+      "ide": "257608",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rural Rhythm"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep36_First_Song_-_Rural_Rhythm.mp3",
+          "time": "932",
+          "size": "11186331"
+        }
+      ]
+    },
+    {
+      "ide": "257618",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Under The Moon"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep37_First_Song_-_Under_The_Moon.mp3",
+          "time": "849",
+          "size": "10182282"
+        }
+      ]
+    },
+    {
+      "ide": "257594",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Down The River of Golden Dreams"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep38_First_Song_-_Down_The_River_of_Golden_Dreams.mp3",
+          "time": "880",
+          "size": "10565690"
+        }
+      ]
+    },
+    {
+      "ide": "257603",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Little Box Of Pine On the 7:29"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep39_First_Song_-_Little_Box_Of_Pine_on_the_7_29.mp3",
+          "time": "888",
+          "size": "10661704"
+        }
+      ]
+    },
+    {
+      "ide": "75068",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Little Dutch Kindergarten"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep04_First_Song_-_Little_Dutch_Kindergarten.mp3",
+          "time": "880",
+          "size": "10560349"
+        }
+      ]
+    },
+    {
+      "ide": "257597",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hoppin' Lucy"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep40_First_Song_-_Hoppin_Lucy.mp3",
+          "time": "928",
+          "size": "11132728"
+        }
+      ]
+    },
+    {
+      "ide": "257587",
+      "date": "0000-00-00",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song  - Lazy River"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep41_First_Song_-_Lazy_River.mp3",
+          "time": "902",
+          "size": "10823645"
+        }
+      ]
+    },
+    {
+      "ide": "257612",
+      "date": "0000-00-00",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sweet Jennie Lee"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep42_First_Song_-_Sweet_Jennie_Lee.mp3",
+          "time": "964",
+          "size": "11566254"
+        }
+      ]
+    },
+    {
+      "ide": "257586",
+      "date": "0000-00-00",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fill-in Program- Kooky Todd"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep43_Fill-in_Program-_Kooky_Todd.mp3",
+          "time": "692",
+          "size": "8305855"
+        }
+      ]
+    },
+    {
+      "ide": "257607",
+      "date": "0000-00-00",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rosalee"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep44_First_Song_-_Rosalee.mp3",
+          "time": "876",
+          "size": "10507346"
+        }
+      ]
+    },
+    {
+      "ide": "257616",
+      "date": "0000-00-00",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Tugboat"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep45_First_Song_-_Tugboat.mp3",
+          "time": "872",
+          "size": "10466282"
+        }
+      ]
+    },
+    {
+      "ide": "75067",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - She'll Be Coming Around The Mountain"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Crazy_Water_Crystal_Program_3x-xx-xx_ep05_First_Song_-_Freemason_March.mp3",
+          "time": "862",
+          "size": "6896492"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep05_First_Song_-_Shell_Be_Coming_Around_The_Mountain.mp3",
+          "time": "876",
+          "size": "10513319"
+        }
+      ]
+    },
+    {
+      "ide": "75066",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Getting Sentimental Over You"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep06_First_Song_-_Im_Getting_Sentimental_Over_You.mp3",
+          "time": "857",
+          "size": "10288274"
+        }
+      ]
+    },
+    {
+      "ide": "75074",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Chewing Chewing Chewing Gum"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep07_First_Song_-_Chewing_Chewing_Chewing_Gum.mp3",
+          "time": "884",
+          "size": "10610730"
+        }
+      ]
+    },
+    {
+      "ide": "75073",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The 12th Street Rag"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep08_First_Song_-_The_12th_Street_Rag.mp3",
+          "time": "862",
+          "size": "10344506"
+        }
+      ]
+    },
+    {
+      "ide": "75072",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Somebody Loves You"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Crazy_Hillbillies_3x-xx-xx_ep09_First_Song_-_Under_the_Double_Eagle.mp3",
+          "time": "763",
+          "size": "6100312"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "ep09_First_Song_-_Somebody_Loves_You.mp3",
+          "time": "910",
+          "size": "10924042"
+        }
+      ]
+    },
+    {
+      "ide": "317561",
+      "date": "1936-04-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Dinah"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_36-04-30_epxxxx_First_Song_-_Dinah.mp3",
+          "time": "850",
+          "size": "3400609"
+        }
+      ]
+    },
+    {
+      "ide": "317562",
+      "date": "1936-05-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Paris Top Cornpipe"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_36-05-01_epxxxx_First_Song_-_Paris_Top_Cornpipe.mp3",
+          "time": "862",
+          "size": "3448778"
+        }
+      ]
+    },
+    {
+      "ide": "317563",
+      "date": "1936-05-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hand Me Down My Walking Cane"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_36-05-16_epxxxx_First_Song_-_Hand_Me_Down_My_Walking_Cane.mp3",
+          "time": "857",
+          "size": "3429970"
+        }
+      ]
+    },
+    {
+      "ide": "317572",
+      "date": "1940-06-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sunday Broadcast"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "W._LEE_ODANIEL_40-06-xx_Sunday_Broadcast.mp3",
+          "time": "1894",
+          "size": "16582862"
+        }
+      ]
+    },
+    {
+      "ide": "317565",
+      "date": "1948-01-01",
+      "epnum": "1218",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Barrell Polka"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_48-xx-xx_ep1218_First_Song_-_Barrell_Polka.mp3",
+          "time": "905",
+          "size": "5427210"
+        }
+      ]
+    },
+    {
+      "ide": "317566",
+      "date": "1948-01-01",
+      "epnum": "1299",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sweet Sue"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_48-xx-xx_ep1299_First_Song_-_Sweet_Sue.mp3",
+          "time": "879",
+          "size": "5273610"
+        }
+      ]
+    },
+    {
+      "ide": "317567",
+      "date": "1948-01-01",
+      "epnum": "1300",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Song of the Volga Boatmen"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_48-xx-xx_ep1300_First_Song_-_Song_of_the_Volga_Boatmen.mp3",
+          "time": "878",
+          "size": "5269514"
+        }
+      ]
+    },
+    {
+      "ide": "317568",
+      "date": "1948-01-01",
+      "epnum": "1308",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Get the Blues When It Rains"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_48-xx-xx_ep1308_First_Song_-_I_Get_the_Blues_When_It_Rains.mp3",
+          "time": "881",
+          "size": "5283850"
+        }
+      ]
+    },
+    {
+      "ide": "317569",
+      "date": "1948-01-01",
+      "epnum": "1309",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Take Me Back to Tulsa"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_48-xx-xx_ep1309_First_Song_-_Take_Me_Back_to_Tulsa.mp3",
+          "time": "877",
+          "size": "5261322"
+        }
+      ]
+    },
+    {
+      "ide": "317564",
+      "date": "1948-12-24",
+      "epnum": "1795",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jingle Bells"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_48-12-24_ep1795_First_Song_-_Jingle_Bells.mp3",
+          "time": "564",
+          "size": "4515850"
+        }
+      ]
+    },
+    {
+      "ide": "317570",
+      "date": "1949-01-01",
+      "epnum": "1860",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Lucky Days"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_49-xx-xx_ep1860_First_Song_-_Lucky_Days.mp3",
+          "time": "876",
+          "size": "7010314"
+        }
+      ]
+    },
+    {
+      "ide": "317571",
+      "date": "1949-01-01",
+      "epnum": "1861",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Moonlight And Roses"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Light_Crust_Doughboys_49-xx-xx_ep1861_First_Song_-_Moonlight_And_Roses.mp3",
+          "time": "880",
+          "size": "7041034"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "Hillbilly Flour",
+      "begin": "1939-00-00",
+      "end": "1939-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Hillbilly Boys, The"
+    }
+  ]
+}

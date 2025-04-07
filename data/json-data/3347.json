@@ -1,0 +1,554 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "EMLA"
+    }
+  ],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "57236",
+      "date": "1966-03-15",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Ambassador, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57237",
+      "date": "1966-03-22",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Overseas Economy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57238",
+      "date": "1966-03-29",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Security"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57239",
+      "date": "1966-04-05",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Princess, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57240",
+      "date": "1966-04-12",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Survivor, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57241",
+      "date": "1966-04-19",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trip To London, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57242",
+      "date": "1966-04-26",
+      "epnum": "107",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57243",
+      "date": "1966-05-03",
+      "epnum": "108",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tratvian Jails, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57244",
+      "date": "1966-05-10",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tratvian State Casino, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57245",
+      "date": "1966-05-17",
+      "epnum": "110",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hydro Electric Scheme, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57246",
+      "date": "1966-05-24",
+      "epnum": "111",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Party, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57247",
+      "date": "1966-05-31",
+      "epnum": "112",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr. Pettigrew's Promotion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57248",
+      "date": "1966-06-07",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Turkish Ambassador, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57249",
+      "date": "1967-01-17",
+      "epnum": "201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grand Order, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57250",
+      "date": "1967-01-24",
+      "epnum": "202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wine Festival, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57251",
+      "date": "1967-01-31",
+      "epnum": "203",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Economic Problems"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57252",
+      "date": "1967-02-07",
+      "epnum": "204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Birthday Surprise, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57253",
+      "date": "1967-02-14",
+      "epnum": "205",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Parking Problems"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57254",
+      "date": "1967-02-21",
+      "epnum": "206",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tania Nostrova"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57255",
+      "date": "1967-02-28",
+      "epnum": "207",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oil Rig, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57256",
+      "date": "1967-03-07",
+      "epnum": "208",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Launching, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57257",
+      "date": "1967-03-14",
+      "epnum": "209",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missing Document, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57258",
+      "date": "1967-03-21",
+      "epnum": "210",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Student Exchange"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57259",
+      "date": "1967-03-28",
+      "epnum": "211",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "French Ambassador, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57260",
+      "date": "1967-04-04",
+      "epnum": "212",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Power Cuts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57261",
+      "date": "1967-04-11",
+      "epnum": "213",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Comprehensive School, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57262",
+      "date": "1967-04-18",
+      "epnum": "214",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Weekend, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57263",
+      "date": "1968-03-05",
+      "epnum": "301",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "King's Hostess, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57264",
+      "date": "1968-03-12",
+      "epnum": "302",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Question Of Convenience, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57265",
+      "date": "1968-03-19",
+      "epnum": "303",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unwelcome Deputy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57266",
+      "date": "1968-03-26",
+      "epnum": "304",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "British Image, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57267",
+      "date": "1968-04-02",
+      "epnum": "305",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Leak, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57268",
+      "date": "1968-04-09",
+      "epnum": "306",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "China Figures, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57269",
+      "date": "1968-04-16",
+      "epnum": "307",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sub-Lt Phillips Drops In"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57270",
+      "date": "1968-04-23",
+      "epnum": "308",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "GNIT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57271",
+      "date": "1968-04-30",
+      "epnum": "309",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Picnic, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57272",
+      "date": "1968-05-07",
+      "epnum": "310",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Embassy Party, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57273",
+      "date": "1968-05-14",
+      "epnum": "311",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pettigrew Joins the Foreign Office"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57274",
+      "date": "1968-05-21",
+      "epnum": "312",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do It Yourself"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57275",
+      "date": "1968-05-28",
+      "epnum": "313",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "57276",
+      "date": "1968-06-04",
+      "epnum": "314",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Day Off, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "57277",
+      "date": "1968-06-11",
+      "epnum": "315",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Freeze, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Embassy Lark, The - BBC"
+    }
+  ]
+}

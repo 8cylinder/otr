@@ -1,0 +1,123 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3612",
+      "first": "Stan",
+      "last": "Lomax",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3435",
+      "first": "Jerry",
+      "last": "Lawrence",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3612",
+      "first": "Stan",
+      "last": "Lomax",
+      "f": "Noted Role",
+      "character": "Sportscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313779",
+      "date": "1939-05-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chicago White Sox vs The New York Yankee Sportswriters"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hit The Ball",
+          "name": "Hit The Ball 390519 01 Chicago White Sox vs The New York Yankee Sportswriters_OTRRPG.mp3",
+          "time": "1778",
+          "size": "28534291"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sports"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-05-19",
+      "dow": "F",
+      "time": "",
+      "end": "1939-06-09",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1935-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Hit The Ball"
+    },
+    {
+      "title": "Hit That Ball"
+    },
+    {
+      "title": "Stan Lomax"
+    },
+    {
+      "title": "Stan Lomax  Show, The"
+    },
+    {
+      "title": "Stan Lomax Sports Revue"
+    }
+  ]
+}

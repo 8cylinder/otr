@@ -1,0 +1,143 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "331623",
+      "date": "1952-11-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Delayed Reaction"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "NewsstandTheaterJHMC",
+          "name": "Newsstand Theater 521106 Delayed Reaction.mp3",
+          "time": "1736",
+          "size": "23741462"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1951-04-05",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1951-10-04",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1951-10-09",
+      "dow": "Tu",
+      "time": "",
+      "end": "1952-06-17",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1952-07-04",
+      "dow": "F",
+      "time": "9:00 PM",
+      "end": "1952-09-19",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1952-09-29",
+      "dow": "Th",
+      "time": "8:30 PM",
+      "end": "1952-12-04",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Newsstand Theater"
+    }
+  ]
+}

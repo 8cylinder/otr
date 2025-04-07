@@ -1,0 +1,8957 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "http://www.whitsend.org/",
+      "label": "Whit's End Home",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6678",
+      "first": "Mary",
+      "last": "Barclay",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "159",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1997-01-01",
+      "source": "AirCheck/Aircheck_V07_01Jan97.pdf",
+      "idpytype2": "4",
+      "title": "Aircheck V07 #01 - Jan 1997",
+      "author": ""
+    },
+    {
+      "idprint": "162",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1998-01-01",
+      "source": "AirCheck/Aircheck_V08_01Jan98.pdf",
+      "idpytype2": "4",
+      "title": "Aircheck V08 #01 - Jan 1998",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "241245",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Welcome to Whit's End"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241218",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Here Am I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20835",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Science Club, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20836",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three in One"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20837",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In My Image"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20838",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stepping Stones, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20839",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stepping Stones, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20840",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Final Call, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20833",
+      "date": "1987-11-21",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Whit's Flop"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20834",
+      "date": "1987-11-28",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Truth Be Told, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20841",
+      "date": "1988-01-16",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doing unto Others"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20842",
+      "date": "1988-01-23",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nothing to Fear"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20843",
+      "date": "1988-01-30",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Addictions Can Be Habit-Forming"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20844",
+      "date": "1988-02-06",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tangled Web, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20845",
+      "date": "1988-02-13",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bobby's Valentine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20846",
+      "date": "1988-02-20",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missed It By That Much"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20847",
+      "date": "1988-02-27",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Brother's Keeper"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20848",
+      "date": "1988-03-05",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Stupid Questions"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20849",
+      "date": "1988-03-12",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Member of the Family I, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20850",
+      "date": "1988-03-19",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Member of the Family II, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20851",
+      "date": "1988-03-26",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recollections"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20852",
+      "date": "1988-04-02",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mike Makes Right"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20853",
+      "date": "1988-04-09",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Missing Train Car, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20854",
+      "date": "1988-04-16",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Simple Addition, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20855",
+      "date": "1988-04-23",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quality of Mercy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20856",
+      "date": "1988-04-30",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gotcha!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20857",
+      "date": "1988-05-07",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harley Takes the Case I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20858",
+      "date": "1988-05-14",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harley Takes the Case II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20859",
+      "date": "1988-05-21",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Change of Hart, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20860",
+      "date": "1988-05-28",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Price of Freedom, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20861",
+      "date": "1988-06-04",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rumor Has It"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20862",
+      "date": "1988-06-11",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Honor Thy Parents"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20863",
+      "date": "1988-06-18",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Family Vacation I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20864",
+      "date": "1988-06-25",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Family Vacation II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20865",
+      "date": "1988-07-02",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Day Independence Came, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20866",
+      "date": "1988-07-09",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stormy Weather"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20867",
+      "date": "1988-07-16",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "V.B.S. Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20868",
+      "date": "1988-07-23",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kid's Radio"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20869",
+      "date": "1988-07-30",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Camp What-a-Nut I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20870",
+      "date": "1988-08-06",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Camp What-a-Nut II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20871",
+      "date": "1988-08-13",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Secret Room I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20872",
+      "date": "1988-08-20",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Secret Room II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20873",
+      "date": "1988-08-27",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Return to the Bible Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20874",
+      "date": "1988-09-03",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Great Adventure of the Summer, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20875",
+      "date": "1988-09-10",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Back to School"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20876",
+      "date": "1988-09-12",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Sure Seemed Like It to Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20877",
+      "date": "1988-10-22",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Are We Going to Do About Halloween?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20878",
+      "date": "1988-10-29",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shepherd and the Giant, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20879",
+      "date": "1988-11-05",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Single Vote, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20880",
+      "date": "1988-11-12",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Heroes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20881",
+      "date": "1988-11-19",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thank You, God"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20882",
+      "date": "1988-11-26",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Karen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20883",
+      "date": "1988-12-03",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Connie I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20884",
+      "date": "1988-12-10",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Connie II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20885",
+      "date": "1988-12-17",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sacred Trust, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20886",
+      "date": "1988-12-24",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Peace on Earth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20887",
+      "date": "1988-12-31",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Auld Lang Syne"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20888",
+      "date": "1989-01-07",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "By Faith, Noah"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20889",
+      "date": "1989-01-14",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prodigal, Jimmy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20890",
+      "date": "1989-01-21",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Matter of Obedience, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20891",
+      "date": "1989-01-28",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Worker Approved, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20892",
+      "date": "1989-02-04",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "And When You Pray..."
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20893",
+      "date": "1989-02-11",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boy Who Didn't Go to Church, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20894",
+      "date": "1989-02-18",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Let This Mind Be in You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20895",
+      "date": "1989-02-25",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good and Faithful Servant, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20896",
+      "date": "1989-03-04",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Greatest of These, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20897",
+      "date": "1989-03-11",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bad Company"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20898",
+      "date": "1989-03-18",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Imagination Station I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20899",
+      "date": "1989-03-25",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Imagination Station II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20900",
+      "date": "1989-04-01",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Choices"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20901",
+      "date": "1989-04-08",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Go Ye Therefore"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20902",
+      "date": "1989-04-29",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Return of Harley I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20903",
+      "date": "1989-05-06",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Return of Harley II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20904",
+      "date": "1989-05-13",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Encounter with Mrs. Hooper, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20905",
+      "date": "1989-05-20",
+      "epnum": "73",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bite of Applesauce, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20906",
+      "date": "1989-06-10",
+      "epnum": "74",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Connie Goes to Camp I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20907",
+      "date": "1989-06-17",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Connie Goes to Camp II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20908",
+      "date": "1989-06-24",
+      "epnum": "76",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eugene's Dilemma"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20909",
+      "date": "1989-07-08",
+      "epnum": "77",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nemesis I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20910",
+      "date": "1989-07-15",
+      "epnum": "78",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nemesis II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20911",
+      "date": "1989-07-22",
+      "epnum": "79",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Our Best Vacation Ever"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20912",
+      "date": "1989-07-29",
+      "epnum": "80",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prisoner for Christ, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20913",
+      "date": "1989-08-05",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good Business"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20914",
+      "date": "1989-08-12",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Heatwave"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20915",
+      "date": "1989-08-18",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20916",
+      "date": "1989-08-26",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20917",
+      "date": "1989-09-16",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You Go to School Where?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20918",
+      "date": "1989-09-23",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Isaac the Insecure"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20919",
+      "date": "1989-09-30",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Elijah I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20920",
+      "date": "1989-10-07",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Elijah II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20921",
+      "date": "1989-10-14",
+      "epnum": "89",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "That's Not Fair"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20922",
+      "date": "1989-10-21",
+      "epnum": "90",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "But, You Promised"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20923",
+      "date": "1989-10-28",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mission for Jimmy, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20924",
+      "date": "1989-11-04",
+      "epnum": "92",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ill-gotten Deed, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20925",
+      "date": "1989-11-11",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rescue From Manatugo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20926",
+      "date": "1989-11-18",
+      "epnum": "94",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Operation Digout"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20927",
+      "date": "1989-12-02",
+      "epnum": "95",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Very Best of Friends, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20928",
+      "date": "1989-12-09",
+      "epnum": "96",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reluctant Rival, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20929",
+      "date": "1989-12-16",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Monty's Christmas"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20930",
+      "date": "1989-12-23",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vistors, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20931",
+      "date": "1989-12-30",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Barclay Ski Vacation, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20932",
+      "date": "1990-01-20",
+      "epnum": "100",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ice Fishing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20933",
+      "date": "1990-01-27",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Scattered Seeds"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20934",
+      "date": "1990-02-03",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Treasure of Le Monde!, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20935",
+      "date": "1990-02-10",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Front Page News"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20936",
+      "date": "1990-02-17",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lincoln I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20937",
+      "date": "1990-02-24",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lincoln II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20938",
+      "date": "1990-03-03",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "By Any Other Name"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20939",
+      "date": "1990-03-10",
+      "epnum": "107",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bad Luck"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20940",
+      "date": "1990-03-17",
+      "epnum": "108",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Isaac the Courageous"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20941",
+      "date": "1990-03-24",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Sides to Every Story"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20942",
+      "date": "1990-04-14",
+      "epnum": "110",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A...Is for Attitude"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20943",
+      "date": "1990-04-21",
+      "epnum": "111",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20944",
+      "date": "1990-04-28",
+      "epnum": "112",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curious, Isn't It?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20945",
+      "date": "1990-05-05",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Suspicious Minds"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20946",
+      "date": "1990-06-09",
+      "epnum": "114",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Broadcast, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20947",
+      "date": "1990-06-16",
+      "epnum": "115",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Act of Mercy, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20948",
+      "date": "1990-06-23",
+      "epnum": "116",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Isaac the Benevolent"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20949",
+      "date": "1990-06-30",
+      "epnum": "117",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trouble with Girls, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20950",
+      "date": "1990-07-07",
+      "epnum": "118",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Happened to the Silver Streak?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20951",
+      "date": "1990-07-14",
+      "epnum": "119",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Better Late than Never"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20952",
+      "date": "1990-07-21",
+      "epnum": "120",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pranks for the Memories"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20953",
+      "date": "1990-07-28",
+      "epnum": "121",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missing Person"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20954",
+      "date": "1990-08-04",
+      "epnum": "122",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Castles & Cauldrons I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20955",
+      "date": "1990-08-11",
+      "epnum": "123",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Castles & Cauldrons II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20956",
+      "date": "1990-08-18",
+      "epnum": "124",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winning Edge, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20957",
+      "date": "1990-08-25",
+      "epnum": "125",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All's Well with Boswell"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20958",
+      "date": "1990-09-01",
+      "epnum": "126",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wishful Thinking"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20959",
+      "date": "1990-09-08",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Have You No Selpurcs?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20960",
+      "date": "1990-09-15",
+      "epnum": "128",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One Bad Apple"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20961",
+      "date": "1990-09-22",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Not One of Us"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20962",
+      "date": "1990-10-27",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bernard and Joseph I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20963",
+      "date": "1990-10-30",
+      "epnum": "131",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bernard and Joseph II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20964",
+      "date": "1990-11-17",
+      "epnum": "132",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thanksgiving at Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20965",
+      "date": "1990-11-24",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cousin Albert"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20966",
+      "date": "1990-12-01",
+      "epnum": "134",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pamela Has a Problem"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20967",
+      "date": "1990-12-08",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Back to Bethlehem I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20968",
+      "date": "1990-12-15",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Back to Bethlehem II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20969",
+      "date": "1990-12-22",
+      "epnum": "137",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Back to Bethlehem III"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20970",
+      "date": "1990-12-29",
+      "epnum": "138",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adventure of the Adventure, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20971",
+      "date": "1991-01-05",
+      "epnum": "139",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Melanie's Diary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20972",
+      "date": "1991-01-12",
+      "epnum": "140",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vow, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20973",
+      "date": "1991-01-19",
+      "epnum": "141",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Over the Airwaves"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20974",
+      "date": "1991-01-26",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Train Ride"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20975",
+      "date": "1991-02-02",
+      "epnum": "143",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Muckraker"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20976",
+      "date": "1991-02-09",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Someone to Watch Over Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20977",
+      "date": "1991-03-02",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Second Coming, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20978",
+      "date": "1991-03-09",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Emotional Baggage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20979",
+      "date": "1991-03-30",
+      "epnum": "147",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where There's a Will There's A Way"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20980",
+      "date": "1991-04-01",
+      "epnum": "149",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "By Dawn's Early Light"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20981",
+      "date": "1991-04-06",
+      "epnum": "148",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Isaac the Procrastinator"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20982",
+      "date": "1991-04-20",
+      "epnum": "150",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Home Is Where the Hurt Is"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20983",
+      "date": "1991-04-27",
+      "epnum": "151",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "...The Last Shall Be First"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20984",
+      "date": "1991-05-04",
+      "epnum": "152",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Meaning of Sacrifice, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20985",
+      "date": "1991-05-11",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mayor for a Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20986",
+      "date": "1991-05-18",
+      "epnum": "154",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coming of Age"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20987",
+      "date": "1991-06-22",
+      "epnum": "155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Waylaid in the Windy City I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20988",
+      "date": "1991-06-29",
+      "epnum": "156",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Waylaid in the Windy City II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20989",
+      "date": "1991-07-06",
+      "epnum": "157",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last in a Long Line"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20990",
+      "date": "1991-07-13",
+      "epnum": "158",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Day in the Life, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20991",
+      "date": "1991-07-20",
+      "epnum": "159",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Homecoming, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20992",
+      "date": "1991-07-27",
+      "epnum": "160",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rathbone of Contention, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20993",
+      "date": "1991-08-03",
+      "epnum": "161",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Isaac the True Friend"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20994",
+      "date": "1991-08-10",
+      "epnum": "162",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Peacemaker"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20995",
+      "date": "1991-08-17",
+      "epnum": "163",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Model Child, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20996",
+      "date": "1991-08-24",
+      "epnum": "164",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sixties-Something"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20997",
+      "date": "1991-08-31",
+      "epnum": "165",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bernard and Esther I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20998",
+      "date": "1991-09-07",
+      "epnum": "166",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bernard and Esther II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "20999",
+      "date": "1991-09-14",
+      "epnum": "167",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dobson Comes to Town"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21000",
+      "date": "1991-09-21",
+      "epnum": "168",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curse, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21001",
+      "date": "1991-10-28",
+      "epnum": "169",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hold Up!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21002",
+      "date": "1991-11-02",
+      "epnum": "170",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Test for Robyn, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21003",
+      "date": "1991-11-07",
+      "epnum": "171",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cross of Cortes I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21004",
+      "date": "1991-11-09",
+      "epnum": "172",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cross of Cortes II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21005",
+      "date": "1991-11-16",
+      "epnum": "173",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thanksgiving Carol, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21006",
+      "date": "1991-11-23",
+      "epnum": "174",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where's Your Daddy?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21007",
+      "date": "1991-11-30",
+      "epnum": "175",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "East Winds, Raining"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21008",
+      "date": "1991-12-14",
+      "epnum": "176",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Star I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21009",
+      "date": "1991-12-21",
+      "epnum": "177",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Star II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21010",
+      "date": "1991-12-23",
+      "epnum": "178",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Roommate"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21011",
+      "date": "1992-01-04",
+      "epnum": "179",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You Gotta Be Wise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21012",
+      "date": "1992-01-11",
+      "epnum": "180",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Isaac the Pure"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21013",
+      "date": "1992-01-18",
+      "epnum": "181",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Takes Integrity"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21014",
+      "date": "1992-02-15",
+      "epnum": "182",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Scales of Justice, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21015",
+      "date": "1992-02-22",
+      "epnum": "183",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tales of Moderation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21016",
+      "date": "1992-02-29",
+      "epnum": "184",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Isaac the Chivalrous"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21017",
+      "date": "1992-03-07",
+      "epnum": "185",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Question of Loyalty, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21018",
+      "date": "1992-03-14",
+      "epnum": "186",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Conscientious Cross-Guard, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21019",
+      "date": "1992-03-21",
+      "epnum": "187",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Act of Nobility, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21020",
+      "date": "1992-03-28",
+      "epnum": "188",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Courage to Stand, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21021",
+      "date": "1992-04-04",
+      "epnum": "189",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No, Honestly!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21022",
+      "date": "1992-04-11",
+      "epnum": "190",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moses, the Passover I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21023",
+      "date": "1992-04-18",
+      "epnum": "191",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moses, the Passover II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21024",
+      "date": "1992-04-25",
+      "epnum": "192",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Modesty is the Best Policy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21025",
+      "date": "1992-05-02",
+      "epnum": "193",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tongue of Fire, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21026",
+      "date": "1992-05-09",
+      "epnum": "194",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "License to Drive, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21027",
+      "date": "1992-06-20",
+      "epnum": "195",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Father's Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21028",
+      "date": "1992-06-27",
+      "epnum": "196",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harlow Doyle, Private Eye"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21029",
+      "date": "1992-07-04",
+      "epnum": "197",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Midnight Ride, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21030",
+      "date": "1992-07-11",
+      "epnum": "198",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Treasure Hunt"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21031",
+      "date": "1992-07-18",
+      "epnum": "199",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No' Factor, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21032",
+      "date": "1992-07-25",
+      "epnum": "200",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Feud for Thought"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21033",
+      "date": "1992-08-15",
+      "epnum": "201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fair-Weather Fans"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21034",
+      "date": "1992-08-22",
+      "epnum": "202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Timmy's Cabin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21035",
+      "date": "1992-08-29",
+      "epnum": "203",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Trouble"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21036",
+      "date": "1992-09-05",
+      "epnum": "204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wonderworld"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21037",
+      "date": "1992-09-26",
+      "epnum": "205",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flash Flood"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21038",
+      "date": "1992-10-03",
+      "epnum": "206",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pen Pal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21039",
+      "date": "1992-10-10",
+      "epnum": "207",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Candid Camera, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21040",
+      "date": "1992-10-17",
+      "epnum": "208",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pipe Dreams"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21041",
+      "date": "1992-10-24",
+      "epnum": "209",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Columbus, the Grand Voyage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21042",
+      "date": "1992-10-31",
+      "epnum": "210",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Solid Ground"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21043",
+      "date": "1992-11-21",
+      "epnum": "211",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mortal Coil I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21044",
+      "date": "1992-11-28",
+      "epnum": "212",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mortal Coil II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21045",
+      "date": "1992-12-05",
+      "epnum": "213",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Best Intentions"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21046",
+      "date": "1992-12-12",
+      "epnum": "214",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Living Nativity, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21047",
+      "date": "1992-12-19",
+      "epnum": "215",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Caroling, Caroling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21048",
+      "date": "1992-12-26",
+      "epnum": "216",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Like Father, Like Son"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21049",
+      "date": "1993-01-02",
+      "epnum": "217",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rights, Wrongs, and Reasons"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21050",
+      "date": "1993-01-09",
+      "epnum": "218",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Class Act, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21051",
+      "date": "1993-01-16",
+      "epnum": "219",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Treasures of the Heart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21052",
+      "date": "1993-02-20",
+      "epnum": "220",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This Is Chad Pearson?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21053",
+      "date": "1993-02-27",
+      "epnum": "221",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Is Well"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21054",
+      "date": "1993-03-06",
+      "epnum": "222",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jesus Cloth, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21055",
+      "date": "1993-03-13",
+      "epnum": "223",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Real Time"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21056",
+      "date": "1993-03-20",
+      "epnum": "224",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Greater Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21057",
+      "date": "1993-03-27",
+      "epnum": "225",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Count It All Joy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21058",
+      "date": "1993-04-03",
+      "epnum": "226",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adventure in Bethany I, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21059",
+      "date": "1993-04-10",
+      "epnum": "227",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adventure in Bethany II, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21060",
+      "date": "1993-04-17",
+      "epnum": "228",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Game of Compassion, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21061",
+      "date": "1993-04-24",
+      "epnum": "229",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marriage Feast, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21062",
+      "date": "1993-05-15",
+      "epnum": "230",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Our Father"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21063",
+      "date": "1993-05-22",
+      "epnum": "231",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hallowed Be Thy Name"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21064",
+      "date": "1993-05-29",
+      "epnum": "232",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thy Kingdom Come"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21065",
+      "date": "1993-06-05",
+      "epnum": "233",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thy Will Be Done"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21066",
+      "date": "1993-06-12",
+      "epnum": "234",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Our Daily Bread"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21067",
+      "date": "1993-06-19",
+      "epnum": "235",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Forgive Us as We Forgive"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21068",
+      "date": "1993-06-26",
+      "epnum": "236",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Into Tempation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21069",
+      "date": "1993-07-02",
+      "epnum": "237",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deliver Us from Evil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21070",
+      "date": "1993-07-10",
+      "epnum": "238",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Thine Is the Kingdom"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21071",
+      "date": "1993-07-17",
+      "epnum": "239",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Power, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21072",
+      "date": "1993-07-24",
+      "epnum": "240",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "And the Glory"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21073",
+      "date": "1993-07-31",
+      "epnum": "241",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Forever... Amen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21074",
+      "date": "1993-09-04",
+      "epnum": "242",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hymn Writers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21075",
+      "date": "1993-09-11",
+      "epnum": "243",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Family Values"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21076",
+      "date": "1993-09-18",
+      "epnum": "244",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mysterious Stranger I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21077",
+      "date": "1993-09-25",
+      "epnum": "245",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mysterious Stranger II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21078",
+      "date": "1993-10-02",
+      "epnum": "246",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Fair Bernard"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21079",
+      "date": "1993-10-09",
+      "epnum": "247",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Don't You Grow Up?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21080",
+      "date": "1993-10-30",
+      "epnum": "248",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terror from the Skies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21081",
+      "date": "1993-11-06",
+      "epnum": "249",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Delinquent Disciples, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21082",
+      "date": "1993-11-13",
+      "epnum": "250",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pilgrim's Progress Revisited I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21083",
+      "date": "1993-11-20",
+      "epnum": "251",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pilgrim's Progress Revisited II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21084",
+      "date": "1993-12-11",
+      "epnum": "252",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bad Hair Day, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21085",
+      "date": "1993-12-18",
+      "epnum": "253",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time for Christmas, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21086",
+      "date": "1994-01-08",
+      "epnum": "254",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Truth, Trivia, and 'Trina"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21087",
+      "date": "1994-01-15",
+      "epnum": "255",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boy Who Cried 'Destructo!', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21088",
+      "date": "1994-01-22",
+      "epnum": "256",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aloha, Oy! I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21089",
+      "date": "1994-01-29",
+      "epnum": "257",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aloha, Oy! II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21090",
+      "date": "1994-02-05",
+      "epnum": "258",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aloha, Oy! III"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21091",
+      "date": "1994-02-12",
+      "epnum": "259",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Potential in Elliot, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21092",
+      "date": "1994-02-19",
+      "epnum": "260",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Naturally, I Assumed..."
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21093",
+      "date": "1994-02-26",
+      "epnum": "261",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afraid, Not!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21094",
+      "date": "1994-04-02",
+      "epnum": "262",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer for George Barclay, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21095",
+      "date": "1994-04-09",
+      "epnum": "263",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When Bad Isn't So Good"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21096",
+      "date": "1994-04-16",
+      "epnum": "264",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Making the Grade"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21097",
+      "date": "1994-04-23",
+      "epnum": "265",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "War of the Words"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21098",
+      "date": "1994-04-30",
+      "epnum": "266",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Began with a Rabbit's Foot..."
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21099",
+      "date": "1994-05-07",
+      "epnum": "267",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "...It Ended with a Handshake"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21100",
+      "date": "1994-05-15",
+      "epnum": "268",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pet Peeves"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21101",
+      "date": "1994-05-21",
+      "epnum": "269",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fences"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21102",
+      "date": "1994-05-28",
+      "epnum": "270",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "War Hero, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21103",
+      "date": "1994-06-04",
+      "epnum": "271",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secret Keys of Discipline, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21104",
+      "date": "1994-06-11",
+      "epnum": "272",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Brothers... and Bernard I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21105",
+      "date": "1994-06-18",
+      "epnum": "273",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Brothers... and Bernard II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21106",
+      "date": "1994-07-23",
+      "epnum": "274",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First-Hand Experience"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21107",
+      "date": "1994-07-30",
+      "epnum": "275",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Second Thoughts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21108",
+      "date": "1994-08-06",
+      "epnum": "276",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Third Degree"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21109",
+      "date": "1994-08-13",
+      "epnum": "277",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Happened at Four Corners"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21110",
+      "date": "1994-08-18",
+      "epnum": "280",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gone? 8/26/1994"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21111",
+      "date": "1994-08-20",
+      "epnum": "278",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fifth House on the Left I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21112",
+      "date": "1994-08-27",
+      "epnum": "279",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fifth House on the Left II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21113",
+      "date": "1994-09-10",
+      "epnum": "281",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "...But Not Forgotten"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21114",
+      "date": "1994-09-17",
+      "epnum": "282",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fundamentals, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21115",
+      "date": "1994-09-24",
+      "epnum": "283",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Book by Its Cover, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21116",
+      "date": "1994-10-01",
+      "epnum": "284",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Election Deception, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21117",
+      "date": "1994-10-08",
+      "epnum": "285",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "George Under Pressure"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21118",
+      "date": "1994-10-22",
+      "epnum": "288",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Twilife Zone, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21119",
+      "date": "1994-10-29",
+      "epnum": "286",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tom for Mayor I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21120",
+      "date": "1994-11-05",
+      "epnum": "287",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tom for Mayor II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21121",
+      "date": "1994-11-19",
+      "epnum": "289",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Call for Reverend Jimmy, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21122",
+      "date": "1994-11-26",
+      "epnum": "290",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Name, Not a Number I, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21123",
+      "date": "1994-12-03",
+      "epnum": "291",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Name, Not a Number II, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21124",
+      "date": "1994-12-10",
+      "epnum": "292",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Siege at Jericho"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21125",
+      "date": "1994-12-17",
+      "epnum": "293",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Code of Honor, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21126",
+      "date": "1994-12-24",
+      "epnum": "294",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unto Us a Child Is Born"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21127",
+      "date": "1994-12-31",
+      "epnum": "295",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Soaplessly Devoted"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21128",
+      "date": "1995-01-07",
+      "epnum": "296",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Wagons and Pink Flamingos"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21129",
+      "date": "1995-01-14",
+      "epnum": "297",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blackbeard's Treasure"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21130",
+      "date": "1995-01-21",
+      "epnum": "298",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Want My B-TV"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21131",
+      "date": "1995-01-28",
+      "epnum": "299",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Truth About Zachary, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21132",
+      "date": "1995-02-04",
+      "epnum": "300",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Preacher's Kid"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21133",
+      "date": "1995-02-11",
+      "epnum": "301",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good, the Bad, and Butch, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21134",
+      "date": "1995-02-18",
+      "epnum": "302",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Share and Share Alike"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21135",
+      "date": "1995-02-25",
+      "epnum": "303",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All the Difference in the World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21136",
+      "date": "1995-03-04",
+      "epnum": "304",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "St. Paul, the Man from Tarsus"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21137",
+      "date": "1995-03-11",
+      "epnum": "305",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "St. Paul, Set Apart by God"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21138",
+      "date": "1995-03-18",
+      "epnum": "306",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Victim of Circumstance, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21139",
+      "date": "1995-03-25",
+      "epnum": "307",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poetry in Slow Motion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21140",
+      "date": "1995-04-01",
+      "epnum": "308",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Subject Yourself"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21141",
+      "date": "1995-04-08",
+      "epnum": "309",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Perfect Witness I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21142",
+      "date": "1995-04-15",
+      "epnum": "310",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Perfect Witness II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21143",
+      "date": "1995-04-22",
+      "epnum": "311",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Perfect Witness III, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21144",
+      "date": "1995-04-29",
+      "epnum": "312",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rewards in Full"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21145",
+      "date": "1995-05-06",
+      "epnum": "313",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Top This!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21146",
+      "date": "1995-05-13",
+      "epnum": "314",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Underground Railroad I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21147",
+      "date": "1995-05-20",
+      "epnum": "315",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Underground Railroad II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21148",
+      "date": "1995-05-27",
+      "epnum": "316",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Underground Railroad III, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21149",
+      "date": "1995-06-03",
+      "epnum": "317",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "B-TV Envy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21150",
+      "date": "1995-06-10",
+      "epnum": "318",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Touch of Healing I, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21151",
+      "date": "1995-06-17",
+      "epnum": "319",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Touch of Healing II, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21152",
+      "date": "1995-06-24",
+      "epnum": "320",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where Is Thy Sting?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21153",
+      "date": "1995-07-01",
+      "epnum": "321",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hidden in My Heart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21154",
+      "date": "1995-07-08",
+      "epnum": "322",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Turning Point, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21155",
+      "date": "1995-07-15",
+      "epnum": "323",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Credit, Please, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21156",
+      "date": "1995-07-22",
+      "epnum": "324",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Small Fires, Little Pools"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21157",
+      "date": "1995-07-29",
+      "epnum": "325",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Angels Unaware"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21158",
+      "date": "1995-08-05",
+      "epnum": "326",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gathering Thunder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21159",
+      "date": "1995-08-12",
+      "epnum": "327",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moving Targets"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21160",
+      "date": "1995-08-19",
+      "epnum": "328",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hard Losses"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21161",
+      "date": "1995-08-26",
+      "epnum": "329",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Return, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21162",
+      "date": "1995-09-02",
+      "epnum": "330",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time Has Come, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21163",
+      "date": "1995-09-16",
+      "epnum": "331",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Checkmate"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21164",
+      "date": "1995-09-23",
+      "epnum": "332",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Another Chance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21165",
+      "date": "1995-09-30",
+      "epnum": "333",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Resort, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21166",
+      "date": "1995-10-07",
+      "epnum": "334",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Final Conflict, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21167",
+      "date": "1995-10-16",
+      "epnum": "335",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Is in the Air I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21168",
+      "date": "1995-10-23",
+      "epnum": "336",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Is in the Air II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21169",
+      "date": "1995-11-11",
+      "epnum": "337",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "W-O-R-R-Y"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21170",
+      "date": "1995-11-18",
+      "epnum": "338",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Easy Money"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21171",
+      "date": "1995-12-02",
+      "epnum": "339",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do, for a Change"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21172",
+      "date": "1996-01-06",
+      "epnum": "340",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pokenberry Falls, R.F.D. I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21173",
+      "date": "1996-01-13",
+      "epnum": "341",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pokenberry Falls, R.F.D. II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21174",
+      "date": "1996-01-20",
+      "epnum": "342",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Welcome Home, Mr. Blackgaard"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21175",
+      "date": "1996-01-27",
+      "epnum": "343",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pretty Good Samaritan, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21176",
+      "date": "1996-02-03",
+      "epnum": "344",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Letting Go"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21177",
+      "date": "1996-02-10",
+      "epnum": "345",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "B-TV Compassion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21178",
+      "date": "1996-03-02",
+      "epnum": "346",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "St. Paul, Voyage to Rome"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21179",
+      "date": "1996-03-09",
+      "epnum": "347",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "St. Paul, an Appointment with Caesar"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21180",
+      "date": "1996-03-16",
+      "epnum": "348",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "With a Little Help from My Friends"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21181",
+      "date": "1996-03-23",
+      "epnum": "349",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blessings in Disguise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21182",
+      "date": "1996-04-13",
+      "epnum": "350",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time of Our Lives, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21183",
+      "date": "1996-04-20",
+      "epnum": "351",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Are You Gonna Do with Your Life?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21184",
+      "date": "1996-04-27",
+      "epnum": "352",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Memories of Jerry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21185",
+      "date": "1996-05-04",
+      "epnum": "353",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Question About Tasha, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21186",
+      "date": "1996-05-11",
+      "epnum": "354",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blind Justice"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21187",
+      "date": "1996-05-18",
+      "epnum": "355",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search for Whit I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21188",
+      "date": "1996-05-25",
+      "epnum": "356",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search for Whit II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21189",
+      "date": "1996-06-01",
+      "epnum": "357",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search for Whit III, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21190",
+      "date": "1996-09-21",
+      "epnum": "358",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secret Weapon, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21191",
+      "date": "1996-09-28",
+      "epnum": "359",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Merchant of Odyssey, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21192",
+      "date": "1996-10-05",
+      "epnum": "360",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three Funerals and a Wedding I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21193",
+      "date": "1996-10-12",
+      "epnum": "361",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three Funerals and a Wedding II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21194",
+      "date": "1996-10-19",
+      "epnum": "362",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Right Choice I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21195",
+      "date": "1996-10-26",
+      "epnum": "363",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Right Choice II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21196",
+      "date": "1996-11-02",
+      "epnum": "364",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Home, Sweet Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21197",
+      "date": "1996-11-09",
+      "epnum": "365",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clara"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21198",
+      "date": "1996-11-16",
+      "epnum": "366",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Solitary Refinement"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21199",
+      "date": "1996-11-23",
+      "epnum": "367",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Decision, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21200",
+      "date": "1996-11-30",
+      "epnum": "368",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Other Woman, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21201",
+      "date": "1996-12-07",
+      "epnum": "369",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It's a Wrap!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21202",
+      "date": "1996-12-14",
+      "epnum": "370",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Around the World I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21203",
+      "date": "1996-12-21",
+      "epnum": "371",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Around the World II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21204",
+      "date": "1997-09-06",
+      "epnum": "372",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Whom the Wedding Bells Toll I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21205",
+      "date": "1997-09-13",
+      "epnum": "373",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Whom the Wedding Bells Toll II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21206",
+      "date": "1997-09-20",
+      "epnum": "374",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Whom the Wedding Bells Toll III"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21207",
+      "date": "1997-09-27",
+      "epnum": "375",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pushover, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21208",
+      "date": "1997-10-04",
+      "epnum": "376",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chores No More"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21209",
+      "date": "1997-10-11",
+      "epnum": "377",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Just Say Yes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21210",
+      "date": "1997-10-18",
+      "epnum": "378",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Painting, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21211",
+      "date": "1997-10-25",
+      "epnum": "379",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Best Face Forward"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21212",
+      "date": "1997-11-01",
+      "epnum": "380",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One About Trust I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21213",
+      "date": "1997-11-08",
+      "epnum": "381",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One About Trust II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21214",
+      "date": "1997-11-15",
+      "epnum": "382",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Viva la Difference"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21215",
+      "date": "1997-11-22",
+      "epnum": "383",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "B-TV Thanks"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21216",
+      "date": "1997-12-06",
+      "epnum": "384",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Amazing Grace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21217",
+      "date": "1997-12-13",
+      "epnum": "385",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It's a Pokenberry Christmas I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21218",
+      "date": "1997-12-20",
+      "epnum": "386",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It's a Pokenberry Christmas II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21219",
+      "date": "1998-01-03",
+      "epnum": "387",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Year's Eve Live!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21220",
+      "date": "1998-01-10",
+      "epnum": "388",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Leap of Faith"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21221",
+      "date": "1998-01-17",
+      "epnum": "389",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "O.T. Action News Jephthah's Vow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21222",
+      "date": "1998-01-24",
+      "epnum": "390",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Bones About It"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21223",
+      "date": "1998-01-31",
+      "epnum": "391",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jokes On You, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21224",
+      "date": "1998-02-07",
+      "epnum": "392",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When in Doubt... Pray!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21225",
+      "date": "1998-02-14",
+      "epnum": "393",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wrapped Around Your Finger"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21226",
+      "date": "1998-03-07",
+      "epnum": "394",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Patrick, a Heart Afire I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21227",
+      "date": "1998-03-14",
+      "epnum": "395",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Patrick, a Heart Afire II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21228",
+      "date": "1998-03-21",
+      "epnum": "396",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poor Loser"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21229",
+      "date": "1998-03-28",
+      "epnum": "397",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tornado!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21230",
+      "date": "1998-04-04",
+      "epnum": "398",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of Revenge, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21231",
+      "date": "1998-04-11",
+      "epnum": "399",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bernard and Job"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21232",
+      "date": "1998-04-18",
+      "epnum": "400",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spy Who Bugged Me, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21233",
+      "date": "1998-04-25",
+      "epnum": "401",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "More Like Alicia"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21234",
+      "date": "1998-05-02",
+      "epnum": "402",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arizona Sunrise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21235",
+      "date": "1998-05-09",
+      "epnum": "403",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Faster Than a Speeding Ticket"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21236",
+      "date": "1998-05-16",
+      "epnum": "404",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hide and Seek"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21237",
+      "date": "1998-05-23",
+      "epnum": "405",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Graduate, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21238",
+      "date": "1998-09-12",
+      "epnum": "406",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Malachi's Message I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21239",
+      "date": "1998-09-19",
+      "epnum": "407",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Malachi's Message II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21240",
+      "date": "1998-09-26",
+      "epnum": "408",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Malachi's Message III"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21241",
+      "date": "1998-10-03",
+      "epnum": "409",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Natural Born Leader"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21242",
+      "date": "1998-10-10",
+      "epnum": "410",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "B-TV Forgiveness"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21243",
+      "date": "1998-10-17",
+      "epnum": "411",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In All Things Give Thanks"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21244",
+      "date": "1998-10-24",
+      "epnum": "412",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lesson from Mike, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21245",
+      "date": "1998-10-31",
+      "epnum": "413",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Devil Made Me Do It, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21246",
+      "date": "1998-11-07",
+      "epnum": "414",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Buried Sin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21247",
+      "date": "1998-11-14",
+      "epnum": "415",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gloobers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21248",
+      "date": "1998-11-21",
+      "epnum": "416",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tower, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21249",
+      "date": "1998-11-28",
+      "epnum": "417",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Not-So-Trivial Pursuit"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21250",
+      "date": "1999-03-06",
+      "epnum": "418",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Opening Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21251",
+      "date": "1999-03-27",
+      "epnum": "419",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Another Man's Shoes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21252",
+      "date": "1999-04-17",
+      "epnum": "420",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Telemachus I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21253",
+      "date": "1999-04-24",
+      "epnum": "421",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Telemachus II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21254",
+      "date": "1999-09-18",
+      "epnum": "422",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21255",
+      "date": "1999-09-25",
+      "epnum": "423",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21256",
+      "date": "1999-10-02",
+      "epnum": "424",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blackgaard's Revenge I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21257",
+      "date": "1999-10-09",
+      "epnum": "425",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blackgaard's Revenge II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21258",
+      "date": "1999-10-16",
+      "epnum": "426",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Buck Starts Here, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21259",
+      "date": "1999-10-23",
+      "epnum": "427",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Something Cliqued Between Us"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21260",
+      "date": "1999-10-30",
+      "epnum": "428",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eternal Birthday/Bethany's Imaginary Friend, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21261",
+      "date": "1999-11-06",
+      "epnum": "429",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "YAK Problem, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21262",
+      "date": "1999-11-13",
+      "epnum": "430",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blind Girl's Bluff"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21263",
+      "date": "1999-11-20",
+      "epnum": "431",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where There's Smoke/The Virtual Kid"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21264",
+      "date": "1999-11-27",
+      "epnum": "432",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You Win Some, You Lose Some"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21265",
+      "date": "1999-12-04",
+      "epnum": "433",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Treasure Room/Chain Reaction, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21266",
+      "date": "1999-12-11",
+      "epnum": "434",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "B-TV Redeeming the Season"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21267",
+      "date": "1999-12-18",
+      "epnum": "435",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Look Back I, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21268",
+      "date": "1999-12-25",
+      "epnum": "436",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Look Back II, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21269",
+      "date": "2000-03-04",
+      "epnum": "437",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sunset Bowlawater/Long Way Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21270",
+      "date": "2000-03-11",
+      "epnum": "438",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lyin' Tale/Telltale Cat"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21271",
+      "date": "2000-03-18",
+      "epnum": "439",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "B-TV Grace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21272",
+      "date": "2000-04-01",
+      "epnum": "440",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Slap Floor"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21273",
+      "date": "2000-04-08",
+      "epnum": "441",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Do You Think/Idol Minds"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21274",
+      "date": "2000-04-15",
+      "epnum": "442",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Roads/Sticks and Stones"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21275",
+      "date": "2000-04-22",
+      "epnum": "443",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Changing Rodney"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21276",
+      "date": "2000-04-29",
+      "epnum": "444",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Career Moves/The Bad Guy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21277",
+      "date": "2000-05-06",
+      "epnum": "445",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Boundaries"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21278",
+      "date": "2000-05-13",
+      "epnum": "446",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Matter of Manners/The Seven Deadly Dwarves, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21279",
+      "date": "2000-05-20",
+      "epnum": "447",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Potlucks and Poetry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21280",
+      "date": "2000-05-27",
+      "epnum": "448",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mandy's Debut"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21281",
+      "date": "2000-09-30",
+      "epnum": "449",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Deal I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21282",
+      "date": "2000-10-07",
+      "epnum": "450",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Deal II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21283",
+      "date": "2000-10-14",
+      "epnum": "451",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life Trials of the Rich and Famous"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21284",
+      "date": "2000-10-21",
+      "epnum": "452",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missionary Impossible"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21285",
+      "date": "2000-10-28",
+      "epnum": "453",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Wishy Woz I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21286",
+      "date": "2000-11-04",
+      "epnum": "454",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Wishy Woz II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21287",
+      "date": "2000-11-11",
+      "epnum": "455",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Best Laid Plans"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21288",
+      "date": "2000-11-18",
+      "epnum": "456",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Worst Day Ever, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21289",
+      "date": "2000-12-02",
+      "epnum": "457",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Opportunity Knocks"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21290",
+      "date": "2000-12-09",
+      "epnum": "458",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Herring"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21291",
+      "date": "2000-12-16",
+      "epnum": "459",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slumber Party"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21292",
+      "date": "2001-02-03",
+      "epnum": "460",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nova Rising"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21293",
+      "date": "2001-02-10",
+      "epnum": "461",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "B-TV Obedience"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21294",
+      "date": "2001-02-17",
+      "epnum": "462",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "W.E., The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21295",
+      "date": "2001-02-24",
+      "epnum": "463",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Eyes and Yellow Tulips"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21296",
+      "date": "2001-03-03",
+      "epnum": "464",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Triangle I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21297",
+      "date": "2001-03-10",
+      "epnum": "465",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Triangle II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21298",
+      "date": "2001-03-17",
+      "epnum": "466",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snow Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21299",
+      "date": "2001-03-24",
+      "epnum": "467",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Broken Window"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21300",
+      "date": "2001-04-28",
+      "epnum": "468",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chains I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21301",
+      "date": "2001-05-05",
+      "epnum": "469",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chains II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21302",
+      "date": "2001-05-12",
+      "epnum": "470",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Break a Leg"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21303",
+      "date": "2001-05-19",
+      "epnum": "471",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fifteen Minutes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21304",
+      "date": "2001-05-26",
+      "epnum": "472",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Welcoming Wooton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21305",
+      "date": "2001-06-02",
+      "epnum": "473",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Breaking Point"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21306",
+      "date": "2001-11-10",
+      "epnum": "474",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shining Armor I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21307",
+      "date": "2001-11-17",
+      "epnum": "475",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shining Armor II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21308",
+      "date": "2001-11-24",
+      "epnum": "476",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Relatively Annoying"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21309",
+      "date": "2001-12-01",
+      "epnum": "477",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "O.T. Action News Battle at the Kishon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21310",
+      "date": "2001-12-08",
+      "epnum": "478",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strange Boy in a Strange Land"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21311",
+      "date": "2001-12-15",
+      "epnum": "479",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Happy Smilers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21312",
+      "date": "2001-12-22",
+      "epnum": "480",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Popsicle Kid, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21313",
+      "date": "2002-01-05",
+      "epnum": "481",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grand Opening I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21314",
+      "date": "2002-01-12",
+      "epnum": "482",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grand Opening II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21315",
+      "date": "2002-01-19",
+      "epnum": "483",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secrets"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21316",
+      "date": "2002-01-26",
+      "epnum": "484",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plan B, I Missing in Action"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21317",
+      "date": "2002-02-02",
+      "epnum": "485",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plan B, II Collision Course"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21318",
+      "date": "2002-02-09",
+      "epnum": "486",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plan B, III Crossfire"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21319",
+      "date": "2002-02-16",
+      "epnum": "487",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plan B, IV Resistance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21320",
+      "date": "2002-03-23",
+      "epnum": "488",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Under the Influence I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21321",
+      "date": "2002-03-30",
+      "epnum": "489",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Under the Influence II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21322",
+      "date": "2002-04-06",
+      "epnum": "490",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Black Veil I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21323",
+      "date": "2002-04-13",
+      "epnum": "491",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Black Veil II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21324",
+      "date": "2002-05-18",
+      "epnum": "492",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Twisting Pathway"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21325",
+      "date": "2002-05-25",
+      "epnum": "493",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sheep's Clothing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21326",
+      "date": "2002-06-01",
+      "epnum": "494",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Box of Miracles"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21327",
+      "date": "2002-06-08",
+      "epnum": "495",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unraveling, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21328",
+      "date": "2002-06-15",
+      "epnum": "496",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Exceptional Circumstances"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21329",
+      "date": "2002-06-22",
+      "epnum": "497",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Expect the Worse"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21330",
+      "date": "2002-06-29",
+      "epnum": "498",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Exactly as Planned"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21331",
+      "date": "2002-07-06",
+      "epnum": "499",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Exit"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21332",
+      "date": "2002-07-13",
+      "epnum": "500",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Five Hundred Seconds in Odyssey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21333",
+      "date": "2002-11-23",
+      "epnum": "501",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inside the Studio"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21334",
+      "date": "2002-11-30",
+      "epnum": "502",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Live at the Twenty-Five!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21335",
+      "date": "2003-01-11",
+      "epnum": "503",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Between You and Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21336",
+      "date": "2003-01-18",
+      "epnum": "504",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aubrey's Bathrobe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21337",
+      "date": "2003-01-25",
+      "epnum": "505",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Toy Man, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21338",
+      "date": "2003-02-01",
+      "epnum": "506",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Trying Out Loud"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21339",
+      "date": "2003-02-08",
+      "epnum": "507",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Benefit of the Doubt, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21340",
+      "date": "2003-02-15",
+      "epnum": "508",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "American Revelation I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21341",
+      "date": "2003-02-22",
+      "epnum": "509",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "American Revelation II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21342",
+      "date": "2003-03-01",
+      "epnum": "510",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For the Fun of It"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21343",
+      "date": "2003-03-08",
+      "epnum": "511",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pact I, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21344",
+      "date": "2003-03-15",
+      "epnum": "512",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pact II, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21345",
+      "date": "2003-03-22",
+      "epnum": "513",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do or Diet"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21346",
+      "date": "2003-03-29",
+      "epnum": "514",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Room Enough for Two"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21347",
+      "date": "2003-05-03",
+      "epnum": "515",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "B-TV Behind the Scenes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21348",
+      "date": "2003-05-10",
+      "epnum": "516",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bassett Hounds"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21349",
+      "date": "2003-05-17",
+      "epnum": "517",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It's All About Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21350",
+      "date": "2003-05-24",
+      "epnum": "518",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Disappearing Hortons, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21351",
+      "date": "2003-05-31",
+      "epnum": "519",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Defining Moment, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21352",
+      "date": "2003-06-07",
+      "epnum": "520",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery at Tin Flat, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21353",
+      "date": "2003-06-14",
+      "epnum": "521",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hindsight"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21354",
+      "date": "2003-06-21",
+      "epnum": "522",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All Things to All People"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21355",
+      "date": "2003-06-28",
+      "epnum": "523",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Here Today, Gone Tomorrow? I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21356",
+      "date": "2003-07-05",
+      "epnum": "524",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Here Today, Gone Tomorrow? II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21357",
+      "date": "2003-07-12",
+      "epnum": "525",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Here Today, Gone Tomorrow? III"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21358",
+      "date": "2003-09-27",
+      "epnum": "526",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Seeing Red"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21359",
+      "date": "2003-10-04",
+      "epnum": "527",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Black Clouds"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21360",
+      "date": "2003-10-11",
+      "epnum": "528",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Taming of the Two, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21361",
+      "date": "2003-10-18",
+      "epnum": "529",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mailman Cometh, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21362",
+      "date": "2003-10-25",
+      "epnum": "530",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Silver Lining"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21363",
+      "date": "2003-11-01",
+      "epnum": "531",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Teacher's Pest"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21364",
+      "date": "2003-11-08",
+      "epnum": "532",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pink is Not My Color"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21365",
+      "date": "2003-11-15",
+      "epnum": "533",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Something Blue I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21366",
+      "date": "2003-11-22",
+      "epnum": "534",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Something Blue II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21367",
+      "date": "2004-01-24",
+      "epnum": "535",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Living in the Gray I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21368",
+      "date": "2004-01-31",
+      "epnum": "536",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Living in the Gray II"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21369",
+      "date": "2004-02-07",
+      "epnum": "537",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Girl Hallie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21370",
+      "date": "2004-02-14",
+      "epnum": "538",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stubborn Streaks"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21371",
+      "date": "2004-02-21",
+      "epnum": "539",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Called on in Class"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21372",
+      "date": "2004-02-28",
+      "epnum": "540",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Girl in the Sink, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21373",
+      "date": "2004-03-06",
+      "epnum": "541",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bernard and Saul"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21374",
+      "date": "2004-04-24",
+      "epnum": "542",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eggshells"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21375",
+      "date": "2004-05-01",
+      "epnum": "543",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nothing but the Half-Truth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21376",
+      "date": "2004-05-08",
+      "epnum": "544",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Split Ends"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21377",
+      "date": "2004-05-15",
+      "epnum": "545",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Something's Got to Change"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21378",
+      "date": "2004-05-22",
+      "epnum": "546",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Way Out"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21379",
+      "date": "2004-05-29",
+      "epnum": "547",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Way In"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14341",
+      "date": "2004-10-02",
+      "epnum": "548",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sounds Like a Mystery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14340",
+      "date": "2004-10-09",
+      "epnum": "549",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Think on These Things"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14339",
+      "date": "2004-10-16",
+      "epnum": "550",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fairy Tal-e-vision"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14338",
+      "date": "2004-10-23",
+      "epnum": "551",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stars in Our Eyes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14337",
+      "date": "2004-10-30",
+      "epnum": "552",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sunday Morning Scramble"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14336",
+      "date": "2004-11-06",
+      "epnum": "553",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Potential Possibilities"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14335",
+      "date": "2004-11-13",
+      "epnum": "554",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Call Me if You Care"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14334",
+      "date": "2004-11-20",
+      "epnum": "555",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "True Calling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14333",
+      "date": "2004-12-04",
+      "epnum": "556",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "And That's the Truth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14332",
+      "date": "2004-12-11",
+      "epnum": "557",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lamb's Tale, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14331",
+      "date": "2005-01-15",
+      "epnum": "558",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Glass Darkly, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14330",
+      "date": "2005-01-22",
+      "epnum": "559",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coolest Dog, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14329",
+      "date": "2005-01-29",
+      "epnum": "560",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Present Long Ago, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14328",
+      "date": "2005-02-05",
+      "epnum": "561",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lost by a Nose"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14326",
+      "date": "2005-02-12",
+      "epnum": "562",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last 'I Do', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14327",
+      "date": "2005-02-19",
+      "epnum": "563",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tuesdays with Wooton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14325",
+      "date": "2005-04-02",
+      "epnum": "564",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Most Intriguing Question, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14324",
+      "date": "2005-04-09",
+      "epnum": "565",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Most Surprising Answer, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14323",
+      "date": "2005-04-16",
+      "epnum": "566",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Most Extraordinary Conclusion, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14322",
+      "date": "2005-04-23",
+      "epnum": "567",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Friends and a Truck"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14321",
+      "date": "2005-04-30",
+      "epnum": "568",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Power of One, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14320",
+      "date": "2005-05-07",
+      "epnum": "569",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Invisible Dog, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14319",
+      "date": "2005-05-16",
+      "epnum": "570",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Better or For Worse, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14318",
+      "date": "2005-05-23",
+      "epnum": "571",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Better or For Worse, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14317",
+      "date": "2005-07-09",
+      "epnum": "572",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Odyssey Sings!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14316",
+      "date": "2005-10-01",
+      "epnum": "573",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Back to Abnormal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14315",
+      "date": "2005-10-08",
+      "epnum": "574",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prisoners of Fear, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14314",
+      "date": "2005-10-15",
+      "epnum": "575",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prisoners of Fear, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14313",
+      "date": "2005-10-22",
+      "epnum": "576",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prisoners of Fear, Part 3"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14312",
+      "date": "2005-10-29",
+      "epnum": "577",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Business of Busyness, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14311",
+      "date": "2005-11-05",
+      "epnum": "578",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All-Star Witness"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14310",
+      "date": "2005-11-19",
+      "epnum": "579",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Always"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14309",
+      "date": "2005-12-03",
+      "epnum": "580",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tales of a Small-Town Thug"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14308",
+      "date": "2005-12-10",
+      "epnum": "581",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Conundrum, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14306",
+      "date": "2005-12-17",
+      "epnum": "582",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Silent Night"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14307",
+      "date": "2006-01-22",
+      "epnum": "585",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poor Rich Guy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14305",
+      "date": "2006-01-28",
+      "epnum": "583",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Champ of the Camp, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14304",
+      "date": "2006-02-04",
+      "epnum": "584",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead Ends"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14303",
+      "date": "2006-02-18",
+      "epnum": "586",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cheater Cheated, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14302",
+      "date": "2006-02-25",
+      "epnum": "587",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bringing Up Dads"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14301",
+      "date": "2006-03-04",
+      "epnum": "588",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Broken-Armed and Dangerous"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14300",
+      "date": "2006-03-11",
+      "epnum": "589",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Impossible, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14299",
+      "date": "2006-04-11",
+      "epnum": "591",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Switch"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14298",
+      "date": "2006-04-15",
+      "epnum": "590",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three O'Clock Call"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14297",
+      "date": "2006-04-29",
+      "epnum": "592",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Now More than Ever"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14296",
+      "date": "2006-05-06",
+      "epnum": "593",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Around the Block"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14295",
+      "date": "2006-05-13",
+      "epnum": "594",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time for Action, Part 1, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14294",
+      "date": "2006-05-20",
+      "epnum": "595",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time for Action, Part 2, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14293",
+      "date": "2006-09-23",
+      "epnum": "596",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cover of Darkness"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14292",
+      "date": "2006-09-30",
+      "epnum": "597",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out of Our Hands"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14291",
+      "date": "2006-10-07",
+      "epnum": "598",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Favorite Thing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14290",
+      "date": "2006-10-14",
+      "epnum": "599",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blood, Sweat, and Fears"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14289",
+      "date": "2006-10-21",
+      "epnum": "600",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nudge, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14288",
+      "date": "2006-10-28",
+      "epnum": "601",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bernard and Jeremiah"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164312",
+      "date": "2006-11-18",
+      "epnum": "602",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mum's the Word"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164313",
+      "date": "2006-11-25",
+      "epnum": "603",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Family Next Door, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164314",
+      "date": "2006-12-02",
+      "epnum": "604",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Like Father, Like Wooton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164315",
+      "date": "2006-12-09",
+      "epnum": "605",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chosen One, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164316",
+      "date": "2006-12-16",
+      "epnum": "606",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chosen One, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164317",
+      "date": "2006-12-23",
+      "epnum": "607",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Undeniable Truth, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164318",
+      "date": "2007-02-03",
+      "epnum": "608",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Run-of-the-Mill Miracle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164319",
+      "date": "2007-02-10",
+      "epnum": "609",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prequels of Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164320",
+      "date": "2007-02-17",
+      "epnum": "610",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hear Me, Hear Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164321",
+      "date": "2007-02-24",
+      "epnum": "611",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Top Floor, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164322",
+      "date": "2007-03-03",
+      "epnum": "612",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Top Floor, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164323",
+      "date": "2007-03-10",
+      "epnum": "613",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Top Floor, Part 3, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164324",
+      "date": "2007-04-28",
+      "epnum": "614",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Best of Enemies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164325",
+      "date": "2007-05-05",
+      "epnum": "615",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Only By His Grace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164326",
+      "date": "2007-05-12",
+      "epnum": "616",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Other Side of the Glass, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164327",
+      "date": "2007-05-19",
+      "epnum": "617",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Other Side of the Glass, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164328",
+      "date": "2007-05-26",
+      "epnum": "618",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Other Side of the Glass, Part 3, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164329",
+      "date": "2007-09-15",
+      "epnum": "619",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Era, Part 1, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164330",
+      "date": "2007-09-22",
+      "epnum": "620",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Era, Part 2, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164331",
+      "date": "2007-09-29",
+      "epnum": "621",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Era, Part 3, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164332",
+      "date": "2007-10-06",
+      "epnum": "622",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "B-TV Temptation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164333",
+      "date": "2007-10-13",
+      "epnum": "623",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Buddy Guard"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164334",
+      "date": "2007-10-20",
+      "epnum": "624",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wooing Wooton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164335",
+      "date": "2007-10-27",
+      "epnum": "625",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Something Significant"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164336",
+      "date": "2007-11-03",
+      "epnum": "626",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life, in the Third Person, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164337",
+      "date": "2007-11-10",
+      "epnum": "627",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life, in the Third Person, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164338",
+      "date": "2007-12-01",
+      "epnum": "628",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Highest Stakes, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164339",
+      "date": "2007-12-08",
+      "epnum": "629",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Highest Stakes, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164340",
+      "date": "2007-12-15",
+      "epnum": "630",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chip Off the Shoulder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164341",
+      "date": "2008-01-03",
+      "epnum": "631",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Capsule Comes to Town, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164342",
+      "date": "2008-03-08",
+      "epnum": "632",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Suspicious Finds"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164343",
+      "date": "2008-03-15",
+      "epnum": "633",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "License to Deprive"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164344",
+      "date": "2008-03-22",
+      "epnum": "634",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Accidental Dilemma, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164345",
+      "date": "2008-03-29",
+      "epnum": "635",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Accidental Dilemma, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164346",
+      "date": "2008-04-05",
+      "epnum": "636",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Class Reenactment, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164347",
+      "date": "2008-04-12",
+      "epnum": "637",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Forgotten Deed, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164348",
+      "date": "2008-04-19",
+      "epnum": "638",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Triangled Web, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164349",
+      "date": "2008-04-26",
+      "epnum": "639",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Triangled Web, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164350",
+      "date": "2008-05-03",
+      "epnum": "640",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rights, Wrongs, and Winners"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164351",
+      "date": "2008-05-10",
+      "epnum": "641",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Imagination Station, Revisited, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164352",
+      "date": "2008-05-17",
+      "epnum": "642",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Imagination Station, Revisited, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164353",
+      "date": "2008-05-24",
+      "epnum": "643",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kidsboro, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164354",
+      "date": "2008-05-31",
+      "epnum": "644",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kidsboro, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164355",
+      "date": "2008-06-07",
+      "epnum": "645",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kidsboro, Part 3"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241211",
+      "date": "2008-08-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "B-TV Live"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164357",
+      "date": "2009-09-19",
+      "epnum": "646",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164358",
+      "date": "2009-09-26",
+      "epnum": "647",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164359",
+      "date": "2009-10-03",
+      "epnum": "648",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 3"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164360",
+      "date": "2009-10-10",
+      "epnum": "649",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 4"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164361",
+      "date": "2009-10-17",
+      "epnum": "650",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 5"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164362",
+      "date": "2009-10-24",
+      "epnum": "651",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 6"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164363",
+      "date": "2009-10-31",
+      "epnum": "652",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 7"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164364",
+      "date": "2009-11-07",
+      "epnum": "653",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164365",
+      "date": "2009-11-14",
+      "epnum": "654",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 9"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164366",
+      "date": "2010-03-06",
+      "epnum": "655",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspiration Station, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164367",
+      "date": "2010-03-13",
+      "epnum": "656",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspiration Station, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164368",
+      "date": "2010-03-20",
+      "epnum": "657",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clutter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164369",
+      "date": "2010-03-27",
+      "epnum": "658",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Game for a Mystery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164370",
+      "date": "2010-04-03",
+      "epnum": "659",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Target of the Week"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164371",
+      "date": "2010-04-10",
+      "epnum": "660",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For the Birds"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164372",
+      "date": "2010-04-17",
+      "epnum": "661",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When You're Right, You're Right"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164373",
+      "date": "2010-04-24",
+      "epnum": "662",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grandma's Visit"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164374",
+      "date": "2010-05-01",
+      "epnum": "663",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Finish What You..."
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164375",
+      "date": "2010-05-08",
+      "epnum": "664",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jubilee Singers, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164376",
+      "date": "2010-05-15",
+      "epnum": "665",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jubilee Singers, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164377",
+      "date": "2010-05-22",
+      "epnum": "666",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jubilee Singers, Part 3, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164378",
+      "date": "2010-10-02",
+      "epnum": "667",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery of the Clock Tower, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164379",
+      "date": "2010-10-09",
+      "epnum": "668",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery of the Clock Tower, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164380",
+      "date": "2010-10-16",
+      "epnum": "669",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wooton's Broken Pencil Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164381",
+      "date": "2010-10-23",
+      "epnum": "670",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stage Fright"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164382",
+      "date": "2010-10-30",
+      "epnum": "671",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fast As I Can"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164383",
+      "date": "2010-11-06",
+      "epnum": "672",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Opposite Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164384",
+      "date": "2010-11-13",
+      "epnum": "673",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Owlnapping, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164385",
+      "date": "2010-11-20",
+      "epnum": "674",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Square One"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164386",
+      "date": "2010-11-27",
+      "epnum": "675",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thankstaking Story, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164387",
+      "date": "2010-12-04",
+      "epnum": "676",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Agreeable Nanny, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164388",
+      "date": "2010-12-11",
+      "epnum": "677",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Malted Milkball Falcon, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164389",
+      "date": "2010-12-18",
+      "epnum": "678",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grandma's Christmas Visit"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164390",
+      "date": "2011-03-12",
+      "epnum": "679",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164391",
+      "date": "2011-03-19",
+      "epnum": "680",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164392",
+      "date": "2011-03-26",
+      "epnum": "681",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 3, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164393",
+      "date": "2011-04-02",
+      "epnum": "682",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 4, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164394",
+      "date": "2011-04-09",
+      "epnum": "683",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 5, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164395",
+      "date": "2011-04-16",
+      "epnum": "684",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 6, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164396",
+      "date": "2011-04-23",
+      "epnum": "685",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 7, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164397",
+      "date": "2011-04-30",
+      "epnum": "686",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164398",
+      "date": "2011-05-07",
+      "epnum": "687",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 9, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164399",
+      "date": "2011-05-14",
+      "epnum": "688",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 10, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164400",
+      "date": "2011-05-21",
+      "epnum": "689",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 11, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164401",
+      "date": "2011-05-28",
+      "epnum": "690",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Ring Conspiracy, Part 12, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164402",
+      "date": "2011-10-01",
+      "epnum": "691",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wooton Knows Best"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164403",
+      "date": "2011-10-08",
+      "epnum": "692",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Penny Saved, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164404",
+      "date": "2011-10-15",
+      "epnum": "693",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Amazing Loser, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164405",
+      "date": "2011-10-22",
+      "epnum": "694",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Anger Mismanagement"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164406",
+      "date": "2011-10-29",
+      "epnum": "695",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Forgiving, More or Less"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164407",
+      "date": "2011-11-05",
+      "epnum": "696",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You're Two Kind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164408",
+      "date": "2011-11-12",
+      "epnum": "697",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Penny Earned, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164409",
+      "date": "2011-11-19",
+      "epnum": "698",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Never for Nothing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164410",
+      "date": "2011-11-26",
+      "epnum": "699",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Emily, the Genius"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164411",
+      "date": "2011-12-03",
+      "epnum": "700",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How to Sink a Sub"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164412",
+      "date": "2011-12-10",
+      "epnum": "701",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unbecoming Jay"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "164413",
+      "date": "2011-12-17",
+      "epnum": "702",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Childish Things"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241222",
+      "date": "2012-03-03",
+      "epnum": "703",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Labyrinth, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241223",
+      "date": "2012-03-10",
+      "epnum": "704",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Labyrinth, Part 2, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241224",
+      "date": "2012-03-17",
+      "epnum": "705",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Labyrinth, Part 3, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241243",
+      "date": "2012-03-24",
+      "epnum": "706",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To Mend or Repair"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241244",
+      "date": "2012-03-31",
+      "epnum": "707",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To Mend or Repair"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241237",
+      "date": "2012-04-07",
+      "epnum": "708",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sergeant York, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241238",
+      "date": "2012-04-14",
+      "epnum": "709",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sergeant York, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241239",
+      "date": "2012-04-21",
+      "epnum": "710",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sergeant York, Part 3"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241240",
+      "date": "2012-04-28",
+      "epnum": "711",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sergeant York, Part 4"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241212",
+      "date": "2012-05-05",
+      "epnum": "712",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Child's Play"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241241",
+      "date": "2012-05-12",
+      "epnum": "713",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Something Old, Something New, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241242",
+      "date": "2012-05-19",
+      "epnum": "714",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Something Old, Something New, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241231",
+      "date": "2012-10-06",
+      "epnum": "715",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Perfect Church, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241232",
+      "date": "2012-10-13",
+      "epnum": "716",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Perfect Church, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241215",
+      "date": "2012-10-20",
+      "epnum": "717",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Expectations"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241213",
+      "date": "2012-10-27",
+      "epnum": "718",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Three Dollars More"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241209",
+      "date": "2012-11-03",
+      "epnum": "719",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bible Network, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241217",
+      "date": "2012-11-10",
+      "epnum": "720",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Happy Hunting"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241219",
+      "date": "2012-11-17",
+      "epnum": "721",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Holy Hoopster, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241228",
+      "date": "2012-11-24",
+      "epnum": "722",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lost Riddle, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241216",
+      "date": "2012-12-01",
+      "epnum": "723",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Groundhog Jay"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241220",
+      "date": "2012-12-08",
+      "epnum": "724",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Home Again, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241221",
+      "date": "2012-12-15",
+      "epnum": "725",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Home Again, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241235",
+      "date": "2012-12-22",
+      "epnum": "726",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Push the Red Button"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241246",
+      "date": "2013-08-10",
+      "epnum": "727",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Your Servant is Listening, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241247",
+      "date": "2013-08-17",
+      "epnum": "728",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Your Servant is Listening, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241230",
+      "date": "2013-08-24",
+      "epnum": "729",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Chemistry Whatsoever"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241214",
+      "date": "2013-08-31",
+      "epnum": "730",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Friend Formula, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241229",
+      "date": "2013-09-07",
+      "epnum": "731",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "More Than a Feeling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241236",
+      "date": "2013-09-14",
+      "epnum": "732",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Repent After Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241210",
+      "date": "2013-09-21",
+      "epnum": "733",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Trouble Under the Big Top"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241225",
+      "date": "2013-09-28",
+      "epnum": "734",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life Expectancy, Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241226",
+      "date": "2013-10-05",
+      "epnum": "735",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life Expectancy, Part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241227",
+      "date": "2013-10-12",
+      "epnum": "736",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life Expectancy, Part 3"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241233",
+      "date": "2013-10-19",
+      "epnum": "737",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pilot, Part 1, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241234",
+      "date": "2013-10-26",
+      "epnum": "738",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pilot, Part 2, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventures In Odyssey"
+    }
+  ]
+}

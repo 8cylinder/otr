@@ -1,0 +1,882 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrrlibrary.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/Top Secret/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Top-Secret.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logt1008.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9081-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Jerry Haendiges has a log"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "1169",
+      "first": "Fred",
+      "last": "Collins",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2963",
+      "first": "Leon",
+      "last": "Janney",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3893",
+      "first": "Ilona",
+      "last": "Massey",
+      "f": "Noted Role",
+      "character": "Baroness Karen Gaza"
+    },
+    {
+      "idperson": "48399",
+      "first": "Roy",
+      "last": "Shields",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "12297",
+      "first": "Bill",
+      "last": "Lipton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "18319",
+      "first": "Carl",
+      "last": "Emory",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50713",
+      "first": "Louis",
+      "last": "Van Rooten",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "51113",
+      "first": "Paul",
+      "last": "Levitt",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "605",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1991-02-01",
+      "source": "Illustrated Press/IP_173.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #173 Feb 91",
+      "author": ""
+    },
+    {
+      "idprint": "608",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "1991-07-01",
+      "source": "Illustrated Press/IP_178.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #178/9 Jul/Aug 91",
+      "author": ""
+    },
+    {
+      "idprint": "633",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1993-09-01",
+      "source": "Illustrated Press/IP_204.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #204 Sept 93",
+      "author": ""
+    },
+    {
+      "idprint": "698",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "2009-03-01",
+      "source": "Illustrated Press/IP_368.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #368 Mar 09",
+      "author": ""
+    },
+    {
+      "idprint": "763",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1998-11-01",
+      "source": "Illustrated Press/IP_264.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#264) - Nov 1998",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1589",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "2006-04-01",
+      "source": "OTR Digest_1990s/OTRDigest_(113)Spring06.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (113) Spring 2006",
+      "author": ""
+    },
+    {
+      "idprint": "1570",
+      "idtype": "4",
+      "page": "31",
+      "article": "",
+      "url": "",
+      "date": "1987-11-01",
+      "source": "OTR Digest_1980s/OTRDigest_(024)NovDec87.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (24) Nov-Dec 1987",
+      "author": ""
+    },
+    {
+      "idprint": "1590",
+      "idtype": "4",
+      "page": "28",
+      "article": "",
+      "url": "",
+      "date": "1990-01-01",
+      "source": "OTR Digest_1990s/OTRDigest_(037)JanFeb90.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (37) Jan-Feb 1990",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "144217",
+      "date": "1950-06-12",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Night Train to Berlin"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-06-12 (001) Night Train to Berlin.mp3",
+          "time": "1787",
+          "size": "28705672"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-06-12 (001) Night Train to Berlin.mp3",
+          "time": "1786",
+          "size": "28705672"
+        }
+      ]
+    },
+    {
+      "ide": "144218",
+      "date": "1950-06-19",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Admiral's Strange Identity, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-06-19 (002) The Admiral's Strange Identity.mp3",
+          "time": "1792",
+          "size": "7285072"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-06-19 (002) The Admiral's Strange Identity.mp3",
+          "time": "1792",
+          "size": "7285072"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-06-18 (002) The Admiral's Strange Identity (Dramatic Portion Only).mp3",
+          "time": "1707",
+          "size": "27428450"
+        }
+      ]
+    },
+    {
+      "ide": "144219",
+      "date": "1950-06-26",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Package in Tangiers, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-06-26 (003) A Package in Tangiers.mp3",
+          "time": "1773",
+          "size": "42661624"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-06-26 (003) A Package in Tangiers.mp3",
+          "time": "1772",
+          "size": "42661624"
+        }
+      ]
+    },
+    {
+      "ide": "144220",
+      "date": "1950-07-03",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Escape"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-07-03 (004) Escape.mp3",
+          "time": "1791",
+          "size": "43101199"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-07-03 (004) Escape.mp3",
+          "time": "1791",
+          "size": "43101199"
+        }
+      ]
+    },
+    {
+      "ide": "144221",
+      "date": "1950-07-10",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Allied spy tries to smuggle Mona Lisa out of Germany"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144222",
+      "date": "1950-07-16",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coming Disaster (rehearsal)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "158911",
+      "date": "1950-07-17",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coming Disaster"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-07-16 (006) Coming Disaster (Dramatic Portion Only).mp3",
+          "time": "1458",
+          "size": "5946680"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-07-16 (006) Coming Disaster (Dramatic Portion Only).mp3",
+          "time": "1457",
+          "size": "5946680"
+        }
+      ]
+    },
+    {
+      "ide": "144223",
+      "date": "1950-07-23",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Midnight for Danger"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-07-23 (007) Midnight for Danger.mp3",
+          "time": "1788",
+          "size": "28727866"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-07-23 (007) Midnight for Danger.mp3",
+          "time": "1788",
+          "size": "28727866"
+        }
+      ]
+    },
+    {
+      "ide": "144224",
+      "date": "1950-07-30",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Mission, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-07-30 (008) The Unknown Mission.mp3",
+          "time": "1799",
+          "size": "28898346"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-07-30 (008) The Unknown Mission.mp3",
+          "time": "1798",
+          "size": "28898346"
+        }
+      ]
+    },
+    {
+      "ide": "144225",
+      "date": "1950-08-06",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Disaster in London"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-08-06 (009) Disaster in London.mp3",
+          "time": "1795",
+          "size": "28828544"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-08-06 (009) Disaster in London.mp3",
+          "time": "1794",
+          "size": "28828544"
+        }
+      ]
+    },
+    {
+      "ide": "144226",
+      "date": "1950-08-13",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Tattooed Pigeon, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-08-13 (010) The Case of the Tattooed Pigeon.mp3",
+          "time": "1769",
+          "size": "28421897"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-08-13 (010) The Case of the Tattooed Pigeon.mp3",
+          "time": "1769",
+          "size": "28421897"
+        }
+      ]
+    },
+    {
+      "ide": "144227",
+      "date": "1950-08-20",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Church Without a Cross, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-08-20 (011) The Church Without a Cross.mp3",
+          "time": "1755",
+          "size": "42227457"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-08-20 (011) The Church Without a Cross.mp3",
+          "time": "1754",
+          "size": "42227457"
+        }
+      ]
+    },
+    {
+      "ide": "144228",
+      "date": "1950-09-01",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Drug of Death, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 50-09-01 (12) Drug Of Death Nointro.mp3",
+          "time": "1686",
+          "size": "5058690"
+        }
+      ]
+    },
+    {
+      "ide": "144229",
+      "date": "1950-09-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lighter Than Metal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144230",
+      "date": "1950-09-18",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Confession"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-09-18 (013) Confession.mp3",
+          "time": "1770",
+          "size": "28438622"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-09-18 (013) Confession.mp3",
+          "time": "1770",
+          "size": "28438622"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-09-17 (013) Confession (Dramatic Portion Only).mp3",
+          "time": "1660",
+          "size": "26679850"
+        }
+      ]
+    },
+    {
+      "ide": "144231",
+      "date": "1950-09-25",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poison Hand of Friendship, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-09-25 (014) The Poison Hand of Friendship.mp3",
+          "time": "1789",
+          "size": "10847912"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-09-25 (014) The Poison Hand of Friendship.mp3",
+          "time": "1788",
+          "size": "10847912"
+        }
+      ]
+    },
+    {
+      "ide": "144232",
+      "date": "1950-10-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Disaster"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-10-04 (000) Disaster (Dramatic Portion Only).mp3",
+          "time": "965",
+          "size": "15560593"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-10-04 (000) Disaster (Dramatic Portion Only).mp3",
+          "time": "965",
+          "size": "15560593"
+        }
+      ]
+    },
+    {
+      "ide": "144233",
+      "date": "1950-10-12",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Document, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-10-12 (015) The Document.mp3",
+          "time": "1801",
+          "size": "7317534"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-10-12 (015) The Document.mp3",
+          "time": "1800",
+          "size": "7317534"
+        }
+      ]
+    },
+    {
+      "ide": "144234",
+      "date": "1950-10-19",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dream That Meant Death, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-10-19 (016) The Dream That Meant Death.mp3",
+          "time": "1784",
+          "size": "7249642"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-10-19 (016) The Dream That Meant Death.mp3",
+          "time": "1783",
+          "size": "7249642"
+        }
+      ]
+    },
+    {
+      "ide": "158914",
+      "date": "1950-10-20",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plan For Sabotage (Rehearsal), The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-10-25 (017) The Plan for Sabotage (Dramatic Portion Only).mp3",
+          "time": "1633",
+          "size": "6648030"
+        }
+      ]
+    },
+    {
+      "ide": "158913",
+      "date": "1950-10-26",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plan for Sabotage, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Top_Secret_Singles",
+          "name": "Top Secret 1950-10-26 (017) The Plan for Sabotage.mp3",
+          "time": "1750",
+          "size": "7114946"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-10-26 (017) The Plan for Sabotage.mp3",
+          "time": "1749",
+          "size": "7114946"
+        },
+        {
+          "path": "T",
+          "folder": "Top Secret",
+          "name": "Top Secret 1950-10-25 (017) The Plan for Sabotage (Dramatic Portion Only).mp3",
+          "time": "1633",
+          "size": "6648030"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    },
+    {
+      "genre": "Espionage"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-06-12",
+      "dow": "M",
+      "time": "10:30 PM",
+      "end": "1950-07-10",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1950-09-01",
+      "dow": "F",
+      "time": "",
+      "end": "1950-09-08",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1950-07-23",
+      "dow": "Su",
+      "time": "9:30 PM",
+      "end": "1950-08-20",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1950-09-18",
+      "dow": "M",
+      "time": "",
+      "end": "1950-09-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1950-10-05",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1950-10-26",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Top Secret"
+    }
+  ]
+}

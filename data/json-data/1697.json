@@ -1,0 +1,100 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Brighter World, A/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311090",
+      "date": "1940-08-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brighter World 40-08-03"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Brighter World 40-08-03.mp3",
+          "time": "830",
+          "size": "6636563"
+        }
+      ]
+    },
+    {
+      "ide": "312780",
+      "date": "1940-08-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nothing But The Truth (Audition)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Brighter World, A",
+          "name": "A Brighter World 400803 (Audition) Nothing But The Truth_OTRRPG.mp3",
+          "time": "829",
+          "size": "13273216"
+        },
+        {
+          "path": "B",
+          "folder": "Brighter World, A",
+          "name": "A Brighter World 40-08-03 Nothing But The Truth (Audition).mp3",
+          "time": "829",
+          "size": "13273216"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Brighter World, A"
+    }
+  ]
+}

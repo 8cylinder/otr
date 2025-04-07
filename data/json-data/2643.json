@@ -1,0 +1,204 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2643-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6374",
+      "first": "Foy",
+      "last": "Willing",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "49358",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Goosebird in the Haystack"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Crazy Water Crystal Program",
+          "name": "Crazy Water Crystals 3xxxxx xxx 1st Song - Goosebird In The Haystack (Ending Cut)_OTRRPG.mp3",
+          "time": "874",
+          "size": "14057022"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Crazy_Water_Crystal_Program_3x-xx-xx_epxx_First_Song_-_Goosebird_in_the_Haystack_epend_Clipped.mp3",
+          "time": "876",
+          "size": "7007311"
+        }
+      ]
+    },
+    {
+      "ide": "49357",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Those Crazy Lonesome Blues"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Crazy Water Crystal Program",
+          "name": "Crazy Water Crystals 34xxxx xxx 1st Song - Those Weary Lonesome Blues_OTRRPG.mp3",
+          "time": "891",
+          "size": "14334784"
+        }
+      ]
+    },
+    {
+      "ide": "49360",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Tonsorial Parlor"
+        },
+        {
+          "title": "1st Song - Johnathon"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Crazy Water Crystal Program",
+          "name": "Crazy Water Crystals 34xxxx 013 1st Song - Johnathon_OTRRPG.mp3",
+          "time": "892",
+          "size": "14351486"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Crazy_Water_Crystal_Program_3x-xx-xx_ep13_First_Song_-_The_Tonsorial_Parlor.mp3",
+          "time": "894",
+          "size": "7154800"
+        }
+      ]
+    },
+    {
+      "ide": "49359",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Little Brown Jug"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Crazy Water Crystal Program",
+          "name": "Crazy Water Crystals 34xxxx 014 1st Song - Little Brown Jug_OTRRPG.mp3",
+          "time": "880",
+          "size": "14154216"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Hillbilly_Boys_Singles",
+          "name": "Crazy_Water_Crystal_Program_3x-xx-xx_ep14_First_Song_-_Little_Brown_Jug.mp3",
+          "time": "882",
+          "size": "7055949"
+        }
+      ]
+    },
+    {
+      "ide": "49361",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Freemason March"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Crazy Water Crystal Program",
+          "name": "Crazy Water Crystals 34xxxx 005 1st Song - Freemason March_OTRRPG.mp3",
+          "time": "860",
+          "size": "13834894"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1936-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1936-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1933-00-00",
+      "dow": "Th",
+      "time": "",
+      "end": "1934-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Crazy Water Crystal Show"
+    }
+  ]
+}

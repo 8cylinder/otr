@@ -1,0 +1,95 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "34982",
+      "first": "Jimmy",
+      "last": "Powers",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313870",
+      "date": "1949-08-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brooklyn Zips Redlegs 7-0 on HRs by Robinson, Edwards"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jimmy Powers",
+          "name": "Jimmy Powers 490807 Brooklyn Zips Redlegs 7-0 on HRs by Robinson, Edwards_OTRRPG.mp3",
+          "time": "890",
+          "size": "14249242"
+        },
+        {
+          "path": "J",
+          "folder": "Jimmy Powers",
+          "name": "Jimmy Powers 49-08-07 Sports News.mp3",
+          "time": "888",
+          "size": "7102004"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1954-12-27",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1958-00-00",
+      "length": "10",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jimmy Powers"
+    }
+  ]
+}

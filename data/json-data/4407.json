@@ -1,0 +1,92 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4932",
+      "first": "Ed",
+      "last": "Reimers",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "49746",
+      "first": "Harrison",
+      "last": "Wood",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-06-20",
+      "dow": "Su",
+      "time": "3:00 PM",
+      "end": "1950-02-26",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Fruehaul Trailer Company",
+      "begin": "1948-06-20",
+      "end": "1950-02-26"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Harrison Wood (This Changing World)"
+    }
+  ]
+}

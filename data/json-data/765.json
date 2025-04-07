@@ -1,0 +1,151 @@
+{
+  "avail": [
+    {
+      "avail": "1",
+      "idprint": "-1",
+      "web": "",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "1",
+      "idprint": "-1",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3802",
+      "first": "Knox",
+      "last": "Manning",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45834",
+      "first": "",
+      "last": "",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1195",
+      "first": "Nadine",
+      "last": "Conner",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "329789",
+      "date": "1961-04-14",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Rockin' In Rhythm (Harry James Band) Host, Mickey Kline"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Oscar Brand Show",
+          "name": "Oscar Brand Show 610505 xxx 1st; I Don't Care Where They Bury My Body AFRTS#24.mp3",
+          "time": "3286",
+          "size": "52650980"
+        }
+      ]
+    },
+    {
+      "ide": "329790",
+      "date": "1961-04-21",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Say It With Music (Les Brown Band) Host, Mickey Kline"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Panorama",
+          "name": "Panorama 610414 026 1st; Rockin' In Rhythm (Harry James Band) Host, Mickey Kline {AFRTS#26}.mp3",
+          "time": "3287",
+          "size": "52673907"
+        }
+      ]
+    },
+    {
+      "ide": "329791",
+      "date": "1961-05-05",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Chop Sticks (Ray Anthony Orch) Host, Mickey Kline"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Panorama",
+          "name": "Panorama 610421 027 1st; Say It With Music (Les Brown Band) Host, Mickey Kline (Part 1 Only) {AFRTS#27}.mp3",
+          "time": "1763",
+          "size": "28279720"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "American Panorama"
+    }
+  ]
+}

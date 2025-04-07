@@ -1,0 +1,233 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "322632",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From Chicago"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jimmy Featherstone",
+          "name": "Jimmy Featherstone 19xx.xx.xx From Chicago.mp3",
+          "time": "1916",
+          "size": "7771951"
+        }
+      ]
+    },
+    {
+      "ide": "322633",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From The Aragon Room In Chicago"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Howard",
+          "name": "Eddie Howard 19xx.xx.xx From The Aragon Room In Chicago.mp3",
+          "time": "1098",
+          "size": "4501551"
+        }
+      ]
+    },
+    {
+      "ide": "322634",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From W G N Chicago"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Howard",
+          "name": "Eddie Howard 19xx.xx.xx From W G N Chicago.mp3",
+          "time": "828",
+          "size": "3417966"
+        }
+      ]
+    },
+    {
+      "ide": "322635",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Remote From The Aragon Ballroom In Chicago"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Howard",
+          "name": "Eddie Howard 19xx.xx.xx Remote From The Aragon Ballroom In Chicago.mp3",
+          "time": "1424",
+          "size": "5804769"
+        }
+      ]
+    },
+    {
+      "ide": "154452",
+      "date": "1945-12-05",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "154453",
+      "date": "1947-08-31",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Howard",
+          "name": "Eddie Howard 470831 (C).mp3",
+          "time": "1765",
+          "size": "56546210"
+        },
+        {
+          "path": "E",
+          "folder": "Eddie Howard",
+          "name": "Eddie Howard 470831 (C).mp3",
+          "time": "1765",
+          "size": "56546210"
+        }
+      ]
+    },
+    {
+      "ide": "154454",
+      "date": "1960-05-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Is The Worst Policy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "154455",
+      "date": "1960-05-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Can't Buy A Substitute"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "154456",
+      "date": "1960-05-27",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Parting Is Such Sweet Sorrow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "154457",
+      "date": "1960-06-10",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Minds Its Own Business"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "154459",
+      "date": "1960-06-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Can't Add"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "154458",
+      "date": "1960-06-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Is Yours For The Asking"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Eddy Howard Show, The"
+    }
+  ]
+}

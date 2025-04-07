@@ -1,0 +1,358 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "FRKN"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041034-fc6f1654.jpg",
+      "label": "Frankenstein",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041040-2a91395b.jpg",
+      "label": "Frankenstein Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041052-aee94d66.jpg",
+      "label": "Frankenstein Cover Reverse",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041059-e4e4aaa7.jpg",
+      "label": "Frankenstein Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041111-04d4b30c.jpg",
+      "label": "Frankenstein Tray Insert",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041120-e4ca5d03.jpg",
+      "label": "Frankenstein Tray Reverse",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3811-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logf1013.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Two BBC programs from 1994 are also available."
+    }
+  ],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2207",
+      "idtype": "4",
+      "page": "48",
+      "article": "",
+      "url": "",
+      "date": "1977-01-01",
+      "source": "Radio Nostalgia/Radio_Nostalgia_(05).pdf",
+      "idpytype2": "4",
+      "title": "Radio Nostalgia (05)",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "64689",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baron Frankenstein Finds The Ship Voyager"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (1) Frankenstein.mp3",
+          "time": "737",
+          "size": "4531737"
+        }
+      ]
+    },
+    {
+      "ide": "64698",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Monster Kills The Baron's Wife, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (10) Frankenstein.mp3",
+          "time": "726",
+          "size": "4463097"
+        }
+      ]
+    },
+    {
+      "ide": "64699",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baron Is Forced To Leave His Village, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (11) Frankenstein.mp3",
+          "time": "727",
+          "size": "4468713"
+        }
+      ]
+    },
+    {
+      "ide": "64700",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baron Wants To Leave The Ship, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (12) Frankenstein.mp3",
+          "time": "732",
+          "size": "4503657"
+        }
+      ]
+    },
+    {
+      "ide": "64701",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baron Dies, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (13) Frankenstein.mp3",
+          "time": "752",
+          "size": "4621125"
+        }
+      ]
+    },
+    {
+      "ide": "64690",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bringing The Monster To Life"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (2) Frankenstein.mp3",
+          "time": "753",
+          "size": "4623933"
+        }
+      ]
+    },
+    {
+      "ide": "64691",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Monster Lives!, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (3) Frankenstein.mp3",
+          "time": "742",
+          "size": "4563561"
+        }
+      ]
+    },
+    {
+      "ide": "64692",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Monster Returns After 12 Months, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (4) Frankenstein.mp3",
+          "time": "771",
+          "size": "4733757"
+        }
+      ]
+    },
+    {
+      "ide": "64693",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Monster Kills William, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (5) Frankenstein.mp3",
+          "time": "711",
+          "size": "4377765"
+        }
+      ]
+    },
+    {
+      "ide": "64694",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baron Vows To Kill The Monster, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (6) Frankenstein.mp3",
+          "time": "763",
+          "size": "4684929"
+        }
+      ]
+    },
+    {
+      "ide": "64695",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baron Talks To The Monster, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (7) Frankenstein.mp3",
+          "time": "746",
+          "size": "4584465"
+        }
+      ]
+    },
+    {
+      "ide": "64696",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baron Builds A Second Monster, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (8) Frankenstein.mp3",
+          "time": "764",
+          "size": "4693509"
+        }
+      ]
+    },
+    {
+      "ide": "64697",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Monster Kills Ernst, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frankenstein",
+          "name": "Frankenstein 1938.xx.xx (9) Frankenstein.mp3",
+          "time": "760",
+          "size": "4668705"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Fantasy"
+    },
+    {
+      "genre": "Horror"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Frankenstein"
+    }
+  ]
+}

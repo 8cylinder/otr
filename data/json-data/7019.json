@@ -1,0 +1,162 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324044334-14f21d11.jpg",
+      "label": "Orbiter X",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.whirligig-tv.co.uk/radio/orbiterx.htm",
+      "label": "1950's British Radio Nostalgia",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/O Series/Orbiter X/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50680",
+      "first": "B. D.",
+      "last": "Chapman",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "319175",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Orbiter X",
+          "name": "Orbiter X 59-xx-xx (1 of 4).mp3",
+          "time": "5486",
+          "size": "27432377"
+        }
+      ]
+    },
+    {
+      "ide": "319176",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Orbiter X",
+          "name": "Orbiter X 59-xx-xx (2 of 4).mp3",
+          "time": "5446",
+          "size": "27231758"
+        }
+      ]
+    },
+    {
+      "ide": "319177",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Orbiter X",
+          "name": "Orbiter X 59-xx-xx (3 of 4).mp3",
+          "time": "5003",
+          "size": "25018011"
+        }
+      ]
+    },
+    {
+      "ide": "319178",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Orbiter X",
+          "name": "Orbiter X 59-xx-xx (4 of 4).mp3",
+          "time": "4837",
+          "size": "24186271"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1959-09-28",
+      "dow": "",
+      "time": "",
+      "end": "1959-12-28",
+      "length": "60",
+      "country": "United Kingdom",
+      "network": "BBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Orbiter X"
+    }
+  ]
+}

@@ -1,0 +1,895 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "TWTY"
+    }
+  ],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/That Was The Year/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-That-Was-The-Year.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logt1023.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8838-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "1233",
+      "idtype": "4",
+      "page": "10",
+      "article": "",
+      "url": "",
+      "date": "1973-09-01",
+      "source": "NARA News/NARA News V01 01 SepOct73.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - Vol(01-01) 1973",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "141551",
+      "date": "1937-02-01",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1907"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-02-01 (01) Spotlighting the Year - 1907.mp3",
+          "time": "890",
+          "size": "7120686"
+        }
+      ]
+    },
+    {
+      "ide": "141552",
+      "date": "1937-02-08",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1920"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-02-08 (02) Spotlighting the Year - 1920.mp3",
+          "time": "890",
+          "size": "7121522"
+        }
+      ]
+    },
+    {
+      "ide": "141553",
+      "date": "1937-02-15",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1904"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-02-15 (03) Spotlighting the Year - 1904.mp3",
+          "time": "891",
+          "size": "7130717"
+        }
+      ]
+    },
+    {
+      "ide": "141554",
+      "date": "1937-02-22",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1925"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-02-22 (04) Spotlighting the Year - 1925.mp3",
+          "time": "891",
+          "size": "7131135"
+        }
+      ]
+    },
+    {
+      "ide": "141555",
+      "date": "1937-03-01",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1913"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-03-01 (05) Spotlighting the Year - 1913.mp3",
+          "time": "889",
+          "size": "7113581"
+        }
+      ]
+    },
+    {
+      "ide": "141556",
+      "date": "1937-03-08",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1932"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-03-08 (06) Spotlighting the Year - 1932.mp3",
+          "time": "890",
+          "size": "7121940"
+        }
+      ]
+    },
+    {
+      "ide": "141557",
+      "date": "1937-03-15",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1900"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-03-15 (07) Spotlighting the Year - 1900.mp3",
+          "time": "893",
+          "size": "7143465"
+        }
+      ]
+    },
+    {
+      "ide": "141558",
+      "date": "1937-03-22",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1926"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-03-22 (08) Spotlighting the Year - 1926.mp3",
+          "time": "891",
+          "size": "7128209"
+        }
+      ]
+    },
+    {
+      "ide": "141559",
+      "date": "1937-03-29",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1909"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-03-29 (09) Spotlighting the Year - 1909.mp3",
+          "time": "875",
+          "size": "7001150"
+        }
+      ]
+    },
+    {
+      "ide": "141560",
+      "date": "1937-04-05",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1919"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-04-05 (10) Spotlighting the Year - 1919.mp3",
+          "time": "890",
+          "size": "7121523"
+        }
+      ]
+    },
+    {
+      "ide": "141561",
+      "date": "1937-04-12",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1896"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-04-12 (11) Spotlighting the Year - 1896.mp3",
+          "time": "890",
+          "size": "7120896"
+        }
+      ]
+    },
+    {
+      "ide": "141562",
+      "date": "1937-04-19",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1924"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-04-19 (12) Spotlighting the Year - 1924.mp3",
+          "time": "900",
+          "size": "7200517"
+        }
+      ]
+    },
+    {
+      "ide": "141563",
+      "date": "1937-04-26",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1914"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-04-26 (13) Spotlighting the Year - 1914.mp3",
+          "time": "895",
+          "size": "7159557"
+        }
+      ]
+    },
+    {
+      "ide": "141564",
+      "date": "1937-05-03",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1930"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-05-03 (14) Spotlighting the Year - 1930.mp3",
+          "time": "891",
+          "size": "7130855"
+        }
+      ]
+    },
+    {
+      "ide": "141565",
+      "date": "1937-05-10",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1908"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-05-10 (15) Spotlighting the Year - 1908.mp3",
+          "time": "894",
+          "size": "7155169"
+        }
+      ]
+    },
+    {
+      "ide": "141566",
+      "date": "1937-05-17",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting The Year - 1928"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-05-17 (16) Spotlighting the Year - 1928.mp3",
+          "time": "895",
+          "size": "7159557"
+        }
+      ]
+    },
+    {
+      "ide": "141567",
+      "date": "1937-05-24",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1903"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-05-24 (17) Spotlighting the Year - 1903.mp3",
+          "time": "895",
+          "size": "7157468"
+        }
+      ]
+    },
+    {
+      "ide": "141568",
+      "date": "1937-05-31",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1922"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-05-31 (18) Spotlighting the Year - 1922.mp3",
+          "time": "890",
+          "size": "7119851"
+        }
+      ]
+    },
+    {
+      "ide": "141569",
+      "date": "1937-06-07",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1910"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-06-07 (19) Spotlighting the Year - 1910.mp3",
+          "time": "890",
+          "size": "7116926"
+        }
+      ]
+    },
+    {
+      "ide": "141570",
+      "date": "1937-06-14",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1933"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-06-14 (20) Spotlighting the Year - 1933.mp3",
+          "time": "881",
+          "size": "7049216"
+        }
+      ]
+    },
+    {
+      "ide": "141571",
+      "date": "1937-06-21",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1901"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-06-21 (21) Spotlighting the Year - 1901.mp3",
+          "time": "892",
+          "size": "7138450"
+        }
+      ]
+    },
+    {
+      "ide": "141572",
+      "date": "1937-06-28",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1916"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-06-28 (22) Spotlighting the Year - 1916.mp3",
+          "time": "891",
+          "size": "7130927"
+        }
+      ]
+    },
+    {
+      "ide": "141573",
+      "date": "1937-07-05",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1906"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-07-05 (23) Spotlighting the Year - 1906.mp3",
+          "time": "890",
+          "size": "7120896"
+        }
+      ]
+    },
+    {
+      "ide": "141574",
+      "date": "1937-07-12",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1934"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-07-12 (24) Spotlighting the Year - 1934.mp3",
+          "time": "891",
+          "size": "7125912"
+        }
+      ]
+    },
+    {
+      "ide": "141575",
+      "date": "1937-07-19",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1897"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-07-19 (25) Spotlighting the Year - 1897.mp3",
+          "time": "892",
+          "size": "7136361"
+        }
+      ]
+    },
+    {
+      "ide": "141576",
+      "date": "1937-07-26",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1912"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-07-26 (26) Spotlighting the Year - 1912.mp3",
+          "time": "895",
+          "size": "7161229"
+        }
+      ]
+    },
+    {
+      "ide": "141577",
+      "date": "1937-08-02",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1927"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-08-02 (27) Spotlighting the Year - 1927.mp3",
+          "time": "891",
+          "size": "7126121"
+        }
+      ]
+    },
+    {
+      "ide": "141578",
+      "date": "1937-08-09",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1915"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-08-09 (28) Spotlighting the Year - 1915.mp3",
+          "time": "896",
+          "size": "7165409"
+        }
+      ]
+    },
+    {
+      "ide": "141579",
+      "date": "1937-08-16",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1921"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-08-16 (29) Spotlighting the Year - 1921.mp3",
+          "time": "890",
+          "size": "7120269"
+        }
+      ]
+    },
+    {
+      "ide": "141580",
+      "date": "1937-08-23",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1902"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-08-23 (30) Spotlighting the Year - 1902.mp3",
+          "time": "888",
+          "size": "7102506"
+        }
+      ]
+    },
+    {
+      "ide": "141581",
+      "date": "1937-08-30",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1918"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-08-30 (31) Spotlighting the Year - 1918.mp3",
+          "time": "890",
+          "size": "7121941"
+        }
+      ]
+    },
+    {
+      "ide": "141582",
+      "date": "1937-09-06",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1929"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-09-06 (32) Spotlighting the Year - 1929.mp3",
+          "time": "890",
+          "size": "7121941"
+        }
+      ]
+    },
+    {
+      "ide": "141583",
+      "date": "1937-09-13",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1899"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-09-13 (33) Spotlighting the Year - 1899.mp3",
+          "time": "890",
+          "size": "7124240"
+        }
+      ]
+    },
+    {
+      "ide": "141584",
+      "date": "1937-09-20",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1923"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-09-20 (34) Spotlighting the Year - 1923.mp3",
+          "time": "882",
+          "size": "7053814"
+        }
+      ]
+    },
+    {
+      "ide": "141585",
+      "date": "1937-09-27",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1905"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-09-27 (35) Spotlighting the Year - 1905.mp3",
+          "time": "887",
+          "size": "7100416"
+        }
+      ]
+    },
+    {
+      "ide": "141586",
+      "date": "1937-10-04",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1911"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-10-04 (36) Spotlighting the Year - 1911.mp3",
+          "time": "888",
+          "size": "7101670"
+        }
+      ]
+    },
+    {
+      "ide": "141587",
+      "date": "1937-10-11",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1898"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-10-11 (37) Spotlighting the Year - 1898.mp3",
+          "time": "888",
+          "size": "7104387"
+        }
+      ]
+    },
+    {
+      "ide": "141588",
+      "date": "1937-10-18",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1931"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-10-18 (38) Spotlighting the Year - 1931.mp3",
+          "time": "889",
+          "size": "7109611"
+        }
+      ]
+    },
+    {
+      "ide": "141589",
+      "date": "1937-10-25",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlighting the Year - 1917"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "That Was The Year",
+          "name": "That Was the Year 37-10-25 (39) Spotlighting the Year - 1917.mp3",
+          "time": "888",
+          "size": "7104178"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-02-01",
+      "dow": "",
+      "time": "",
+      "end": "1937-10-25",
+      "length": "30",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "That Was the Year"
+    }
+  ]
+}

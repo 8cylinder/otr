@@ -1,0 +1,157 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "DOCH"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logd1018.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "52287",
+      "date": "1939-02-26",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52288",
+      "date": "1939-03-05",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52289",
+      "date": "1939-03-12",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Needlework"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Don't Cheat Uncle Sam",
+          "name": "Don't Cheat Uncle Sam 390312 03 Needlework_OTRRPG.mp3",
+          "time": "1709",
+          "size": "27430470"
+        }
+      ]
+    },
+    {
+      "ide": "311116",
+      "date": "1939-03-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Don't Cheat Uncle Sam 39-03-13 (3) Needlework"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Don't Cheat Uncle Sam 39-03-13 (3) Needlework.mp3",
+          "time": "1712",
+          "size": "13693386"
+        }
+      ]
+    },
+    {
+      "ide": "52290",
+      "date": "1939-03-19",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carnage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52291",
+      "date": "1939-03-26",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "National 7177"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52292",
+      "date": "1939-04-02",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52293",
+      "date": "1939-04-09",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Benefit to Mankind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52294",
+      "date": "1939-04-16",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Right People, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Action"
+    },
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "AT&T",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Don't Cheat Uncle Sam"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Beat That Story/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321391",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From Mrs Wilson"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Beat That Story",
+          "name": "Beat That Story 1946.xx.xx From Mrs Wilson.mp3",
+          "time": "1160",
+          "size": "4749578"
+        }
+      ]
+    },
+    {
+      "ide": "317639",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From Mrs. Wilson x"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Beat That Story",
+          "name": "Beat That Story 46-xx-xx (11) From Mrs. Wilson x.mp3",
+          "time": "1161",
+          "size": "18577098"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Game Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1950-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "BBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Mobil Oil",
+      "begin": "1950-00-00",
+      "end": "1950-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Beat That Story"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Allen And Jean/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "618",
+      "first": "Joe",
+      "last": "Bolton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4774",
+      "first": "Allen",
+      "last": "Prescott",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6823",
+      "first": "Jean 'Jeanne'",
+      "last": "Colbert",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "In Old New York"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "245727",
+      "date": "1946-04-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Allen & Jean - News and Chatter About Old New York"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Allen And Jean",
+          "name": "Allen Prescott and Jean Colbert 46-04-20 Talk about NYC.mp3",
+          "time": "1468",
+          "size": "14684308"
+        },
+        {
+          "path": "A",
+          "folder": "Allen Prescott",
+          "name": "Allen Prescott and Jean Colbert Show 46-04-20 Talk about NYC (s&amp;d).mp3",
+          "time": "1468",
+          "size": "14684308"
+        }
+      ]
+    },
+    {
+      "ide": "316391",
+      "date": "1947-10-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Going On A Diet"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Allen And Jean",
+          "name": "Allen Prescott and Jean Colbert 47-10-15 Going On A Diet.mp3",
+          "time": "848",
+          "size": "6787073"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1946-09-28",
+      "dow": "Sa",
+      "time": "8:30 AM",
+      "end": "1946-10-19",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Allen And Jean"
+    }
+  ]
+}

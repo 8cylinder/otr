@@ -1,0 +1,98 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,790474,00.html",
+      "label": "1942-05-11: Cheers",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2884",
+      "first": "Marlin",
+      "last": "Hurt",
+      "f": "Noted Role",
+      "character": "Emcee"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "The summer series spotlighted the talents of former professionals now in the service."
+    }
+  ],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1942-06-09",
+      "dow": "Tu",
+      "time": "9:30 PM",
+      "end": "1942-09-22",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Cheers From The Camps"
+    }
+  ]
+}

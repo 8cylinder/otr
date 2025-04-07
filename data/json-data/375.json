@@ -1,0 +1,392 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185228-e41d1f54.jpg",
+      "label": "Adventure Ahead CD label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185229-5346e9f2.jpg",
+      "label": "Adventure Ahead CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185230-8a919a3f.jpg",
+      "label": "Adventure Ahead CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Adventure_Ahead_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Adventure-Ahead.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-375-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Adventure-Ahead.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loga1029.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Adventure_Ahead_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "350",
+      "idtype": "4",
+      "page": "26",
+      "article": "",
+      "url": "",
+      "date": "1982-07-01",
+      "source": "Collectors Corner/CC_34_Summer_82.pdf",
+      "idpytype2": "4",
+      "title": "Collectors Corner #34 Summer 82",
+      "author": ""
+    },
+    {
+      "idprint": "605",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1991-02-01",
+      "source": "Illustrated Press/IP_173.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #173 Feb 91",
+      "author": ""
+    },
+    {
+      "idprint": "608",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "1991-07-01",
+      "source": "Illustrated Press/IP_178.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #178/9 Jul/Aug 91",
+      "author": ""
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "7716",
+      "date": "1944-08-05",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Years Before the Mast"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-08-05_ep01_Two_Years_Before_the_Mast.mp3",
+          "time": "1733",
+          "size": "13865300"
+        }
+      ]
+    },
+    {
+      "ide": "7717",
+      "date": "1944-08-12",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arrival of the Lily Bean, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "7718",
+      "date": "1944-08-19",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of a Bad Boy, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-08-19_ep03_The_Story_of_a_Bad_Boy.mp3",
+          "time": "1760",
+          "size": "28157838"
+        },
+        {
+          "path": "A",
+          "folder": "Adventure Ahead",
+          "name": "Adventure Ahead 440819 002 Story of A Bad Boy_OTRRPG.mp3",
+          "time": "1754",
+          "size": "28141604"
+        }
+      ]
+    },
+    {
+      "ide": "7719",
+      "date": "1944-08-26",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inside the FBI"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-08-26_ep04_Inside_the_FBI.mp3",
+          "time": "1682",
+          "size": "13456106"
+        }
+      ]
+    },
+    {
+      "ide": "7720",
+      "date": "1944-09-02",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robinson Crusoe"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-09-02_ep05_Robinson_Crusoe.mp3",
+          "time": "1767",
+          "size": "14132156"
+        }
+      ]
+    },
+    {
+      "ide": "7721",
+      "date": "1944-09-09",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tooth for Paul Revere, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-09-09_ep06_A_Tooth_for_Paul_Revere.mp3",
+          "time": "1707",
+          "size": "13653601"
+        }
+      ]
+    },
+    {
+      "ide": "7722",
+      "date": "1944-09-16",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Toby Tyler, or 10 Weeks with a Circus"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-09-16_ep07_Toby_Tyler_or_10_Weeks_with_a_Circus.mp3",
+          "time": "1768",
+          "size": "14141265"
+        }
+      ]
+    },
+    {
+      "ide": "7723",
+      "date": "1944-09-23",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Talking Drums, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-09-23_ep08_The_Talking_Drums.mp3",
+          "time": "1766",
+          "size": "14130487"
+        }
+      ]
+    },
+    {
+      "ide": "7724",
+      "date": "1944-09-30",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Biscuit Eater, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-09-30_ep09_The_Biscuit_Eater.mp3",
+          "time": "1708",
+          "size": "13667806"
+        }
+      ]
+    },
+    {
+      "ide": "7725",
+      "date": "1944-10-07",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Have You Seen Tom Thumb"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "7726",
+      "date": "1944-10-14",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hill Lawyer"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-10-14_ep11_Hill_Lawyer.mp3",
+          "time": "1688",
+          "size": "13500617"
+        }
+      ]
+    },
+    {
+      "ide": "7727",
+      "date": "1944-10-21",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One of the 28th"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-10-21_ep12_One_of_the_28th.mp3",
+          "time": "1667",
+          "size": "13333019"
+        }
+      ]
+    },
+    {
+      "ide": "7728",
+      "date": "1944-10-28",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Greenmantle"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Adventure_Ahead_Singles",
+          "name": "Adventure_Ahead_44-10-28_ep13_Greenmantle.mp3",
+          "time": "1753",
+          "size": "14026067"
+        }
+      ]
+    },
+    {
+      "ide": "7729",
+      "date": "1944-11-04",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Three Musketeers, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventure Ahead"
+    }
+  ]
+}

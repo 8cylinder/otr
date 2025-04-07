@@ -1,0 +1,178 @@
+{
+  "avail": [
+    {
+      "avail": "1",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/I Series/It's Murder/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/articles/artjf006.html",
+      "label": "Fifteen-Minute Favorites by Jack French",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "39565",
+      "first": "Joan",
+      "last": "Alexander",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4513",
+      "first": "Santos",
+      "last": "Ortega",
+      "f": "Noted Role",
+      "character": "Dr. Doom"
+    },
+    {
+      "idperson": "6038",
+      "first": "Fred",
+      "last": "Uttal",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "308664",
+      "date": "1944-08-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Picture Wire Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "It's Murder",
+          "name": "It's Murder 440810 xxx Picture Wire Murder_OTRRPG.mp3",
+          "time": "882",
+          "size": "14126600"
+        },
+        {
+          "path": "I",
+          "folder": "It's Murder",
+          "name": "It's Murder 44-08-10 Picture Wire Murder.mp3",
+          "time": "878",
+          "size": "7024921"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1944-06-01",
+      "dow": "Th",
+      "time": "11:15 PM",
+      "end": "1944-06-22",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1944-07-01",
+      "dow": "Sa",
+      "time": "11:15 PM",
+      "end": "1944-10-18",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1944-11-18",
+      "dow": "Sa",
+      "time": "11:15 PM",
+      "end": "1945-02-24",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-04-06",
+      "dow": "M",
+      "time": "4:15 PM",
+      "end": "1945-05-28",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-06-02",
+      "dow": "Sa",
+      "time": "11:00 AM",
+      "end": "1945-06-16",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "It's Murder"
+    }
+  ]
+}

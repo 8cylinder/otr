@@ -1,0 +1,120 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [
+    {
+      "info": "First run was a summer replacement for Jack Benny."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "4249",
+      "first": "Henry",
+      "last": "Morgan",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5769",
+      "first": "John Cameron",
+      "last": "Swayze",
+      "f": "Noted Role",
+      "character": "Host (later)"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "247008",
+      "date": "1958-03-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sez Who"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sez Who",
+          "name": "Sez Who 1958.03.09 Sez Who.mp3",
+          "time": "1764",
+          "size": "7164218"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Quiz"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1957-07-14",
+      "dow": "Su",
+      "time": "7:00 PM",
+      "end": "1957-09-29",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1957-10-27",
+      "dow": "Su",
+      "time": "7:30 PM",
+      "end": "1958-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Sez Who?"
+    }
+  ]
+}

@@ -1,0 +1,1483 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323170740-ad8a14e7.jpg",
+      "label": "Mary Lee Taylor Program CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323170751-4b75df12.jpg",
+      "label": "Mary Lee Taylor Program CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323170803-35b67a3a.jpg",
+      "label": "Mary Lee Taylor Program CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325192741-ef449161.jpg",
+      "label": "Mary Taylor Show",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "xroads.virginia.edu/%7E1930s2/Radio/day/radio.html",
+      "label": "American Studies at the Univ. of Virginia : A Day in Radio (September 21, 1939)",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6066-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mary Lee Taylor Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mary Lee Taylor Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Mary_Lee_Taylor_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "12270",
+      "first": "John",
+      "last": "Cole",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "46827",
+      "first": "Erma",
+      "last": "Proetz",
+      "f": "Noted Role",
+      "character": "Mary Lee Taylor"
+    },
+    {
+      "idperson": "3216",
+      "first": "Del",
+      "last": "King",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Over The Rainbow"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "309795",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Intoduction to the OTRR(Andrew)"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "00 Intoduction to the OTRR(Andrew).mp3",
+          "time": "341",
+          "size": "5456707"
+        }
+      ]
+    },
+    {
+      "ide": "309796",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mary Lee Taylor Series Synopsis Audio"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "01 Mary Lee Taylor Series Synopsis Audio.mp3",
+          "time": "302",
+          "size": "2416974"
+        }
+      ]
+    },
+    {
+      "ide": "309797",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Erma Proetz Biography"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "02 Erma Proetz Biography.mp3",
+          "time": "151",
+          "size": "1054870"
+        }
+      ]
+    },
+    {
+      "ide": "285468",
+      "date": "1939-09-21",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stuffed Vanilla Wafers"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee taylor 39-09-21 Stuffed Vanilla Wafers.MP3",
+          "time": "710",
+          "size": "2842644"
+        }
+      ]
+    },
+    {
+      "ide": "285469",
+      "date": "1948-07-10",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Skeleton in the Attic"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_48-07-10_0_Skeleton_In_the_Attic.mp3",
+          "time": "1684",
+          "size": "13473520"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 480710 xxx Skeleton In The Attic_OTRRPG.mp3",
+          "time": "1682",
+          "size": "26988911"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-07-10 (0) Skeleton In the Attic.mp3",
+          "time": "1684",
+          "size": "13473520"
+        }
+      ]
+    },
+    {
+      "ide": "285470",
+      "date": "1948-10-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moving To Capitol City"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_48-10-23_1_Moving_To_Capitol_City.mp3",
+          "time": "1683",
+          "size": "13464326"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481023 xxx Moving To Capitol City_OTRRPG.mp3",
+          "time": "1681",
+          "size": "26970521"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-10-23 (1) Moving To Capitol City.mp3",
+          "time": "1683",
+          "size": "13464326"
+        }
+      ]
+    },
+    {
+      "ide": "285471",
+      "date": "1948-10-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good Friend, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_48-10-30_x_The_Good_Friend.mp3",
+          "time": "1642",
+          "size": "13136303"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481030 xxx Sally Makes Up Her Mind_OTRRPG.mp3",
+          "time": "1639",
+          "size": "26306665"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-10-30 (x) The Good Friend.mp3",
+          "time": "1641",
+          "size": "13136303"
+        }
+      ]
+    },
+    {
+      "ide": "285472",
+      "date": "1948-11-06",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strange Reunion"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_48-11-06_x_Strange_Reunion.mp3",
+          "time": "1652",
+          "size": "13215006"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481106 xxx Strange Reunion_OTRRPG.mp3",
+          "time": "1650",
+          "size": "26472169"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-11-06 (x) Strange Reunion.mp3",
+          "time": "1652",
+          "size": "13215006"
+        }
+      ]
+    },
+    {
+      "ide": "285473",
+      "date": "1948-11-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sally Finds An Apartment"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_48-11-11_Sally_Finds_An_Apartment.mp3",
+          "time": "1673",
+          "size": "13385124"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481112 xxx Sally Finds An Apartment_OTRRPG.mp3",
+          "time": "1671",
+          "size": "26812396"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-11-11 Sally Finds An Apartment.mp3",
+          "time": "1673",
+          "size": "13385124"
+        }
+      ]
+    },
+    {
+      "ide": "285474",
+      "date": "1948-11-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life in the New Apartment"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_48-11-19_x_Life_in_the_New_Apartment.mp3",
+          "time": "1606",
+          "size": "12850765"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481119 xxx Life In The New Apartment_OTRRPG.mp3",
+          "time": "1607",
+          "size": "25799183"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-11-19 (x) Life in the New Apartment.mp3",
+          "time": "1606",
+          "size": "12850765"
+        }
+      ]
+    },
+    {
+      "ide": "285475",
+      "date": "1948-11-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim's Surprise"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_48-11-26_x_Jims_Surprise.mp3",
+          "time": "1654",
+          "size": "13234649"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481126 xxx Jim's Surprise_OTRRPG.mp3",
+          "time": "1652",
+          "size": "26511456"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481127 xxx Jim's Night Out_OTRRPG.mp3",
+          "time": "1652",
+          "size": "26511155"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-11-26 (x) Jim's Surprise.mp3",
+          "time": "1654",
+          "size": "13234649"
+        }
+      ]
+    },
+    {
+      "ide": "285476",
+      "date": "1948-12-03",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Friend Charlie"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_48-12-03_x_Old_Friend_Charlie.mp3",
+          "time": "1665",
+          "size": "13317618"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481204 xxx Old Friend Charlie_OTRRPG.mp3",
+          "time": "1662",
+          "size": "26677390"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-12-03 (x) Old Friend Charlie.mp3",
+          "time": "1665",
+          "size": "13317618"
+        }
+      ]
+    },
+    {
+      "ide": "285477",
+      "date": "1948-12-10",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Redecorating"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_48-12-10_x_Redecorating.mp3",
+          "time": "1659",
+          "size": "13268920"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481211 xxx Sally Redecorates_OTRRPG.mp3",
+          "time": "1656",
+          "size": "26580004"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-12-10 (x) Redecorating.mp3",
+          "time": "1659",
+          "size": "13268920"
+        }
+      ]
+    },
+    {
+      "ide": "285478",
+      "date": "1948-12-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Day Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285479",
+      "date": "1948-12-17",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Home For Christmas"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_48-12-17_x_Home_For_Christmas.mp3",
+          "time": "1662",
+          "size": "13294421"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481218 xxx Home For Christmas_OTRRPG.mp3",
+          "time": "1659",
+          "size": "26630996"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-12-17 (x) Home For Christmas.mp3",
+          "time": "1662",
+          "size": "13294421"
+        }
+      ]
+    },
+    {
+      "ide": "285480",
+      "date": "1948-12-25",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 481225 xxx Christmas Story_OTRRPG.mp3",
+          "time": "1678",
+          "size": "26925654"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 48-12-25 (x) Christmas Story.mp3",
+          "time": "1680",
+          "size": "13441749"
+        }
+      ]
+    },
+    {
+      "ide": "285466",
+      "date": "1949-01-01",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "285481",
+      "date": "1949-01-08",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will The Landlord Accept The New Baby?"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-01-08_Will_The_Landlord_Accept_The_Baby.mp3",
+          "time": "1690",
+          "size": "13519094"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490108 xxx Will The Landlord Accept The Baby_OTRRPG.mp3",
+          "time": "1688",
+          "size": "27080317"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-01-08 Will The Landlord Accept The Baby.mp3",
+          "time": "1690",
+          "size": "13519094"
+        }
+      ]
+    },
+    {
+      "ide": "285482",
+      "date": "1949-01-15",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Worried About Prowlers"
+        },
+        {
+          "title": "The Uninvited Guest"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-01-15_x_Worried_About_Prowlers.mp3",
+          "time": "1662",
+          "size": "13292962"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490115 xxx Worried About Prowlers_OTRRPG.mp3",
+          "time": "1659",
+          "size": "26628074"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-01-15 (x) Worried About Prowlers.mp3",
+          "time": "1662",
+          "size": "13292962"
+        }
+      ]
+    },
+    {
+      "ide": "285467",
+      "date": "1949-01-22",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "285483",
+      "date": "1949-01-29",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sally's Birthday Party"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-01-29_x_Sallys_Birthday_Party.mp3",
+          "time": "1683",
+          "size": "13467042"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490129 xxx Sally's Birthday Party_OTRRPG.mp3",
+          "time": "1681",
+          "size": "26976234"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-01-29 (x) Sally's Birthday Party.mp3",
+          "time": "1683",
+          "size": "13467042"
+        }
+      ]
+    },
+    {
+      "ide": "285484",
+      "date": "1949-02-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Twenty Dollar Question, The"
+        },
+        {
+          "title": "The $20 Bill"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-02-05_x_The_Twenty_Dollar_Question.mp3",
+          "time": "1673",
+          "size": "13385753"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490205 xxx The Twenty Dollar Question_OTRRPG.mp3",
+          "time": "1671",
+          "size": "26813652"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-02-05 (x) The Twenty Dollar Question.mp3",
+          "time": "1673",
+          "size": "13385753"
+        }
+      ]
+    },
+    {
+      "ide": "285485",
+      "date": "1949-02-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Budget Problems"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-02-12_x_Budget_Problems.mp3",
+          "time": "1675",
+          "size": "13398908"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490212 xxx Budget Problems_OTRRPG.mp3",
+          "time": "1673",
+          "size": "26839973"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-02-12 (x) Budget Problems.mp3",
+          "time": "1675",
+          "size": "13398908"
+        }
+      ]
+    },
+    {
+      "ide": "285486",
+      "date": "1949-02-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dad's Old Flame"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-02-19_x_Dads_Old_Flame.mp3",
+          "time": "1674",
+          "size": "13394937"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490219 xxx Dad's Old Flame_OTRRPG.mp3",
+          "time": "1672",
+          "size": "26832032"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-02-19 (x) Dad's Old Flame.mp3",
+          "time": "1674",
+          "size": "13394937"
+        }
+      ]
+    },
+    {
+      "ide": "285487",
+      "date": "1949-02-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three's A Crowd"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-02-26_x_Threes_A_Crowd.mp3",
+          "time": "1693",
+          "size": "13545403"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490226 xxx Three's A Crowd_OTRRPG.mp3",
+          "time": "1691",
+          "size": "27132962"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-02-26 (x) Threes' A Crowd.mp3",
+          "time": "1693",
+          "size": "13545403"
+        }
+      ]
+    },
+    {
+      "ide": "285488",
+      "date": "1949-03-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Horoscopes"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-03-05_x_Horoscopes.mp3",
+          "time": "1660",
+          "size": "13277695"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490305 xxx Horoscopes_OTRRPG.mp3",
+          "time": "1657",
+          "size": "26597551"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-03-05 (x) Horoscopes.mp3",
+          "time": "1660",
+          "size": "13277695"
+        }
+      ]
+    },
+    {
+      "ide": "285489",
+      "date": "1949-03-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doc Bradley"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-03-12_x_Doc_Bradley.mp3",
+          "time": "1671",
+          "size": "13367139"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490312 xxx Doc Bradley_OTRRPG.mp3",
+          "time": "1669",
+          "size": "26776439"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-03-12 (x) Doc Bradley.mp3",
+          "time": "1671",
+          "size": "13367139"
+        }
+      ]
+    },
+    {
+      "ide": "285490",
+      "date": "1949-03-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Naming The Baby"
+        },
+        {
+          "title": "What's In A Name?"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-03-19_x_Naming_The_Baby.mp3",
+          "time": "1657",
+          "size": "13256770"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490319 xxx Naming The Baby_OTRRPG.mp3",
+          "time": "1655",
+          "size": "26555761"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-03-19 (x) Naming The Baby.mp3",
+          "time": "1657",
+          "size": "13256770"
+        }
+      ]
+    },
+    {
+      "ide": "285491",
+      "date": "1949-03-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Now We Are Three"
+        },
+        {
+          "title": "The Blessed Event"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-03-26_x_Now_We_Are_Three.mp3",
+          "time": "1669",
+          "size": "13348754"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490326 xxx Now We Are Three_OTRRPG.mp3",
+          "time": "1666",
+          "size": "26739664"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-03-26 (x) Now We Are Three.mp3",
+          "time": "1668",
+          "size": "13348754"
+        }
+      ]
+    },
+    {
+      "ide": "285492",
+      "date": "1949-04-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sally's One Track Mind"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-04-02_x_Sallys_One_Track_Mind.mp3",
+          "time": "1679",
+          "size": "13428172"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490402 xxx Sally's One Track Mind_OTRRPG.mp3",
+          "time": "1676",
+          "size": "26898494"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-04-02 (x) Sally's One Track Mind.mp3",
+          "time": "1678",
+          "size": "13428172"
+        }
+      ]
+    },
+    {
+      "ide": "285493",
+      "date": "1949-04-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sally Comes Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-04-09_x_Sally_Comes_Home.mp3",
+          "time": "1674",
+          "size": "13388669"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490409 xxx Sally Comes Home_OTRRPG.mp3",
+          "time": "1671",
+          "size": "26819494"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-04-09 (x) Sally Comes Home.mp3",
+          "time": "1673",
+          "size": "13388669"
+        }
+      ]
+    },
+    {
+      "ide": "285494",
+      "date": "1949-04-16",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Whose Baby Is She?"
+        },
+        {
+          "title": "Whose Baby Is She Anyway?"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-04-16_Whose_Baby_Is_She.mp3",
+          "time": "1667",
+          "size": "13336844"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490416 xxx Whose Baby Is She_OTRRPG.mp3",
+          "time": "1665",
+          "size": "26715921"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-04-16 Whose Baby Is She.mp3",
+          "time": "1667",
+          "size": "13336844"
+        }
+      ]
+    },
+    {
+      "ide": "285495",
+      "date": "1949-04-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who Will Be Betsy's Godfather?"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-04-23_Who_Will_Be_Betsys_Godfather.mp3",
+          "time": "1664",
+          "size": "13312406"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490423 xxx Who Will Be Betsy's Godfather_OTRRPG.mp3",
+          "time": "1662",
+          "size": "26666952"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-04-23 Who Will Be Betsy's Godfather.mp3",
+          "time": "1664",
+          "size": "13312406"
+        }
+      ]
+    },
+    {
+      "ide": "285496",
+      "date": "1949-04-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Friday Night Dilemma"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-04-30_x_Friday_Night_Dilemma.mp3",
+          "time": "1686",
+          "size": "13491877"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490430 xxx Friday Night Dilemma_OTRRPG.mp3",
+          "time": "1684",
+          "size": "27026086"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-04-30 (x) Friday Night Dilemma.mp3",
+          "time": "1686",
+          "size": "13491877"
+        }
+      ]
+    },
+    {
+      "ide": "285497",
+      "date": "1949-05-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sally's Night Out"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-05-07_x_Sallys_Night_Out.mp3",
+          "time": "1694",
+          "size": "13554600"
+        },
+        {
+          "path": "s M",
+          "folder": "0",
+          "name": "Mary Lee Taylor 490507 xxx Sally's Night Out_OTRRPG.mp3",
+          "time": "1692",
+          "size": "27151053"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-05-07 (x) Sally's Night Out.mp3",
+          "time": "1694",
+          "size": "13554600"
+        }
+      ]
+    },
+    {
+      "ide": "285498",
+      "date": "1949-05-14",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Nicki After Jim?"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-05-14_Is_Nicki_After_Jim.mp3",
+          "time": "1678",
+          "size": "13425035"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490514 xxx Is Nicki After Jim_OTRRPG.mp3",
+          "time": "1676",
+          "size": "26892337"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-05-14 Is Nicki After Jim.mp3",
+          "time": "1678",
+          "size": "13425035"
+        }
+      ]
+    },
+    {
+      "ide": "285499",
+      "date": "1949-05-21",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Man In Nicki's Life"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-05-21_x_New_Man_In_Nickis_Life.mp3",
+          "time": "1681",
+          "size": "13446981"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490521 xxx New Man In Nicki's Life_OTRRPG.mp3",
+          "time": "1679",
+          "size": "26936228"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-05-21 (x) New Man In Nicki's Life.mp3",
+          "time": "1681",
+          "size": "13446981"
+        }
+      ]
+    },
+    {
+      "ide": "285500",
+      "date": "1949-05-28",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Photo Finish"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-05-28_x_Photo_Finish.mp3",
+          "time": "1663",
+          "size": "13307790"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490528 xxx Photo Finish_OTRRPG.mp3",
+          "time": "1661",
+          "size": "26657438"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-05-28 (x) Photo Finish.mp3",
+          "time": "1663",
+          "size": "13307790"
+        }
+      ]
+    },
+    {
+      "ide": "285501",
+      "date": "1949-06-04",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hero, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-06-04_x_The_Hero.mp3",
+          "time": "1678",
+          "size": "13423979"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490604 xxx The Hero_OTRRPG.mp3",
+          "time": "1676",
+          "size": "26890237"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-06-04 (x) The Hero.mp3",
+          "time": "1678",
+          "size": "13423979"
+        }
+      ]
+    },
+    {
+      "ide": "285502",
+      "date": "1949-06-11",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What's Cooking?"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-06-11_Whats_Cooking.mp3",
+          "time": "1678",
+          "size": "13424613"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490611 xxx What's Cooking_OTRRPG.mp3",
+          "time": "1676",
+          "size": "26891079"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-06-11 What's Cooking.mp3",
+          "time": "1678",
+          "size": "13424613"
+        }
+      ]
+    },
+    {
+      "ide": "285503",
+      "date": "1949-06-18",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Mary_Lee_Taylor_Singles",
+          "name": "Mary_Lee_Taylor_Show_49-06-18_x_The_Will.mp3",
+          "time": "1678",
+          "size": "13422275"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor 490618 xxx The Will_OTRRPG.mp3",
+          "time": "1675",
+          "size": "26886894"
+        },
+        {
+          "path": "M",
+          "folder": "Mary Lee Taylor Show",
+          "name": "Mary Lee Taylor Show 49-06-18 (x) The Will.mp3",
+          "time": "1678",
+          "size": "13422275"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Food"
+    },
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1933-11-07",
+      "dow": "Tu,Th",
+      "time": "",
+      "end": "1943-11-18",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1943-11-07",
+      "dow": "Sa",
+      "time": "",
+      "end": "1948-10-16",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1948-10-23",
+      "dow": "Sa",
+      "time": "10:00 AM",
+      "end": "1954-10-09",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Pet Milk",
+      "begin": "1933-11-07",
+      "end": "1954-10-09"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Mary Lee Taylor"
+    },
+    {
+      "title": "Mary Lee Taylor Show"
+    },
+    {
+      "title": "Mary Lee Taylor"
+    },
+    {
+      "title": "Pet Milky Way"
+    },
+    {
+      "title": "Mary Lee Taylor's Pet Milky Way"
+    }
+  ]
+}

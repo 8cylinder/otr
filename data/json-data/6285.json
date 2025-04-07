@@ -1,0 +1,781 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrrlibrary.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323171337-50ceb301.jpg",
+      "label": "Milton Berle",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-06.html",
+      "label": "The Golden Age of Radio: Program 6 - September, 1970 - John Gibson",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-51.html",
+      "label": "The Golden Age of Radio: Program 51 - June, 1974 - Arnold Stang",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.jewishvirtuallibrary.org/jsource/biography/Berle.html",
+      "label": "Jewish Virtual Library : Milton Berle (1908-2002) by B.R. Smith",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/articles/artwb009.html",
+      "label": "Hangin' Out With Top Cat - An Interview With Arnold Stang by Walter J. Beaupre",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6285-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logm1035.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,793534,00.html",
+      "label": "1947-03-31: Gag Machine",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,793851,00.html",
+      "label": "1947-09-15: Languor, Curls and Tonsils",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,794235,00.html",
+      "label": "1948-02-16: The Busy Air",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,853738,00.html",
+      "label": "1949-05-16: The Child Wonder",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,934894,00.html",
+      "label": "1950-04-03: Listeners, Arise!",
+      "idtype": "11"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Milton Berle Show, The/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Hickerson reports that the Milton Berle Show was known as Let Yourself Go (3/21/1944-6/27/1945), Kiss and Make Up (7/1/1946-8/19/1946) and At Home with the Berles (3/11/1947-4/13/1948). - In addition, Dunning reports that it was known as the Texaco Star Theater (9/22/1948-6/15/1949)."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "507",
+      "first": "Milton",
+      "last": "Berle",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "2123",
+      "first": "Frank",
+      "last": "Gallop",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4838",
+      "first": "Martin",
+      "last": "Ragaway",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "24745",
+      "first": "Charles",
+      "last": "Isaacs",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "77",
+      "first": "Kay",
+      "last": "Armen",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "394",
+      "first": "Eileen",
+      "last": "Barton",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "437",
+      "first": "Jackson",
+      "last": "Beck",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "451",
+      "first": "Ed",
+      "last": "Begley",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "525",
+      "first": "Joe",
+      "last": "Besser",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "588",
+      "first": "Hal",
+      "last": "Block",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "801",
+      "first": "Arthur Q.",
+      "last": "Bryan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2212",
+      "first": "Jack",
+      "last": "Gilford",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2284",
+      "first": "Bert 'Mad Russian'",
+      "last": "Gordon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2706",
+      "first": "Nat",
+      "last": "Hiken",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "2819",
+      "first": "Cy",
+      "last": "Howard",
+      "f": "Noted Role",
+      "character": "Creator"
+    },
+    {
+      "idperson": "2819",
+      "first": "Cy",
+      "last": "Howard",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "2819",
+      "first": "Cy",
+      "last": "Howard",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3158",
+      "first": "Pert",
+      "last": "Kelton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3342",
+      "first": "Hank",
+      "last": "Ladd",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "3507",
+      "first": "Jack",
+      "last": "Lescoulie",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4946",
+      "first": "Jacques",
+      "last": "Renard",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5169",
+      "first": "Aaron J.",
+      "last": "Ruben",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "5189",
+      "first": "Connie",
+      "last": "Russell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5455",
+      "first": "Danny",
+      "last": "Simon",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "5456",
+      "first": "Neil",
+      "last": "Simon",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "5606",
+      "first": "Arnold",
+      "last": "Stang",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6422",
+      "first": "Roland",
+      "last": "Winters",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6894",
+      "first": "Mary",
+      "last": "Shipp",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "26117",
+      "first": "Al",
+      "last": "Kelly",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "32198",
+      "first": "The",
+      "last": "Murphy Sisters",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "39548",
+      "first": "Jack",
+      "last": "Albertson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48351",
+      "first": "Dick",
+      "last": "Forney",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "2913",
+      "first": "Charles",
+      "last": "Irving",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5038",
+      "first": "Ken",
+      "last": "Roberts",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2196",
+      "first": "John",
+      "last": "Gibson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3542",
+      "first": "Monica",
+      "last": "Lewis",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "3933",
+      "first": "Marilyn 'Marvel'",
+      "last": "Maxwell",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "4408",
+      "first": "Wendell",
+      "last": "Niles",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5150",
+      "first": "Johnny",
+      "last": "Roventini",
+      "f": "Noted Role",
+      "character": "Advertiser's Spokesperson"
+    },
+    {
+      "idperson": "15872",
+      "first": "Bobby",
+      "last": "Sherwood",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5992",
+      "first": "Margaret",
+      "last": "Truman",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "344",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1980-10-01",
+      "source": "Collectors Corner/CC_28_Fall_80.pdf",
+      "idpytype2": "4",
+      "title": "Collectors Corner #28 Fall 80",
+      "author": ""
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "393",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "1980-09-01",
+      "source": "Hello Again/HA_V11_(09)_Sep80.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 11 #09 Sep 1980",
+      "author": ""
+    },
+    {
+      "idprint": "584",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1989-05-01",
+      "source": "Illustrated Press/IP_152.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #152 May 89",
+      "author": ""
+    },
+    {
+      "idprint": "612",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "1991-12-01",
+      "source": "Illustrated Press/IP_183.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #183 Dec 91",
+      "author": ""
+    },
+    {
+      "idprint": "695",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "2008-12-01",
+      "source": "Illustrated Press/IP_365.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #365 Dec 08",
+      "author": ""
+    },
+    {
+      "idprint": "726",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1978-02-01",
+      "source": "Illustrated Press/IP_020.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#20) - Feb 1978",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "23",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "1259",
+      "idtype": "4",
+      "page": "50",
+      "article": "",
+      "url": "",
+      "date": "1998-07-01",
+      "source": "NARA News/NARA News V26 03 Summer98.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - Vol(XXVI-03) Summer1998",
+      "author": ""
+    },
+    {
+      "idprint": "1336",
+      "idtype": "4",
+      "page": "0",
+      "article": "",
+      "url": "",
+      "date": "1976-01-01",
+      "source": "Nostalgia Newsletter/NostalgiaNewsLet_V02_(02)Jan76.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia_Newsletter_V02 (02) Jan76",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1557",
+      "idtype": "4",
+      "page": "42",
+      "article": "",
+      "url": "",
+      "date": "1985-09-01",
+      "source": "OTR Digest_1980s/OTRDigest_(011)SepOct85.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (11) Sep-Oct 1985",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "146",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "23",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "318999",
+      "date": "1946-11-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thanksgiving Day Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Milton Berle Show, The",
+          "name": "Milton Berle Show 46-11-28 Thanksgiving Day Show.mp3",
+          "time": "630",
+          "size": "10075003"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-03-03",
+      "dow": "W",
+      "time": "9:30 PM",
+      "end": "1943-05-26",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1944-07-04",
+      "dow": "Tu",
+      "time": "10:30 PM",
+      "end": "1944-12-06",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-01-03",
+      "dow": "W",
+      "time": "10:30 PM",
+      "end": "1945-06-27",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-07-01",
+      "dow": "M",
+      "time": "9:00 PM",
+      "end": "1946-08-19",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-03-11",
+      "dow": "Tu",
+      "time": "8:00 PM",
+      "end": "1948-04-13",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1948-09-22",
+      "dow": "W",
+      "time": "9:00 PM",
+      "end": "1949-06-15",
+      "length": "0",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Campbell Soups",
+      "begin": "1943-03-03",
+      "end": "1943-05-26"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Milton Berle Show, The"
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "GALL"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/G Series/Gallant American Women/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Gallant-American-Women.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3957-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "From the December 22, 1939 issue of Radio Guide: - ' The program GAlLANT AMERICAN WOMEN is planned and executed under the direction of NBC's Women's Activities Division and U. S. Office of Education, Federal Security Agency. with the assistance of the Work Projects Administration. Script Review Committee, Mary R. Beard of the World Center for Women's Archives and Dr. Eugenie Leonard"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "8690",
+      "first": "Jane",
+      "last": "Ashman",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "13853",
+      "first": "Phillip",
+      "last": "Cohen",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "3522",
+      "first": "Estelle",
+      "last": "Levy",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2083",
+      "idtype": "4",
+      "page": "23",
+      "article": "",
+      "url": "",
+      "date": "1939-12-22",
+      "source": "Radio Guide/Radio Guide 39-12-22.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 39-12-22",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "66290",
+      "date": "1939-10-31",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "These Freedoms"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 391031 01 These Freedoms_OTRRPG.mp3",
+          "time": "1708",
+          "size": "27415405"
+        }
+      ]
+    },
+    {
+      "ide": "66291",
+      "date": "1939-11-07",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women and Peace"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 391107 02 Women & Peace_OTRRPG.mp3",
+          "time": "1749",
+          "size": "28067420"
+        }
+      ]
+    },
+    {
+      "ide": "66292",
+      "date": "1939-11-14",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women On the Land"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 39-11-14 (03) Women On the Land.mp3",
+          "time": "1721",
+          "size": "13768112"
+        }
+      ]
+    },
+    {
+      "ide": "66293",
+      "date": "1939-11-21",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women, the Providers"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 39-11-21 (04) Women, the Providers.mp3",
+          "time": "1750",
+          "size": "13996948"
+        }
+      ]
+    },
+    {
+      "ide": "66294",
+      "date": "1939-11-28",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Refugee Women"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 391128 05 Refugee Women_OTRRPG.mp3",
+          "time": "1715",
+          "size": "27518222"
+        }
+      ]
+    },
+    {
+      "ide": "66295",
+      "date": "1939-12-05",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women Are People"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 391205 06 Women Are People_OTRRPG.mp3",
+          "time": "1695",
+          "size": "27195143"
+        }
+      ]
+    },
+    {
+      "ide": "66296",
+      "date": "1939-12-12",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Laws And The Woman"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 391212 07 Laws And The Woman_OTRRPG.mp3",
+          "time": "1693",
+          "size": "27171961"
+        }
+      ]
+    },
+    {
+      "ide": "66297",
+      "date": "1939-12-19",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Women in the Law"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66298",
+      "date": "1939-12-26",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Seafaring Women"
+        },
+        {
+          "title": "Women and the Sea"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 39-12-26 (09) Seafaring Women (aka-Women and the Sea).mp3",
+          "time": "1771",
+          "size": "14172301"
+        }
+      ]
+    },
+    {
+      "ide": "66299",
+      "date": "1940-01-02",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women Of Learning"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 400102 10 Women of Learning_OTRRPG.mp3",
+          "time": "1677",
+          "size": "26915333"
+        }
+      ]
+    },
+    {
+      "ide": "66300",
+      "date": "1940-01-09",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women As Teachers"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 40-01-09 (11) Women As Teachers.mp3",
+          "time": "1735",
+          "size": "13879499"
+        }
+      ]
+    },
+    {
+      "ide": "66301",
+      "date": "1940-01-16",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pioneer Women"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 40-01-16 (12) Women Explorers.mp3",
+          "time": "1728",
+          "size": "13827461"
+        }
+      ]
+    },
+    {
+      "ide": "66302",
+      "date": "1940-01-23",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women Of Letters (Pearl Buck, guest)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66303",
+      "date": "1940-01-30",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women Of The Press"
+        },
+        {
+          "title": "Ladies Of The Press"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66304",
+      "date": "1940-02-06",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mothers Of Presidents"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66305",
+      "date": "1940-02-13",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fashions In Sentiment"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66306",
+      "date": "1940-02-20",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bronze Tablet, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66307",
+      "date": "1940-02-27",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ladies of the Press"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66308",
+      "date": "1940-03-05",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Women In Opera"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66309",
+      "date": "1940-03-12",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women In Medicine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66310",
+      "date": "1940-03-19",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women And Fashion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66311",
+      "date": "1940-03-26",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "American Home, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66312",
+      "date": "1940-04-02",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women In Nursing"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 400402 22 Women In Nursing_OTRRPG.mp3",
+          "time": "1677",
+          "size": "26917514"
+        }
+      ]
+    },
+    {
+      "ide": "66313",
+      "date": "1940-04-09",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From Tavern To Tearoom"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gallant American Women",
+          "name": "Gallant American Women 400409 23 Taverns And Teacups_OTRRPG.mp3",
+          "time": "1655",
+          "size": "26561412"
+        }
+      ]
+    },
+    {
+      "ide": "66314",
+      "date": "1940-04-16",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women In Science"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66315",
+      "date": "1940-04-23",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Behind the Footlights"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66316",
+      "date": "1940-04-30",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Child Welfare (Dr Martha Elliot of US Dept of Education, Speaker)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66317",
+      "date": "1940-05-07",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Women In Avation (Amelia Earhart, Jacqueline Cochran, Louise Thaden & Helen Richey, aviatrix are discussed)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66318",
+      "date": "1940-05-13",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Famous American Homemakers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66319",
+      "date": "1940-05-20",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Women in Politics and Government"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66320",
+      "date": "1940-05-27",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Women In Communication"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66321",
+      "date": "1940-06-03",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Wives of Famous Americans"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66322",
+      "date": "1940-06-10",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "American Sportswomen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66323",
+      "date": "1940-06-17",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Women in Commerce and Trade"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66324",
+      "date": "1940-06-24",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Women as Librarians and Curators"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "66325",
+      "date": "1940-07-01",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Women In Dance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "308516",
+      "date": "1943-02-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Girl_sticks_with_war_injured_man"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Women",
+          "name": "American_Women_020443_Girl_sticks_with_war_injured_man.mp3",
+          "time": "899",
+          "size": "7192361"
+        },
+        {
+          "path": "A",
+          "folder": "American Women",
+          "name": "American_Women_020443_Girl_sticks_with_war_injured_man_(WIND_CBS).mp3",
+          "time": "899",
+          "size": "7192361"
+        }
+      ]
+    },
+    {
+      "ide": "308518",
+      "date": "1944-06-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "American_Army_Hospital_in_North_Africa"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Women",
+          "name": "American_Women_060244_American_Army_Hospital_in_North_Africa.mp3",
+          "time": "873",
+          "size": "6982489"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Gallant American Women"
+    }
+  ]
+}

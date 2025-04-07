@@ -1,0 +1,73 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312397",
+      "date": "1946-06-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chicago Hotel Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Family News",
+          "name": "American Family News 460604 xxx Chicago Hotel Fire_OTRRPG.mp3",
+          "time": "846",
+          "size": "13623184"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "American Family News 46-06-04.mp3",
+          "time": "849",
+          "size": "6789745"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "American Family News"
+    }
+  ]
+}

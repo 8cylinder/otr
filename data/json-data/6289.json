@@ -1,0 +1,452 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mind Your Manners/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6289-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Hickerson reports that ';the program started in the 1940's on WTIC.'"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "3665",
+      "first": "Allen",
+      "last": "Ludden",
+      "f": "Noted Role",
+      "character": "Moderator"
+    },
+    {
+      "idperson": "8303",
+      "first": "Ed",
+      "last": "Anderson",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "6309",
+      "date": "1948-05-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can A Young Man Restore Confidence"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 480515 xxx What Can I Do To Improve My Reputation (2)_OTRRPG.mp3",
+          "time": "1616",
+          "size": "25932494"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 480515 xxx What Can I Do To Improve My Reputation_OTRRPG.mp3",
+          "time": "1615",
+          "size": "25926638"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 48-05-15 What Can I Do to Improve my Reputation.mp3",
+          "time": "1618",
+          "size": "25884800"
+        }
+      ]
+    },
+    {
+      "ide": "314149",
+      "date": "1948-05-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should I Accept An Expensive Watch"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 480522 xxx Should I Accept An Expensive Watch_OTRRPG.mp3",
+          "time": "1593",
+          "size": "25563428"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 48-05-22 Should I Accept An Expensive Watch.mp3",
+          "time": "1595",
+          "size": "6381696"
+        }
+      ]
+    },
+    {
+      "ide": "6308",
+      "date": "1948-05-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Am I Too Young To Wear A Strapless Evening Gown"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 480529 xxx Am I Too Young To Wear A Strapless Evening Gown _OTRRPG.mp3",
+          "time": "1542",
+          "size": "24757220"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 48-05-29 Am I Old Enough to Wear a Strapless Dress.mp3",
+          "time": "1545",
+          "size": "24717571"
+        }
+      ]
+    },
+    {
+      "ide": "6307",
+      "date": "1948-06-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shoud Parents Double Date With Their Children"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 480612 xxx Should Parents Doubledate With Their Kids _OTRRPG.mp3",
+          "time": "1578",
+          "size": "25330654"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 48-06-12 Should Parents Double-date with their Children.mp3",
+          "time": "1580",
+          "size": "25291011"
+        }
+      ]
+    },
+    {
+      "ide": "6306",
+      "date": "1948-06-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Sixteen Year Olds Take A Cross Country Trip"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 480626 xxx Should Sixteen Year Olds Take A Cross-Country Trip Alone_OTRRPG.mp3",
+          "time": "1580",
+          "size": "25356559"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 48-06-26 Should Young Girls Travel Alone.mp3",
+          "time": "1751",
+          "size": "28014639"
+        }
+      ]
+    },
+    {
+      "ide": "257838",
+      "date": "1948-12-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boy, A Girl, And Chewing  Gum, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 481211 xxx A Boy, A Girl And Chewing Gum_OTRRPG.mp3",
+          "time": "1574",
+          "size": "25262910"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 48-12-11 A Boy, a Girl, Chewing Gum.mp3",
+          "time": "1576",
+          "size": "25223301"
+        }
+      ]
+    },
+    {
+      "ide": "6304",
+      "date": "1948-12-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is A Three Day Christmas Vacation Enough?"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 481218 xxx Is A Christmas Vacation of Three Days Enough_OTRRPG.mp3",
+          "time": "1590",
+          "size": "25520806"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 48-12-18 Is a Christmas Vacation of Three Days Enough.mp3",
+          "time": "1592",
+          "size": "25481182"
+        }
+      ]
+    },
+    {
+      "ide": "6303",
+      "date": "1949-01-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Teenagers Play Kissing Games?"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 490108 xxx Should Teenagers Play Kissing Games_OTRRPG.mp3",
+          "time": "1602",
+          "size": "25707625"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 49-01-08 Should Teenagers Play Kissing Games.mp3",
+          "time": "1604",
+          "size": "25665664"
+        }
+      ]
+    },
+    {
+      "ide": "257837",
+      "date": "1949-01-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boy Who Is Shy Around Girls, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 490115 xxx A Boy Who Is Shy Around Girls_OTRRPG.mp3",
+          "time": "1600",
+          "size": "25684213"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 49-01-15 A Boy Who is Shy Around Girls.mp3",
+          "time": "1603",
+          "size": "25641088"
+        }
+      ]
+    },
+    {
+      "ide": "6301",
+      "date": "1949-01-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should An Eleven Year Old Be Smoking And Drinking?"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 490122 xxx Should An Eleven Year Old Be Smoking And Drinking_OTRRPG.mp3",
+          "time": "1598",
+          "size": "25651214"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 49-01-22 Should an Eleven Year Old Be Drinking and Smoking.mp3",
+          "time": "1600",
+          "size": "25608320"
+        }
+      ]
+    },
+    {
+      "ide": "6300",
+      "date": "1949-01-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can I Make Good Grades?"
+        },
+        {
+          "title": "How Can I Make Good Grades And Still Have Friends"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 490129 xxx How Can I Make Good Grades And Still Have Friends_OTRRPG.mp3",
+          "time": "1593",
+          "size": "25559681"
+        },
+        {
+          "path": "M",
+          "folder": "Mind Your Manners",
+          "name": "Mind Your Manners 49-01-29 How Can I Make Good Grades and Have Friends.mp3",
+          "time": "1595",
+          "size": "25516160"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1950-06-03",
+      "dow": "Sa",
+      "time": "11:00 AM",
+      "end": "1950-08-05",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1950-08-12",
+      "dow": "Sa",
+      "time": "10:00 AM",
+      "end": "1951-12-08",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1952-03-22",
+      "dow": "Sa",
+      "time": "7:30 PM",
+      "end": "1952-06-07",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1953-07-12",
+      "dow": "Su",
+      "time": "1:00 PM",
+      "end": "1953-10-04",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1950-06-03",
+      "end": "1953-11-04"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Mind Your Manners"
+    }
+  ]
+}

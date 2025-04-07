@@ -1,0 +1,82 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5918",
+      "first": "Cal",
+      "last": "Tinney",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Youth"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1934-09-03",
+      "dow": "M,W,F",
+      "time": "5:15 PM",
+      "end": "1934-09-28",
+      "length": "15",
+      "country": "USA",
+      "network": "WOR"
+    },
+    {
+      "begin": "1934-10-01",
+      "dow": "M,W,F",
+      "time": "5:30 PM",
+      "end": "1934-09-12",
+      "length": "15",
+      "country": "USA",
+      "network": "WOR"
+    },
+    {
+      "begin": "1934-10-16",
+      "dow": "Tu,Th,Sa",
+      "time": "5:15 PM",
+      "end": "1935-03-09",
+      "length": "15",
+      "country": "USA",
+      "network": "WOR"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Street and Smith",
+      "begin": "1934-09-03",
+      "end": "1935-03-09"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Pistol Pete Rice"
+    }
+  ]
+}

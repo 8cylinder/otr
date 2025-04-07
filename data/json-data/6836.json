@@ -1,0 +1,81 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4658",
+      "first": "Ray",
+      "last": "Perkins",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1941-04-28",
+      "dow": "M,W,Th,F",
+      "time": "9:55 PM",
+      "end": "1941-09-12",
+      "length": "5",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Pepsi-Cola",
+      "begin": "1941-04-28",
+      "end": "1941-10-12"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Nickel Man, The"
+    }
+  ]
+}

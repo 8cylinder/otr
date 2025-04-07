@@ -1,0 +1,172 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Sports Quiz/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1514",
+      "first": "Jack",
+      "last": "Dempsey",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "2280",
+      "first": "Mark",
+      "last": "Goodson",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313833",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Does 'Killer' Mean"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sports Quiz",
+          "name": "Sports Quiz 4xxxxx 009 What Does 'Killer' Mean {AFRS#009}_OTRRPG.mp3",
+          "time": "1795",
+          "size": "31278049"
+        },
+        {
+          "path": "S",
+          "folder": "Sports Quiz",
+          "name": "Sports Quiz 4xxxxx 009 What Does 'Killer' Mean {AFRS#009}.mp3",
+          "time": "1786",
+          "size": "14290153"
+        }
+      ]
+    },
+    {
+      "ide": "328784",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0004 Sports Quiz"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sports Quiz",
+          "name": "AFRS Collection 194x.xx.xx 0004 Sports Quiz.mp3",
+          "time": "1852",
+          "size": "7516160"
+        }
+      ]
+    },
+    {
+      "ide": "328790",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0016 Sports Quiz"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sports Quiz",
+          "name": "AFRS Collection 194x.xx.xx 0016 Sports Quiz.mp3",
+          "time": "1826",
+          "size": "7411712"
+        }
+      ]
+    },
+    {
+      "ide": "313834",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Name Sports Figures With The Last Name Jacobs"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sports Quiz",
+          "name": "Sports Quiz xxxxxx 01 Name Sports Figures With The Last Name Jacobs {AFRS}_OTRRPG.mp3",
+          "time": "1748",
+          "size": "28053618"
+        },
+        {
+          "path": "S",
+          "folder": "Sports Quiz",
+          "name": "Sports Quiz xx-xx-xx (01) Name Sports Figures With The Last Name Jacobs (AFRS).mp3",
+          "time": "1751",
+          "size": "14004975"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1942-02-14",
+      "dow": "Sa",
+      "time": "8:30 PM",
+      "end": "1942-08-22",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jack Dempsey's Sports Quiz"
+    }
+  ]
+}

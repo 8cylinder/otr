@@ -1,0 +1,103 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/To Stars And Stripes/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "14195",
+      "first": "Cleve",
+      "last": "Conway",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311773",
+      "date": "0000-00-00",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lights Out"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars & Stripes Forever",
+          "name": "Stars And Stripes Forever xx-xx-xx (0051) - Lights Out.mp3",
+          "time": "947",
+          "size": "5684531"
+        }
+      ]
+    },
+    {
+      "ide": "311774",
+      "date": "0000-00-00",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Spirt of Saint Louis"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars & Stripes Forever",
+          "name": "Stars And Stripes Forever xx-xx-xx (0052) - The Spirt of Saint Louis.mp3",
+          "time": "938",
+          "size": "5627953"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "War"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-05-31",
+      "dow": "Su",
+      "time": "9:00 PM",
+      "end": "1942-11-22",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Stars and Stripes"
+    }
+  ]
+}

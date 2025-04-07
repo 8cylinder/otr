@@ -1,0 +1,226 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Rudy Vallee - Valle Varieties/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Developed into the Sealtest Village Store."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "6047",
+      "first": "Rudy",
+      "last": "Vallee",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "386",
+      "first": "John",
+      "last": "Barrymore",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1418",
+      "first": "Ken",
+      "last": "Darby",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5124",
+      "first": "Maxie 'Slapsie Maxie'",
+      "last": "Rosenbloom",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "16146",
+      "first": "Elliott",
+      "last": "Daniels",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "I'll Give You A Smile for A Smile"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "319949",
+      "date": "1941-05-01",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Lionel Barrymore"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rudy Vallee - Sealtest",
+          "name": "Rudy Vallee 410501 [Sealtest] 061 Guest - Lionel Barrymore (.mp3",
+          "time": "1792",
+          "size": "14332475"
+        }
+      ]
+    },
+    {
+      "ide": "319953",
+      "date": "1941-05-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Susan Miller (Rehearsal)"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rudy Vallee - Valle Varieties",
+          "name": "Rudy Vallee - Vallee Varieties 41-05-05 Guest - Susan Miller (Rehearsal).mp3",
+          "time": "1829",
+          "size": "14629108"
+        }
+      ]
+    },
+    {
+      "ide": "319950",
+      "date": "1941-05-08",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Orson Welles (Rehe"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rudy Vallee - Sealtest",
+          "name": "Rudy Vallee 410508 [Sealtest] 062 Guest - Orson Welles (Rehe.mp3",
+          "time": "1961",
+          "size": "15691297"
+        }
+      ]
+    },
+    {
+      "ide": "319951",
+      "date": "1941-05-15",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Frank Fay & Jose"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rudy Vallee - Sealtest",
+          "name": "Rudy Vallee 410515 [Sealtest] 063 Guests - Frank Fay & Jose .mp3",
+          "time": "1943",
+          "size": "15542809"
+        }
+      ]
+    },
+    {
+      "ide": "319952",
+      "date": "1941-08-14",
+      "epnum": "76",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Susan Miller & Bi"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rudy Vallee - Sealtest",
+          "name": "Rudy Vallee 410814 [Sealtest] 076 Guests - Susan Miller & Bi.mp3",
+          "time": "1898",
+          "size": "15181939"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-03-07",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1943-07-01",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sealtest",
+      "begin": "1940-03-07",
+      "end": "1943-07-01"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Rudy Vallee - Vallee Varieties/ Sealtest Show"
+    },
+    {
+      "title": "Rudy Vallee Show, The"
+    }
+  ]
+}

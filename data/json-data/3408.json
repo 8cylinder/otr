@@ -1,0 +1,998 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Second Husband/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,760635,00.html",
+      "label": "1939-01-23: Hummerts' Mill",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,763520,00.html",
+      "label": "1940-02-19: Tuesday Night",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,766668,00.html",
+      "label": "1942-11-30: Daytime Classics",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,852707,00.html",
+      "label": "1946-02-25: Who Buys the Air?",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "385",
+      "first": "Ethel",
+      "last": "Barrymore",
+      "f": "Noted Role",
+      "character": "Star"
+    },
+    {
+      "idperson": "4974",
+      "first": "Doris",
+      "last": "Rich",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "57",
+      "first": "Victor",
+      "last": "Arden",
+      "f": "Noted Role",
+      "character": "Music"
+    },
+    {
+      "idperson": "385",
+      "first": "Ethel",
+      "last": "Barrymore",
+      "f": "Noted Role",
+      "character": "Benda Cummings"
+    },
+    {
+      "idperson": "398",
+      "first": "Andre",
+      "last": "Baruch",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "411",
+      "first": "Charita",
+      "last": "Bauer",
+      "f": "Noted Role",
+      "character": "Fran Cummingts"
+    },
+    {
+      "idperson": "1100",
+      "first": "Howard",
+      "last": "Claney",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1247",
+      "first": "Cathleen",
+      "last": "Cordell",
+      "f": "Noted Role",
+      "character": "Brenda Cummings"
+    },
+    {
+      "idperson": "1360",
+      "first": "Joseph",
+      "last": "Curtin",
+      "f": "Noted Role",
+      "character": "Grant Cummings"
+    },
+    {
+      "idperson": "1485",
+      "first": "Jacqueline",
+      "last": "de Wit",
+      "f": "Noted Role",
+      "character": "Valerie"
+    },
+    {
+      "idperson": "2033",
+      "first": "Arlene",
+      "last": "Francis",
+      "f": "Noted Role",
+      "character": "Marion Jennings"
+    },
+    {
+      "idperson": "2205",
+      "first": "Janice",
+      "last": "Gilbert",
+      "f": "Noted Role",
+      "character": "Fran Cummings"
+    },
+    {
+      "idperson": "2402",
+      "first": "Jack 'Jackie'",
+      "last": "Grimes",
+      "f": "Noted Role",
+      "character": "Dick Cummings"
+    },
+    {
+      "idperson": "2570",
+      "first": "Joy",
+      "last": "Hathaway",
+      "f": "Noted Role",
+      "character": "Irma Wallace"
+    },
+    {
+      "idperson": "2788",
+      "first": "Skip",
+      "last": "Homeier",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2862",
+      "first": "Anne",
+      "last": "Hummert",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "2863",
+      "first": "Frank",
+      "last": "Hummert",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "2984",
+      "first": "Edwin 'Ed'",
+      "last": "Jerome",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3055",
+      "first": "Jay",
+      "last": "Jostyn",
+      "f": "Noted Role",
+      "character": "Ben Porter"
+    },
+    {
+      "idperson": "3138",
+      "first": "Jackie",
+      "last": "Kelk",
+      "f": "Noted Role",
+      "character": "Dick Cummings"
+    },
+    {
+      "idperson": "3628",
+      "first": "Athena",
+      "last": "Lorde",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3648",
+      "first": "Dorothy",
+      "last": "Lowell",
+      "f": "Noted Role",
+      "character": "Celia Clark"
+    },
+    {
+      "idperson": "3980",
+      "first": "Mercer",
+      "last": "McCloud",
+      "f": "Noted Role",
+      "character": "Fran Cummings"
+    },
+    {
+      "idperson": "4081",
+      "first": "James",
+      "last": "Meighan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4093",
+      "first": "Helen",
+      "last": "Menken",
+      "f": "Noted Role",
+      "character": "Brenda Cummings"
+    },
+    {
+      "idperson": "4113",
+      "first": "Howard",
+      "last": "Merrill",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4160",
+      "first": "Art",
+      "last": "Millet",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4717",
+      "first": "Madeleine",
+      "last": "Pierce",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4765",
+      "first": "Leona",
+      "last": "Powers",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5164",
+      "first": "Selena",
+      "last": "Royle",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5196",
+      "first": "Ruth",
+      "last": "Russell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5216",
+      "first": "Bob",
+      "last": "Sabin",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5283",
+      "first": "Stefan",
+      "last": "Schnabel",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5307",
+      "first": "Martha",
+      "last": "Scott",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5403",
+      "first": "Ann",
+      "last": "Sheridan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5801",
+      "first": "Bertram",
+      "last": "Tanswell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6044",
+      "first": "Grace",
+      "last": "Valentine",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6068",
+      "first": "Luis",
+      "last": "Van Rooten",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6387",
+      "first": "Ethel",
+      "last": "Wilson",
+      "f": "Noted Role",
+      "character": "Louise McPherson"
+    },
+    {
+      "idperson": "6443",
+      "first": "Edwin R.",
+      "last": "Wolfe",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "6517",
+      "first": "Carleton G.",
+      "last": "Young",
+      "f": "Noted Role",
+      "character": "Bill Cummings"
+    },
+    {
+      "idperson": "6952",
+      "first": "Ralph",
+      "last": "Locke",
+      "f": "Noted Role",
+      "character": "Milton Brownspun"
+    },
+    {
+      "idperson": "7138",
+      "first": "Mildred",
+      "last": "Robin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7368",
+      "first": "Charles",
+      "last": "Penman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "12297",
+      "first": "Bill",
+      "last": "Lipton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "17183",
+      "first": "Tom",
+      "last": "Donnelly",
+      "f": "Noted Role",
+      "character": "Dick Cummings"
+    },
+    {
+      "idperson": "34916",
+      "first": "William",
+      "last": "Post Jr.",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "36489",
+      "first": "Ralph",
+      "last": "Robertson",
+      "f": "Noted Role",
+      "character": "Bill Cummings"
+    },
+    {
+      "idperson": "37997",
+      "first": "Colleen",
+      "last": "Ward",
+      "f": "Noted Role",
+      "character": "Joan Wood"
+    },
+    {
+      "idperson": "38045",
+      "first": "Richard",
+      "last": "Waring",
+      "f": "Noted Role",
+      "character": "Grant Cummings"
+    },
+    {
+      "idperson": "44404",
+      "first": "Johnny",
+      "last": "Thomas",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45959",
+      "first": "Bertrand",
+      "last": "Hirsch",
+      "f": "Noted Role",
+      "character": "Music"
+    },
+    {
+      "idperson": "46163",
+      "first": "Edith",
+      "last": "Spencer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "47008",
+      "first": "Judy",
+      "last": "Blake",
+      "f": "Noted Role",
+      "character": "Marsha"
+    },
+    {
+      "idperson": "47392",
+      "first": "Nancy",
+      "last": "Bashein",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "47695",
+      "first": "Lois",
+      "last": "Hall",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48325",
+      "first": "Madaline",
+      "last": "Belgrad",
+      "f": "Noted Role",
+      "character": "Marion Jennings"
+    },
+    {
+      "idperson": "49988",
+      "first": "Jack",
+      "last": "MacBryde",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50384",
+      "first": "William",
+      "last": "Podmore",
+      "f": "Noted Role",
+      "character": "Butler"
+    },
+    {
+      "idperson": "50660",
+      "first": "Michael 'Junior'",
+      "last": "O'Day",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2069",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "1939-04-29",
+      "source": "Radio Guide/Radio Guide 39-04-29.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 39-04-29",
+      "author": ""
+    },
+    {
+      "idprint": "2249",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "1940-03-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 4003.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 4003",
+      "author": ""
+    },
+    {
+      "idprint": "1064",
+      "idtype": "4",
+      "page": "42",
+      "article": "",
+      "url": "",
+      "date": "1986-01-01",
+      "source": "Memories/86_Vol_12_01.pdf",
+      "idpytype2": "4",
+      "title": "Memories - 1986 Vol 12 #01",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Diane"
+    },
+    {
+      "theme": "If Love Were All"
+    },
+    {
+      "theme": "Dream Serenade' by Hirsch"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "291928",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ted and Mimi Dislike New Father"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291929",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wayne Visits Parents"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "320011",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Second Husband - Christmas Eve Opening Night"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Husband",
+          "name": "Second Husband - Christmas Eve Opening Night.mp3",
+          "time": "875",
+          "size": "7002697"
+        },
+        {
+          "path": "S",
+          "folder": "Second Husband",
+          "name": "Second Husband - Christmas Eve Opening Night.mp 19xx.xx.xx Christmas Eve Opening Night.mp3",
+          "time": "875",
+          "size": "3607319"
+        }
+      ]
+    },
+    {
+      "ide": "291905",
+      "date": "1936-04-26",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Episode"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291906",
+      "date": "1937-04-04",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291907",
+      "date": "1937-04-21",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291908",
+      "date": "1937-05-26",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291909",
+      "date": "1937-06-02",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291910",
+      "date": "1937-07-28",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291911",
+      "date": "1937-08-03",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291916",
+      "date": "1941-07-15",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291917",
+      "date": "1941-08-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291912",
+      "date": "1942-04-14",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291913",
+      "date": "1942-04-20",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291914",
+      "date": "1942-07-31",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291918",
+      "date": "1944-06-06",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ben and Brenda Rescue Fran"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291919",
+      "date": "1944-06-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mildred Has Turned on Brenda"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291920",
+      "date": "1946-01-21",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Move to Connecticut Considered"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291921",
+      "date": "1946-01-22",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brenda's Operation Set For Tomorrow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291922",
+      "date": "1946-01-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brenda Decides to Leave Play"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291923",
+      "date": "1946-01-24",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Loving Deception at Hospital"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291924",
+      "date": "1946-01-25",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brenda's Visit to Heaven"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291925",
+      "date": "1946-03-13",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "291915",
+      "date": "1946-04-26",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Last Episode"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291926",
+      "date": "1952-11-28",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ted and Mimi Hostile to Wayne"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "291927",
+      "date": "1955-05-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ted and Mimi Cannot Accept Wayne"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Serial"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-08-03",
+      "dow": "Tu",
+      "time": "7:30 PM",
+      "end": "1942-04-14",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1942-04-20",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:00 AM",
+      "end": "1942-07-31",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1943-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:15 AM",
+      "end": "1946-04-26",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1936-04-26",
+      "dow": "Su",
+      "time": "8:30 PM",
+      "end": "1937-04-04",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1937-04-14",
+      "dow": "W",
+      "time": "8:30 PM",
+      "end": "1937-07-28",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1942-08-03",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:30 AM",
+      "end": "1943-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Bayer Aspirin",
+      "begin": "1936-04-26",
+      "end": "1942-04-14"
+    },
+    {
+      "sponsor": "Dr. Lyons Tooth Powder",
+      "begin": "1942-08-03",
+      "end": "1946-04-26"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Second Husband"
+    },
+    {
+      "title": "Ethel Barrymore Theater"
+    },
+    {
+      "title": "Her Second Husband"
+    },
+    {
+      "title": "Ethel Barrymore Theater, The"
+    },
+    {
+      "title": "Famous Actor's Guild"
+    },
+    {
+      "title": "Famous Actors Guild"
+    },
+    {
+      "title": "Ethel Barrymore Theater, The)"
+    }
+  ]
+}

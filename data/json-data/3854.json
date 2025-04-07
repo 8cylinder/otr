@@ -1,0 +1,1449 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041140-302ea830.jpg",
+      "label": "Freedom 1",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041142-d71830d8.jpg",
+      "label": "Freedom 2",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Freedom-USA.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3854-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logf1014.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/Freedom USA/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "ZIV Company syndication in 1952. Heard on the west coast CBS in 1947"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "2710",
+      "first": "Edwin C.",
+      "last": "Hill",
+      "f": "Noted Role",
+      "character": "Narator"
+    },
+    {
+      "idperson": "4763",
+      "first": "Tyrone",
+      "last": "Power",
+      "f": "Noted Role",
+      "character": "Senator Dean Edwards"
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "879",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1983-06-01",
+      "source": "Illustrated Press/IP_081.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press - *81, Jun 83",
+      "author": ""
+    },
+    {
+      "idprint": "1229",
+      "idtype": "4",
+      "page": "47",
+      "article": "",
+      "url": "",
+      "date": "2001-01-01",
+      "source": "NARA News/Nara News V29 01 Winter2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 01 Winter2001",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Freedom USA proposed to take listeners 'into the Senate chambers, the cloakrooms, the private offices' of 'political Washington.' - On the Air: The Encyclopedia of Old-Time Radio by John Dunning"
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "64947",
+      "date": "1951-12-23",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flood Bill"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 51-12-23 flood control.mp3",
+          "time": "1723",
+          "size": "13781561"
+        }
+      ]
+    },
+    {
+      "ide": "64948",
+      "date": "1951-12-30",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Smear, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 51-12-30 The big smear.mp3",
+          "time": "1728",
+          "size": "13822841"
+        }
+      ]
+    },
+    {
+      "ide": "64949",
+      "date": "1952-01-06",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Senate Confirmation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "64950",
+      "date": "1952-01-13",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "64951",
+      "date": "1952-01-20",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Anti-Filibuster Bill"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-01-20 Post No Bills.mp3",
+          "time": "1733",
+          "size": "13868009"
+        }
+      ]
+    },
+    {
+      "ide": "64952",
+      "date": "1952-01-27",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fraud Committee"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-01-27 Without Fear or Favor.mp3",
+          "time": "1404",
+          "size": "14039081"
+        }
+      ]
+    },
+    {
+      "ide": "64953",
+      "date": "1952-02-03",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shipping Subsidy Bill"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "64954",
+      "date": "1952-02-10",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Twain Meet, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "64955",
+      "date": "1952-02-17",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Whole Truth, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520217 009 The Whole Truth (56-44)_OTRRPG.mp3",
+          "time": "2078",
+          "size": "14623336"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-02-17 (09) The Whole Truth.mp3",
+          "time": "1458",
+          "size": "14579549"
+        }
+      ]
+    },
+    {
+      "ide": "64956",
+      "date": "1952-02-25",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Senate Vacation"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520225 010 Senate Vacation (32-44)_OTRRPG.mp3",
+          "time": "1984",
+          "size": "13967411"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-02-25 (10) Senate Vacation.mp3",
+          "time": "1392",
+          "size": "13923625"
+        }
+      ]
+    },
+    {
+      "ide": "64957",
+      "date": "1952-03-02",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Immigration Bill"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520302 011 Immigration Bill (40-44)_OTRRPG.mp3",
+          "time": "1412",
+          "size": "14194424"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-03-02 (11) Immigration Bill.mp3",
+          "time": "1415",
+          "size": "14150638"
+        }
+      ]
+    },
+    {
+      "ide": "64958",
+      "date": "1952-03-09",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Senate Rule #5"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520309 012 Senate Rule #5 (2)_OTRRPG.mp3",
+          "time": "1560",
+          "size": "25046247"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520309 012 Senate Rule #5 (32-44)_OTRRPG.mp3",
+          "time": "1225",
+          "size": "14707626"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-03-09 (12) Senate Rule #5.mp3",
+          "time": "1225",
+          "size": "14697380"
+        }
+      ]
+    },
+    {
+      "ide": "64959",
+      "date": "1952-03-16",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Report on Project X"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520316 013 Report On Project X_OTRRPG.mp3",
+          "time": "1538",
+          "size": "24691761"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-03-16 Project X.mp3",
+          "time": "1747",
+          "size": "13974089"
+        }
+      ]
+    },
+    {
+      "ide": "64960",
+      "date": "1952-03-23",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead Letter Carrier"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520323 014 Evidence Stolen that Would Convict Lobbyist (Stolen Funds)_OTRRPG.mp3",
+          "time": "1643",
+          "size": "26293547"
+        }
+      ]
+    },
+    {
+      "ide": "64961",
+      "date": "1952-03-30",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Embargo on Santo Granada"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520330 015 Embargo On Santo Granada_OTRRPG.mp3",
+          "time": "1626",
+          "size": "26093416"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-03-30 (15) Embargo on Santo Granada.mp3",
+          "time": "1628",
+          "size": "13025406"
+        }
+      ]
+    },
+    {
+      "ide": "64962",
+      "date": "1952-04-06",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plot and Conspiracy"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520406 016 Plot And Conspiracy_OTRRPG.mp3",
+          "time": "1630",
+          "size": "26155687"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-04-06 (16) Plot and Conspiracy.mp3",
+          "time": "1632",
+          "size": "13056539"
+        }
+      ]
+    },
+    {
+      "ide": "64963",
+      "date": "1952-04-13",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Who Committed Suicide, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520413 017 The Man Who Committed Suicide_OTRRPG.mp3",
+          "time": "1618",
+          "size": "25964271"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-04-13 (17) The Man Who Committed Suicide.mp3",
+          "time": "1620",
+          "size": "12960836"
+        }
+      ]
+    },
+    {
+      "ide": "64964",
+      "date": "1952-04-20",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Citizen - Held!"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-04-20 (18) Citizen - Held!.mp3",
+          "time": "1629",
+          "size": "13032293"
+        }
+      ]
+    },
+    {
+      "ide": "64965",
+      "date": "1952-04-27",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gambling Investigation"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520427 019 Gambling Investigation_OTRRPG.mp3",
+          "time": "1638",
+          "size": "26289019"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-04-27 (19) Gambling Investigation.mp3",
+          "time": "1640",
+          "size": "13123206"
+        }
+      ]
+    },
+    {
+      "ide": "64966",
+      "date": "1952-05-04",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "International Diplomacy - Africa"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520504 020 International Diplomacy Africa_OTRRPG.mp3",
+          "time": "1631",
+          "size": "26178687"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-05-04 (20) International Diplomacy - Africa.mp3",
+          "time": "1633",
+          "size": "13068045"
+        }
+      ]
+    },
+    {
+      "ide": "64967",
+      "date": "1952-05-11",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dean's First Chairmanship"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520511 021 Dean's First Chairmanship (2)_OTRRPG.mp3",
+          "time": "1669",
+          "size": "26786163"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520511 021 Dean's First Chairmanship_OTRRPG.mp3",
+          "time": "1626",
+          "size": "26091327"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-05-11 (21) Dean's First Chairmanship.mp3",
+          "time": "1671",
+          "size": "26752641"
+        }
+      ]
+    },
+    {
+      "ide": "64968",
+      "date": "1952-05-18",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Leaked Report"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520518 022 Leaked Report (2)_OTRRPG.mp3",
+          "time": "1676",
+          "size": "26899000"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520518 022 Leaked Report_OTRRPG.mp3",
+          "time": "1631",
+          "size": "26175743"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-05-18 (22) Leaked Report.mp3",
+          "time": "1678",
+          "size": "26865490"
+        }
+      ]
+    },
+    {
+      "ide": "64969",
+      "date": "1952-05-25",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Those Who Serve"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520525 023 For Those Who Served_OTRRPG.mp3",
+          "time": "1592",
+          "size": "25558803"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-05-25 (23) For Those Who Served.mp3",
+          "time": "1595",
+          "size": "12757785"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-05-25 For Those Who Served.mp3",
+          "time": "1932",
+          "size": "15454217"
+        }
+      ]
+    },
+    {
+      "ide": "64970",
+      "date": "1952-06-01",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Municipal Bond Fraud"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520601 024 Municipal Bond Fraud_OTRRPG.mp3",
+          "time": "1584",
+          "size": "25426310"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-06-01 (24) Municipal Bond Fraud.mp3",
+          "time": "1586",
+          "size": "12691538"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-06-01 Municipal Bond Fraud.mp3",
+          "time": "1522",
+          "size": "15217865"
+        }
+      ]
+    },
+    {
+      "ide": "64971",
+      "date": "1952-06-08",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Memorial, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-06-08 (25) The Memorial.mp3",
+          "time": "1651",
+          "size": "8255604"
+        }
+      ]
+    },
+    {
+      "ide": "64972",
+      "date": "1952-06-15",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Foreign Aid Trip"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-06-15 (26) Foreign Aid Trip.mp3",
+          "time": "1657",
+          "size": "8285906"
+        }
+      ]
+    },
+    {
+      "ide": "64973",
+      "date": "1952-06-22",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cloud Seeding"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520622 027 Cloud Seeding (2)_OTRRPG.mp3",
+          "time": "1668",
+          "size": "26759820"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520622 027 Cloud Seeding_OTRRPG.mp3",
+          "time": "1619",
+          "size": "25991423"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-06-22 (27) Cloud Seeding.mp3",
+          "time": "1670",
+          "size": "26726310"
+        }
+      ]
+    },
+    {
+      "ide": "64974",
+      "date": "1952-06-29",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nazi, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520629 028 The Nazi (2)_OTRRPG.mp3",
+          "time": "1671",
+          "size": "26819165"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520629 028 The Nazi_OTRRPG.mp3",
+          "time": "1624",
+          "size": "26059545"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-06-29 (28) The Nazi.mp3",
+          "time": "1673",
+          "size": "26785660"
+        }
+      ]
+    },
+    {
+      "ide": "64975",
+      "date": "1952-07-06",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cody's Monster"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520706 029 Cody's Monster (2)_OTRRPG.mp3",
+          "time": "1667",
+          "size": "26751461"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520706 029 Cody's Monster_OTRRPG.mp3",
+          "time": "1603",
+          "size": "25727691"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-07-06 (29) Cody's Monster.mp3",
+          "time": "1669",
+          "size": "26717950"
+        }
+      ]
+    },
+    {
+      "ide": "64976",
+      "date": "1952-07-13",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Army Red Tape"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520713 030 Army Red Tape (2)_OTRRPG.mp3",
+          "time": "1676",
+          "size": "26899000"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520713 030 Army Red Tape_OTRRPG.mp3",
+          "time": "1597",
+          "size": "25632396"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-07-13 (30) Army Red Tape.mp3",
+          "time": "1678",
+          "size": "26865490"
+        }
+      ]
+    },
+    {
+      "ide": "64977",
+      "date": "1952-07-20",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Farm Tenant Act"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520720 031 Farm Tenant Act_OTRRPG.mp3",
+          "time": "1600",
+          "size": "25686732"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-07-20 (31) Farm Tenant Act.mp3",
+          "time": "1603",
+          "size": "12822059"
+        }
+      ]
+    },
+    {
+      "ide": "64978",
+      "date": "1952-07-27",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Traitor Or Not"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520727 032 Traitor Or Not_OTRRPG.mp3",
+          "time": "1604",
+          "size": "25745246"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-07-27 (32) Traitor Or Not.mp3",
+          "time": "1606",
+          "size": "12851316"
+        }
+      ]
+    },
+    {
+      "ide": "64979",
+      "date": "1952-08-03",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Homestead Act Revived"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520803 033 Homestead Act Revived_OTRRPG.mp3",
+          "time": "1604",
+          "size": "25747342"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-08-03 (33) Homestead Act Revived.mp3",
+          "time": "1606",
+          "size": "12852367"
+        }
+      ]
+    },
+    {
+      "ide": "64980",
+      "date": "1952-08-10",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Migrant Workers"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520810 034 Migrant Workers_OTRRPG.mp3",
+          "time": "1600",
+          "size": "25686314"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-08-10 (34) Migrant Workers.mp3",
+          "time": "1603",
+          "size": "12821850"
+        }
+      ]
+    },
+    {
+      "ide": "64981",
+      "date": "1952-08-17",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Faked Safety Report Forces Miner's Strike Threat"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520817 35 Faked Safety Report Forces Miners' Strike Threat_OTRRPG.mp3",
+          "time": "2378",
+          "size": "38132938"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-08-17 35 Faked Safety Report Forces Miners' Strike Threat.mp3",
+          "time": "2369",
+          "size": "18955177"
+        }
+      ]
+    },
+    {
+      "ide": "64982",
+      "date": "1952-08-24",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mid-East Oil And National Security Problems"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520824 36 Middle East Oil & National Security Problems (2nd half only)_OTRRPG.mp3",
+          "time": "789",
+          "size": "12696372"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-08-24 36 Middle-East Oil & National Security Problems (2nd half only).mp3",
+          "time": "787",
+          "size": "6296505"
+        }
+      ]
+    },
+    {
+      "ide": "64983",
+      "date": "1952-08-31",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Espionage And The Missing Map Piece"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520831 37 Espionage & The Missing Map Piece_OTRRPG.mp3",
+          "time": "1658",
+          "size": "26605191"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-08-31 37 Espionage & the Missing Map Piece.mp3",
+          "time": "1652",
+          "size": "13218329"
+        }
+      ]
+    },
+    {
+      "ide": "64984",
+      "date": "1952-09-07",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Revolutionist Death (Mrs. Pembroke)"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520907 38 Revolutionist's Death [Mrs Pembrook]_OTRRPG.mp3",
+          "time": "1561",
+          "size": "25059999"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-09-07 38 Revolutionist's Death [Mrs  Pembrook].mp3",
+          "time": "1556",
+          "size": "12449353"
+        }
+      ]
+    },
+    {
+      "ide": "64985",
+      "date": "1952-09-14",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yankee Go Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520914 39 Yankee Go Home [Stranded Muslims]_OTRRPG.mp3",
+          "time": "1558",
+          "size": "25005661"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-09-14 39 Yankee Go Home [Stranded Muslims].mp3",
+          "time": "1553",
+          "size": "12422313"
+        }
+      ]
+    },
+    {
+      "ide": "64986",
+      "date": "1952-09-21",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Educational Improvements"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520921 40 Educational Improvements [Forestry School]_OTRRPG.mp3",
+          "time": "1549",
+          "size": "24863564"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-09-21 40 Educational Improvements [Forestry School].mp3",
+          "time": "1544",
+          "size": "12351593"
+        }
+      ]
+    },
+    {
+      "ide": "64987",
+      "date": "1952-09-28",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prison Reform Bill"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 520928 41 Prison Reform Bill [Riot In Cell Block 14] (Missing 1st 6 Min)_OTRRPG.mp3",
+          "time": "1256",
+          "size": "20177425"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-09-28 41 Prison Reform Bill [Riot in Cell Block 14] Missing 1st 6 min.mp3",
+          "time": "1252",
+          "size": "10019497"
+        }
+      ]
+    },
+    {
+      "ide": "64988",
+      "date": "1952-10-05",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Housing For Defense Workers"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 521005 42 Housing For Defense Workers [Slum Lord]_OTRRPG.mp3",
+          "time": "1618",
+          "size": "25965301"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-10-05 42 Housing for Defense Workers [Slum Lord].mp3",
+          "time": "1612",
+          "size": "12899881"
+        }
+      ]
+    },
+    {
+      "ide": "64989",
+      "date": "1952-10-12",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Indian Fishing Rights"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 521012 043 Indian Fishing Rights (2)_OTRRPG.mp3",
+          "time": "1671",
+          "size": "26810401"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 521012 043 Indian Fishing Rights_OTRRPG.mp3",
+          "time": "1627",
+          "size": "26105116"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-10-12 (43) Indian Fishing Rights.mp3",
+          "time": "1673",
+          "size": "26776883"
+        }
+      ]
+    },
+    {
+      "ide": "64990",
+      "date": "1952-10-19",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flood Control"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 521019 044 Flood Control (2)_OTRRPG.mp3",
+          "time": "1670",
+          "size": "26792420"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 521019 044 Flood Control_OTRRPG.mp3",
+          "time": "1625",
+          "size": "26083374"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-10-19 (44) Flood Control.mp3",
+          "time": "1672",
+          "size": "26758910"
+        }
+      ]
+    },
+    {
+      "ide": "64991",
+      "date": "1952-10-26",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Peanut Vendor"
+        },
+        {
+          "title": "Pennsylvania Avenue Peanut Vendor"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 521026 045 Pennsylvania Avenue Peanut Vendor (192-44)_OTRRPG.mp3",
+          "time": "1635",
+          "size": "39261209"
+        }
+      ]
+    },
+    {
+      "ide": "64992",
+      "date": "1952-11-02",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "International Trade"
+        },
+        {
+          "title": "Illegal Trade in Precision American Steel"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 521102 046 Illegal Trade in Precision American Steel (192-44)_OTRRPG.mp3",
+          "time": "1636",
+          "size": "39275002"
+        }
+      ]
+    },
+    {
+      "ide": "64993",
+      "date": "1952-11-09",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "64994",
+      "date": "1952-11-16",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "64995",
+      "date": "1952-11-23",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "64996",
+      "date": "1952-11-30",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "64997",
+      "date": "1952-12-07",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lumberjack Revolt"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 521207 051 Lumberjack Revolt (2)_OTRRPG.mp3",
+          "time": "1671",
+          "size": "26813322"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 521207 051 Lumberjack Revolt_OTRRPG.mp3",
+          "time": "1608",
+          "size": "25805017"
+        },
+        {
+          "path": "F",
+          "folder": "Freedom USA",
+          "name": "Freedom USA 52-12-07 (51) Lumberjack Revolt.mp3",
+          "time": "1673",
+          "size": "26779808"
+        }
+      ]
+    },
+    {
+      "ide": "64998",
+      "date": "1952-12-14",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1952-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Freedom, USA"
+    },
+    {
+      "title": "Freedom U.S.A."
+    },
+    {
+      "title": "Freedom U S A"
+    }
+  ]
+}

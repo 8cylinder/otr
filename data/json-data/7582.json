@@ -1,0 +1,217 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "39492",
+      "first": "Joey",
+      "last": "Adams",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5454",
+      "first": "Hal",
+      "last": "Simms",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314710",
+      "date": "1950-07-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Couple - Elsie & George Winkle"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rate Your Mate",
+          "name": "Rate Your Mate 500706 First Couple - Elsie & George Winkle_OTRRPG.mp3",
+          "time": "1693",
+          "size": "27164008"
+        }
+      ]
+    },
+    {
+      "ide": "323995",
+      "date": "1950-08-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chicken Plucker"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rate Your Mate",
+          "name": "Rate Your Mate 1950.08.05 Chicken Plucker.mp3",
+          "time": "1691",
+          "size": "6872390"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Quiz"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-07-30",
+      "dow": "Su",
+      "time": "9:00 PM",
+      "end": "1950-08-20",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1950-09-30",
+      "dow": "Su",
+      "time": "6:00 PM",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1951-01-23",
+      "dow": "Tu",
+      "time": "10:00 PM",
+      "end": "1951-02-27",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1951-03-04",
+      "dow": "Su",
+      "time": "4:30 PM",
+      "end": "1951-06-23",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1951-07-07",
+      "dow": "Sa",
+      "time": "8:00 PM",
+      "end": "1951-07-28",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Wrigley's Gum",
+      "begin": "1951-07-07",
+      "end": "1951-07-28"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Rate Your Mate"
+    }
+  ]
+}

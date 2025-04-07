@@ -1,0 +1,195 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3193",
+      "first": "Barney",
+      "last": "Kessel",
+      "f": "Noted Role",
+      "character": "Guitarist"
+    },
+    {
+      "idperson": "2740",
+      "first": "Art",
+      "last": "Hodes",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "88970",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - The Sounds of Swing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257834",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "328804",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0049 Just Jazz - Louis Armstrong And His All Stars"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just Jazz",
+          "name": "AFRS Collection 194x.xx.xx 0049 Just Jazz - Louis Armstrong And His All Stars.mp3",
+          "time": "1785",
+          "size": "7249920"
+        }
+      ]
+    },
+    {
+      "ide": "328814",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0074 Just Jazz - Wingy Manone"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just Jazz",
+          "name": "AFRS Collection 194x.xx.xx 0074 Just Jazz - Wingy Manone.mp3",
+          "time": "1791",
+          "size": "7272448"
+        }
+      ]
+    },
+    {
+      "ide": "88968",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Oo Ya Koo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "88972",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - But Beautiful"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "88967",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "88969",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "88965",
+      "date": "0000-00-00",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dixieland Jubilee Jazz Concert"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "88974",
+      "date": "1971-05-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "0000-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "AFRS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Just Jazz"
+    }
+  ]
+}

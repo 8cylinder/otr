@@ -1,0 +1,79 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50797",
+      "first": "Richard",
+      "last": "Kent",
+      "f": "Noted Role",
+      "character": "Chef"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Food"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-11-28",
+      "dow": "Tu",
+      "time": "",
+      "end": "1940-05-27",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1940-06-15",
+      "dow": "Tu,F",
+      "time": "",
+      "end": "1942-03-19",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1939-11-28",
+      "end": "1942-03-19"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Richard Kent"
+    },
+    {
+      "title": "Traveling Chef"
+    },
+    {
+      "title": "Traveling Cook"
+    }
+  ]
+}

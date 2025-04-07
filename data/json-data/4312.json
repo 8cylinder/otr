@@ -1,0 +1,286 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-4312-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3337",
+      "first": "Peg",
+      "last": "LaCentra",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "5711",
+      "first": "Ted",
+      "last": "Straeter",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6202",
+      "first": "Mark",
+      "last": "Warnow",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6226",
+      "first": "Jerry",
+      "last": "Wayne",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4003",
+      "first": "Craig",
+      "last": "McDonnell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "38881",
+      "first": "Louise",
+      "last": "Wilcher",
+      "f": "Noted Role",
+      "character": "Organist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313697",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quartet #2 in D Major (Alexander Borodin)(AFRTS #30)"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Room",
+          "name": "Music Room xxxxxx xxxx Quartet #2 in D Major (Alexander Borodin)(AFRTS #30) (256-44).mp3",
+          "time": "900",
+          "size": "29095765"
+        },
+        {
+          "path": "M",
+          "folder": "Music Room",
+          "name": "Music Room xxxxxx xxxx Quartet #2 in D Major (Alexander Borodin)(AFRTS #30) - Cleaned ET.flac",
+          "time": "900",
+          "size": "38821245"
+        }
+      ]
+    },
+    {
+      "ide": "313698",
+      "date": "1947-10-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jimmy Constanman"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sport's Memoy Lane",
+          "name": "Sports Memory Lane 471010 xxx Guest - Jimmy Constanman_OTRRPG.mp3",
+          "time": "838",
+          "size": "13422314"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology"
+    },
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-09-24",
+      "dow": "Su",
+      "time": "",
+      "end": "1940-04-21",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1940-09-29",
+      "dow": "Su",
+      "time": "",
+      "end": "1941-04-20",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1941-09-28",
+      "dow": "Su",
+      "time": "",
+      "end": "1942-04-19",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1942-01-05",
+      "dow": "M,Tu,W",
+      "time": "10:30 PM",
+      "end": "1942-03-02",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1942-03-27",
+      "dow": "F",
+      "time": "",
+      "end": "1942-06-12",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-03-05",
+      "dow": "M",
+      "time": "9:00 PM",
+      "end": "1945-03-19",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-03-25",
+      "dow": "Su",
+      "time": "8:30 PM",
+      "end": "1945-07-01",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-07-13",
+      "dow": "F",
+      "time": "7:30 PM",
+      "end": "1945-09-21",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Gulf Oil Corp.",
+      "begin": "1939-09-24",
+      "end": "1942-04-19"
+    },
+    {
+      "sponsor": "Gulf Spray",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Gulf Screen Theater"
+    },
+    {
+      "title": "Gulf Spray Presents"
+    },
+    {
+      "title": "Jerry Wayne Show, The"
+    },
+    {
+      "title": "Memory Lane,"
+    },
+    {
+      "title": "Gulf Spray presents"
+    },
+    {
+      "title": "Music Room"
+    }
+  ]
+}

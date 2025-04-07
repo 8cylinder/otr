@@ -1,0 +1,150 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/21/20210321203411-80bd45be.jpg",
+      "label": "Dick Tracy Jewel Case Label",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Richard Orant Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "51637",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Can't We Talk It Over?"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Richard Orant Show",
+          "name": "Richard Orant Show Cant We Talk It Over.mp3",
+          "time": "1741",
+          "size": "6966086"
+        }
+      ]
+    },
+    {
+      "ide": "51636",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Don't Let The Stars Get In Your Eyes"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Richard Orant Show",
+          "name": "Richard Orant Show xx-xx-xx Don't Let the Stars get in your Eyes.mp3",
+          "time": "1750",
+          "size": "7003284"
+        }
+      ]
+    },
+    {
+      "ide": "51897",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Tiger Rag"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "54938",
+      "date": "1952-12-12",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Am I Wasting My Time On You"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Richard Orant Show",
+          "name": "Richard Orant Show 52-12-12 Am I Wasting My Time.mp3",
+          "time": "1718",
+          "size": "6874344"
+        }
+      ]
+    },
+    {
+      "ide": "54939",
+      "date": "1952-12-25",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Joy To The World"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Richard Orant Show",
+          "name": "Richard Orant Show 52-12-25 Joy to the World.mp3",
+          "time": "1766",
+          "size": "7065978"
+        }
+      ]
+    },
+    {
+      "ide": "54940",
+      "date": "1953-01-03",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Poet and Peasant Overture"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Richard Orant Show",
+          "name": "Richard Orant Show 53-01-03 The Poet and the Peasant.mp3",
+          "time": "1754",
+          "size": "7016032"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Dick Orant Show, The"
+    }
+  ]
+}

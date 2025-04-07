@@ -1,0 +1,463 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "FUTE"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041656-20e6b5b2.jpg",
+      "label": "Future Tense Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041711-9ca374cc.jpg",
+      "label": "Future Tense Cover Reverse",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041723-771f5837.jpg",
+      "label": "Future Tense Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041738-c23d4d84.jpg",
+      "label": "Future Tense Tray Insert",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041753-1209ca3b.jpg",
+      "label": "Future Tense Tray Reverse",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/ft1.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logf1015.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/Future Tense/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Broadcast over WMUK Michigan."
+    }
+  ],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "224",
+      "idtype": "4",
+      "page": "10",
+      "article": "",
+      "url": "",
+      "date": "1977-05-01",
+      "source": "Airwaves/aw07_May77.pdf",
+      "idpytype2": "4",
+      "title": "Airwaves #07 May77",
+      "author": ""
+    },
+    {
+      "idprint": "1230",
+      "idtype": "4",
+      "page": "48",
+      "article": "",
+      "url": "",
+      "date": "2001-05-01",
+      "source": "NARA News/Nara News V29 02 Spring2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 02 Spring2001",
+      "author": ""
+    },
+    {
+      "idprint": "1583",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "2003-02-01",
+      "source": "OTR Digest_1990s/OTRDigest_(100)Winter03.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (100) Winter 2003",
+      "author": ""
+    },
+    {
+      "idprint": "2726",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "1943-06-01",
+      "source": "Tune In Yesterday/TIY_41.pdf",
+      "idpytype2": "4",
+      "title": "TIY 41",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "65123",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Venus is a Man's World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65806",
+      "date": "1974-05-06",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pail of Air, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-06 (01) The Seventh Victim.mp3",
+          "time": "1586",
+          "size": "6343902"
+        }
+      ]
+    },
+    {
+      "ide": "65805",
+      "date": "1974-05-07",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Discovery of M. Mathaway, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-07 (02) Martian Death March.mp3",
+          "time": "1654",
+          "size": "6614948"
+        }
+      ]
+    },
+    {
+      "ide": "65804",
+      "date": "1974-05-08",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Romance Game, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-08 (03) Cold Equation.mp3",
+          "time": "1408",
+          "size": "5632117"
+        }
+      ]
+    },
+    {
+      "ide": "65803",
+      "date": "1974-05-09",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Star Bright"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-09 (04) Pictures Don't Lie.mp3",
+          "time": "1650",
+          "size": "6602409"
+        }
+      ]
+    },
+    {
+      "ide": "65802",
+      "date": "1974-05-13",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Romance Game (2), The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-13 (05) Knock.mp3",
+          "time": "2043",
+          "size": "8173936"
+        }
+      ]
+    },
+    {
+      "ide": "65801",
+      "date": "1974-05-14",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mars Is Heaven"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-14 (06) With Folded Hands.mp3",
+          "time": "1705",
+          "size": "6820375"
+        }
+      ]
+    },
+    {
+      "ide": "65113",
+      "date": "1974-05-15",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Grimshaw's Sanitorium"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-15 (07) Really Heavy, Third From the Sun.mp3",
+          "time": "1668",
+          "size": "6670955"
+        }
+      ]
+    },
+    {
+      "ide": "65114",
+      "date": "1974-05-16",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Field Study"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-16 (08) Born of Man and Woman.mp3",
+          "time": "1702",
+          "size": "6808045"
+        }
+      ]
+    },
+    {
+      "ide": "65115",
+      "date": "1974-05-20",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Dare"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-20 (09) A Pail of Air.mp3",
+          "time": "1636",
+          "size": "6545358"
+        }
+      ]
+    },
+    {
+      "ide": "65116",
+      "date": "1974-05-21",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man in the Moon, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-21 (10) The Old Die Rich.mp3",
+          "time": "1737",
+          "size": "6947226"
+        }
+      ]
+    },
+    {
+      "ide": "65117",
+      "date": "1974-05-22",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cold Equations"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-22 (11) Tunnel Under the World.mp3",
+          "time": "1607",
+          "size": "6427702"
+        }
+      ]
+    },
+    {
+      "ide": "65118",
+      "date": "1974-05-23",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pictures Don't Lie"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-23 (12) Zero Hour.mp3",
+          "time": "1420",
+          "size": "5682272"
+        }
+      ]
+    },
+    {
+      "ide": "65119",
+      "date": "1974-05-27",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knock"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-27 (13) The Parade.mp3",
+          "time": "1568",
+          "size": "6274520"
+        }
+      ]
+    },
+    {
+      "ide": "65120",
+      "date": "1974-05-28",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "With Folded Hands"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-28 (14) The Defenders.mp3",
+          "time": "1582",
+          "size": "6326765"
+        }
+      ]
+    },
+    {
+      "ide": "65121",
+      "date": "1974-05-29",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Really Heavy - Third From The Sun"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-29 (15) Protection.mp3",
+          "time": "1399",
+          "size": "5596904"
+        }
+      ]
+    },
+    {
+      "ide": "65122",
+      "date": "1974-05-30",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Eitar's Experiment - Born of Man and Woman"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Future Tense",
+          "name": "Future Tense 74-05-30 (16) Saucer of Loneliness.mp3",
+          "time": "1762",
+          "size": "7046700"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Future Tense"
+    }
+  ]
+}

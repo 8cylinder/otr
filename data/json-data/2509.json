@@ -1,0 +1,141 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "COMP"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Compendium%20Cliche'%20Productions/",
+      "label": "Library Files",
+      "idtype": "16"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logc1037.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "48127",
+      "date": "1963-10-01",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tower of Tallthang, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Compendium Cliche' Productions",
+          "name": "Compendium Cliche' Productions 63-10-01 The Tower of Talfang.mp3",
+          "time": "2392",
+          "size": "38270895"
+        }
+      ]
+    },
+    {
+      "ide": "48128",
+      "date": "1963-10-08",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mate of Balrog, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Compendium Cliche' Productions",
+          "name": "Compendium Cliche' Productions 63-10-08 The Mate of Balrog.mp3",
+          "time": "2230",
+          "size": "35676996"
+        }
+      ]
+    },
+    {
+      "ide": "48129",
+      "date": "1963-10-15",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Queen of Queens"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "48130",
+      "date": "1963-10-22",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bride of Esp, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Compendium Cliche' Productions",
+          "name": "Compendium Cliche' Productions 63-10-22 The Bride of Esp.mp3",
+          "time": "2694",
+          "size": "43111698"
+        }
+      ]
+    },
+    {
+      "ide": "48131",
+      "date": "1963-10-29",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Istambul Express"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Compendium Cliche' Productions",
+          "name": "Compendium Cliche' Productions 63-10-29 (05) Istanbul Express.mp3",
+          "time": "2601",
+          "size": "20805476"
+        },
+        {
+          "path": "C",
+          "folder": "Compendium Cliche' Productions",
+          "name": "Compendium Cliche' Productions 63-10-29 Istanbul Express.mp3",
+          "time": "2613",
+          "size": "41811009"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Compendium Cliche' Productions"
+    }
+  ]
+}

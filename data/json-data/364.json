@@ -1,0 +1,141 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2587",
+      "first": "Adelaide",
+      "last": "Hawley",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "13033",
+      "first": "Clyde",
+      "last": "Catell",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "48641",
+      "first": "Johnny",
+      "last": "Olsen",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "163956",
+      "date": "1944-06-07",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Finish What You?ÃÂÃÂª"
+        },
+        {
+          "title": "How To Sabotage The Nazis"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adelaide Hawley",
+          "name": "Adelaide Hawley Program 440607 xxx How To Sabotage The Nazis_OTRRPG.mp3",
+          "time": "877",
+          "size": "14030976"
+        },
+        {
+          "path": "A",
+          "folder": "Adelaide Hawley",
+          "name": "Adelaide Hawley 44-06-17.mp3",
+          "time": "877",
+          "size": "7014816"
+        }
+      ]
+    },
+    {
+      "ide": "311063",
+      "date": "1944-06-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adelaide Hawley 44-06-17"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adelaide Hawley",
+          "name": "Adelaide Hawley 44-06-17.mp3",
+          "time": "877",
+          "size": "7014816"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-09-25",
+      "dow": "M,Tu,W,Th,F,Sa",
+      "time": "8:45 AM",
+      "end": "1943-10-30",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1943-11-01",
+      "dow": "M,Tu,W,Th,F,Sa",
+      "time": "9:30 AM",
+      "end": "1946-04-12",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adelaide Hawley"
+    }
+  ]
+}

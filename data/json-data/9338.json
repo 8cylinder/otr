@@ -1,0 +1,152 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1236",
+      "first": "Jerry",
+      "last": "Cooper",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4665",
+      "first": "Lilyan",
+      "last": "Perron",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "42564",
+      "first": "The",
+      "last": "Smoothies",
+      "f": "Noted Role",
+      "character": "vocals"
+    },
+    {
+      "idperson": "5684",
+      "first": "William",
+      "last": "Stoess",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "27916",
+      "first": "James",
+      "last": "Leonard",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48655",
+      "first": "The",
+      "last": "Eight Men",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "50380",
+      "first": "Lynn",
+      "last": "Cole",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "50596",
+      "first": "The Devore",
+      "last": "Sisters",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "51155",
+      "first": "Deon",
+      "last": "Craddock",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "51156",
+      "first": "Hal Edison",
+      "last": "",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "51157",
+      "first": "William",
+      "last": "Stage",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-03-31",
+      "dow": "Tu,Th,F",
+      "time": "7:15 PM",
+      "end": "1939-07-13",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1936-04-06",
+      "dow": "Tu,Th",
+      "time": "7:15 PM",
+      "end": "1939-03-31",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Tums",
+      "begin": "1937-01-28",
+      "end": "1939-07-13"
+    }
+  ],
+  "titles": [
+    {
+      "title": "(Tums) Vocal Varieties"
+    }
+  ]
+}

@@ -1,0 +1,5395 @@
+{
+  "avail": [
+    {
+      "avail": "28",
+      "idprint": "-1",
+      "web": "",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [
+    {
+      "code": "FITC"
+    }
+  ],
+  "known": [
+    {
+      "known": "384",
+      "idprint": "-1",
+      "web": "www.otrr.org",
+      "url": "",
+      "source": "",
+      "idpytype": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323042050-b17ef73f.jpg",
+      "label": "Fitch Bandwagon",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9903-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logp1010.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19451946eve.html",
+      "label": "Evening Ratings: (1945-1946: #19)",
+      "idtype": "8"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,855342,00.html",
+      "label": "1946-01-28: Ugly Duckling",
+      "idtype": "11"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/Fitch Bandwagon/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Bandwagon/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Music was by visiting bands."
+    },
+    {
+      "info": "This was the first incarnation of three shows with the same name and sponser in the same time slot."
+    },
+    {
+      "info": "This was the third and final incarnation of the Fitch Bandwagon and later became the Phil Harris/Alice Faye Show."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "349",
+      "first": "Charlie",
+      "last": "Barnet",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "427",
+      "first": "Irene",
+      "last": "Beasley",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "427",
+      "first": "Irene",
+      "last": "Beasley",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "457",
+      "first": "Jerry",
+      "last": "Belcher",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "776",
+      "first": "Les",
+      "last": "Brown",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "870",
+      "first": "Henry",
+      "last": "Busse",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "940",
+      "first": "Eddie",
+      "last": "Cantor",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1029",
+      "first": "Carmen",
+      "last": "Cavallaro",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1074",
+      "first": "Dick",
+      "last": "Chevillat",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "1323",
+      "first": "Bing",
+      "last": "Crosby",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1324",
+      "first": "Bob",
+      "last": "Crosby",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1357",
+      "first": "Bernie",
+      "last": "Cummins",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1382",
+      "first": "Dresser",
+      "last": "Dahlstead",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1391",
+      "first": "Cass",
+      "last": "Daley",
+      "f": "Noted Role",
+      "character": "headliner"
+    },
+    {
+      "idperson": "1538",
+      "first": "Andy",
+      "last": "Devine",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1606",
+      "first": "Tommy",
+      "last": "Dorsey",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1606",
+      "first": "Tommy",
+      "last": "Dorsey",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1885",
+      "first": "Alice",
+      "last": "Faye",
+      "f": "Noted Role",
+      "character": "herself"
+    },
+    {
+      "idperson": "2391",
+      "first": "Jimmy 'Jimmie'",
+      "last": "Grier",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2391",
+      "first": "Jimmy 'Jimmie'",
+      "last": "Grier",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2541",
+      "first": "Phil",
+      "last": "Harris",
+      "f": "Noted Role",
+      "character": "himself"
+    },
+    {
+      "idperson": "2952",
+      "first": "Harry",
+      "last": "James",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2952",
+      "first": "Harry",
+      "last": "James",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2968",
+      "first": "Art",
+      "last": "Jarrett",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3125",
+      "first": "Larry",
+      "last": "Keating",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3427",
+      "first": "Bill",
+      "last": "Lawrence",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "3532",
+      "first": "Elliott",
+      "last": "Lewis",
+      "f": "Noted Role",
+      "character": "Frankie Remley"
+    },
+    {
+      "idperson": "3860",
+      "first": "Freddy",
+      "last": "Martin",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3860",
+      "first": "Freddy",
+      "last": "Martin",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4282",
+      "first": "Robert 'Bob'",
+      "last": "Mosher",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "4408",
+      "first": "Wendell",
+      "last": "Niles",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4756",
+      "first": "Dick",
+      "last": "Powell",
+      "f": "Noted Role",
+      "character": "Emcee ca 1944"
+    },
+    {
+      "idperson": "4913",
+      "first": "Tobe 'Toby'",
+      "last": "Reed",
+      "f": "Noted Role",
+      "character": "Emcee"
+    },
+    {
+      "idperson": "5091",
+      "first": "Will",
+      "last": "Rogers",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5192",
+      "first": "Henry",
+      "last": "Russell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5254",
+      "first": "Jan",
+      "last": "Savitt",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5254",
+      "first": "Jan",
+      "last": "Savitt",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5269",
+      "first": "Walter",
+      "last": "Scharf",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5469",
+      "first": "Ray",
+      "last": "Singer",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "5860",
+      "first": "Walter",
+      "last": "Tetley",
+      "f": "Noted Role",
+      "character": "Julius Abbruzio"
+    },
+    {
+      "idperson": "5987",
+      "first": "Francis 'Dink'",
+      "last": "Trout",
+      "f": "Noted Role",
+      "character": "Horace, a wimpy character"
+    },
+    {
+      "idperson": "6316",
+      "first": "Anne",
+      "last": "Whitfield",
+      "f": "Noted Role",
+      "character": "Little Alice and Phyllis"
+    },
+    {
+      "idperson": "6589",
+      "first": "Joe",
+      "last": "Connelly",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7451",
+      "first": "Ward",
+      "last": "Byron",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "7542",
+      "first": "The",
+      "last": "Morin Sisters",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7646",
+      "first": "Robert",
+      "last": "North",
+      "f": "Noted Role",
+      "character": "Alice's brother Willie"
+    },
+    {
+      "idperson": "7673",
+      "first": "Harry",
+      "last": "Sosnik",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "7673",
+      "first": "Harry",
+      "last": "Sosnik",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "28930",
+      "first": "The",
+      "last": "Ranch Boys",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "34602",
+      "first": "Paul",
+      "last": "Phillips",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "39567",
+      "first": "Van",
+      "last": "Alexander",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "45213",
+      "first": "Jeanie",
+      "last": "Roose",
+      "f": "Noted Role",
+      "character": "Little Alice and Phyllis"
+    },
+    {
+      "idperson": "7603",
+      "first": "Bill",
+      "last": "Forman",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4120",
+      "first": "Johnny",
+      "last": "Messner",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "869",
+      "first": "Francis X.",
+      "last": "Bushman",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "882",
+      "first": "Pat",
+      "last": "Buttram",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1268",
+      "first": "Jack",
+      "last": "Costello",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1462",
+      "first": "Doris",
+      "last": "Day",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "2288",
+      "first": "Gale",
+      "last": "Gordon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2353",
+      "first": "Glen",
+      "last": "Gray",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2561",
+      "first": "Jack",
+      "last": "Haskell",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "2561",
+      "first": "Jack",
+      "last": "Haskell",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3052",
+      "first": "Milt",
+      "last": "Josefsberg",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "37598",
+      "first": "Ralph",
+      "last": "Young",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "47639",
+      "first": "George D.",
+      "last": "Faber",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "47877",
+      "first": "Walter",
+      "last": "Sharp",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2681",
+      "first": "Woody",
+      "last": "Herman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2747",
+      "first": "Carl",
+      "last": "Hoff",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4256",
+      "first": "Russ",
+      "last": "Morgan",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4355",
+      "first": "Henry M.",
+      "last": "Neely",
+      "f": "Noted Role",
+      "character": "Emcee"
+    },
+    {
+      "idperson": "5084",
+      "first": "Charles 'Buddy'",
+      "last": "Rogers",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5370",
+      "first": "Artie",
+      "last": "Shaw",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5945",
+      "first": "Mel",
+      "last": "Torme",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "6047",
+      "first": "Rudy",
+      "last": "Vallee",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "22057",
+      "first": "",
+      "last": "Carl Hoff and His Orchestra",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4150",
+      "first": "Glenn",
+      "last": "Miller",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4224",
+      "first": "Garry",
+      "last": "Moore",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4634",
+      "first": "Fort",
+      "last": "Pearson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "24791",
+      "first": "The",
+      "last": "Sportsmen Quartet",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "5945",
+      "first": "Mel",
+      "last": "Torme",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5999",
+      "first": "Orrin",
+      "last": "Tucker",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "325",
+      "idtype": "4",
+      "page": "19",
+      "article": "",
+      "url": "",
+      "date": "1978-11-01",
+      "source": "Collectors Corner/CC_09_Nov78.pdf",
+      "idpytype2": "4",
+      "title": "Collectors Corner #09 Nov 78",
+      "author": ""
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "1114",
+      "idtype": "4",
+      "page": "10",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_01.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #1",
+      "author": ""
+    },
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1576",
+      "idtype": "4",
+      "page": "34",
+      "article": "",
+      "url": "",
+      "date": "1988-11-01",
+      "source": "OTR Digest_1980s/OTRDigest_(030)NovDec88.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (30) Nov-Dec 1988",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Simle For Me"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "266234",
+      "date": "1938-09-04",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GUY LOMBARDO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266340",
+      "date": "1938-09-11",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RICHARD HIMBER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266366",
+      "date": "1938-09-18",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED FIORITO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266358",
+      "date": "1938-09-25",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SHEP FIELDS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266144",
+      "date": "1938-10-02",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BOB CROSBY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266109",
+      "date": "1938-10-09",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ABE LYMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266301",
+      "date": "1938-10-16",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LEO REISMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266344",
+      "date": "1938-10-23",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ROGER PRYOR"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266195",
+      "date": "1938-10-30",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266178",
+      "date": "1938-11-06",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "EDDIE DUCHIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266326",
+      "date": "1938-11-13",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "OZZIE NELSON"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266149",
+      "date": "1938-11-20",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BUDDY ROGERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266190",
+      "date": "1938-11-27",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FRANKIE MASTERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266378",
+      "date": "1938-12-04",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266265",
+      "date": "1938-12-11",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JAN GARBER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266131",
+      "date": "1938-12-18",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BENNY GOODMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266251",
+      "date": "1938-12-25",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HERBIE KAY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266123",
+      "date": "1939-01-01",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ART KASSEL"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266223",
+      "date": "1939-01-08",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GLEN GRAY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266402",
+      "date": "1939-01-15",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "XAVIER CUGAT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266373",
+      "date": "1939-01-22",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED WEEMS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266238",
+      "date": "1939-01-29",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HAL KEMP"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266245",
+      "date": "1939-02-05",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HARRY OWENS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266395",
+      "date": "1939-02-12",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "VICTOR YOUNG"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266216",
+      "date": "1939-02-19",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GENE KRUPA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266352",
+      "date": "1939-02-26",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SAMMY KAYE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266275",
+      "date": "1939-03-05",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JIMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266252",
+      "date": "1939-03-12",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HORACE HEIDT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266248",
+      "date": "1939-03-19",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HENRY BUSSE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266286",
+      "date": "1939-03-23",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JOE SANDERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266322",
+      "date": "1939-03-26",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ORRIN TUCKER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266128",
+      "date": "1939-04-02",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BEMIE CUMMINS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266288",
+      "date": "1939-04-09",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JOHNNY GREEN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266165",
+      "date": "1939-04-16",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CLYDE LUCAS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266260",
+      "date": "1939-04-30",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ISHAM JONES"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266396",
+      "date": "1939-05-07",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "VINCENT LOPEZ"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266315",
+      "date": "1939-05-14",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LUIGI ROMANELLI"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266169",
+      "date": "1939-05-21",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "DICK JURGENS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266297",
+      "date": "1939-05-28",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LARRY CLINTON"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266264",
+      "date": "1939-06-04",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JACK TEAGARDEN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266138",
+      "date": "1939-06-18",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BILL CARLSON"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266028",
+      "date": "1939-06-25",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'S' Wonderful'. Phil Builds a Playroom"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bandwagon",
+          "name": "Fitch Bandwagon 471116 043 1st; 'S' Wonderful'. Phil Builds a Playroom.mp3",
+          "time": "1793",
+          "size": "28767358"
+        }
+      ]
+    },
+    {
+      "ide": "266337",
+      "date": "1939-07-02",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RAY PEARL"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266187",
+      "date": "1939-07-09",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "EDGAR CARVER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266392",
+      "date": "1939-07-16",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Van Alexander"
+        },
+        {
+          "title": "1st 'Civilization'. A Dog for the Kids"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bandwagon",
+          "name": "Fitch Bandwagon 471207 046 1st; 'Civilization'. A Dog for the Kids.mp3",
+          "time": "1791",
+          "size": "28736011"
+        }
+      ]
+    },
+    {
+      "ide": "266261",
+      "date": "1939-07-23",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JACK JENNEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266141",
+      "date": "1939-07-30",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bob Chester"
+        },
+        {
+          "title": "1st 'Jingle Bells'. Christmas Eve with Santa Claus (Jack Benny)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bandwagon",
+          "name": "Fitch Bandwagon 471221 048 1st; 'Jingle Bells'. Christmas Eve with Santa Claus (Jack Benny).mp3",
+          "time": "1790",
+          "size": "28725562"
+        }
+      ]
+    },
+    {
+      "ide": "266290",
+      "date": "1939-08-06",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "JOHNNY LONG"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bandwagon",
+          "name": "Fitch Bandwagon 471228 049 1st; 'The Preacher and the Bear'. Mr. Fitch Comes to Dinner.mp3",
+          "time": "1794",
+          "size": "28780733"
+        }
+      ]
+    },
+    {
+      "ide": "266189",
+      "date": "1939-08-13",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FENTON BROTHERS, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266321",
+      "date": "1939-08-20",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mitchell Ayers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266272",
+      "date": "1939-08-27",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JAY MILLS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266262",
+      "date": "1939-09-03",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JACK MCLEAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266362",
+      "date": "1939-09-10",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SKINNY ENNIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266247",
+      "date": "1939-09-17",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HARRY SOSNIK"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266281",
+      "date": "1939-09-24",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JIMMY GRIER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "307383",
+      "date": "1939-09-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bandwagon",
+          "name": "Bandwagon 39-09-30 (03-03).mp3",
+          "time": "2609",
+          "size": "41742116"
+        }
+      ]
+    },
+    {
+      "ide": "266328",
+      "date": "1939-10-01",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "PHIL HARRIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266167",
+      "date": "1939-10-08",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "COUNT BASIE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266346",
+      "date": "1939-10-15",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "RUDY VALLEE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266191",
+      "date": "1939-10-22",
+      "epnum": "60",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FRANKIE MASTERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266239",
+      "date": "1939-10-29",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Hal Kemo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266112",
+      "date": "1939-11-05",
+      "epnum": "62",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "AL DONAHUE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266227",
+      "date": "1939-11-12",
+      "epnum": "63",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GLENN MILLER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266110",
+      "date": "1939-11-19",
+      "epnum": "64",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ABE LYMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266228",
+      "date": "1939-11-26",
+      "epnum": "65",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GRIFF WILLIAMS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266367",
+      "date": "1939-12-03",
+      "epnum": "66",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED FIORITO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266179",
+      "date": "1939-12-10",
+      "epnum": "67",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "EDDIE DUCHIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266282",
+      "date": "1939-12-17",
+      "epnum": "68",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JOE REICHMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266341",
+      "date": "1939-12-24",
+      "epnum": "69",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RICHARD HIMBER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266132",
+      "date": "1939-12-31",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BENNY GOODMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266359",
+      "date": "1940-01-07",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SHEP FIELDS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266323",
+      "date": "1940-01-14",
+      "epnum": "72",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ORRIN TUCKER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266276",
+      "date": "1940-01-21",
+      "epnum": "73",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JIMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266348",
+      "date": "1940-01-28",
+      "epnum": "74",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RUSS MORGAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266224",
+      "date": "1940-02-04",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GLEN GRAY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266403",
+      "date": "1940-02-11",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "XAVIER CUGAT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266241",
+      "date": "1940-02-18",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HARRY JAMES"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266240",
+      "date": "1940-02-25",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HARRY COLEMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266298",
+      "date": "1940-03-03",
+      "epnum": "79",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LARRY STEWART, MARTHA TILTON"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266233",
+      "date": "1940-03-10",
+      "epnum": "80",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GUS ARNHEIM"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266153",
+      "date": "1940-03-17",
+      "epnum": "81",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CARL HOFF"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266253",
+      "date": "1940-03-24",
+      "epnum": "82",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HORACE HEIDT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266385",
+      "date": "1940-03-31",
+      "epnum": "83",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY TUCKER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266130",
+      "date": "1940-04-07",
+      "epnum": "84",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BEN BERNIE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266289",
+      "date": "1940-04-14",
+      "epnum": "85",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JOHNNY GREEN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266357",
+      "date": "1940-04-18",
+      "epnum": "103",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SAXEY DOWELL"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266029",
+      "date": "1940-04-21",
+      "epnum": "86",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266292",
+      "date": "1940-04-28",
+      "epnum": "87",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "KAY KYSER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266170",
+      "date": "1940-05-05",
+      "epnum": "88",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "DICK JURGENS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266145",
+      "date": "1940-05-12",
+      "epnum": "89",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BOB CROSBY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266217",
+      "date": "1940-05-19",
+      "epnum": "90",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GENE KRUPA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266353",
+      "date": "1940-05-26",
+      "epnum": "91",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SAMMY KAYE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266196",
+      "date": "1940-06-02",
+      "epnum": "92",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fitch Bandwagon",
+          "name": "Fitch Bandwagon_xx-xx-xx_Freddy Martin Orch, Dick Powell, Andy Devine [16 min].mp3",
+          "time": "957",
+          "size": "7653053"
+        }
+      ]
+    },
+    {
+      "ide": "266139",
+      "date": "1940-06-09",
+      "epnum": "93",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BLUE BARRON"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266129",
+      "date": "1940-06-16",
+      "epnum": "94",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BEMIE CUMMINS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266142",
+      "date": "1940-06-23",
+      "epnum": "95",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BOB CHESTER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266150",
+      "date": "1940-06-30",
+      "epnum": "96",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BUDDY ROGERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266356",
+      "date": "1940-07-07",
+      "epnum": "97",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SAWYER ORCHESTRA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266273",
+      "date": "1940-07-14",
+      "epnum": "98",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JEAN ORCHESTRA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266151",
+      "date": "1940-07-21",
+      "epnum": "99",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BUSTER BAILEY ORCHESTRA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266345",
+      "date": "1940-07-28",
+      "epnum": "100",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RON PERRY ORCHESTRA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266185",
+      "date": "1940-08-04",
+      "epnum": "101",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "EDDY OLIVER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266168",
+      "date": "1940-08-11",
+      "epnum": "102",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "DALE ORCHESTRA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266030",
+      "date": "1940-08-25",
+      "epnum": "104",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266391",
+      "date": "1940-09-01",
+      "epnum": "105",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "UNIVERSITY OF CALIFORNIA BAND"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266215",
+      "date": "1940-09-08",
+      "epnum": "106",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDY NAGEL"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266163",
+      "date": "1940-09-15",
+      "epnum": "107",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CLAUDE THORNHILL"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266031",
+      "date": "1940-09-22",
+      "epnum": "108",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266032",
+      "date": "1940-09-29",
+      "epnum": "109",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266125",
+      "date": "1940-10-06",
+      "epnum": "110",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ARTIE SHAW"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266335",
+      "date": "1940-10-13",
+      "epnum": "111",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RAY NOBLE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266398",
+      "date": "1940-10-20",
+      "epnum": "112",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "WOODY HERMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266180",
+      "date": "1940-10-27",
+      "epnum": "113",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "EDDIE DUCHIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266033",
+      "date": "1940-11-03",
+      "epnum": "114",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266342",
+      "date": "1940-11-10",
+      "epnum": "115",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RICHARD HIMBER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266374",
+      "date": "1940-11-17",
+      "epnum": "116",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED WEEMS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266293",
+      "date": "1940-11-24",
+      "epnum": "117",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "KAY KYSER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266192",
+      "date": "1940-12-01",
+      "epnum": "118",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FRANKIE MASTERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266166",
+      "date": "1940-12-08",
+      "epnum": "119",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CLYDE LUCAS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266368",
+      "date": "1940-12-15",
+      "epnum": "120",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED FIORITO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266299",
+      "date": "1940-12-22",
+      "epnum": "121",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LAWRENCE WELK"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266379",
+      "date": "1940-12-29",
+      "epnum": "122",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266114",
+      "date": "1941-01-05",
+      "epnum": "123",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "AL GOODMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266250",
+      "date": "1941-01-12",
+      "epnum": "124",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HENRY KING"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266338",
+      "date": "1941-01-19",
+      "epnum": "125",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RAYMOND PAIGE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266158",
+      "date": "1941-01-26",
+      "epnum": "126",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CHARLIE BARNETT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266325",
+      "date": "1941-02-02",
+      "epnum": "127",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Bonnie Baker"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266148",
+      "date": "1941-02-09",
+      "epnum": "128",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BOB STRONG"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266136",
+      "date": "1941-02-16",
+      "epnum": "129",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BENNY GOODMAN, HELEN FOREST"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266119",
+      "date": "1941-02-23",
+      "epnum": "130",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ALVINO REY, KING SISTERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266218",
+      "date": "1941-03-02",
+      "epnum": "131",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GENE KRUPA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266254",
+      "date": "1941-03-09",
+      "epnum": "132",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HORACE HEIDT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266232",
+      "date": "1941-03-16",
+      "epnum": "133",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GUS AMHEIM"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266146",
+      "date": "1941-03-23",
+      "epnum": "134",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BOB CROSBY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266318",
+      "date": "1941-03-30",
+      "epnum": "135",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "MATTY MELNECK"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266277",
+      "date": "1941-04-06",
+      "epnum": "136",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JIMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266176",
+      "date": "1941-04-13",
+      "epnum": "137",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "DON TURNER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266034",
+      "date": "1941-04-20",
+      "epnum": "138",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266268",
+      "date": "1941-04-27",
+      "epnum": "139",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JAN SAVITT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266404",
+      "date": "1941-05-04",
+      "epnum": "140",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "XAVIER CUGAT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266360",
+      "date": "1941-05-11",
+      "epnum": "141",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SHEP FIELDS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266363",
+      "date": "1941-05-18",
+      "epnum": "142",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SKINNY ENNIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266329",
+      "date": "1941-05-25",
+      "epnum": "143",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "PHIL HARRIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266197",
+      "date": "1941-06-01",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Freddie Martin"
+        },
+        {
+          "title": "The Freddy Martin Orch."
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bandwagon",
+          "name": "Bandwagon 41-06-01 (144) The Freddy Martin Orch..MP3",
+          "time": "956",
+          "size": "11477995"
+        }
+      ]
+    },
+    {
+      "ide": "266113",
+      "date": "1941-06-08",
+      "epnum": "145",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "AL DONAHUE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266171",
+      "date": "1941-06-15",
+      "epnum": "146",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "DICK JURGENS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266267",
+      "date": "1941-06-22",
+      "epnum": "147",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JAN GATHER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266175",
+      "date": "1941-06-29",
+      "epnum": "148",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Don Hudson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266035",
+      "date": "1941-07-06",
+      "epnum": "149",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266036",
+      "date": "1941-07-13",
+      "epnum": "150",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266037",
+      "date": "1941-07-20",
+      "epnum": "151",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266038",
+      "date": "1941-07-27",
+      "epnum": "152",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266039",
+      "date": "1941-08-03",
+      "epnum": "153",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266040",
+      "date": "1941-08-10",
+      "epnum": "154",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266041",
+      "date": "1941-08-17",
+      "epnum": "155",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266042",
+      "date": "1941-08-24",
+      "epnum": "156",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266043",
+      "date": "1941-08-31",
+      "epnum": "157",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266044",
+      "date": "1941-09-07",
+      "epnum": "158",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266045",
+      "date": "1941-09-14",
+      "epnum": "159",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266046",
+      "date": "1941-09-21",
+      "epnum": "160",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266127",
+      "date": "1941-09-28",
+      "epnum": "161",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BARNEY RAPP"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266181",
+      "date": "1941-10-05",
+      "epnum": "162",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "EDDIE DUCHIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266380",
+      "date": "1941-10-12",
+      "epnum": "163",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266242",
+      "date": "1941-10-19",
+      "epnum": "164",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HARRY JAMES"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266133",
+      "date": "1941-10-26",
+      "epnum": "165",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BENNY GOODMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266386",
+      "date": "1941-11-02",
+      "epnum": "166",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY TUCKER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266405",
+      "date": "1941-11-09",
+      "epnum": "167",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "XAVIER CUGAT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266303",
+      "date": "1941-11-16",
+      "epnum": "168",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266164",
+      "date": "1941-11-23",
+      "epnum": "169",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CLAUDE THORNHILL"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266294",
+      "date": "1941-11-30",
+      "epnum": "170",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "KAY KYSER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266255",
+      "date": "1941-12-07",
+      "epnum": "171",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "HORACE HEIDT"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fitch Bandwagon",
+          "name": "Fitch Bandwagon_41-12-07_Pearl Harbor.mp3",
+          "time": "1756",
+          "size": "14045321"
+        }
+      ]
+    },
+    {
+      "ide": "266124",
+      "date": "1941-12-14",
+      "epnum": "172",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ART KASSEL"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266229",
+      "date": "1941-12-21",
+      "epnum": "173",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GRIFF WILLIAMS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266389",
+      "date": "1941-12-28",
+      "epnum": "174",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TONY PASTOR"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266160",
+      "date": "1942-01-04",
+      "epnum": "175",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CHARLIE SPIVAK"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266117",
+      "date": "1942-01-11",
+      "epnum": "176",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ALVINO REY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266219",
+      "date": "1942-01-18",
+      "epnum": "177",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GENE KRUPA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266198",
+      "date": "1942-01-25",
+      "epnum": "178",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266152",
+      "date": "1942-02-01",
+      "epnum": "179",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CAB CALLAWAY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266324",
+      "date": "1942-02-08",
+      "epnum": "180",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ORRIN TUCKER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266269",
+      "date": "1942-02-15",
+      "epnum": "181",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JAN SAVITT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266349",
+      "date": "1942-02-22",
+      "epnum": "182",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RUSS MORGAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266361",
+      "date": "1942-03-01",
+      "epnum": "183",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SHEP FIELDS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266188",
+      "date": "1942-03-08",
+      "epnum": "184",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "EDWIN FRANKO GOLDMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266154",
+      "date": "1942-03-15",
+      "epnum": "185",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CARMEN CAVALLERO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266172",
+      "date": "1942-03-22",
+      "epnum": "186",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "DICK JURGENS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266193",
+      "date": "1942-03-29",
+      "epnum": "187",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FRANKIE MASTERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266278",
+      "date": "1942-04-05",
+      "epnum": "188",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JIMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266283",
+      "date": "1942-04-12",
+      "epnum": "189",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JOE REICHMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266399",
+      "date": "1942-04-19",
+      "epnum": "190",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "WOODY HERMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266047",
+      "date": "1942-04-26",
+      "epnum": "191",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266330",
+      "date": "1942-05-03",
+      "epnum": "192",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "PHIL HARRIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266354",
+      "date": "1942-05-10",
+      "epnum": "193",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SAMMY KAYE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266246",
+      "date": "1942-05-17",
+      "epnum": "194",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HARRY OWENS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266147",
+      "date": "1942-05-24",
+      "epnum": "195",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BOB CROSBY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266182",
+      "date": "1942-05-31",
+      "epnum": "196",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "EDDIE HOWARD"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266225",
+      "date": "1942-06-07",
+      "epnum": "197",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GLEN GRAY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266364",
+      "date": "1942-06-14",
+      "epnum": "198",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SKINNY ENNIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266375",
+      "date": "1942-06-21",
+      "epnum": "199",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED WEEMS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266339",
+      "date": "1942-06-28",
+      "epnum": "200",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RAYMOND SCOTT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266048",
+      "date": "1942-07-05",
+      "epnum": "201",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266049",
+      "date": "1942-07-12",
+      "epnum": "202",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266050",
+      "date": "1942-07-19",
+      "epnum": "203",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266051",
+      "date": "1942-07-27",
+      "epnum": "204",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266052",
+      "date": "1942-08-02",
+      "epnum": "205",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266053",
+      "date": "1942-08-09",
+      "epnum": "206",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266054",
+      "date": "1942-08-16",
+      "epnum": "207",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266055",
+      "date": "1942-08-23",
+      "epnum": "208",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266056",
+      "date": "1942-08-30",
+      "epnum": "209",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266057",
+      "date": "1942-09-06",
+      "epnum": "210",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266058",
+      "date": "1942-09-13",
+      "epnum": "211",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266059",
+      "date": "1942-09-20",
+      "epnum": "212",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266060",
+      "date": "1942-09-27",
+      "epnum": "213",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266295",
+      "date": "1942-10-04",
+      "epnum": "214",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "KAY KYSER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266287",
+      "date": "1942-10-11",
+      "epnum": "215",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JOHN SCOTT TROTTER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266199",
+      "date": "1942-10-18",
+      "epnum": "216",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266347",
+      "date": "1942-10-25",
+      "epnum": "217",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RUDY VALLEE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266284",
+      "date": "1942-11-01",
+      "epnum": "218",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JOE REICHMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266222",
+      "date": "1942-11-08",
+      "epnum": "219",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GEORGE OLSEN, TOBY REED"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266279",
+      "date": "1942-11-15",
+      "epnum": "220",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JIMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266122",
+      "date": "1942-11-22",
+      "epnum": "221",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ART JARRETT, JERRY SULLIVAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266120",
+      "date": "1942-11-29",
+      "epnum": "222",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ALVINO REY, KING SISTERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266235",
+      "date": "1942-12-06",
+      "epnum": "223",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GUY LOMBARDO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266376",
+      "date": "1942-12-13",
+      "epnum": "224",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED WEEMS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266231",
+      "date": "1942-12-20",
+      "epnum": "225",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest: Seventeen-year-old Mel Torme"
+        },
+        {
+          "title": "w The Chico Marx Orchestra"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bandwagon",
+          "name": "Bandwagon 42-12-20 w The Chico Marx Orchestra.Mp3",
+          "time": "1739",
+          "size": "6955363"
+        },
+        {
+          "path": "F",
+          "folder": "Fitch Bandwagon",
+          "name": "Fitch Bandwagon_42-12-20_W Chico Marx Orchestra.mp3",
+          "time": "1739",
+          "size": "13911783"
+        }
+      ]
+    },
+    {
+      "ide": "266230",
+      "date": "1942-12-27",
+      "epnum": "226",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GRIFF WILLIAMS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266355",
+      "date": "1943-01-03",
+      "epnum": "227",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "SAMMY KAYE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266387",
+      "date": "1943-01-10",
+      "epnum": "228",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY TUCKER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266173",
+      "date": "1943-01-17",
+      "epnum": "229",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "DICK JURGENS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266061",
+      "date": "1943-01-24",
+      "epnum": "230",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266350",
+      "date": "1943-01-31",
+      "epnum": "231",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RUSS MORGAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266140",
+      "date": "1943-02-07",
+      "epnum": "232",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BLUE BARRON"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266343",
+      "date": "1943-02-14",
+      "epnum": "233",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RICHARD HIMBER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266369",
+      "date": "1943-02-15",
+      "epnum": "236",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED FIORITO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266291",
+      "date": "1943-02-21",
+      "epnum": "234",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JOHNNY LONG"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266406",
+      "date": "1943-02-28",
+      "epnum": "235",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "XAVIER CUGAT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266370",
+      "date": "1943-03-07",
+      "epnum": "236",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED FIORITO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266304",
+      "date": "1943-03-14",
+      "epnum": "237",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266270",
+      "date": "1943-03-21",
+      "epnum": "238",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JAN SAVITT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266161",
+      "date": "1943-03-28",
+      "epnum": "239",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CHARLIE SPIVAK"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266157",
+      "date": "1943-04-04",
+      "epnum": "240",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Carmen Cavallero"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266393",
+      "date": "1943-04-11",
+      "epnum": "241",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "VAUGHN MONROE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266319",
+      "date": "1943-04-18",
+      "epnum": "242",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Merle Evens"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266111",
+      "date": "1943-04-25",
+      "epnum": "243",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ABE LYMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266377",
+      "date": "1943-05-02",
+      "epnum": "244",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TEDDY POWELL"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266183",
+      "date": "1943-05-09",
+      "epnum": "245",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "EDDIE HOWARD"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266381",
+      "date": "1943-05-16",
+      "epnum": "246",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266274",
+      "date": "1943-05-23",
+      "epnum": "247",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JERRY WALD"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266177",
+      "date": "1943-05-30",
+      "epnum": "248",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Duke Ellington, 1st Song - 'Canteen Bounce'"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fitch Bandwagon",
+          "name": "Fitch Bandwagon 430530 248 Guest - Duke Ellington, 1st Song - 'Canteen Bounce' (256-44)_OTRRPG.mp3",
+          "time": "1286",
+          "size": "41171019"
+        },
+        {
+          "path": "F",
+          "folder": "Fitch Bandwagon",
+          "name": "Fitch Bandwagon 430530 Guest - Duke Ellington, 1st Song - 'Canteen Bounce' (192-44)_OTRRPG.mp3",
+          "time": "1286",
+          "size": "30910376"
+        },
+        {
+          "path": "F",
+          "folder": "Fitch Bandwagon",
+          "name": "Fitch Bandwagon 43-05-30 Guest - Duke Ellington, 1st Song 'Canteen Bounce.mp3",
+          "time": "1280",
+          "size": "10241641"
+        }
+      ]
+    },
+    {
+      "ide": "266256",
+      "date": "1943-06-06",
+      "epnum": "249",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HORACE HEIDT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266400",
+      "date": "1943-06-13",
+      "epnum": "250",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "WOODY HERMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266336",
+      "date": "1943-06-20",
+      "epnum": "251",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RAY NOBLE, HARRY OWENS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266200",
+      "date": "1943-06-27",
+      "epnum": "252",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266201",
+      "date": "1943-07-04",
+      "epnum": "253",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266202",
+      "date": "1943-07-11",
+      "epnum": "254",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266203",
+      "date": "1943-07-18",
+      "epnum": "255",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266204",
+      "date": "1943-07-25",
+      "epnum": "256",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266205",
+      "date": "1943-08-01",
+      "epnum": "257",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266206",
+      "date": "1943-08-08",
+      "epnum": "258",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266207",
+      "date": "1943-08-15",
+      "epnum": "259",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266208",
+      "date": "1943-08-22",
+      "epnum": "260",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266209",
+      "date": "1943-08-29",
+      "epnum": "261",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266316",
+      "date": "1943-09-05",
+      "epnum": "262",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mack Grodon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266236",
+      "date": "1943-09-12",
+      "epnum": "263",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GUY LOMBARDO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266331",
+      "date": "1943-09-19",
+      "epnum": "264",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "PHIL HARRIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266118",
+      "date": "1943-09-26",
+      "epnum": "265",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "ALVINO REY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266194",
+      "date": "1943-10-03",
+      "epnum": "266",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "FRANKIE MASTERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266407",
+      "date": "1943-10-07",
+      "epnum": "267",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "XAVIER CUGAT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266327",
+      "date": "1943-10-17",
+      "epnum": "268",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "OZZIE NELSON"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266143",
+      "date": "1943-10-24",
+      "epnum": "269",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BOB CHESTER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266249",
+      "date": "1943-10-31",
+      "epnum": "270",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HENRY BUSSE"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266296",
+      "date": "1943-11-07",
+      "epnum": "271",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "KAY KYSER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266280",
+      "date": "1943-11-14",
+      "epnum": "272",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JIMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266285",
+      "date": "1943-11-21",
+      "epnum": "273",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JOE REICHMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266317",
+      "date": "1943-11-28",
+      "epnum": "274",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Matty Melneck"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266257",
+      "date": "1943-12-05",
+      "epnum": "275",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HORACE HEIDT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266305",
+      "date": "1943-12-12",
+      "epnum": "276",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266210",
+      "date": "1943-12-19",
+      "epnum": "277",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266365",
+      "date": "1943-12-26",
+      "epnum": "278",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "STAN KENTON"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266266",
+      "date": "1944-01-02",
+      "epnum": "279",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JAN GARBER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266397",
+      "date": "1944-01-09",
+      "epnum": "280",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "VINCENT LOPEZ"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266155",
+      "date": "1944-01-16",
+      "epnum": "281",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CARMEN CAVALLERO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266159",
+      "date": "1944-01-23",
+      "epnum": "282",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CHARLIE BARNETT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266302",
+      "date": "1944-01-30",
+      "epnum": "283",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "LEO REISMAN ORCHESTRA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266186",
+      "date": "1944-02-06",
+      "epnum": "284",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "EDDY OLIVER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266162",
+      "date": "1944-02-13",
+      "epnum": "285",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CHARLIE SPIVAK"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266271",
+      "date": "1944-02-20",
+      "epnum": "286",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "JAN SAVITT AND HIS ORCHESTRA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266121",
+      "date": "1944-02-27",
+      "epnum": "287",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ANDREW SISTERS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266351",
+      "date": "1944-03-05",
+      "epnum": "288",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RUSS MORGAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266394",
+      "date": "1944-03-12",
+      "epnum": "289",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vaugh Monroe, Hazel Scott"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266137",
+      "date": "1944-03-19",
+      "epnum": "290",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BERNIE CUMMINS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266371",
+      "date": "1944-03-26",
+      "epnum": "291",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED FIORITO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266263",
+      "date": "1944-04-02",
+      "epnum": "292",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "JACK MILLER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266062",
+      "date": "1944-04-09",
+      "epnum": "293",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266115",
+      "date": "1944-04-16",
+      "epnum": "294",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ALEX STORDAHL"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266382",
+      "date": "1944-04-23",
+      "epnum": "295",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266408",
+      "date": "1944-04-30",
+      "epnum": "296",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "XAVIER CUGAT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266184",
+      "date": "1944-05-07",
+      "epnum": "297",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "EDDY HOWARD"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266390",
+      "date": "1944-05-14",
+      "epnum": "298",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TONY PASTOR"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266306",
+      "date": "1944-05-21",
+      "epnum": "299",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266116",
+      "date": "1944-05-28",
+      "epnum": "300",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ALLEN ROTH"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266243",
+      "date": "1944-06-04",
+      "epnum": "301",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HARRY JAMES"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266300",
+      "date": "1944-06-11",
+      "epnum": "302",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LAWRENCE WELK"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266401",
+      "date": "1944-06-18",
+      "epnum": "303",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "WOODY HERMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266388",
+      "date": "1944-06-25",
+      "epnum": "304",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY TUCKER"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266307",
+      "date": "1944-07-02",
+      "epnum": "305",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266308",
+      "date": "1944-07-09",
+      "epnum": "306",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266309",
+      "date": "1944-07-16",
+      "epnum": "307",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266310",
+      "date": "1944-07-23",
+      "epnum": "308",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266311",
+      "date": "1944-07-30",
+      "epnum": "309",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266312",
+      "date": "1944-08-06",
+      "epnum": "310",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266313",
+      "date": "1944-08-13",
+      "epnum": "311",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266314",
+      "date": "1944-08-20",
+      "epnum": "312",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "LES BROWN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266320",
+      "date": "1944-08-30",
+      "epnum": "313",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mitchel Ayers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266063",
+      "date": "1944-09-03",
+      "epnum": "314",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266064",
+      "date": "1944-09-10",
+      "epnum": "315",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266244",
+      "date": "1944-09-17",
+      "epnum": "316",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HARRY JAMES"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266134",
+      "date": "1944-09-24",
+      "epnum": "317",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "BENNY GOODMAN"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fitch Bandwagon",
+          "name": "Fitch Bandwagon_44-09-24_Dick Powell-Benny Goodman.mp3",
+          "time": "1894",
+          "size": "15153540"
+        }
+      ]
+    },
+    {
+      "ide": "266211",
+      "date": "1944-10-01",
+      "epnum": "318",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266383",
+      "date": "1944-10-08",
+      "epnum": "319",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266065",
+      "date": "1944-10-15",
+      "epnum": "320",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266409",
+      "date": "1944-10-22",
+      "epnum": "321",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "XAVIER CUGAT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266372",
+      "date": "1944-10-29",
+      "epnum": "322",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TED LEWIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266214",
+      "date": "1944-11-05",
+      "epnum": "323",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Freddie Martin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266258",
+      "date": "1944-11-12",
+      "epnum": "324",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HORACE HEIDT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266410",
+      "date": "1944-11-19",
+      "epnum": "325",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "XAVIER CUGAT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266384",
+      "date": "1944-11-26",
+      "epnum": "326",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TOMMY DORSEY"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266066",
+      "date": "1944-12-03",
+      "epnum": "327",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Xavier Cugat"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fitch Bandwagon",
+          "name": "Fitch Bandwagon 441203 327 {AFRS 130} Xavier Cugat (256-44)_OTRRPG.mp3",
+          "time": "913",
+          "size": "29238284"
+        }
+      ]
+    },
+    {
+      "ide": "266067",
+      "date": "1944-12-10",
+      "epnum": "328",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266068",
+      "date": "1944-12-17",
+      "epnum": "329",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266069",
+      "date": "1944-12-24",
+      "epnum": "330",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266070",
+      "date": "1944-12-31",
+      "epnum": "331",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266220",
+      "date": "1945-01-07",
+      "epnum": "332",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GENE KRUPA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266332",
+      "date": "1945-01-14",
+      "epnum": "333",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "PHIL HARRIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266259",
+      "date": "1945-01-21",
+      "epnum": "334",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "HORACE HEIDT"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266071",
+      "date": "1945-01-28",
+      "epnum": "335",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266072",
+      "date": "1945-02-04",
+      "epnum": "336",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266333",
+      "date": "1945-02-11",
+      "epnum": "337",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "PHIL HARRIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266073",
+      "date": "1945-02-18",
+      "epnum": "338",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266237",
+      "date": "1945-02-25",
+      "epnum": "339",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GUY LOMBARDO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266074",
+      "date": "1945-03-04",
+      "epnum": "340",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266135",
+      "date": "1945-03-11",
+      "epnum": "341",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "BENNY GOODMAN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266075",
+      "date": "1945-03-18",
+      "epnum": "342",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266221",
+      "date": "1945-03-25",
+      "epnum": "343",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "GENE KRUPA"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266212",
+      "date": "1945-04-01",
+      "epnum": "344",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266126",
+      "date": "1945-04-08",
+      "epnum": "345",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "ARTIE SHAW"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266076",
+      "date": "1945-04-15",
+      "epnum": "346",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266077",
+      "date": "1945-04-22",
+      "epnum": "347",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266156",
+      "date": "1945-04-29",
+      "epnum": "348",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "CARMEN CAVALLERO"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266174",
+      "date": "1945-05-06",
+      "epnum": "349",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "DICK POWELL, FRANKIE CARL"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266078",
+      "date": "1945-05-13",
+      "epnum": "350",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266079",
+      "date": "1945-05-20",
+      "epnum": "351",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266334",
+      "date": "1945-05-27",
+      "epnum": "352",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "PHIL HARRIS"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266080",
+      "date": "1945-06-03",
+      "epnum": "353",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266081",
+      "date": "1945-06-10",
+      "epnum": "354",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266082",
+      "date": "1945-06-17",
+      "epnum": "355",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266083",
+      "date": "1945-06-24",
+      "epnum": "356",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266084",
+      "date": "1945-07-01",
+      "epnum": "357",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266085",
+      "date": "1945-07-08",
+      "epnum": "358",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266086",
+      "date": "1945-07-15",
+      "epnum": "359",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266087",
+      "date": "1945-07-22",
+      "epnum": "360",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266088",
+      "date": "1945-07-29",
+      "epnum": "361",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266089",
+      "date": "1945-08-05",
+      "epnum": "362",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266090",
+      "date": "1945-08-12",
+      "epnum": "363",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266091",
+      "date": "1945-08-19",
+      "epnum": "364",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266092",
+      "date": "1945-08-26",
+      "epnum": "365",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266093",
+      "date": "1945-09-02",
+      "epnum": "366",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266094",
+      "date": "1945-09-09",
+      "epnum": "367",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266095",
+      "date": "1945-09-16",
+      "epnum": "368",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266213",
+      "date": "1945-09-23",
+      "epnum": "369",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "FREDDIE MARTIN"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266096",
+      "date": "1945-09-30",
+      "epnum": "370",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266097",
+      "date": "1945-10-07",
+      "epnum": "371",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266098",
+      "date": "1945-10-14",
+      "epnum": "372",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266226",
+      "date": "1945-10-21",
+      "epnum": "373",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "GLEN GRAY"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fitch Bandwagon",
+          "name": "Fitch Bandwagon_45-10-21_W Glenn Gray.mp3",
+          "time": "1696",
+          "size": "13568848"
+        }
+      ]
+    },
+    {
+      "ide": "266099",
+      "date": "1945-10-28",
+      "epnum": "374",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266100",
+      "date": "1945-11-04",
+      "epnum": "375",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266101",
+      "date": "1945-11-11",
+      "epnum": "376",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266102",
+      "date": "1945-11-18",
+      "epnum": "377",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266103",
+      "date": "1945-11-25",
+      "epnum": "378",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266104",
+      "date": "1945-12-02",
+      "epnum": "379",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266105",
+      "date": "1945-12-09",
+      "epnum": "380",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266106",
+      "date": "1945-12-16",
+      "epnum": "381",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266107",
+      "date": "1945-12-23",
+      "epnum": "382",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266108",
+      "date": "1945-12-30",
+      "epnum": "383",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Sitcom"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-09-04",
+      "dow": "Su",
+      "time": "7:30 PM",
+      "end": "1945-06-17",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1943-09-08",
+      "dow": "W",
+      "time": "9:00 PM",
+      "end": "1943-12-29",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-09-23",
+      "dow": "Su",
+      "time": "7:30 PM",
+      "end": "1946-06-16",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1946-09-29",
+      "dow": "Su",
+      "time": "7:30 PM",
+      "end": "1948-05-23",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1945-09-23",
+      "dow": "Su",
+      "time": "7:30 PM",
+      "end": "1946-06-16",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1946-09-29",
+      "dow": "Su",
+      "time": "7:30 PM",
+      "end": "1948-05-23",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Fitch Bandwagon, The"
+    },
+    {
+      "title": "Bandwagon"
+    },
+    {
+      "title": "AFRS Bandwagon"
+    },
+    {
+      "title": "The New Fitch Bandwagon"
+    },
+    {
+      "title": "The New Bandwagon"
+    },
+    {
+      "title": "Fitch Bandwagon"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3160",
+      "first": "Hal",
+      "last": "Kemp",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "7673",
+      "first": "Harry",
+      "last": "Sosnik",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "31361",
+      "first": "William",
+      "last": "Miller",
+      "f": "Noted Role",
+      "character": "Tenor"
+    },
+    {
+      "idperson": "49086",
+      "first": "Harriet",
+      "last": "Cruise",
+      "f": "Noted Role",
+      "character": "Soprano"
+    },
+    {
+      "idperson": "49087",
+      "first": "Josephine",
+      "last": "Haynes",
+      "f": "Noted Role",
+      "character": "Soprano"
+    },
+    {
+      "idperson": "49088",
+      "first": "Karolyn",
+      "last": "Harris",
+      "f": "Noted Role",
+      "character": "contralto"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1932-02-13",
+      "dow": "Su",
+      "time": "8:00 PM",
+      "end": "1933-02-19",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1932-04-00",
+      "dow": "",
+      "time": "",
+      "end": "1933-04-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Pennzoil",
+      "begin": "1932-02-14",
+      "end": "1933-02-18"
+    },
+    {
+      "sponsor": "Pennzoil",
+      "begin": "1932-04-00",
+      "end": "1933-04-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Parade of Melodies"
+    }
+  ]
+}

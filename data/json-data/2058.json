@@ -1,0 +1,237 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrr.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/C Series/Cass County Boys",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Cass%20Dailey%20Show,%20The/",
+      "label": "Library Files",
+      "idtype": "16"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1391",
+      "first": "Cass",
+      "last": "Daley",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "7406",
+      "first": "Fred",
+      "last": "Howard",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3860",
+      "first": "Freddy",
+      "last": "Martin",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5192",
+      "first": "Henry",
+      "last": "Russell",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5987",
+      "first": "Francis 'Dink'",
+      "last": "Trout",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6016",
+      "first": "Lurene",
+      "last": "Tuttle",
+      "f": "Noted Role",
+      "character": "Cass Daley's mother"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "1099",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1970-01-01",
+      "source": "Misc/Don_Maris_Flyer_(01)_70.pdf",
+      "idpytype2": "4",
+      "title": "Don Maris Flyer (01) 1970",
+      "author": ""
+    },
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Moonlight Of The Sunset Trail"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "317893",
+      "date": "1944-08-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cass Dailey Show, The",
+          "name": "The Cass Daley Show 44-08-18.mp3",
+          "time": "1792",
+          "size": "14343359"
+        }
+      ]
+    },
+    {
+      "ide": "317896",
+      "date": "1950-01-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest-Basil Rathbone"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cass Dailey Show, The",
+          "name": "The Cass Daley Show 50-xx-xx Guest-Basil Rathbone.MP3",
+          "time": "1748",
+          "size": "6997830"
+        }
+      ]
+    },
+    {
+      "ide": "317894",
+      "date": "1950-07-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cass thinks father is a klepto"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cass Dailey Show, The",
+          "name": "The Cass Daley Show 50-07-27 Cass thinks father is a klepto.mp3",
+          "time": "1751",
+          "size": "17508490"
+        }
+      ]
+    },
+    {
+      "ide": "317895",
+      "date": "1950-08-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cass runs away"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cass Dailey Show, The",
+          "name": "The Cass Daley Show 50-08-03 Cass runs away.mp3",
+          "time": "1757",
+          "size": "17567882"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1945-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1945-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1950-09-30",
+      "dow": "Sa",
+      "time": "8:00 PM",
+      "end": "1950-11-11",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Cass Daley Show, The"
+    }
+  ]
+}

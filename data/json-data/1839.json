@@ -1,0 +1,633 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322172943-09d9aba2.jpg",
+      "label": "Cabin B-13",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Cabin-B-13.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-1839-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.audio-classics.com/lcabinb13.html",
+      "label": "Audio Classics?ÃÂÃ¢ÂÂÃÂÃÂ« Archive",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Cabin-B-13.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/c13.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logc1009.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Cabin%20B-13/",
+      "label": "Library Files",
+      "idtype": "16"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "973",
+      "first": "John Dickson",
+      "last": "Carr",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3167",
+      "first": "Merle",
+      "last": "Kendrick",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4283",
+      "first": "Arnold",
+      "last": "Moss",
+      "f": "Noted Role",
+      "character": "Dr, Fabian"
+    },
+    {
+      "idperson": "6112",
+      "first": "Lee",
+      "last": "Vines",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "409",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1992-05-01",
+      "source": "Hello Again/HA_V23_(03)_MayJun92.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 23 #03 May/Jun 1992",
+      "author": ""
+    },
+    {
+      "idprint": "612",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "1991-12-01",
+      "source": "Illustrated Press/IP_183.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #183 Dec 91",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Mystery presentations related by Dr. Fabian, a ship - physician who resides in Cabin B-13. -------------------------------------------------- Dr. Fabian, a ship's doctor who lived in Cabin B-13 on the world cruising luxury liner &quot Maurevania&quot . Dr. Fabian, the hero, told of mysteries, and occasionally solved them, on a cruise route from Southamptio along the coast of France and through the Mediterranean to the Near East."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "34931",
+      "date": "1948-07-05",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Razor In Fleet Street, A"
+        },
+        {
+          "title": "Bill and Brenda Leslie"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cabin B-13",
+          "name": "Cabin B-13 48-07-05 Bill And Brenda Leslie.mp3",
+          "time": "1769",
+          "size": "8847488"
+        }
+      ]
+    },
+    {
+      "ide": "34932",
+      "date": "1948-07-12",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Who Couldn't Be Photographed, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34933",
+      "date": "1948-07-19",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death Has Four Faces"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34934",
+      "date": "1948-07-26",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Blindfolded Knife Thrower, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34935",
+      "date": "1948-08-02",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Useless Coffin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34936",
+      "date": "1948-08-09",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Nine Black Reasons, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34937",
+      "date": "1948-08-16",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Count of Monte Carlo, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34938",
+      "date": "1948-08-23",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Below Suspicion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34939",
+      "date": "1948-08-31",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Power of Darkness, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34940",
+      "date": "1948-09-07",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Footprint in the Sky, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34941",
+      "date": "1948-09-14",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man with the Iron Chest, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34942",
+      "date": "1948-10-03",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Street of Seven Daggers, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34943",
+      "date": "1948-10-10",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dancer from Stamboul, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34944",
+      "date": "1948-10-17",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death in the Desert"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34945",
+      "date": "1948-10-24",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Island of Coffins, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34946",
+      "date": "1948-10-31",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Who Couldn't Be Photographed, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34947",
+      "date": "1948-11-07",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Most Respectable Murder, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34948",
+      "date": "1948-11-14",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curse of the Bronze Lamp, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34949",
+      "date": "1948-11-21",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lair of the Devil Fish, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34950",
+      "date": "1948-11-28",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dead Man's Knock, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34951",
+      "date": "1948-12-05",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man with Two Heads, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34952",
+      "date": "1948-12-12",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bride Vanishes, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cabin B-13",
+          "name": "Cabin B-13 48-12-12 The Bride Vanishes.mp3",
+          "time": "1770",
+          "size": "8851584"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "CabinB13JHMC",
+          "name": "Cabin B-13 481212 #22 The Bride Vanishes.mp3",
+          "time": "1727",
+          "size": "18185044"
+        }
+      ]
+    },
+    {
+      "ide": "34953",
+      "date": "1948-12-19",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Till Death Do Us Part"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34954",
+      "date": "1948-12-26",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sleep of Death, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cabin B-13",
+          "name": "Cabin B-13 48-12-26 The Sleep Of Death.mp3",
+          "time": "1647",
+          "size": "8235136"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "CabinB13JHMC",
+          "name": "Cabin B-13 481226 #24 The Sleep Of Death.mp3",
+          "time": "1730",
+          "size": "18040792"
+        }
+      ]
+    },
+    {
+      "ide": "34955",
+      "date": "1949-01-02",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dancer From Stamboul, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Anthology"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-07-05",
+      "dow": "M",
+      "time": "8:30 PM",
+      "end": "1949-01-02",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1948-08-31",
+      "dow": "Tu",
+      "time": "10:30 PM",
+      "end": "1948-09-30",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1948-10-03",
+      "dow": "Su",
+      "time": "8:30 PM",
+      "end": "1948-10-24",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1948-10-31",
+      "dow": "Su",
+      "time": "10:30 PM",
+      "end": "1949-01-02",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Cabin B-13"
+    }
+  ]
+}

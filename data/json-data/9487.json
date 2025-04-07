@@ -1,0 +1,117 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1572",
+      "first": "Bob",
+      "last": "Dixon",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "409",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1992-05-01",
+      "source": "Hello Again/HA_V23_(03)_MayJun92.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 23 #03 May/Jun 1992",
+      "author": ""
+    },
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "36",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "316069",
+      "date": "1947-06-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Item - Dan River Bed Sheets"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "What Am I Offered",
+          "name": "What Am I offered 470621 First Item - Dan River Bed Sheets_OTRRPG.mp3",
+          "time": "1794",
+          "size": "28786947"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1947-08-09",
+      "dow": "Sa",
+      "time": "",
+      "end": "1948-03-06",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1948-10-03",
+      "dow": "Sa",
+      "time": "",
+      "end": "1949-02-26",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "What Am I Offered?"
+    }
+  ]
+}

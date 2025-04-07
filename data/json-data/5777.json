@@ -1,0 +1,829 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "LIVE"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/L Series/Lives Of Great Men/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Lives-of-Great-Men.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Lives-of-Great-Men.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50371",
+      "first": "E. H.",
+      "last": "Griggs",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "152703",
+      "date": "1938-10-22",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Socrates -- Teacher and Martyr (NBC at 7:45pm)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152704",
+      "date": "1938-10-29",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aurelius -- and the Sunset of Rome"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152705",
+      "date": "1938-11-05",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Theodoric the Great -- the Defeated Dream"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 381105 xxx Theodoric The Great_OTRRPG.mp3",
+          "time": "907",
+          "size": "14598255"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 38-11-05 Theodoric the Great.mp3",
+          "time": "910",
+          "size": "7277628"
+        }
+      ]
+    },
+    {
+      "ide": "152706",
+      "date": "1938-11-12",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "St. Francis of Assisi -- Spiritual Awakening of the Middle Age"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 381112 xxx St Francis of Assissi_OTRRPG.mp3",
+          "time": "875",
+          "size": "14080823"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 38-11-12 St Francis of Assissi.mp3",
+          "time": "877",
+          "size": "7019122"
+        }
+      ]
+    },
+    {
+      "ide": "152707",
+      "date": "1938-11-19",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dante"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 381119 xxx Dante_OTRRPG.mp3",
+          "time": "867",
+          "size": "13946224"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 38-11-19 Dante.mp3",
+          "time": "869",
+          "size": "6951606"
+        }
+      ]
+    },
+    {
+      "ide": "152708",
+      "date": "1938-11-26",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Savanarola -- Moral Prophet of the Renaissance"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 381126 xxx Savaronola_OTRRPG.mp3",
+          "time": "860",
+          "size": "13836724"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 38-11-26 Savaronola.mp3",
+          "time": "862",
+          "size": "6897067"
+        }
+      ]
+    },
+    {
+      "ide": "152709",
+      "date": "1938-12-03",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Leonardo da Vinci"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 381203 xxx Leonard Da Vinci_OTRRPG.mp3",
+          "time": "846",
+          "size": "13617719"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 38-12-03 Leonard da Vinci.mp3",
+          "time": "848",
+          "size": "6787360"
+        }
+      ]
+    },
+    {
+      "ide": "152710",
+      "date": "1938-12-10",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Erasmus -- Humanism and the Reformation"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 381210 xxx Erasmus_OTRRPG.mp3",
+          "time": "865",
+          "size": "13916969"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 38-12-10 Erasmus.mp3",
+          "time": "867",
+          "size": "6936979"
+        }
+      ]
+    },
+    {
+      "ide": "152711",
+      "date": "1938-12-17",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Giordano Bruno -- The Martyr of Science"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 381217 xxx Gliordano Bruno_OTRRPG.mp3",
+          "time": "878",
+          "size": "14131390"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 38-12-17 Gliordano Bruno.mp3",
+          "time": "880",
+          "size": "7044193"
+        }
+      ]
+    },
+    {
+      "ide": "152712",
+      "date": "1938-12-24",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shakespeare"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 381224 xxx Shakespeare_OTRRPG.mp3",
+          "time": "844",
+          "size": "13580098"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 38-12-24 Shakespeare.mp3",
+          "time": "846",
+          "size": "6768547"
+        }
+      ]
+    },
+    {
+      "ide": "152713",
+      "date": "1938-12-31",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spinoza"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 381231 xxx Spinoza_OTRRPG.mp3",
+          "time": "849",
+          "size": "13662014"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 38-12-31 Spinoza.mp3",
+          "time": "851",
+          "size": "6809503"
+        }
+      ]
+    },
+    {
+      "ide": "152714",
+      "date": "1939-01-07",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Voltaire (show moves to 7:30pm)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152715",
+      "date": "1939-01-14",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Franklin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152716",
+      "date": "1939-01-21",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Goethe"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390121 xxx Goethe_OTRRPG.mp3",
+          "time": "844",
+          "size": "13587198"
+        }
+      ]
+    },
+    {
+      "ide": "152717",
+      "date": "1939-01-28",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Washington"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152718",
+      "date": "1939-02-04",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jefferson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152719",
+      "date": "1939-02-11",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pope Pius"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390211 xxx Jefferson_OTRRPG.mp3",
+          "time": "857",
+          "size": "13799107"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 39-02-11 Jefferson.mp3",
+          "time": "860",
+          "size": "6878259"
+        }
+      ]
+    },
+    {
+      "ide": "152720",
+      "date": "1939-02-18",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hamilton"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390218 xxx Hamilton_OTRRPG.mp3",
+          "time": "868",
+          "size": "13961274"
+        }
+      ]
+    },
+    {
+      "ide": "152721",
+      "date": "1939-02-25",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Victo Hugo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152722",
+      "date": "1939-03-04",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carlyle"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390304 xxx Carlyle_OTRRPG.mp3",
+          "time": "878",
+          "size": "14126785"
+        }
+      ]
+    },
+    {
+      "ide": "152723",
+      "date": "1939-03-11",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Emerson"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390311 xxx Emerson_OTRRPG.mp3",
+          "time": "861",
+          "size": "13856783"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 39-03-11 Emerson.mp3",
+          "time": "863",
+          "size": "6906887"
+        }
+      ]
+    },
+    {
+      "ide": "313997",
+      "date": "1939-03-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lee"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390316 xxx Lee_OTRRPG.mp3",
+          "time": "865",
+          "size": "13926578"
+        }
+      ]
+    },
+    {
+      "ide": "152724",
+      "date": "1939-03-18",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lee"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 39-03-16 Lee.mp3",
+          "time": "868",
+          "size": "6941992"
+        }
+      ]
+    },
+    {
+      "ide": "152725",
+      "date": "1939-03-25",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lincoln"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390325 xxx Lincoln_OTRRPG.mp3",
+          "time": "943",
+          "size": "15172519"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 39-03-25 Lincoln.mp3",
+          "time": "946",
+          "size": "7564964"
+        }
+      ]
+    },
+    {
+      "ide": "152726",
+      "date": "1939-04-01",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Browning"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390401 xxx Browning_OTRRPG.mp3",
+          "time": "897",
+          "size": "14432314"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 39-04-01 Browning.mp3",
+          "time": "899",
+          "size": "7194653"
+        }
+      ]
+    },
+    {
+      "ide": "152727",
+      "date": "1939-04-08",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tolstoy"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390408 xxx Tolstoy_OTRRPG.mp3",
+          "time": "878",
+          "size": "14121769"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 39-04-08 Tolstoy.mp3",
+          "time": "880",
+          "size": "7039589"
+        }
+      ]
+    },
+    {
+      "ide": "152728",
+      "date": "1939-04-15",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ibsen"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390415 xxx Ibsen_OTRRPG.mp3",
+          "time": "856",
+          "size": "13781130"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 39-04-15 Ibsen.mp3",
+          "time": "859",
+          "size": "6869068"
+        }
+      ]
+    },
+    {
+      "ide": "152729",
+      "date": "1939-04-22",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wilson"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390422 xxx Woodrow Wilson_OTRRPG.mp3",
+          "time": "877",
+          "size": "14105894"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 39-04-22 Woodrow Wilson.mp3",
+          "time": "879",
+          "size": "7031655"
+        }
+      ]
+    },
+    {
+      "ide": "152730",
+      "date": "1939-04-29",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kipling"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390429 xxx Rudyard Kipling_OTRRPG.mp3",
+          "time": "828",
+          "size": "13327237"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 39-04-29 Rudyard Kipling.mp3",
+          "time": "830",
+          "size": "6642118"
+        }
+      ]
+    },
+    {
+      "ide": "152731",
+      "date": "1939-05-06",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life of Pierre Loti"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390506 xxx Pierre Loti_OTRRPG.mp3",
+          "time": "846",
+          "size": "13618132"
+        },
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives Of Great Men 39-05-06 Pierre Loti.mp3",
+          "time": "848",
+          "size": "6787564"
+        }
+      ]
+    },
+    {
+      "ide": "152732",
+      "date": "1939-05-13",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yeats and Poetry of Ireland"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390513 030 Yeats And Poetry of Ireland_OTRRPG.mp3",
+          "time": "882",
+          "size": "14194514"
+        }
+      ]
+    },
+    {
+      "ide": "152733",
+      "date": "1939-05-20",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chesterton"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390520 031 Chesterton_OTRRPG.mp3",
+          "time": "871",
+          "size": "14013939"
+        }
+      ]
+    },
+    {
+      "ide": "152734",
+      "date": "1939-05-27",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life of Walt Whitman"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390527 032 Life of Walt Whitman_OTRRPG.mp3",
+          "time": "885",
+          "size": "14247170"
+        }
+      ]
+    },
+    {
+      "ide": "152735",
+      "date": "1939-06-03",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life of Edwin Markham"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives Of Great Men",
+          "name": "Lives of Great Men 390603 033 Life of Edwin Markham_OTRRPG.mp3",
+          "time": "845",
+          "size": "13592229"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-10-22",
+      "dow": "Sa",
+      "time": "7:30 PM",
+      "end": "1939-07-14",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Lives of Great Men"
+    }
+  ]
+}

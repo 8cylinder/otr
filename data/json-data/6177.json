@@ -1,0 +1,131 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2744",
+      "first": "Russ",
+      "last": "Hodges",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "39588",
+      "first": "Mel",
+      "last": "Allen",
+      "f": "Noted Role",
+      "character": "Sportscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314114",
+      "date": "1940-03-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "309816",
+      "date": "1949-03-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Dolly Stark"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mel Allen Sports",
+          "name": "Mel Allen Sports 490312 xxx Guest - Dolly Stark_OTRRPG.mp3",
+          "time": "692",
+          "size": "11087113"
+        },
+        {
+          "path": "M",
+          "folder": "Mel Allen Sports",
+          "name": "Mel Allen Sports 490312 xxx Guest - Dolly Stark.mp3",
+          "time": "689",
+          "size": "5512137"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sports"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-07-13",
+      "dow": "Tu,F",
+      "time": "6:15 PM",
+      "end": "1940-04-06",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1949-09-15",
+      "dow": "M,Tu,W,Th,F",
+      "time": "7:15 PM",
+      "end": "1949-08-30",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1949-00-00",
+      "dow": "Sa",
+      "time": "",
+      "end": "1950-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1953-08-31",
+      "dow": "M,Tu,W,Th,F,Sa",
+      "time": "6:15 PM",
+      "end": "1954-12-31",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1949-00-00",
+      "end": "1950-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Mel Allen"
+    }
+  ]
+}

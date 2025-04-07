@@ -1,0 +1,127 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2830",
+      "first": "Willie",
+      "last": "Howard",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3345",
+      "first": "Bert",
+      "last": "Lahr",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4318",
+      "first": "Ken",
+      "last": "Murray",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4318",
+      "first": "Ken",
+      "last": "Murray",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6401",
+      "first": "Ward",
+      "last": "Wilson",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1932-01-04",
+      "dow": "M,W,F",
+      "time": "6:30 PM",
+      "end": "1932-06-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1932-06-00",
+      "dow": "Th",
+      "time": "7:15 PM",
+      "end": "1932-12-30",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1933-01-04",
+      "dow": "W",
+      "time": "8:00 PM",
+      "end": "1933-12-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Royal Gelatin and Pudding",
+      "begin": "1932-01-04",
+      "end": "1933-12-27"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Royal Vagabond, The"
+    }
+  ]
+}

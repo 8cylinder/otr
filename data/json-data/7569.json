@@ -1,0 +1,111 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "47042",
+      "first": "Ralph",
+      "last": "Slater",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314708",
+      "date": "1945-10-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Ralph Slater Hypnotist",
+          "name": "Ralph Slater Hypnotist 451003_OTRRPG.mp3",
+          "time": "1770",
+          "size": "28407438"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Other"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-10-24",
+      "dow": "W",
+      "time": "10:00 PM",
+      "end": "1945-12-26",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Ralph Slater Show, The"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,765755,00.html",
+      "label": "1941-06-16: Fight Camps",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5007",
+      "first": "Blanche",
+      "last": "Ring",
+      "f": "Noted Role",
+      "character": "Ma Corbett"
+    },
+    {
+      "idperson": "3509",
+      "first": "Jerry",
+      "last": "Lesser",
+      "f": "Noted Role",
+      "character": "Brocco"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1941-06-08",
+      "dow": "Su",
+      "time": "7:00 PM",
+      "end": "1941-08-10",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Fight Camp"
+    }
+  ]
+}

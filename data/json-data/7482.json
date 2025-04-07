@@ -1,0 +1,176 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,813798,00.html",
+      "label": "1950-11-20: Editors' Choice",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,814817,00.html",
+      "label": "1951-04-30: Airborne Oscars",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-The-Quick-and-The-Dead.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Partial summer replacement for the Aldrich Family"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "2602",
+      "first": "Helen",
+      "last": "Hayes",
+      "f": "Noted Role",
+      "character": "Lise Meitner"
+    },
+    {
+      "idperson": "2794",
+      "first": "Bob",
+      "last": "Hope",
+      "f": "Noted Role",
+      "character": "Mr. Taxpayer"
+    },
+    {
+      "idperson": "3670",
+      "first": "Paul",
+      "last": "Lukas",
+      "f": "Noted Role",
+      "character": "Albert Einstein"
+    },
+    {
+      "idperson": "5988",
+      "first": "Robert",
+      "last": "Trout",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Documentary"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-07-06",
+      "dow": "Th",
+      "time": "8:00 PM",
+      "end": "1950-08-17",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1950-07-06",
+      "end": "1950-07-17"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Quick and the Dead, The"
+    }
+  ]
+}

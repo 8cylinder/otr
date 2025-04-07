@@ -1,0 +1,137 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3840",
+      "first": "Eddie",
+      "last": "Marr",
+      "f": "Noted Role",
+      "character": "Quizmaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312095",
+      "date": "1946-07-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Question; What Kind of Coffee is 'Cafe Au Lait'"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Win, Place Or Show",
+          "name": "Win, Place Or Show 460707 1st Question; What Kind of Coffee is 'Cafe Au Lait'.mp3",
+          "time": "1745",
+          "size": "13960735"
+        }
+      ]
+    },
+    {
+      "ide": "316087",
+      "date": "1946-10-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Guest - Mrs. Agnes Hamilton"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Win, Place Or Show",
+          "name": "Win, Place Or Show 461027 xxx First Guest - Mrs. Agnes Hamilton_OTRRPG.mp3",
+          "time": "1755",
+          "size": "28151854"
+        },
+        {
+          "path": "W",
+          "folder": "Win, Place Or Show",
+          "name": "Win, Place, Or Show 461027 xxx First Guest - Mrs. Agnes Hamilton (2)_OTRRPG.mp3",
+          "time": "1763",
+          "size": "28290625"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Win Place or Show 46-10-27 First Guest - Mrs. Agnes Hamilton.mp3",
+          "time": "1765",
+          "size": "14123466"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Game Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-08-27",
+      "dow": "M",
+      "time": "10:30 PM",
+      "end": "1945-10-01",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Win, Place or Show"
+    },
+    {
+      "title": "Win, Place and Show"
+    }
+  ]
+}

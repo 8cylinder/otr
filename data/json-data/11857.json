@@ -1,0 +1,97 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3517",
+      "first": "Sylvan",
+      "last": "Levin",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4616",
+      "first": "Ralph",
+      "last": "Paul",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "25141",
+      "first": "Hunt",
+      "last": "Stromberg, Jr.",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "48330",
+      "first": "Anna May",
+      "last": "Dickey",
+      "f": "Noted Role",
+      "character": "Co-Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "310953",
+      "date": "1947-09-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lily Ann Carroll, The Three Flames"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Scout About Town",
+          "name": "Scout About Town 47-09-03 Lily Ann Carroll, The Three Flames.mp3",
+          "time": "1751",
+          "size": "7004392"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1946-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Scout About Town"
+    }
+  ]
+}

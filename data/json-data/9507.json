@@ -1,0 +1,127 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "934",
+      "first": "Candy",
+      "last": "Candido",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4057",
+      "first": "Don",
+      "last": "McNeill",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4498",
+      "first": "Nelson",
+      "last": "Olmsted",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "15345",
+      "first": "Ted",
+      "last": "Fio Rito",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "50191",
+      "first": "Imogene",
+      "last": "Wolcott",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "330035",
+      "date": "1941-04-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st And the Band Played On. Host, Nelson Olmsted"
+        }
+      ],
+      "files": [
+        {
+          "path": "V",
+          "folder": "Voice Of The Army",
+          "name": "Voice of the Army 0464 49xxxx Operation Citizenship, with HV Kaltenborn (192-44).mp3",
+          "time": "889",
+          "size": "21422376"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Audience Participation"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-10-26",
+      "dow": "M,W,F",
+      "time": "11:45 AM",
+      "end": "1945-10-05",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1941-03-02",
+      "dow": "Su",
+      "time": "6:30 PM",
+      "end": "1941-05-04",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Mars, Inc. (Milky Way Candy Bars)",
+      "begin": "1941-03-02",
+      "end": "1941-05-04"
+    },
+    {
+      "sponsor": "Mott's Foods",
+      "begin": "1943-10-26",
+      "end": "1945-10-05"
+    }
+  ],
+  "titles": [
+    {
+      "title": "What's Your Idea?"
+    },
+    {
+      "title": "Imogene Wolcott"
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "RAAC"
+    },
+    {
+      "code": "RADA"
+    }
+  ],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50778",
+      "first": "Angus",
+      "last": "Deaton",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "120401",
+      "date": "1980-04-08",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oxford Review, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120402",
+      "date": "1981-09-08",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Late Show - Mike Channel, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120403",
+      "date": "1981-09-15",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bedrock - The Early Morning Breakfast Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120404",
+      "date": "1981-09-22",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Midday Show - Anna Daptor"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120405",
+      "date": "1981-09-29",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Radio Active Roadshow, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120406",
+      "date": "1981-10-06",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What's News"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120407",
+      "date": "1981-10-13",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mike Stand Show - Radio Active Awards, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120408",
+      "date": "1981-12-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hee Bee Jee Bees Story, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120409",
+      "date": "1982-08-16",
+      "epnum": "201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "History of Radio Active, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120410",
+      "date": "1982-08-23",
+      "epnum": "202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Charity Radiothon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120411",
+      "date": "1982-08-30",
+      "epnum": "203",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good Day Sport"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120412",
+      "date": "1982-09-06",
+      "epnum": "204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What's Going On"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120413",
+      "date": "1982-09-13",
+      "epnum": "205",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nigel Pry Show, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120414",
+      "date": "1982-09-20",
+      "epnum": "206",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pick of the Week"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120415",
+      "date": "1983-07-12",
+      "epnum": "301",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Euroshow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120416",
+      "date": "1983-07-19",
+      "epnum": "302",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Probe Goes Round the Back"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120417",
+      "date": "1983-07-26",
+      "epnum": "303",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Funday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120418",
+      "date": "1983-08-02",
+      "epnum": "304",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Repeat After Three"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120419",
+      "date": "1983-08-09",
+      "epnum": "305",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lunchtime With Anna"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120420",
+      "date": "1983-08-16",
+      "epnum": "306",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What's Going On at the Edinburgh Festival"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120421",
+      "date": "1983-12-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Radio Active's Christmas Turkey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120422",
+      "date": "1984-07-09",
+      "epnum": "401",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Salute to New York"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120423",
+      "date": "1984-07-16",
+      "epnum": "402",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Martin Brown Show, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120424",
+      "date": "1984-07-23",
+      "epnum": "403",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Round Your Parts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120425",
+      "date": "1984-07-30",
+      "epnum": "404",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Breakfast Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120426",
+      "date": "1984-08-06",
+      "epnum": "405",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minorities Programme"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120427",
+      "date": "1984-08-13",
+      "epnum": "406",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bio Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120428",
+      "date": "1984-08-20",
+      "epnum": "407",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gigantaquiz"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120429",
+      "date": "1984-08-27",
+      "epnum": "408",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Martin Chizzlenutt"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120430",
+      "date": "1985-07-05",
+      "epnum": "501",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wimbledon Special"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120431",
+      "date": "1985-07-12",
+      "epnum": "502",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nuclear Debate"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120432",
+      "date": "1985-07-19",
+      "epnum": "503",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out of Your Depth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120433",
+      "date": "1985-07-26",
+      "epnum": "504",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In Australia"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120434",
+      "date": "1985-08-02",
+      "epnum": "505",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Get Away With You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120435",
+      "date": "1985-08-09",
+      "epnum": "506",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wey Hey It's Saturday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120436",
+      "date": "1985-08-16",
+      "epnum": "507",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music Festival"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120437",
+      "date": "1985-08-23",
+      "epnum": "508",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Did You Catch It"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120438",
+      "date": "1986-10-11",
+      "epnum": "601",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thodding By-Election Special, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120439",
+      "date": "1986-10-18",
+      "epnum": "602",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit and Fat Show, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120440",
+      "date": "1986-10-25",
+      "epnum": "603",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Radio Active's Bogie Awards"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120441",
+      "date": "1986-11-01",
+      "epnum": "604",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "D-Day Show, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120442",
+      "date": "1986-11-08",
+      "epnum": "605",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Radio Active Goes to the Movies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120443",
+      "date": "1986-11-15",
+      "epnum": "606",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stop That Crime UK"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120444",
+      "date": "1986-11-22",
+      "epnum": "607",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In House Documentary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120445",
+      "date": "1986-11-29",
+      "epnum": "608",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Backchat"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120446",
+      "date": "1987-08-29",
+      "epnum": "701",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Was twenty Years Ago Last Tuesday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120447",
+      "date": "1987-09-05",
+      "epnum": "702",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Radio Radio Programme"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120448",
+      "date": "1987-09-12",
+      "epnum": "703",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "God Alone Knows"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120449",
+      "date": "1987-09-19",
+      "epnum": "704",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Probe Round The Back"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120450",
+      "date": "1987-09-26",
+      "epnum": "705",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mike Says Heres's A Bit of Talent"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120451",
+      "date": "1987-10-03",
+      "epnum": "706",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flu Special"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120452",
+      "date": "1987-10-12",
+      "epnum": "707",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You and Your Things"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120453",
+      "date": "1987-10-19",
+      "epnum": "708",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mega Phone In"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120382",
+      "date": "1989-05-12",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pilot on Comic Asides"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120383",
+      "date": "1990-05-03",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Launch of KYTV, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120384",
+      "date": "1990-05-10",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Fight Special"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120385",
+      "date": "1990-05-17",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Green Show, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120386",
+      "date": "1990-05-24",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Those Wonderful War Years"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120387",
+      "date": "1990-05-31",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It's A Royal Wedding"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120388",
+      "date": "1990-06-07",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Challenge Anna"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120389",
+      "date": "1992-03-17",
+      "epnum": "201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "KY Telethon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120390",
+      "date": "1992-03-24",
+      "epnum": "202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "God Alone Knows"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120391",
+      "date": "1992-03-31",
+      "epnum": "203",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good Morning Calais"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120392",
+      "date": "1992-04-07",
+      "epnum": "204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crisis Special"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120393",
+      "date": "1992-04-14",
+      "epnum": "205",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Talking Head"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120394",
+      "date": "1992-04-21",
+      "epnum": "206",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Speak for Yourself"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "254515",
+      "date": "1993-09-17",
+      "epnum": "301",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Making of David Chizzlenut"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120396",
+      "date": "1993-09-24",
+      "epnum": "302",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Those Sextiting Sixties"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120397",
+      "date": "1993-10-01",
+      "epnum": "303",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fly on the Walls"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120398",
+      "date": "1993-10-08",
+      "epnum": "304",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "2000 'n' Whither"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120399",
+      "date": "1993-10-15",
+      "epnum": "305",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hot Crimes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "120400",
+      "date": "1993-10-22",
+      "epnum": "306",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Get Away With You"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1981-09-08",
+      "dow": "",
+      "time": "",
+      "end": "1987-10-17",
+      "length": "0",
+      "country": "United Kingdom",
+      "network": "BBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Radio Active - Kytv"
+    },
+    {
+      "title": "Radio Active"
+    }
+  ]
+}

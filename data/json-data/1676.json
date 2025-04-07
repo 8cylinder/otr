@@ -1,0 +1,125 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Breakfast With The Johnsons/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "316290",
+      "date": "1951-06-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Breakfast With The Johnsons",
+          "name": "Breakfast with the Johnsons 51-06-17.mp3",
+          "time": "913",
+          "size": "18254446"
+        }
+      ]
+    },
+    {
+      "ide": "34457",
+      "date": "1952-04-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good Friday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "262349",
+      "date": "1952-04-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rummage Sale, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34459",
+      "date": "1952-04-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Buying A Savings Bond"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Breakfast With The Johnsons",
+          "name": "Breakfast With The Johnsons 52-04-25 Buying A Savings Bond.mp3",
+          "time": "874",
+          "size": "4374510"
+        }
+      ]
+    },
+    {
+      "ide": "34460",
+      "date": "1952-05-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Weekend Slumber Party"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Breakfast With The Johnsons"
+    }
+  ]
+}

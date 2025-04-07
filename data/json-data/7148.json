@@ -1,0 +1,128 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "29843",
+      "first": "Paul",
+      "last": "Martin",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Jessomine"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-07-04",
+      "dow": "Su",
+      "time": "5:00 PM",
+      "end": "1937-09-19",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1937-09-26",
+      "dow": "",
+      "time": "10:00 PM",
+      "end": "1938-09-02",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1938-09-09",
+      "dow": "F",
+      "time": "9:00 PM",
+      "end": "1938-12-16",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1939-04-10",
+      "dow": "M",
+      "time": "8:00 PM",
+      "end": "1939-05-29",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1940-04-08",
+      "dow": "M",
+      "time": "10:00 PM",
+      "end": "1940-05-06",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1940-06-03",
+      "dow": "M",
+      "time": "9:30 PM",
+      "end": "1940-08-12",
+      "length": "25",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Paul Martin Orchestra"
+    }
+  ]
+}

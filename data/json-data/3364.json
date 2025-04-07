@@ -1,0 +1,514 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "ENCT"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322183703-7ec954ed.jpg",
+      "label": "Encore Theater CD",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322183705-92d0f624.jpg",
+      "label": "Encore Theater CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322183707-8acca617.jpg",
+      "label": "Encore Theater Jewel Case Front",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Encore-Theatre.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3364-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Encore-Theatre.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/eth.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loge1008.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,762479,00.html",
+      "label": "1939-08-21: Platters for the Pacific",
+      "idtype": "11"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/E Series/Encore Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "56590",
+      "date": "1946-06-04",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Magnificent Obsession"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-06-04_01_Magnificent_Obsession.mp3",
+          "time": "1786",
+          "size": "7143975"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-06-04 (01) Magnificent Obsession.mp3",
+          "time": "1786",
+          "size": "7145482"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "EncoreTheaterJHMC",
+          "name": "Encore Theater 460604 Magnificent Obsession.mp3",
+          "time": "1795",
+          "size": "24049558"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "EncoreTheaterJHMC",
+          "name": "Encore Theater 460604 Magnificent Obsession.mp3",
+          "time": "1795",
+          "size": "24049558"
+        }
+      ]
+    },
+    {
+      "ide": "56591",
+      "date": "1946-06-11",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life of Louis Pasteur, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-06-11_02_The_Life_of_Louis_Pasteur.mp3",
+          "time": "1780",
+          "size": "7121410"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-06-11 (02) The Life of Louis Pasteur.mp3",
+          "time": "1780",
+          "size": "7122954"
+        }
+      ]
+    },
+    {
+      "ide": "56592",
+      "date": "1946-06-18",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yellowjack"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-06-18_03_Yellowjack.mp3",
+          "time": "1772",
+          "size": "7087749"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-06-18 (03) Yellowjack.mp3",
+          "time": "1772",
+          "size": "14180510"
+        }
+      ]
+    },
+    {
+      "ide": "56593",
+      "date": "1946-06-25",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Light"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-06-25_04_Green_Light.mp3",
+          "time": "1775",
+          "size": "7100257"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-06-25 (04) Green Light.mp3",
+          "time": "1773",
+          "size": "14188702"
+        }
+      ]
+    },
+    {
+      "ide": "56594",
+      "date": "1946-07-02",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man in White, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-07-02_05_The_Man_in_White.mp3",
+          "time": "1795",
+          "size": "7181378"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 460702 (05) Men in White.mp3",
+          "time": "1792",
+          "size": "21509497"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-07-02 (05) The Man in White.mp3",
+          "time": "1795",
+          "size": "7182346"
+        }
+      ]
+    },
+    {
+      "ide": "56595",
+      "date": "1946-07-09",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "White Angel"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-07-09_06_White_Angel.mp3",
+          "time": "1793",
+          "size": "7170715"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-07-09 (06) White Angel.mp3",
+          "time": "1793",
+          "size": "7172106"
+        }
+      ]
+    },
+    {
+      "ide": "56596",
+      "date": "1946-07-16",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Now Voyager"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-07-16_07_Now_Voyager.mp3",
+          "time": "1796",
+          "size": "7183045"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-07-16 (07) Now Voyager.mp3",
+          "time": "1796",
+          "size": "7184720"
+        }
+      ]
+    },
+    {
+      "ide": "56597",
+      "date": "1946-07-23",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Ehrlich's Magic Bullet"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-07-23_08_Dr_Ehrlichs_Magic_Bullet.mp3",
+          "time": "1754",
+          "size": "7017965"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-07-23 (08) Dr Eurlich's Magic Bullet.mp3",
+          "time": "1754",
+          "size": "7018506"
+        }
+      ]
+    },
+    {
+      "ide": "56598",
+      "date": "1946-07-30",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dark Victory"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-07-30_09_Dark_Victory.mp3",
+          "time": "1763",
+          "size": "7052015"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-07-30 (09) Dark Victory.mp3",
+          "time": "1763",
+          "size": "7053322"
+        }
+      ]
+    },
+    {
+      "ide": "56599",
+      "date": "1946-08-06",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man to Remember, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-08-06_10_A_Man_to_Remember.mp3",
+          "time": "1742",
+          "size": "6969683"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-08-06 (10) A Man to Remember.mp3",
+          "time": "1742",
+          "size": "6971402"
+        }
+      ]
+    },
+    {
+      "ide": "56600",
+      "date": "1946-08-13",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prisoner of Shark Island, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-08-13_11_The_Prisoner_of_Shark_Island.mp3",
+          "time": "1730",
+          "size": "6921838"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-08-13 (11) The Prisoner of Shark Island.mp3",
+          "time": "944",
+          "size": "7551134"
+        }
+      ]
+    },
+    {
+      "ide": "56601",
+      "date": "1946-08-20",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nurse Edith Cavell"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-08-20_12_Nurse_Edith_Cavell.mp3",
+          "time": "1762",
+          "size": "7049515"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-08-20 (12) Nurse Edith Cavell.mp3",
+          "time": "1762",
+          "size": "7051182"
+        }
+      ]
+    },
+    {
+      "ide": "56602",
+      "date": "1946-08-27",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Disputed Passage"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Encore_Theater_Singles",
+          "name": "Encore_Theater_46-08-27_13_Disputed_Passage.mp3",
+          "time": "1814",
+          "size": "7255775"
+        },
+        {
+          "path": "E",
+          "folder": "Encore Theater",
+          "name": "Encore Theater 46-08-27 (13) Desputed Passage.mp3",
+          "time": "1786",
+          "size": "7143781"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Encore Theater"
+    },
+    {
+      "title": "Encore Theatre"
+    }
+  ]
+}

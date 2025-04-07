@@ -1,0 +1,863 @@
+{
+  "avail": [
+    {
+      "avail": "22",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "22",
+      "idprint": "2780",
+      "web": "",
+      "url": "0",
+      "source": "",
+      "idpytype": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323043702-e43af731.jpg",
+      "label": "Great Scenes From Great Plays CD",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323043711-bf5c3c2f.jpg",
+      "label": "Great Scenes From Great Plays CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323043721-686b9f72.jpg",
+      "label": "Great Scenes From Great Plays CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/GreatScenesfromGreatPlays",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-4264-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Great-Scenes-Great-Plays.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/G Series/Great Scenes From Great Plays/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Genre: dramatic anthology"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "1028",
+      "first": "Joan",
+      "last": "Caulfield",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2478",
+      "first": "Walter",
+      "last": "Hampden",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "2478",
+      "first": "Walter",
+      "last": "Hampden",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3096",
+      "first": "Boris",
+      "last": "Karloff",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "45478",
+      "first": "Nathan",
+      "last": "Kroll",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "317301",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Scenes from Great Plays"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "01 Great Scenes from Great Plays.mp3",
+          "time": "99.13",
+          "size": "2379992"
+        }
+      ]
+    },
+    {
+      "ide": "70277",
+      "date": "1948-10-01",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cyrano De Bergerac"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-10-01 (01) Cyrano De Bergerac.mp3",
+          "time": "1765",
+          "size": "14127134"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481001 001 Cyrano de Bergerac_OTRRPG.mp3",
+          "time": "1770",
+          "size": "28334029"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481002 001 Cyrano de Bergerac (no opening) (64-44)_OTRRPG.mp3",
+          "time": "1439",
+          "size": "11521582"
+        }
+      ]
+    },
+    {
+      "ide": "70278",
+      "date": "1948-10-08",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Corn Is Green, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-10-08 (02) The Corn Is Green.mp3",
+          "time": "1745",
+          "size": "13967390"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481008 002 The Corn Is Green_OTRRPG.mp3",
+          "time": "1750",
+          "size": "28011686"
+        }
+      ]
+    },
+    {
+      "ide": "70279",
+      "date": "1948-10-15",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Barretts Of Wimpole Street, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-10-15 (03) The Barretts Of Wimpole Street.mp3",
+          "time": "1767",
+          "size": "14139422"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481015 003 The Barretts of Wimpole Street_OTRRPG.mp3",
+          "time": "1776",
+          "size": "28438585"
+        }
+      ]
+    },
+    {
+      "ide": "70280",
+      "date": "1948-10-22",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dark Victory"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-10-22 (04) Dark Victory.mp3",
+          "time": "1735",
+          "size": "13887518"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481022 004 Dark Victory_OTRRPG.mp3",
+          "time": "1740",
+          "size": "27851548"
+        }
+      ]
+    },
+    {
+      "ide": "70281",
+      "date": "1948-10-29",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Borrowed Time"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-10-29 (05) On Borrowed Time.mp3",
+          "time": "1553",
+          "size": "6215317"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes from Great Plays 481029 005 On Borrowed Time {AFRS Bookshelf of the World #74} (32-22)_OTRRPG.mp3",
+          "time": "1553",
+          "size": "6268491"
+        }
+      ]
+    },
+    {
+      "ide": "70282",
+      "date": "1948-11-05",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Women"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-11-05 (06) Little Women.mp3",
+          "time": "1734",
+          "size": "13877278"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481105 006 Little Women_OTRRPG.mp3",
+          "time": "1739",
+          "size": "27831949"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481105 06 Little Women_OTRRPG.mp3",
+          "time": "1736",
+          "size": "27852887"
+        }
+      ]
+    },
+    {
+      "ide": "70283",
+      "date": "1948-11-12",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tale Of Two Cities, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-11-12 (07) A Tale Of Two Cities.mp3",
+          "time": "1738",
+          "size": "13912084"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481112 007 A Tale of Two Cities_OTRRPG.mp3",
+          "time": "1743",
+          "size": "27903689"
+        }
+      ]
+    },
+    {
+      "ide": "70284",
+      "date": "1948-11-19",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Enchanted Cottage, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-11-19 (08) The Enchanted Cottage.mp3",
+          "time": "1741",
+          "size": "13932564"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481119 008 The Enchanted Cottage_OTRRPG.mp3",
+          "time": "1746",
+          "size": "27942472"
+        }
+      ]
+    },
+    {
+      "ide": "70285",
+      "date": "1948-11-26",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Every Woman Knows"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-11-26 (09) What Every Woman Knows.mp3",
+          "time": "1747",
+          "size": "13979678"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481126 009 What Every Woman Knows_OTRRPG.mp3",
+          "time": "1751",
+          "size": "28036299"
+        }
+      ]
+    },
+    {
+      "ide": "70286",
+      "date": "1948-12-03",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Devil And Daniel Webster, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-12-03 (10) The Devil And Daniel Webster.mp3",
+          "time": "1735",
+          "size": "13883575"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481203 010 The Devil And Daniel Webster_OTRRPG.mp3",
+          "time": "1739",
+          "size": "27842823"
+        }
+      ]
+    },
+    {
+      "ide": "70287",
+      "date": "1948-12-10",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Lady Shows Her Medals, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-12-10 (11) The Old Lady Shows Her Medals.mp3",
+          "time": "1741",
+          "size": "13934602"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481210 011 The Old Lady Shows Her Medals_OTRRPG.mp3",
+          "time": "1746",
+          "size": "27947075"
+        }
+      ]
+    },
+    {
+      "ide": "70288",
+      "date": "1948-12-17",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Young Mr Lincoln"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-12-17 (12) Young Mr Lincoln.mp3",
+          "time": "1734",
+          "size": "13877278"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481217 012 Young Mr Lincoln (128-44)_OTRRPG.mp3",
+          "time": "1743",
+          "size": "27913624"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481217 12 Young Mr Lincoln (Henry Fonda) (128-48)_OTRRPG.mp3",
+          "time": "1761",
+          "size": "28259864"
+        }
+      ]
+    },
+    {
+      "ide": "70289",
+      "date": "1948-12-24",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story Of The Nativity, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "70290",
+      "date": "1948-12-31",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You and I"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 48-12-31 (14) You and I.mp3",
+          "time": "1755",
+          "size": "14049310"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481231 014 You and I_OTRRPG.mp3",
+          "time": "1760",
+          "size": "28175968"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 481231 14 You and I_OTRRPG.mp3",
+          "time": "1812",
+          "size": "29004794"
+        }
+      ]
+    },
+    {
+      "ide": "70291",
+      "date": "1949-01-07",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Citadel"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 49-01-07 (15) Citadel.mp3",
+          "time": "1723",
+          "size": "13791242"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490107 015 The Citadel_OTRRPG.mp3",
+          "time": "1748",
+          "size": "27978731"
+        }
+      ]
+    },
+    {
+      "ide": "70292",
+      "date": "1949-01-14",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Farmer Takes a Wife, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 49-01-14 (16) The Farmer Takes a Wife.mp3",
+          "time": "1808",
+          "size": "28936202"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490114 16 The Farmer Takes A Wife (2)_OTRRPG.mp3",
+          "time": "1802",
+          "size": "28979287"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490114 16 The Farmer Takes A Wife_OTRRPG.mp3",
+          "time": "1772",
+          "size": "28434269"
+        }
+      ]
+    },
+    {
+      "ide": "70293",
+      "date": "1949-01-21",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Icebound"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 49-01-21 (17) Icebound.mp3",
+          "time": "1740",
+          "size": "13928468"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490121 017 Icebound_OTRRPG.mp3",
+          "time": "1745",
+          "size": "27934523"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490121 17 Icebound_OTRRPG.mp3",
+          "time": "1760",
+          "size": "28236992"
+        }
+      ]
+    },
+    {
+      "ide": "70294",
+      "date": "1949-01-28",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Goose Hangs High, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 49-01-28 (18) The Goose Hangs High.mp3",
+          "time": "1743",
+          "size": "13948948"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490128 018 The Goose Hangs High_OTRRPG.mp3",
+          "time": "1748",
+          "size": "27975413"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490128 18 The Goose Hangs High (2)_OTRRPG.mp3",
+          "time": "1799",
+          "size": "28862677"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490128 18 The Goose Hangs High_OTRRPG.mp3",
+          "time": "1837",
+          "size": "29471225"
+        }
+      ]
+    },
+    {
+      "ide": "70295",
+      "date": "1949-02-04",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "World We Make, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 49-02-04 (19) The World We Make.mp3",
+          "time": "1735",
+          "size": "13885470"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490204 019 The World We Make_OTRRPG.mp3",
+          "time": "1740",
+          "size": "27849890"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490204 19 The World We Make_OTRRPG.mp3",
+          "time": "1756",
+          "size": "28176388"
+        }
+      ]
+    },
+    {
+      "ide": "70296",
+      "date": "1949-02-11",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead End"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 49-02-11 (20) Dead End.mp3",
+          "time": "1739",
+          "size": "13920286"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490211 020 Dead End_OTRRPG.mp3",
+          "time": "1744",
+          "size": "27919928"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490211 20 Dead End_OTRRPG.mp3",
+          "time": "1765",
+          "size": "28326017"
+        }
+      ]
+    },
+    {
+      "ide": "70297",
+      "date": "1949-02-18",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doll's House, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 49-02-18 (21) A Doll's House.mp3",
+          "time": "1755",
+          "size": "28090378"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490218 021 A Doll's House_OTRRPG.mp3",
+          "time": "1756",
+          "size": "28110092"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490218 21 A Doll's House_OTRRPG.mp3",
+          "time": "1753",
+          "size": "28132084"
+        }
+      ]
+    },
+    {
+      "ide": "70298",
+      "date": "1949-02-25",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lady with a Lamp"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Great_Scenes_Singles",
+          "name": "Great Scenes From Great Plays 49-02-25 (22) Lady with a Lamp.mp3",
+          "time": "1744",
+          "size": "27918346"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490225 022 Lady with a Lamp_OTRRPG.mp3",
+          "time": "1742",
+          "size": "27889503"
+        },
+        {
+          "path": "G",
+          "folder": "Great Scenes From Great Plays",
+          "name": "Great Scenes From Great Plays 490225 22 Lady With A Lamp_OTRRPG.mp3",
+          "time": "1743",
+          "size": "27960721"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Great Scenes from Great Plays"
+    }
+  ]
+}

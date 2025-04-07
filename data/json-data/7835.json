@@ -1,0 +1,376 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324051859-65fec5db.jpg",
+      "label": "Rotary Golden Theater - Cd Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324051901-93cbbf61.jpg",
+      "label": "Rotary Golden Theater - Insert",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324051904-60faaec0.jpg",
+      "label": "Rotary Golden Theater - Jewel Case Label",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Rotary_Golden_Theater_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Rotary-Golden-Theater.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Rotary-Golden-Theater.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Rotary_Golden_Theater_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "123724",
+      "date": "1955-03-01",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Golden Year, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-01_01_Those_Golden_Years.mp3",
+          "time": "874",
+          "size": "13981706"
+        }
+      ]
+    },
+    {
+      "ide": "123725",
+      "date": "1955-03-02",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Magic Formula"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-02_02_Magic_Formula.mp3",
+          "time": "864",
+          "size": "13821962"
+        }
+      ]
+    },
+    {
+      "ide": "123726",
+      "date": "1955-03-03",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Working Together"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-03_03_Working_Together.mp3",
+          "time": "880",
+          "size": "14084106"
+        }
+      ]
+    },
+    {
+      "ide": "123727",
+      "date": "1955-03-04",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hands Across The Seas"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-04_04_Hands_Across_The_Sea.mp3",
+          "time": "868",
+          "size": "13881354"
+        }
+      ]
+    },
+    {
+      "ide": "123728",
+      "date": "1955-03-07",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "World We Know, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-07_05_The_World_We_Know.mp3",
+          "time": "877",
+          "size": "14024714"
+        }
+      ]
+    },
+    {
+      "ide": "123729",
+      "date": "1955-03-08",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dear Enemy"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-08_06_Dear_Enemy.mp3",
+          "time": "865",
+          "size": "13846538"
+        }
+      ]
+    },
+    {
+      "ide": "123730",
+      "date": "1955-03-09",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Worthy Work"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-09_07_Worthy_Work.mp3",
+          "time": "886",
+          "size": "14176266"
+        }
+      ]
+    },
+    {
+      "ide": "123731",
+      "date": "1955-03-10",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Honor Among Thieves"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-10_08_Honor_Among_Thieves.mp3",
+          "time": "885",
+          "size": "14159882"
+        }
+      ]
+    },
+    {
+      "ide": "123732",
+      "date": "1955-03-11",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spotlight On Youth"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-11_09_Spotlight_On_Youth.mp3",
+          "time": "877",
+          "size": "14026762"
+        }
+      ]
+    },
+    {
+      "ide": "123733",
+      "date": "1955-03-12",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Let's Get Acquainted"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-12_10_Lets_Get_Acquainted.mp3",
+          "time": "870",
+          "size": "13924362"
+        }
+      ]
+    },
+    {
+      "ide": "123734",
+      "date": "1955-03-15",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Youth Yesterday And Today"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-15_11_Youth_Yesterday_And_Today.mp3",
+          "time": "873",
+          "size": "13975562"
+        }
+      ]
+    },
+    {
+      "ide": "123735",
+      "date": "1955-03-16",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Active Citizen, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-16_12_The_Active_Citizen.mp3",
+          "time": "890",
+          "size": "14235658"
+        }
+      ]
+    },
+    {
+      "ide": "123736",
+      "date": "1955-03-17",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Our Partner Youth"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Rotary_Golden_Theater_Singles",
+          "name": "Rotary_Golden_Theater_55-03-17_13_Our_Partner_Youth.mp3",
+          "time": "890",
+          "size": "14235658"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "Rotary",
+      "begin": "1955-03-08",
+      "end": "1955-05-31"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Rotary Golden Theater"
+    },
+    {
+      "title": "Rotary Golden Theatre, The"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1976",
+      "first": "Jay C.",
+      "last": "Flippen",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "2940",
+      "first": "Johnny",
+      "last": "Jacobs",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "39593",
+      "first": "Steve",
+      "last": "Allen",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313383",
+      "date": "1949-03-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "(Audition) A Quiz For Teachers Only"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earn Your Vacation",
+          "name": "Earn Your Vacation 490307 (Audition) A Quiz For Teachers Only_OTRRPG.mp3",
+          "time": "906",
+          "size": "14577394"
+        }
+      ]
+    },
+    {
+      "ide": "322620",
+      "date": "1949-03-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Contestant Helen Wickerham"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earn Your Vacation",
+          "name": "Earn Your Vacation 1949.03.17 First Contestant Helen Wickerham.mp3",
+          "time": "908",
+          "size": "3739306"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Earn your Vacation 49-03-17.mp3",
+          "time": "908",
+          "size": "7266846"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Game Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-06-05",
+      "dow": "Su",
+      "time": "",
+      "end": "1950-07-02",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Earn Your Vacation"
+    }
+  ]
+}

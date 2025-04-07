@@ -1,0 +1,276 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "2854",
+      "web": "",
+      "url": "0",
+      "source": "The Old Radio Times",
+      "idpytype": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/L Series/Lives of The Great/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Lives-of-The-Great.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Lives-of-The-Great.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logl1012.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Dramas of famous people's lives."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "257158",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thomas Edison"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "93366",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Pt Barnum"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "93365",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Abraham Lincoln"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "93364",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Buffalo Bill Cody"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives of The Great",
+          "name": "Lives of the Great 1934 (12) Buffalo Bill.mp3",
+          "time": "756",
+          "size": "3023326"
+        }
+      ]
+    },
+    {
+      "ide": "93376",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Benjamin Franklin"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives of The Great",
+          "name": "Lives Of The Great 1934 (02) Benjamin Franklin.mp3",
+          "time": "734",
+          "size": "2939018"
+        }
+      ]
+    },
+    {
+      "ide": "93377",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ulysses S Grant"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives of The Great",
+          "name": "Lives of the Great 1934 (03) U S Grant.mp3",
+          "time": "722",
+          "size": "2889785"
+        }
+      ]
+    },
+    {
+      "ide": "93372",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Benjamin Disraeli"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "93371",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mark Twain"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lives of The Great",
+          "name": "Lives of the Great 1934 (05) Mark Twain.mp3",
+          "time": "760",
+          "size": "3040454"
+        }
+      ]
+    },
+    {
+      "ide": "93370",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Henry Clay"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "93369",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Robert E Peary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "93368",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Andrew Jackson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "93367",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Robert E Lee"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1933-11-23",
+      "dow": "M",
+      "time": "7:00 PM",
+      "end": "1934-02-12",
+      "length": "15",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Lives of the Great"
+    }
+  ]
+}

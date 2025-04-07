@@ -1,0 +1,100 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1657",
+      "first": "Dave",
+      "last": "Driscoll",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "39435",
+      "first": "Tom",
+      "last": "Wolfe",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "36",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1939-03-15",
+      "dow": "W",
+      "time": "8:30 PM",
+      "end": "1939-06-07",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1939-06-28",
+      "dow": "W",
+      "time": "8:00 PM",
+      "end": "1939-08-02",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1939-08-11",
+      "dow": "F",
+      "time": "8:00 PM",
+      "end": "1939-10-20",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Welcome Neighbor"
+    }
+  ]
+}

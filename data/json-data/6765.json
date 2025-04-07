@@ -1,0 +1,1301 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2775",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "2775",
+      "web": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "source": "Grams Jr., Martin",
+      "idpytype": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    }
+  ],
+  "links": [
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Nero_Wolfe",
+      "label": "Wikipedia (Nero Wolfe)",
+      "idtype": "1"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Nero_Wolfe_(radio)",
+      "label": "Wikipedia (Nero Wolfe (radio))",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logn1002.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2377",
+      "first": "Sydney",
+      "last": "Greenstreet",
+      "f": "Noted Role",
+      "character": "Nero Wolfe"
+    },
+    {
+      "idperson": "388",
+      "first": "Harry",
+      "last": "Bartell",
+      "f": "Noted Role",
+      "character": "Archie"
+    },
+    {
+      "idperson": "1575",
+      "first": "Lawrence 'Larry'",
+      "last": "Dobkin",
+      "f": "Noted Role",
+      "character": "Archie"
+    },
+    {
+      "idperson": "4199",
+      "first": "Gerald",
+      "last": "Mohr",
+      "f": "Noted Role",
+      "character": "Archie"
+    },
+    {
+      "idperson": "1783",
+      "first": "Herb",
+      "last": "Ellis",
+      "f": "Noted Role",
+      "character": "Archie"
+    },
+    {
+      "idperson": "3760",
+      "first": "Wally",
+      "last": "Maher",
+      "f": "Noted Role",
+      "character": "Archie"
+    },
+    {
+      "idperson": "50693",
+      "first": "Johnny",
+      "last": "Green",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "16316",
+      "date": "1950-10-20",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stamped for Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_50-10-20_ep01_Stamped_For_Murder.mp3",
+          "time": "1788",
+          "size": "28603496"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 501020 01 Stamped For Murder_OTRRPG.mp3",
+          "time": "1794",
+          "size": "28785466"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-10-20 Stamped for Murder.mp3",
+          "time": "1791",
+          "size": "28650584"
+        }
+      ]
+    },
+    {
+      "ide": "16317",
+      "date": "1950-10-27",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Careworn Cuff, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_50-10-27_ep02_The_Care_Worn_Cuff.mp3",
+          "time": "1782",
+          "size": "28505244"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 501027 02 Case of The Careworn Cuff (2)_OTRRPG.mp3",
+          "time": "1806",
+          "size": "28891264"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 501027 02 Case of The Careworn Cuff_OTRRPG.mp3",
+          "time": "1793",
+          "size": "28766248"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 501027 The Care Worn Cuff (80-44)_OTRRPG.mp3",
+          "time": "1794",
+          "size": "17951848"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-10-20 (1) Stamped for Murder.mp3",
+          "time": "1791",
+          "size": "28650265"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-10-27 (02) The Care Worn Cuff.mp3",
+          "time": "1767",
+          "size": "14139686"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-10-27 The Careworn Cuff.mp3",
+          "time": "1767",
+          "size": "14139696"
+        }
+      ]
+    },
+    {
+      "ide": "16318",
+      "date": "1950-11-03",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dear, Dead Lady, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_50-11-03_ep03_Dear_Dead_Lady.mp3",
+          "time": "1783",
+          "size": "28527010"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 501103 03 Case of The Dear, Dead Lady_OTRRPG.mp3",
+          "time": "1787",
+          "size": "28678479"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-11-03 (03) The Dear, Dead Lady.mp3",
+          "time": "1768",
+          "size": "14141559"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-11-03 The Dear, Dead Lady.mp3",
+          "time": "1768",
+          "size": "14141569"
+        }
+      ]
+    },
+    {
+      "ide": "16319",
+      "date": "1950-11-10",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Headless Hunter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16320",
+      "date": "1950-11-17",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Careless Cleaner, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_50-11-17_ep05_Careless_Cleaner.mp3",
+          "time": "1784",
+          "size": "28543686"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 501117 05 Case of The Careless Cleaner_OTRRPG.mp3",
+          "time": "1778",
+          "size": "28529268"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-11-17 (05) The Careless Cleaner.mp3",
+          "time": "1778",
+          "size": "14221436"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-11-17 The Careless Cleaner.mp3",
+          "time": "1785",
+          "size": "21424138"
+        }
+      ]
+    },
+    {
+      "ide": "16321",
+      "date": "1950-11-24",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beautiful Archer, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_50-11-24_ep06_Beautiful_Archer.mp3",
+          "time": "1779",
+          "size": "28466364"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 501124 06 Case of The Beautiful Archer_OTRRPG.mp3",
+          "time": "1772",
+          "size": "28425196"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-11-24 (06) The Beautiful Archer.mp3",
+          "time": "1761",
+          "size": "14089340"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-11-24 The Beautiful Archer.mp3",
+          "time": "1770",
+          "size": "21235722"
+        }
+      ]
+    },
+    {
+      "ide": "16322",
+      "date": "1950-12-01",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Friendly Rabbit, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_50-12-01_ep07_The_Brave_Rabbit.mp3",
+          "time": "1789",
+          "size": "28628918"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 501201 07 Case of The Brave Rabbit_OTRRPG.mp3",
+          "time": "1775",
+          "size": "28474094"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-12-01 (07) The Brave Rabbit.mp3",
+          "time": "1770",
+          "size": "14162134"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-12-01 The Brave Rabbit.mp3",
+          "time": "1779",
+          "size": "21346314"
+        }
+      ]
+    },
+    {
+      "ide": "16323",
+      "date": "1950-12-08",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Impolite Corpse, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_50-12-08_ep08_The_Impolite_Corpse.mp3",
+          "time": "1744",
+          "size": "27907938"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-12-08 (08) The Impolite Corpse.mp3",
+          "time": "1726",
+          "size": "13807305"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-12-08 The Impolite Corpse.mp3",
+          "time": "1740",
+          "size": "20879370"
+        }
+      ]
+    },
+    {
+      "ide": "16324",
+      "date": "1950-12-15",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Girl Who Cried Wolf, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_50-12-15_ep09_The_Girl_Who_Cried_Wolfe.mp3",
+          "time": "1764",
+          "size": "28226455"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 501215 009 TCOT Girl Who Cried Wolf (64-44)_OTRRPG.mp3",
+          "time": "1765",
+          "size": "14134384"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-12-15 (09) The Girl Who Cried Wolf.mp3",
+          "time": "1746",
+          "size": "13972043"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-12-15 The Girl Who Cried Wolf.mp3",
+          "time": "1754",
+          "size": "21055498"
+        }
+      ]
+    },
+    {
+      "ide": "16325",
+      "date": "1950-12-22",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slaughtered Santas, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_50-12-22_ep10_The_Slaughtered_Santas.mp3",
+          "time": "1770",
+          "size": "28316316"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 501222 10 Case of The Slaughtered Santas_OTRRPG.mp3",
+          "time": "1782",
+          "size": "28595308"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-12-22 (10) The Slaughtered Santas.mp3",
+          "time": "1717",
+          "size": "13737621"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-12-22 The Slaughtered Santas.mp3",
+          "time": "1717",
+          "size": "13737621"
+        }
+      ]
+    },
+    {
+      "ide": "16326",
+      "date": "1950-12-29",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bashful Body, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_50-12-29_ep11_The_Bashful_Body.mp3",
+          "time": "1769",
+          "size": "28300820"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 501229 11 Case of The Bashful Body (80-44)_OTRRPG.mp3",
+          "time": "1757",
+          "size": "17648392"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 501229 011 TCOT Bashful Body (64-44)_OTRRPG.mp3",
+          "time": "1773",
+          "size": "14196033"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-12-29 (11) The Bashful Body.mp3",
+          "time": "1748",
+          "size": "13983055"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 50-12-29 The Bashful Body (2).mp3",
+          "time": "1762",
+          "size": "21147658"
+        }
+      ]
+    },
+    {
+      "ide": "16327",
+      "date": "1951-01-05",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deadly Sell-Out"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-01-05_ep12_Deadly_Sell-Out.mp3",
+          "time": "1751",
+          "size": "28016222"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510105 12 Case of The Deadly Sellout_OTRRPG.mp3",
+          "time": "1735",
+          "size": "27833364"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510105 012 TCOT Deadly Sell-Out (64-44)_OTRRPG.mp3",
+          "time": "1758",
+          "size": "14078378"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-01-05 (12) Deadly Sell-Out.mp3",
+          "time": "1739",
+          "size": "13914000"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-01-05 Deadly Sell-Out.mp3",
+          "time": "1748",
+          "size": "20971530"
+        }
+      ]
+    },
+    {
+      "ide": "16328",
+      "date": "1951-01-12",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Killer Cards, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-01-12_ep13_Killer_Cards.mp3",
+          "time": "1733",
+          "size": "27728248"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510112 13 Case of The Killer Cards_OTRRPG.mp3",
+          "time": "1724",
+          "size": "27667432"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510112 013 TCOT Killer Card (64-44)_OTRRPG.mp3",
+          "time": "1731",
+          "size": "13858531"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-01-12 (13) The Killer Cards.mp3",
+          "time": "1712",
+          "size": "13695807"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-01-12 The Killer Cards.mp3",
+          "time": "1720",
+          "size": "20643850"
+        }
+      ]
+    },
+    {
+      "ide": "16329",
+      "date": "1951-01-19",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Calculated Risk, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-01-19_ep14_Calculated_Risk.mp3",
+          "time": "1716",
+          "size": "27450305"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510119 14 Case of The Calculated Risk_OTRRPG.mp3",
+          "time": "1779",
+          "size": "28547239"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510119 014 TCOT Calculated Risk (64-44)_OTRRPG.mp3",
+          "time": "1717",
+          "size": "13743592"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-01-19 (14) The Calculated Risk.mp3",
+          "time": "1692",
+          "size": "13539604"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-01-19 The Calculated Risk.mp3",
+          "time": "1706",
+          "size": "20471818"
+        }
+      ]
+    },
+    {
+      "ide": "16330",
+      "date": "1951-01-26",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phantom Fingers, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-01-26_ep15_Phantom_Fingers.mp3",
+          "time": "1736",
+          "size": "27768790"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510126 15 Case of The Phantom Fingers_OTRRPG.mp3",
+          "time": "1792",
+          "size": "28745770"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510126 015 TCOT Phantom Fingers (64-44)_OTRRPG.mp3",
+          "time": "1734",
+          "size": "13882773"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-01-26 (15) The Phantom Fingers.mp3",
+          "time": "1715",
+          "size": "13720980"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-01-26 The Phantom Fingers.mp3",
+          "time": "1723",
+          "size": "20680714"
+        }
+      ]
+    },
+    {
+      "ide": "16331",
+      "date": "1951-02-02",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vanishing Shells, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-02-02_ep16_Vanishing_Shells.mp3",
+          "time": "1728",
+          "size": "27646746"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510202 16 Case of The Vanishing Shells_OTRRPG.mp3",
+          "time": "1711",
+          "size": "27463054"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510202 016 TCOT Vanishing Shells (64-44)_OTRRPG.mp3",
+          "time": "1729",
+          "size": "13845156"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-02-02 (16) The Vanishing Shells.mp3",
+          "time": "1708",
+          "size": "13664609"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-02-02 The Vanishing Shells.mp3",
+          "time": "1719",
+          "size": "20623370"
+        }
+      ]
+    },
+    {
+      "ide": "16332",
+      "date": "1951-02-16",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Party for Death, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-02-16_ep17_Party_For_Death.mp3",
+          "time": "1748",
+          "size": "27974812"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510216 17 Case of The Party For Death_OTRRPG.mp3",
+          "time": "1761",
+          "size": "28256758"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510216 017 TCOT Party for Death (64-44)_OTRRPG.mp3",
+          "time": "1750",
+          "size": "14011922"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-02-16 (17) The Party for Death.mp3",
+          "time": "1731",
+          "size": "13847236"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-02-16 The Party for Death.mp3",
+          "time": "1739",
+          "size": "20873226"
+        }
+      ]
+    },
+    {
+      "ide": "16333",
+      "date": "1951-02-23",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Malevolent Medic, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-02-23_ep18_Malevolent_Medic.mp3",
+          "time": "1788",
+          "size": "28610560"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510223 18 Case of The Malevolent Medic_OTRRPG.mp3",
+          "time": "1762",
+          "size": "28277657"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510223 018 TCOT Malevolent Medic (64-44)_OTRRPG.mp3",
+          "time": "1796",
+          "size": "14378263"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-02-23 (18) The Malevolent Medic.mp3",
+          "time": "1776",
+          "size": "14211021"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-02-23 The Malevolent Medic.mp3",
+          "time": "1785",
+          "size": "21417994"
+        }
+      ]
+    },
+    {
+      "ide": "16334",
+      "date": "1951-03-02",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hasty Will, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-03-02_ep19_The_Hasty_Will.mp3",
+          "time": "1768",
+          "size": "28284969"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510302 19 Case of The Hasty Will_OTRRPG.mp3",
+          "time": "1770",
+          "size": "28403039"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510302 019 TCOT Hasty Will (64-44)_OTRRPG.mp3",
+          "time": "1766",
+          "size": "14140445"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-03-02 (19) The Hasty Will.mp3",
+          "time": "1747",
+          "size": "13976605"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-03-02 The Hasty Will.mp3",
+          "time": "1755",
+          "size": "21063690"
+        }
+      ]
+    },
+    {
+      "ide": "16335",
+      "date": "1951-03-09",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Disappearing Diamonds, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-03-09_ep20_Disappearing_Diamonds.mp3",
+          "time": "1726",
+          "size": "27609097"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510309 020 TCOT Disappearing Diamonds (64-44)_OTRRPG.mp3",
+          "time": "1726",
+          "size": "13818198"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-03-09 (20) The Disappearing Diamonds.mp3",
+          "time": "1707",
+          "size": "13658362"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-03-09 The Disappearing Diamonds.mp3",
+          "time": "1715",
+          "size": "20584458"
+        }
+      ]
+    },
+    {
+      "ide": "16336",
+      "date": "1951-03-16",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Midnight Ride, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-03-16_ep21_Midnight_Ride.mp3",
+          "time": "1732",
+          "size": "27712365"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510316 021 TCOT Midnight Ride (64-44)_OTRRPG.mp3",
+          "time": "1730",
+          "size": "13850172"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-03-16 (21) The Midnight Ride.mp3",
+          "time": "1711",
+          "size": "13691642"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-03-16 The Midnight Ride.mp3",
+          "time": "1719",
+          "size": "20631562"
+        }
+      ]
+    },
+    {
+      "ide": "16337",
+      "date": "1951-03-23",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Final Page, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-03-23_ep22_The_Final_Page.mp3",
+          "time": "1759",
+          "size": "28136594"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510323 22 Case of The Final Page_OTRRPG.mp3",
+          "time": "1742",
+          "size": "28056550"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510323 022 TCOT Final Page (64-44)_OTRRPG.mp3",
+          "time": "1764",
+          "size": "14122890"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-03-23 (22) The Final Page.mp3",
+          "time": "1747",
+          "size": "13974103"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-03-23 The Final Page.mp3",
+          "time": "1753",
+          "size": "21037066"
+        }
+      ]
+    },
+    {
+      "ide": "16338",
+      "date": "1951-03-30",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tell-Tale Ribbon, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-03-30_ep23_The_Tell-_Tale_Ribbon.mp3",
+          "time": "1763",
+          "size": "28203885"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510330 23 Case of The Tell-tale Ribbon_OTRRPG.mp3",
+          "time": "1736",
+          "size": "27860534"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510330 023 TCOT Tell-Tale Ribbon (64-44)_OTRRPG.mp3",
+          "time": "1760",
+          "size": "14093215"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-03-30 (23) The Tell-Tale Ribbon.mp3",
+          "time": "1741",
+          "size": "13929601"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-03-30 The Tell-Tale Ribbon.mp3",
+          "time": "1741",
+          "size": "13929601"
+        }
+      ]
+    },
+    {
+      "ide": "16339",
+      "date": "1951-04-06",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slight Case of Perjury, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-04-06_ep24_A_Slight_Case_Of_Perjury.mp3",
+          "time": "1733",
+          "size": "27733263"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510406 24 A Slight Case of Perjury_OTRRPG.mp3",
+          "time": "1715",
+          "size": "27523654"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe, TNA 510406 024 A Slight Case of Perjury (64-44)_OTRRPG.mp3",
+          "time": "1734",
+          "size": "13878802"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-04-06 (24) A Slight Case of Perjury.mp3",
+          "time": "1715",
+          "size": "13717857"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-04-06 A Slight Case of Perjury.mp3",
+          "time": "1723",
+          "size": "20674570"
+        }
+      ]
+    },
+    {
+      "ide": "16340",
+      "date": "1951-04-20",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lost Heir, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-04-20_ep25_The_Lost_Heir.mp3",
+          "time": "1764",
+          "size": "28226423"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510420 25 Case of The Lost Heir_OTRRPG.mp3",
+          "time": "1750",
+          "size": "28086642"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-04-20 (25) The Lost Heir.mp3",
+          "time": "1752",
+          "size": "14018610"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-04-20 The Lost Heir.mp3",
+          "time": "1752",
+          "size": "14018620"
+        }
+      ]
+    },
+    {
+      "ide": "16341",
+      "date": "1951-04-27",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Room 304 (Last Episode)"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+          "name": "nanw_51-04-27_ep26_Room_304.mp3",
+          "time": "1763",
+          "size": "28207229"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "Nero Wolfe 510427 26 Case of Room 304_OTRRPG.mp3",
+          "time": "1736",
+          "size": "27850491"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-04-27 (26) Room 304.mp3",
+          "time": "1751",
+          "size": "14011352"
+        },
+        {
+          "path": "N",
+          "folder": "New Adventures Of Nero Wolfe",
+          "name": "The New Adventures of Nero Wolfe 51-04-27 Room 304 (Last Episode).mp3",
+          "time": "1751",
+          "size": "14011362"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-10-20",
+      "dow": "F",
+      "time": "8:00 PM",
+      "end": "1951-04-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "New Adventures of Nero Wolfe (1950-1951)"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6643",
+      "first": "Leighton",
+      "last": "Noble",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "I'll See You In My Dreams"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "259416",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "90819",
+      "date": "0000-00-00",
+      "epnum": "195",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - No Baby, Nobody But You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "90818",
+      "date": "0000-00-00",
+      "epnum": "204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Take Care When You Say 'Te Quiero'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "90817",
+      "date": "0000-00-00",
+      "epnum": "210",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Cement Mixer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259418",
+      "date": "0000-00-00",
+      "epnum": "226",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Changing My Tune"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259419",
+      "date": "0000-00-00",
+      "epnum": "226",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Either It's Love Or It Isn't"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259420",
+      "date": "0000-00-00",
+      "epnum": "227",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - How Do You Dream A Dream?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259421",
+      "date": "0000-00-00",
+      "epnum": "227",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - You Took Advantage of Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259417",
+      "date": "0000-00-00",
+      "epnum": "237",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Beware My Heart"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-01-14",
+      "dow": "Sa",
+      "time": "6:15 AM",
+      "end": "1939-03-11",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1940-05-01",
+      "dow": "M",
+      "time": "7:15 PM",
+      "end": "1940-09-16",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Leighton Noble and His Orchestra"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "51146",
+      "first": "John",
+      "last": "Whitcomb",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1930-00-00",
+      "dow": "M,Tu,W,Th,F,Sa",
+      "time": "8:30 AM",
+      "end": "1931-03-28",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1931-00-28",
+      "dow": "M,Th",
+      "time": "7:00 PM",
+      "end": "1932-03-31",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Vermont Maid Syrup",
+      "begin": "1931-09-28",
+      "end": "1932-03-31"
+    },
+    {
+      "sponsor": "Vermont Maid Syrup",
+      "begin": "1930-00-00",
+      "end": "1931-03-28"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Vermont Lumberjacks"
+    }
+  ]
+}

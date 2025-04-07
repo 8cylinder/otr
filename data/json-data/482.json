@@ -1,0 +1,96 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Adventures Of Santa/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "316320",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Workshop & Warehouse Burnt Down"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Santa",
+          "name": "Adventures of Santa xx-xx-xx (01) Workshop & Warehouse Burnt Down.mp3",
+          "time": "737",
+          "size": "2951672"
+        }
+      ]
+    },
+    {
+      "ide": "306424",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kent Kidnapped"
+        },
+        {
+          "title": "Following Kent's Trail"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Santa",
+          "name": "Adventures of Santa xx-xx-xx (07) Kent Kidnapped.mp3",
+          "time": "688",
+          "size": "2757948"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventures of Santa Claus, The"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2416",
+      "first": "John",
+      "last": "Gunther",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-01-15",
+      "dow": "F",
+      "time": "",
+      "end": "1944-04-14",
+      "length": "10",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "General Mills",
+      "begin": "1943-01-15",
+      "end": "1944-04-14"
+    }
+  ],
+  "titles": [
+    {
+      "title": "John Gunther"
+    }
+  ]
+}

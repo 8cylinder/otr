@@ -1,0 +1,71 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "45019",
+      "first": "John R.",
+      "last": "Tunis",
+      "f": "Noted Role",
+      "character": "Sportscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Sports talk."
+    }
+  ],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Sports"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1935-11-21",
+      "dow": "Th",
+      "time": "6:15 PM",
+      "end": "1936-01-23",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "John R. Tunis"
+    }
+  ]
+}

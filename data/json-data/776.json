@@ -1,0 +1,150 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Red Cross/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312417",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bob Hope"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Cross",
+          "name": "Red Cross Appeal 54xxxx 02 Bob Hope_OTRRPG.mp3",
+          "time": "786",
+          "size": "12647635"
+        }
+      ]
+    },
+    {
+      "ide": "307270",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bob Hope"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Cross",
+          "name": "Red Cross Appeal 54-xx-xx (02)  Bob Hope.mp3",
+          "time": "788",
+          "size": "12605568"
+        }
+      ]
+    },
+    {
+      "ide": "319369",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Dear Hearts And Gentle People"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Cross",
+          "name": "Red Cross 50-xx-xx (2) First Song - Dear Hearts And Gentle People.mp3",
+          "time": "890",
+          "size": "7122383"
+        }
+      ]
+    },
+    {
+      "ide": "311193",
+      "date": "1937-02-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Cross Relief Program 37-02-01"
+        },
+        {
+          "title": "1st 'The Rogue Song'. 'NBC Intercontinental Entertainment Rally'Relief Program"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Cross",
+          "name": "Red Cross Flood Relief 370201 1st; 'The Rogue Song'. 'NBC Intercontinental Entertainment Rally'.mp3",
+          "time": "5125",
+          "size": "82625884"
+        },
+        {
+          "path": "R",
+          "folder": "Red Cross",
+          "name": "Red Cross Relief Program 37-02-01.mp3",
+          "time": "5157",
+          "size": "20628416"
+        },
+        {
+          "path": "R",
+          "folder": "Red Cross",
+          "name": "Red Cross 1937.02.01 Relief Program.mp3",
+          "time": "3717",
+          "size": "20733896"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "American Red Cross"
+    }
+  ]
+}

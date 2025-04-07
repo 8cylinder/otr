@@ -1,0 +1,99 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.whirligig-tv.co.uk/radio/mgr.htm",
+      "label": "1950's British Radio Nostalgia",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "565",
+      "first": "Jimmy",
+      "last": "Blaine",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "323560",
+      "date": "1945-08-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hms Waterlogged"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Merry Go Round",
+          "name": "Merry Go Round 1945.08.08 Hms Waterlogged.mp3",
+          "time": "1605",
+          "size": "6529145"
+        }
+      ]
+    },
+    {
+      "ide": "323561",
+      "date": "1945-09-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stand Easy"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Merry Go Round",
+          "name": "Merry Go Round 1945.09.14 Studio Stand Easy.mp3",
+          "time": "1604",
+          "size": "6525492"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1950-09-23",
+      "dow": "Sa",
+      "time": "8:30 PM",
+      "end": "1951-03-31",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Merry-Go-Round"
+    }
+  ]
+}

@@ -1,0 +1,2148 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "CNTR"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Country%20Hoedown/",
+      "label": "Library Files",
+      "idtype": "16"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2609-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1848",
+      "first": "Don",
+      "last": "Everly",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "39590",
+      "first": "Rex",
+      "last": "Allen",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1583",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "2003-02-01",
+      "source": "OTR Digest_1990s/OTRDigest_(100)Winter03.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (100) Winter 2003",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "245327",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Come On In"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182321",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - On The Rhythm Range"
+        },
+        {
+          "title": "1st Song - 'On The Rhythm Range' (Rex Allen)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 010 1st Song - 'On The Rhythm Range' (Rex Allen) (64-44)_OTRRPG.mp3",
+          "time": "874",
+          "size": "7035673"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 010 1st Song - 'On The Rhythm Range' (Rex Allen) (64-44).mp3",
+          "time": "870",
+          "size": "6962775"
+        }
+      ]
+    },
+    {
+      "ide": "182394",
+      "date": "0000-00-00",
+      "epnum": "100",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bye Bye Love"
+        },
+        {
+          "title": "1st Song - 'Bye Bye Love' (Everly Brothers)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 100 1st Song - 'Bye Bye Love' (Everly Brothers) (64-44)_OTRRPG.mp3",
+          "time": "900",
+          "size": "7241598"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 100 1st Song - 'Bye Bye Love' (Everly Brothers) (64-44).mp3",
+          "time": "900",
+          "size": "7201771"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (100) First Song - Bye Bye Love.mp3",
+          "time": "905",
+          "size": "14483474"
+        }
+      ]
+    },
+    {
+      "ide": "182395",
+      "date": "0000-00-00",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Cowboy Jubilee"
+        },
+        {
+          "title": "1st Song - 'Cowboy Jubilee' (The Sons Of The Pioneers)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 101 1st Song - 'Cowboy Jubilee' (The Sons Of The Pioneers) (64-44)_OTRRPG.mp3",
+          "time": "876",
+          "size": "7050951"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 101 1st Song - 'Cowboy Jubilee' (The Sons Of The Pioneers) (64-44).mp3",
+          "time": "876",
+          "size": "7011202"
+        }
+      ]
+    },
+    {
+      "ide": "182396",
+      "date": "0000-00-00",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Don't Walk Away From Me (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182397",
+      "date": "0000-00-00",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Don't Know What I'll Do Without You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182398",
+      "date": "0000-00-00",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Feel Better All Over (3)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182322",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Moving On"
+        },
+        {
+          "title": "1st Song - 'I'm Movin' On' (Hank Snow)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 011 1st Song - 'I'm Movin' On' (Hank Snow) (64-44)_OTRRPG.mp3",
+          "time": "893",
+          "size": "7181945"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 011 1st Song - 'I'm Movin' On' (Hank Snow) (64-44).mp3",
+          "time": "893",
+          "size": "7142180"
+        }
+      ]
+    },
+    {
+      "ide": "182323",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Learned It All From You"
+        },
+        {
+          "title": "1st Song - 'It's Because I Learned It All From You' (Jean Sheperd)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 012 1st Song - 'It's Because I Learned It All From You' (Jean Sheperd) (64-44)_OTRRPG.mp3",
+          "time": "858",
+          "size": "6903074"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 012 1st Song - 'It's Because I Learned It All From You' (Jean Sheperd) (64-44).mp3",
+          "time": "858",
+          "size": "6863366"
+        }
+      ]
+    },
+    {
+      "ide": "182324",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Don't Care"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182325",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'll Set You Free"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182326",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Send For My Baby"
+        },
+        {
+          "title": "1st Song - 'Send For My Baby' (George Morgan)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 015 1st Song - 'Send For My Baby' (George Morgan) (128-32)_OTRRPG.mp3",
+          "time": "792",
+          "size": "12745873"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoe Down 58-xx-xx First Song - Send For My Baby.mp3",
+          "time": "789",
+          "size": "6315972"
+        }
+      ]
+    },
+    {
+      "ide": "182327",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Woman Made A Fool Of Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182328",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - That's All"
+        },
+        {
+          "title": "1st Song - 'That's All' (Merle Travis)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 017 1st Song - 'That's All' (Merle Travis) (128-44)_OTRRPG.mp3",
+          "time": "892",
+          "size": "14351454"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 017 1st Song - 'That's All' (Merle Travis) (128-48)_OTRRPG.mp3",
+          "time": "784",
+          "size": "12615691"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoe Down 58-xx-xx First Song - That's All.mp3",
+          "time": "782",
+          "size": "6253156"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (017) First Song - That's All.mp3",
+          "time": "894",
+          "size": "14307928"
+        }
+      ]
+    },
+    {
+      "ide": "182329",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hillbilly Fever"
+        },
+        {
+          "title": "1st Song - 'Hillbilly Fever' (Jimmy Dickens)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 018 1st Song - 'Hillbilly Fever' (Jimmy Dickens) (128-44)_OTRRPG.mp3",
+          "time": "899",
+          "size": "14462218"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 018 1st Song - 'Hillbilly Fever' (Jimmy Dickens) (64-44)_OTRRPG.mp3",
+          "time": "904",
+          "size": "7272229"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 018 1st Song - 'Hillbilly Fever' (Jimmy Dickens) (64-44).mp3",
+          "time": "904",
+          "size": "7232476"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (018) First Song - Hillbilly Fever.mp3",
+          "time": "901",
+          "size": "14418692"
+        }
+      ]
+    },
+    {
+      "ide": "182330",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Best Time Of All"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182331",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Smoke, Smoke, Smoke"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182332",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - In Those Oklahoma Hills"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182333",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Tell My Why Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182334",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - How Do You Think I Feel?"
+        },
+        {
+          "title": "1st Song - 'How Do You Think I Feel' (Red Sovine)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 027 1st Song - 'How Do You Think I Feel' (Red Sovine) (64-44)_OTRRPG.mp3",
+          "time": "902",
+          "size": "7255394"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 027 1st Song - 'How Do You Think I Feel' (Red Sovine) (64-44).mp3",
+          "time": "902",
+          "size": "7215654"
+        }
+      ]
+    },
+    {
+      "ide": "182335",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bimbo, Bimbo"
+        },
+        {
+          "title": "1st Song - 'Bimbo, Bimbo' (Jim Reeves)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 028 1st Song - 'Bimbo, Bimbo' (Jim Reeves) (128-44)_OTRRPG.mp3",
+          "time": "923",
+          "size": "14812290"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 028 1st Song - 'Bimbo, Bimbo' (Jim Reeves) (128-44).mp3",
+          "time": "921",
+          "size": "7368678"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 028 1st Song - 'Bimbo, Bimbo' (Jim Reeves) (128-44).mp3",
+          "time": "921",
+          "size": "7368678"
+        }
+      ]
+    },
+    {
+      "ide": "182336",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Love Bug"
+        },
+        {
+          "title": "1st Song - 'The Love Bug' (Red Sovine)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 029 1st Song - 'The Love Bug' (Red Sovine) (64-44)_OTRRPG.mp3",
+          "time": "903",
+          "size": "7262455"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 029 1st Song - 'The Love Bug' (Red Sovine) (64-44).mp3",
+          "time": "903",
+          "size": "7222704"
+        }
+      ]
+    },
+    {
+      "ide": "182337",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - If You Were Only Mine"
+        },
+        {
+          "title": "1st Song - 'If You Were Only Mine' (Jim Reeves)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 030 1st Song - 'If You Were Only Mine' (Jim Reeves) (128-44)_OTRRPG.mp3",
+          "time": "898",
+          "size": "14405318"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 030 1st Song - 'If You Were Only Mine' (Jim Reeves) (128-44).mp3",
+          "time": "896",
+          "size": "7165710"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 030 1st Song - 'If You Were Only Mine' (Jim Reeves) (128-44).mp3",
+          "time": "896",
+          "size": "7165710"
+        }
+      ]
+    },
+    {
+      "ide": "182338",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Caribbean"
+        },
+        {
+          "title": "1st Song - 'Caribbean' (George Hamilton IV)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 031 1st Song - 'Caribbean' (George Hamilton IV) (64-44)_OTRRPG.mp3",
+          "time": "915",
+          "size": "7356474"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 031 1st Song - 'Caribbean' (George Hamilton IV) (64-44).mp3",
+          "time": "915",
+          "size": "7316726"
+        }
+      ]
+    },
+    {
+      "ide": "182339",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Love Of A Girl Who Is Married"
+        },
+        {
+          "title": "1st Song - 'The Love Of A Girl Who Is Married' (Faron Young)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 032 1st Song - 'The Love Of A Girl Who Is Married' (Faron Young) (64-44)_OTRRPG.mp3",
+          "time": "925",
+          "size": "7439068"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 032 1st Song - 'The Love Of A Girl Who Is Married' (Faron Young) (64-44).mp3",
+          "time": "920",
+          "size": "7364370"
+        }
+      ]
+    },
+    {
+      "ide": "182340",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - It Tickles"
+        },
+        {
+          "title": "1st Song - 'It Tickles' (George Hamilton IV)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 033 1st Song - 'It Tickles' (George Hamilton IV) (64-44)_OTRRPG.mp3",
+          "time": "896",
+          "size": "7206917"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 033 1st Song - 'It Tickles' (George Hamilton IV) (64-44).mp3",
+          "time": "896",
+          "size": "7167164"
+        }
+      ]
+    },
+    {
+      "ide": "182341",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - If You Ain't Loving"
+        },
+        {
+          "title": "1st Song - 'If You Ain't Lovin', You Ain't Livin'' (Faron Young)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 034 1st Song - 'If You Ain't Lovin', You Ain't Livin'' (Faron Young) (64-44)_OTRRPG.mp3",
+          "time": "877",
+          "size": "7057389"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 034 1st Song - 'If You Ain't Lovin', You Ain't Livin'' (Faron Young) (64-44).mp3",
+          "time": "877",
+          "size": "7017660"
+        }
+      ]
+    },
+    {
+      "ide": "182342",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Alabama Jubliee"
+        },
+        {
+          "title": "1st Song - 'Alabama Jubliee' (Chet Atkins)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 035 1st Song - 'Alabama Jubliee' (Chet Atkins) (128-44)_OTRRPG.mp3",
+          "time": "905",
+          "size": "14562110"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (035) First Song - Alabama Jubliee.mp3",
+          "time": "907",
+          "size": "14518584"
+        }
+      ]
+    },
+    {
+      "ide": "182343",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Texas In My Soul"
+        },
+        {
+          "title": "1st Song - 'Got Texas In My Soul' (Jimmy Dean)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 036 1st Song - 'Got Texas In My Soul' (Jimmy Dean) (64-44)_OTRRPG.mp3",
+          "time": "886",
+          "size": "7124349"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 036 1st Song - 'Got Texas In My Soul' (Jimmy Dean) (64-44).mp3",
+          "time": "886",
+          "size": "7084604"
+        }
+      ]
+    },
+    {
+      "ide": "182344",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Five Foot Two"
+        },
+        {
+          "title": "1st Song - 'Five Foot Two, Eyes of Bue' (Chet Atkins)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 037 1st Song - 'Five Foot Two, Eyes of Bue' (Chet Atkins) (64-44)_OTRRPG.mp3",
+          "time": "913",
+          "size": "7347948"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 037 1st Song - 'Five Foot Two, Eyes of Bue' (Chet Atkins) (64-44).mp3",
+          "time": "913",
+          "size": "7308202"
+        }
+      ]
+    },
+    {
+      "ide": "182345",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Darktown Strutter's Ball"
+        },
+        {
+          "title": "1st Song - 'The Darktown Strutter's Ball' (Jimmy Dean)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 038 1st Song - 'The Darktown Strutter's Ball' (Jimmy Dean) (128-44)_OTRRPG.mp3",
+          "time": "895",
+          "size": "14396611"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (038) First Song - The Darktown Strutter's Ball.mp3",
+          "time": "897",
+          "size": "14353085"
+        }
+      ]
+    },
+    {
+      "ide": "182310",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Feel Better All Over"
+        },
+        {
+          "title": "1st Song - 'I Feel Better All Over' (Ferlin Husky)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 039 1st Song - 'I Feel Better All Over' (Ferlin Husky) (128-44) 2_OTRRPG.mp3",
+          "time": "878",
+          "size": "14129728"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 039 1st Song - 'I Feel Better All Over' (Ferlin Husky) (128-44)_OTRRPG.mp3",
+          "time": "870",
+          "size": "13994947"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (039) First Song - I Feel Better All Over.mp3",
+          "time": "872",
+          "size": "13951421"
+        }
+      ]
+    },
+    {
+      "ide": "182311",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Make Yourself At Home"
+        },
+        {
+          "title": "1st Song - 'Make Yourself At Home' (Patsy Cline)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 040 1st Song - 'Make Yourself At Home' (Patsy Cline) (128-44)_OTRRPG.mp3",
+          "time": "849",
+          "size": "13662250"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (040) First Song - Make Yourself At Home.mp3",
+          "time": "851",
+          "size": "13618724"
+        }
+      ]
+    },
+    {
+      "ide": "182312",
+      "date": "0000-00-00",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Beautiful Lies"
+        },
+        {
+          "title": "1st Song - 'Beautiful Lies' (Jean Shepard)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 041 1st Song - 'Beautiful Lies' (Jean Shepard) (64-44)_OTRRPG.mp3",
+          "time": "908",
+          "size": "7302178"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 041 1st Song - 'Beautiful Lies' (Jean Shepard) (64-44).mp3",
+          "time": "908",
+          "size": "7262422"
+        }
+      ]
+    },
+    {
+      "ide": "182313",
+      "date": "0000-00-00",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Wouldn't Treat A Dog"
+        },
+        {
+          "title": "1st Song - 'I Wouldn't Treat A Dog Like You're Treating Me' (Ferlin Husky)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 042 1st Song - 'I Wouldn't Treat A Dog Like You're Treating Me' (Ferlin Husky) (64-44)_OTRRPG.mp3",
+          "time": "912",
+          "size": "7339266"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 042 1st Song - 'I Wouldn't Treat A Dog Like You're Treating Me' (Ferlin Husky) (64-44).mp3",
+          "time": "912",
+          "size": "7299574"
+        }
+      ]
+    },
+    {
+      "ide": "182314",
+      "date": "0000-00-00",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - There's Not A Thing I Wouldn't Do For You"
+        },
+        {
+          "title": "1st Song - 'There's Not A Thing I Wouldn't Do For You' (Eddy Arnold)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 043 1st Song - 'There's Not A Thing I Wouldn't Do For You' (Eddy Arnold) (64-44)_OTRRPG.mp3",
+          "time": "904",
+          "size": "7275607"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 043 1st Song - 'There's Not A Thing I Wouldn't Do For You' (Eddy Arnold) (64-44).mp3",
+          "time": "904",
+          "size": "7235904"
+        }
+      ]
+    },
+    {
+      "ide": "182315",
+      "date": "0000-00-00",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - How Many Arms Have Held You?"
+        },
+        {
+          "title": "1st Song - 'I Really Don't Want To Know' (Eddy Arnold)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 044 1st Song - 'I Really Don't Want To Know' (Eddy Arnold) (64-44)_OTRRPG.mp3",
+          "time": "925",
+          "size": "7439483"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 044 1st Song - 'I Really Don't Want To Know' (Eddy Arnold) (64-44).mp3",
+          "time": "925",
+          "size": "7399752"
+        }
+      ]
+    },
+    {
+      "ide": "182316",
+      "date": "0000-00-00",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Stop, Look And Listen"
+        },
+        {
+          "title": "1st Song - 'Stop, Look, And Listen' (Patsy Cline)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 045 1st Song - 'Stop, Look, And Listen' (Patsy Cline) (128-44)_OTRRPG.mp3",
+          "time": "901",
+          "size": "14493990"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (045) First Song - Stop, Look And Listen.mp3",
+          "time": "903",
+          "size": "14450463"
+        }
+      ]
+    },
+    {
+      "ide": "182317",
+      "date": "0000-00-00",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Wanna Play House With You"
+        },
+        {
+          "title": "1st Song - 'I Wanna Play House With You' (Eddy Arnold)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 046 1st Song - 'I Wanna Play House With You' (Eddy Arnold) (128-44)_OTRRPG.mp3",
+          "time": "912",
+          "size": "14674553"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (046) First Song - I Wanna Play House With You.mp3",
+          "time": "914",
+          "size": "14631027"
+        }
+      ]
+    },
+    {
+      "ide": "182318",
+      "date": "0000-00-00",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Cuddle Buggin Baby"
+        },
+        {
+          "title": "1st Song - 'Cuddle Buggin' Baby' (Eddy Arnold)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 047 1st Song - 'Cuddle Buggin' Baby' (Eddy Arnold) (128-44)_OTRRPG.mp3",
+          "time": "881",
+          "size": "14168171"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 047 1st Song - 'Cuddle Buggin' Baby' (Eddy Arnold) (64-44)_OTRRPG.mp3",
+          "time": "879",
+          "size": "7073603"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 047 1st Song - 'Cuddle Buggin' Baby' (Eddy Arnold) (64-44).mp3",
+          "time": "875",
+          "size": "7000585"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (047) First Song - Cuddle Buggin Baby.mp3",
+          "time": "878",
+          "size": "3515675"
+        }
+      ]
+    },
+    {
+      "ide": "182319",
+      "date": "0000-00-00",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - A Good Lookin' Blonde"
+        },
+        {
+          "title": "1st Song - 'A Good Lookin' Blonde' (Judy Lynn)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 048 1st Song - 'A Good Lookin' Blonde' (Judy Lynn) (64-44)_OTRRPG.mp3",
+          "time": "937",
+          "size": "7534357"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 048 1st Song - 'A Good Lookin' Blonde' (Judy Lynn) (64-44).mp3",
+          "time": "932",
+          "size": "7459206"
+        }
+      ]
+    },
+    {
+      "ide": "182346",
+      "date": "0000-00-00",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Lonesome Cowboy Lament"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "313169",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'Sixteen Tons' (Merle Travis)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 005 1st Song - 'Sixteen Tons' (Merle Travis) (64-44)_OTRRPG.mp3",
+          "time": "854",
+          "size": "6872445"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 005 1st Song - 'Sixteen Tons' (Merle Travis) (64-44).mp3",
+          "time": "854",
+          "size": "6832684"
+        }
+      ]
+    },
+    {
+      "ide": "182347",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Older, Bolder And Wiser"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182348",
+      "date": "0000-00-00",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - They'll Be Some Sad Singing"
+        },
+        {
+          "title": "1st Song - '(There Will Be Some) Sad Singing and Slow Ridin' (Jean Shepard)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 051 1st Song - '(There Will Be Some) Sad Singing and Slow Ridin' (Jean Shepard) (64-44)_OTRRPG.mp3",
+          "time": "934",
+          "size": "7508481"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 051 1st Song - '(There Will Be Some) Sad Singing and Slow Ridin' (Jean Shepard) (64-44).mp3",
+          "time": "929",
+          "size": "7433490"
+        }
+      ]
+    },
+    {
+      "ide": "182349",
+      "date": "0000-00-00",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - A Dozen Hearts"
+        },
+        {
+          "title": "1st Song - 'A Dozen Hearts' (Jimmy Dean)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 052 1st Song - 'A Dozen Hearts' (Jimmy Dean) (64-44)_OTRRPG.mp3",
+          "time": "864",
+          "size": "6948576"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 052 1st Song - 'A Dozen Hearts' (Jimmy Dean) (64-44).mp3",
+          "time": "864",
+          "size": "6908818"
+        }
+      ]
+    },
+    {
+      "ide": "182350",
+      "date": "0000-00-00",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Tex Williams"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182351",
+      "date": "0000-00-00",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - On The Open Range Ahead"
+        },
+        {
+          "title": "1st Song - 'Open Range Ahead' (The Sons of the Pioneers)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 056 1st Song - 'Open Range Ahead' (The Sons of the Pioneers) (64-44)_OTRRPG.mp3",
+          "time": "891",
+          "size": "7170764"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 056 1st Song - 'Open Range Ahead' (The Sons of the Pioneers) (64-44).mp3",
+          "time": "891",
+          "size": "7131020"
+        }
+      ]
+    },
+    {
+      "ide": "182352",
+      "date": "0000-00-00",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Four Walls To Hear Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182353",
+      "date": "0000-00-00",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Before I Die"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182354",
+      "date": "0000-00-00",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Louisiana Boogie Woogie Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "313170",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'Seventeen' (Dusty Draper)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 006 1st Song - 'Seventeen' (Dusty Draper) (64-44)_OTRRPG.mp3",
+          "time": "862",
+          "size": "6934007"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 006 1st Song - 'Seventeen' (Dusty Draper) (64-44).mp3",
+          "time": "862",
+          "size": "6894240"
+        }
+      ]
+    },
+    {
+      "ide": "182355",
+      "date": "0000-00-00",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Juke Joint Johnny"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182356",
+      "date": "0000-00-00",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bye Bye Love (2)"
+        },
+        {
+          "title": "1st Song - 'Bye Bye Love' (Webb Pierce)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 061 1st Song - 'Bye Bye Love' (Webb Pierce) (128-44)_OTRRPG.mp3",
+          "time": "903",
+          "size": "14527013"
+        }
+      ]
+    },
+    {
+      "ide": "182357",
+      "date": "0000-00-00",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Tweedle O Twill"
+        },
+        {
+          "title": "1st Song - 'Tweedle O' Twill' (Jimmy Wakely)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 062 1st Song - 'Tweedle O' Twill' (Jimmy Wakely) (128-44)_OTRRPG.mp3",
+          "time": "903",
+          "size": "14532031"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (062) First Song - Tweedle O Twill.mp3",
+          "time": "906",
+          "size": "7246618"
+        }
+      ]
+    },
+    {
+      "ide": "182358",
+      "date": "0000-00-00",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - This Old House"
+        },
+        {
+          "title": "1st Song - 'This Old House' (Rex Allen)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 063 1st Song - 'This Old House' (Rex Allen) (64-44)_OTRRPG.mp3",
+          "time": "872",
+          "size": "7018902"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 063 1st Song - 'This Old House' (Rex Allen) (64-44)_OTRRPG.mp3",
+          "time": "872",
+          "size": "7018902"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 063 1st Song - 'This Old House' (Rex Allen) (128-44)_OTRRPG.mp3",
+          "time": "897",
+          "size": "14433378"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 063 1st Song - 'This Old House'  (Rex Allen) (64-44).mp3",
+          "time": "872",
+          "size": "6979136"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (063) First Song - This Old House.mp3",
+          "time": "899",
+          "size": "14389852"
+        }
+      ]
+    },
+    {
+      "ide": "182359",
+      "date": "0000-00-00",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Southland Polka"
+        },
+        {
+          "title": "1st Song - 'The Southland Polka' (Pee Wee King)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 064 1st Song - 'The Southland Polka' (Pee Wee King) (128-44)_OTRRPG.mp3",
+          "time": "905",
+          "size": "14555845"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (064) First Song - The Southland Polka.mp3",
+          "time": "683",
+          "size": "10929268"
+        }
+      ]
+    },
+    {
+      "ide": "182360",
+      "date": "0000-00-00",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Lordy, Lordy, Lordy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182361",
+      "date": "0000-00-00",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Careless Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182362",
+      "date": "0000-00-00",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Cimmeron Roll On"
+        },
+        {
+          "title": "1st Song - 'Cimarron Roll On' (The Sons of the Pioneers)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 067 1st Song - 'Cimarron Roll On' (The Sons of the Pioneers) (64-44)_OTRRPG.mp3",
+          "time": "895",
+          "size": "7203208"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 067 1st Song - 'Cimarron Roll On' (The Sons of the Pioneers) (64-44).mp3",
+          "time": "895",
+          "size": "7163460"
+        }
+      ]
+    },
+    {
+      "ide": "182363",
+      "date": "0000-00-00",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Second Song - I Don't Know What I'll Do Without You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182365",
+      "date": "0000-00-00",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Feel Better All Over (2)(Same As #39)"
+        },
+        {
+          "title": "1st Song - 'I Feel Better All Over' (Ferlin Husky)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 069 1st Song - 'I Feel Better All Over' (Ferlin Husky) (64-44)_OTRRPG.mp3",
+          "time": "871",
+          "size": "7005586"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 069 1st Song - 'I Feel Better All Over' (Ferlin Husky) (64-44).mp3",
+          "time": "871",
+          "size": "6965846"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (069) First Song - I Feel Better All Over (2).mp3",
+          "time": "874",
+          "size": "3497285"
+        }
+      ]
+    },
+    {
+      "ide": "313171",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'I've Got Five Dollars' (Faron Young)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 007 1st Song - 'I've Got Five Dollars' (Faron Young) (64-44)_OTRRPG.mp3",
+          "time": "842",
+          "size": "6773870"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 007 1st Song - 'I've Got Five Dollars' (Faron Young) (64-44).mp3",
+          "time": "842",
+          "size": "6734126"
+        }
+      ]
+    },
+    {
+      "ide": "182366",
+      "date": "0000-00-00",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Without Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182367",
+      "date": "0000-00-00",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Every Night"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182368",
+      "date": "0000-00-00",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You're Somebody Else's Love Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182369",
+      "date": "0000-00-00",
+      "epnum": "73",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You're The Only Good Thing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182370",
+      "date": "0000-00-00",
+      "epnum": "74",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rhumba Boogie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182371",
+      "date": "0000-00-00",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm A Big Boy Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182372",
+      "date": "0000-00-00",
+      "epnum": "76",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Wayward Wind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182373",
+      "date": "0000-00-00",
+      "epnum": "77",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Alright Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182374",
+      "date": "0000-00-00",
+      "epnum": "78",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Goodbye True Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182375",
+      "date": "0000-00-00",
+      "epnum": "79",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'll Step Aside"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "313172",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'Blue Suede Shoes' (Pee Wee King)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 008 1st Song - 'Blue Suede Shoes' (Pee Wee King) (64-44)_OTRRPG.mp3",
+          "time": "853",
+          "size": "6863925"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 008 1st Song - 'Blue Suede Shoes' (Pee Wee King) (64-44).mp3",
+          "time": "853",
+          "size": "6824172"
+        }
+      ]
+    },
+    {
+      "ide": "182376",
+      "date": "0000-00-00",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Eat, Drink, And Be Merry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182377",
+      "date": "0000-00-00",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Suspicion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182378",
+      "date": "0000-00-00",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Troublin Mind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182379",
+      "date": "0000-00-00",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Tomorrow's Just Another Day"
+        },
+        {
+          "title": "1st Song - 'Tomorrow's Just Another Day' (Rex Allen)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 085 1st Song - 'Tomorrow's Just Another Day' (Rex Allen) (64-44)_OTRRPG.mp3",
+          "time": "901",
+          "size": "7251263"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 085 1st Song - 'Tomorrow's Just Another Day' (Rex Allen) (64-44).mp3",
+          "time": "901",
+          "size": "7211522"
+        }
+      ]
+    },
+    {
+      "ide": "182380",
+      "date": "0000-00-00",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - At The Gates Of The Home Corral"
+        },
+        {
+          "title": "1st Song - 'A Cowboy Has to Sing' (The Sons of the Pioneers)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 086 1st Song - 'A Cowboy Has to Sing' (The Sons of the Pioneers) (64-44)_OTRRPG.mp3",
+          "time": "884",
+          "size": "7114408"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 086 1st Song - 'A Cowboy Has to Sing' (The Sons of the Pioneers) (64-44).mp3",
+          "time": "884",
+          "size": "7074676"
+        }
+      ]
+    },
+    {
+      "ide": "182381",
+      "date": "0000-00-00",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song- Got A Good Good Feeling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182382",
+      "date": "0000-00-00",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Just Buming Around"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182383",
+      "date": "0000-00-00",
+      "epnum": "89",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You've Got A Sweet Kind Of Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182320",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Walking The Floor Over You"
+        },
+        {
+          "title": "1st Song - 'I'm Walking The Floor Over You' (Ernest Tubbs)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 009 1st Song - 'I'm Walking The Floor Over You' (Ernest Tubbs) (64-44)_OTRRPG.mp3",
+          "time": "853",
+          "size": "6867489"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 009 1st Song - 'I'm Walking The Floor Over You' (Ernest Tubbs) (64-44).mp3",
+          "time": "853",
+          "size": "6827764"
+        }
+      ]
+    },
+    {
+      "ide": "182384",
+      "date": "0000-00-00",
+      "epnum": "90",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Any Old Time"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182385",
+      "date": "0000-00-00",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song- Cowboy, Cowboy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182386",
+      "date": "0000-00-00",
+      "epnum": "92",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - My Treasure"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182387",
+      "date": "0000-00-00",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Love The Guy With The Yodel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182388",
+      "date": "0000-00-00",
+      "epnum": "94",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Setting You Free"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182389",
+      "date": "0000-00-00",
+      "epnum": "95",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You Are My Special Angel"
+        },
+        {
+          "title": "1st Song - 'You Are My Special Angel' (Bobby Helms)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 095 1st Song - 'You Are My Special Angel' (Bobby Helms) (64-44)_OTRRPG.mp3",
+          "time": "897",
+          "size": "7218789"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown 58xxxx 095 1st Song - 'You Are My Special Angel' (Bobby Helms) (64-44).mp3",
+          "time": "897",
+          "size": "7179052"
+        },
+        {
+          "path": "C",
+          "folder": "Country Hoedown",
+          "name": "Country Hoedown xx-xx-xx (095) First Song - You Are My Special Angel.mp3",
+          "time": "900",
+          "size": "2702746"
+        }
+      ]
+    },
+    {
+      "ide": "182390",
+      "date": "0000-00-00",
+      "epnum": "96",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Country Gentlemen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182391",
+      "date": "0000-00-00",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Looka There"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182392",
+      "date": "0000-00-00",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - If Some Folks Would Leave Us Alone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "182393",
+      "date": "0000-00-00",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Let's Go Rockabilly"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Country Hoe-Down"
+    },
+    {
+      "title": "Country Hoedown"
+    }
+  ]
+}

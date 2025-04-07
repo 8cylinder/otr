@@ -1,0 +1,670 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "SF68"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/SF68/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/s68.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrplotspot.com/SF_68.htm",
+      "label": "OTR Plot Spot",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8070-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "224",
+      "idtype": "4",
+      "page": "10",
+      "article": "",
+      "url": "",
+      "date": "1977-05-01",
+      "source": "Airwaves/aw07_May77.pdf",
+      "idpytype2": "4",
+      "title": "Airwaves #07 May77",
+      "author": ""
+    },
+    {
+      "idprint": "661",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "2005-01-01",
+      "source": "Illustrated Press/IP_326.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #326 Jan 05",
+      "author": ""
+    },
+    {
+      "idprint": "894",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "2001-01-01",
+      "source": "Illustrated Press/IP_286.pdf",
+      "idpytype2": "4",
+      "title": "IP 01 01 286",
+      "author": ""
+    },
+    {
+      "idprint": "918",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "2003-11-01",
+      "source": "Illustrated Press/IP_314.pdf",
+      "idpytype2": "4",
+      "title": "IP 03 11 314",
+      "author": ""
+    },
+    {
+      "idprint": "1575",
+      "idtype": "4",
+      "page": "26",
+      "article": "",
+      "url": "",
+      "date": "1988-09-01",
+      "source": "OTR Digest_1980s/OTRDigest_(029)SepOct88.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (29) Sep-Oct 1988",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "249086",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Noon's Repose, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-xx-xx (xx) The Noon's Repose.mp3",
+          "time": "1525",
+          "size": "6100711"
+        }
+      ]
+    },
+    {
+      "ide": "128971",
+      "date": "1968-03-01",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cold Equations, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128972",
+      "date": "1968-03-08",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Survival"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128973",
+      "date": "1968-03-15",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Rites, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-03-15 (03) The Last Rites.mp3",
+          "time": "1501",
+          "size": "6004831"
+        }
+      ]
+    },
+    {
+      "ide": "128974",
+      "date": "1968-03-22",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death Dust, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-03-22 (04) The Death Dust.mp3",
+          "time": "1557",
+          "size": "12458109"
+        }
+      ]
+    },
+    {
+      "ide": "128975",
+      "date": "1968-03-29",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wanted in Surgery"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-03-29 (05) Wanted in Surgery.mp3",
+          "time": "1634",
+          "size": "13074181"
+        }
+      ]
+    },
+    {
+      "ide": "128976",
+      "date": "1968-04-05",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bliss Of Solitude, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128977",
+      "date": "1968-04-12",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "End Of Summer, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128978",
+      "date": "1968-04-19",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Requiem"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128979",
+      "date": "1968-04-26",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Voice In The Earphones, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128980",
+      "date": "1968-05-03",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chronoclasm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128981",
+      "date": "1968-05-10",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sound Of Thunder, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-05-10 (11) The Sound Of Thunder.mp3",
+          "time": "1771",
+          "size": "3542991"
+        }
+      ]
+    },
+    {
+      "ide": "128982",
+      "date": "1968-05-17",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Answer, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-05-17 (12) The Answer.mp3",
+          "time": "1559",
+          "size": "12469394"
+        }
+      ]
+    },
+    {
+      "ide": "128983",
+      "date": "1968-05-24",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-05-24 (13) The Will.mp3",
+          "time": "1539",
+          "size": "6157041"
+        }
+      ]
+    },
+    {
+      "ide": "128984",
+      "date": "1968-05-31",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Outcasts, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128985",
+      "date": "1968-06-07",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Routine Exercise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128986",
+      "date": "1968-06-14",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jenny with Wings"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-06-14 (16) Jenny with Wings.mp3",
+          "time": "1697",
+          "size": "13572598"
+        }
+      ]
+    },
+    {
+      "ide": "128987",
+      "date": "1968-06-21",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Homecoming"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-06-21 (17) Homecoming.mp3",
+          "time": "1596",
+          "size": "3191223"
+        }
+      ]
+    },
+    {
+      "ide": "128988",
+      "date": "1968-06-28",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Andover and the Android"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-06-28 (18) Andover and the Android.mp3",
+          "time": "1618",
+          "size": "6473165"
+        }
+      ]
+    },
+    {
+      "ide": "128989",
+      "date": "1968-07-05",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quest, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "Sf68 680705 19 The Quest (32-22)_OTRRPG.mp3",
+          "time": "1516",
+          "size": "6144283"
+        },
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-07-05 (19) The Quest.mp3",
+          "time": "1479",
+          "size": "5917728"
+        }
+      ]
+    },
+    {
+      "ide": "128990",
+      "date": "1968-07-12",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From Up There"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128991",
+      "date": "1968-07-19",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cage, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-07-19 (21) The Cage.mp3",
+          "time": "1565",
+          "size": "6305792"
+        }
+      ]
+    },
+    {
+      "ide": "128992",
+      "date": "1968-07-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Broadcast"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128993",
+      "date": "1968-08-02",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Risk Profession, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128994",
+      "date": "1968-08-09",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time To Rest"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128995",
+      "date": "1968-08-16",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Space Cow, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128996",
+      "date": "1968-08-23",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Escape Mechanism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128997",
+      "date": "1968-08-30",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sands Of Time, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128998",
+      "date": "1968-09-06",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eye Of The Beholder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "128999",
+      "date": "1968-09-13",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yellow Pill, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "129000",
+      "date": "1968-09-20",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Watchbird"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-09-20 (29) Watchbird.mp3",
+          "time": "1622",
+          "size": "4865676"
+        }
+      ]
+    },
+    {
+      "ide": "129001",
+      "date": "1968-09-27",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Castaway, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-09-27 (30) The Castaway.mp3",
+          "time": "1520",
+          "size": "12160522"
+        }
+      ]
+    },
+    {
+      "ide": "129002",
+      "date": "1968-10-04",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Breaking Strain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "129003",
+      "date": "1968-10-11",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Wine, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-10-11 (32) The New Wine.mp3",
+          "time": "1705",
+          "size": "6846464"
+        }
+      ]
+    },
+    {
+      "ide": "129004",
+      "date": "1968-10-18",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grenville's Planet (Stereo)"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "SF68",
+          "name": "SF68 68-10-18 (33) Grenville's Planet (Stereo) (2).mp3",
+          "time": "1643",
+          "size": "3285159"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "SF68"
+    }
+  ]
+}

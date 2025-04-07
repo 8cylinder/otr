@@ -1,0 +1,67 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,815071,00.html",
+      "label": "1951-07-02: The New Shows",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1324",
+      "first": "Bob",
+      "last": "Crosby",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1950-01-21",
+      "dow": "Sa",
+      "time": "8:00 PM",
+      "end": "1950-07-08",
+      "length": "60",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1951-06-21",
+      "dow": "F",
+      "time": "8:00 PM",
+      "end": "1951-10-05",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Rayburn And Finch Show"
+    }
+  ]
+}

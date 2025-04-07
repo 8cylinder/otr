@@ -1,0 +1,152 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4923",
+      "first": "Phil",
+      "last": "Regan",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "25100",
+      "first": "Harry",
+      "last": "Jackson",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314439",
+      "date": "1951-01-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Three Little Words (Audition)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phil Regan Show",
+          "name": "Phil Regan Show 510102 xxx 1st Song - Three Little Words (Audition)_OTRRPG.mp3",
+          "time": "1623",
+          "size": "25976994"
+        },
+        {
+          "path": "P",
+          "folder": "Phil Regan Show",
+          "name": "Phil Regan Show 510102 xxx 1st Song - Three Little Words (Audition).mp3",
+          "time": "1619",
+          "size": "12952325"
+        },
+        {
+          "path": "P",
+          "folder": "Phil Regan Show",
+          "name": "Phil Regan Show, The 51-01-02 First Tune - Three Little Words (Audition).mp3",
+          "time": "1619",
+          "size": "12951588"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1935-09-26",
+      "dow": "Th",
+      "time": "7:15 PM",
+      "end": "1935-10-07",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1951-03-04",
+      "dow": "Su",
+      "time": "",
+      "end": "1951-08-26",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1951-03-04",
+      "dow": "",
+      "time": "5:00 PM",
+      "end": "1951-05-27",
+      "length": "25",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1951-06-03",
+      "dow": "",
+      "time": "5:30 PM",
+      "end": "1951-08-26",
+      "length": "25",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1932-00-00",
+      "dow": "M,W,F",
+      "time": "",
+      "end": "1932-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Syndicated",
+      "begin": "1935-09-26",
+      "end": "1935-10-07"
+    },
+    {
+      "sponsor": "Syndicated",
+      "begin": "1951-03-04",
+      "end": "1951-08-26"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Phil Regan Show, The"
+    }
+  ]
+}

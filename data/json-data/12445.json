@@ -1,0 +1,117 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50835",
+      "first": "Father James",
+      "last": "Keller",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311102",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christopher Program 5x-xx-xx"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Christopher Program 5x-xx-xx.mp3",
+          "time": "969",
+          "size": "7752096"
+        }
+      ]
+    },
+    {
+      "ide": "312951",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Father James Keller Interviews Fred Allen"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Christopher Program",
+          "name": "Christopher Program 5xxxxx xxx Father James Keller Interviews Fred Allen_OTRRPG.mp3",
+          "time": "969",
+          "size": "15505536"
+        }
+      ]
+    },
+    {
+      "ide": "325596",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What One Person Can Do"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Christopher Program",
+          "name": "Christopher Program 195x.xx.xx What One Person Can Do.mp3",
+          "time": "969",
+          "size": "3981931"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Christopher Program"
+    },
+    {
+      "title": "Christopher Program, The"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2741",
+      "first": "Al",
+      "last": "Hodge",
+      "f": "Noted Role",
+      "character": "Jonathan Brixton"
+    },
+    {
+      "idperson": "3533",
+      "first": "Forrest",
+      "last": "Lewis",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4836",
+      "first": "Michael",
+      "last": "Raffetto",
+      "f": "Noted Role",
+      "character": "Roger Allen"
+    },
+    {
+      "idperson": "4836",
+      "first": "Michael",
+      "last": "Raffetto",
+      "f": "Noted Role",
+      "character": "Jonathan Brixton"
+    },
+    {
+      "idperson": "6504",
+      "first": "Barton",
+      "last": "Yarborough",
+      "f": "Noted Role",
+      "character": "Brixton"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "246530",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Brixton - Blacklock Murder Case"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jonathan Brixton",
+          "name": "Jonathan Brixton 1940.xx.xx Blacklock Murder Case.mp3",
+          "time": "1544",
+          "size": "6283989"
+        }
+      ]
+    },
+    {
+      "ide": "245822",
+      "date": "1944-12-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Attorney For The Defense - Murder Of Charles Stuart Grant"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Attorney For Defense",
+          "name": "Attorney For Defense 1944.12.14 Murder Of Charles Stuart Grant.mp3",
+          "time": "1818",
+          "size": "7380992"
+        }
+      ]
+    },
+    {
+      "ide": "78569",
+      "date": "1946-06-09",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "[PREMIERE Sundays, 5pm on MUTUAL]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "78570",
+      "date": "1946-06-16",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Roger Allen employs courtroom magic to defend man on trial for murder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "78571",
+      "date": "1946-06-23",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Series title changed to ROGER ALLEN, CRIMINAL LAWYER]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "78572",
+      "date": "1946-06-30",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "78573",
+      "date": "1946-07-07",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "78574",
+      "date": "1946-07-14",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "78575",
+      "date": "1946-07-21",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[FINAL EPISODE]"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Attorney For The Defense"
+    },
+    {
+      "title": "Jonathan Brixton"
+    },
+    {
+      "title": "Jonathan Brixton's Murder Cases"
+    },
+    {
+      "title": "Roger Allen-Criminal Attorney"
+    }
+  ]
+}

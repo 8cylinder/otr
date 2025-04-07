@@ -1,0 +1,195 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "2854",
+      "web": "",
+      "url": "0",
+      "source": "The Old Radio Times",
+      "idpytype": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4374",
+      "first": "Wayne",
+      "last": "Nelson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3545",
+      "first": "Ted",
+      "last": "Lewis",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "8606",
+      "first": "Paul",
+      "last": "Arnold",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "17470",
+      "first": "Geraldine",
+      "last": "Dubois",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "When My Baby Smiles At Me"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "324326",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From San Francisco"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Ted Lewis",
+          "name": "Ted Lewis 19xx.xx.xx From San Francisco.mp3",
+          "time": "1422",
+          "size": "5794266"
+        }
+      ]
+    },
+    {
+      "ide": "324327",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ted Lewis And Geraldine Dubois"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Ted Lewis",
+          "name": "Ted Lewis 19xx.xx.xx Ted Lewis And Geraldine Dubois.mp3",
+          "time": "1371",
+          "size": "5591162"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1948-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Syndicated"
+    },
+    {
+      "begin": "1946-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1946-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-10-01",
+      "dow": "Th",
+      "time": "8:00 PM",
+      "end": "1947-11-25",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Syndicated",
+      "begin": "1934-00-00",
+      "end": "1947-11-25"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Ted Lewis Show"
+    }
+  ]
+}

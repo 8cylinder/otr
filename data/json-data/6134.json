@@ -1,0 +1,233 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [
+    {
+      "info": "Summer replacement for The Alan Young Show"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "4463",
+      "first": "George",
+      "last": "O'Hanlon",
+      "f": "Noted Role",
+      "character": "Janie's husband"
+    },
+    {
+      "idperson": "1797",
+      "first": "Hope",
+      "last": "Emerson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3124",
+      "first": "Joseph",
+      "last": "Kearns",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4154",
+      "first": "Marvin",
+      "last": "Miller",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6016",
+      "first": "Lurene",
+      "last": "Tuttle",
+      "f": "Noted Role",
+      "character": "Janie"
+    },
+    {
+      "idperson": "6211",
+      "first": "Willard",
+      "last": "Waterman",
+      "f": "Noted Role",
+      "character": "Boss"
+    },
+    {
+      "idperson": "7591",
+      "first": "Jeffrey",
+      "last": "Silver",
+      "f": "Noted Role",
+      "character": "Son"
+    },
+    {
+      "idperson": "17505",
+      "first": "John",
+      "last": "Duffy",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "48560",
+      "first": "Ann",
+      "last": "Wilson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1898",
+      "first": "Verna",
+      "last": "Felton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3731",
+      "first": "Helen",
+      "last": "Mack",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "6384",
+      "first": "Don",
+      "last": "Wilson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "7300",
+      "first": "Lois",
+      "last": "Corbett",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "323549",
+      "date": "1949-10-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Me And Janie"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Me And Janie",
+          "name": "Me And Janie 1949.10.20 Me And Janie.mp3",
+          "time": "1799",
+          "size": "7305494"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sitcom"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-07-12",
+      "dow": "Tu",
+      "time": "8:30 PM",
+      "end": "1949-11-01",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Tums",
+      "begin": "1949-07-12",
+      "end": "1949-11-01"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Me and Janie"
+    },
+    {
+      "title": "Behind The Eight Ball"
+    }
+  ]
+}

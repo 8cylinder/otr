@@ -1,0 +1,812 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Raymond Scott/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1168",
+      "first": "Dorothy",
+      "last": "Collins",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "5309",
+      "first": "Raymond",
+      "last": "Scott",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5309",
+      "first": "Raymond",
+      "last": "Scott",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Pretty Little Petticoat"
+    },
+    {
+      "theme": "Toy Trumpet"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "319362",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First song - Just Close Your Eyes"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Raymond Scott",
+          "name": "Raymond Scott 44-11-06 First song - Just Close Your Eyes.mp3",
+          "time": "858",
+          "size": "6866633"
+        }
+      ]
+    },
+    {
+      "ide": "248592",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - My Shining Hour"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248590",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Candlelight and Wine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248591",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - My Heart Tells Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248593",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - So Little Time"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121437",
+      "date": "1944-01-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Star Eyes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121438",
+      "date": "1944-01-21",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - I'll Be Around"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121439",
+      "date": "1944-02-14",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Little Did I Know"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121440",
+      "date": "1944-02-18",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - I'll Be Around"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121441",
+      "date": "1944-03-06",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Paper Doll"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121442",
+      "date": "1944-03-23",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "121443",
+      "date": "1944-03-31",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Poinciana"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121444",
+      "date": "1944-04-04",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Poinciana"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121445",
+      "date": "1944-04-10",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Candlelight and Wine (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121446",
+      "date": "1944-04-12",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "121447",
+      "date": "1944-04-14",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Second Tune - Now I Know"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121448",
+      "date": "1944-04-19",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - I Love You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121449",
+      "date": "1944-04-21",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Poinciana"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121450",
+      "date": "1944-04-24",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - My Ideal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121451",
+      "date": "1944-05-12",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - I'll Get By"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121452",
+      "date": "1944-05-17",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - I'll Get By"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121453",
+      "date": "1944-05-22",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Goodnight, Wherever You Are"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121454",
+      "date": "1944-05-31",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Together"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121455",
+      "date": "1944-06-23",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Quiet as a Bear"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121457",
+      "date": "1944-07-07",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Someday, I'll Meet You Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121458",
+      "date": "1944-07-11",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Amor"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121459",
+      "date": "1944-07-12",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Long Ago and Far Away"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121460",
+      "date": "1944-07-13",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - I'll Be Seeing You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121461",
+      "date": "1944-07-24",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Time Waits for No One"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121462",
+      "date": "1944-07-25",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - I'll Meet You Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121463",
+      "date": "1944-07-31",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - I'll Be Seeing You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121464",
+      "date": "1944-08-02",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Fellow on a Furlough"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121465",
+      "date": "1944-08-11",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Together"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Raymond Scott",
+          "name": "Raymond Scott Show - 440811 - AFRS #074 - 1st It Could Happen to You.mp3",
+          "time": "914",
+          "size": "10968052"
+        }
+      ]
+    },
+    {
+      "ide": "121466",
+      "date": "1944-08-14",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Sweet and Lovely"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121467",
+      "date": "1944-08-23",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Sweet and Lovely"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121468",
+      "date": "1944-08-24",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Second Tune - Time Waits for No One"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121469",
+      "date": "1944-08-25",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Two Way Stretch"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121470",
+      "date": "1944-09-05",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Sweet and Lovely"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121471",
+      "date": "1944-09-06",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "121472",
+      "date": "1944-09-07",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "121473",
+      "date": "1944-09-08",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "319363",
+      "date": "1944-09-13",
+      "epnum": "90",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Every Day of My Life"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Raymond Scott",
+          "name": "Raymond Scott Show - 440913 - AFRS #090 - 1st Every Day of My Life.mp3",
+          "time": "925",
+          "size": "11094504"
+        }
+      ]
+    },
+    {
+      "ide": "121474",
+      "date": "1944-10-03",
+      "epnum": "147",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "328661",
+      "date": "1944-10-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0154 Raymond Scott Show - Dorothy Collins"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Raymond Scott",
+          "name": "AFRS Collection 1944.10.11 0154 Raymond Scott Show - Dorothy Collins.mp3",
+          "time": "927",
+          "size": "3815424"
+        }
+      ]
+    },
+    {
+      "ide": "328663",
+      "date": "1944-10-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0155 Raymond Scott Show - Dorothy Collins"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Raymond Scott",
+          "name": "AFRS Collection 1944.10.16 0155 Raymond Scott Show - Dorothy Collins.mp3",
+          "time": "926",
+          "size": "3813376"
+        }
+      ]
+    },
+    {
+      "ide": "121475",
+      "date": "1944-10-31",
+      "epnum": "112",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - I'll Walk Alone"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Raymond Scott",
+          "name": "Raymond Scott 44-11-03 First song - I Walk Alone.mp3",
+          "time": "853",
+          "size": "6822953"
+        },
+        {
+          "path": "R",
+          "folder": "Raymond Scott",
+          "name": "Raymond Scott Show - 440815 - AFRS #075 - 1st I'll Walk Alone.mp3",
+          "time": "918",
+          "size": "11018445"
+        },
+        {
+          "path": "R",
+          "folder": "Raymond Scott",
+          "name": "Raymond Scott Show - 440914 - AFRS #091 - 1st I'll Walk Alone.mp3",
+          "time": "924",
+          "size": "11088557"
+        }
+      ]
+    },
+    {
+      "ide": "121476",
+      "date": "1944-11-01",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - A Fellow on a Furlough"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121477",
+      "date": "1944-12-01",
+      "epnum": "126",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Strange Music"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "121478",
+      "date": "1944-12-04",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Confessin'"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-01-03",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1944-12-12",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1943-07-16",
+      "dow": "F",
+      "time": "11:30 PM",
+      "end": "1943-08-13",
+      "length": "30",
+      "country": "USA",
+      "network": "CBC"
+    },
+    {
+      "begin": "1940-01-09",
+      "dow": "",
+      "time": "",
+      "end": "1940-04-16",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1940-04-23",
+      "dow": "Su",
+      "time": "",
+      "end": "1940-05-12",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1942-04-08",
+      "dow": "W",
+      "time": "8:00 PM",
+      "end": "1942-04-22",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1943-08-17",
+      "dow": "Tu",
+      "time": "11:30 PM",
+      "end": "1943-10-19",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1943-10-27",
+      "dow": "Th",
+      "time": "11:30 PM",
+      "end": "1944-01-06",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1943-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1944-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Raymond Scott Show, The"
+    }
+  ]
+}

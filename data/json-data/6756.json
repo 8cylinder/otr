@@ -1,0 +1,539 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "NERO"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/N Series/Nero Wolfe - CBC/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Nero_Wolfe",
+      "label": "Wikipedia (Nero Wolfe)",
+      "idtype": "1"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Nero_Wolfe_(radio)",
+      "label": "Wikipedia (Nero Wolfe (radio))",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.nerowolfe.org/htm/miscmedia/miscmedia.htm#radio",
+      "label": "The Wolfe Pack - Nero Wolfe in Other Media",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/nwc.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.thrillingdetective.com/non_fiction/e002.html",
+      "label": "Nero Wolfe: A Social Commentary on the U.S. - Essay by Marcia Kiser",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.thrillingdetective.com/wolfe.html",
+      "label": "Thrilling Detective - Nero Wolfe and Archie Goodwin",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "319054",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder in the Flood Stranded House"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Neroxx.xx.xx Murder in the Flood Stranded House.mp3",
+          "time": "1286",
+          "size": "3858270"
+        }
+      ]
+    },
+    {
+      "ide": "16342",
+      "date": "1982-01-16",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Disguise For Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.01.16 Disquise For Murder.mp3",
+          "time": "2872",
+          "size": "11486206"
+        }
+      ]
+    },
+    {
+      "ide": "16343",
+      "date": "1982-01-23",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Before I Die"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.01.23 Before I Die.mp3",
+          "time": "2985",
+          "size": "11939629"
+        }
+      ]
+    },
+    {
+      "ide": "16344",
+      "date": "1982-01-30",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Counterfeit for Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.01.30 Counterfeit Murder.mp3",
+          "time": "3078",
+          "size": "12313224"
+        }
+      ]
+    },
+    {
+      "ide": "16345",
+      "date": "1982-02-06",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cop Killer, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.02.06 Cop Killer.mp3",
+          "time": "3102",
+          "size": "12407681"
+        }
+      ]
+    },
+    {
+      "ide": "16346",
+      "date": "1982-02-13",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Party"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.02.13 Christmas Party.mp3",
+          "time": "3276",
+          "size": "13105003"
+        }
+      ]
+    },
+    {
+      "ide": "16347",
+      "date": "1982-02-20",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cordially Invited to Meet Death"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.02.20 Cordially Invited To Meet Death.mp3",
+          "time": "3217",
+          "size": "12867987"
+        }
+      ]
+    },
+    {
+      "ide": "16348",
+      "date": "1982-02-27",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Alive"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.02.27 Man Alive.mp3",
+          "time": "3155",
+          "size": "9465961"
+        }
+      ]
+    },
+    {
+      "ide": "16349",
+      "date": "1982-03-06",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Instead of Evidence"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.03.06 Instead Of Evidence.mp3",
+          "time": "3229",
+          "size": "12916444"
+        }
+      ]
+    },
+    {
+      "ide": "16350",
+      "date": "1982-03-13",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eeny Meeny Murder Mo"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.03.13 Eeny Meeny Murder Mo.mp3",
+          "time": "3246",
+          "size": "12986061"
+        }
+      ]
+    },
+    {
+      "ide": "16351",
+      "date": "1982-03-20",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Squirt and the Monkey, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.03.20 The Squirt And The Monkey.mp3",
+          "time": "3194",
+          "size": "9583508"
+        }
+      ]
+    },
+    {
+      "ide": "16352",
+      "date": "1982-03-27",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Next Witness, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.03.27 The Next Witness.mp3",
+          "time": "3280",
+          "size": "13121783"
+        }
+      ]
+    },
+    {
+      "ide": "16353",
+      "date": "1982-04-03",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death of a Demon"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.04.03 Death Of A Demon.mp3",
+          "time": "3194",
+          "size": "9583354"
+        }
+      ]
+    },
+    {
+      "ide": "16354",
+      "date": "1982-04-10",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder is No Joke"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nero Wolfe - CBC",
+          "name": "Nero82.04.10 Murder Is No Joke.mp3",
+          "time": "3168",
+          "size": "12671728"
+        }
+      ]
+    },
+    {
+      "ide": "16355",
+      "date": "1985-08-11",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Disguise for Murder (R)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16356",
+      "date": "1985-08-18",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Before I Die (R)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16357",
+      "date": "1985-08-25",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Counterfeit Murder (R)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16358",
+      "date": "1985-09-01",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cop Killer (R), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16359",
+      "date": "1985-09-15",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Party (R)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16360",
+      "date": "1985-09-22",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cordially Invited to Meet Death (R)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16361",
+      "date": "1985-09-29",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Alive (R)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16362",
+      "date": "1985-10-06",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Instead of Evidence (R)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16363",
+      "date": "1985-10-13",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eeny Meeny Murder Mo (R)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16364",
+      "date": "1985-10-20",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Squirt and the Monkey (R), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16365",
+      "date": "1985-10-27",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Next Witness (R), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16366",
+      "date": "1985-11-03",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death of a Demon (R)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "16367",
+      "date": "1985-11-10",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder is No Joke (R)"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Private Detective"
+    },
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Nero Wolfe - CBC"
+    }
+  ]
+}

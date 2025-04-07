@@ -1,0 +1,163 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/L Series/Luncheon At Sardis/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Sardi%27s",
+      "label": "Wikipedia",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2754",
+      "first": "George",
+      "last": "Hogan",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2774",
+      "first": "Judy",
+      "last": "Holliday",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5490",
+      "first": "Tom",
+      "last": "Slater",
+      "f": "Noted Role",
+      "character": "Co-Host"
+    },
+    {
+      "idperson": "356",
+      "first": "Paul",
+      "last": "Baron",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1061",
+      "first": "Ilka",
+      "last": "Chase",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "3683",
+      "first": "Frank",
+      "last": "Luther",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314021",
+      "date": "1947-04-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Mrs Book"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Luncheon At Sardis",
+          "name": "Luncheon At Sardis 470405 xxx Guest - Mrs Book_OTRRPG.mp3",
+          "time": "1764",
+          "size": "28309648"
+        }
+      ]
+    },
+    {
+      "ide": "314022",
+      "date": "1947-05-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Susan Shayne"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Luncheon At Sardis",
+          "name": "Luncheon At Sardis 470517 xxx Guest - Susan Shayne_OTRRPG.mp3",
+          "time": "329",
+          "size": "5344246"
+        },
+        {
+          "path": "L",
+          "folder": "Luncheon At Sardis",
+          "name": "Luncheon At Sardis 47-05-17 Guest - Susan Shayne.mp3",
+          "time": "331",
+          "size": "2650487"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Interview"
+    },
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-02-24",
+      "dow": "M,Tu,W,Th,F,Sa",
+      "time": "",
+      "end": "1941-05-10",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "R. J. Reynolds Camel Cigarettes",
+      "begin": "1940-02-24",
+      "end": "1941-05-10"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Luncheon at Sardi's"
+    }
+  ]
+}

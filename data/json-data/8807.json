@@ -1,0 +1,4828 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064619-dfe1d3c2.jpg",
+      "label": "Terry And The Pirates CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064621-77a6ea7a.jpg",
+      "label": "Terry And The Pirates",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064627-ae1ae285.jpg",
+      "label": "Terry and the Pirates CD",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064630-0161d791.jpg",
+      "label": "Terry & the Pirates CD",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064634-4df5159c.jpg",
+      "label": "Terry & the Pirates CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064638-c6cee5e7.jpg",
+      "label": "Terry & the Pirates CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-45.html",
+      "label": "The Golden Age of Radio: Program 45 - December, 1973 - Himan Brown",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-67.html",
+      "label": "The Golden Age of Radio: Program 67 - October, 1975 - Frances Chaney",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otr.com/terry_pirate.shtml",
+      "label": "Terry and the Pirates by James F. Widner",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8807-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrsite.com/logs/logt1027.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19451946day.html",
+      "label": "Daytime Ratings: (1945-1946: #17)",
+      "idtype": "7"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,776278,00.html",
+      "label": "1945-10-08: After-Hours School",
+      "idtype": "11"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/Terry And The Pirates/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "770",
+      "first": "Himan",
+      "last": "Brown",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "792",
+      "first": "Douglas",
+      "last": "Browning",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "936",
+      "first": "Milton",
+      "last": "Caniff",
+      "f": "Noted Role",
+      "character": "Based on his comics"
+    },
+    {
+      "idperson": "939",
+      "first": "Charles 'Charlie'",
+      "last": "Cantor",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1047",
+      "first": "Frances",
+      "last": "Chaney",
+      "f": "Noted Role",
+      "character": "Burma"
+    },
+    {
+      "idperson": "1173",
+      "first": "Clayton 'Bud'",
+      "last": "Collyer",
+      "f": "Noted Role",
+      "character": "Pat Ryan"
+    },
+    {
+      "idperson": "1473",
+      "first": "Ted",
+      "last": "de Corsia",
+      "f": "Noted Role",
+      "character": "Flip Corkin"
+    },
+    {
+      "idperson": "1587",
+      "first": "Peter",
+      "last": "Donald",
+      "f": "Noted Role",
+      "character": "Connie"
+    },
+    {
+      "idperson": "2196",
+      "first": "John",
+      "last": "Gibson",
+      "f": "Noted Role",
+      "character": "Connie"
+    },
+    {
+      "idperson": "2764",
+      "first": "Jonathan",
+      "last": "Hole",
+      "f": "Noted Role",
+      "character": "Hotshot Charlie"
+    },
+    {
+      "idperson": "2953",
+      "first": "Hugh",
+      "last": "James",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3127",
+      "first": "Kelvin",
+      "last": "Keech",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3138",
+      "first": "Jackie",
+      "last": "Kelk",
+      "f": "Noted Role",
+      "character": "Terry Lee"
+    },
+    {
+      "idperson": "3267",
+      "first": "Adelaide",
+      "last": "Klein",
+      "f": "Noted Role",
+      "character": "Dragon Lady"
+    },
+    {
+      "idperson": "3305",
+      "first": "Mandel",
+      "last": "Kramer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3730",
+      "first": "Gilbert 'Gil'",
+      "last": "Mack",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4235",
+      "first": "Agnes",
+      "last": "Moorehead",
+      "f": "Noted Role",
+      "character": "Dragon Lady"
+    },
+    {
+      "idperson": "4429",
+      "first": "Cliff",
+      "last": "Norton",
+      "f": "Noted Role",
+      "character": "Connie"
+    },
+    {
+      "idperson": "4681",
+      "first": "Howard",
+      "last": "Petrie",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5165",
+      "first": "Gerta",
+      "last": "Rozan",
+      "f": "Noted Role",
+      "character": "Eleta"
+    },
+    {
+      "idperson": "5771",
+      "first": "Marion",
+      "last": "Sweet",
+      "f": "Noted Role",
+      "character": "Dragon Lady"
+    },
+    {
+      "idperson": "6816",
+      "first": "Cliff",
+      "last": "Carpenter",
+      "f": "Noted Role",
+      "character": "Terry Lee"
+    },
+    {
+      "idperson": "6860",
+      "first": "Owen",
+      "last": "Jordan",
+      "f": "Noted Role",
+      "character": "Terry Lee"
+    },
+    {
+      "idperson": "7193",
+      "first": "Jay",
+      "last": "Meredith",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7433",
+      "first": "Al",
+      "last": "Barker",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7583",
+      "first": "Wylie",
+      "last": "Adams",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "7634",
+      "first": "John",
+      "last": "Moore",
+      "f": "Noted Role",
+      "character": "Gaptain Goodhue"
+    },
+    {
+      "idperson": "7723",
+      "first": "Cameron",
+      "last": "Andrews",
+      "f": "Noted Role",
+      "character": "Hot Shot Charlie"
+    },
+    {
+      "idperson": "8050",
+      "first": "Larry",
+      "last": "Alexander",
+      "f": "Noted Role",
+      "character": "Patrick Ryan"
+    },
+    {
+      "idperson": "18319",
+      "first": "Carl",
+      "last": "Emory",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "18868",
+      "first": "Bill",
+      "last": "Fein",
+      "f": "Noted Role",
+      "character": "Terry Lee"
+    },
+    {
+      "idperson": "21754",
+      "first": "Robert 'Bob'",
+      "last": "Griffin",
+      "f": "Noted Role",
+      "character": "Patrick Ryan"
+    },
+    {
+      "idperson": "35734",
+      "first": "Royal",
+      "last": "Raymond",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "39661",
+      "first": "Warner",
+      "last": "Anderson",
+      "f": "Noted Role",
+      "character": "Patrick Ryan"
+    },
+    {
+      "idperson": "50384",
+      "first": "William",
+      "last": "Podmore",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50521",
+      "first": "James",
+      "last": "Fleming",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "51084",
+      "first": "James",
+      "last": "Wang",
+      "f": "Noted Role",
+      "character": "Connie"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "436",
+      "idtype": "4",
+      "page": "10",
+      "article": "",
+      "url": "",
+      "date": "1996-11-01",
+      "source": "Hello Again/HA_V27_(06)NovDec96.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 27 #06 Nov/Dec 1996",
+      "author": ""
+    },
+    {
+      "idprint": "615",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1992-03-01",
+      "source": "Illustrated Press/IP_186.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #186 Mar 92",
+      "author": ""
+    },
+    {
+      "idprint": "616",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1992-04-01",
+      "source": "Illustrated Press/IP_187.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #187 Apr 92",
+      "author": ""
+    },
+    {
+      "idprint": "642",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1994-06-01",
+      "source": "Illustrated Press/IP_213.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #213 Jun 94",
+      "author": ""
+    },
+    {
+      "idprint": "730",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1996-03-01",
+      "source": "Illustrated Press/IP_234.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#234) - Mar 1996",
+      "author": ""
+    },
+    {
+      "idprint": "745",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1997-05-01",
+      "source": "Illustrated Press/IP_248.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#248) - May 1997",
+      "author": ""
+    },
+    {
+      "idprint": "1472",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "1997-02-01",
+      "source": "Nostalgia Digest/NostalgiaDigest_V23_(02)FebMar97.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia Digest - V23 (02) Feb-Mar97",
+      "author": ""
+    },
+    {
+      "idprint": "1118",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "1979-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01)",
+      "author": ""
+    },
+    {
+      "idprint": "1120",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "2008-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01Rev)_79.pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01Rev) 1979",
+      "author": ""
+    },
+    {
+      "idprint": "1120",
+      "idtype": "4",
+      "page": "28",
+      "article": "",
+      "url": "",
+      "date": "2008-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01Rev)_79.pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01Rev) 1979",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1627",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "1996-03-01",
+      "source": "OTR Digest_1990s/OTRDigest_(074)MarApr96.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (74) Mar-Apr 1996",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "116",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "150",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "19",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Ambushes Everywhere"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "242482",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In Calcutta, India"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-xx-xx (xxx) In Calcutta, India.mp3",
+          "time": "866",
+          "size": "3466360"
+        }
+      ]
+    },
+    {
+      "ide": "242483",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Working in Hospital in China"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "331658",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 46-12-13 (042) Fatal Evidence.mp3",
+          "time": "867",
+          "size": "5200626"
+        }
+      ]
+    },
+    {
+      "ide": "141034",
+      "date": "1937-11-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Episode"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141035",
+      "date": "1938-06-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141036",
+      "date": "1938-09-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141037",
+      "date": "1939-03-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141038",
+      "date": "1941-10-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141039",
+      "date": "1941-10-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141040",
+      "date": "1941-10-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141041",
+      "date": "1941-10-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141042",
+      "date": "1941-10-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141043",
+      "date": "1941-10-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141044",
+      "date": "1941-10-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141045",
+      "date": "1941-10-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141046",
+      "date": "1941-10-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141047",
+      "date": "1941-10-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141048",
+      "date": "1941-10-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141049",
+      "date": "1941-10-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141050",
+      "date": "1941-10-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141051",
+      "date": "1941-10-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141052",
+      "date": "1941-10-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141053",
+      "date": "1941-10-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141054",
+      "date": "1941-10-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141055",
+      "date": "1941-10-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141056",
+      "date": "1941-10-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141057",
+      "date": "1941-10-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141058",
+      "date": "1941-11-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141059",
+      "date": "1941-11-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141060",
+      "date": "1941-11-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141061",
+      "date": "1941-11-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141062",
+      "date": "1941-11-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141063",
+      "date": "1941-11-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141064",
+      "date": "1941-11-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141065",
+      "date": "1941-11-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141066",
+      "date": "1941-11-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141067",
+      "date": "1941-11-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141068",
+      "date": "1941-11-17",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terry Connie and Pat"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-11-17 (031) Terry, Connie and Pat.mp3",
+          "time": "826",
+          "size": "3305482"
+        }
+      ]
+    },
+    {
+      "ide": "141069",
+      "date": "1941-11-18",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terry Connie and Pat"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-11-18 (032) Terry, Connie and Pat.mp3",
+          "time": "812",
+          "size": "3248138"
+        }
+      ]
+    },
+    {
+      "ide": "141070",
+      "date": "1941-11-19",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Radio Device Missing"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-11-19 (033) Radio Device Missing.mp3",
+          "time": "812",
+          "size": "3250186"
+        }
+      ]
+    },
+    {
+      "ide": "141071",
+      "date": "1941-11-20",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cabinets Switched"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-11-20 (034) Cabinets Switched.mp3",
+          "time": "823",
+          "size": "3291146"
+        }
+      ]
+    },
+    {
+      "ide": "141072",
+      "date": "1941-11-21",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Escape in Progress"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-11-21 (035) Escape in Progress.mp3",
+          "time": "822",
+          "size": "3289098"
+        }
+      ]
+    },
+    {
+      "ide": "141073",
+      "date": "1941-11-24",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Enemy Overpowered"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-11-24 (036) Enemy Overpowered.mp3",
+          "time": "828",
+          "size": "3315722"
+        }
+      ]
+    },
+    {
+      "ide": "141074",
+      "date": "1941-11-25",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "General Chang Held"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-11-25 (037) General Chang Held.mp3",
+          "time": "821",
+          "size": "3285002"
+        }
+      ]
+    },
+    {
+      "ide": "141075",
+      "date": "1941-11-26",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Approaching with Care"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-11-26 (038) Approaching with Care.mp3",
+          "time": "807",
+          "size": "3227658"
+        }
+      ]
+    },
+    {
+      "ide": "141076",
+      "date": "1941-11-27",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "General Chang Is Imposter"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-11-27 (039) Gen Chang Is Impostor.mp3",
+          "time": "807",
+          "size": "3227658"
+        }
+      ]
+    },
+    {
+      "ide": "141077",
+      "date": "1941-11-28",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Radio Turned Over"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-11-28 (040) Radio Turned over.mp3",
+          "time": "814",
+          "size": "3256330"
+        }
+      ]
+    },
+    {
+      "ide": "141078",
+      "date": "1941-12-01",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snowbound"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-01 (041) Snowbound.mp3",
+          "time": "861",
+          "size": "3445245"
+        }
+      ]
+    },
+    {
+      "ide": "141079",
+      "date": "1941-12-02",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Icy Winds Of China"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-02 (042) Icy Winds Of China.mp3",
+          "time": "894",
+          "size": "3576284"
+        }
+      ]
+    },
+    {
+      "ide": "141080",
+      "date": "1941-12-03",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mountain Madness"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-03 (043) Mountain Madness.mp3",
+          "time": "863",
+          "size": "3452566"
+        }
+      ]
+    },
+    {
+      "ide": "141081",
+      "date": "1941-12-04",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "HiDeHo"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-04 (044) Hi-De-Ho.mp3",
+          "time": "882",
+          "size": "3526535"
+        }
+      ]
+    },
+    {
+      "ide": "141082",
+      "date": "1941-12-05",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rescued"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-05 (045) Rescued.mp3",
+          "time": "881",
+          "size": "3617759"
+        }
+      ]
+    },
+    {
+      "ide": "141083",
+      "date": "1941-12-08",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Charming Mr Pennington Hook"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-08 (046) Charming Mr Pennington Hook.mp3",
+          "time": "842",
+          "size": "3370239"
+        }
+      ]
+    },
+    {
+      "ide": "141084",
+      "date": "1941-12-09",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Intrigue in Minchow"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-09 (047) Intrigue in Minchow.mp3",
+          "time": "855",
+          "size": "3419550"
+        }
+      ]
+    },
+    {
+      "ide": "141085",
+      "date": "1941-12-10",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missing Scientist"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-10 (048) Missing Scientist.mp3",
+          "time": "890",
+          "size": "3561445"
+        }
+      ]
+    },
+    {
+      "ide": "141086",
+      "date": "1941-12-11",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clue In The Snow"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-11 (049) Clue In The Snow.mp3",
+          "time": "841",
+          "size": "3364376"
+        }
+      ]
+    },
+    {
+      "ide": "141087",
+      "date": "1941-12-12",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Amazing Gas Of Destruction"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-12 (050) Amazing Gas Of Destruction.mp3",
+          "time": "852",
+          "size": "3409108"
+        }
+      ]
+    },
+    {
+      "ide": "141088",
+      "date": "1941-12-15",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terry's Fatal Mistake"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-15 (051) Terry's Fatal Mistake.mp3",
+          "time": "857",
+          "size": "3429165"
+        }
+      ]
+    },
+    {
+      "ide": "141089",
+      "date": "1941-12-16",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Midnight Stranger"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-16 (052) Midnight Stranger.mp3",
+          "time": "858",
+          "size": "3431042"
+        }
+      ]
+    },
+    {
+      "ide": "141090",
+      "date": "1941-12-17",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Locked In The Gas Chamber"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-17 (053) Locked In The Gas Chamber.mp3",
+          "time": "881",
+          "size": "3523210"
+        }
+      ]
+    },
+    {
+      "ide": "141091",
+      "date": "1941-12-18",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "S O S  Reveals The Villain"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-18 (054) S.O.S. Reveals The Villian.mp3",
+          "time": "856",
+          "size": "3422689"
+        }
+      ]
+    },
+    {
+      "ide": "141092",
+      "date": "1941-12-19",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hook Captured"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-19 (055) Hook Captured.mp3",
+          "time": "858",
+          "size": "3434382"
+        }
+      ]
+    },
+    {
+      "ide": "141093",
+      "date": "1941-12-22",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doctor Found"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-22 (056) Doctor Found.mp3",
+          "time": "849",
+          "size": "3397182"
+        }
+      ]
+    },
+    {
+      "ide": "141094",
+      "date": "1941-12-23",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poison Gas Explosion"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-23 (057) Poison Gas Explosion.mp3",
+          "time": "870",
+          "size": "3482245"
+        }
+      ]
+    },
+    {
+      "ide": "141095",
+      "date": "1941-12-24",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gas Destroys Steel"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-24 (058) Gas Destroys Steel.mp3",
+          "time": "862",
+          "size": "3447343"
+        }
+      ]
+    },
+    {
+      "ide": "141096",
+      "date": "1941-12-25",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Present Exchange"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-25 (059) Christmas Present Exchange.mp3",
+          "time": "873",
+          "size": "3493536"
+        }
+      ]
+    },
+    {
+      "ide": "141097",
+      "date": "1941-12-26",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secret Formula Safe"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 41-12-26 (060) Secret Formula Safe.mp3",
+          "time": "871",
+          "size": "3483080"
+        }
+      ]
+    },
+    {
+      "ide": "141098",
+      "date": "1941-12-29",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Taking Pictures"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 41-12-29 (61) Taking Pictures of the Burma Road.mp3",
+          "time": "794",
+          "size": "6349305"
+        }
+      ]
+    },
+    {
+      "ide": "141099",
+      "date": "1941-12-30",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To Be Nurses"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 41-12-30 (62) To Be Nurses on the Burma Road.mp3",
+          "time": "817",
+          "size": "6539411"
+        }
+      ]
+    },
+    {
+      "ide": "141100",
+      "date": "1941-12-31",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terry's Double Seen"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 41-12-31 (63) Terry's Double Seen.mp3",
+          "time": "802",
+          "size": "6415873"
+        }
+      ]
+    },
+    {
+      "ide": "141101",
+      "date": "1942-01-01",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Finch"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 42-01-01 (64) Mrs. Finch is Mother of Burma Road.mp3",
+          "time": "812",
+          "size": "6495311"
+        }
+      ]
+    },
+    {
+      "ide": "141102",
+      "date": "1942-01-02",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Discussing Note"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 42-01-02 (65) Discussing Note from Dragon Lady.mp3",
+          "time": "821",
+          "size": "6571033"
+        }
+      ]
+    },
+    {
+      "ide": "141103",
+      "date": "1942-01-05",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Identity Switch"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 42-01-05 (66) Identity Switch Suggested.mp3",
+          "time": "805",
+          "size": "6443321"
+        }
+      ]
+    },
+    {
+      "ide": "141104",
+      "date": "1942-01-06",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Impersonation Test"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-06 (067) Impersonation Test.Mp3",
+          "time": "806",
+          "size": "6447977"
+        }
+      ]
+    },
+    {
+      "ide": "141105",
+      "date": "1942-01-07",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "April Forced to Join"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 42-01-07 (68) April Forced to Join Pat & Terry.mp3",
+          "time": "816",
+          "size": "6530691"
+        }
+      ]
+    },
+    {
+      "ide": "141106",
+      "date": "1942-01-08",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Food Drugged"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 42-01-08 (69) Food Drugged.mp3",
+          "time": "809",
+          "size": "6474931"
+        }
+      ]
+    },
+    {
+      "ide": "141107",
+      "date": "1942-01-09",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Meeting Captain Blaze"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-09 (070) Meeting Captain Blaze.Mp3",
+          "time": "814",
+          "size": "6512973"
+        }
+      ]
+    },
+    {
+      "ide": "141108",
+      "date": "1942-01-12",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cheery Blaze Fooled"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 42-01-12 (71) Cheery Blaze Fooled.mp3",
+          "time": "826",
+          "size": "6606401"
+        }
+      ]
+    },
+    {
+      "ide": "141109",
+      "date": "1942-01-13",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cheery Blaze Told Truth"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 42-01-13 (72) Cheery Blaze Told Truth.mp3",
+          "time": "822",
+          "size": "6579369"
+        }
+      ]
+    },
+    {
+      "ide": "141110",
+      "date": "1942-01-14",
+      "epnum": "73",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dragon Lady Captured"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 42-01-14 (73) Pat Captures Dragon Lady.mp3",
+          "time": "810",
+          "size": "6479107"
+        }
+      ]
+    },
+    {
+      "ide": "141111",
+      "date": "1942-01-15",
+      "epnum": "74",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blaze and Dragon Lady"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 42-01-15 (74) Captain Blaze and the Dragon Lady Plot Escape.mp3",
+          "time": "819",
+          "size": "6548997"
+        }
+      ]
+    },
+    {
+      "ide": "141112",
+      "date": "1942-01-16",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kidnapping Mix-up"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 42-01-16 (75) Kidnapping Mixup.mp3",
+          "time": "830",
+          "size": "6642171"
+        }
+      ]
+    },
+    {
+      "ide": "141113",
+      "date": "1942-01-19",
+      "epnum": "76",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rescuing Cheery"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-19 (076) Rescuing Cheery.Mp3",
+          "time": "818",
+          "size": "6541388"
+        }
+      ]
+    },
+    {
+      "ide": "141114",
+      "date": "1942-01-20",
+      "epnum": "77",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terry Finds Transmitter"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-20 (077) Terry Finds Transmitter.Mp3",
+          "time": "829",
+          "size": "6635646"
+        }
+      ]
+    },
+    {
+      "ide": "141115",
+      "date": "1942-01-21",
+      "epnum": "78",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dragon Lady Won't Stop"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-21 (078) Dragon Lady Won't Stop.Mp3",
+          "time": "828",
+          "size": "6620806"
+        }
+      ]
+    },
+    {
+      "ide": "141116",
+      "date": "1942-01-22",
+      "epnum": "79",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oil Drums Foil Attack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141117",
+      "date": "1942-01-23",
+      "epnum": "80",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plan to Use Loudspeaker"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-23 (080) Plan to Use Loudspeaker.Mp3",
+          "time": "839",
+          "size": "6709834"
+        }
+      ]
+    },
+    {
+      "ide": "141118",
+      "date": "1942-01-26",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dragon Lady Tries to Escape"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-26 (081) Dragon Lady Tries to Escape.Mp3",
+          "time": "78",
+          "size": "626340"
+        }
+      ]
+    },
+    {
+      "ide": "141119",
+      "date": "1942-01-27",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Loudspeakers Scare"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-27 (082) Loudspeakers Scare.Mp3",
+          "time": "817",
+          "size": "6536794"
+        }
+      ]
+    },
+    {
+      "ide": "141120",
+      "date": "1942-01-28",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Firing Squad for Three"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-28 (083) Firing Squad for Three.Mp3",
+          "time": "805",
+          "size": "6441921"
+        }
+      ]
+    },
+    {
+      "ide": "141121",
+      "date": "1942-01-29",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Truck Crashes in River"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-29 (084) Truck Crashes in River.Mp3",
+          "time": "807",
+          "size": "6459266"
+        }
+      ]
+    },
+    {
+      "ide": "141122",
+      "date": "1942-01-30",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Under the Waterfall"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-01-30 (085) Under the Waterfall.Mp3",
+          "time": "798",
+          "size": "6384031"
+        }
+      ]
+    },
+    {
+      "ide": "141123",
+      "date": "1942-02-02",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cheery Takes Sing-sing"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-02 (086) Cheery Takes Sing-sing.Mp3",
+          "time": "816",
+          "size": "6527185"
+        }
+      ]
+    },
+    {
+      "ide": "141124",
+      "date": "1942-02-03",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sing-sing Captured"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-03 (087) Sing-sing Captured.Mp3",
+          "time": "788",
+          "size": "6306289"
+        }
+      ]
+    },
+    {
+      "ide": "141125",
+      "date": "1942-02-04",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Down Cliff on Rope"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-04 (088) Down Cliff on Rope.Mp3",
+          "time": "822",
+          "size": "6573783"
+        }
+      ]
+    },
+    {
+      "ide": "141126",
+      "date": "1942-02-05",
+      "epnum": "89",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Burma Goes up the Cliff"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-05 (089) Burma Goes Up the Cliff.Mp3",
+          "time": "823",
+          "size": "6585700"
+        }
+      ]
+    },
+    {
+      "ide": "141127",
+      "date": "1942-02-06",
+      "epnum": "90",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dragon Lady Goes Up"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-06 (090) Dragon Lady Goes Up.mp3",
+          "time": "807",
+          "size": "6453412"
+        }
+      ]
+    },
+    {
+      "ide": "141128",
+      "date": "1942-02-09",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pat Shoots"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-09 (091) Pat Shoots.Mp3",
+          "time": "803",
+          "size": "6428116"
+        }
+      ]
+    },
+    {
+      "ide": "141129",
+      "date": "1942-02-10",
+      "epnum": "92",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Single File on Ledge"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-10 (092) Single File on Ledge.Mp3",
+          "time": "822",
+          "size": "6577756"
+        }
+      ]
+    },
+    {
+      "ide": "141130",
+      "date": "1942-02-11",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain Blaze Considers"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-11 (093) Captain Blaze Considers.Mp3",
+          "time": "809",
+          "size": "6475568"
+        }
+      ]
+    },
+    {
+      "ide": "141131",
+      "date": "1942-02-12",
+      "epnum": "94",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Making a Smokescreen"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-12 (094) Making a Smokescreen.Mp3",
+          "time": "803",
+          "size": "6422694"
+        }
+      ]
+    },
+    {
+      "ide": "141132",
+      "date": "1942-02-13",
+      "epnum": "95",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hennick Saves Blaze"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-13 (095) Hennick Saves Blaze.Mp3",
+          "time": "848",
+          "size": "6787152"
+        }
+      ]
+    },
+    {
+      "ide": "141133",
+      "date": "1942-02-16",
+      "epnum": "96",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Orphanage on Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-16 (096) Orphanage on Fire.Mp3",
+          "time": "852",
+          "size": "6814946"
+        }
+      ]
+    },
+    {
+      "ide": "141134",
+      "date": "1942-02-17",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Finch Tells Why"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-17 (097) Mrs. Finch Tells Why.Mp3",
+          "time": "833",
+          "size": "6666362"
+        }
+      ]
+    },
+    {
+      "ide": "141135",
+      "date": "1942-02-18",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Han Kidnaps April"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-18 (098) Han Kidnaps April.mp3",
+          "time": "852",
+          "size": "6816198"
+        }
+      ]
+    },
+    {
+      "ide": "141136",
+      "date": "1942-02-19",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Stoop Helps"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-19 (099) Big Stoop Helps.Mp3",
+          "time": "825",
+          "size": "6598440"
+        }
+      ]
+    },
+    {
+      "ide": "141137",
+      "date": "1942-02-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141138",
+      "date": "1942-02-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141139",
+      "date": "1942-02-24",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terry Piots Daisy Belle"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-24 (102) Terry Pilots.Mp3",
+          "time": "64",
+          "size": "509540"
+        }
+      ]
+    },
+    {
+      "ide": "141140",
+      "date": "1942-02-25",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jap Soldiers Approach The Boat"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-02-25 (103) Jap Soldiers Approach.Mp3",
+          "time": "826",
+          "size": "6608687"
+        }
+      ]
+    },
+    {
+      "ide": "141141",
+      "date": "1942-02-26",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jap Soldiers Approach"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141142",
+      "date": "1942-02-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141143",
+      "date": "1942-03-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141144",
+      "date": "1942-03-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141145",
+      "date": "1942-03-04",
+      "epnum": "108",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From Irrawaddy to Hanoi"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-04 (108) From Irrawaddy to Hanoi.Mp3",
+          "time": "799",
+          "size": "6395528"
+        }
+      ]
+    },
+    {
+      "ide": "141146",
+      "date": "1942-03-05",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hanoi Train Station"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-05 (109) Hanoi Train Station.Mp3",
+          "time": "797",
+          "size": "6374210"
+        }
+      ]
+    },
+    {
+      "ide": "141147",
+      "date": "1942-03-06",
+      "epnum": "110",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pat Tells Slugger"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-06 (110) Pat Tells Slugger.Mp3",
+          "time": "803",
+          "size": "6424363"
+        }
+      ]
+    },
+    {
+      "ide": "141148",
+      "date": "1942-03-09",
+      "epnum": "111",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slugger Delivers Crate"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-09 (111) Slugger Delivers Crate.Mp3",
+          "time": "827",
+          "size": "6614539"
+        }
+      ]
+    },
+    {
+      "ide": "141149",
+      "date": "1942-03-10",
+      "epnum": "112",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Duplexus Plantation"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-10 (112) Duplexus Plantation.Mp3",
+          "time": "817",
+          "size": "6539094"
+        }
+      ]
+    },
+    {
+      "ide": "141150",
+      "date": "1942-03-11",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "April Arrives"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-11 (113) April Arrives.Mp3",
+          "time": "819",
+          "size": "6552464"
+        }
+      ]
+    },
+    {
+      "ide": "141151",
+      "date": "1942-03-12",
+      "epnum": "114",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dillon Kane Found"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-12 (114) Dillon Kane Found.Mp3",
+          "time": "808",
+          "size": "6468457"
+        }
+      ]
+    },
+    {
+      "ide": "141152",
+      "date": "1942-03-13",
+      "epnum": "115",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Message to Yellow Hair"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-13 (115) Message to Yellow-hair.Mp3",
+          "time": "848",
+          "size": "6781305"
+        }
+      ]
+    },
+    {
+      "ide": "141153",
+      "date": "1942-03-16",
+      "epnum": "116",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Escape from Temple"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-16 (116) Escape from Temple.mp3",
+          "time": "844",
+          "size": "6755596"
+        }
+      ]
+    },
+    {
+      "ide": "141154",
+      "date": "1942-03-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141155",
+      "date": "1942-03-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141156",
+      "date": "1942-03-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141157",
+      "date": "1942-03-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141158",
+      "date": "1942-03-23",
+      "epnum": "121",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Using a Net"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-23 (121) Using a Net.mp3",
+          "time": "855",
+          "size": "6841480"
+        }
+      ]
+    },
+    {
+      "ide": "141159",
+      "date": "1942-03-24",
+      "epnum": "122",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sanjack Holds April"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-24 (122) Sanjack Holds April.mp3",
+          "time": "841",
+          "size": "6726758"
+        }
+      ]
+    },
+    {
+      "ide": "141160",
+      "date": "1942-03-25",
+      "epnum": "123",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baron and Slugger"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-25 (123) Baron and Slugger.mp3",
+          "time": "853",
+          "size": "6827693"
+        }
+      ]
+    },
+    {
+      "ide": "141161",
+      "date": "1942-03-26",
+      "epnum": "124",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Following the Baron"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-26 (124) Following the Baron.mp3",
+          "time": "831",
+          "size": "6646301"
+        }
+      ]
+    },
+    {
+      "ide": "141162",
+      "date": "1942-03-27",
+      "epnum": "125",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baron and Slugger"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-27 (125) Baron and Slugger.mp3",
+          "time": "839",
+          "size": "6712546"
+        }
+      ]
+    },
+    {
+      "ide": "141163",
+      "date": "1942-03-30",
+      "epnum": "126",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sanjack's Island Burns"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-30 (126) Sanjack's Island Burns.mp3",
+          "time": "792",
+          "size": "6338894"
+        }
+      ]
+    },
+    {
+      "ide": "141164",
+      "date": "1942-03-31",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rescued from River"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-03-31 (127) Rescued from River.mp3",
+          "time": "825",
+          "size": "6602205"
+        }
+      ]
+    },
+    {
+      "ide": "141165",
+      "date": "1942-04-01",
+      "epnum": "138",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Smythe Heatherstone"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-01 (138) Smythe Heatherstone.mp3",
+          "time": "803",
+          "size": "6426245"
+        }
+      ]
+    },
+    {
+      "ide": "141166",
+      "date": "1942-04-02",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terry Nurses Dragon Lady"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-02 (129) Terry Nurses Dragon Lady.mp3",
+          "time": "822",
+          "size": "6576080"
+        }
+      ]
+    },
+    {
+      "ide": "141167",
+      "date": "1942-04-03",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dragon Lady's Secret"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-03 (130) Dragon Lady's Secet.mp3",
+          "time": "811",
+          "size": "6486431"
+        }
+      ]
+    },
+    {
+      "ide": "141168",
+      "date": "1942-04-06",
+      "epnum": "131",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "April Will Sing"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-06 (131) April Will Sing.mp3",
+          "time": "822",
+          "size": "6579632"
+        }
+      ]
+    },
+    {
+      "ide": "141169",
+      "date": "1942-04-07",
+      "epnum": "132",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dragon Lady Comes"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-07 (132) Dragon Lady Comes.mp3",
+          "time": "825",
+          "size": "6597816"
+        }
+      ]
+    },
+    {
+      "ide": "141170",
+      "date": "1942-04-08",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "April and Fu Ling"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-08 (133) April and Fu Ling.mp3",
+          "time": "825",
+          "size": "6600741"
+        }
+      ]
+    },
+    {
+      "ide": "141171",
+      "date": "1942-04-09",
+      "epnum": "134",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kidnapping"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-09 (134) Kidnapping.mp3",
+          "time": "820",
+          "size": "6560819"
+        }
+      ]
+    },
+    {
+      "ide": "141172",
+      "date": "1942-04-10",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slugger Uses Rainbow"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-10 (135) Slugger Uses Rainbow.mp3",
+          "time": "827",
+          "size": "6618299"
+        }
+      ]
+    },
+    {
+      "ide": "141173",
+      "date": "1942-04-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141174",
+      "date": "1942-04-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141175",
+      "date": "1942-04-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141176",
+      "date": "1942-04-16",
+      "epnum": "139",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mind Reading Act"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-16 (139) Mind Reading Act.mp3",
+          "time": "816",
+          "size": "6528642"
+        }
+      ]
+    },
+    {
+      "ide": "141177",
+      "date": "1942-04-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141178",
+      "date": "1942-04-20",
+      "epnum": "141",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jigger"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-20 (141) Jigger.mp3",
+          "time": "839",
+          "size": "6712326"
+        }
+      ]
+    },
+    {
+      "ide": "141179",
+      "date": "1942-04-21",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pat and Terry Captured"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141180",
+      "date": "1942-04-22",
+      "epnum": "143",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rescued by Slugger"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-22 (143) Rescued by Slugger.mp3",
+          "time": "852",
+          "size": "6818499"
+        }
+      ]
+    },
+    {
+      "ide": "141181",
+      "date": "1942-04-23",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Smiley Knocked Out"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-23 (144) Smiley Knocked Out.mp3",
+          "time": "793",
+          "size": "6342862"
+        }
+      ]
+    },
+    {
+      "ide": "141182",
+      "date": "1942-04-24",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pat to Lead Chinese Commandos"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-24 (145) Pat to Lead Chinese Commandos.mp3",
+          "time": "818",
+          "size": "6541403"
+        }
+      ]
+    },
+    {
+      "ide": "141183",
+      "date": "1942-04-27",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Capturing Invader Car"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-27 (146) Capturing Invader Car.mp3",
+          "time": "797",
+          "size": "6376510"
+        }
+      ]
+    },
+    {
+      "ide": "141184",
+      "date": "1942-04-28",
+      "epnum": "147",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pat Addresses Troops"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-28 (147) Pat Addresses Troops.mp3",
+          "time": "805",
+          "size": "6439621"
+        }
+      ]
+    },
+    {
+      "ide": "141185",
+      "date": "1942-04-29",
+      "epnum": "148",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dude Teaches Terry"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-29 (148) Dude Teaches Terry.mp3",
+          "time": "817",
+          "size": "6537213"
+        }
+      ]
+    },
+    {
+      "ide": "141186",
+      "date": "1942-04-30",
+      "epnum": "149",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Searching for Fu Ling"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-04-30 (149) Searching for Fu Ling.mp3",
+          "time": "832",
+          "size": "6656752"
+        }
+      ]
+    },
+    {
+      "ide": "141187",
+      "date": "1942-05-01",
+      "epnum": "150",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rescuing Fu Ling"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-01 (150) Rescuing Fu Ling.mp3",
+          "time": "797",
+          "size": "6376714"
+        }
+      ]
+    },
+    {
+      "ide": "141188",
+      "date": "1942-05-04",
+      "epnum": "151",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dude Leaves"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-04 (151) Dude Leaves.mp3",
+          "time": "816",
+          "size": "6530727"
+        }
+      ]
+    },
+    {
+      "ide": "141189",
+      "date": "1942-05-05",
+      "epnum": "152",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terry's Plane Spotter"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-05 (152) Terry's Planespotter.mp3",
+          "time": "804",
+          "size": "6430635"
+        }
+      ]
+    },
+    {
+      "ide": "141190",
+      "date": "1942-05-06",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plane Spotting Contest"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-06 (153) Planespotting Contest.mp3",
+          "time": "825",
+          "size": "6601373"
+        }
+      ]
+    },
+    {
+      "ide": "141191",
+      "date": "1942-05-07",
+      "epnum": "154",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Japs Plan a Trap"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-07 (154) Japs Plan a Trap.mp3",
+          "time": "832",
+          "size": "6659046"
+        }
+      ]
+    },
+    {
+      "ide": "141192",
+      "date": "1942-05-08",
+      "epnum": "155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Japs Use Pat and Terry"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-08 (155) Japs Use Pat and Terry.mp3",
+          "time": "838",
+          "size": "6705027"
+        }
+      ]
+    },
+    {
+      "ide": "141193",
+      "date": "1942-05-11",
+      "epnum": "156",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dude and Terry"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-11 (156) Dude and Terry.mp3",
+          "time": "828",
+          "size": "6623517"
+        }
+      ]
+    },
+    {
+      "ide": "141194",
+      "date": "1942-05-12",
+      "epnum": "157",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dude And Terry Captured"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-12 (157) Dude and Terry Captured.mp3",
+          "time": "833",
+          "size": "6661765"
+        }
+      ]
+    },
+    {
+      "ide": "141195",
+      "date": "1942-05-13",
+      "epnum": "158",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Klang Uses Plane"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-13 (158) Klang Uses Plane.mp3",
+          "time": "830",
+          "size": "6640447"
+        }
+      ]
+    },
+    {
+      "ide": "141196",
+      "date": "1942-05-14",
+      "epnum": "159",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plane Shot Down"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-14 (159) Plane Shot Down.mp3",
+          "time": "848",
+          "size": "6784432"
+        }
+      ]
+    },
+    {
+      "ide": "141197",
+      "date": "1942-05-15",
+      "epnum": "160",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dude And Terry Escape"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-15 (160) Dude and Terry Escape.mp3",
+          "time": "848",
+          "size": "6787569"
+        }
+      ]
+    },
+    {
+      "ide": "141198",
+      "date": "1942-05-18",
+      "epnum": "161",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Teaching Slugger"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-18 (161) Teaching Slugger.mp3",
+          "time": "817",
+          "size": "6534285"
+        }
+      ]
+    },
+    {
+      "ide": "141199",
+      "date": "1942-05-19",
+      "epnum": "162",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Escaping from Yankuk"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-19 (162) Escaping from Yankuk.mp3",
+          "time": "813",
+          "size": "6504196"
+        }
+      ]
+    },
+    {
+      "ide": "141200",
+      "date": "1942-05-20",
+      "epnum": "163",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jap Patrol Boards Junk"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-20 (163) Jap Patrol Boards Junk.mp3",
+          "time": "822",
+          "size": "6575460"
+        }
+      ]
+    },
+    {
+      "ide": "141201",
+      "date": "1942-05-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141202",
+      "date": "1942-05-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141203",
+      "date": "1942-05-25",
+      "epnum": "166",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Driving Invader Tank"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-25 (166) Driving Invader Tank.mp3",
+          "time": "823",
+          "size": "6586952"
+        }
+      ]
+    },
+    {
+      "ide": "141204",
+      "date": "1942-05-26",
+      "epnum": "167",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Enemy Marching"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-26 (167) Enemy Marching.mp3",
+          "time": "841",
+          "size": "6732396"
+        }
+      ]
+    },
+    {
+      "ide": "141205",
+      "date": "1942-05-27",
+      "epnum": "168",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bridge Collapses"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-27 (168) Bridge Collapses.mp3",
+          "time": "322",
+          "size": "2578492"
+        }
+      ]
+    },
+    {
+      "ide": "141206",
+      "date": "1942-05-28",
+      "epnum": "169",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Planes Heard Overhead"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-28 (169) Planes Heard Overhead.mp3",
+          "time": "414",
+          "size": "3312708"
+        }
+      ]
+    },
+    {
+      "ide": "141207",
+      "date": "1942-05-29",
+      "epnum": "170",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pat Appointed Colonel"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-05-29 (170) Pat Appointed Colonel.mp3",
+          "time": "901",
+          "size": "7205950"
+        }
+      ]
+    },
+    {
+      "ide": "141208",
+      "date": "1942-07-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Enemy Ground - The Secret Chinese Plantation"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 42-07-06 (xxx) On Enemy Ground.mp3",
+          "time": "906",
+          "size": "5437767"
+        }
+      ]
+    },
+    {
+      "ide": "141209",
+      "date": "1943-01-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141210",
+      "date": "1943-02-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Flang Really Captain Blaze?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141211",
+      "date": "1943-03-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain Blaze Saved"
+        },
+        {
+          "title": "Battles Against Captain Blaze"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 430331 xxx Battles Against Captain Blaze (192-44)_OTRRPG.mp3",
+          "time": "856",
+          "size": "20610824"
+        },
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 43-03-31 (xxx) The Battle Continues Against Captain Blaze.mp3",
+          "time": "880",
+          "size": "3520197"
+        }
+      ]
+    },
+    {
+      "ide": "141212",
+      "date": "1943-04-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141213",
+      "date": "1943-06-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secret Chinese Plantation, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141214",
+      "date": "1943-07-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141215",
+      "date": "1943-08-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141216",
+      "date": "1944-01-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baron in Disguise, The"
+        },
+        {
+          "title": "A Big Show That's Going to Go to Tokyo"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 44-01-10 (xxx) The Baron in Disguise.mp3",
+          "time": "862",
+          "size": "5173205"
+        }
+      ]
+    },
+    {
+      "ide": "141217",
+      "date": "1944-01-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pat's Disguise Uncovered"
+        },
+        {
+          "title": "On Their Way to Tokyo On Board a Japanese Freighter"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 44-01-27 (xxx) Pat's Disguise Uncovered.mp3",
+          "time": "851",
+          "size": "5103930"
+        }
+      ]
+    },
+    {
+      "ide": "141218",
+      "date": "1944-02-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Real Baron Is Alive"
+        },
+        {
+          "title": "Terry and Pat Approach the Shore of Japan"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 44-02-03 (xxx) Real Baron Is Alive.mp3",
+          "time": "845",
+          "size": "5069601"
+        }
+      ]
+    },
+    {
+      "ide": "141219",
+      "date": "1944-03-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141220",
+      "date": "1944-05-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141221",
+      "date": "1944-09-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search for Abner Kane"
+        },
+        {
+          "title": "Terry and His Friends Are in Bombay"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 44-09-27 (xxx) Search for Abner Kane.mp3",
+          "time": "897",
+          "size": "5384013"
+        }
+      ]
+    },
+    {
+      "ide": "141222",
+      "date": "1944-10-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Air Attack"
+        },
+        {
+          "title": "Jap Air Attack"
+        },
+        {
+          "title": "Flip Has Been Wounded"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 441019 xxx Flip has been Wounded (192-44)_OTRRPG.mp3",
+          "time": "867",
+          "size": "20862468"
+        },
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry And The Pirates 441019 xxx Jap Air Attack_OTRRPG.mp3",
+          "time": "853",
+          "size": "13653393"
+        },
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 44-10-19 (xxx) Air Attack.mp3",
+          "time": "905",
+          "size": "5430709"
+        }
+      ]
+    },
+    {
+      "ide": "141223",
+      "date": "1945-05-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Returning to the U S A"
+        },
+        {
+          "title": "We Learn That Terry Has Never Been to the United States!"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 45-05-08 (xxx) Returning to the USA.mp3",
+          "time": "821",
+          "size": "4928073"
+        }
+      ]
+    },
+    {
+      "ide": "141224",
+      "date": "1945-07-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141225",
+      "date": "1945-07-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141226",
+      "date": "1945-07-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141227",
+      "date": "1945-07-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141228",
+      "date": "1945-07-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141229",
+      "date": "1945-09-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Green Fog"
+        },
+        {
+          "title": "The Adventure of The Thirteen Keys"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 45-09-24 (xxx) Green Fog.mp3",
+          "time": "846",
+          "size": "5078211"
+        }
+      ]
+    },
+    {
+      "ide": "141230",
+      "date": "1945-09-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141231",
+      "date": "1946-09-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pat Is On The Trail Of The Killer"
+        },
+        {
+          "title": "Aboard the Yacht Ventura"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141232",
+      "date": "1946-12-02",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bugging of Room 301"
+        },
+        {
+          "title": "Startling Admissions Is Overheard"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 46-12-02 (037) Bugging of Room 301.mp3",
+          "time": "852",
+          "size": "5114428"
+        }
+      ]
+    },
+    {
+      "ide": "141233",
+      "date": "1946-12-04",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Representative Moss Bunker"
+        },
+        {
+          "title": "Recording Admitting to Murder!"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 46-12-04 (038) Representative Moss Bunker.mp3",
+          "time": "858",
+          "size": "5146878"
+        }
+      ]
+    },
+    {
+      "ide": "320464",
+      "date": "1946-12-05",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ventura yacht murders - fatal evidence"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 46-12-05 (39) Ventura yacht murders - fatal evidence.mp3",
+          "time": "867",
+          "size": "3466658"
+        }
+      ]
+    },
+    {
+      "ide": "320465",
+      "date": "1946-12-06",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search for Dr. Quil"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 46-12-06 (40) Search for Dr. Quil.mp3",
+          "time": "870",
+          "size": "3479510"
+        }
+      ]
+    },
+    {
+      "ide": "320466",
+      "date": "1946-12-09",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search for Dr. Quil"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 46-12-09 (41) Search for Dr. Quil.mp3",
+          "time": "855",
+          "size": "3419115"
+        }
+      ]
+    },
+    {
+      "ide": "141234",
+      "date": "1946-12-11",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Apprehending Cuthney"
+        },
+        {
+          "title": "Cuffney Is Arrested for the Murders"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 46-12-11 (041) Apprehending Cuthney.mp3",
+          "time": "857",
+          "size": "5141386"
+        }
+      ]
+    },
+    {
+      "ide": "141235",
+      "date": "1946-12-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terry's Half Sister, Ginger, Is The Clue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141236",
+      "date": "1946-12-13",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fatal Evidence"
+        },
+        {
+          "title": "Incriminating Phonograph Record"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 46-12-16 (043) The Man Who Never Sleeps.mp3",
+          "time": "818",
+          "size": "4910677"
+        }
+      ]
+    },
+    {
+      "ide": "141237",
+      "date": "1946-12-16",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Who Never Sleeps, The"
+        },
+        {
+          "title": "The Man Who Never Sleeps"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 46-12-16 (043) The Man Who Never Sleeps.mp3",
+          "time": "818",
+          "size": "4910677"
+        }
+      ]
+    },
+    {
+      "ide": "141238",
+      "date": "1946-12-20",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Meeting in Hong Kong"
+        },
+        {
+          "title": "The Man Who Never Sleeps"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 46-12-20 (045) Meeting in Hong Kong.mp3",
+          "time": "870",
+          "size": "5219128"
+        }
+      ]
+    },
+    {
+      "ide": "141239",
+      "date": "1946-12-23",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search for Dr. Quill"
+        },
+        {
+          "title": "Duncan Is Hired to Find Dr. Quill, Before Sainsbury Does"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 46-12-23 (046) Search for Dr. Quill.mp3",
+          "time": "855",
+          "size": "5128690"
+        }
+      ]
+    },
+    {
+      "ide": "141240",
+      "date": "1946-12-25",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Program in Rhyme"
+        },
+        {
+          "title": "Christmas Day Program Written Entirely in Rhymed Verse"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 46-12-25 (047) Christmas Program in Rhyme.mp3",
+          "time": "836",
+          "size": "5018669"
+        }
+      ]
+    },
+    {
+      "ide": "141241",
+      "date": "1946-12-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In Chungking China"
+        },
+        {
+          "title": "Searching for the Man That Never Sleeps"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 46-12-26 (xxx) In Chungking, China.mp3",
+          "time": "827",
+          "size": "4963178"
+        }
+      ]
+    },
+    {
+      "ide": "141242",
+      "date": "1947-01-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Who Never Sleeps, The"
+        },
+        {
+          "title": "Uses Hong Kong Newspaper to Set a Trap"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-01-10 (xxx) The Man Who Never Sleeps.mp3",
+          "time": "834",
+          "size": "5003934"
+        }
+      ]
+    },
+    {
+      "ide": "141243",
+      "date": "1947-01-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gold Detector Ring"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-01-12 (xxx) Gold Detector Ring.mp3",
+          "time": "872",
+          "size": "3487676"
+        }
+      ]
+    },
+    {
+      "ide": "141244",
+      "date": "1947-01-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baiting a Trap"
+        },
+        {
+          "title": "Terry Has Been Arrested"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-01-13 (xxx) Baiting a Trap.mp3",
+          "time": "848",
+          "size": "5088404"
+        }
+      ]
+    },
+    {
+      "ide": "141245",
+      "date": "1947-01-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Springing the Trap"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-01-14 (xxx) Springing the Trap.mp3",
+          "time": "837",
+          "size": "5023990"
+        }
+      ]
+    },
+    {
+      "ide": "141246",
+      "date": "1947-01-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Abduction of Ginger Lee"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-01-15 (xxx) Abduction of Ginger Lee.mp3",
+          "time": "884",
+          "size": "5302885"
+        }
+      ]
+    },
+    {
+      "ide": "141247",
+      "date": "1947-01-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mind Slave"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-01-16 (xxx) Mind Slave.mp3",
+          "time": "870",
+          "size": "5218333"
+        }
+      ]
+    },
+    {
+      "ide": "141248",
+      "date": "1947-01-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who Never Sleeps"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141249",
+      "date": "1947-01-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Connie And Hot Shot Follow Dr. Quill"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141250",
+      "date": "1947-02-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "0"
+        },
+        {
+          "title": "Plans to Board the Riverboat"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141251",
+      "date": "1947-02-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mechanical Eye"
+        },
+        {
+          "title": "Mystery Of The Mechanical Eye"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-02-17 (xxx) Mechanical Eye.mp3",
+          "time": "865",
+          "size": "3461760"
+        }
+      ]
+    },
+    {
+      "ide": "141252",
+      "date": "1947-04-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141253",
+      "date": "1947-04-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141254",
+      "date": "1947-05-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Puzzle of the 13 Orphans"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-05-20 (xxx) Puzzle of the 13 Orphans.mp3",
+          "time": "831",
+          "size": "4987320"
+        }
+      ]
+    },
+    {
+      "ide": "141255",
+      "date": "1947-05-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adventure of the Limestone Ledge"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-05-29 (xxx) Adventure of the Limestone Ledge.mp3",
+          "time": "796",
+          "size": "4778401"
+        }
+      ]
+    },
+    {
+      "ide": "141256",
+      "date": "1947-05-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain Blaze Is Close To Being Captured"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141257",
+      "date": "1947-06-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141258",
+      "date": "1947-07-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Goofy Gosling"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-07-14 (xxx) Case of the Goofy Gosling.mp3",
+          "time": "826",
+          "size": "4957855"
+        }
+      ]
+    },
+    {
+      "ide": "141259",
+      "date": "1947-08-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Escape in August"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-08-01 (xxx) Escape in August.mp3",
+          "time": "853",
+          "size": "5115991"
+        }
+      ]
+    },
+    {
+      "ide": "141260",
+      "date": "1947-08-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "141261",
+      "date": "1947-09-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gold Detector Ring"
+        },
+        {
+          "title": "Terry Lee and the Gold Detector Ring"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-09-12 (xxx) Burma Tries To Help Terry.mp3",
+          "time": "844",
+          "size": "5066628"
+        }
+      ]
+    },
+    {
+      "ide": "141263",
+      "date": "1947-10-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deadly Current"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-10-14 (xxx) Deadly Current.mp3",
+          "time": "842",
+          "size": "5052042"
+        }
+      ]
+    },
+    {
+      "ide": "141264",
+      "date": "1947-10-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mechanical Eye, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "141265",
+      "date": "1947-10-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Connie Is Captured"
+        },
+        {
+          "title": "[Dragon Lady Strikes Back] Searching for American Boy. Connie is Captured"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 471020 xxxx [Dragon Lady Strikes Back] Searching for American Boy. Connie is Captured (256-44).mp3",
+          "time": "873",
+          "size": "28020017"
+        },
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 471020 xxxx [Dragon Lady Strikes Back] Searching for American Boy. Connie is Captured (cleaned).flac",
+          "time": "873",
+          "size": "29491919"
+        },
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-10-20 (xxx) Connie Is Captured.mp3",
+          "time": "809",
+          "size": "3237006"
+        }
+      ]
+    },
+    {
+      "ide": "141266",
+      "date": "1947-10-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "[Dragon Lady Strikes Back] DL Wants the Location of the Tungsten Mine"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 471024 xxxx [Dragon Lady Strikes Back] DL Wants the Location of the Tungsten Mine (256-44).mp3",
+          "time": "872",
+          "size": "28000791"
+        },
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 471024 xxxx [Dragon Lady Strikes Back] DL Wants the Location of the Tungsten Mine (cleaned).flac",
+          "time": "872",
+          "size": "29571877"
+        },
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-10-24 (xxx) The Tungsten Mine.mp3",
+          "time": "842",
+          "size": "5054396"
+        }
+      ]
+    },
+    {
+      "ide": "141267",
+      "date": "1947-10-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gorge Of One Thousand Sorrows, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 47-10-26 DL strikes back, confrontation planned.mp3",
+          "time": "864",
+          "size": "3457776"
+        }
+      ]
+    },
+    {
+      "ide": "141268",
+      "date": "1947-10-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terry Is Captured"
+        },
+        {
+          "title": "[Dragon Lady Strikes Back] Terry Rescues American Boy, but is Captured"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 471031 xxxx [Dragon Lady Strikes Back] Terry Rescues American Boy, but is Captured (256-44).mp3",
+          "time": "872",
+          "size": "27977385"
+        },
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 471031 xxxx [Dragon Lady Strikes Back] Terry Rescues American Boy, but is Captured (cleaned).flac",
+          "time": "872",
+          "size": "30079621"
+        },
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-10-31 (xxx) Terry Is Captured.mp3",
+          "time": "864",
+          "size": "5186523"
+        }
+      ]
+    },
+    {
+      "ide": "141269",
+      "date": "1947-11-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dragon Lady Strikes Back"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry and the Pirates 47-11-01 (xxx) Dragon Lady Strikes Back.mp3",
+          "time": "843",
+          "size": "3373267"
+        }
+      ]
+    },
+    {
+      "ide": "141270",
+      "date": "1948-06-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Last Episode"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "320467",
+      "date": "1957-11-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "DL strikes back"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Terry And The Pirates",
+          "name": "Terry & the Pirates 47-11-24 DL strikes back.mp3",
+          "time": "884",
+          "size": "3534994"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Action"
+    },
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-09-26",
+      "dow": "M,Tu,W",
+      "time": "5:15 PM",
+      "end": "1939-03-22",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1937-11-01",
+      "dow": "M,Tu,W",
+      "time": "5:15 PM",
+      "end": "1938-06-01",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1941-10-06",
+      "dow": "M,Tu,W,Th,F",
+      "time": "6:15 PM",
+      "end": "1942-05-29",
+      "length": "15",
+      "country": "USA",
+      "network": "Various"
+    },
+    {
+      "begin": "1943-01-04",
+      "dow": "M,Tu,W,Th,F",
+      "time": "5:00 PM",
+      "end": "1948-06-30",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Dari-Rich Chocolate Milk Drink",
+      "begin": "1937-11-01",
+      "end": "1939-03-22"
+    },
+    {
+      "sponsor": "Libby Packaging Company",
+      "begin": "1941-10-06",
+      "end": "1942-05-29"
+    },
+    {
+      "sponsor": "Quaker cereals",
+      "begin": "1943-01-04",
+      "end": "1948-06-30"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Terry and the Pirates"
+    }
+  ]
+}

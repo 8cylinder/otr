@@ -1,0 +1,325 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "HAUN"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logh1027.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "73667",
+      "date": "1980-06-21",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Girl Lost"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-06-21 (01) Little Girl Lost.mp3",
+          "time": "1698",
+          "size": "8493076"
+        }
+      ]
+    },
+    {
+      "ide": "73668",
+      "date": "1980-06-28",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Was It"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-06-28 (02) What Was It.mp3",
+          "time": "1642",
+          "size": "8216596"
+        }
+      ]
+    },
+    {
+      "ide": "73669",
+      "date": "1980-07-05",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Family, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-07-05 (03) The Family.mp3",
+          "time": "1691",
+          "size": "8458260"
+        }
+      ]
+    },
+    {
+      "ide": "73670",
+      "date": "1980-07-12",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Walk on the Water"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-07-12 (04) Walk on the Water.mp3",
+          "time": "1631",
+          "size": "6527124"
+        }
+      ]
+    },
+    {
+      "ide": "73671",
+      "date": "1980-07-19",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dream Woman, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-07-19 (05) The Dream Woman.mp3",
+          "time": "1694",
+          "size": "8474772"
+        }
+      ]
+    },
+    {
+      "ide": "73672",
+      "date": "1980-07-26",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Decoy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73673",
+      "date": "1980-08-02",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Listen to the Silence"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-08-02 (07) Listen to the Silence.mp3",
+          "time": "1666",
+          "size": "8333460"
+        }
+      ]
+    },
+    {
+      "ide": "73674",
+      "date": "1980-08-09",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inexperienced Ghost, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73675",
+      "date": "1980-08-16",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christina"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-08-16 (09) Christina.mp3",
+          "time": "1597",
+          "size": "19167380"
+        }
+      ]
+    },
+    {
+      "ide": "73676",
+      "date": "1980-08-23",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Late Departure, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-08-23 (10) The Late Departure.mp3",
+          "time": "1624",
+          "size": "19484820"
+        }
+      ]
+    },
+    {
+      "ide": "73677",
+      "date": "1980-08-30",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Esmiralda"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-08-30 (11) Esmiralda.mp3",
+          "time": "1594",
+          "size": "19126420"
+        }
+      ]
+    },
+    {
+      "ide": "73678",
+      "date": "1980-09-06",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pair of Books, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-09-06 (12) A Pair of Books.mp3",
+          "time": "1624",
+          "size": "19493012"
+        }
+      ]
+    },
+    {
+      "ide": "73679",
+      "date": "1980-09-13",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Keeping His Promise"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-09-13 (13) Keeping His Promise.mp3",
+          "time": "1685",
+          "size": "8426667"
+        }
+      ]
+    },
+    {
+      "ide": "73680",
+      "date": "1980-09-20",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Which One"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunted",
+          "name": "Haunted 80-09-20 (14) Which One.mp3",
+          "time": "1704",
+          "size": "20453524"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Horror"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Haunted"
+    }
+  ]
+}

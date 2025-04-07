@@ -1,0 +1,8592 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322175257-c6bf0861.jpg",
+      "label": "Camel Caravan",
+      "idtype": "12"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Camel_Caravan",
+      "label": "Wikipedia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.karloff.com/radio.html",
+      "label": "Radio Programs Featuring Boris Karloff",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-1901-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Benny Goodman - Camel Caravan/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4208",
+      "first": "Vaughn",
+      "last": "Monroe",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4208",
+      "first": "Vaughn",
+      "last": "Monroe",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "20951",
+      "first": "",
+      "last": "Glen Gray and The Casa Loma Orchestra",
+      "f": "Noted Role",
+      "character": "Music"
+    },
+    {
+      "idperson": "236",
+      "first": "Mildred",
+      "last": "Bailey",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "644",
+      "first": "Connie 'Connee'",
+      "last": "Boswell",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "1324",
+      "first": "Bob",
+      "last": "Crosby",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2193",
+      "first": "Georgia",
+      "last": "Gibbs",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "2493",
+      "first": "Annette",
+      "last": "Hanshaw",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "4374",
+      "first": "Wayne",
+      "last": "Nelson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2989",
+      "first": "George",
+      "last": "Jessel",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4469",
+      "first": "Walter",
+      "last": "O'Keefe",
+      "f": "Noted Role",
+      "character": "Series Star"
+    },
+    {
+      "idperson": "4975",
+      "first": "Freddie",
+      "last": "Rich",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5131",
+      "first": "Lanny",
+      "last": "Ross",
+      "f": "Noted Role",
+      "character": "Vocalist and Emcee"
+    },
+    {
+      "idperson": "5358",
+      "first": "Dan 'Danny'",
+      "last": "Seymour",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5419",
+      "first": "Nathaniel 'Nat'",
+      "last": "Shilkret",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4407",
+      "first": "Ken",
+      "last": "Niles",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4592",
+      "first": "Bert",
+      "last": "Parks",
+      "f": "Noted Role",
+      "character": "host"
+    },
+    {
+      "idperson": "4898",
+      "first": "Casper",
+      "last": "Reardon",
+      "f": "Noted Role",
+      "character": "Jazz Harpist"
+    },
+    {
+      "idperson": "5109",
+      "first": "Mickey",
+      "last": "Rooney",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5431",
+      "first": "Herb",
+      "last": "Shriner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5038",
+      "first": "Ken",
+      "last": "Roberts",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "50879",
+      "first": "William",
+      "last": "Royle",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5690",
+      "first": "George E.",
+      "last": "Stoll",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5768",
+      "first": "Gladys",
+      "last": "Swarthout",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "5914",
+      "first": "Martha",
+      "last": "Tilton",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "2279",
+      "first": "Benny",
+      "last": "Goodman",
+      "f": "Noted Role",
+      "character": "Emcee"
+    },
+    {
+      "idperson": "2279",
+      "first": "Benny",
+      "last": "Goodman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "47212",
+      "first": "Harry",
+      "last": "Holcombe",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "4635",
+      "first": "Ted",
+      "last": "Pearson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4100",
+      "first": "Johnny",
+      "last": "Mercer",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "1324",
+      "first": "Bob",
+      "last": "Crosby",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5387",
+      "first": "Tess",
+      "last": "Sheehan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "940",
+      "first": "Eddie",
+      "last": "Cantor",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "2885",
+      "first": "Ted",
+      "last": "Husing",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3235",
+      "first": "Walter Woolf",
+      "last": "King",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "3235",
+      "first": "Walter Woolf",
+      "last": "King",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5592",
+      "first": "Kay",
+      "last": "St. Germaine",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "6251",
+      "first": "Anson",
+      "last": "Weeks",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2353",
+      "first": "Glen",
+      "last": "Gray",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5246",
+      "first": "Kenny",
+      "last": "Sargent",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "5246",
+      "first": "Kenny",
+      "last": "Sargent",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5131",
+      "first": "Lanny",
+      "last": "Ross",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3188",
+      "first": "Stan",
+      "last": "Kenton",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3188",
+      "first": "Stan",
+      "last": "Kenton",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1200",
+      "first": "Hugh",
+      "last": "Conover",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4592",
+      "first": "Bert",
+      "last": "Parks",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "31649",
+      "first": "The",
+      "last": "Moon Maids",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "50595",
+      "first": "Moon Men",
+      "last": "",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "5820",
+      "first": "Frederick Chase",
+      "last": "Taylor",
+      "f": "Noted Role",
+      "character": "Stoopnagle"
+    },
+    {
+      "idperson": "1349",
+      "first": "Xavier",
+      "last": "Cugat",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "1349",
+      "first": "Xavier",
+      "last": "Cugat",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3820",
+      "first": "",
+      "last": "Margo",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "4592",
+      "first": "Bert",
+      "last": "Parks",
+      "f": "Noted Role",
+      "character": "Vocalist, emcee"
+    },
+    {
+      "idperson": "13008",
+      "first": "Carmen",
+      "last": "Castillo",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "15087",
+      "first": "The",
+      "last": "Ken Christy Chorus",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "15957",
+      "first": "Miguelito",
+      "last": "Valdes",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "1229",
+      "idtype": "4",
+      "page": "46",
+      "article": "",
+      "url": "",
+      "date": "2001-01-01",
+      "source": "NARA News/Nara News V29 01 Winter2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 01 Winter2001",
+      "author": ""
+    },
+    {
+      "idprint": "1965",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1936-01-18",
+      "source": "Radio Guide/Radio Guide 36-01-18.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 36-01-18",
+      "author": ""
+    },
+    {
+      "idprint": "2020",
+      "idtype": "4",
+      "page": "2",
+      "article": "",
+      "url": "",
+      "date": "1937-10-09",
+      "source": "Radio Guide/Radio Guide 37-10-09.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 37-10-09",
+      "author": ""
+    },
+    {
+      "idprint": "1689",
+      "idtype": "4",
+      "page": "31",
+      "article": "",
+      "url": "",
+      "date": "1934-12-01",
+      "source": "Radio Land/Radioland 3412.pdf",
+      "idpytype2": "4",
+      "title": "Radio Land 1934 - Dec",
+      "author": ""
+    },
+    {
+      "idprint": "2121",
+      "idtype": "4",
+      "page": "44",
+      "article": "Tracking Down the Camel Caravan. . 44",
+      "url": "",
+      "date": "1936-02-01",
+      "source": "Radio Mirror/Radio Mirror 3602.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 3602",
+      "author": ""
+    },
+    {
+      "idprint": "2121",
+      "idtype": "4",
+      "page": "38",
+      "article": "",
+      "url": "",
+      "date": "1936-02-01",
+      "source": "Radio Mirror/Radio Mirror 3602.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 3602",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "307853",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From Fort Monmouth"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "New Camel Caravan",
+          "name": "New Camel Caravan xx-xx-xx From Fort Monmouth.mp3",
+          "time": "1806",
+          "size": "14450925"
+        }
+      ]
+    },
+    {
+      "ide": "330383",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bei Mir Bist Du Schein"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330384",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bob White"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330385",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dixieland Band"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330386",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Once In A While"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330387",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blues In The Night"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330388",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Elmers Tune"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330389",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shake Down The Stars"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330390",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sunny Side Of The Street"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36182",
+      "date": "1933-01-04",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Got Rhythm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36183",
+      "date": "1934-01-11",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Smoke Rings"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36184",
+      "date": "1934-01-16",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Jazz Band Ball"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36185",
+      "date": "1934-01-17",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Just Like A Butterfly"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36186",
+      "date": "1934-01-27",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Lady From Saint Paul"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36187",
+      "date": "1934-02-01",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Somebody Loves Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36188",
+      "date": "1934-02-08",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Keep On Doin' What You're Doing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36189",
+      "date": "1934-02-13",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dardenella"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36190",
+      "date": "1934-02-15",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You're Gonna Lose Your Gal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36191",
+      "date": "1934-02-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36192",
+      "date": "1934-03-06",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Boulevard Of Broken Dreams"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36193",
+      "date": "1934-03-13",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Fare Thee Well To Harlem"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36194",
+      "date": "1934-03-15",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Honey, Tain't So"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36195",
+      "date": "1934-03-20",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36196",
+      "date": "1934-03-27",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dr Jekyll And Mr Hyde"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36197",
+      "date": "1934-04-03",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Am I Blue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36198",
+      "date": "1934-04-05",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - A Thousand Good Nights"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36199",
+      "date": "1934-04-10",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Carioca"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36200",
+      "date": "1934-04-12",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Devil And The Deep Blue Sea"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36201",
+      "date": "1934-04-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "36202",
+      "date": "1934-04-24",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Little Man, You've Had A Busy Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36203",
+      "date": "1934-04-26",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Way Down Yonder In New Orleans"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36204",
+      "date": "1934-05-01",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love Me Or Leave Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36205",
+      "date": "1934-05-03",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - At The Jazz Band Ball"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36206",
+      "date": "1934-05-08",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dallas Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36207",
+      "date": "1934-05-10",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dr Heckle And Mr Jive"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36208",
+      "date": "1934-05-17",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Am I Blue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36209",
+      "date": "1934-05-29",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Lady From Saint Paul"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36210",
+      "date": "1934-05-31",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Buji (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36211",
+      "date": "1934-06-05",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I've Got Rhythm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36212",
+      "date": "1934-10-02",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Panama"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36213",
+      "date": "1934-10-04",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Rock Your Blues Away"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36214",
+      "date": "1934-10-09",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Avalon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36215",
+      "date": "1934-10-11",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Nagasaki"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36216",
+      "date": "1934-10-15",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stompin' Around"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36217",
+      "date": "1934-10-18",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Linger Awhile"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36218",
+      "date": "1934-10-23",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - When Will I Know"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36219",
+      "date": "1934-10-25",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Jazz Me Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36220",
+      "date": "1934-10-30",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Futuristic Rhythm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36221",
+      "date": "1934-11-01",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Corrine Corrina"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36222",
+      "date": "1934-11-06",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Crazy Rhythm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36223",
+      "date": "1934-11-08",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dance Of The Lame Duck"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36224",
+      "date": "1934-11-13",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Panama"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36225",
+      "date": "1934-11-15",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Everybody Loves My Baby "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36226",
+      "date": "1934-11-20",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Buji"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36227",
+      "date": "1934-11-22",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Kinda Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36228",
+      "date": "1934-11-27",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stompin' Around"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36229",
+      "date": "1934-11-29",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Avalon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36230",
+      "date": "1934-12-04",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Digga Digga Do"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36231",
+      "date": "1934-12-06",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You're A Builder-Upper"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36232",
+      "date": "1934-12-11",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dallas Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36233",
+      "date": "1934-12-12",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love Me Or Leave Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36234",
+      "date": "1934-12-13",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Rose Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36235",
+      "date": "1934-12-18",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love Me Or Leave Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36236",
+      "date": "1934-12-20",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Ain't Been Living Right"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36237",
+      "date": "1934-12-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36238",
+      "date": "1935-01-03",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36239",
+      "date": "1935-01-08",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Alice Blue Gown"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36240",
+      "date": "1935-01-10",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Farewell Thee Annabelle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36241",
+      "date": "1935-01-15",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - He's The Last Word"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36242",
+      "date": "1935-01-17",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Buji"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36243",
+      "date": "1935-01-22",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Walking The Dog"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36244",
+      "date": "1935-01-24",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - All Through The Night"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36245",
+      "date": "1935-01-29",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stompin' Around"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36246",
+      "date": "1935-01-31",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Who's Sorry Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36247",
+      "date": "1935-02-05",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sunny Disposish"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36248",
+      "date": "1935-02-07",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Little Man With The Hammer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36249",
+      "date": "1935-02-12",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Lady Be Good"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36250",
+      "date": "1935-02-14",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Never Knew"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36251",
+      "date": "1935-02-19",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Ballin' The Jack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36252",
+      "date": "1935-02-21",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36253",
+      "date": "1935-02-24",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Avalon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36254",
+      "date": "1935-02-26",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Alice Blue Gown"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36255",
+      "date": "1935-02-28",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Avalon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36256",
+      "date": "1935-03-05",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - What's The Use"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36257",
+      "date": "1935-03-07",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sunday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36258",
+      "date": "1935-03-12",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Carry Me Back To Old Virginny"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36259",
+      "date": "1935-03-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I May Be Wrong"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36260",
+      "date": "1935-03-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Who's Sorry Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36261",
+      "date": "1935-03-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Emmeline"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36262",
+      "date": "1935-03-26",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sweet Lorraine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36263",
+      "date": "1935-03-28",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Walking The Dog"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36264",
+      "date": "1935-04-02",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Cobra And The Flute"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36265",
+      "date": "1935-04-03",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sunny Disposish"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36266",
+      "date": "1935-04-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dardenella"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36267",
+      "date": "1935-04-09",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - What's The Use"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36268",
+      "date": "1935-04-11",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Song of the Island"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36269",
+      "date": "1935-04-13",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Never Knew"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36270",
+      "date": "1935-04-16",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sunny Disposish"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36271",
+      "date": "1935-04-18",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Never Knew"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36272",
+      "date": "1935-04-23",
+      "epnum": "59",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love Dropped In For Tea"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36273",
+      "date": "1935-04-25",
+      "epnum": "60",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Singin' In The Rain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36274",
+      "date": "1935-04-30",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Ballin' The Jack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36275",
+      "date": "1935-05-02",
+      "epnum": "62",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I may be Wrong"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36276",
+      "date": "1935-05-07",
+      "epnum": "63",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Cobra And The Flute"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36277",
+      "date": "1935-05-09",
+      "epnum": "64",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Singin' In The Rain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36278",
+      "date": "1935-05-14",
+      "epnum": "65",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36279",
+      "date": "1935-05-16",
+      "epnum": "66",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sunday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36280",
+      "date": "1935-05-21",
+      "epnum": "67",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Continental"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36281",
+      "date": "1935-05-23",
+      "epnum": "68",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I'd Rather Be The Girl In Your Arms"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36282",
+      "date": "1935-05-28",
+      "epnum": "69",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sweet Lorraine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36283",
+      "date": "1935-05-30",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - New Orleans Twist"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36284",
+      "date": "1935-06-04",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Sheik"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36285",
+      "date": "1935-06-06",
+      "epnum": "72",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Louise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36286",
+      "date": "1935-06-11",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Singing In The Rain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36287",
+      "date": "1935-06-13",
+      "epnum": "74",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - What's The Use"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36288",
+      "date": "1935-06-15",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Ballin' The Jack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36289",
+      "date": "1935-06-18",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Emmiline"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36290",
+      "date": "1935-06-20",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Who's Sorry Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36291",
+      "date": "1935-06-25",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Ballin' The Jack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36292",
+      "date": "1935-06-27",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stomping Around"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36293",
+      "date": "1935-10-01",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Ballin' The Jack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36294",
+      "date": "1935-10-03",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Man I Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36295",
+      "date": "1935-10-09",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Louise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36296",
+      "date": "1935-10-10",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stop Look And Listen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36297",
+      "date": "1935-10-15",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "King Porter Stomp"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36298",
+      "date": "1935-10-17",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Singin' In The Rain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36299",
+      "date": "1935-10-22",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Three Little Words"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36300",
+      "date": "1935-10-24",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Blue Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36301",
+      "date": "1935-10-29",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "River Boat Shuffle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36302",
+      "date": "1935-10-31",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Big John Special"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36303",
+      "date": "1935-11-05",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Truckin'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36304",
+      "date": "1935-11-12",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Lady Play Your Mandolin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36305",
+      "date": "1935-11-14",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Can't We Be Friends"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36306",
+      "date": "1935-11-19",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stop, Look and Listen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36307",
+      "date": "1935-11-21",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Avalon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36308",
+      "date": "1935-11-25",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Don't Like The Likes Of You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36309",
+      "date": "1935-11-26",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Wolverine Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36310",
+      "date": "1935-11-27",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Put On Your Old Grey Bonnet"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36311",
+      "date": "1935-11-28",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Never Knew"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36312",
+      "date": "1935-12-03",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Who's Sorry Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36313",
+      "date": "1935-12-05",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Japanese Sandman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36314",
+      "date": "1935-12-10",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Jazz Band Ball"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36315",
+      "date": "1935-12-12",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Way Down Yonder In New Orleans"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36316",
+      "date": "1935-12-19",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sugar"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36317",
+      "date": "1935-12-23",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Old Kentucky Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36318",
+      "date": "1935-12-24",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Panama"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36319",
+      "date": "1935-12-26",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Ain't Misbehavin'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36320",
+      "date": "1935-12-31",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Three Little Words"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36321",
+      "date": "1936-01-02",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Truckin'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36322",
+      "date": "1936-01-07",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Ballin' The Jack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36323",
+      "date": "1936-01-09",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Walking The Dog"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36324",
+      "date": "1936-01-14",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Carry Me Back to Ole Virginny"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36325",
+      "date": "1936-01-16",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Wolverine Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36326",
+      "date": "1936-01-26",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sweet Sue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36327",
+      "date": "1936-01-28",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sweet Sue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36328",
+      "date": "1936-01-30",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Alice Blue Gown"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36329",
+      "date": "1936-02-04",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Jazz Band Ball"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36330",
+      "date": "1936-02-06",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Broken Hearted"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36331",
+      "date": "1936-02-11",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stompin' at the Savoy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36332",
+      "date": "1936-02-13",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Eccentric"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36333",
+      "date": "1936-02-18",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stompin' Around"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36334",
+      "date": "1936-02-20",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sugar"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36335",
+      "date": "1936-02-25",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Who' Sorry Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36336",
+      "date": "1936-02-27",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Shades Of Hades"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36337",
+      "date": "1936-03-03",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Royal Garden Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36338",
+      "date": "1936-03-05",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Rosetta"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36339",
+      "date": "1936-03-10",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dallas Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36340",
+      "date": "1936-03-12",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Pepper Grass"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36341",
+      "date": "1936-03-14",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stompin' at the Savoy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36342",
+      "date": "1936-03-19",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Christopher Columbus"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36343",
+      "date": "1936-03-24",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stompin' At The Savoy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36344",
+      "date": "1936-03-31",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Shades of Hades"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36345",
+      "date": "1936-04-02",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Rose of the Rio Grande"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36346",
+      "date": "1936-04-07",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Eccentric"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36347",
+      "date": "1936-04-09",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Royal Garden Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36348",
+      "date": "1936-04-14",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Lovey Came Back"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36349",
+      "date": "1936-04-16",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue And Heartbroken"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36350",
+      "date": "1936-04-21",
+      "epnum": "59",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Old Kentucky Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36351",
+      "date": "1936-04-23",
+      "epnum": "60",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Rosetta"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36352",
+      "date": "1936-04-28",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Christopher Columbus"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36353",
+      "date": "1936-05-05",
+      "epnum": "63",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - China Girl"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36354",
+      "date": "1936-05-07",
+      "epnum": "64",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stompin' at the Savoy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36355",
+      "date": "1936-05-12",
+      "epnum": "65",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Someday Sweet Thing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36356",
+      "date": "1936-05-14",
+      "epnum": "66",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - At The Jazz Band Ball"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36357",
+      "date": "1936-05-19",
+      "epnum": "67",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Rose of the Rio Grande"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36358",
+      "date": "1936-05-21",
+      "epnum": "68",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Say It with Music"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36359",
+      "date": "1936-05-26",
+      "epnum": "69",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Melancholy Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36360",
+      "date": "1936-05-29",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Shades of Hades"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36361",
+      "date": "1936-06-02",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Lovely Came Back"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36362",
+      "date": "1936-06-09",
+      "epnum": "73",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Walkin' the Dog"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36363",
+      "date": "1936-06-11",
+      "epnum": "74",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dardenella"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36364",
+      "date": "1936-06-16",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Never Knew"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36365",
+      "date": "1936-06-18",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Blue Heaven"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36366",
+      "date": "1936-06-23",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Cross Patch"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36367",
+      "date": "1936-06-25",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stompin' Around"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36368",
+      "date": "1936-10-06",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Born To Dance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27106",
+      "date": "1937-06-29",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Swing School Begins - First Song - Alexander's Rag Time Band"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "Camel Caravan 371116 021 Part 2 Benny Goodman Swing School_OTRRPG.mp3",
+          "time": "1681",
+          "size": "26981148"
+        }
+      ]
+    },
+    {
+      "ide": "27107",
+      "date": "1937-07-06",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Skies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27108",
+      "date": "1937-07-13",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Star Dust"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27109",
+      "date": "1937-07-20",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - There Are Smiles"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27110",
+      "date": "1937-07-27",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Shiek of Araby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27111",
+      "date": "1937-08-03",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Always"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27112",
+      "date": "1937-08-10",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Remember"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 37-08-10 (007) First Song - Remember.mp3",
+          "time": "1470",
+          "size": "7352259"
+        }
+      ]
+    },
+    {
+      "ide": "27113",
+      "date": "1937-08-17",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - That Naughty Waltz"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 37-08-17 (008) First Song - That Naughty Waltz.mp3",
+          "time": "1524",
+          "size": "7620628"
+        }
+      ]
+    },
+    {
+      "ide": "27114",
+      "date": "1937-08-24",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sometimes I'm Happy"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 37-08-24 (009) First Song - Sometimes I'm Happy.mp3",
+          "time": "1571",
+          "size": "7856694"
+        }
+      ]
+    },
+    {
+      "ide": "27115",
+      "date": "1937-08-31",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Camel Hop"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 37-08-31 (010) First Song - The Camel Hop.mp3",
+          "time": "1527",
+          "size": "7636090"
+        }
+      ]
+    },
+    {
+      "ide": "27116",
+      "date": "1937-09-07",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Lady Be Good"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27117",
+      "date": "1937-09-14",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Makin' Whoopee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27118",
+      "date": "1937-09-21",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Honey's Lovin' Arms"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27119",
+      "date": "1937-09-28",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - St Louis Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27120",
+      "date": "1937-10-05",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love Me Or Leave Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27121",
+      "date": "1937-10-12",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Satan Takes A Holiday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27122",
+      "date": "1937-10-19",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sunny Disposish"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27123",
+      "date": "1937-10-26",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Beautiful Changes"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 38-09-13 (064) First Song - Beautiful Changes.mp3",
+          "time": "1785",
+          "size": "8923146"
+        }
+      ]
+    },
+    {
+      "ide": "27124",
+      "date": "1937-11-02",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Chicago"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27125",
+      "date": "1937-11-09",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Skies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27126",
+      "date": "1937-11-16",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Stardust"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 37-11-16 (021) First Song - Stardust.mp3",
+          "time": "1754",
+          "size": "8773642"
+        }
+      ]
+    },
+    {
+      "ide": "27127",
+      "date": "1937-11-23",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - All of Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27128",
+      "date": "1937-11-30",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sleepy Time Down South"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27129",
+      "date": "1937-12-07",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Hallelujah"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27130",
+      "date": "1937-12-14",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Three Little Words"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27131",
+      "date": "1937-12-21",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Jingle Bells"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27132",
+      "date": "1937-12-28",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sing You Sinners"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27133",
+      "date": "1938-01-04",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Can't Give You Anything But Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27134",
+      "date": "1938-01-11",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27135",
+      "date": "1938-01-18",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Make Believe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27136",
+      "date": "1938-01-25",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Big John Special"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27137",
+      "date": "1938-02-01",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - When Buddha Smiles"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27138",
+      "date": "1938-02-08",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Memphis Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27139",
+      "date": "1938-02-15",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Naughty Waltz"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27140",
+      "date": "1938-02-22",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27141",
+      "date": "1938-03-01",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Make Believe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27142",
+      "date": "1938-03-08",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Ti-Pi-Tin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27143",
+      "date": "1938-03-15",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Don't Be That Way"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27144",
+      "date": "1938-03-22",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love Me Or Leave Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276211",
+      "date": "1938-03-28",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Gladys Swarthout"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27145",
+      "date": "1938-03-29",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Never Knew"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276212",
+      "date": "1938-04-04",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Dale Carnegie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27146",
+      "date": "1938-04-05",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Makin' Whoopee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276213",
+      "date": "1938-04-11",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Gertrude Lawrence"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27147",
+      "date": "1938-04-12",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276214",
+      "date": "1938-04-18",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Morton Downey"
+        },
+        {
+          "title": "First Song - It's The Gypsy In My Soul"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27148",
+      "date": "1938-04-19",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sweet Sue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276263",
+      "date": "1938-04-25",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rudy Vallee Subs for Eddie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27149",
+      "date": "1938-04-26",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Make Believe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276215",
+      "date": "1938-05-02",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Lucy Monroe"
+        },
+        {
+          "title": "First Song - Cry, Baby, Cry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27150",
+      "date": "1938-05-03",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "276216",
+      "date": "1938-05-09",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Mary Kelly"
+        },
+        {
+          "title": "First Song - Dodging A Divorcee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27151",
+      "date": "1938-05-10",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Found A New Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276217",
+      "date": "1938-05-16",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Jackie Coogan"
+        },
+        {
+          "title": "First Song - We're In The Money"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27152",
+      "date": "1938-05-17",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I'll Always Be In Love With You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276218",
+      "date": "1938-05-23",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Hattie Noel"
+        },
+        {
+          "title": "First Song - Shade Of The New Apple Tree"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27153",
+      "date": "1938-05-24",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Honeysuckle Rose"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276219",
+      "date": "1938-05-30",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Gene Autry"
+        },
+        {
+          "title": "First Song - You Couldn't Be Cuter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27154",
+      "date": "1938-05-31",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Alexander's Rag Time Band"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276220",
+      "date": "1938-06-06",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - John Barrymore"
+        },
+        {
+          "title": "First Song - Auld Lang Syne"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27155",
+      "date": "1938-06-07",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Shine On Harvest Moon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276221",
+      "date": "1938-06-13",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Bobby Breen"
+        },
+        {
+          "title": "First Song - Egyptian Music "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27156",
+      "date": "1938-06-14",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sweet Sue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276222",
+      "date": "1938-06-20",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Bobby Breen"
+        },
+        {
+          "title": "First Song - Says It's My Heart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27157",
+      "date": "1938-06-21",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Smiles"
+        },
+        {
+          "title": "In Montreal, 1st Anniversary of Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "Camel Caravan 380621 xxx In Montreal, 1st Anniversary of Show_OTRRPG.mp3",
+          "time": "1776",
+          "size": "28422033"
+        },
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "Camel Caravan 38-06-21 xxx In Montreal, 1st Anniversary of Show.mp3",
+          "time": "1767",
+          "size": "14139145"
+        },
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "Camel Caravan 38-06-21 xxx In Montreal, 1st Anniversary of Show.mp3",
+          "time": "1767",
+          "size": "14139145"
+        }
+      ]
+    },
+    {
+      "ide": "276223",
+      "date": "1938-06-27",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Virginia Bruce"
+        },
+        {
+          "title": "First Song - Let's Sing Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27158",
+      "date": "1938-06-28",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Beautiful Changes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27159",
+      "date": "1938-07-05",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Room"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27160",
+      "date": "1938-07-12",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sugar Foot Stomp"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27161",
+      "date": "1938-07-19",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Down South Camp Meeting"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27162",
+      "date": "1938-07-26",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Smiles - Ben Bernie Subs"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27163",
+      "date": "1938-08-02",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Camel Caravan of Swing Begins - First Song - Hallelujah"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27164",
+      "date": "1938-08-09",
+      "epnum": "59",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Lullaby In Rhythm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27165",
+      "date": "1938-08-16",
+      "epnum": "60",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Down South Camp Meeting"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27166",
+      "date": "1938-08-23",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love Me Or Leave Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27167",
+      "date": "1938-08-30",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - March Of The Swing Parade"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 38-08-30 (062) First Song - March Of The Swing Parade.mp3",
+          "time": "1849",
+          "size": "9248778"
+        }
+      ]
+    },
+    {
+      "ide": "27168",
+      "date": "1938-09-06",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Chicago"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 38-09-06 (063) First Song - Chicago.mp3",
+          "time": "1801",
+          "size": "9008162"
+        }
+      ]
+    },
+    {
+      "ide": "27169",
+      "date": "1938-09-13",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Beautiful Changes"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 38-09-13 (064) First Song - Beautiful Changes.mp3",
+          "time": "1785",
+          "size": "8923146"
+        }
+      ]
+    },
+    {
+      "ide": "27170",
+      "date": "1938-09-20",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Russian Lullaby"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 38-09-20 (065) First Song - Russian Lullaby.mp3",
+          "time": "1573",
+          "size": "7865314"
+        }
+      ]
+    },
+    {
+      "ide": "27171",
+      "date": "1938-09-27",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rose Of The Rio Grande"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "The Camel Caravan - 1938-09-27 First Song - Rose of the Rio Grande.mp3",
+          "time": "1745",
+          "size": "69825713"
+        },
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "The Camel Caravan - 1938-09-27 First Song - Rose of the Rio Grande.flac",
+          "time": "1745",
+          "size": "83743497"
+        },
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 38-09-27 (066) First Song - Rose Of The Rio Grande.mp3",
+          "time": "1541",
+          "size": "7707404"
+        }
+      ]
+    },
+    {
+      "ide": "276224",
+      "date": "1938-10-03",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Fanny Brice"
+        },
+        {
+          "title": "First Song - Pocket Full Of Dreams"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27172",
+      "date": "1938-10-04",
+      "epnum": "67",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Make Believe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36380",
+      "date": "1938-10-08",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Put Your Heart In A Song"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276225",
+      "date": "1938-10-10",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Deanna Durbin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27173",
+      "date": "1938-10-11",
+      "epnum": "68",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Swanee River"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276226",
+      "date": "1938-10-17",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Mickey Rooney"
+        },
+        {
+          "title": "First Song - Have A Heart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27174",
+      "date": "1938-10-18",
+      "epnum": "69",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Who's Sorry Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276227",
+      "date": "1938-10-24",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Peter Lorre"
+        },
+        {
+          "title": "First Song - Tenpins In The Sky"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27175",
+      "date": "1938-10-25",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Margie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276228",
+      "date": "1938-10-31",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - The Lane Sisters"
+        },
+        {
+          "title": "First Song - My Own"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27176",
+      "date": "1938-11-01",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Makin' Whoopee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276229",
+      "date": "1938-11-07",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Giovanni Martinelli"
+        },
+        {
+          "title": "First Song - New York Medley"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27177",
+      "date": "1938-11-08",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Russian Lullaby"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 38-09-20 (065) First Song - Russian Lullaby.mp3",
+          "time": "1573",
+          "size": "7865314"
+        }
+      ]
+    },
+    {
+      "ide": "276230",
+      "date": "1938-11-14",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Leslie Howard"
+        },
+        {
+          "title": "First Song - Yes Sir, That's My Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27178",
+      "date": "1938-11-15",
+      "epnum": "73",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - All Of Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276231",
+      "date": "1938-11-21",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - H V Kaltenborn"
+        },
+        {
+          "title": "First Song - Camel Chaser"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27179",
+      "date": "1938-11-22",
+      "epnum": "74",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Ciribiribin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276232",
+      "date": "1938-11-28",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Mary Boland"
+        },
+        {
+          "title": "First Song - Lift Chaser"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27180",
+      "date": "1938-11-29",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Honey's Lovin' Arms"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276233",
+      "date": "1938-12-05",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Dr Alan Ray Dafoe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27181",
+      "date": "1938-12-06",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Louise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276234",
+      "date": "1938-12-12",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Fredric March"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27182",
+      "date": "1938-12-13",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - It Had To Be You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276235",
+      "date": "1938-12-19",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Gladys Swarthout"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27183",
+      "date": "1938-12-20",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Whispering"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276236",
+      "date": "1938-12-26",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Kay Thompson"
+        },
+        {
+          "title": "First Song - Whoopee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27184",
+      "date": "1938-12-27",
+      "epnum": "79",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Blue Heaven"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276237",
+      "date": "1939-01-02",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - George Jessel"
+        },
+        {
+          "title": "First Song - Beautiful Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27185",
+      "date": "1939-01-03",
+      "epnum": "80",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Can't Believe You're In Love With Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-01-03 (080) First Song - I Can't Believe You're In Love With Me.mp3",
+          "time": "1672",
+          "size": "8359946"
+        }
+      ]
+    },
+    {
+      "ide": "276238",
+      "date": "1939-01-09",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Helen Mencken"
+        },
+        {
+          "title": "First Song - Rockabye Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27186",
+      "date": "1939-01-10",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sweet Sue"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-01-10 (081) First Song - Sweet Sue.mp3",
+          "time": "1646",
+          "size": "8230922"
+        }
+      ]
+    },
+    {
+      "ide": "276239",
+      "date": "1939-01-16",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Boris Karloff"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27187",
+      "date": "1939-01-17",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Can't Believe You're In Love With Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "The Camel Caravan - 1939-01-17 First Song - I Can't Believe That You're in Love with Me.mp3",
+          "time": "1356",
+          "size": "54255473"
+        },
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "The Camel Caravan - 1939-01-17 First Song - I Can't Believe That You're in Love with Me.flac",
+          "time": "1356",
+          "size": "63544847"
+        }
+      ]
+    },
+    {
+      "ide": "276240",
+      "date": "1939-01-23",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Martha Raye"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27188",
+      "date": "1939-01-24",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Gypsy Love Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "The Camel Caravan - 1939-01-24 First Song - Gypsy Love Song.mp3",
+          "time": "955",
+          "size": "38209073"
+        },
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "The Camel Caravan - 1939-01-24 First Song - Gypsy Love Song.flac",
+          "time": "955",
+          "size": "45307015"
+        }
+      ]
+    },
+    {
+      "ide": "276241",
+      "date": "1939-01-30",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Earl Carroll"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27189",
+      "date": "1939-01-31",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hold Tight"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "The Camel Caravan - 1939-01-31 First Song - Hold Tight.mp3",
+          "time": "1711",
+          "size": "68458673"
+        },
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "The Camel Caravan - 1939-01-31 First Song - Hold Tight.flac",
+          "time": "1711",
+          "size": "88267259"
+        }
+      ]
+    },
+    {
+      "ide": "276242",
+      "date": "1939-02-06",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Victor McLaglen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27190",
+      "date": "1939-02-07",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Swinging Down The Lane"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-02-07 (085) First Song - Swinging Down The Lane.mp3",
+          "time": "1593",
+          "size": "7968778"
+        }
+      ]
+    },
+    {
+      "ide": "276243",
+      "date": "1939-02-13",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Clem McCarthy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27191",
+      "date": "1939-02-14",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Undecided Now"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-02-14 (086) First Song - Undecided Now.mp3",
+          "time": "1587",
+          "size": "7936010"
+        }
+      ]
+    },
+    {
+      "ide": "276244",
+      "date": "1939-02-20",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Max Baer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27192",
+      "date": "1939-02-21",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Honolulu"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276245",
+      "date": "1939-02-27",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Pinky Tomlin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27193",
+      "date": "1939-02-28",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Singin In The Rain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276246",
+      "date": "1939-03-06",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Kay St Germaine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27194",
+      "date": "1939-03-07",
+      "epnum": "89",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Lulu's Back In Town"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-03-07 (089) First Song - Lulu's Back In Town.mp3",
+          "time": "1612",
+          "size": "8058213"
+        }
+      ]
+    },
+    {
+      "ide": "276247",
+      "date": "1939-03-13",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Ethel Barrymore"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27195",
+      "date": "1939-03-14",
+      "epnum": "90",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Lady Be Good"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-03-14 (090) First Song - Lady Be Good.mp3",
+          "time": "1626",
+          "size": "8128522"
+        }
+      ]
+    },
+    {
+      "ide": "276248",
+      "date": "1939-03-20",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Clyde Beatty"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27196",
+      "date": "1939-03-21",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Gypsy Love Song"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276249",
+      "date": "1939-03-27",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Bobby Breen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27197",
+      "date": "1939-03-28",
+      "epnum": "92",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Clap Yo' Hands"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276250",
+      "date": "1939-04-03",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "27198",
+      "date": "1939-04-04",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Louise"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-04-04 (093) First Song - Louise.mp3",
+          "time": "1667",
+          "size": "8336535"
+        }
+      ]
+    },
+    {
+      "ide": "276251",
+      "date": "1939-04-10",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Bobby Breen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27199",
+      "date": "1939-04-11",
+      "epnum": "94",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Honeysuckle Rose"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-04-11 (094) First Song - Honeysuckle Rose.mp3",
+          "time": "1600",
+          "size": "8000741"
+        }
+      ]
+    },
+    {
+      "ide": "276252",
+      "date": "1939-04-17",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Mervyn LeRoy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27200",
+      "date": "1939-04-18",
+      "epnum": "95",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Rose Of Washington Square"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276253",
+      "date": "1939-04-24",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Leni Lynn"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27201",
+      "date": "1939-04-25",
+      "epnum": "96",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Night Must Fall"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276254",
+      "date": "1939-05-01",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Fletcher Padgette"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27202",
+      "date": "1939-05-02",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jumpin' At The Woodside"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-05-02 (097) First Song - Jumpin' At The Woodside.mp3",
+          "time": "1638",
+          "size": "8188568"
+        }
+      ]
+    },
+    {
+      "ide": "276255",
+      "date": "1939-05-08",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Billy Rose"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27203",
+      "date": "1939-05-09",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Trees"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-05-09 (098) First Song - Trees.mp3",
+          "time": "1602",
+          "size": "8008044"
+        }
+      ]
+    },
+    {
+      "ide": "276256",
+      "date": "1939-05-15",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Clifton Fadiman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27204",
+      "date": "1939-05-16",
+      "epnum": "99",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Don't Be That Way"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276257",
+      "date": "1939-05-22",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Robert L Ripley"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27205",
+      "date": "1939-05-23",
+      "epnum": "100",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Skies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276258",
+      "date": "1939-05-29",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Gertrude Lawrence"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27206",
+      "date": "1939-05-30",
+      "epnum": "101",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Three Little Words"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276259",
+      "date": "1939-06-05",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie's 25th Wedding Aniversary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27207",
+      "date": "1939-06-06",
+      "epnum": "102",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love Me Or Leave Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276260",
+      "date": "1939-06-12",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Clifton Fadiman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27208",
+      "date": "1939-06-13",
+      "epnum": "103",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sweet Sue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276261",
+      "date": "1939-06-19",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Corbina Wright, Jr"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27209",
+      "date": "1939-06-20",
+      "epnum": "104",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Russian Lullaby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "276262",
+      "date": "1939-06-26",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Corbina Wright, Jr"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27210",
+      "date": "1939-07-08",
+      "epnum": "105",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - St Louis Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27211",
+      "date": "1939-07-15",
+      "epnum": "106",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sugar Foot Stomp"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27212",
+      "date": "1939-07-22",
+      "epnum": "107",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Minnie The Moocher's Wedding Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27213",
+      "date": "1939-07-29",
+      "epnum": "108",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Down Home In Indiana"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27214",
+      "date": "1939-08-05",
+      "epnum": "109",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sweet Sue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27215",
+      "date": "1939-08-12",
+      "epnum": "110",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Down South Camp Meeting"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27216",
+      "date": "1939-08-19",
+      "epnum": "111",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Night And Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27217",
+      "date": "1939-08-26",
+      "epnum": "112",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Down By The Old Mill Stream"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27218",
+      "date": "1939-09-02",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - If I Could Be With You One Hour Tonight"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-09-02 (113) First Song - If I Could Be With You One Hour Tonight.mp3",
+          "time": "1749",
+          "size": "13996042"
+        }
+      ]
+    },
+    {
+      "ide": "27219",
+      "date": "1939-09-09",
+      "epnum": "114",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Spring Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-09-09 (114) First Song - Spring Song.mp3",
+          "time": "1834",
+          "size": "14674057"
+        }
+      ]
+    },
+    {
+      "ide": "27220",
+      "date": "1939-09-16",
+      "epnum": "115",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Skies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27221",
+      "date": "1939-09-23",
+      "epnum": "116",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - After You've Gone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27222",
+      "date": "1939-09-30",
+      "epnum": "117",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love Never Went To College"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27223",
+      "date": "1939-10-07",
+      "epnum": "118",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Wrappin' It Up"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36391",
+      "date": "1939-10-14",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Pick A Rib"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-10-14 (119) First Song - Pick A Rib.mp3",
+          "time": "1616",
+          "size": "8081418"
+        }
+      ]
+    },
+    {
+      "ide": "27225",
+      "date": "1939-10-21",
+      "epnum": "120",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Devil And The Deep Blue Sea"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27226",
+      "date": "1939-10-28",
+      "epnum": "121",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Back Home In Old Indiana"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-10-28 (121) First Song - Back Home In Old Indiana.mp3",
+          "time": "1585",
+          "size": "7923722"
+        }
+      ]
+    },
+    {
+      "ide": "27227",
+      "date": "1939-11-04",
+      "epnum": "122",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Down By The Old Mill Stream"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-11-04 (122) First Song - Down By The Old Mill Stream.mp3",
+          "time": "1640",
+          "size": "8202250"
+        }
+      ]
+    },
+    {
+      "ide": "27228",
+      "date": "1939-11-11",
+      "epnum": "123",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Don't Be That Way"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27229",
+      "date": "1939-11-18",
+      "epnum": "124",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Scatterbrain"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Goodman - Camel Caravan",
+          "name": "Camel Caravan 39-11-18 (124) First Song - Scatterbrain.mp3",
+          "time": "1647",
+          "size": "8235018"
+        }
+      ]
+    },
+    {
+      "ide": "27230",
+      "date": "1939-11-25",
+      "epnum": "125",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sweet Sue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27231",
+      "date": "1939-12-02",
+      "epnum": "126",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Smiles"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27232",
+      "date": "1939-12-09",
+      "epnum": "127",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Hallelujah"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27233",
+      "date": "1939-12-16",
+      "epnum": "128",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - In The Mood"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27234",
+      "date": "1939-12-23",
+      "epnum": "129",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Jingle Bells"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "27235",
+      "date": "1939-12-30",
+      "epnum": "130",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Blue Skies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36392",
+      "date": "1942-02-03",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Peanut Vendor"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36393",
+      "date": "1942-04-28",
+      "epnum": "69",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Cielito Lindo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36394",
+      "date": "1942-05-12",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Agazar"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36395",
+      "date": "1942-05-19",
+      "epnum": "72",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Ali Baba"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36396",
+      "date": "1943-03-12",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - We'll Swing It Through"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36397",
+      "date": "1949-01-01",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Buttons and Bows"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36398",
+      "date": "1949-01-08",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Slow Boat to China "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36399",
+      "date": "1949-01-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Darling, My Darling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36400",
+      "date": "1949-01-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Powder Your Face With Sunshine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36401",
+      "date": "1949-01-29",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Far Away Places"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36402",
+      "date": "1949-02-05",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Powder Your Face With Sunshine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36403",
+      "date": "1949-02-12",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I've Got My Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36404",
+      "date": "1949-02-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Powder Your Face With Sunshine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36405",
+      "date": "1949-02-26",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Far Away Places"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36406",
+      "date": "1949-03-05",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I've Got My Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36407",
+      "date": "1949-03-12",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Far Away Places"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36408",
+      "date": "1949-03-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Powder Your Face With Sunshine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36409",
+      "date": "1949-03-26",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Cruisin' Down The River"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36410",
+      "date": "1949-04-02",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Cruisin' Down The River"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36411",
+      "date": "1949-04-09",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - It's A Great Big Wonderful World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36412",
+      "date": "1949-04-16",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - So In Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36413",
+      "date": "1949-04-23",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Cruisin' Down The River"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36414",
+      "date": "1949-04-30",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Big Wide Wonderful World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36415",
+      "date": "1949-05-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Cruisin' Down The River"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36416",
+      "date": "1949-05-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Big Wide Wonderful World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36417",
+      "date": "1949-05-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Cruisin' Down The River"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36418",
+      "date": "1949-05-28",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Scalawag"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36419",
+      "date": "1949-06-11",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Bali Bali"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36420",
+      "date": "1949-06-18",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dreamy Old New England Moon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36421",
+      "date": "1949-06-25",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Some Enchanted Evening"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36422",
+      "date": "1949-07-02",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Forever And Ever"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36423",
+      "date": "1949-07-09",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song -Some Enchanted Evening "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36424",
+      "date": "1949-07-16",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Old Fashioned Walk"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36425",
+      "date": "1949-07-30",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Riders In The Sky"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36426",
+      "date": "1949-08-06",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36427",
+      "date": "1949-08-13",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Love You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36428",
+      "date": "1949-08-20",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Some Enchanted Evening"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36429",
+      "date": "1949-10-01",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Someday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36430",
+      "date": "1949-10-08",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Bolero"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36431",
+      "date": "1949-10-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Someday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36432",
+      "date": "1949-10-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Don't Cry Joe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36433",
+      "date": "1949-10-29",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Jealous Heart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36434",
+      "date": "1949-11-05",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mule Train"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36435",
+      "date": "1949-11-12",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dreamer's Holiday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36436",
+      "date": "1949-11-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mule Train"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36437",
+      "date": "1949-11-26",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Some Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36438",
+      "date": "1949-12-03",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dreamer's Holiday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36439",
+      "date": "1949-12-10",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mule Train"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36440",
+      "date": "1949-12-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dear Hearts And Gentle People"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36441",
+      "date": "1949-12-25",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dreamer's Holiday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36442",
+      "date": "1949-12-31",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Tangerine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36443",
+      "date": "1950-01-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dear Hearts And Gentle People"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36444",
+      "date": "1950-01-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Old Master Painter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36445",
+      "date": "1950-01-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dreamer's Holiday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36446",
+      "date": "1950-01-28",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Old Master Painter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36447",
+      "date": "1950-02-04",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Chattanooga Shoeshine Boy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36448",
+      "date": "1950-02-11",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Bamboo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36449",
+      "date": "1950-02-18",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Chattanooga Shoeshine Boy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36450",
+      "date": "1950-02-25",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - There's No Tomorrow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36451",
+      "date": "1950-04-01",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sentimental Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36452",
+      "date": "1950-04-08",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - C'Est Si Bon "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36453",
+      "date": "1950-04-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sentimental Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36454",
+      "date": "1950-04-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Chattanooga Shoeshine Boy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36455",
+      "date": "1950-04-29",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - C'Est Si Bon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36456",
+      "date": "1950-05-06",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - It Isn't Fair"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36457",
+      "date": "1950-05-20",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Count Every Star"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36458",
+      "date": "1950-05-27",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - It Isn't Fair"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36459",
+      "date": "1950-06-03",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sentimental Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36460",
+      "date": "1950-06-10",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sentimental Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36461",
+      "date": "1950-06-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Want To Be Loved"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36462",
+      "date": "1950-06-24",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Thanks Mr Florist"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36463",
+      "date": "1950-07-08",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Bewitched"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36464",
+      "date": "1950-07-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Violins From Nowhere"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36465",
+      "date": "1950-07-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mona Lisa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36466",
+      "date": "1950-07-29",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Gypsy Love Song"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36467",
+      "date": "1950-08-05",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Where Or When"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36468",
+      "date": "1950-08-12",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mona Lisa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36469",
+      "date": "1950-08-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Tenza, Tenza"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36470",
+      "date": "1950-08-26",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Good Night, Irene"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36471",
+      "date": "1950-09-02",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mona Lisa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36472",
+      "date": "1950-09-09",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Goodnight Irene"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36473",
+      "date": "1950-09-16",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mona Lisa "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36474",
+      "date": "1950-09-23",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mona Lisa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36475",
+      "date": "1950-09-30",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Why Fight The Feeling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36476",
+      "date": "1950-10-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Can Anyone Explain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36477",
+      "date": "1950-10-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Thinking Of You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36478",
+      "date": "1950-10-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Harbor Lights"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36479",
+      "date": "1950-10-28",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Thinking Of You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36480",
+      "date": "1950-11-04",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Dream A Little Dream"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36481",
+      "date": "1950-11-11",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Could Be"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36482",
+      "date": "1950-11-18",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Nevertheless"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36483",
+      "date": "1950-11-25",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Could Be"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36484",
+      "date": "1950-12-09",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Marshmallow World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36485",
+      "date": "1951-01-06",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Marshmallow World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36486",
+      "date": "1951-01-13",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Nevertheless"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36487",
+      "date": "1951-01-20",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Be My Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36488",
+      "date": "1951-01-27",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Roving Kind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36489",
+      "date": "1951-02-03",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - If"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36490",
+      "date": "1951-02-10",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Be My Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36491",
+      "date": "1951-02-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Down In Nashville"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36492",
+      "date": "1951-02-24",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - If"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36493",
+      "date": "1951-03-03",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Night Is Young"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36494",
+      "date": "1951-03-10",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Faithful"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36495",
+      "date": "1951-03-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You're Just in Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36496",
+      "date": "1951-03-24",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - If"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36497",
+      "date": "1951-03-31",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Bring Back The Thrill"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36498",
+      "date": "1951-04-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Shall We Dance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36499",
+      "date": "1951-04-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - On Top Of Old Smokey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36500",
+      "date": "1951-04-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Be My Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36501",
+      "date": "1951-04-28",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I'll Never Know Why"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36502",
+      "date": "1951-05-05",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - On Top of Old Smokey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36503",
+      "date": "1951-05-12",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Shall We Dance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36504",
+      "date": "1951-05-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sound Off"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36505",
+      "date": "1951-05-26",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mr and Mississippi"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36506",
+      "date": "1951-06-02",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - On Top Of Old Smokey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36507",
+      "date": "1951-06-09",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sound Off"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36508",
+      "date": "1951-06-16",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Because Of You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36509",
+      "date": "1951-06-23",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Francesca"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36510",
+      "date": "1951-06-30",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Because Of You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36511",
+      "date": "1951-07-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Jezebel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36512",
+      "date": "1951-07-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love And Devotion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36513",
+      "date": "1951-07-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Love And Devotion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36514",
+      "date": "1951-07-28",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Jezebel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36515",
+      "date": "1951-08-04",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Truly Truly Fair"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36516",
+      "date": "1951-08-11",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Morning Side of the Mountain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36517",
+      "date": "1951-08-18",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mixed Emotions"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36518",
+      "date": "1951-08-25",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Because of You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36519",
+      "date": "1951-10-06",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Maria"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36520",
+      "date": "1951-10-13",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Because of You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36521",
+      "date": "1951-10-20",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Mixed Emotions"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36522",
+      "date": "1951-10-27",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36523",
+      "date": "1951-11-03",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - And So To Sleep Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36524",
+      "date": "1951-11-10",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Old Soft Shoe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36525",
+      "date": "1951-11-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - And So To Sleep Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36526",
+      "date": "1951-11-24",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - End of a love affair"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36527",
+      "date": "1951-12-01",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36528",
+      "date": "1951-12-08",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Jealousy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36529",
+      "date": "1951-12-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Out in the cold Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36530",
+      "date": "1951-12-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Christmas Song"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36531",
+      "date": "1951-12-29",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - And So To Sleep Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36532",
+      "date": "1952-01-05",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Shrimp Boats"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36533",
+      "date": "1952-01-12",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Charmaine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36534",
+      "date": "1952-01-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Sin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36535",
+      "date": "1952-01-26",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Little White Cloud That Cried"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36536",
+      "date": "1952-02-02",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Little White Cloud That Cried"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36537",
+      "date": "1952-02-09",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Cry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36538",
+      "date": "1952-02-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Tell Me Why"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36539",
+      "date": "1952-02-16",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Tell Me Why"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36540",
+      "date": "1952-02-23",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Tenderly"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36541",
+      "date": "1952-03-01",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Please Mr Sun"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36542",
+      "date": "1952-03-08",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Little White Cloud"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36543",
+      "date": "1952-03-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Broken Hearted"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36544",
+      "date": "1952-03-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Wheel of Fortune"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36545",
+      "date": "1952-04-05",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Broken Hearted"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36546",
+      "date": "1952-04-12",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Wheel of Fortune"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36547",
+      "date": "1952-04-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I\"ll Walk Alone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36548",
+      "date": "1952-04-26",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I'll Still Love You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36549",
+      "date": "1952-05-03",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Wheel of Fortune"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36550",
+      "date": "1952-05-10",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Kiss of Fire"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36551",
+      "date": "1952-05-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Be Anything But Be Mine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36552",
+      "date": "1952-05-24",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Racing With The Moon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36553",
+      "date": "1952-05-31",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Racing With The Moon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36554",
+      "date": "1952-06-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Racing With The Moon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36555",
+      "date": "1952-06-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I'm Yours"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36556",
+      "date": "1952-06-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Here In My Heart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36557",
+      "date": "1952-06-28",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I'm Yours"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36558",
+      "date": "1952-09-03",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Wish You Were Here"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36559",
+      "date": "1952-09-10",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Somewhere Along The Way"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36560",
+      "date": "1952-09-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Wish You Were Here"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36561",
+      "date": "1952-09-24",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You Belong To Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36562",
+      "date": "1952-10-01",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Love and Devotion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36563",
+      "date": "1952-10-04",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You Belong to Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36564",
+      "date": "1952-10-11",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You Belong To Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36565",
+      "date": "1952-10-18",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Love And Devotion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36566",
+      "date": "1952-10-25",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Lady Of Spain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36567",
+      "date": "1952-11-01",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Outside Of Heaven"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36568",
+      "date": "1952-11-08",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Why Don't You Believe Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36569",
+      "date": "1952-11-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Outside Of Heaven"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36570",
+      "date": "1952-11-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You Belong To Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36571",
+      "date": "1952-11-29",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Why Don't You Believe Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36572",
+      "date": "1952-12-06",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Outside Of Heaven"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36573",
+      "date": "1952-12-13",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - My Favorite Song"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36574",
+      "date": "1952-12-20",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - The Christmas Song"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36575",
+      "date": "1952-12-27",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Why Don't You Believe Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36576",
+      "date": "1953-01-03",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Why Don't You Believe Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36577",
+      "date": "1953-01-04",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You, You, You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36578",
+      "date": "1953-01-10",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Stay Where You Are"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36579",
+      "date": "1953-01-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Why Don't You Believe In Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36580",
+      "date": "1953-01-24",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Keep It A Secret"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36581",
+      "date": "1953-01-31",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Outside Of Heaven"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36582",
+      "date": "1953-02-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Who Don't You Believe Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36583",
+      "date": "1953-02-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Till I Waltz Again With You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36584",
+      "date": "1953-02-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Till I Waltz Again With You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36585",
+      "date": "1953-02-28",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - How Do You Speak To An Angel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36586",
+      "date": "1953-03-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Till I Waltz Again With You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36587",
+      "date": "1953-03-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Even Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36588",
+      "date": "1953-03-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Congratulations To Someone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36589",
+      "date": "1953-03-28",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - How Do You Speak To An Angel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36590",
+      "date": "1953-04-04",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Have You Heard"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36591",
+      "date": "1953-04-11",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - How Do You Speak To An Angel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36592",
+      "date": "1953-04-18",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Anywhere I Wander"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36593",
+      "date": "1953-04-25",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Believe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36594",
+      "date": "1953-05-02",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Pretend"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36595",
+      "date": "1953-05-09",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Wild Horses"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36596",
+      "date": "1953-05-16",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Believe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36597",
+      "date": "1953-05-23",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - April In Portugal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36598",
+      "date": "1953-05-30",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Pretend"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36599",
+      "date": "1953-06-06",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - April In Portugal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36600",
+      "date": "1953-06-13",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Say You're Mine Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36601",
+      "date": "1953-06-20",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Seven Lonely Days"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36602",
+      "date": "1953-06-27",
+      "epnum": "345",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Believe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36603",
+      "date": "1953-10-05",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Vaya Con Dios"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "New Camel Caravan",
+          "name": "New Camel Caravan 53-10-05 From Villanova.mp3",
+          "time": "1678",
+          "size": "26842579"
+        }
+      ]
+    },
+    {
+      "ide": "36604",
+      "date": "1953-10-12",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - No Other Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36605",
+      "date": "1953-10-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Many Times"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36606",
+      "date": "1953-10-26",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You, You, You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36607",
+      "date": "1953-11-02",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - No Other Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36608",
+      "date": "1953-11-09",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Rags To Riches"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36609",
+      "date": "1953-11-16",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Many Times"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36610",
+      "date": "1953-11-23",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I Love Paris"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36611",
+      "date": "1953-11-30",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Rags To Riches"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36612",
+      "date": "1953-12-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Many Times"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36613",
+      "date": "1953-12-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You Alone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36614",
+      "date": "1953-12-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Let It Snow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36615",
+      "date": "1953-12-28",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - I'm Walking Behind You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36616",
+      "date": "1954-01-11",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Many Times"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36617",
+      "date": "1954-01-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Woman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36618",
+      "date": "1954-01-18",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Rags To Riches"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36619",
+      "date": "1954-01-25",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - South Of The Border"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36620",
+      "date": "1954-02-01",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Guessing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36621",
+      "date": "1954-02-08",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - You Alone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36622",
+      "date": "1954-02-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - That's Amore"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36623",
+      "date": "1954-02-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Talking to a Sparrow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36624",
+      "date": "1954-03-01",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Our Heartbreaking Waltz"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36625",
+      "date": "1954-03-08",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - South Of The Border"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36626",
+      "date": "1954-03-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Woman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36627",
+      "date": "1954-03-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - Till We are Two"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "36628",
+      "date": "1954-03-29",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Song - A Dime and a Dollar"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Songs"
+    },
+    {
+      "genre": "Variety"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1933-12-07",
+      "dow": "",
+      "time": "",
+      "end": "1936-00-00",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1936-06-30",
+      "dow": "",
+      "time": "",
+      "end": "1937-06-20",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1938-03-28",
+      "dow": "",
+      "time": "",
+      "end": "1939-06-29",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1939-06-27",
+      "dow": "",
+      "time": "",
+      "end": "1941-00-00",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1942-07-10",
+      "dow": "",
+      "time": "",
+      "end": "1943-03-00",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1943-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1945-00-00",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1946-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1954-00-00",
+      "length": "60",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1936-06-30",
+      "dow": "",
+      "time": "",
+      "end": "1939-06-20",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1938-03-28",
+      "dow": "",
+      "time": "",
+      "end": "1939-06-29",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1933-12-07",
+      "dow": "Th",
+      "time": "",
+      "end": "1934-06-07",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1934-10-02",
+      "dow": "",
+      "time": "",
+      "end": "1935-06-27",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1935-10-01",
+      "dow": "",
+      "time": "",
+      "end": "1936-06-25",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1954-00-00",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Camel Caravan, The (all)"
+    },
+    {
+      "title": "Camel Caravan, The"
+    },
+    {
+      "title": "Camel Caravan"
+    },
+    {
+      "title": "Benny Goodman - Camel Caravan"
+    },
+    {
+      "title": "Camel Caravan with Benny Goodman"
+    },
+    {
+      "title": "Camel Caravan with Bob Crosby"
+    },
+    {
+      "title": "Camel Caravan with Eddie Cantor"
+    },
+    {
+      "title": "Camel Caravan with Glen Gray"
+    },
+    {
+      "title": "Camel Caravan with Jack Carson"
+    },
+    {
+      "title": "Camel Caravan with Jimmy Durante"
+    },
+    {
+      "title": "Camel Caravan with Johnny Mercer"
+    },
+    {
+      "title": "Camel Caravan with Lanny Ross"
+    },
+    {
+      "title": "Camel Caravan with Rupert Hughes"
+    },
+    {
+      "title": "Camel Caravan with Vaughn Monroe"
+    }
+  ]
+}

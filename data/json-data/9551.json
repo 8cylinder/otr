@@ -1,0 +1,205 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5167",
+      "first": "Robert",
+      "last": "Ruark",
+      "f": "Noted Role",
+      "character": "Novelist"
+    },
+    {
+      "idperson": "5167",
+      "first": "Robert",
+      "last": "Ruark",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5769",
+      "first": "John Cameron",
+      "last": "Swayze",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "7124",
+      "first": "Peter",
+      "last": "Roberts",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "25808",
+      "first": "H. V.",
+      "last": "Kaltenborn",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "2516",
+      "first": "Richard",
+      "last": "Harkness",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "5988",
+      "first": "Robert",
+      "last": "Trout",
+      "f": "Noted Role",
+      "character": "Emcee"
+    },
+    {
+      "idperson": "18161",
+      "first": "George Fielding",
+      "last": "Eliot",
+      "f": "Noted Role",
+      "character": "Panelist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "316083",
+      "date": "1948-08-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Eli Cubberson, Mogan Beatty, John Cameron Swaze"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Who Said That",
+          "name": "Who Said That 480827 09 Guests - Eli Cubberson, Mogan Beatty, John Cameron Swaze_OTRRPG.mp3",
+          "time": "1692",
+          "size": "27144385"
+        }
+      ]
+    },
+    {
+      "ide": "324557",
+      "date": "1949-04-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who Said That"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Who Said That",
+          "name": "Who Said That 1949.04.10 Who Said That.mp3",
+          "time": "1778",
+          "size": "7220266"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Quiz"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-06-02",
+      "dow": "F",
+      "time": "8:30 PM",
+      "end": "1948-09-24",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1949-01-02",
+      "dow": "Su",
+      "time": "10:30 PM",
+      "end": "1949-04-17",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1950-07-02",
+      "dow": "Tu",
+      "time": "8:00 PM",
+      "end": "1950-08-22",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1948-07-02",
+      "end": "1948-10-24"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Who Said That?"
+    }
+  ]
+}

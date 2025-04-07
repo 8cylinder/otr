@@ -1,0 +1,158 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "MAXI"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logm1019.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50457",
+      "first": "Hugh",
+      "last": "Dixon",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "About a Nuclear accident"
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "102358",
+      "date": "1980-06-15",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Twisting the Dragon's Tail"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "102359",
+      "date": "1980-06-22",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Volkswagen Equation, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "102360",
+      "date": "1980-06-29",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Laws of Human Survival, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "102361",
+      "date": "1980-07-06",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murphy's Law"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "102362",
+      "date": "1980-07-13",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tustin's Scar"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "102363",
+      "date": "1980-07-20",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Looks Like Perpetua"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Horror"
+    },
+    {
+      "genre": "Suspense"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1980-06-15",
+      "dow": "",
+      "time": "",
+      "end": "1980-07-20",
+      "length": "0",
+      "country": "United Kingdom",
+      "network": "BBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Maximum Credible Accident"
+    }
+  ]
+}

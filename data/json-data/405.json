@@ -1,0 +1,117 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185243-20c940c9.jpg",
+      "label": "Adventures In Science",
+      "idtype": "12"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Adult_Education_Series",
+      "label": "Wikipedia (Adult Education Series)",
+      "idtype": "1"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Allan_Nevins",
+      "label": "Wikipedia (Allan Nevins)",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "32591",
+      "first": "Allan",
+      "last": "Nevins",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "163988",
+      "date": "1946-09-14",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Forgiving, More or Less"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures In Science",
+          "name": "Adventures In Science 1946.09.14 Adventures In Science.mp3",
+          "time": "868",
+          "size": "3579904"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventures In Science"
+    }
+  ]
+}

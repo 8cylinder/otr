@@ -1,0 +1,422 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185604-dea4454b.jpg",
+      "label": "American Potraits CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185605-41dcf7af.jpg",
+      "label": "American Potraits CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185606-dab9ad23.jpg",
+      "label": "American Potraits CD Label",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "11062",
+      "first": "Milton",
+      "last": "Bacon",
+      "f": "Noted Role",
+      "character": "Narrator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "23155",
+      "date": "1946-03-23",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Alexander Hamilton (Log originally by Martin Grams)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23156",
+      "date": "1946-03-30",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thomas Jefferson"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Portraits",
+          "name": "American Portrait 460330 002 Thomas Jefferson_OTRRPG.mp3",
+          "time": "1779",
+          "size": "28536995"
+        }
+      ]
+    },
+    {
+      "ide": "23157",
+      "date": "1946-04-06",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Thomas Paine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23158",
+      "date": "1946-04-13",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Roger Williams"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23159",
+      "date": "1946-04-20",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "James J Hill"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23160",
+      "date": "1946-04-27",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Henry Thoreau"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23161",
+      "date": "1946-05-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "[Pre-empted By The Kentucky Derby]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23162",
+      "date": "1946-05-11",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Benjamin Franklin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23163",
+      "date": "1946-05-18",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ralph Waldo Emerson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23164",
+      "date": "1946-05-25",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "John Brown"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23165",
+      "date": "1946-06-01",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "John J Audubon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23166",
+      "date": "1946-06-08",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "William Jennings Bryan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23167",
+      "date": "1946-06-15",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mark Hanna"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23168",
+      "date": "1946-06-22",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "John And  Washington Roebling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23169",
+      "date": "1946-06-29",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Benjamin Rush, Physican And Patriot"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23170",
+      "date": "1946-07-06",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Robert Owen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23171",
+      "date": "1946-07-13",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Benjamin Rush, Physician And Patriot (repeat)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23172",
+      "date": "1946-07-20",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Elizabeth Cady Stanton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23173",
+      "date": "1946-07-27",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "John Sutter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23174",
+      "date": "1946-08-03",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Richard Henry Dana"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23175",
+      "date": "1946-08-10",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "William James"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23176",
+      "date": "1946-08-17",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cotton Mather: A Study in American Bigotry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23177",
+      "date": "1946-08-24",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of Jane Addams, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23178",
+      "date": "1946-08-31",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rutherford B Haynes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23179",
+      "date": "1946-09-07",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Samuel J Tilton"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-03-23",
+      "dow": "Sa",
+      "time": "6:15 PM",
+      "end": "1946-09-07",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "American Portrait"
+    }
+  ]
+}

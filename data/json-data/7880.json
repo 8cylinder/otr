@@ -1,0 +1,217 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2849",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "Scarecrow Press",
+      "idpytype2": "",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "avail": "8",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [
+    {
+      "info": "By Hickerson, the shows in 1966-1969 were from The Dunes Hotel and Country Club, Las Vegas."
+    },
+    {
+      "info": "Jay Hickerson Has A Log."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "4256",
+      "first": "Russ",
+      "last": "Morgan",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Does Your Heart Beat For You'; 'So Long'"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "314810",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hotel Claremont, La. 1st Song ?ÃÂÃÂ´ Vabon"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music In The Morgan Manner",
+          "name": "Music In The Morgan Manner 4412xx Hotel Claremont, La. 1st Song _ Vabon_OTRRPG.mp3",
+          "time": "1766",
+          "size": "28334427"
+        }
+      ]
+    },
+    {
+      "ide": "328673",
+      "date": "1944-12-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0259 Music In The Morgan Manner"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music In The Morgan Manner",
+          "name": "AFRS Collection 1944.12.13 0259 Music In The Morgan Manner.mp3",
+          "time": "1768",
+          "size": "7178240"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1936-03-16",
+      "dow": "M",
+      "time": "10:00 PM",
+      "end": "1936-05-04",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1937-02-13",
+      "dow": "Sa",
+      "time": "",
+      "end": "1939-01-21",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1940-08-23",
+      "dow": "F",
+      "time": "7:30 PM",
+      "end": "1940-09-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1966-00-00",
+      "dow": "Sa",
+      "time": "",
+      "end": "1969-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1966-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1967-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1937-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1938-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Philip Morris and Company (Cigarettes)",
+      "begin": "1937-02-13",
+      "end": "1939-01-21"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Russ Morgan Orchestra"
+    },
+    {
+      "title": "Music In The Morgan Manner"
+    },
+    {
+      "title": "Russ Morgan Show, The"
+    },
+    {
+      "title": "Music in the Morgan Manner"
+    },
+    {
+      "title": "Russ Morgan"
+    }
+  ]
+}

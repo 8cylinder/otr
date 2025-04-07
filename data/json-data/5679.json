@@ -1,0 +1,220 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3550",
+      "first": "George",
+      "last": "Liberace",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3551",
+      "first": "",
+      "last": "Liberace",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "I Don't Care At All"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "91916",
+      "date": "1954-07-28",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Getting Acquainted"
+        },
+        {
+          "title": "1st 'Bye, Bye Blues' "
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Liberace",
+          "name": "Liberace Program 540728 001 1st; 'Bye, Bye Blues' (64-44).mp3",
+          "time": "1606",
+          "size": "12924000"
+        }
+      ]
+    },
+    {
+      "ide": "91917",
+      "date": "1954-08-04",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dedicated To Ladies Who Wrote In With Requests"
+        },
+        {
+          "title": "1st 'Nola'. Dedicated To Ladies Who Wrote In"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Liberace",
+          "name": "Liberace Program 540804 002 1st; 'Nola'. Dedicated To Ladies Who Wrote In (64-44).mp3",
+          "time": "1584",
+          "size": "12745536"
+        }
+      ]
+    },
+    {
+      "ide": "91918",
+      "date": "1954-11-17",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All Request Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Liberace",
+          "name": "Liberace Program 541117 017 1st; 'La Cucaracha'. All Request Show (64-44).mp3",
+          "time": "1623",
+          "size": "13057536"
+        }
+      ]
+    },
+    {
+      "ide": "91919",
+      "date": "1954-11-24",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Turkey in the Straw'. Thanksgiving Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Liberace",
+          "name": "Liberace Program 541124 018 1st; 'Turkey in the Straw'. Thanksgiving Show (64-44).mp3",
+          "time": "1619",
+          "size": "13028208"
+        }
+      ]
+    },
+    {
+      "ide": "91920",
+      "date": "1955-01-12",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Camptown Races'. Stephen Foster Tribute"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Liberace",
+          "name": "Liberace Program 550112 025 1st; 'Camptown Races'. Stephen Foster Tribute (64-44).mp3",
+          "time": "1608",
+          "size": "12938144"
+        }
+      ]
+    },
+    {
+      "ide": "91921",
+      "date": "1955-01-19",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Concert Tour"
+        },
+        {
+          "title": "1st 'Got to Get Going'. Concert Tour (final show of series) "
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Liberace",
+          "name": "Liberace Program 550119 026 1st; 'Got to Get Going'. Concert Tour (final show of series) (64-44).mp3",
+          "time": "1610",
+          "size": "12954576"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1954-09-01",
+      "dow": "",
+      "time": "",
+      "end": "1955-01-19",
+      "length": "30",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Liberace Show, The"
+    }
+  ]
+}

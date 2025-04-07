@@ -1,0 +1,151 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1688",
+      "first": "Ralph",
+      "last": "Dumke",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1727",
+      "first": "Ed",
+      "last": "East",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1930-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1931-02-12",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1931-07-07",
+      "dow": "Tu,Th,F",
+      "time": "8:45 PM",
+      "end": "1932-07-01",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1934-07-09",
+      "dow": "M,Tu,W,Th,F",
+      "time": "12:15 PM",
+      "end": "1934-07-13",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1935-01-01",
+      "dow": "Tu,W,Th",
+      "time": "8:00 AM",
+      "end": "1935-01-24",
+      "length": "45",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1935-04-30",
+      "dow": "M,Tu,W,Th",
+      "time": "11:45 PM",
+      "end": "1935-06-04",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1935-09-15",
+      "dow": "Su",
+      "time": "1:45 PM",
+      "end": "1935-08-12",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1936-09-29",
+      "dow": "Th",
+      "time": "11:15 AM",
+      "end": "1937-09-23",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1937-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1938-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "East and Dumke"
+    },
+    {
+      "title": "Sisters Of The Skillet"
+    },
+    {
+      "title": "Quality Twins"
+    }
+  ]
+}

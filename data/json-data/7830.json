@@ -1,0 +1,984 @@
+{
+  "avail": [
+    {
+      "avail": "16",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Rosemary/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,933581,00.html",
+      "label": "1946-08-26: Queen's Plaything",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19461947day.html",
+      "label": "Daytime Ratings: (1946-1947: #12)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19471948day.html",
+      "label": "Daytime Ratings: (1947-1948: #15)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19481949day.html",
+      "label": "Daytime Ratings: (1948-1949: #9)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19491950day.html",
+      "label": "Daytime Ratings: (1949-1950: #13)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19501951day.html",
+      "label": "Daytime Ratings: (1950-1951: #6)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19521953day.html",
+      "label": "Daytime Ratings: (1952-1953: #12)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19531954day.html",
+      "label": "Daytime Ratings: (1953-1954: #11)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19541955day.html",
+      "label": "Daytime Ratings: (1954-1955: #14)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-7830-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "107",
+      "first": "Jack",
+      "last": "Arthur",
+      "f": "Noted Role",
+      "character": "Sponsor spokesperson"
+    },
+    {
+      "idperson": "353",
+      "first": "Marion",
+      "last": "Barney",
+      "f": "Noted Role",
+      "character": "Rosemary's mother"
+    },
+    {
+      "idperson": "910",
+      "first": "King",
+      "last": "Calder",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "977",
+      "first": "Elaine Sterne",
+      "last": "Carrington",
+      "f": "Noted Role",
+      "character": "Creator"
+    },
+    {
+      "idperson": "977",
+      "first": "Elaine Sterne",
+      "last": "Carrington",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "1077",
+      "first": "Helen",
+      "last": "Choate",
+      "f": "Noted Role",
+      "character": "Joyce Miller"
+    },
+    {
+      "idperson": "1572",
+      "first": "Bob",
+      "last": "Dixon",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1620",
+      "first": "Nancy",
+      "last": "Douglass",
+      "f": "Noted Role",
+      "character": "Sponsor Spokesperson"
+    },
+    {
+      "idperson": "1699",
+      "first": "Eddie",
+      "last": "Dunn",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2438",
+      "first": "Larry",
+      "last": "Haines",
+      "f": "Noted Role",
+      "character": "Lefty"
+    },
+    {
+      "idperson": "2677",
+      "first": "Ed",
+      "last": "Herlihy",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2703",
+      "first": "Mary Jane",
+      "last": "Higby",
+      "f": "Noted Role",
+      "character": "Joyce Miller"
+    },
+    {
+      "idperson": "3118",
+      "first": "Virginia",
+      "last": "Kaye",
+      "f": "Noted Role",
+      "character": "Rosemary Dawson"
+    },
+    {
+      "idperson": "3138",
+      "first": "Jackie",
+      "last": "Kelk",
+      "f": "Noted Role",
+      "character": "Tommy Taylor"
+    },
+    {
+      "idperson": "3874",
+      "first": "Tony",
+      "last": "Marvin",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4449",
+      "first": "Joe",
+      "last": "O'Brien",
+      "f": "Noted Role",
+      "character": "Sponsor Spokesperson"
+    },
+    {
+      "idperson": "4895",
+      "first": "Robert 'Bob'",
+      "last": "Readick",
+      "f": "Noted Role",
+      "character": "Bill Roberts"
+    },
+    {
+      "idperson": "5027",
+      "first": "Jason",
+      "last": "Robards, Jr.",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5531",
+      "first": "Sydney",
+      "last": "Smith",
+      "f": "Noted Role",
+      "character": "Peter Harvey"
+    },
+    {
+      "idperson": "5813",
+      "first": "Paul",
+      "last": "Taubman",
+      "f": "Noted Role",
+      "character": "Music"
+    },
+    {
+      "idperson": "6244",
+      "first": "Charles 'Chuck'",
+      "last": "Webster",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6310",
+      "first": "Lew",
+      "last": "White",
+      "f": "Noted Role",
+      "character": "Music"
+    },
+    {
+      "idperson": "6387",
+      "first": "Ethel",
+      "last": "Wilson",
+      "f": "Noted Role",
+      "character": "Mrs. Kenyon"
+    },
+    {
+      "idperson": "6409",
+      "first": "Betty",
+      "last": "Winkler",
+      "f": "Noted Role",
+      "character": "Rosemary Dawson"
+    },
+    {
+      "idperson": "6468",
+      "first": "Lesley",
+      "last": "Woods",
+      "f": "Noted Role",
+      "character": "Aubrey Roberts"
+    },
+    {
+      "idperson": "6538",
+      "first": "Lawson",
+      "last": "Zerbe",
+      "f": "Noted Role",
+      "character": "Peter Harvey"
+    },
+    {
+      "idperson": "6917",
+      "first": "Jone",
+      "last": "Allison",
+      "f": "Noted Role",
+      "character": "Patti Dawson; Audrey Roberts"
+    },
+    {
+      "idperson": "6922",
+      "first": "Patsy",
+      "last": "Campbell",
+      "f": "Noted Role",
+      "character": "Patti Dawson"
+    },
+    {
+      "idperson": "7122",
+      "first": "Joan",
+      "last": "Lazer",
+      "f": "Noted Role",
+      "character": "Jessica"
+    },
+    {
+      "idperson": "7252",
+      "first": "Patricia",
+      "last": "Hosley",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7368",
+      "first": "Charles",
+      "last": "Penman",
+      "f": "Noted Role",
+      "character": "Dr. Jim Cotter"
+    },
+    {
+      "idperson": "7424",
+      "first": "Bill",
+      "last": "Adams",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "12284",
+      "first": "Ed",
+      "last": "Latimer",
+      "f": "Noted Role",
+      "character": "Mr. Dennis"
+    },
+    {
+      "idperson": "15182",
+      "first": "Fran",
+      "last": "Barber",
+      "f": "Noted Role",
+      "character": "Sponsor Spokesperson"
+    },
+    {
+      "idperson": "17749",
+      "first": "James Van",
+      "last": "Dyk",
+      "f": "Noted Role",
+      "character": "Dick Phillips"
+    },
+    {
+      "idperson": "39565",
+      "first": "Joan",
+      "last": "Alexander",
+      "f": "Noted Role",
+      "character": "Audrey Roberts"
+    },
+    {
+      "idperson": "39597",
+      "first": "Peggy",
+      "last": "Allenby",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46230",
+      "first": "Theodora",
+      "last": "Yates",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "46230",
+      "first": "Theodora",
+      "last": "Yates",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "47028",
+      "first": "John",
+      "last": "Newlin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "47211",
+      "first": "Leslie T.",
+      "last": "Harris",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "47211",
+      "first": "Leslie T.",
+      "last": "Harris",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "47616",
+      "first": "Marie",
+      "last": "De Wolfe",
+      "f": "Noted Role",
+      "character": "Marie"
+    },
+    {
+      "idperson": "47743",
+      "first": "George",
+      "last": "Keane",
+      "f": "Noted Role",
+      "character": "Bill Roberts"
+    },
+    {
+      "idperson": "50248",
+      "first": "Arthur",
+      "last": "Kohl",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50846",
+      "first": "Ray",
+      "last": "Ives",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "737",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1996-09-01",
+      "source": "Illustrated Press/IP_240.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#240) - Sep 1996",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1710",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "1948-10-01",
+      "source": "Radio Album/Radio Album 48Fall.pdf",
+      "idpytype2": "4",
+      "title": "Radio Album 1948 - Fall",
+      "author": ""
+    },
+    {
+      "idprint": "2286",
+      "idtype": "4",
+      "page": "34",
+      "article": "",
+      "url": "",
+      "date": "1949-08-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 4908.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 4908",
+      "author": ""
+    },
+    {
+      "idprint": "2332",
+      "idtype": "4",
+      "page": "23",
+      "article": "",
+      "url": "",
+      "date": "1953-06-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 5306.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 5306",
+      "author": ""
+    },
+    {
+      "idprint": "2184",
+      "idtype": "4",
+      "page": "87",
+      "article": "",
+      "url": "",
+      "date": "1946-05-01",
+      "source": "Radio Mirror/Radio Mirror 4605.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4605",
+      "author": ""
+    },
+    {
+      "idprint": "2185",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "1946-06-01",
+      "source": "Radio Mirror/Radio Mirror 4606.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4606",
+      "author": ""
+    },
+    {
+      "idprint": "2195",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "1947-05-01",
+      "source": "Radio Mirror/Radio Mirror 4705.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4705",
+      "author": ""
+    },
+    {
+      "idprint": "2201",
+      "idtype": "4",
+      "page": "31",
+      "article": "",
+      "url": "",
+      "date": "1947-11-01",
+      "source": "Radio Mirror/Radio Mirror 4711.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4711",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "290359",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Commercials and Music Themes Added Elsewhere"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "290356",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dedicated to All the Women of Today"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "331827",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marie to Get Away for A While"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 5xxxxx xxx Marie to Get Away for A While (C).mp3",
+          "time": "879",
+          "size": "28182422"
+        }
+      ]
+    },
+    {
+      "ide": "331826",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lefty Learns About the Big Game"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 5xxxxx xxx Lefty Learns About the Big Game (C).mp3",
+          "time": "867",
+          "size": "27807638"
+        }
+      ]
+    },
+    {
+      "ide": "331825",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lefty Gets Into the Big Game"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 5xxxxx xxx Lefty Gets Into the Big Game (C).mp3",
+          "time": "875",
+          "size": "28066454"
+        }
+      ]
+    },
+    {
+      "ide": "331824",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gambling"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 5xxxxx xxx Gambling (C).mp3",
+          "time": "877",
+          "size": "28101782"
+        }
+      ]
+    },
+    {
+      "ide": "290355",
+      "date": "1945-03-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rosemary Left N B C on March 23, 1945 the Program Is Possibly Dated Somewhere Between March 19th and the 22nd Gil Berber (announcer), Elaine Carrington (writer) 14 -50 Audio Condition - Excellent"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "290357",
+      "date": "1945-04-18",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Body of the Show Only, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "290358",
+      "date": "1945-04-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Body of the Show Only, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "290360",
+      "date": "1946-06-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Night and Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 46-06-26.mp3",
+          "time": "903",
+          "size": "3630575"
+        }
+      ]
+    },
+    {
+      "ide": "310604",
+      "date": "1946-07-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bill Learns About His Mother"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 1946-07-12 Bill Learns About His Mother.mp3",
+          "time": "795",
+          "size": "8031423"
+        }
+      ]
+    },
+    {
+      "ide": "290361",
+      "date": "1946-07-22",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rosemary and Brad Have Arrived at New York City's Penn Station"
+        },
+        {
+          "title": "Rosemary Comes To New York"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 460722 xxx Rosemary Comes To New York (128-48)_OTRRPG.mp3",
+          "time": "881",
+          "size": "14114680"
+        },
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 46-07-22 Rosemary Comes To New York.mp3",
+          "time": "882",
+          "size": "7055759"
+        }
+      ]
+    },
+    {
+      "ide": "290362",
+      "date": "1947-05-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Jim Has Driven Rosemary Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 470507 xxx Dr. Jim Drives Rosemary Home (128-48)_OTRRPG.mp3",
+          "time": "885",
+          "size": "14178040"
+        },
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 47-05-07 Dr. Jim Drives Rosemary Home.mp3",
+          "time": "886",
+          "size": "7087823"
+        }
+      ]
+    },
+    {
+      "ide": "290363",
+      "date": "1947-05-08",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of Heartless Harry, The"
+        },
+        {
+          "title": "Audrey Talks To Bill"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 470508 xxx Audrey Talks To Bill (128-48)_OTRRPG.mp3",
+          "time": "884",
+          "size": "14161912"
+        },
+        {
+          "path": "R",
+          "folder": "Rosemary",
+          "name": "Rosemary 47-05-08 Audrey Talks To Bill.mp3",
+          "time": "885",
+          "size": "7082639"
+        }
+      ]
+    },
+    {
+      "ide": "290364",
+      "date": "1950-06-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It's a Beautiful Day for Marie and Johnny to Be Married, When"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "290365",
+      "date": "1950-06-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bill Leaves Rosemary in a Tearful Scene"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "290366",
+      "date": "1950-07-06",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grand Slam"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "290367",
+      "date": "1950-08-03",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wendy Warren and the News"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "290368",
+      "date": "1950-10-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bill Roberts Awakes in a Shabby New York Hotel Room and Sends"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-10-02",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:15 AM",
+      "end": "1945-03-23",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1945-03-26",
+      "dow": "M,Tu,W,Th,F",
+      "time": "2:30 PM",
+      "end": "1946-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:45 AM",
+      "end": "1955-07-01",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Procter and Gamble",
+      "begin": "1944-10-02",
+      "end": "1955-07-01"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Rosemary"
+    }
+  ]
+}

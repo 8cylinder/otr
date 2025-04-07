@@ -1,0 +1,115 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Adventure Trails/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Thanks to Jim Lady for pointing out the reference for RadioGoldindex which had Gregory Boyington listed as a member of the cast."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "10094",
+      "first": "Gregory",
+      "last": "Boyington",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321239",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mine Of The Parrot - Audition"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventure Trails",
+          "name": "Adventure Trails 19xx.xx.xx Mine Of The Parrot - Audition.mp3",
+          "time": "721",
+          "size": "2992128"
+        }
+      ]
+    },
+    {
+      "ide": "163986",
+      "date": "1946-03-22",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Amazing Loser, The"
+        },
+        {
+          "title": "Stampede on the Chisholm Trail (Audition)"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventure Trails",
+          "name": "Adventure Trails 460322 Aud. Stampede on the Chisholm Trail.mp3",
+          "time": "929",
+          "size": "14946808"
+        },
+        {
+          "path": "A",
+          "folder": "Adventure Trails",
+          "name": "Adventure Trails 46-03-22 Stampede on the Chisolm Trail (Audition).mp3",
+          "time": "947",
+          "size": "9474058"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventure Trails"
+    }
+  ]
+}

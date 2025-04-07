@@ -1,0 +1,191 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/J Series/Jean Sablon/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "356",
+      "first": "Paul",
+      "last": "Baron",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5217",
+      "first": "Jean",
+      "last": "Sablon",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Why Does Your Heart Pass Me By'"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "308710",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Almost Like Being In Love"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jean Sablon",
+          "name": "Jean Sablon 47xxxx xxx 1st Song - Almost Like Being In Love_OTRRPG.mp3",
+          "time": "885",
+          "size": "14231993"
+        },
+        {
+          "path": "J",
+          "folder": "Jean Sablon",
+          "name": "Jean Sablon 47-xx-xx First Song - Almost Like Being In Love.mp3",
+          "time": "886",
+          "size": "7090325"
+        }
+      ]
+    },
+    {
+      "ide": "308711",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Oh What A Beautiful Morning"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jean Sablon",
+          "name": "Jean Sablon xxxxxx 008 1st Song - Oh What a Beautiful Morning (192-44)_OTRRPG.mp3",
+          "time": "883",
+          "size": "21210920"
+        },
+        {
+          "path": "J",
+          "folder": "Jean Sablon",
+          "name": "Jean Sablon xx-xx-xx (08) First Song - Oh What A Beautiful Morning.mp3",
+          "time": "881",
+          "size": "7049029"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1941-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1946-11-09",
+      "dow": "Sa",
+      "time": "",
+      "end": "1947-06-14",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-06-22",
+      "dow": "Su",
+      "time": "5:30 PM",
+      "end": "1947-11-02",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1951-02-19",
+      "dow": "M,W,F",
+      "time": "3:30 PM",
+      "end": "1951-07-20",
+      "length": "0",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jean Sablon Show, The"
+    }
+  ]
+}

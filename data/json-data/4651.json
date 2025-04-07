@@ -1,0 +1,160 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "634",
+      "first": "Shirley",
+      "last": "Booth",
+      "f": "Noted Role",
+      "character": "Phyllis Hogan"
+    },
+    {
+      "idperson": "2136",
+      "first": "Betty",
+      "last": "Garde",
+      "f": "Noted Role",
+      "character": "Kate Hogan"
+    },
+    {
+      "idperson": "5496",
+      "first": "Everett",
+      "last": "Sloane",
+      "f": "Noted Role",
+      "character": "Marvin"
+    },
+    {
+      "idperson": "5516",
+      "first": "Howard",
+      "last": "Smith",
+      "f": "Noted Role",
+      "character": "Tom Hogan"
+    },
+    {
+      "idperson": "5038",
+      "first": "Ken",
+      "last": "Roberts",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "50161",
+      "first": "Bernie",
+      "last": "Green",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6906",
+      "first": "Ethel",
+      "last": "Owen",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "On The Trail"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "323026",
+      "date": "1949-07-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Television"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hogans Daughter",
+          "name": "Hogans Daughter 1949.07.12 The Television.mp3",
+          "time": "1700",
+          "size": "6907625"
+        }
+      ]
+    },
+    {
+      "ide": "323027",
+      "date": "1949-07-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Looking For A Job"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hogans Daughter",
+          "name": "Hogans Daughter 1949.07.26 Looking For A Job.mp3",
+          "time": "1713",
+          "size": "6961843"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-06-21",
+      "dow": "",
+      "time": "8:00 PM",
+      "end": "1949-09-14",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Philip Morris and Company (Cigarettes)",
+      "begin": "1949-06-21",
+      "end": "1949-08-23"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Hogan's Daughter"
+    }
+  ]
+}

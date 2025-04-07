@@ -1,0 +1,723 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "MATN"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323170814-e90dde4c.jpg",
+      "label": "Matinee Theater CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323170823-98208ac4.jpg",
+      "label": "Matinee Theater CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323170842-01ac53e9.jpg",
+      "label": "Matinee Theater CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Certified_Dangerously_Yours",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Dangerously-Yours.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Matinee_Theater_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Dangerously-Yours.html#Vicks_Matinee_Theatre",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "article",
+      "url": "www.otrr.org/FILES/Articles/Martin_Grams_Jr_Articles/Good_Evening_Alfred_Hitchcock_on_radio.htm",
+      "label": "Good Evening: Alfred Hitchcock on Radio by Charles Huck and Martin Grams, Jr.",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2766-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Dangerously-Yours.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logd1003.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logm1002.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Certified_Dangerously_Yours",
+      "label": "Library Files",
+      "idtype": "17"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Matinee_Theater_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2105",
+      "first": "Martin",
+      "last": "Gabel",
+      "f": "Noted Role",
+      "character": "Host / Narrator"
+    },
+    {
+      "idperson": "3051",
+      "first": "Victor",
+      "last": "Jory",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6199",
+      "first": "Gertrude",
+      "last": "Warner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6202",
+      "first": "Mark",
+      "last": "Warnow",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1458",
+      "first": "Nick",
+      "last": "Dawson",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "2105",
+      "first": "Martin",
+      "last": "Gabel",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "2776",
+      "first": "Jean",
+      "last": "Holloway",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3051",
+      "first": "Victor",
+      "last": "Jory",
+      "f": "Noted Role",
+      "character": "Star"
+    },
+    {
+      "idperson": "3813",
+      "first": "Harry",
+      "last": "Marble",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6107",
+      "first": "David",
+      "last": "Victor",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "6199",
+      "first": "Gertrude",
+      "last": "Warner",
+      "f": "Noted Role",
+      "character": "Co-Star"
+    },
+    {
+      "idperson": "28375",
+      "first": "Herbert",
+      "last": "Little Jr.",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "50427",
+      "first": "Robert",
+      "last": "Sanville",
+      "f": "Director",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "662",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "2005-02-01",
+      "source": "Illustrated Press/IP_327.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #327 Feb 05",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2613",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1993-03-01",
+      "source": "Sperdvac Radiogram/SR V19 #3Mar93.pdf",
+      "idpytype2": "4",
+      "title": "SR V19 #3Mar93",
+      "author": ""
+    },
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "760",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1998-06-01",
+      "source": "Illustrated Press/IP_261.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#261) - Jun 1998",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "51474",
+      "date": "1944-06-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Masquerade"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-06-20_Aud_1_Masquerade.mp3",
+          "time": "1113",
+          "size": "4453774"
+        }
+      ]
+    },
+    {
+      "ide": "51475",
+      "date": "1944-06-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Highwayman, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-06-21_Aud2_The_Highwayman.mp3",
+          "time": "1733",
+          "size": "27722832"
+        }
+      ]
+    },
+    {
+      "ide": "51476",
+      "date": "1944-07-02",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Highwayman (This Log was originally prepared by Martin Grams), The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-07-02_01_The_Highwayman.mp3",
+          "time": "1779",
+          "size": "28462296"
+        }
+      ]
+    },
+    {
+      "ide": "51477",
+      "date": "1944-07-09",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pirate of Orleans, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-07-09_02_The_Pirate_Of_Orleans.mp3",
+          "time": "1662",
+          "size": "26597774"
+        }
+      ]
+    },
+    {
+      "ide": "51478",
+      "date": "1944-07-16",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man from the North"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51479",
+      "date": "1944-07-23",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Knight of the Seas"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51480",
+      "date": "1944-07-30",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rogue of Paris"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51481",
+      "date": "1944-08-06",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cortez the Conquistador"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-08-06_06_Cortez_The_Conquistador.mp3",
+          "time": "1791",
+          "size": "7164460"
+        }
+      ]
+    },
+    {
+      "ide": "51482",
+      "date": "1944-08-13",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "God's Country and the Woman"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-08-13_07_Gods_Country_And_The_Woman.mp3",
+          "time": "1755",
+          "size": "28078236"
+        }
+      ]
+    },
+    {
+      "ide": "51483",
+      "date": "1944-08-20",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Monsieur Beaucaire"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-08-20_08_Monsieur_Beaucaire.mp3",
+          "time": "1728",
+          "size": "6912426"
+        }
+      ]
+    },
+    {
+      "ide": "51484",
+      "date": "1944-08-27",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bothwell of Scotland"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-08-27_09_Bothwell_Of_Scotland.mp3",
+          "time": "1757",
+          "size": "28105301"
+        }
+      ]
+    },
+    {
+      "ide": "51485",
+      "date": "1944-09-03",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sheik, The"
+        },
+        {
+          "title": "The Sheik"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-09-03_10_The_Sheik.mp3",
+          "time": "1757",
+          "size": "28115659"
+        }
+      ]
+    },
+    {
+      "ide": "51486",
+      "date": "1944-09-10",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Firebrand, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-09-10_11_The_Firebrand.mp3",
+          "time": "1739",
+          "size": "27824783"
+        }
+      ]
+    },
+    {
+      "ide": "51487",
+      "date": "1944-09-17",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shadow of the Raven, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-09-17_12_The_Shadow_Of_The_Raven.mp3",
+          "time": "1701",
+          "size": "27214809"
+        }
+      ]
+    },
+    {
+      "ide": "51488",
+      "date": "1944-09-24",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Berkeley Square"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-09-24_13_Berkeley_Square.mp3",
+          "time": "1732",
+          "size": "6928306"
+        }
+      ]
+    },
+    {
+      "ide": "51489",
+      "date": "1944-10-01",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Windward Passage"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dangerously_Yours_Singles",
+          "name": "Dangerously_Yours_44-10-01_14_Windward_Passage.mp3",
+          "time": "1751",
+          "size": "7005630"
+        }
+      ]
+    },
+    {
+      "ide": "51490",
+      "date": "1944-10-08",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Assignment in Brittany"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51491",
+      "date": "1944-10-15",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Front Page"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    },
+    {
+      "genre": "Anthology"
+    },
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-07-02",
+      "dow": "Su",
+      "time": "2:00 PM",
+      "end": "1944-10-15",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1944-10-21",
+      "dow": "Su",
+      "time": "2:00 PM",
+      "end": "1945-04-08",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Vicks Vapo-rub",
+      "begin": "1944-10-21",
+      "end": "1945-04-08"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Dangerously Yours"
+    },
+    {
+      "title": "Matinee Theatre"
+    },
+    {
+      "title": "Matinee Theater"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mormon Tabernacle Choir/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,778776,00.html",
+      "label": "1946-07-08: Program Preview",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,793353,00.html",
+      "label": "1946-12-23: Program Preview",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1841",
+      "first": "Richard L.",
+      "last": "Evans",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1841",
+      "first": "Richard L.",
+      "last": "Evans",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "1841",
+      "first": "Richard L.",
+      "last": "Evans",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2698",
+      "idtype": "4",
+      "page": "18",
+      "article": "",
+      "url": "",
+      "date": "1944-07-01",
+      "source": "Tune In/Tune In 4407.pdf",
+      "idpytype2": "4",
+      "title": "Tune In - July 1944",
+      "author": ""
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Gently Rise The Sacred Strain"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "105833",
+      "date": "1943-11-28",
+      "epnum": "750",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Hymn Is, 'Lead Kindly Light', The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mormon Tabernacle Choir",
+          "name": "Mormon Tabernacle Choir 431128 750 1st Song - Lead, Kindly Light_OTRRPG.mp3",
+          "time": "1785",
+          "size": "28574124"
+        },
+        {
+          "path": "M",
+          "folder": "Mormon Tabernacle Choir",
+          "name": "Mormon Tabernacle Choir 43-11-28 (750) First Tune - Lead, Kindly Light.mp3",
+          "time": "1781",
+          "size": "14247220"
+        }
+      ]
+    },
+    {
+      "ide": "105834",
+      "date": "1944-01-09",
+      "epnum": "756",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Hymn Is, 'How Beautiful the Mountains', The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mormon Tabernacle Choir",
+          "name": "Mormon Tabernacle Choir 440109 756 1st Song - How Beautiful On The Mountains_OTRRPG.mp3",
+          "time": "1777",
+          "size": "28445700"
+        },
+        {
+          "path": "M",
+          "folder": "Mormon Tabernacle Choir",
+          "name": "Mormon Tabernacle Choir 44-01-09 (756) First Tune - How Beautiful On The Mountains.mp3",
+          "time": "1773",
+          "size": "14183156"
+        }
+      ]
+    },
+    {
+      "ide": "105835",
+      "date": "1944-01-23",
+      "epnum": "758",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Hymn Is, 'When I, Judge, Stand Before Thee', The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mormon Tabernacle Choir",
+          "name": "Mormon Tabernacle Choir 440123 758 1st Song - When I, Judge, Stand Before Thee_OTRRPG.mp3",
+          "time": "1780",
+          "size": "28486121"
+        },
+        {
+          "path": "M",
+          "folder": "Mormon Tabernacle Choir",
+          "name": "Mormon Tabernacle Choir 44-01-23 First Tune - A Prayer By Cheribini.mp3",
+          "time": "1802",
+          "size": "14417364"
+        }
+      ]
+    },
+    {
+      "ide": "105836",
+      "date": "1944-01-30",
+      "epnum": "759",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Hymn Is, 'Lo, My Shepherd Is Divine', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105837",
+      "date": "1944-02-06",
+      "epnum": "760",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Hymn Is, 'Praise to the Lord, the Almighty', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105838",
+      "date": "1951-10-07",
+      "epnum": "1155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Organ Selection Is, 'The Pilgrim's Song of Hope', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105839",
+      "date": "1951-10-14",
+      "epnum": "1156",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Program Features 'The Tocota in F Major' ( Bach) and a Talk, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105840",
+      "date": "1952-04-20",
+      "epnum": "1183",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Hymn Is, 'O Praise Ye the Lord', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "329888",
+      "date": "1961-05-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Hymn - He, Watching Over Israel. Mormon Tabernacle Choir"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Movie Personalities",
+          "name": "Movie Personalities 360401 1st Topic 'Rose Marie', with Nelson Eddy & Jeanette McDonald. WGN, Chicago.mp3",
+          "time": "865",
+          "size": "13911425"
+        }
+      ]
+    },
+    {
+      "ide": "105841",
+      "date": "1967-12-17",
+      "epnum": "2000",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two-thousandth Consecutive Broadcast of the Series, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Songs"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1929-07-15",
+      "dow": "F",
+      "time": "6:00 PM",
+      "end": "1932-09-02",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1932-09-04",
+      "dow": "Su",
+      "time": "",
+      "end": "2009-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1929-07-15",
+      "dow": "M",
+      "time": "6:00 PM",
+      "end": "1930-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1930-00-00",
+      "dow": "M",
+      "time": "6:15 PM",
+      "end": "1931-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1931-00-00",
+      "dow": "F",
+      "time": "2:45 PM",
+      "end": "1932-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1932-00-00",
+      "dow": "Su",
+      "time": "11:00 AM",
+      "end": "1960-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mormon Tabernacle Choir"
+    },
+    {
+      "title": "Salt Lake City Tabernacle Choir"
+    },
+    {
+      "title": "Music And The Spoken Word"
+    },
+    {
+      "title": "Mormon Tabernacle Choir, The"
+    }
+  ]
+}

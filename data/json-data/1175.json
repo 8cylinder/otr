@@ -1,0 +1,733 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "INWE"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Battle For Inspector West/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/iw_.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "82456",
+      "date": "1967-05-04",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle for Inspector West - Honeymoon Spells Nightmare"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Battle For Inspector West",
+          "name": "Inspector West 67-05-04 (101)  Battle for Inspector West - Honeymoon Spells Nightmare.mp3",
+          "time": "1656",
+          "size": "6627338"
+        }
+      ]
+    },
+    {
+      "ide": "82457",
+      "date": "1967-05-11",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle for Inspector West - Terror for a Bride"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Battle For Inspector West",
+          "name": "Inspector West 67-05-11 (102)  Battle for Inspector West - Terror for a Bride.mp3",
+          "time": "1664",
+          "size": "6658058"
+        }
+      ]
+    },
+    {
+      "ide": "82458",
+      "date": "1967-05-18",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle for Inspector West - Shadow on a Millionaire"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Battle For Inspector West 1967.05.18 Shadow On A Millionaire.mp3",
+          "time": "1669",
+          "size": "6783540"
+        }
+      ]
+    },
+    {
+      "ide": "82459",
+      "date": "1967-05-25",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle for Inspector West - Bait for a Bogey"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Battle For Inspector West",
+          "name": "Inspector West 67-05-25 (104)  Battle for Inspector West - Bait for a Bogey.mp3",
+          "time": "1649",
+          "size": "6595538"
+        }
+      ]
+    },
+    {
+      "ide": "82460",
+      "date": "1967-06-01",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle for Inspector West - Trail from a Tip-off"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Battle For Inspector West",
+          "name": "Inspector West 67-06-01 (105)  Battle for Inspector West - Trail from a Tip-off.mp3",
+          "time": "1663",
+          "size": "6651235"
+        }
+      ]
+    },
+    {
+      "ide": "82461",
+      "date": "1967-06-08",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle for Inspector West - Explosion in Red"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Battle For Inspector West",
+          "name": "Inspector West 67-06-08 (106)  Battle for Inspector West - Explosion in Red.mp3",
+          "time": "1628",
+          "size": "6511319"
+        }
+      ]
+    },
+    {
+      "ide": "82462",
+      "date": "1967-06-15",
+      "epnum": "107",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle for Inspector West - Mastermind at Midnight"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Battle For Inspector West",
+          "name": "Inspector West 67-06-15 (107)  Battle for Inspector West - Mastermind at Midnight.mp3",
+          "time": "1650",
+          "size": "6598679"
+        }
+      ]
+    },
+    {
+      "ide": "82463",
+      "date": "1968-03-25",
+      "epnum": "201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Home - The Voice of Doom"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Home 1968.xx.xx (1) Inspector West At Home.mp3",
+          "time": "1624",
+          "size": "6605377"
+        }
+      ]
+    },
+    {
+      "ide": "82464",
+      "date": "1968-03-28",
+      "epnum": "202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Home - Crisis for a Copper"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Home 1968.xx.xx (2) Inspector West At Home.mp3",
+          "time": "1617",
+          "size": "6577165"
+        }
+      ]
+    },
+    {
+      "ide": "82465",
+      "date": "1968-04-01",
+      "epnum": "203",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Home - Fear in Flat Nine"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Home 1968.xx.xx (3) Inspector West At Home.mp3",
+          "time": "1613",
+          "size": "6560865"
+        }
+      ]
+    },
+    {
+      "ide": "82466",
+      "date": "1968-04-04",
+      "epnum": "204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Home - A Call From the Whistler"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Home 1968.xx.xx (4) Inspector West At Home.mp3",
+          "time": "1615",
+          "size": "6569746"
+        }
+      ]
+    },
+    {
+      "ide": "82467",
+      "date": "1968-04-08",
+      "epnum": "205",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Home - A Girl for a Hostage"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Home 1968.xx.xx (5) Inspector West At Home.mp3",
+          "time": "1615",
+          "size": "6567552"
+        }
+      ]
+    },
+    {
+      "ide": "82468",
+      "date": "1968-04-11",
+      "epnum": "206",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Home - Clue from a Captive"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Home 1968.xx.xx (6) Inspector West At Home.mp3",
+          "time": "1615",
+          "size": "6567865"
+        }
+      ]
+    },
+    {
+      "ide": "82469",
+      "date": "1968-04-15",
+      "epnum": "207",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Home - A Date With Justice"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Home 1968.xx.xx (7) Inspector West At Home.mp3",
+          "time": "1615",
+          "size": "6569119"
+        }
+      ]
+    },
+    {
+      "ide": "82470",
+      "date": "1969-05-27",
+      "epnum": "301",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Bay - Flashpoint in Fleet Street"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Bay 1969.xx.xx (1) Inspector West At Bay.mp3",
+          "time": "1615",
+          "size": "6566817"
+        }
+      ]
+    },
+    {
+      "ide": "82471",
+      "date": "1969-05-29",
+      "epnum": "302",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Bay - Bombshell in Bournemouth"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Bay 1969.xx.xx (2) Inspector West At Bay.mp3",
+          "time": "1611",
+          "size": "6551875"
+        }
+      ]
+    },
+    {
+      "ide": "82472",
+      "date": "1969-06-03",
+      "epnum": "303",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Bay - Encounter with an Eve"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Bay 1969.xx.xx (3) Inspector West At Bay.mp3",
+          "time": "1609",
+          "size": "6543829"
+        }
+      ]
+    },
+    {
+      "ide": "82473",
+      "date": "1969-06-05",
+      "epnum": "304",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Bay - Conflict in Kensington"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Bay 1969.xx.xx (4) Inspector West At Bay.mp3",
+          "time": "1616",
+          "size": "6572459"
+        }
+      ]
+    },
+    {
+      "ide": "82474",
+      "date": "1969-06-10",
+      "epnum": "305",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Bay - Package for Peril"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Bay 1969.xx.xx (5) Inspector West At Bay.mp3",
+          "time": "1614",
+          "size": "6563368"
+        }
+      ]
+    },
+    {
+      "ide": "82475",
+      "date": "1969-06-12",
+      "epnum": "306",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Bay - Shadow of Darkness"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Bay 1969.xx.xx (7) Inspector West At Bay.mp3",
+          "time": "1616",
+          "size": "6570996"
+        }
+      ]
+    },
+    {
+      "ide": "82476",
+      "date": "1969-06-17",
+      "epnum": "307",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Bay - Bullets in Bell Street"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Inspector West",
+          "name": "Inspector West At Bay 1969.xx.xx (8) Inspector West At Bay.mp3",
+          "time": "1609",
+          "size": "6544142"
+        }
+      ]
+    },
+    {
+      "ide": "82477",
+      "date": "1969-06-19",
+      "epnum": "308",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West At Bay - Finale for a Vendetta"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82478",
+      "date": "1970-07-13",
+      "epnum": "401",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beauty for Inspector West, A - Death Calls for a Queen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82479",
+      "date": "1970-07-20",
+      "epnum": "402",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beauty for Inspector West, A - Killer - With A Question Mark"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82480",
+      "date": "1970-07-27",
+      "epnum": "403",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beauty for Inspector West, A - Heat Seven - Hammersmith"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82481",
+      "date": "1970-08-03",
+      "epnum": "404",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beauty for Inspector West, A - Beauty Beware"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82482",
+      "date": "1970-08-10",
+      "epnum": "405",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beauty for Inspector West, A - Murder Sweet Murder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82483",
+      "date": "1970-08-17",
+      "epnum": "406",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beauty for Inspector West, A - Fire in the Night"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82484",
+      "date": "1970-08-24",
+      "epnum": "407",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beauty for Inspector West, A - Murder Wears a Veil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82485",
+      "date": "1970-08-31",
+      "epnum": "501",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Cries Wolf - The Mark of the Wolf"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82486",
+      "date": "1970-09-07",
+      "epnum": "502",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Cries Wolf - Knife in the Dark"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82487",
+      "date": "1970-09-14",
+      "epnum": "503",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Cries Wolf - Murder at Morden Lodge"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82488",
+      "date": "1970-09-21",
+      "epnum": "504",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Cries Wolf - Captive at Cannon Row"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82489",
+      "date": "1970-09-28",
+      "epnum": "505",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Cries Wolf - Hunt the Wolf"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82490",
+      "date": "1970-10-05",
+      "epnum": "506",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Cries Wolf - The Face of Lobo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82491",
+      "date": "1971-08-28",
+      "epnum": "601",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Makes Haste - Old Coppers Never Die"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82492",
+      "date": "1971-09-04",
+      "epnum": "602",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Makes Haste - Murder Steps In"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82493",
+      "date": "1971-09-11",
+      "epnum": "603",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Makes Haste - A Clue From the Past"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82494",
+      "date": "1971-09-18",
+      "epnum": "604",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Makes Haste - Appointment by Night"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82495",
+      "date": "1971-09-25",
+      "epnum": "605",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Makes Haste - Someone Missing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "82496",
+      "date": "1971-10-02",
+      "epnum": "606",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Inspector West Makes Haste - The Race is Run"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Police"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Battle For Inspector West"
+    },
+    {
+      "title": "Battle For Inspector West, The"
+    },
+    {
+      "title": "Inspector West"
+    }
+  ]
+}

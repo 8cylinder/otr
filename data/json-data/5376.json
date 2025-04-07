@@ -1,0 +1,150 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "346",
+      "first": "Pat",
+      "last": "Barnes",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "323363",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Show 08"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Napoleons Retreat",
+          "name": "Napoleons Retreat 19xx.xx.xx Show 08.mp3",
+          "time": "857",
+          "size": "3536863"
+        }
+      ]
+    },
+    {
+      "ide": "323364",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Show 53"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just Between Us",
+          "name": "Just Between Us 19xx.xx.xx Show 53.mp3",
+          "time": "908",
+          "size": "3740838"
+        }
+      ]
+    },
+    {
+      "ide": "323365",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Show 54"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just Between Us",
+          "name": "Just Between Us 19xx.xx.xx Show 54.mp3",
+          "time": "908",
+          "size": "3738748"
+        }
+      ]
+    },
+    {
+      "ide": "323366",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Show 81"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just Between Us",
+          "name": "Just Between Us 19xx.xx.xx Show 81.mp3",
+          "time": "910",
+          "size": "3749719"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1937-05-02",
+      "dow": "Su",
+      "time": "11:15 PM",
+      "end": "1937-07-25",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Rabin Company (cosmetics)",
+      "begin": "1937-05-02",
+      "end": "1937-07-25"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Just Between Us"
+    }
+  ]
+}

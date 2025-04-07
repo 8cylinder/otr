@@ -1,0 +1,113 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322164450-2f700416.jpg",
+      "label": "Bogart Presents",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Bogart Presents/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324582",
+      "date": "1945-09-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead Man Audition"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Life In Your Hands, A",
+          "name": "A Life In Your Hands 1945.09.14 Dead Man Audition.mp3",
+          "time": "1799",
+          "size": "7302382"
+        }
+      ]
+    },
+    {
+      "ide": "245947",
+      "date": "1945-09-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bogart Presents - Dead Man - (45-09-14)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bogart Presents",
+          "name": "Bogart Presents 45-09-17 Dead Man (Audition)(OTR).mp3",
+          "time": "1799",
+          "size": "7200786"
+        }
+      ]
+    },
+    {
+      "ide": "324583",
+      "date": "1949-09-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deadman"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Life In Your Hands, A",
+          "name": "A Life In Your Hands 1949.09.17 Deadman.mp3",
+          "time": "1888",
+          "size": "7661188"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Humphrey Bogart Presents"
+    },
+    {
+      "title": "Humphrey Bogart Show, The"
+    },
+    {
+      "title": "Bogart Presents"
+    }
+  ]
+}

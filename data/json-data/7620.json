@@ -1,0 +1,102 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Real Story/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2862",
+      "first": "Anne",
+      "last": "Hummert",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "2863",
+      "first": "Frank",
+      "last": "Hummert",
+      "f": "Producer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-08-08",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1947-12-31",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1944-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1947-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Whitehall Pharmacal (Anacin)",
+      "begin": "1944-08-08",
+      "end": "1947-12-31"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Real Stories from Real Life"
+    },
+    {
+      "title": "Real Stories of Real Life"
+    }
+  ]
+}

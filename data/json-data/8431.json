@@ -1,0 +1,1585 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "STAB"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324055637-d25337f4.jpg",
+      "label": "Stand By For Adventure CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8431-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Stand By For Adventure/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1899",
+      "first": "Parker",
+      "last": "Fennelly",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "1237",
+      "idtype": "4",
+      "page": "54",
+      "article": "",
+      "url": "",
+      "date": "1980-04-01",
+      "source": "NARA News/NARA News V07 04 V08 01 Spring80.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - Vol(07-04) / Vol(08-01) Spring 80",
+      "author": ""
+    },
+    {
+      "idprint": "1238",
+      "idtype": "4",
+      "page": "68",
+      "article": "",
+      "url": "",
+      "date": "1980-07-01",
+      "source": "NARA News/NARA News V08 02 Summer80.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - Vol(08-02) Summer 1980",
+      "author": ""
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "1613",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "1993-11-01",
+      "source": "OTR Digest_1990s/OTRDigest_(060)NovDec93.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (60) Nov-Dec 1993",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "247951",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Who Was Steam"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand By For Adventure_50-xx-xx Ep.xx_Man Who Was Steam.MP3",
+          "time": "615",
+          "size": "1231530"
+        }
+      ]
+    },
+    {
+      "ide": "247952",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Master of Death"
+        },
+        {
+          "title": "Capt. Chisom's Luck Runs Out"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand by for Adventure xxxxxx xxx Master of Death (Capt. Chisom's Luck Runs Out) (64-44).mp3",
+          "time": "641",
+          "size": "5203676"
+        },
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand By For Adventure_50-xx-xx Ep.xx_Master Of Death.MP3",
+          "time": "583",
+          "size": "1167059"
+        }
+      ]
+    },
+    {
+      "ide": "329970",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thumbnail Sketch of the 'Stand by for Adventure' Cast"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "So You Think Its New",
+          "name": "So You Think It's New 390511 001 Antique Collectors in Ancient Rome. TransAmerican Syndication (192-44).mp3",
+          "time": "895",
+          "size": "21559664"
+        }
+      ]
+    },
+    {
+      "ide": "329969",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Rain of Captain Quigley"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand by for Adventure xxxxxx xxx The Man Who Hated Birthdays (64-44).mp3",
+          "time": "655",
+          "size": "5316204"
+        }
+      ]
+    },
+    {
+      "ide": "329968",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Man Who Hated Birthdays"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand by for Adventure xxxxxx xxx The Face and the Rose (64-44).mp3",
+          "time": "664",
+          "size": "5387964"
+        }
+      ]
+    },
+    {
+      "ide": "329967",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Face and the Rose"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand by for Adventure xxxxxx xxx Secret of the Statutes (September Island Diary) (64-44).mp3",
+          "time": "657",
+          "size": "5326396"
+        }
+      ]
+    },
+    {
+      "ide": "329966",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secret of the Statutes"
+        },
+        {
+          "title": "September Island Diary"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand by for Adventure xxxxxx xxx Murder in Production (3 Musical Comedy Writers Die of Poison Gas) (64-44).mp3",
+          "time": "656",
+          "size": "5322028"
+        }
+      ]
+    },
+    {
+      "ide": "329965",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder in Production (3 Musical Comedy Writers Die of Poison Gas)"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand by for Adventure xxxxxx xxx Hunting scene (Mexican Hunting Murder) (64-44).mp3",
+          "time": "662",
+          "size": "5370076"
+        }
+      ]
+    },
+    {
+      "ide": "329964",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hunting scene"
+        },
+        {
+          "title": "Mexican Hunting Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand by for Adventure xxxxxx xxx Dangerous Match. Alan Ware Has a Dream about Nazi Agent Maria Gould (64-44).mp3",
+          "time": "667",
+          "size": "5412300"
+        }
+      ]
+    },
+    {
+      "ide": "329963",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dangerous Match. Alan Ware Has a Dream about Nazi Agent Maria Gould"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand by for Adventure xxxxxx xxx Captain Quigley Relates the Saga of Solomon Seagull (64-44).mp3",
+          "time": "650",
+          "size": "5272524"
+        }
+      ]
+    },
+    {
+      "ide": "329962",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain Quigley Relates the Saga of Solomon Seagull"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand by for Adventure xxxxxx AUD Thumbnail Sketch of the 'Stand by for Adventure' Cast (64-44).mp3",
+          "time": "665",
+          "size": "5391500"
+        }
+      ]
+    },
+    {
+      "ide": "247948",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knife (Audition), The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand By for Adventure_50-xx-xx Ep.00_The Knife (Audition).mp3",
+          "time": "1523",
+          "size": "9138273"
+        }
+      ]
+    },
+    {
+      "ide": "247963",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Swamp (1st Show)"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand By For Adventure_50-xx-xx Ep.01_Swamp [1st Show).MP3",
+          "time": "664",
+          "size": "2656457"
+        }
+      ]
+    },
+    {
+      "ide": "247949",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knife, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand by for Adventure xxxxxx AUD The Knife (audition) (64-44).mp3",
+          "time": "840",
+          "size": "6795292"
+        }
+      ]
+    },
+    {
+      "ide": "247899",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Buried Alive"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand By For Adventure_50-xx-xx Ep.11_Buried Alive.MP3",
+          "time": "677",
+          "size": "2710269"
+        }
+      ]
+    },
+    {
+      "ide": "247966",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Words That Freeze"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247957",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One Armed Strangler"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247904",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Careless Man"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stand By For Adventure",
+          "name": "Stand By For Adventure_50-xx-xx Ep.15_Careless Man.MP3",
+          "time": "737",
+          "size": "1474051"
+        }
+      ]
+    },
+    {
+      "ide": "247961",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Saga Of Josephine, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247906",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247907",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247908",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247909",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247910",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247945",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Homecoming"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247905",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coal Of Fire"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247911",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247912",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247913",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247914",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247915",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247916",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247964",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unholy Race"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247917",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247944",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Freedom's Fire"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247958",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pair Of Shoes, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247946",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hot Time At The South Pole, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247918",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247919",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247920",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247921",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247922",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247923",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247953",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Master Plan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247924",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247902",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain Quigley's Life Insurance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247925",
+      "date": "0000-00-00",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247926",
+      "date": "0000-00-00",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247927",
+      "date": "0000-00-00",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247928",
+      "date": "0000-00-00",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247929",
+      "date": "0000-00-00",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247930",
+      "date": "0000-00-00",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247931",
+      "date": "0000-00-00",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247932",
+      "date": "0000-00-00",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247933",
+      "date": "0000-00-00",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247934",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247935",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247936",
+      "date": "0000-00-00",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247937",
+      "date": "0000-00-00",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247938",
+      "date": "0000-00-00",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247939",
+      "date": "0000-00-00",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247898",
+      "date": "0000-00-00",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blind Man's Bluff"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247943",
+      "date": "0000-00-00",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fate Worse Than Death, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247950",
+      "date": "0000-00-00",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love For A Stranger"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247897",
+      "date": "0000-00-00",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Around Your Next Corner"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247900",
+      "date": "0000-00-00",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "By-Products Of Murder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247940",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247903",
+      "date": "0000-00-00",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain Quigley's Tall Tale"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247959",
+      "date": "0000-00-00",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Parliament Of Ghosts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247947",
+      "date": "0000-00-00",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kali"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247965",
+      "date": "0000-00-00",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vendetta"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247901",
+      "date": "0000-00-00",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain Makes History, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247956",
+      "date": "0000-00-00",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Not Without Will"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247955",
+      "date": "0000-00-00",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery Among The Troops"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247962",
+      "date": "0000-00-00",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snapshot Of Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247960",
+      "date": "0000-00-00",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quigley VS Newton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247941",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247942",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247954",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missing Factor, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133511",
+      "date": "1945-01-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133512",
+      "date": "1945-01-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133513",
+      "date": "1945-01-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133514",
+      "date": "1945-01-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133515",
+      "date": "1945-01-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133516",
+      "date": "1945-01-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133517",
+      "date": "1945-02-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133518",
+      "date": "1945-02-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133519",
+      "date": "1945-02-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133520",
+      "date": "1945-02-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133521",
+      "date": "1945-03-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133522",
+      "date": "1945-03-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133523",
+      "date": "1945-03-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133524",
+      "date": "1945-03-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133525",
+      "date": "1945-04-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133526",
+      "date": "1946-08-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133527",
+      "date": "1946-08-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Hunter And The Beast, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133528",
+      "date": "1946-08-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133529",
+      "date": "1946-08-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133530",
+      "date": "1946-08-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133531",
+      "date": "1946-09-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133532",
+      "date": "1946-09-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133533",
+      "date": "1946-09-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133534",
+      "date": "1946-09-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133535",
+      "date": "1946-09-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133536",
+      "date": "1946-09-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Even In Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133537",
+      "date": "1946-09-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133538",
+      "date": "1946-09-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133539",
+      "date": "1946-09-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133540",
+      "date": "1946-09-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133541",
+      "date": "1946-09-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133542",
+      "date": "1946-09-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133543",
+      "date": "1946-09-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133544",
+      "date": "1946-09-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133545",
+      "date": "1946-09-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133546",
+      "date": "1946-09-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133547",
+      "date": "1946-09-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133548",
+      "date": "1946-09-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133549",
+      "date": "1946-09-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133550",
+      "date": "1946-09-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133551",
+      "date": "1946-09-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133552",
+      "date": "1946-10-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133553",
+      "date": "1946-10-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133554",
+      "date": "1946-10-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133555",
+      "date": "1946-10-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133556",
+      "date": "1946-10-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133557",
+      "date": "1946-10-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133558",
+      "date": "1946-10-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133559",
+      "date": "1946-10-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133560",
+      "date": "1946-10-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Tassa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133561",
+      "date": "1946-10-14",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Master Plan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133562",
+      "date": "1946-10-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133563",
+      "date": "1946-10-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133564",
+      "date": "1946-10-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133565",
+      "date": "1946-10-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133566",
+      "date": "1946-10-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133567",
+      "date": "1946-10-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133568",
+      "date": "1946-10-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133569",
+      "date": "1946-10-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133570",
+      "date": "1946-10-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133571",
+      "date": "1946-10-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133572",
+      "date": "1946-10-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133573",
+      "date": "1946-10-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133574",
+      "date": "1946-10-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "133575",
+      "date": "1946-11-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Stand by for Adventure"
+    }
+  ]
+}

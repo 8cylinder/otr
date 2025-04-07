@@ -1,0 +1,154 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3107",
+      "first": "Irving",
+      "last": "Kaufman",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Please Go 'Way and Let Me Sleep,' 'Lazy Dan, the Minstrel Man'"
+    }
+  ],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1933-03-12",
+      "dow": "Su",
+      "time": "",
+      "end": "1933-06-04",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1933-09-24",
+      "dow": "Su",
+      "time": "",
+      "end": "1934-06-17",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1934-09-30",
+      "dow": "Su",
+      "time": "",
+      "end": "1935-05-26",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1935-06-27",
+      "dow": "Th",
+      "time": "2:30 PM",
+      "end": "1935-08-22",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1935-08-30",
+      "dow": "F",
+      "time": "7:15 PM",
+      "end": "1936-04-10",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1936-04-21",
+      "dow": "Tu",
+      "time": "8:00 PM",
+      "end": "1936-06-23",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Old English Wax",
+      "begin": "1933-03-12",
+      "end": "1936-06-23"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Lazy Dan, the Minstrel Man"
+    }
+  ]
+}

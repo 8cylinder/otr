@@ -1,0 +1,107 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "16th century European Adventure stories"
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "331297",
+      "date": "0000-00-00",
+      "epnum": "1001",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Imperial Intrigue",
+          "name": "Imperial Intrigue #01 (HR 1001).mp3",
+          "time": "954",
+          "size": "38191793"
+        },
+        {
+          "path": "I",
+          "folder": "Imperial Intrigue",
+          "name": "Imperial Intrigue #01 (HR 1001).flac",
+          "time": "954",
+          "size": "43318250"
+        }
+      ]
+    },
+    {
+      "ide": "331298",
+      "date": "0000-00-00",
+      "epnum": "1002",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Imperial Intrigue",
+          "name": "Imperial Intrigue #02 (HR 1002).mp3",
+          "time": "969",
+          "size": "38768753"
+        },
+        {
+          "path": "I",
+          "folder": "Imperial Intrigue",
+          "name": "Imperial Intrigue #02 (HR 1002).flac",
+          "time": "969",
+          "size": "42244044"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-12-16",
+      "dow": "Sa",
+      "time": "7:30 PM",
+      "end": "1940-02-24",
+      "length": "30",
+      "country": "USA",
+      "network": "Don Lee Network"
+    },
+    {
+      "begin": "1940-03-02",
+      "dow": "Sa",
+      "time": "8:00 PM",
+      "end": "1940-06-29",
+      "length": "30",
+      "country": "USA",
+      "network": "Don Lee Network"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Imperial Intrigue"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6977",
+      "first": "Terry",
+      "last": "Allen",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "48161",
+      "first": "Margie",
+      "last": "Ross",
+      "f": "Noted Role",
+      "character": "Vocalist (The Three Sisters)"
+    },
+    {
+      "idperson": "48162",
+      "first": "Bea",
+      "last": "Ross",
+      "f": "Noted Role",
+      "character": "Vocalist (The Three Sisters)"
+    },
+    {
+      "idperson": "48163",
+      "first": "Geri",
+      "last": "Ross",
+      "f": "Noted Role",
+      "character": "Vocalist (The Three Sisters)"
+    },
+    {
+      "idperson": "48164",
+      "first": "The",
+      "last": "Captivators",
+      "f": "Noted Role",
+      "character": "Music"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-03-19",
+      "dow": "Sa",
+      "time": "10:45 PM",
+      "end": "1943-04-16",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1943-08-16",
+      "dow": "M",
+      "time": "7:15 PM",
+      "end": "1943-09-06",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1944-05-01",
+      "dow": "M,W,F",
+      "time": "5:30 PM",
+      "end": "1944-10-11",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Terry Allen and the Three Sisters"
+    }
+  ]
+}

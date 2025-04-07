@@ -1,0 +1,185 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Crime%20On%20The%20Waterfront/",
+      "label": "Library Files",
+      "idtype": "16"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6163",
+      "first": "Mike",
+      "last": "Wallace",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1649",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "2001-07-01",
+      "source": "OTR Digest_1990s/OTRDigest_(098)Summer01.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (98) Summer 2001",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "I Cover the Waterfront"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "312320",
+      "date": "1949-02-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Audition Show"
+        },
+        {
+          "title": "(Audition) Mrs. Lattimore Shot & Killed with a Rifle"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Crime On The Waterfront",
+          "name": "Crime on the Waterfront 490224 xxx (Audition) Mrs. Lattimore Shot & Killed with a Rifle_OTRRPG.mp3",
+          "time": "2096",
+          "size": "33553993"
+        },
+        {
+          "path": "C",
+          "folder": "Crime On The Waterfront",
+          "name": "Crime On The Waterfront 490301 NBC (Audition) 2 35min_OTRRPG.mp3",
+          "time": "2122",
+          "size": "33957066"
+        },
+        {
+          "path": "C",
+          "folder": "Crime On The Waterfront",
+          "name": "Crime On The Waterfront 49-02-24 Mike Wallace.mp3",
+          "time": "2087",
+          "size": "8352332"
+        },
+        {
+          "path": "C",
+          "folder": "Crime On The Waterfront",
+          "name": "Crime On The Waterfront 49-00-00 Murder Of Mrs Lattimore.mp3",
+          "time": "2049",
+          "size": "8198418"
+        }
+      ]
+    },
+    {
+      "ide": "317995",
+      "date": "1949-03-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "NBC Audition Program"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Crime On The Waterfront",
+          "name": "Crime On The Waterfront 490301 NBC Audition Program 2 35min.mp3",
+          "time": "2122",
+          "size": "33956938"
+        }
+      ]
+    },
+    {
+      "ide": "317996",
+      "date": "1949-03-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Heiress Cruise"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Crime On The Waterfront",
+          "name": "Crime On The Waterfront 49-03-01 The Heiress Cruise.mp3",
+          "time": "2131",
+          "size": "8529650"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Crime on the Waterfront"
+    }
+  ]
+}

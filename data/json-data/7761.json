@@ -1,0 +1,90 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19301931eve.html",
+      "label": "Evening Ratings: (1930-1931: #7)",
+      "idtype": "8"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4940",
+      "first": "Leo",
+      "last": "Reisman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4986",
+      "first": "Harold 'Harry'",
+      "last": "Richman",
+      "f": "Noted Role",
+      "character": "Baritone"
+    },
+    {
+      "idperson": "48462",
+      "first": "Nenette",
+      "last": "Marchand",
+      "f": "Noted Role",
+      "character": "Soprano"
+    },
+    {
+      "idperson": "50799",
+      "first": "William",
+      "last": "Hanley",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Hello, Hello, The Voice Of RKO"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1930-00-00",
+      "dow": "F",
+      "time": "10:30 PM",
+      "end": "1932-04-22",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "RKO Theater"
+    }
+  ]
+}

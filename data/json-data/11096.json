@@ -1,0 +1,189 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Shady Valley Folks/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "10964",
+      "first": "Martin",
+      "last": "Bowen",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "11861",
+      "first": "The",
+      "last": "Buckeye Four",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "23588",
+      "first": "Jackie",
+      "last": "Hill",
+      "f": "Noted Role",
+      "character": "CoStar"
+    },
+    {
+      "idperson": "35580",
+      "first": "Joe",
+      "last": "Randall",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "50952",
+      "first": "Alma",
+      "last": "Crawford",
+      "f": "Noted Role",
+      "character": "Star"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314935",
+      "date": "1942-02-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Auditionn- First Vocal, Red River Valley"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Shady Valley Folks",
+          "name": "Shady Valley Folks 420203 (Audition) First Vocal, Red River Valley (128-32)_OTRRPG.mp3",
+          "time": "739",
+          "size": "11828058"
+        },
+        {
+          "path": "S",
+          "folder": "Shady Valley Folks",
+          "name": "Shady Valley Folks 420203 (Audition) First Vocal, Red River .mp3",
+          "time": "735",
+          "size": "5880713"
+        }
+      ]
+    },
+    {
+      "ide": "320020",
+      "date": "1943-01-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Who Threw The Overalls In Mrs Murphy's Chowder"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Shady Valley Folks",
+          "name": "Shady Valley Folks 43-01-13 First Song - Who Threw The Overalls In Mrs Murphy's Chowder.mp3",
+          "time": "1563",
+          "size": "12500740"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Country Music"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1945-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1946-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1947-00-00",
+      "length": "45",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Shady Valley Folks"
+    },
+    {
+      "title": "Shady Valley Jamboree"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Radio Chapel/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/21/20210321201033-3e17431e.jpg",
+      "label": "Radio Chapel Promo Photo",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314264",
+      "date": "1948-01-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vespers, followed by Break Forth O Beauteous Heavenly Light (JS Bach) KEX Aircheck"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Radio Chapel",
+          "name": "Radio Chapel 480111 xxx Vespers, followed by Break Forth O Beauteous Heavenly Light (JS Bach) KEX Aircheck (128-48)_OTRRPG.mp3",
+          "time": "1778",
+          "size": "28466680"
+        },
+        {
+          "path": "R",
+          "folder": "Radio Chapel",
+          "name": "Radio Chapel 48-01-11 Religious Program.mp3",
+          "time": "1778",
+          "size": "14224847"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Religion"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1941-10-12",
+      "dow": "Su",
+      "time": "11:30 AM",
+      "end": "1943-11-28",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mutual Radio Chapel"
+    }
+  ]
+}

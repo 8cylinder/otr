@@ -1,0 +1,273 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "MAJE"
+    }
+  ],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323170426-c5bccbba.jpg",
+      "label": "Majestics Master Of Mystery CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.otr.com/Mystery.shtml",
+      "label": "Things Mysterious by James F. Widner",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-5942-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logm1007.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Majestic's Master Of Mystery/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "100667",
+      "date": "1933-12-30",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phantom Spoilers 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Majestic's Master Of Mystery",
+          "name": "Majestic Master of Mystery 33-12-30 Phantom Spoilers #1.mp3",
+          "time": "771",
+          "size": "12330214"
+        }
+      ]
+    },
+    {
+      "ide": "100668",
+      "date": "1934-01-06",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phantom Spoilers 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Majestic's Master Of Mystery",
+          "name": "Majestic Master of Mystery 34-01-06 Phantom Spoilers #2.mp3",
+          "time": "791",
+          "size": "12652460"
+        }
+      ]
+    },
+    {
+      "ide": "100669",
+      "date": "1934-01-13",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phantom Spoilers 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Majestic's Master Of Mystery",
+          "name": "Majestic Master of Mystery 34-01-13 Phantom Spoilers #3.mp3",
+          "time": "779",
+          "size": "12457273"
+        }
+      ]
+    },
+    {
+      "ide": "100670",
+      "date": "1934-01-20",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phantom Spoilers 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Majestic's Master Of Mystery",
+          "name": "Majestic Master of Mystery 34-01-20 Phantom Spoilers #4.mp3",
+          "time": "783",
+          "size": "12532924"
+        }
+      ]
+    },
+    {
+      "ide": "100671",
+      "date": "1934-01-27",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phantom Spoilers 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Majestic's Master Of Mystery",
+          "name": "Majestic Master of Mystery 34-01-27 Phantom Spoilers #5.mp3",
+          "time": "786",
+          "size": "12572630"
+        }
+      ]
+    },
+    {
+      "ide": "100672",
+      "date": "1934-02-03",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phantom Spoilers 6"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Majestic's Master Of Mystery",
+          "name": "Majestic Master of Mystery 34-02-03 Phantom Spoilers #6.mp3",
+          "time": "783",
+          "size": "12530416"
+        }
+      ]
+    },
+    {
+      "ide": "100673",
+      "date": "1934-02-10",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phantom Spoilers 7"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Majestic's Master Of Mystery",
+          "name": "Majestic Master of Mystery 34-02-10 Phantom Spoilers #7 - last chapter.mp3",
+          "time": "780",
+          "size": "12479425"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    },
+    {
+      "genre": "Mystery"
+    },
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Suspense"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1933-11-30",
+      "dow": "W",
+      "time": "7:30 PM",
+      "end": "1934-02-10",
+      "length": "15",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Majestic Radios",
+      "begin": "1933-11-30",
+      "end": "1934-02-10"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Majestic's Master of Mystery"
+    }
+  ]
+}

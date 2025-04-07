@@ -1,0 +1,126 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "246416",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hollywood Roundup - Guest - Kirk Bennett"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Roundup",
+          "name": "Hollywood Roundup xxxxxx xxx Guest - Kirk Bennett_OTRRPG.mp3",
+          "time": "774",
+          "size": "12469141"
+        }
+      ]
+    },
+    {
+      "ide": "246417",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hollywood Roundup - Guest - Tim Holt"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Roundup",
+          "name": "Hollywood Roundup xxxxxx xxx Guest - Tim Holt_OTRRPG.mp3",
+          "time": "789",
+          "size": "12703612"
+        }
+      ]
+    },
+    {
+      "ide": "323031",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Kirk Bennett"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Roundup",
+          "name": "Hollywood Roundup 19xx.xx.xx Guest Kirk Bennett.mp3",
+          "time": "776",
+          "size": "3212235"
+        }
+      ]
+    },
+    {
+      "ide": "323032",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Tim Holt"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Roundup",
+          "name": "Hollywood Roundup 19xx.xx.xx Guest Tim Holt.mp3",
+          "time": "791",
+          "size": "3270846"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hollywood Roundup"
+    }
+  ]
+}

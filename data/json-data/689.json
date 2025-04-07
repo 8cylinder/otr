@@ -1,0 +1,111 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/America Calling/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.marx-brothers.org/listening/radio.htm",
+      "label": "The Marx Brothers - Radio shows and guest appearances",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "245736",
+      "date": "1941-02-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "America Calling - A Salute To The Greek Nation"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "America Calling",
+          "name": "America Calling 41-02-08 A Salute to the Greek Nation.mp3",
+          "time": "4887",
+          "size": "19547478"
+        }
+      ]
+    },
+    {
+      "ide": "321264",
+      "date": "1941-02-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Salute To Greece Part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321265",
+      "date": "1941-02-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Salute To Greece Part 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "America Calling",
+          "name": "America Calling 1941.02.08 Salute To Greece Part 2.mp3",
+          "time": "2354",
+          "size": "9525248"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "America Calling"
+    }
+  ]
+}

@@ -1,0 +1,5446 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323044308-346edc21.jpg",
+      "label": "Arthur Godfrey",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323044310-627686b0.jpg",
+      "label": "Arthur Godfrey",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324044716-b2f80698.jpg",
+      "label": "On Tonight 1",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185651-f908f9c2.jpg",
+      "label": "Arthur Godfrey Time CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185652-5f7ff509.jpg",
+      "label": "Arthur Godfrey Time CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185653-968643c9.jpg",
+      "label": "Arthur Godfrey Time CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "forums",
+      "url": "forums.oldradio.net/forum17.html",
+      "label": "The Nostalgia Pages Forums",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "joancrawfordma.tripod.com/radiodays.html",
+      "label": "Joan Crawford - On the Radio",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.joancrawfordbest.com/audio.htm",
+      "label": "The Best of Everything: A Joan Crawford Encyclopedia - Radio Appearances",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "http://userdata.acd.net/ottinger/cullen/radio/radio.html",
+      "label": "The Bill Cullen Homepage - Radio Career",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-39.html",
+      "label": "The Golden Age of Radio: Program 39 - June, 1973 - Tony Marvin",
+      "idtype": "1"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Arthur_Godfrey%27s_Talent_Scouts",
+      "label": "Wikipedia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-959-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loga1032.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19471948day.html",
+      "label": "Daytime Ratings: (1947-1948: #7)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19481949day.html",
+      "label": "Daytime Ratings: (1948-1949: #9)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19491950day.html",
+      "label": "Daytime Ratings: (1949-1950: #2)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19501951day.html",
+      "label": "Daytime Ratings: (1950-1951: #13)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19511952day.html",
+      "label": "Daytime Ratings: (1951-1952: #5)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19521953day.html",
+      "label": "Daytime Ratings: (1952-1953: #4)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19531954day.html",
+      "label": "Daytime Ratings: (1953-1954: #9)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19541955day.html",
+      "label": "Daytime Ratings: (1954-1955: #11)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19551956day.html",
+      "label": "Daytime Ratings: (1955-1956: #3)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19471948eve.html",
+      "label": "Evening Ratings: (1947-1948: #13)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19481949eve.html",
+      "label": "Evening Ratings: (1948-1949: #6)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19491950eve.html",
+      "label": "Evening Ratings: (1949-1950: #3)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19501951eve.html",
+      "label": "Evening Ratings: (1950-1951: #4)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19511952eve.html",
+      "label": "Evening Ratings: (1951-1952: #11)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19521953eve.html",
+      "label": "Evening Ratings: (1952-1953: #15)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19531954eve.html",
+      "label": "Evening Ratings: (1953-1954: #9)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19541955eve.html",
+      "label": "Evening Ratings: (1954-1955: #9)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19551956eve.html",
+      "label": "Evening Ratings: (1955-1956: #12)",
+      "idtype": "8"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,773545,00.html",
+      "label": "1942-09-07: Coffee and Gags",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,779075,00.html",
+      "label": "1947-06-09: The Jockeys",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,779642,00.html",
+      "label": "1948-01-26: The Radio Set",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,790193,00.html",
+      "label": "1941-07-07: Early Bird",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,803966,00.html",
+      "label": "1946-09-02: Early Bird",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,806657,00.html",
+      "label": "1953-03-23: Clean Sweep",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,812096,00.html",
+      "label": "1950-02-27: Oceans of Empathy",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,819095,00.html",
+      "label": "1953-11-02: Humble or Nothing",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,819434,00.html",
+      "label": "1954-01-18: Like a Divorce",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,823243,00.html",
+      "label": "1954-01-25: The Wild Blue Yonder",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,858747,00.html",
+      "label": "1950-03-20: Laurels",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,889988,00.html",
+      "label": "1954-07-26: Virtue Reigns",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,890581,00.html",
+      "label": "1953-05-25: Operation Godfrey",
+      "idtype": "11"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Arthur Godfrey Collection/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "",
+      "url": "",
+      "label": "",
+      "idtype": ""
+    }
+  ],
+  "infos": [
+    {
+      "info": "From the radio schedules of the New York Times: - 12/3/1937 - 1/21/1938: WHN - 1938/1/24-1938/8/22: WABC on various dates and times. - 1939/4/3-1942/4/2: WOR - -------------------------------------- - Hickerson has the last date of the latter program as 1942/4/9. - -------------------------------------- - Some of the programs listed under The Sun Dial Show could have been listed here."
+    },
+    {
+      "info": "The start date is from the radio schedule of Jan. 16, 1933's issue of the Washington Post. - -------------------------- - According to the Washington Post article, On the Air Today written by Arthur Godfrey, of Jul 1, 1936, his first appearance on the Sun Dial was Jan. 15, 1934. - -------------------------- - In May, 1941, Arthur Godfrey started broadcasting on WABC in New York City. See the radio schedule of the New York Times for May 6, 1941. From the radio schedules of the Washington Post, it appears that this program was the first part of the Sun Dial Show broadcast on WJSV. However, see p.65 of Singer's book that seems to indicate that this was not the case. And this claim is supported by the July 7, 1941 issue of Time magazine. - -------------------------- - By Hickerson, the date of the final broadcast of this program is April 27, 1945 and Dunning confirms that the year was 1945. However, looking at the radio schedules of the Washington Post, it appears that the date is much later. For example, the March 29, 1946 issue of the Washington Post has Arthur Godfrey on at 7-9am EST. - However, from the New York Times, it appears that the final broadcast in New York City is April 27, 1945 which is probably the source for Hickerson's and Dunning's dates. However, Arthur Godfrey resumed broadcasting at an early hour in New York City (see the Nov. 2, 1946 issue of the New York Times and the Sept. 2, 1946 issue of Time magazine)."
+    },
+    {
+      "info": "Sponsors: - Lipton tea - Scotch tape - Ban deodorant - Vitalis hair dressing - Bufferin pain reliever - Chesterfield cigarettes - Hebrew National meats - Saran Wrap - Snow Crop orange juice - Pillsbury flour - Rinso cleanser - Minute Rice - Frigidaire refrigerators - Lanolin Plus shampoo - Mountain Valley's foods - Lipton main dishes - Pepto Bismol antacid - Glass Wax window cleaner - Listerine mouthwash - Wildroot Cream Oil hair dressing - Kleenex tissues - Easy Washer-Dry - Lux liquid soap - Columbia TV - Sta-Flo - Instant Chase and Sanborn coffee - Chrysler-Plymouth automobiles - Lipton soups - Unguentine ointment - Gold Seal wood cream - Star Kist tuna fish - Pepsodent toothpaste - Nabisco cookies - Ban deodorant - Ipana toothpaste - Accent flavor enhancer - Schick razors - Hershey's chocolate"
+    },
+    {
+      "info": ""
+    },
+    {
+      "info": "Program consisted of taped segments from recent Arthur Godfrey Time programs. - ------------------------------------ - Dates, times and lengths of programs are from the radio schedules of the New York Times. - ------------------------------------ - From the New York Times, the name of the program was listed as Arthur Godfrey Digest except - (1) for the period 1951/10/14-1953/2/22 when it was listed as Arthur Godfrey Roundtable and - (2) for the period 1953/3/1-1953/5/24 when it was listed as Arthur Godfrey Hour."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "1351",
+      "first": "Bill",
+      "last": "Cullen",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2153",
+      "first": "Erroll",
+      "last": "Garner",
+      "f": "Noted Role",
+      "character": "Musician"
+    },
+    {
+      "idperson": "2256",
+      "first": "Arthur",
+      "last": "Godfrey",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5108",
+      "first": "Andy",
+      "last": "Rooney",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "21169",
+      "first": "Dody",
+      "last": "Goodman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46092",
+      "first": "Ace",
+      "last": "Ochs",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "47117",
+      "first": "John",
+      "last": "Carney",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "15734",
+      "first": "Remo",
+      "last": "Palmieri",
+      "f": "Noted Role",
+      "character": "guitartist"
+    },
+    {
+      "idperson": "27145",
+      "first": "Julius",
+      "last": "La Rosa",
+      "f": "Noted Role",
+      "character": "Volcalist"
+    },
+    {
+      "idperson": "4537",
+      "first": "Jack",
+      "last": "Paar",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "46935",
+      "first": "Granville",
+      "last": "Klink",
+      "f": "Noted Role",
+      "character": "Technician"
+    },
+    {
+      "idperson": "581",
+      "first": "Archie",
+      "last": "Bleyer",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "632",
+      "first": "Pat",
+      "last": "Boone",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "802",
+      "first": "George",
+      "last": "Bryan",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1118",
+      "first": "Patti",
+      "last": "Clayton",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "1118",
+      "first": "Patti",
+      "last": "Clayton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1446",
+      "first": "Janette",
+      "last": "Davis",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "2256",
+      "first": "Arthur",
+      "last": "Godfrey",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3427",
+      "first": "Bill",
+      "last": "Lawrence",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "3427",
+      "first": "Bill",
+      "last": "Lawrence",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3543",
+      "first": "Robert Q.",
+      "last": "Lewis",
+      "f": "Noted Role",
+      "character": "Substitute Host"
+    },
+    {
+      "idperson": "3543",
+      "first": "Robert Q.",
+      "last": "Lewis",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3836",
+      "first": "Marion",
+      "last": "Marlowe",
+      "f": "Noted Role",
+      "character": "Vocalist, soprano"
+    },
+    {
+      "idperson": "3836",
+      "first": "Marion",
+      "last": "Marlowe",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3874",
+      "first": "Tony",
+      "last": "Marvin",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4583",
+      "first": "Franklin 'Frank'",
+      "last": "Parker",
+      "f": "Noted Role",
+      "character": "Vocalist, tenor"
+    },
+    {
+      "idperson": "13410",
+      "first": "The",
+      "last": "Chordettes",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "15449",
+      "first": "Richard",
+      "last": "Hayes",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "15771",
+      "first": "Carmel",
+      "last": "Quinn",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "15771",
+      "first": "Carmel",
+      "last": "Quinn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "15879",
+      "first": "Lu Ann",
+      "last": "Simms",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "15879",
+      "first": "Lu Ann",
+      "last": "Simms",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "17088",
+      "first": "Frank",
+      "last": "Dodge",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "18368",
+      "first": "Ethel",
+      "last": "Ennis",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "22219",
+      "first": "",
+      "last": "Haleloke",
+      "f": "Noted Role",
+      "character": "Hawaiian Vocalist"
+    },
+    {
+      "idperson": "22219",
+      "first": "",
+      "last": "Haleloke",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "25596",
+      "first": "The",
+      "last": "Jubilaires",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "30588",
+      "first": "The",
+      "last": "McGuire Sisters",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "34808",
+      "first": "The",
+      "last": "Polka Dots",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "37590",
+      "first": "Marshall",
+      "last": "Young",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "43865",
+      "first": "The",
+      "last": "Symphonettes",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45205",
+      "first": "",
+      "last": "Peggy Marshall and the Holidays",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45206",
+      "first": "The",
+      "last": "Mariners Quartet",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "238",
+      "first": "Pearl",
+      "last": "Bailey",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "485",
+      "first": "Jack",
+      "last": "Benny",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "552",
+      "first": "Bill",
+      "last": "Bivens",
+      "f": "Noted Role",
+      "character": "Guest Host"
+    },
+    {
+      "idperson": "573",
+      "first": "Eubie",
+      "last": "Blake",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "638",
+      "first": "Victor",
+      "last": "Borge",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "854",
+      "first": "George",
+      "last": "Burns",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "862",
+      "first": "Abe",
+      "last": "Burrows",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "882",
+      "first": "Pat",
+      "last": "Buttram",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "963",
+      "first": "Art",
+      "last": "Carney",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1007",
+      "first": "Jack",
+      "last": "Carter",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1049",
+      "first": "Carol",
+      "last": "Channing",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1132",
+      "first": "Rosemary",
+      "last": "Clooney",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1310",
+      "first": "Joan",
+      "last": "Crawford",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1356",
+      "first": "Robert",
+      "last": "Cummings",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1556",
+      "first": "Phyllis",
+      "last": "Diller",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1772",
+      "first": "Duke",
+      "last": "Ellington",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2153",
+      "first": "Erroll",
+      "last": "Garner",
+      "f": "Noted Role",
+      "character": "Pianist"
+    },
+    {
+      "idperson": "2162",
+      "first": "Dave",
+      "last": "Garroway",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "2240",
+      "first": "Jackie",
+      "last": "Gleason",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2394",
+      "first": "Merv",
+      "last": "Griffin",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "2578",
+      "first": "June",
+      "last": "Havoc",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2606",
+      "first": "Peter Lind",
+      "last": "Hayes",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2620",
+      "first": "Mary",
+      "last": "Healy",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2670",
+      "first": "Audrey",
+      "last": "Hepburn",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2794",
+      "first": "Bob",
+      "last": "Hope",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3078",
+      "first": "Haleloke",
+      "last": "Kahuaolapus",
+      "f": "Noted Role",
+      "character": "singer"
+    },
+    {
+      "idperson": "3114",
+      "first": "Danny",
+      "last": "Kaye",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3440",
+      "first": "Steve",
+      "last": "Lawrence",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3469",
+      "first": "Peggy",
+      "last": "Lee",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3565",
+      "first": "Art",
+      "last": "Linkletter",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4009",
+      "first": "Lou",
+      "last": "McGarity",
+      "f": "Noted Role",
+      "character": "trombinist"
+    },
+    {
+      "idperson": "4020",
+      "first": "Christine 'Chris'",
+      "last": "McGuire",
+      "f": "Noted Role",
+      "character": "Vocalist (The McGuire Sisters)"
+    },
+    {
+      "idperson": "4021",
+      "first": "Dorothy 'Dotty'",
+      "last": "McGuire",
+      "f": "Noted Role",
+      "character": "Vocalist (The McGuire Sisters)"
+    },
+    {
+      "idperson": "4023",
+      "first": "Phyllis",
+      "last": "McGuire",
+      "f": "Noted Role",
+      "character": "Vocalist (The McGuire Sisters)"
+    },
+    {
+      "idperson": "4086",
+      "first": "Jose",
+      "last": "Melis",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4116",
+      "first": "Robert",
+      "last": "Merrill",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4224",
+      "first": "Garry",
+      "last": "Moore",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4321",
+      "first": "Edward R.",
+      "last": "Murrow",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4415",
+      "first": "Richard",
+      "last": "Nixon",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4703",
+      "first": "Marguerite",
+      "last": "Piazza",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4778",
+      "first": "Robert",
+      "last": "Preston",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5364",
+      "first": "Sy",
+      "last": "Shaffer",
+      "f": "Noted Role",
+      "character": "trombinist"
+    },
+    {
+      "idperson": "5782",
+      "first": "Henry 'Hank'",
+      "last": "Sylvern",
+      "f": "Noted Role",
+      "character": "organist"
+    },
+    {
+      "idperson": "5782",
+      "first": "Henry 'Hank'",
+      "last": "Sylvern",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5877",
+      "first": "Lowell",
+      "last": "Thomas",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5945",
+      "first": "Mel",
+      "last": "Torme",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6035",
+      "first": "Peter",
+      "last": "Ustinov",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6105",
+      "first": "Jackie",
+      "last": "Vernon",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6127",
+      "first": "Harry",
+      "last": "Von Zell",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6265",
+      "first": "Lawrence",
+      "last": "Welk",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6319",
+      "first": "Margaret",
+      "last": "Whiting",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6362",
+      "first": "Joe",
+      "last": "Williams",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6381",
+      "first": "Meredith",
+      "last": "Willson",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6420",
+      "first": "Jonathan",
+      "last": "Winters",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6594",
+      "first": "Allan",
+      "last": "Melvin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "8246",
+      "first": "The",
+      "last": "Ames Brothers",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "12552",
+      "first": "Jimmy",
+      "last": "Cannon",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "15276",
+      "first": "Sammy",
+      "last": "Davis, Jr.",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "15678",
+      "first": "Johnny",
+      "last": "Mince",
+      "f": "Noted Role",
+      "character": "Clarinetist"
+    },
+    {
+      "idperson": "15734",
+      "first": "Remo",
+      "last": "Palmieri",
+      "f": "Noted Role",
+      "character": "Guitarist"
+    },
+    {
+      "idperson": "20081",
+      "first": "The",
+      "last": "Four Clubmen",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "21287",
+      "first": "Tom",
+      "last": "Gorman",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "25093",
+      "first": "Hank",
+      "last": "Jones",
+      "f": "Noted Role",
+      "character": "Pianist"
+    },
+    {
+      "idperson": "27868",
+      "first": "Curtis",
+      "last": "LeMay",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "29723",
+      "first": "Joe",
+      "last": "Marshall",
+      "f": "Noted Role",
+      "character": "drummer"
+    },
+    {
+      "idperson": "31744",
+      "first": "Max",
+      "last": "Morath",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "44860",
+      "first": "Gene",
+      "last": "Traxler",
+      "f": "Noted Role",
+      "character": "Bassist"
+    },
+    {
+      "idperson": "45564",
+      "first": "The",
+      "last": "Diamonds",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "46936",
+      "first": "Lee",
+      "last": "Erwin",
+      "f": "Noted Role",
+      "character": "organist"
+    },
+    {
+      "idperson": "46937",
+      "first": "Ludwig",
+      "last": "von Flaro",
+      "f": "Noted Role",
+      "character": "Pianist"
+    },
+    {
+      "idperson": "46938",
+      "first": "James 'Jim'",
+      "last": "Lewis",
+      "f": "Noted Role",
+      "character": "Vocalist (The Mariners)"
+    },
+    {
+      "idperson": "46939",
+      "first": "Thomas 'Tom'",
+      "last": "Lockard",
+      "f": "Noted Role",
+      "character": "Vocalist (The Mariners)"
+    },
+    {
+      "idperson": "46940",
+      "first": "Nathaniel 'Nat'",
+      "last": "Dickerson",
+      "f": "Noted Role",
+      "character": "Vocalist (The Mariners)"
+    },
+    {
+      "idperson": "46941",
+      "first": "Martin",
+      "last": "Karl",
+      "f": "Noted Role",
+      "character": "Vocalist (The Mariners)"
+    },
+    {
+      "idperson": "46942",
+      "first": "Carol",
+      "last": "Sloane",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "46943",
+      "first": "The",
+      "last": "Clancy Brothers",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "46944",
+      "first": "Tommy",
+      "last": "Makem",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "46945",
+      "first": "Sergio",
+      "last": "Franci",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "46946",
+      "first": "Nipsy",
+      "last": "Russell",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "46947",
+      "first": "Abigail",
+      "last": "Van Buren",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "46948",
+      "first": "Andy",
+      "last": "Fitzgerald",
+      "f": "Noted Role",
+      "character": "Clarinet"
+    },
+    {
+      "idperson": "46948",
+      "first": "Andy",
+      "last": "Fitzgerald",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "46949",
+      "first": "Hal",
+      "last": "McCusick",
+      "f": "Noted Role",
+      "character": "Clarinetist"
+    },
+    {
+      "idperson": "46949",
+      "first": "Hal",
+      "last": "McCusick",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "46950",
+      "first": "Mickey",
+      "last": "Gravine",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "46951",
+      "first": "Sy",
+      "last": "Mann",
+      "f": "Noted Role",
+      "character": "Pianist"
+    },
+    {
+      "idperson": "46952",
+      "first": "Jerry",
+      "last": "Alters",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "47563",
+      "first": "Bob",
+      "last": "Carman",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "47636",
+      "first": "Janet",
+      "last": "Erlet",
+      "f": "Noted Role",
+      "character": "Vocalist (The Chordettes)"
+    },
+    {
+      "idperson": "47668",
+      "first": "Henry",
+      "last": "Miles",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "47669",
+      "first": "Andy",
+      "last": "Rodney",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "47670",
+      "first": "Charles",
+      "last": "Slocum",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "47691",
+      "first": "Carol",
+      "last": "Hagedorn",
+      "f": "Noted Role",
+      "character": "Vocalist (The Chordettes)"
+    },
+    {
+      "idperson": "47692",
+      "first": "Jinny",
+      "last": "Osborn",
+      "f": "Noted Role",
+      "character": "Vocalist (The Chordettes)"
+    },
+    {
+      "idperson": "47693",
+      "first": "Dottie",
+      "last": "Schwartz",
+      "f": "Noted Role",
+      "character": "Vocalist (The Chordettes)"
+    },
+    {
+      "idperson": "47970",
+      "first": "Ted",
+      "last": "Kowalski",
+      "f": "Noted Role",
+      "character": "Vocalist (The Diamonds)"
+    },
+    {
+      "idperson": "47971",
+      "first": "Dave",
+      "last": "Somerville",
+      "f": "Noted Role",
+      "character": "Vocalist (The Diamonds)"
+    },
+    {
+      "idperson": "47972",
+      "first": "Phil",
+      "last": "Levitt",
+      "f": "Noted Role",
+      "character": "Vocalist (The Diamonds)"
+    },
+    {
+      "idperson": "47973",
+      "first": "Bill",
+      "last": "Reed",
+      "f": "Noted Role",
+      "character": "Vocalist (The Diamonds)"
+    },
+    {
+      "idperson": "15959",
+      "first": "June",
+      "last": "Valli",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "20095",
+      "first": "The",
+      "last": "Four Knights",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "39482",
+      "first": "Cedric",
+      "last": "Adams",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "27145",
+      "first": "Julius",
+      "last": "La Rosa",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "27145",
+      "first": "Julius",
+      "last": "La Rosa",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50403",
+      "first": "Jimmy",
+      "last": "Stewart",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "",
+      "first": "",
+      "last": "",
+      "f": "",
+      "character": ""
+    },
+    {
+      "idperson": "3804",
+      "first": "Irving",
+      "last": "Mansfield",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "12736",
+      "first": "Jack",
+      "last": "Carney",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "12736",
+      "first": "Jack",
+      "last": "Carney",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "484",
+      "first": "Tony",
+      "last": "Bennett",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "795",
+      "first": "Lenny",
+      "last": "Bruce",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1292",
+      "first": "Wally",
+      "last": "Cox",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1402",
+      "first": "Vic",
+      "last": "Damone",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4086",
+      "first": "Jose",
+      "last": "Melis",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4224",
+      "first": "Garry",
+      "last": "Moore",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "15476",
+      "first": "Chuck",
+      "last": "Horner",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "15771",
+      "first": "Carmel",
+      "last": "Quinn",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6576",
+      "first": "Sonny",
+      "last": "King",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5431",
+      "first": "Herb",
+      "last": "Shriner",
+      "f": "Noted Role",
+      "character": "Subbed for Arthur during summer of '51"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "386",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1980-02-01",
+      "source": "Hello Again/HA_V11_(02)_Feb80.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 11 #02 Feb 1980",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "1235",
+      "idtype": "4",
+      "page": "46",
+      "article": "",
+      "url": "",
+      "date": "1979-07-01",
+      "source": "NARA News/NARA News V07 02 Summer79.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - Vol(07-02) Summer 1979",
+      "author": ""
+    },
+    {
+      "idprint": "1579",
+      "idtype": "4",
+      "page": "30",
+      "article": "",
+      "url": "",
+      "date": "1989-05-01",
+      "source": "OTR Digest_1980s/OTRDigest_(033)MayJun89.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (33) May-Jun1989",
+      "author": ""
+    },
+    {
+      "idprint": "1599",
+      "idtype": "4",
+      "page": "30",
+      "article": "",
+      "url": "",
+      "date": "1991-07-01",
+      "source": "OTR Digest_1990s/OTRDigest_(046)JulAug91.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (46) Jul-Aug 1991",
+      "author": ""
+    },
+    {
+      "idprint": "1626",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "1996-01-01",
+      "source": "OTR Digest_1990s/OTRDigest_(073)JanFeb96.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (73) Jan-Feb 1996",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "890",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "2000-09-01",
+      "source": "Illustrated Press/IP_282.pdf",
+      "idpytype2": "4",
+      "title": "IP 00 09 282",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "1711",
+      "idtype": "4",
+      "page": "73",
+      "article": "",
+      "url": "",
+      "date": "1948-07-01",
+      "source": "Radio Album/Radio Album 48Summer.pdf",
+      "idpytype2": "4",
+      "title": "Radio Album 1948 - Summer",
+      "author": ""
+    },
+    {
+      "idprint": "2350",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "1948-01-01",
+      "source": "Radios Best/Radio Best 4801.pdf",
+      "idpytype2": "4",
+      "title": "Radio Best 4801",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Seems Like Old Times', Trail Of The Lonesome Pine', 'Beautiful Dreamer'"
+    },
+    {
+      "theme": ""
+    },
+    {
+      "theme": "Seems Like Old Times'"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "256504",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bridge to Mackinac Island"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "312455",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Lullaby of Broadway"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time xxxxxx xxxx 1st Song - Lullaby of Broadway_OTRRPG.mp3",
+          "time": "880",
+          "size": "14161532"
+        }
+      ]
+    },
+    {
+      "ide": "312456",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Joe E Brown Substitute"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts xxxxxx Joe E Brown Substitute_OTRRPG.mp3",
+          "time": "1534",
+          "size": "24619559"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection xx-xx-xx Joe E Brown Substitutes.mp3",
+          "time": "1536",
+          "size": "12287999"
+        }
+      ]
+    },
+    {
+      "ide": "312457",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Joe E Brown Substitutes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256526",
+      "date": "0000-00-00",
+      "epnum": "2586",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - My Ukulele"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 6xxxxx 2586 1st Song - My Ukelele {AFRS} (128-48)_OTRRPG.mp3",
+          "time": "1507",
+          "size": "24120568"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 6x-xx-xx (2586) First Song - My Ukelele (AFRS).mp3",
+          "time": "1507",
+          "size": "12054671"
+        }
+      ]
+    },
+    {
+      "ide": "256517",
+      "date": "0000-00-00",
+      "epnum": "2587",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Daydream"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 6xxxxx 2587 1st Song - Daydream {AFRS} (128-48)_OTRRPG.mp3",
+          "time": "1507",
+          "size": "24124792"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 6x-xx-xx (2587) First Song - Daydream (AFRS).mp3",
+          "time": "1507",
+          "size": "12054095"
+        }
+      ]
+    },
+    {
+      "ide": "152349",
+      "date": "1939-09-21",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "WSJV Washington, DC"
+        },
+        {
+          "title": "Arthur Godfrey"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Sundial 390921 xxx 630 Am Arthur Godfrey_OTRRPG.mp3",
+          "time": "3598",
+          "size": "57657649"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Sundial 390921 xxx 730 Am Arthur Godfrey_OTRRPG.mp3",
+          "time": "1662",
+          "size": "26670163"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 39-09-21 (x) WSJV Washington, DC.mp3",
+          "time": "3207",
+          "size": "12827528"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 39-09-21 (x) WSJV Washington, DC.mp3",
+          "time": "3207",
+          "size": "12827528"
+        }
+      ]
+    },
+    {
+      "ide": "256513",
+      "date": "1945-04-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Network Show (1st 15 Minutes Only)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256560",
+      "date": "1946-07-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Remo Back From The Flu"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 46-07-08 (x) Remo Back From The Flu.mp3",
+          "time": "1913",
+          "size": "7650669"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 46-07-08 (x) Remo Back From The Flu.mp3",
+          "time": "1913",
+          "size": "7650669"
+        }
+      ]
+    },
+    {
+      "ide": "256527",
+      "date": "1946-07-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Shut Your Mouth Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 46-07-09 (x) First Song - Shut Your Mouth Baby.mp3",
+          "time": "1861",
+          "size": "7442757"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 46-07-09 (x) First Song - Shut Your Mouth Baby.mp3",
+          "time": "1861",
+          "size": "7442757"
+        }
+      ]
+    },
+    {
+      "ide": "256586",
+      "date": "1946-09-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Florita Rizzo, Lee Rogers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256616",
+      "date": "1946-09-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Paul Arvel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256606",
+      "date": "1946-09-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Kirk Wood"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256582",
+      "date": "1946-09-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Don Cassananavee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256602",
+      "date": "1946-10-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Jose Meles"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256596",
+      "date": "1946-10-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - James Van Dusen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256566",
+      "date": "1946-10-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Allen Melvin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256544",
+      "date": "1946-10-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harry Truman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256564",
+      "date": "1946-10-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "United Nations"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256572",
+      "date": "1946-10-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Bill Dillard"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256530",
+      "date": "1946-10-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flajatapa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256531",
+      "date": "1946-10-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From Godfrey's Farm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256576",
+      "date": "1946-10-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Carmen Abel"
+        },
+        {
+          "title": "The Winner is Soprano Carmen Abel"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 461029 xxx The Winner is Soprano Carmen Abel (192-44)_OTRRPG.mp3",
+          "time": "1759",
+          "size": "42217252"
+        }
+      ]
+    },
+    {
+      "ide": "256543",
+      "date": "1946-10-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Halloween Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256508",
+      "date": "1946-11-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Election Day"
+        },
+        {
+          "title": "The Winner is Comedienne Betty Reeves"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 461105 xxx The Winner is Comedienne Betty Reeves (192-44)_OTRRPG.mp3",
+          "time": "1760",
+          "size": "42261039"
+        }
+      ]
+    },
+    {
+      "ide": "256550",
+      "date": "1946-11-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Election Jokes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256535",
+      "date": "1946-11-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Godfrey's Virginia Farm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256537",
+      "date": "1946-11-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Dick Benedict"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 46-11-08 (x) Guest - Dick Benedict.mp3",
+          "time": "1769",
+          "size": "17690634"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 46-11-08 (x) Guest - Dick Benedict.mp3",
+          "time": "1769",
+          "size": "17690634"
+        }
+      ]
+    },
+    {
+      "ide": "256584",
+      "date": "1946-11-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Eleanor Benedict"
+        },
+        {
+          "title": "The Winner is Cellist Eleanor Benedict"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 461112 xxx The Winner is Cellist Eleanor Benedict (192-44)_OTRRPG.mp3",
+          "time": "1758",
+          "size": "42199065"
+        }
+      ]
+    },
+    {
+      "ide": "256518",
+      "date": "1946-11-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Didn't My Lord Deliver Daniel?"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 46-11-13 (x) First Song -Didn't My Lord Deliver Daniel.mp3",
+          "time": "1768",
+          "size": "17678346"
+        }
+      ]
+    },
+    {
+      "ide": "256585",
+      "date": "1946-11-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Estelle Moses"
+        },
+        {
+          "title": "The Winner is Singer Estelle Moses"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 461119 xxx The Winner is Singer Estelle Moses (192-44)_OTRRPG.mp3",
+          "time": "1759",
+          "size": "42222853"
+        }
+      ]
+    },
+    {
+      "ide": "256493",
+      "date": "1946-12-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "256529",
+      "date": "1946-12-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You Keep Coming Back Like A Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 46-12-18 (x) First Song - You Keep Coming Back Like A Song.mp3",
+          "time": "1768",
+          "size": "17676298"
+        }
+      ]
+    },
+    {
+      "ide": "256610",
+      "date": "1946-12-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Margaret Fower"
+        },
+        {
+          "title": "The Winner is Singer Margaret Power"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 461231 xxx The Winner is Singer Margaret Power (192-44)_OTRRPG.mp3",
+          "time": "1759",
+          "size": "42233495"
+        }
+      ]
+    },
+    {
+      "ide": "256509",
+      "date": "1947-01-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Esquire Awards - Billie Holliday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256615",
+      "date": "1947-01-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Naomi Wright"
+        },
+        {
+          "title": "The Winner is Singer Naomi Wright"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 470107 xxx The Winner is Singer Naomi Wright (192-44)_OTRRPG.mp3",
+          "time": "1760",
+          "size": "42243511"
+        }
+      ]
+    },
+    {
+      "ide": "256536",
+      "date": "1947-01-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Billie Holliday"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-01-13 (x) Guest - Billie Holliday.mp3",
+          "time": "1752",
+          "size": "7006894"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-01-13 (x) Guest - Billie Holliday.mp3",
+          "time": "1752",
+          "size": "7006894"
+        }
+      ]
+    },
+    {
+      "ide": "256612",
+      "date": "1947-01-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Marion Bruce"
+        },
+        {
+          "title": "The Winner is Singer Marion Bruce"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 470114 xxx The Winner is Singer Marion Bruce (192-44)_OTRRPG.mp3",
+          "time": "1796",
+          "size": "43112399"
+        }
+      ]
+    },
+    {
+      "ide": "256624",
+      "date": "1947-01-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Ted Lawery"
+        },
+        {
+          "title": "The Winner is Singer Ted Lawrey"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 470121 xxx The Winner is Singer Ted Lawrey (192-44)_OTRRPG.mp3",
+          "time": "1761",
+          "size": "42270429"
+        }
+      ]
+    },
+    {
+      "ide": "256631",
+      "date": "1947-02-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Winners are the Mixed Quartet 'The Swantones'"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 470211 xxx The Winners are the Mixed Quartet %22The Swantones%22 (192-44)_OTRRPG.mp3",
+          "time": "1759",
+          "size": "42231617"
+        }
+      ]
+    },
+    {
+      "ide": "256619",
+      "date": "1947-02-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Robert Penn"
+        },
+        {
+          "title": "The Winner is Vocalist Robert Penn"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 470218 xxx The Winner is Vocalist Robert Penn (192-44)_OTRRPG.mp3",
+          "time": "1767",
+          "size": "42428807"
+        }
+      ]
+    },
+    {
+      "ide": "256592",
+      "date": "1947-02-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Herb Selko"
+        },
+        {
+          "title": "The Winner is Singer-Impersonator Herb Selko"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 470225 xxx The Winner is Singer-Impersonator Herb Selko (192-44)_OTRRPG.mp3",
+          "time": "1766",
+          "size": "42400637"
+        }
+      ]
+    },
+    {
+      "ide": "256598",
+      "date": "1947-03-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Joe Fitzpatrick"
+        },
+        {
+          "title": "The Winner is Baritone Joe Fitzpatrick"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 470304 xxx The Winner is Baritone Joe Fitzpatrick (192-44)_OTRRPG.mp3",
+          "time": "1765",
+          "size": "42364329"
+        }
+      ]
+    },
+    {
+      "ide": "256600",
+      "date": "1947-03-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Johnny Daggan"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-03-11 (x) Winner - Johnny Daggan.mp3",
+          "time": "1790",
+          "size": "10741577"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-03-11 (x) Winner - Johnny Daggan.mp3",
+          "time": "1790",
+          "size": "10741577"
+        }
+      ]
+    },
+    {
+      "ide": "256597",
+      "date": "1947-03-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Joe Allen"
+        },
+        {
+          "title": "The Winner is Tenor Joe Allen (Original Voice of Donald Duck)"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 470318 xxx The Winner is Tenor Joe Allen (Original Voice of Donald Duck) (192-44)_OTRRPG.mp3",
+          "time": "1763",
+          "size": "42321135"
+        }
+      ]
+    },
+    {
+      "ide": "256494",
+      "date": "1947-03-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "256630",
+      "date": "1947-05-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - The Skyriders"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 470527 Winner - The Skyriders_OTRRPG.mp3",
+          "time": "1745",
+          "size": "27993681"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-05-19 (x) Winner - The Skyriders.mp3",
+          "time": "1740",
+          "size": "13923542"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-05-19 (x) Winner - The Skyriders.mp3",
+          "time": "1740",
+          "size": "13923542"
+        }
+      ]
+    },
+    {
+      "ide": "256565",
+      "date": "1947-06-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Alan Schackner"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 470610 Winner - Alan Shackner_OTRRPG.mp3",
+          "time": "1723",
+          "size": "27653880"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-06-10 (x) Winner - Alan Schackner.mp3",
+          "time": "1724",
+          "size": "13790161"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-06-10 (x) Winner - Alan Schackner.mp3",
+          "time": "1724",
+          "size": "13790161"
+        }
+      ]
+    },
+    {
+      "ide": "256525",
+      "date": "1947-07-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Little White Lies"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 470701 xxx 1st Song - Little White Lies_OTRRPG.mp3",
+          "time": "1731",
+          "size": "27693184"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-01 (x) First Song - Little White Lies.mp3",
+          "time": "1731",
+          "size": "27693184"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-01 (x) First Song - Little White Lies.mp3",
+          "time": "1731",
+          "size": "27693184"
+        }
+      ]
+    },
+    {
+      "ide": "256516",
+      "date": "1947-07-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Chi-Baba Chi-Baba"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 470702 xxxx 1st Song - Chibaba, Chibaba_OTRRPG.mp3",
+          "time": "1742",
+          "size": "27956260"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-02 (x) First Song - Chi-Baba Chi-Baba.mp3",
+          "time": "1744",
+          "size": "27914368"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-02 (x) First Song - Chi-Baba Chi-Baba.mp3",
+          "time": "1744",
+          "size": "27914368"
+        }
+      ]
+    },
+    {
+      "ide": "256523",
+      "date": "1947-07-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - In The Good Old Summertime"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 470703 xxxx 1st Song - In The Good Old Summertime_OTRRPG.mp3",
+          "time": "1711",
+          "size": "27450540"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-03 (x) First Song - In The Good Old Summertime.mp3",
+          "time": "1713",
+          "size": "27408512"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-03 (x) First Song - In The Good Old Summertime.mp3",
+          "time": "1713",
+          "size": "27408512"
+        }
+      ]
+    },
+    {
+      "ide": "256521",
+      "date": "1947-07-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Want to sing an American Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 470704 xxxx 1st Song - I Want To Sing An American Song_OTRRPG.mp3",
+          "time": "1716",
+          "size": "27538316"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-04 (x) First Song - I Want to sing an American Song.mp3",
+          "time": "1718",
+          "size": "27494528"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-04 (x) First Song - I Want to sing an American Song.mp3",
+          "time": "1718",
+          "size": "27494528"
+        }
+      ]
+    },
+    {
+      "ide": "256519",
+      "date": "1947-07-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Heartaches"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 470707 xxx 1st Song - Heartaches_OTRRPG.mp3",
+          "time": "1733",
+          "size": "27723904"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-07 (x) First Song - Heartaches.mp3",
+          "time": "1733",
+          "size": "27723904"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-07 (x) First Song - Heartaches.mp3",
+          "time": "1733",
+          "size": "27723904"
+        }
+      ]
+    },
+    {
+      "ide": "256520",
+      "date": "1947-07-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Got The Sun In The Morning"
+        },
+        {
+          "title": "1st Song - Can't See The Sun"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 470708 xxxx 1st Song - Can't See The Sun_OTRRPG.mp3",
+          "time": "1733",
+          "size": "27808304"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-08 (x) First Song - I Got The Sun In The Morning.mp3",
+          "time": "1773",
+          "size": "7091738"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-08 (x) First Song - I Got The Sun In The Morning.mp3",
+          "time": "1773",
+          "size": "7091738"
+        }
+      ]
+    },
+    {
+      "ide": "256515",
+      "date": "1947-07-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Between the Devil and the Deep Blue Sea"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 470709 xxxx 1st Song - Between The Devil And The Deep Blue Sea_OTRRPG.mp3",
+          "time": "1700",
+          "size": "27271666"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-09 (x) First Song - Between the Devil and the Deep Blue Sea.mp3",
+          "time": "1744",
+          "size": "6974497"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-09 (x) First Song - Between the Devil and the Deep Blue Sea.mp3",
+          "time": "1744",
+          "size": "6974497"
+        }
+      ]
+    },
+    {
+      "ide": "256528",
+      "date": "1947-07-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Porter Love Song"
+        },
+        {
+          "title": "1st Song - The Porters Love Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 470710 xxxx 1st Song - The Porters Love Song_OTRRPG.mp3",
+          "time": "1733",
+          "size": "27810815"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-10 (x) First Song - The Porter Love Song.mp3",
+          "time": "1735",
+          "size": "27768960"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-10 (x) First Song - The Porter Love Song.mp3",
+          "time": "1735",
+          "size": "27768960"
+        }
+      ]
+    },
+    {
+      "ide": "256499",
+      "date": "1947-07-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "2nd Anniversary Of The Atomic Bomb Test"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-16 (x) 2nd Anniversary Of The Atomic Bomb Test.mp3",
+          "time": "1756",
+          "size": "7022896"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-07-16 (x) 2nd Anniversary Of The Atomic Bomb Test.mp3",
+          "time": "1756",
+          "size": "7022896"
+        }
+      ]
+    },
+    {
+      "ide": "256524",
+      "date": "1947-09-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - It Had To Be You"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey 47-09-08 It Had To Be You.mp3",
+          "time": "1810",
+          "size": "14479359"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey 47-09-08 It Had To Be You.mp3",
+          "time": "1810",
+          "size": "14479359"
+        }
+      ]
+    },
+    {
+      "ide": "312454",
+      "date": "1947-09-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jacqueline Stewart. Arthur Pushes His Puny Potatoes"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 470909 xxx Guest - Jacqueline Stewart. Arthur Pushes His Puny Potatoes (192-44)_OTRRPG.mp3",
+          "time": "1757",
+          "size": "42189049"
+        }
+      ]
+    },
+    {
+      "ide": "256542",
+      "date": "1947-09-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Dixiebell & Mary Jane"
+        },
+        {
+          "title": "All of Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 1947-09-12 All of Me.mp3",
+          "time": "1750",
+          "size": "42008693"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey 47-09-12 Guests Dixiebell & Mary Jane.mp3",
+          "time": "1744",
+          "size": "13948968"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey 47-09-12 Guests Dixiebell & Mary Jane.mp3",
+          "time": "1744",
+          "size": "13948968"
+        }
+      ]
+    },
+    {
+      "ide": "256551",
+      "date": "1947-11-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Predictions"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-11-21 (x) Predictions.mp3",
+          "time": "1792",
+          "size": "7170199"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-11-21 (x) Predictions.mp3",
+          "time": "1792",
+          "size": "7170199"
+        }
+      ]
+    },
+    {
+      "ide": "256506",
+      "date": "1947-11-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Day After Thanksgiving, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Show 471128 The Day After Thanksgiving_OTRRPG.mp3",
+          "time": "1784",
+          "size": "28629384"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-11-28 (x) The Day After Thanksgiving.mp3",
+          "time": "1758",
+          "size": "7030511"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-11-28 (x) The Day After Thanksgiving.mp3",
+          "time": "1758",
+          "size": "7030511"
+        }
+      ]
+    },
+    {
+      "ide": "256502",
+      "date": "1947-12-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arthur Broadcasts From His Home"
+        },
+        {
+          "title": "Guest Frank Guarrera"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256501",
+      "date": "1947-12-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After A Big Snowstorm"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-12-30 (x) After A Big Snowstorm.mp3",
+          "time": "1759",
+          "size": "7036462"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 47-12-30 (x) After A Big Snowstorm.mp3",
+          "time": "1759",
+          "size": "7036462"
+        }
+      ]
+    },
+    {
+      "ide": "256532",
+      "date": "1948-04-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From His Farm in Virginia"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256522",
+      "date": "1948-07-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - If That Ain't Love"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 48-07-20 (x) First Song - If That Ain't Love.mp3",
+          "time": "1258",
+          "size": "6293514"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 48-07-20 (x) First Song - If That Ain't Love.mp3",
+          "time": "1258",
+          "size": "6293514"
+        }
+      ]
+    },
+    {
+      "ide": "256514",
+      "date": "1948-09-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Balling The Jack"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 480926 xxxx 1st Song - Balling The Jack_OTRRPG.mp3",
+          "time": "1654",
+          "size": "26538125"
+        }
+      ]
+    },
+    {
+      "ide": "256538",
+      "date": "1948-10-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Gene Autry"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 48-10-08 (x) Guest - Gene Autry.mp3",
+          "time": "3462",
+          "size": "17309834"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 48-10-08 (x) Guest - Gene Autry.mp3",
+          "time": "3462",
+          "size": "17309834"
+        }
+      ]
+    },
+    {
+      "ide": "256546",
+      "date": "1949-01-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jannette's Cough"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256547",
+      "date": "1949-01-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mississippi"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-01-20 (x) Mississippi.mp3",
+          "time": "864",
+          "size": "3455482"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-01-20 (x) Mississippi.mp3",
+          "time": "864",
+          "size": "3455482"
+        }
+      ]
+    },
+    {
+      "ide": "256632",
+      "date": "1949-04-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - The Tunetimers"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490404 Winner - The Tunetimers_OTRRPG.mp3",
+          "time": "1680",
+          "size": "26953381"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-04-04 (x) Winner - The Tunetimers.mp3",
+          "time": "1674",
+          "size": "13391578"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-04-04 (x) Winner - The Tunetimers.mp3",
+          "time": "1674",
+          "size": "13391578"
+        }
+      ]
+    },
+    {
+      "ide": "256623",
+      "date": "1949-04-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Stewart Hall"
+        },
+        {
+          "title": "Winner - Stuart Hall"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490411 Winner - Stuart Hall_OTRRPG.mp3",
+          "time": "1669",
+          "size": "26779089"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-04-11 (x) Winner - Stewart Hall.mp3",
+          "time": "1663",
+          "size": "13305523"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-04-11 (x) Winner - Stewart Hall.mp3",
+          "time": "1663",
+          "size": "13305523"
+        }
+      ]
+    },
+    {
+      "ide": "256607",
+      "date": "1949-04-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Lenny Bruce, John Connolly"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490418 Winner - Lenny Bruce, John Connolly (2)_OTRRPG.mp3",
+          "time": "1477",
+          "size": "23705224"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490418 Winner - Lenny Bruce, John Connolly (3)_OTRRPG.mp3",
+          "time": "1779",
+          "size": "28543309"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490418 Winner - Lenny Bruce, John Connolly_OTRRPG.mp3",
+          "time": "1678",
+          "size": "26930405"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-04-18 Winner - Lenny Bruce, John Connolly.mp3",
+          "time": "1786",
+          "size": "28577122"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-04-18 Winner - Lenny Bruce, John Connolly.mp3",
+          "time": "1786",
+          "size": "28577122"
+        }
+      ]
+    },
+    {
+      "ide": "256625",
+      "date": "1949-04-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Ted Martin, Michael Guida"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490425 Winner - Ted Martin, Michael Guida_OTRRPG.mp3",
+          "time": "1701",
+          "size": "27301970"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-04-25 (x) Winner - Ted Martin, Michael Guida.mp3",
+          "time": "1712",
+          "size": "13696537"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-04-25 (x) Winner - Ted Martin, Michael Guida.mp3",
+          "time": "1712",
+          "size": "13696537"
+        }
+      ]
+    },
+    {
+      "ide": "256603",
+      "date": "1949-05-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Joseph Portney"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490502 Winner - Joseph Portnoy_OTRRPG.mp3",
+          "time": "1710",
+          "size": "27439050"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-05-02 (x) Winner - Joseph Portney.mp3",
+          "time": "1705",
+          "size": "13639104"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-05-02 (x) Winner - Joseph Portney.mp3",
+          "time": "1705",
+          "size": "13639104"
+        }
+      ]
+    },
+    {
+      "ide": "256628",
+      "date": "1949-05-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - The Novelaires, Evelyn Bradshaw"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490509 Winner - The Novelaires, Evelyn Bradshaw_OTRRPG.mp3",
+          "time": "1676",
+          "size": "26893630"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-05-09 (x) Winner - The Novelaires, Evelyn Bradshaw.mp3",
+          "time": "1673",
+          "size": "13387059"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-05-09 (x) Winner - The Novelaires, Evelyn Bradshaw.mp3",
+          "time": "1673",
+          "size": "13387059"
+        }
+      ]
+    },
+    {
+      "ide": "256495",
+      "date": "1949-05-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "256617",
+      "date": "1949-05-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Richard Hayes"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490523 Winner - Richard Hayes (2)_OTRRPG.mp3",
+          "time": "1765",
+          "size": "28256234"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490523 Winner - Richard Hayes_OTRRPG.mp3",
+          "time": "1726",
+          "size": "27687734"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-05-23 Winner - Richard Hayes.mp3",
+          "time": "1770",
+          "size": "28314643"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-05-23 Winner - Richard Hayes.mp3",
+          "time": "1770",
+          "size": "28314643"
+        }
+      ]
+    },
+    {
+      "ide": "256604",
+      "date": "1949-05-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Julio Giamonte, Carol Donn"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 490530 Winner - Julio Giamonte, Carol Donn_OTRRPG.mp3",
+          "time": "1691",
+          "size": "27138131"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-05-30 (x) Winner - Julio Giamonte, Carol Donn.mp3",
+          "time": "1688",
+          "size": "13505361"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-05-30 (x) Winner - Julio Giamonte, Carol Donn.mp3",
+          "time": "1688",
+          "size": "13505361"
+        }
+      ]
+    },
+    {
+      "ide": "256563",
+      "date": "1949-06-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rodderick's Wiping Cloths"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256567",
+      "date": "1949-06-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Andrew Dane"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256545",
+      "date": "1949-06-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Often Do You Get a Permanent"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256496",
+      "date": "1949-06-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "256627",
+      "date": "1949-09-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - The Chordettes"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-09-26 (x) Winner - The Chordettes.mp3",
+          "time": "1603",
+          "size": "6413674"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-09-26 (x) Winner - The Chordettes.mp3",
+          "time": "1603",
+          "size": "6413674"
+        }
+      ]
+    },
+    {
+      "ide": "256568",
+      "date": "1949-10-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Bart Sheldon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256569",
+      "date": "1949-10-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Bernice Stoleck"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256601",
+      "date": "1949-10-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Johnny Hartman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "307335",
+      "date": "1949-11-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Navigator School"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 1949-11-06 Navigator School.mp3",
+          "time": "812",
+          "size": "8203472"
+        }
+      ]
+    },
+    {
+      "ide": "256595",
+      "date": "1949-11-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Jack Sealey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256589",
+      "date": "1949-11-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Gene Arcane"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256633",
+      "date": "1949-11-28",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - The White Guard"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 491128 Winner - The White Guards {AFRS} (128-48)_OTRRPG.mp3",
+          "time": "1539",
+          "size": "24704430"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 49-11-28 (14) Guest - The White Guards (AFRS).mp3",
+          "time": "1534",
+          "size": "12272137"
+        }
+      ]
+    },
+    {
+      "ide": "256629",
+      "date": "1949-12-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - The Potato Bugs"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256570",
+      "date": "1949-12-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Bert Hanson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256575",
+      "date": "1949-12-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Bobby White"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256626",
+      "date": "1949-12-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - The Beachcombers, Molly Starkman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256580",
+      "date": "1950-01-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Del Stanton Trio, Frank Gambone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256593",
+      "date": "1950-01-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Ingeborg Nordquist"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256621",
+      "date": "1950-01-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Russ Scarfio"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256578",
+      "date": "1950-02-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Chester Crumpler"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256634",
+      "date": "1950-02-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Trudy Richards, Florian Zabach"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256622",
+      "date": "1950-02-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Sterling Hatchet"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256635",
+      "date": "1950-03-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Val Eddy, Stuart Ballinger"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256588",
+      "date": "1950-03-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Fred Kendall"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256608",
+      "date": "1950-03-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Lloyd Knight"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256574",
+      "date": "1950-04-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Bob Watts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256613",
+      "date": "1950-04-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Marshall Eisen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256611",
+      "date": "1950-04-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Mario Lalli"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256605",
+      "date": "1950-04-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Kenneth Smith"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-04-24 (x) Winner - Kenneth Smith.mp3",
+          "time": "1762",
+          "size": "8810634"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-04-24 (x) Winner - Kenneth Smith.mp3",
+          "time": "1762",
+          "size": "8810634"
+        }
+      ]
+    },
+    {
+      "ide": "256618",
+      "date": "1950-05-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Robert Marshall"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-05-01 (x) Winner - Robert Marshall.mp3",
+          "time": "1747",
+          "size": "6989809"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-05-01 (x) Winner - Robert Marshall.mp3",
+          "time": "1747",
+          "size": "6989809"
+        }
+      ]
+    },
+    {
+      "ide": "256573",
+      "date": "1950-05-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Billy Albert"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-05-08 (x) Winner - Billy Albert.mp3",
+          "time": "1775",
+          "size": "7100056"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-05-08 (x) Winner - Billy Albert.mp3",
+          "time": "1775",
+          "size": "7100056"
+        }
+      ]
+    },
+    {
+      "ide": "256614",
+      "date": "1950-05-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Mort Jay and the Showmen"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-05-15 (x) Winner - Mort Jay and the Showmen.mp3",
+          "time": "1788",
+          "size": "8939658"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-05-15 (x) Winner - Mort Jay and the Showmen.mp3",
+          "time": "1788",
+          "size": "8939658"
+        }
+      ]
+    },
+    {
+      "ide": "256571",
+      "date": "1950-05-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Beverly Bowser"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-05-22 (x) Winner - Beverly Bowser.mp3",
+          "time": "1758",
+          "size": "7031935"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-05-22 (x) Winner - Beverly Bowser.mp3",
+          "time": "1758",
+          "size": "7031935"
+        }
+      ]
+    },
+    {
+      "ide": "256636",
+      "date": "1950-05-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Vera Conti"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-05-29 (x) Winner - Vera Conti.mp3",
+          "time": "1740",
+          "size": "6960481"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-05-29 (x) Winner - Vera Conti.mp3",
+          "time": "1740",
+          "size": "6960481"
+        }
+      ]
+    },
+    {
+      "ide": "256581",
+      "date": "1950-06-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Diane Dixon, The Melodymen"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-06-05 (x) Winner - Diane Dixon, The Melodymen.mp3",
+          "time": "1766",
+          "size": "7063872"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-06-05 (x) Winner - Diane Dixon, The Melodymen.mp3",
+          "time": "1766",
+          "size": "7063872"
+        }
+      ]
+    },
+    {
+      "ide": "256583",
+      "date": "1950-06-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Dorothy Steiger"
+        },
+        {
+          "title": "Archie Bleyer's Birthday"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Time 500612 xxx Archie Bleyer's Birthday (192-44)_OTRRPG.mp3",
+          "time": "1768",
+          "size": "42446335"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-06-12 (x) Winner - Dorothy Steiger.mp3",
+          "time": "1771",
+          "size": "17709066"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-06-12 (x) Winner - Dorothy Steiger.mp3",
+          "time": "1771",
+          "size": "17709066"
+        }
+      ]
+    },
+    {
+      "ide": "256620",
+      "date": "1950-06-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Robert Reedle"
+        },
+        {
+          "title": "The Winner is Baritone Robert Reddle"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 500619 xxx The Winner is Baritone Robert Reddle (192-44)_OTRRPG.mp3",
+          "time": "1766",
+          "size": "42387491"
+        }
+      ]
+    },
+    {
+      "ide": "256533",
+      "date": "1950-06-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From Honolulu - Last Show Of The Season"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-06-26 (x) From Hololulu Last Show Of The Season.mp3",
+          "time": "882",
+          "size": "7059120"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-06-26 (x) From Hololulu Last Show Of The Season.mp3",
+          "time": "882",
+          "size": "7059120"
+        }
+      ]
+    },
+    {
+      "ide": "256599",
+      "date": "1950-08-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - John Gurgli, Emily Ehron"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256594",
+      "date": "1950-09-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Irene Carroll"
+        },
+        {
+          "title": "The Winner is Singer Irene Carroll"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 500904 xxx The Winner is Singer Irene Carroll (192-44)_OTRRPG.mp3",
+          "time": "1766",
+          "size": "42396881"
+        }
+      ]
+    },
+    {
+      "ide": "256587",
+      "date": "1950-09-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Fran Lewis and Her Guys"
+        },
+        {
+          "title": "The Winner is Fran Lewis and Her Guys"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 500911 xxx The Winner is Fran Lewis and Her Guys (192-44)_OTRRPG.mp3",
+          "time": "1785",
+          "size": "42850731"
+        }
+      ]
+    },
+    {
+      "ide": "256591",
+      "date": "1950-09-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Helen Spina"
+        },
+        {
+          "title": "The Winner is Soprano Helen Spina"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 500918 xxx The Winner is Soprano Helen Spina (192-44)_OTRRPG.mp3",
+          "time": "1765",
+          "size": "42363077"
+        }
+      ]
+    },
+    {
+      "ide": "256590",
+      "date": "1950-10-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Georgia Sawtell"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-10-02 (x) Winner - Georgia Sawtell.mp3",
+          "time": "1459",
+          "size": "8754379"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-10-02 (x) Winner - Georgia Sawtell.mp3",
+          "time": "1459",
+          "size": "8754379"
+        }
+      ]
+    },
+    {
+      "ide": "256579",
+      "date": "1950-12-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Connie Francis"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-12-20 (x) Winner - Connie Francis.mp3",
+          "time": "145",
+          "size": "1740925"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 50-12-20 (x) Winner - Connie Francis.mp3",
+          "time": "145",
+          "size": "1740925"
+        }
+      ]
+    },
+    {
+      "ide": "256609",
+      "date": "1951-11-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Luis Torres, Frankie Yankovic"
+        },
+        {
+          "title": "The Winners are Baritone Luis Torres and Polka Band Frankie Yankovic & His Yanks"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 511112 xxx The Winners are Baritone Luis Torres and Polka Band Frankie Yankovic & His Yanks (Tie) (192-44)_OTRRPG.mp3",
+          "time": "1772",
+          "size": "42545243"
+        }
+      ]
+    },
+    {
+      "ide": "256505",
+      "date": "1952-01-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Churchill Visits New York"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256512",
+      "date": "1952-09-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Joke Is About A Clean Shirt"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 52-09-09 (x) First Joke Is About A Clean Shirt.mp3",
+          "time": "1910",
+          "size": "7641282"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 52-09-09 (x) First Joke Is About A Clean Shirt.mp3",
+          "time": "1910",
+          "size": "7641282"
+        }
+      ]
+    },
+    {
+      "ide": "256497",
+      "date": "1953-01-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Pretty Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 53-01-05 (x) First Song - Pretty Baby.mp3",
+          "time": "1907",
+          "size": "7628253"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 53-01-05 (x) First Song - Pretty Baby.mp3",
+          "time": "1907",
+          "size": "7628253"
+        }
+      ]
+    },
+    {
+      "ide": "256539",
+      "date": "1953-01-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Janette Davis"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256561",
+      "date": "1953-06-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robert Q Lewis 1 of 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 53-06-21 (x) Robert Q Lewis 1 of 2.mp3",
+          "time": "1909",
+          "size": "7635378"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 53-06-21 (x) Robert Q Lewis 1 of 2.mp3",
+          "time": "1909",
+          "size": "7635378"
+        }
+      ]
+    },
+    {
+      "ide": "256562",
+      "date": "1953-06-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robert Q Lewis 2 of 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 53-06-23 (x) Robert Q Lewis 2 of 2.mp3",
+          "time": "1903",
+          "size": "7613002"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 53-06-23 (x) Robert Q Lewis 2 of 2.mp3",
+          "time": "1903",
+          "size": "7613002"
+        }
+      ]
+    },
+    {
+      "ide": "256511",
+      "date": "1953-10-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Firing Julius La Rosa on the Air"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 53-10-15 (x) Firing Julius La Rosa on the Air.mp3",
+          "time": "304",
+          "size": "1215267"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 53-10-15 (x) Firing Julius La Rosa on the Air.mp3",
+          "time": "304",
+          "size": "1215267"
+        }
+      ]
+    },
+    {
+      "ide": "256503",
+      "date": "1953-10-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arthur Is Talking About Kleenex"
+        },
+        {
+          "title": "How Do You Speak to an Angel? Part 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 53-10-21 (x) Arthur Is Talking About Kleenex.mp3",
+          "time": "882",
+          "size": "14106634"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 53-10-21 (x) Arthur Is Talking About Kleenex.mp3",
+          "time": "882",
+          "size": "14106634"
+        }
+      ]
+    },
+    {
+      "ide": "256577",
+      "date": "1955-05-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Charles Camey, Michael O'Carlin"
+        },
+        {
+          "title": "The Winners are Clarinetist Charles Camey & Tenor Michael O'Carlin"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey's Talent Scouts 550516 xxx The Winners are Clarinetist Charles Camey & Tenor Michael O'Carlin (Tie) (192-44)_OTRRPG.mp3",
+          "time": "1768",
+          "size": "42440075"
+        }
+      ]
+    },
+    {
+      "ide": "256540",
+      "date": "1959-03-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Mary Martin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24395",
+      "date": "1964-01-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "30th Anniversary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256500",
+      "date": "1964-01-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "30th Anniversary"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 64-01-20 (x) 30th Anniversary.mp3",
+          "time": "2948",
+          "size": "11793255"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 64-01-20 (x) 30th Anniversary.mp3",
+          "time": "2948",
+          "size": "11793255"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 64-01-21 (x) 30th Anniversary.mp3",
+          "time": "2925",
+          "size": "11701119"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 64-01-21 (x) 30th Anniversary.mp3",
+          "time": "2925",
+          "size": "11701119"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 64-01-22 (x) 30th Anniversary.mp3",
+          "time": "2623",
+          "size": "10493467"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 64-01-22 (x) 30th Anniversary.mp3",
+          "time": "2623",
+          "size": "10493467"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 64-01-23 (x) 30th Anniversary.mp3",
+          "time": "2966",
+          "size": "11866009"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 64-01-23 (x) 30th Anniversary.mp3",
+          "time": "2966",
+          "size": "11866009"
+        }
+      ]
+    },
+    {
+      "ide": "24397",
+      "date": "1964-01-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "30th Anniversary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24398",
+      "date": "1964-01-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "30th Anniversary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256534",
+      "date": "1965-07-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From Los Angeles"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 65-07-12 (x) From Los Angeles.mp3",
+          "time": "2969",
+          "size": "14848138"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 65-07-12 (x) From Los Angeles.mp3",
+          "time": "2969",
+          "size": "14848138"
+        }
+      ]
+    },
+    {
+      "ide": "256548",
+      "date": "1965-10-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 65-10-13 (x) News Show.mp3",
+          "time": "4016",
+          "size": "16064263"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 65-10-13 (x) News Show.mp3",
+          "time": "4016",
+          "size": "16064263"
+        }
+      ]
+    },
+    {
+      "ide": "256549",
+      "date": "1965-10-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 65-10-14 (x) News Show.mp3",
+          "time": "4140",
+          "size": "16559963"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 65-10-14 (x) News Show.mp3",
+          "time": "4140",
+          "size": "16559963"
+        }
+      ]
+    },
+    {
+      "ide": "312450",
+      "date": "1966-08-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mal Bellairs Subs 1010Am To 11Am. 1st Song - Chicago"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Show 660815 xxx Mal Bellairs Subs 1010Am To 11Am. 1st Song - 'Chicago' (192-44)_OTRRPG.mp3",
+          "time": "2885",
+          "size": "69249151"
+        }
+      ]
+    },
+    {
+      "ide": "312451",
+      "date": "1966-08-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mal Bellairs Subs 1010Am To 11Am. 1st Song - There's a Time"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Show 660816 xxx Mal Bellairs Subs 1010Am To 11Am. 1st Song - 'There's a Time' (192-44)_OTRRPG.mp3",
+          "time": "2968",
+          "size": "71252351"
+        }
+      ]
+    },
+    {
+      "ide": "312452",
+      "date": "1966-08-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mal Bellairs Subs 1010Am To 11Am. 1st Song - Two-Ton Tessie"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Show 660818 xxx Mal Bellairs Subs 1010Am To 11Am. 1st Song - 'Two-Ton Tessie' (UNEVEN 1st 10m) (192-44)_OTRRPG.mp3",
+          "time": "2867",
+          "size": "68810325"
+        }
+      ]
+    },
+    {
+      "ide": "312453",
+      "date": "1966-08-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mal Bellairs Subs 1010Am To 11Am. 1st Song - a Jazz Tune"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Show 660819 xxx Mal Bellairs Subs 1010Am To 11Am. 1st Song - a Jazz Tune (192-44)_OTRRPG.mp3",
+          "time": "2917",
+          "size": "70023513"
+        }
+      ]
+    },
+    {
+      "ide": "256507",
+      "date": "1969-03-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eisenhower Tribute At Beginning"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 69-03-28 (x) Eisenhower Tribute At Beginning.mp3",
+          "time": "1650",
+          "size": "6601404"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 69-03-28 (x) Eisenhower Tribute At Beginning.mp3",
+          "time": "1650",
+          "size": "6601404"
+        }
+      ]
+    },
+    {
+      "ide": "24403",
+      "date": "1972-03-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Remember When"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-03-22 (x) First Song - Remember When.mp3",
+          "time": "1775",
+          "size": "7099892"
+        }
+      ]
+    },
+    {
+      "ide": "24404",
+      "date": "1972-03-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Students From Lyman College"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-03-23 (x) Students From Lyman College.mp3",
+          "time": "1694",
+          "size": "6775556"
+        }
+      ]
+    },
+    {
+      "ide": "256498",
+      "date": "1972-03-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "24406",
+      "date": "1972-03-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Essington's Escapade"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-03-25 (x) First Song - Almost Heaven West Virginia.mp3",
+          "time": "1669",
+          "size": "8346840"
+        }
+      ]
+    },
+    {
+      "ide": "256541",
+      "date": "1972-03-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Max Morath"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256559",
+      "date": "1972-04-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1972"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256558",
+      "date": "1972-04-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1971"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-04 (x) Recalling 1971.mp3",
+          "time": "1750",
+          "size": "7000405"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-04 (x) Recalling 1971.mp3",
+          "time": "1750",
+          "size": "7000405"
+        }
+      ]
+    },
+    {
+      "ide": "256557",
+      "date": "1972-04-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1970"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256556",
+      "date": "1972-04-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1965"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256555",
+      "date": "1972-04-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1964"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24413",
+      "date": "1972-04-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1963"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-12 (x) Recalling 1963.mp3",
+          "time": "1704",
+          "size": "6818175"
+        }
+      ]
+    },
+    {
+      "ide": "24414",
+      "date": "1972-04-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1956"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-19 (x) Recalling 1956.mp3",
+          "time": "1774",
+          "size": "7096197"
+        }
+      ]
+    },
+    {
+      "ide": "24415",
+      "date": "1972-04-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1955"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-20 (x) Recalling 1955.mp3",
+          "time": "1799",
+          "size": "7197497"
+        }
+      ]
+    },
+    {
+      "ide": "256554",
+      "date": "1972-04-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1954"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-21 (x) Recalling 1954.mp3",
+          "time": "1789",
+          "size": "7154747"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-21 (x) Recalling 1954.mp3",
+          "time": "1789",
+          "size": "7154747"
+        }
+      ]
+    },
+    {
+      "ide": "24417",
+      "date": "1972-04-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "HMS Saracen 1.2 - The Midshipman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "316431",
+      "date": "1972-04-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1953"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-22 (x) Recalling 1953.mp3",
+          "time": "1802",
+          "size": "7208103"
+        }
+      ]
+    },
+    {
+      "ide": "256553",
+      "date": "1972-04-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1952"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-23 (x) Recalling 1952.mp3",
+          "time": "1856",
+          "size": "7422711"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-23 (x) Recalling 1952.mp3",
+          "time": "1856",
+          "size": "7422711"
+        }
+      ]
+    },
+    {
+      "ide": "24419",
+      "date": "1972-04-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1951"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-24 (x) Recalling 1951.mp3",
+          "time": "1799",
+          "size": "7197807"
+        }
+      ]
+    },
+    {
+      "ide": "256552",
+      "date": "1972-04-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1950"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-25 (x) Recalling 1950.mp3",
+          "time": "1792",
+          "size": "7170303"
+        },
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-25 (x) Recalling 1950.mp3",
+          "time": "1792",
+          "size": "7170303"
+        }
+      ]
+    },
+    {
+      "ide": "24421",
+      "date": "1972-04-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1949"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-26 (x) Recalling 1949.mp3",
+          "time": "1798",
+          "size": "7192295"
+        }
+      ]
+    },
+    {
+      "ide": "24422",
+      "date": "1972-04-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recalling 1948"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arthur Godfrey Collection",
+          "name": "Arthur Godfrey Collection 72-04-27 (x) Recalling 1948.mp3",
+          "time": "1740",
+          "size": "6959751"
+        }
+      ]
+    },
+    {
+      "ide": "256510",
+      "date": "1972-04-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Final Show"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Talk Show"
+    },
+    {
+      "genre": "Variety"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-12-03",
+      "dow": "F",
+      "time": "7:45 PM",
+      "end": "1938-01-21",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1940-04-01",
+      "dow": "M,W,F",
+      "time": "9:00 AM",
+      "end": "1941-04-04",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1945-04-30",
+      "dow": "M,Tu,W,Th,F",
+      "time": "9:15 AM",
+      "end": "1945-08-24",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-08-27",
+      "dow": "M,Tu,W,Th,F",
+      "time": "9:15 AM",
+      "end": "1946-04-26",
+      "length": "45",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-04-29",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:00 AM",
+      "end": "1948-08-27",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1948-08-30",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:30 AM",
+      "end": "1949-06-17",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1949-06-20",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:15 AM",
+      "end": "1950-09-29",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1950-10-02",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:00 AM",
+      "end": "1959-01-02",
+      "length": "90",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1959-01-05",
+      "dow": "M,Tu,W,Th,F",
+      "time": "9:00 AM",
+      "end": "1960-09-30",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1960-10-03",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:05 AM",
+      "end": "1972-04-30",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-07-02",
+      "dow": "Tu",
+      "time": "9:00 PM",
+      "end": "1947-02-22",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-05-27",
+      "dow": "Tu",
+      "time": "9:00 PM",
+      "end": "1947-06-17",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-07-04",
+      "dow": "F",
+      "time": "9:30 PM",
+      "end": "1947-08-01",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-08-04",
+      "dow": "M",
+      "time": "8:30 PM",
+      "end": "1949-06-27",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1949-00-29",
+      "dow": "M",
+      "time": "8:30 PM",
+      "end": "1956-10-01",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Arthur Godfrey"
+    },
+    {
+      "title": "Arthur Godfrey Collection"
+    },
+    {
+      "title": "Arthur Godfrey Show, The"
+    },
+    {
+      "title": "Arthur Godfrey Round Table, The"
+    },
+    {
+      "title": "Arthur Godfrey's Sundial Show, The"
+    },
+    {
+      "title": "Arthur Godfrey Time"
+    },
+    {
+      "title": "Arthur Godfrey And All The Little Godfreys"
+    },
+    {
+      "title": "Arthur Godfrey's Talent Scouts"
+    },
+    {
+      "title": "Arthur Godfrey and His Talent Scouts"
+    },
+    {
+      "title": "Arthur Godlfrey - Barbasol Show"
+    },
+    {
+      "title": "Arthur Godfrey"
+    },
+    {
+      "title": "Arthur Godfrey Digest"
+    },
+    {
+      "title": "Arthur Godfrey Hour"
+    }
+  ]
+}

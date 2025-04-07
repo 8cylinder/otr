@@ -1,0 +1,84 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3342",
+      "first": "Hank",
+      "last": "Ladd",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3853",
+      "first": "Herbert",
+      "last": "Marshall",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6299",
+      "first": "Bert",
+      "last": "Wheeler",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1941-11-03",
+      "dow": "M",
+      "time": "7:00 PM",
+      "end": "1942-01-19",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1942-01-30",
+      "dow": "F",
+      "time": "8:00 PM",
+      "end": "1941-04-24",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "P. Lorillard Company - Old Gold Cigarettes",
+      "begin": "1941-11-03",
+      "end": "1942-04-23"
+    }
+  ],
+  "titles": [
+    {
+      "title": "New Old Gold Program"
+    }
+  ]
+}

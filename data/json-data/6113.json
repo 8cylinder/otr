@@ -1,0 +1,1600 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "MXGN"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Maxwell House Good News/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "joancrawfordma.tripod.com/radiodays.html",
+      "label": "Joan Crawford - On the Radio",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.joancrawfordbest.com/audio.htm",
+      "label": "The Best of Everything: A Joan Crawford Encyclopedia - Radio Appearances",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "163064",
+      "date": "1937-11-04",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Judy Garland"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 37-11-04 (01) Guest - Judy Garland.mp3",
+          "time": "3318",
+          "size": "13273596"
+        }
+      ]
+    },
+    {
+      "ide": "247975",
+      "date": "1937-11-11",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247976",
+      "date": "1937-11-18",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247977",
+      "date": "1937-11-25",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247978",
+      "date": "1937-12-01",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247979",
+      "date": "1937-12-08",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247980",
+      "date": "1937-12-15",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "102466",
+      "date": "1937-12-23",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Rosalie"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 37-12-23 (08) Guest - Rosalie.mp3",
+          "time": "3598",
+          "size": "14393364"
+        }
+      ]
+    },
+    {
+      "ide": "102467",
+      "date": "1937-12-30",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Myrna Loy"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 37-12-30 (09) Guest - Myrna Loy.mp3",
+          "time": "3739",
+          "size": "14956564"
+        }
+      ]
+    },
+    {
+      "ide": "247981",
+      "date": "1938-01-07",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247982",
+      "date": "1938-01-14",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247983",
+      "date": "1938-01-21",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247984",
+      "date": "1938-01-28",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247985",
+      "date": "1938-02-03",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "102468",
+      "date": "1938-02-10",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Frank Morgan"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-02-10 (15) Guest - Frank Morgan.mp3",
+          "time": "3664",
+          "size": "14659604"
+        }
+      ]
+    },
+    {
+      "ide": "102469",
+      "date": "1938-02-17",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jack Benny"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-02-17 (16) Guest - Jack Benny.mp3",
+          "time": "3740",
+          "size": "14960660"
+        }
+      ]
+    },
+    {
+      "ide": "247986",
+      "date": "1938-02-24",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247987",
+      "date": "1938-03-03",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "102470",
+      "date": "1938-03-10",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Virginia Bruce"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-03-10 (19) Guest - Virginia Bruce.mp3",
+          "time": "3735",
+          "size": "14940180"
+        }
+      ]
+    },
+    {
+      "ide": "247988",
+      "date": "1938-03-17",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "102471",
+      "date": "1938-03-24",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Robert Montgomery"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-03-24 (21) Guest - Robert Montgomery.mp3",
+          "time": "3738",
+          "size": "14952468"
+        }
+      ]
+    },
+    {
+      "ide": "102472",
+      "date": "1938-03-31",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Louis B Mayer (From London)"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-03-31 (22) Guest - Louis B Mayer (From London).mp3",
+          "time": "3697",
+          "size": "14788628"
+        }
+      ]
+    },
+    {
+      "ide": "247989",
+      "date": "1938-04-07",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "102473",
+      "date": "1938-04-14",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Freddie Bartholomew"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-04-14 (24) Guest - Freddie Bartholomew.mp3",
+          "time": "3514",
+          "size": "14057492"
+        }
+      ]
+    },
+    {
+      "ide": "247990",
+      "date": "1938-04-21",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247991",
+      "date": "1938-04-28",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "102474",
+      "date": "1938-05-05",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Clark Gable and Judy Garland"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-05-05 (27) Guest - Clark Gable and Judy Garland.mp3",
+          "time": "3777",
+          "size": "15108116"
+        }
+      ]
+    },
+    {
+      "ide": "102475",
+      "date": "1938-05-19",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Joan Crawford"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-05-19 (29) Guest - Joan Crawford.mp3",
+          "time": "3729",
+          "size": "14917652"
+        }
+      ]
+    },
+    {
+      "ide": "102476",
+      "date": "1938-05-26",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Virginia Bruce"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-05-26 (30) Guest - Virginia Bruce.mp3",
+          "time": "3741",
+          "size": "14964756"
+        }
+      ]
+    },
+    {
+      "ide": "247992",
+      "date": "1938-06-02",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "102477",
+      "date": "1938-06-09",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Robert Young and Mary Martin"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-06-09 (32) Guest - Robert Young and Mary Martin.mp3",
+          "time": "3431",
+          "size": "13725716"
+        }
+      ]
+    },
+    {
+      "ide": "102478",
+      "date": "1938-06-16",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Ed Sullivan"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-06-16 (33) Guest - Ed Sullivan.mp3",
+          "time": "3619",
+          "size": "14477332"
+        }
+      ]
+    },
+    {
+      "ide": "247993",
+      "date": "1938-06-23",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "247994",
+      "date": "1938-06-30",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "102479",
+      "date": "1938-09-01",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Father Edward J Flanagan"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-09-01 (36) Guest - Father Edward J Flannagan.mp3",
+          "time": "3479",
+          "size": "13918228"
+        }
+      ]
+    },
+    {
+      "ide": "247997",
+      "date": "1938-09-07",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Norma Shearer"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-09-07 (37) Guest - Norma Shearer.mp3",
+          "time": "3556",
+          "size": "17781972"
+        }
+      ]
+    },
+    {
+      "ide": "102480",
+      "date": "1938-09-15",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Virginia Barrow"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-09-15 (38) Guest - Virginia Barrow.mp3",
+          "time": "3608",
+          "size": "14432276"
+        }
+      ]
+    },
+    {
+      "ide": "102481",
+      "date": "1938-09-22",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Phil Regan"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-09-22 (39) Guest - Phil Regan.mp3",
+          "time": "3451",
+          "size": "13805588"
+        }
+      ]
+    },
+    {
+      "ide": "102482",
+      "date": "1938-09-29",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Spencer Tracy"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-09-29 (40) Guest - Spencer Tracy.mp3",
+          "time": "3589",
+          "size": "14356500"
+        }
+      ]
+    },
+    {
+      "ide": "102483",
+      "date": "1938-10-06",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Wallace Beery"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-10-06 (41) Guest - Wallace Beery.mp3",
+          "time": "3653",
+          "size": "14614548"
+        }
+      ]
+    },
+    {
+      "ide": "102484",
+      "date": "1938-10-13",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Lionel Barrymore"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-10-13 (42) Guest - Lionel Barrymore.mp3",
+          "time": "3608",
+          "size": "14432276"
+        }
+      ]
+    },
+    {
+      "ide": "102485",
+      "date": "1938-10-20",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Joan Crawford"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-10-20 (43) Guest - Joan Crawford.mp3",
+          "time": "3645",
+          "size": "14581780"
+        }
+      ]
+    },
+    {
+      "ide": "102486",
+      "date": "1938-10-27",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Clark Gable"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-10-27 (44) Guest - Clark Gable.mp3",
+          "time": "3761",
+          "size": "15044628"
+        }
+      ]
+    },
+    {
+      "ide": "102487",
+      "date": "1938-11-03",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Betty Jaynes"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-11-03 (45) Guest - Betty Jaynes.mp3",
+          "time": "3732",
+          "size": "14931988"
+        }
+      ]
+    },
+    {
+      "ide": "102488",
+      "date": "1938-11-10",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Lionel Barrymore"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-11-10 (46) Guest - Lionel Barrymore.mp3",
+          "time": "3707",
+          "size": "14831636"
+        }
+      ]
+    },
+    {
+      "ide": "102489",
+      "date": "1938-11-17",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Joan Crawford"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-11-17 (47) Guest - Joan Crawford.mp3",
+          "time": "3683",
+          "size": "14733332"
+        }
+      ]
+    },
+    {
+      "ide": "102490",
+      "date": "1938-11-24",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Tony Martin"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-11-24 (48) Guest - Tony Martin.mp3",
+          "time": "3618",
+          "size": "14473236"
+        }
+      ]
+    },
+    {
+      "ide": "102491",
+      "date": "1938-12-01",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Tony Martin"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-12-01 (49) Guest - Tony Martin.mp3",
+          "time": "3783",
+          "size": "15132692"
+        }
+      ]
+    },
+    {
+      "ide": "102492",
+      "date": "1938-12-08",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Rosalind Russell"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-12-08 (50) Guest - Rosalind Russell.mp3",
+          "time": "3673",
+          "size": "14692372"
+        }
+      ]
+    },
+    {
+      "ide": "102493",
+      "date": "1938-12-15",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Reginald Owen"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-12-15 (51) Guest - Reginald Owen.mp3",
+          "time": "3619",
+          "size": "14477332"
+        }
+      ]
+    },
+    {
+      "ide": "102494",
+      "date": "1938-12-22",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-12-22 (52) Christmas Show.mp3",
+          "time": "3569",
+          "size": "14278405"
+        }
+      ]
+    },
+    {
+      "ide": "102495",
+      "date": "1938-12-29",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Bill Stern"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 38-12-29 (53) Guest - Bill Stern.mp3",
+          "time": "3647",
+          "size": "14587924"
+        }
+      ]
+    },
+    {
+      "ide": "102496",
+      "date": "1939-01-05",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Virginia Bruce"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-01-05 (54) Guest - Virginia Bruce.mp3",
+          "time": "3469",
+          "size": "13879316"
+        }
+      ]
+    },
+    {
+      "ide": "102497",
+      "date": "1939-01-12",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Cecilia Parker"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-01-12 (55) Guest - Cecilia Parker.mp3",
+          "time": "3592",
+          "size": "14368788"
+        }
+      ]
+    },
+    {
+      "ide": "102498",
+      "date": "1939-02-02",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Mickey Rooney"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-02-02 (58) Guest - Mickey Rooney.mp3",
+          "time": "3601",
+          "size": "14403604"
+        }
+      ]
+    },
+    {
+      "ide": "102499",
+      "date": "1939-02-16",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Rosalind Russell"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-02-16 (60) Guest - Rosalind Russell.mp3",
+          "time": "3715",
+          "size": "14860308"
+        }
+      ]
+    },
+    {
+      "ide": "102500",
+      "date": "1939-02-23",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Gertrude Niesen"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-02-23 (61) Guest - Gertrude Niesen.mp3",
+          "time": "3576",
+          "size": "14305300"
+        }
+      ]
+    },
+    {
+      "ide": "102501",
+      "date": "1939-03-02",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Joan Crawford"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-03-02 (62) Guest - Joan Crawford.mp3",
+          "time": "3676",
+          "size": "14704660"
+        }
+      ]
+    },
+    {
+      "ide": "102502",
+      "date": "1939-03-09",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Rita Johnson"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-03-09 (63) Guest - Rita Johnson.mp3",
+          "time": "3666",
+          "size": "14667796"
+        }
+      ]
+    },
+    {
+      "ide": "102503",
+      "date": "1939-03-16",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Robert Montgomery"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-03-16 (64) Guest - Robert Montgomery.mp3",
+          "time": "3656",
+          "size": "14624788"
+        }
+      ]
+    },
+    {
+      "ide": "102504",
+      "date": "1939-03-23",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Wallace Beery"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-03-23 (65) Guest - Wallace Beery.mp3",
+          "time": "3686",
+          "size": "14745620"
+        }
+      ]
+    },
+    {
+      "ide": "102505",
+      "date": "1939-03-30",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Walter Pidgeon"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-03-30 (66) Guest - Walter Pidgeon.mp3",
+          "time": "3704",
+          "size": "14817300"
+        }
+      ]
+    },
+    {
+      "ide": "102506",
+      "date": "1939-04-06",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dedicated to Jeanette MacDonald"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-04-06 (67) Dedicated to Jeanette MacDonald.mp3",
+          "time": "3722",
+          "size": "14891028"
+        }
+      ]
+    },
+    {
+      "ide": "102507",
+      "date": "1939-04-13",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Virginia Bruce"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-04-13 (68) Guest - Virginia Bruce.mp3",
+          "time": "3683",
+          "size": "14733332"
+        }
+      ]
+    },
+    {
+      "ide": "102508",
+      "date": "1939-04-20",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Mickey Rooney"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-04-20 (69) Guest - Mickey Rooney.mp3",
+          "time": "3701",
+          "size": "14805012"
+        }
+      ]
+    },
+    {
+      "ide": "102509",
+      "date": "1939-04-27",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Eddie Cantor"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-04-27 (70) Guest - Eddie Cantor.mp3",
+          "time": "3723",
+          "size": "14893076"
+        }
+      ]
+    },
+    {
+      "ide": "247996",
+      "date": "1939-05-04",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Myrna Loy"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-05-04 (71) Guest - Myrna Loy.mp3",
+          "time": "3688",
+          "size": "14753812"
+        }
+      ]
+    },
+    {
+      "ide": "102510",
+      "date": "1939-05-11",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Ed Sullivan"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-05-11 (72) Guest - Ed Sullivan.mp3",
+          "time": "3695",
+          "size": "14782484"
+        }
+      ]
+    },
+    {
+      "ide": "102511",
+      "date": "1939-06-15",
+      "epnum": "77",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Meredith Willson"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-06-15 (77) Guest - Meredith Willson.mp3",
+          "time": "3652",
+          "size": "14608404"
+        }
+      ]
+    },
+    {
+      "ide": "102512",
+      "date": "1939-07-29",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Stars From the Wizard of Oz"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-07-29 (83) Guest - Stars from the Wizard of Oz.mp3",
+          "time": "3652",
+          "size": "14610452"
+        }
+      ]
+    },
+    {
+      "ide": "102513",
+      "date": "1939-11-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Billy Halop"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-11-02 Guest - Billy Halop.mp3",
+          "time": "3474",
+          "size": "13897748"
+        }
+      ]
+    },
+    {
+      "ide": "102514",
+      "date": "1939-11-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Walter Huston"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-11-09 Guest - Walter Huston.mp3",
+          "time": "3606",
+          "size": "14424084"
+        }
+      ]
+    },
+    {
+      "ide": "102515",
+      "date": "1939-11-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Marlene Dietrich"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-11-16 Guest - Marlene Dietrich.mp3",
+          "time": "3549",
+          "size": "14198804"
+        }
+      ]
+    },
+    {
+      "ide": "102516",
+      "date": "1939-11-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Walter Huston and Raymond Walburn"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-11-23 Guest - Walter Huston and Raymond Walburn.mp3",
+          "time": "3588",
+          "size": "14354452"
+        }
+      ]
+    },
+    {
+      "ide": "102517",
+      "date": "1939-11-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Fay Wray"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-11-30 Guest - Fay Wray.mp3",
+          "time": "3583",
+          "size": "14331924"
+        }
+      ]
+    },
+    {
+      "ide": "102518",
+      "date": "1939-12-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Frank Travis"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-12-07 Guest - Frank Travis.mp3",
+          "time": "3592",
+          "size": "14370836"
+        }
+      ]
+    },
+    {
+      "ide": "102519",
+      "date": "1939-12-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Allan Jones and Mary Martin"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-12-14 Guest - Allan Jones and Mary Martin.mp3",
+          "time": "3570",
+          "size": "14282772"
+        }
+      ]
+    },
+    {
+      "ide": "102520",
+      "date": "1939-12-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jessica Dragonette"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-12-21 Guest - Jessica Dragonette.mp3",
+          "time": "3593",
+          "size": "14372884"
+        }
+      ]
+    },
+    {
+      "ide": "102521",
+      "date": "1939-12-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Lucille Ball"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 39-12-28 Guest - Lucille Ball.mp3",
+          "time": "3629",
+          "size": "14518292"
+        }
+      ]
+    },
+    {
+      "ide": "102522",
+      "date": "1940-01-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Ann Sothern and William Gargan"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 40-01-04 Guest - Ann Sothern and William Gargan.mp3",
+          "time": "3598",
+          "size": "14395412"
+        }
+      ]
+    },
+    {
+      "ide": "102523",
+      "date": "1940-01-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - William Gargan"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 40-01-11 Guest - William Gargan.mp3",
+          "time": "3706",
+          "size": "14825492"
+        }
+      ]
+    },
+    {
+      "ide": "102524",
+      "date": "1940-01-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Lola Lane"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 40-01-18 Guest - Lola Lane.mp3",
+          "time": "3580",
+          "size": "14321684"
+        }
+      ]
+    },
+    {
+      "ide": "102525",
+      "date": "1940-01-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Alice Faye"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 40-01-25 Guest - Alice Faye.mp3",
+          "time": "3619",
+          "size": "14475284"
+        }
+      ]
+    },
+    {
+      "ide": "247995",
+      "date": "1940-02-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Alan Marshall"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 40-02-01 Guest - Alan Marshall.mp3",
+          "time": "3621",
+          "size": "14485524"
+        }
+      ]
+    },
+    {
+      "ide": "247998",
+      "date": "1940-02-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Ronald Colman"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 40-02-08 Guest - Ronald Colman.mp3",
+          "time": "3534",
+          "size": "14139412"
+        }
+      ]
+    },
+    {
+      "ide": "247999",
+      "date": "1940-02-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Virginia Bruce"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 40-02-15 Guest - Virginia Bruce.mp3",
+          "time": "3598",
+          "size": "14391316"
+        }
+      ]
+    },
+    {
+      "ide": "314112",
+      "date": "1940-02-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Warren Williams"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 400222 104 Guest - Warren Williams_OTRRPG.mp3",
+          "time": "2684",
+          "size": "43020760"
+        },
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Good News 40-02-22 Guest - Warren Williams.mp3",
+          "time": "3617",
+          "size": "14469140"
+        }
+      ]
+    },
+    {
+      "ide": "309813",
+      "date": "1940-11-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baby Snooks, William P"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Maxwell House Good News",
+          "name": "Maxwell House Coffee Time 40-11-21 Baby Snooks, William P.mp3",
+          "time": "1765",
+          "size": "7062047"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Maxwell House Good News"
+    }
+  ]
+}

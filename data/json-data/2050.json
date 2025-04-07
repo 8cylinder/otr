@@ -1,0 +1,387 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "DRMO"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322172912-245c4b7c.jpg",
+      "label": "Case for Dr Morelle,A CD",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322172916-85beb5cb.jpg",
+      "label": "Case for Dr Morelle,A CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322172920-997ae897.jpg",
+      "label": "Case for Dr Morelle,A CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Dr_Morelle_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-A-Case-for-Dr-Morelle.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2050-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logc1006.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Dr_Morelle_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "574",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1988-07-01",
+      "source": "Illustrated Press/IP_142.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #142 Jul 88",
+      "author": ""
+    },
+    {
+      "idprint": "663",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "2005-03-01",
+      "source": "Illustrated Press/IP_328.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #328 Mar 05",
+      "author": ""
+    },
+    {
+      "idprint": "1229",
+      "idtype": "4",
+      "page": "46",
+      "article": "",
+      "url": "",
+      "date": "2001-01-01",
+      "source": "NARA News/Nara News V29 01 Winter2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 01 Winter2001",
+      "author": ""
+    },
+    {
+      "idprint": "1120",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "2008-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01Rev)_79.pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01Rev) 1979",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "37908",
+      "date": "1957-04-23",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alarm Call"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-04-23 (01) Alarm Call.mp3",
+          "time": "1747",
+          "size": "13980524"
+        }
+      ]
+    },
+    {
+      "ide": "37909",
+      "date": "1957-04-30",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Confession of Guilt"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-04-30 (02) Confession of Guilt.mp3",
+          "time": "1687",
+          "size": "13496545"
+        }
+      ]
+    },
+    {
+      "ide": "37910",
+      "date": "1957-05-07",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Threat to Kill"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-05-07 (03) Threat to Kill.mp3",
+          "time": "1792",
+          "size": "43000920"
+        }
+      ]
+    },
+    {
+      "ide": "37911",
+      "date": "1957-05-14",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sleepwalker, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-05-14 (04) The Sleepwalker.mp3",
+          "time": "1804",
+          "size": "43288484"
+        }
+      ]
+    },
+    {
+      "ide": "37912",
+      "date": "1957-05-21",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blackmailer, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-05-21 (05) The Blackmailer.mp3",
+          "time": "1729",
+          "size": "13834664"
+        }
+      ]
+    },
+    {
+      "ide": "37913",
+      "date": "1957-05-28",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Voice in the Night"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-05-28 (06) Voice in the Night.mp3",
+          "time": "1735",
+          "size": "13885030"
+        }
+      ]
+    },
+    {
+      "ide": "37914",
+      "date": "1957-06-04",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-06-04 (07) The Will.mp3",
+          "time": "1743",
+          "size": "13947724"
+        }
+      ]
+    },
+    {
+      "ide": "37915",
+      "date": "1957-06-11",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Act of Violence"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-06-11 (08) Act of Violence.mp3",
+          "time": "1736",
+          "size": "13892142"
+        }
+      ]
+    },
+    {
+      "ide": "37916",
+      "date": "1957-06-18",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Black Ruby, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-06-18 (09) The Black Ruby.mp3",
+          "time": "1678",
+          "size": "13423380"
+        }
+      ]
+    },
+    {
+      "ide": "37917",
+      "date": "1957-06-25",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wedding Dress, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-06-25 (10) The Wedding Dress.mp3",
+          "time": "1705",
+          "size": "13646376"
+        }
+      ]
+    },
+    {
+      "ide": "37918",
+      "date": "1957-07-02",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gambler, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-07-02 (11) The Gambler.mp3",
+          "time": "1719",
+          "size": "13757969"
+        }
+      ]
+    },
+    {
+      "ide": "37919",
+      "date": "1957-07-09",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poisoned Air"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-07-09 (12) Poisoned Air.mp3",
+          "time": "1709",
+          "size": "13675012"
+        }
+      ]
+    },
+    {
+      "ide": "37920",
+      "date": "1957-07-16",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr. X"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Dr_Morelle_Singles",
+          "name": "A Case for Dr Morelle 57-07-16 (13) Mr. X.mp3",
+          "time": "1731",
+          "size": "13846656"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Suspense"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Case For Dr Morelle, A - BBC"
+    }
+  ]
+}

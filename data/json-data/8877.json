@@ -1,0 +1,226 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/Then And Now/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "26174",
+      "first": "Carlton",
+      "last": "Kelsey",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "679",
+      "first": "Truman",
+      "last": "Bradley",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5972",
+      "first": "Les",
+      "last": "Tremayne",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50154",
+      "first": "William",
+      "last": "Wirges",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "315582",
+      "date": "1936-09-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thomas Edison"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Then And Now",
+          "name": "Then And Now 360917 01 Thomas Edison_OTRRPG.mp3",
+          "time": "1686",
+          "size": "27054268"
+        },
+        {
+          "path": "T",
+          "folder": "Then And Now",
+          "name": "Then And Now 36-09-17 (01) Thomas Edison.mp3",
+          "time": "1801",
+          "size": "9007232"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Then and Now 36-09-17 First Program in Series.mp3",
+          "time": "1688",
+          "size": "13505305"
+        }
+      ]
+    },
+    {
+      "ide": "315584",
+      "date": "1936-10-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Walter Huston, DW Griffith, Al Jolson"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Then And Now",
+          "name": "Then And Now 361001 Guest - Al Jolson_OTRRPG.mp3",
+          "time": "1776",
+          "size": "28487031"
+        },
+        {
+          "path": "T",
+          "folder": "Then And Now",
+          "name": "Then And Now 361001 03 Guest - Walter Huston, DW Griffith, Al Jolson_OTRRPG.mp3",
+          "time": "1782",
+          "size": "28510035"
+        },
+        {
+          "path": "T",
+          "folder": "Then And Now",
+          "name": "Then And Now 361001 03 Guest - Walter Huston, DW Griffith, A.mp3",
+          "time": "1773",
+          "size": "14187656"
+        }
+      ]
+    },
+    {
+      "ide": "320478",
+      "date": "1936-11-19",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sears 1st 50 Years"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Then And Now",
+          "name": "Then and Now 36-11-19 (10) Sears 1st 50 Years.mp3",
+          "time": "1511",
+          "size": "6044295"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1936-09-17",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1936-12-24",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sears, Roebuck and Company",
+      "begin": "1936-09-07",
+      "end": "1936-12-24"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Then and Now"
+    }
+  ]
+}

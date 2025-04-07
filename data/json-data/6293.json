@@ -1,0 +1,184 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/articles/artjf006.html",
+      "label": "Fifteen-Minute Favorites by Jack French",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "999",
+      "first": "Mindy",
+      "last": "Carson",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "1017",
+      "first": "Russ",
+      "last": "Case",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1134",
+      "first": "Norman",
+      "last": "Cloutier",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4574",
+      "first": "Don",
+      "last": "Pardo",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5909",
+      "first": "Olin",
+      "last": "Tice",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "309834",
+      "date": "1950-08-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - The One I Love Belongs To Somebody Else"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mindy Carson Show",
+          "name": "Mindy Carson Show 500829 xxx 1st Song - The One I Love Belongs To Somebody Else_OTRRPG.mp3",
+          "time": "879",
+          "size": "14078733"
+        },
+        {
+          "path": "M",
+          "folder": "Mindy Carson Show",
+          "name": "Mindy Carson Show 500829 xxx 1st Song - The One I Love Belongs To Somebody Else.mp3",
+          "time": "877",
+          "size": "7017489"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-12-12",
+      "dow": "M,W,F",
+      "time": "",
+      "end": "1950-09-22",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1952-11-16",
+      "dow": "Tu,Th",
+      "time": "7:30 PM",
+      "end": "1953-01-22",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Buick Motor Company",
+      "begin": "1952-11-16",
+      "end": "1953-01-22"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Mindy Carson Show, The"
+    }
+  ]
+}

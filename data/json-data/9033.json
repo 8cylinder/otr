@@ -1,0 +1,206 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/To The Rear March/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "article",
+      "url": "www.otrr.org/FILES/Articles/Martin_Grams_Jr_Articles/Edgar_Bergen_And_Charlie_McCarthy_Show.htm",
+      "label": "The Edgar Bergen and Charlie McCarthy Show: An Episode Guide and Brief History by Martin Grams, Jr.",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "576",
+      "first": "Mel",
+      "last": "Blanc",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "126",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "158",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "30",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312011",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "T",
+          "folder": "To The Rear March",
+          "name": "To The Rear March AFRS 2 (SSC SP-773 & 4).mp3",
+          "time": "1793",
+          "size": "21511375"
+        }
+      ]
+    },
+    {
+      "ide": "312010",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Excepts from Bob Hope Charlie McCarthy, Frank Morgan {AFRS#017}"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "To The Rear March",
+          "name": "To the Rear March 4xxxxx 017 Excepts from Bob Hope Charlie McCarthy, Frank Morgan {AFRS#017}_OTRRPG.mp3",
+          "time": "1803",
+          "size": "29281098"
+        },
+        {
+          "path": "T",
+          "folder": "To The Rear March",
+          "name": "To the Rear March 4xxxxx 017 Excepts from Bob Hope Charlie McCarthy, Frank Morgan {AFRS#017}.mp3",
+          "time": "1794",
+          "size": "14354425"
+        }
+      ]
+    },
+    {
+      "ide": "329977",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Excerpts from Fred Allen 460414 and Jack Benny 440227"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "To The Rear March",
+          "name": "To The Rear March 4xxxxx 032 Excerpts from Fred Allen 460414 and Jack Benny 440227 (192-44).mp3",
+          "time": "1839",
+          "size": "20825134"
+        }
+      ]
+    },
+    {
+      "ide": "328764",
+      "date": "1946-08-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0066 To The Rear March"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "To The Rear March",
+          "name": "AFRS Collection 1946.08.24 0066 To The Rear March.mp3",
+          "time": "1831",
+          "size": "7432192"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1945-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "AFRS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "To the Rear, March"
+    },
+    {
+      "title": "To The Rear March"
+    }
+  ]
+}

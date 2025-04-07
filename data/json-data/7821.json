@@ -1,0 +1,143 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1886",
+      "first": "Joey",
+      "last": "Faye",
+      "f": "Noted Role",
+      "character": "Trainee"
+    },
+    {
+      "idperson": "1976",
+      "first": "Jay C.",
+      "last": "Flippen",
+      "f": "Noted Role",
+      "character": "Sergeant"
+    },
+    {
+      "idperson": "25333",
+      "first": "Loulie",
+      "last": "Jean",
+      "f": "Noted Role",
+      "character": "Camp hostess"
+    },
+    {
+      "idperson": "5608",
+      "first": "Bob",
+      "last": "Stanley",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "A green Army recruit in basic training and his gruff sergeant."
+    }
+  ],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1941-08-17",
+      "dow": "Su",
+      "time": "7:00 PM",
+      "end": "1941-09-21",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1941-09-25",
+      "dow": "Th",
+      "time": "8:00 PM",
+      "end": "1941-11-06",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1941-08-14",
+      "end": "1941-11-05"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Rookies, The"
+    }
+  ]
+}

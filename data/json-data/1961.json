@@ -1,0 +1,809 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173151-5a317fdc.jpg",
+      "label": "Cape Cod Radio Mystery Theater",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logc1005.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "art",
+      "url": "www.otrr.org/4img/data/media/10/CCRMTcoverExported.jpeg",
+      "label": "Cape Cod Radio Mystery Theater Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "www.otrr.org/4img/data/media/10/CCRMTcoverreverse2EXPORTED.jpeg",
+      "label": "Cape Cod Radio Mystery Theater Cover Reverse",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "www.otrr.org/4img/data/media/10/CCRMTlabelExported.jpeg",
+      "label": "Cape Cod Radio Mystery Theater Label",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "46095",
+      "first": "Steven",
+      "last": "Oney",
+      "f": "Director",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "632",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1993-08-01",
+      "source": "Illustrated Press/IP_203.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #203 Aug 93",
+      "author": ""
+    },
+    {
+      "idprint": "733",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1996-06-01",
+      "source": "Illustrated Press/IP_237.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#237) - Jun 1996",
+      "author": ""
+    },
+    {
+      "idprint": "1068",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "1990-01-01",
+      "source": "Memories/90_Vol_16_01.pdf",
+      "idpytype2": "4",
+      "title": "Memories - 1990 Vol 16 #01",
+      "author": ""
+    },
+    {
+      "idprint": "1651",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "1997-01-01",
+      "source": "Past Times/Past Times 21.pdf",
+      "idpytype2": "4",
+      "title": "Past Times #21",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "36891",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Playback"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (01) A Test for Murder.mp3",
+          "time": "2621",
+          "size": "41937558"
+        }
+      ]
+    },
+    {
+      "ide": "173988",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Shooting Star, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (10) The Case of the Shooting Star.mp3",
+          "time": "3021",
+          "size": "48344048"
+        }
+      ]
+    },
+    {
+      "ide": "173989",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Golden Idol, the Magwitch and the Donkey's Tail, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (11) The Golden Idol, the Magwitch & the Donkeys Tail.mp3",
+          "time": "3865",
+          "size": "61837880"
+        }
+      ]
+    },
+    {
+      "ide": "173990",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Whereabouts of Heidi McKnown, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (12) Whereabouts of Heidi McKnown.mp3",
+          "time": "4052",
+          "size": "64834210"
+        }
+      ]
+    },
+    {
+      "ide": "173991",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curse of the Whales Tooth, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (13) Curse of the Whales Tooth.mp3",
+          "time": "3818",
+          "size": "26725864"
+        }
+      ]
+    },
+    {
+      "ide": "173992",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Danger at Seven Mile Bend Part 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (14) Danger at Seven Mile Bend Pt1.mp3",
+          "time": "3468",
+          "size": "13872761"
+        }
+      ]
+    },
+    {
+      "ide": "173993",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Danger at Seven Mile Bend Part 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (15) Danger at Seven Mile Bend Pt2.mp3",
+          "time": "3005",
+          "size": "12021411"
+        }
+      ]
+    },
+    {
+      "ide": "173994",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Junebug Mystery, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (16) The June Bug Mystery.mp3",
+          "time": "3035",
+          "size": "12141042"
+        }
+      ]
+    },
+    {
+      "ide": "173995",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder from the Bridge"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater 1996xxxx 17 Murder From The Bridge_OTRRPG.mp3",
+          "time": "2103",
+          "size": "33658605"
+        },
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Mystery Theater 96-xx-xx (17) Murder From The Bridge.mp3",
+          "time": "2122",
+          "size": "16979410"
+        }
+      ]
+    },
+    {
+      "ide": "173996",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Some People Are Missing On Canal Street"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (18) Some People Are Missing on Canal Street.mp3",
+          "time": "2819",
+          "size": "11278394"
+        }
+      ]
+    },
+    {
+      "ide": "173997",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Atomatic Murders, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (19) The Automatic Murders.mp3",
+          "time": "2939",
+          "size": "11756102"
+        }
+      ]
+    },
+    {
+      "ide": "36814",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Test for Murder, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (02) The Caller on Line One.mp3",
+          "time": "2092",
+          "size": "12553383"
+        }
+      ]
+    },
+    {
+      "ide": "173998",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery Of Anna Gale, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (20) The Mystery of Anna Gale.mp3",
+          "time": "2595",
+          "size": "18164857"
+        }
+      ]
+    },
+    {
+      "ide": "173999",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murdering Dickens"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (21) Murdering Dickens.mp3",
+          "time": "3594",
+          "size": "25161330"
+        },
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater 00-xx-xx (21) Murdering Dickens.mp3",
+          "time": "3494",
+          "size": "27950997"
+        }
+      ]
+    },
+    {
+      "ide": "174000",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Whirlpool, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater 01-xx-xx (22) The Whirlpool.mp3",
+          "time": "3618",
+          "size": "14475770"
+        }
+      ]
+    },
+    {
+      "ide": "174001",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case Of The Indian Flashlights, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater 02-xx-xx (23) The Case Of The Indian Flashlights.mp3",
+          "time": "4490",
+          "size": "17960426"
+        }
+      ]
+    },
+    {
+      "ide": "174002",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Queen Is In The Counting House, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater 02-xx-xx (24) The Queen Is In The Counting House.mp3",
+          "time": "4293",
+          "size": "17176058"
+        }
+      ]
+    },
+    {
+      "ide": "174006",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cobra in the Kindergarten, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater 2003xxxx 25 The Cobra In The Kindergarten (40-22)_OTRRPG.mp3",
+          "time": "3189",
+          "size": "15956097"
+        },
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx The Cobra In The Kin.mp3",
+          "time": "3189",
+          "size": "15956097"
+        },
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater 03-xx-xx (25) The Cobra in the Kindergarten .mp3",
+          "time": "2819",
+          "size": "11278250"
+        }
+      ]
+    },
+    {
+      "ide": "174007",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Edgar Allan Crow and the Purloined Purloined Letter"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater 03-xx-xx (26) Edgar Allan Crow and the Purloined Purloined Letter.mp3",
+          "time": "5207",
+          "size": "20829050"
+        }
+      ]
+    },
+    {
+      "ide": "174008",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Don't Touch That Dial"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater 04-xx-xx (27) Don't Touch That Dial .mp3",
+          "time": "2423",
+          "size": "9693098"
+        }
+      ]
+    },
+    {
+      "ide": "250085",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Four Little Beatles, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (28) The Case of the Four Little Beatles .mp3",
+          "time": "4492",
+          "size": "17969210"
+        }
+      ]
+    },
+    {
+      "ide": "174009",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Calico Lobster (2), The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (29) The Case of the Calico Lobster (2).mp3",
+          "time": "5073",
+          "size": "20294090"
+        }
+      ]
+    },
+    {
+      "ide": "36815",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Caller on Line One, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (03) Playback.mp3",
+          "time": "4051",
+          "size": "16205787"
+        }
+      ]
+    },
+    {
+      "ide": "174010",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mermaid on Halloween Bridge, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (30) The Mermaid on Halloween Bridge.mp3",
+          "time": "5366",
+          "size": "21465674"
+        }
+      ]
+    },
+    {
+      "ide": "174011",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ghost of Christmas on Trial, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (31) The Ghost of Christmas on Trial.mp3",
+          "time": "3383",
+          "size": "13536026"
+        }
+      ]
+    },
+    {
+      "ide": "36816",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Hugo's Night to Remember"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (04) Mr Hugos Night to Remember.mp3",
+          "time": "3395",
+          "size": "54316264"
+        }
+      ]
+    },
+    {
+      "ide": "36817",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hypnotist, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (05) The Hypnotist.mp3",
+          "time": "2503",
+          "size": "10012369"
+        }
+      ]
+    },
+    {
+      "ide": "36818",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Legacy of Euriah Piller, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (06) The Legacy of Euriah Pillara.mp3",
+          "time": "2481",
+          "size": "9923985"
+        }
+      ]
+    },
+    {
+      "ide": "36801",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Buoy, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (07) The Bouy.mp3",
+          "time": "3290",
+          "size": "52641902"
+        }
+      ]
+    },
+    {
+      "ide": "36802",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Five Fathom Rip"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (08) Five Fathom Rip.mp3",
+          "time": "3205",
+          "size": "12822415"
+        }
+      ]
+    },
+    {
+      "ide": "173987",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Murdered Miser, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cape Cod Radio Mystery Theater",
+          "name": "Cape Cod Radio Mystery Theater xx-xx-xx (09) Case of the Murdered Miser.mp3",
+          "time": "3931",
+          "size": "31446374"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Mystery"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Cape Cod Radio Mystery Theater"
+    }
+  ]
+}

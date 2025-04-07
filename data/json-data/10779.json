@@ -1,0 +1,88 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173626-b175646f.jpg",
+      "label": "Caves Of Steel",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173629-ea8cd34d.jpg",
+      "label": "Caves Of Steel",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/I Series/Isaac Asimov/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "308646",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Isaac Asimov",
+          "name": "Isaac Asimov - Caves of Steel (1 of 3).mp3",
+          "time": "1679",
+          "size": "6957313"
+        }
+      ]
+    },
+    {
+      "ide": "308647",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Isaac Asimov",
+          "name": "Isaac Asimov - Caves of Steel (2 of 3).mp3",
+          "time": "1788",
+          "size": "7191472"
+        }
+      ]
+    },
+    {
+      "ide": "308648",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "I",
+          "folder": "Isaac Asimov",
+          "name": "Isaac Asimov - Caves of Steel (3 of 3).mp3",
+          "time": "1745",
+          "size": "6994567"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Isaac Asimov"
+    }
+  ]
+}

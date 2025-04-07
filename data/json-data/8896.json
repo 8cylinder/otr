@@ -1,0 +1,844 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logt1035.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8896-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3737",
+      "first": "Barton",
+      "last": "Maclane",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5472",
+      "first": "Penny",
+      "last": "Singleton",
+      "f": "Noted Role",
+      "character": "as Dorothy McNulty"
+    },
+    {
+      "idperson": "2989",
+      "first": "George",
+      "last": "Jessel",
+      "f": "Noted Role",
+      "character": "Emcee and performer"
+    },
+    {
+      "idperson": "5795",
+      "first": "Norma",
+      "last": "Talmadge",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6002",
+      "first": "Tommy",
+      "last": "Tucker",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "8578",
+      "first": "Amy",
+      "last": "Arnell",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "43078",
+      "first": "Josephine",
+      "last": "Starr",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "710",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "1976-10-01",
+      "source": "Illustrated Press/IP_005.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#005) - Oct 1976",
+      "author": ""
+    },
+    {
+      "idprint": "710",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "1976-10-01",
+      "source": "Illustrated Press/IP_005.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#005) - Oct 1976",
+      "author": ""
+    },
+    {
+      "idprint": "2025",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1938-01-01",
+      "source": "Radio Guide/Radio Guide 38-01-01.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 38-01-01",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "142207",
+      "date": "1937-10-10",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Eddie Cantor"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371010 Ep001 Eddie Cantor.mp3",
+          "time": "1783",
+          "size": "14266447"
+        }
+      ]
+    },
+    {
+      "ide": "142208",
+      "date": "1937-10-17",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Weber and Fields"
+        },
+        {
+          "title": "1st Song - High, Wide & Handsome. Guest - Norma Talmadge"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371017 02 1st Song - High, Wide & Handsome. Guest - Norma Talmadge_OTRRPG.mp3",
+          "time": "1772",
+          "size": "28360566"
+        },
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371017 Ep002 Weber And Fields.mp3",
+          "time": "1769",
+          "size": "14155999"
+        }
+      ]
+    },
+    {
+      "ide": "142209",
+      "date": "1937-10-24",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Judy Garland"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371024 Ep003 Bert Wheeler.mp3",
+          "time": "1771",
+          "size": "14166607"
+        }
+      ]
+    },
+    {
+      "ide": "142210",
+      "date": "1937-10-31",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Glenda Farrell"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371031 Ep004 Glenda Farrell.mp3",
+          "time": "1776",
+          "size": "14205919"
+        }
+      ]
+    },
+    {
+      "ide": "142211",
+      "date": "1937-11-07",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "142212",
+      "date": "1937-11-14",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Ralph Byrd"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371114 Ep006 Ralph Byrd.mp3",
+          "time": "1786",
+          "size": "14289951"
+        }
+      ]
+    },
+    {
+      "ide": "142213",
+      "date": "1937-11-21",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Buck Jones"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371121 Ep007 Buck Jones.mp3",
+          "time": "852",
+          "size": "6812559"
+        }
+      ]
+    },
+    {
+      "ide": "142214",
+      "date": "1937-11-28",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "142215",
+      "date": "1937-12-05",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "George Raft"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371205 Ep009 George Raft.mp3",
+          "time": "1780",
+          "size": "14237327"
+        }
+      ]
+    },
+    {
+      "ide": "142216",
+      "date": "1937-12-12",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Betty Grable"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371212 Ep010 Betty Grable.mp3",
+          "time": "1770",
+          "size": "14162447"
+        }
+      ]
+    },
+    {
+      "ide": "142217",
+      "date": "1937-12-19",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Polly Moran"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371219 Ep011 Poly Moran.mp3",
+          "time": "1789",
+          "size": "14312623"
+        }
+      ]
+    },
+    {
+      "ide": "142218",
+      "date": "1937-12-26",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gus Edwards"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 371226 Ep012 14-Year-Old Violin Prod.mp3",
+          "time": "1790",
+          "size": "14322191"
+        }
+      ]
+    },
+    {
+      "ide": "142219",
+      "date": "1938-01-01",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Year Eve Broadcast"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380101 Ep013 New Year's Show.mp3",
+          "time": "1781",
+          "size": "14252303"
+        }
+      ]
+    },
+    {
+      "ide": "142220",
+      "date": "1938-01-08",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "142221",
+      "date": "1938-01-16",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Harpo Marx"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380116 Ep015 Harpo Marx.mp3",
+          "time": "1780",
+          "size": "14238575"
+        }
+      ]
+    },
+    {
+      "ide": "142222",
+      "date": "1938-01-23",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music Publishing Business"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380123 Ep016 Harry Ruby.mp3",
+          "time": "1785",
+          "size": "14282671"
+        }
+      ]
+    },
+    {
+      "ide": "142223",
+      "date": "1938-01-30",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Clarence Muse"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380130 Ep017 Clarence Muse.mp3",
+          "time": "1778",
+          "size": "14223183"
+        }
+      ]
+    },
+    {
+      "ide": "142224",
+      "date": "1938-02-06",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "School Days"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380206 Ep018 Gus Edwards.mp3",
+          "time": "1786",
+          "size": "14287663"
+        }
+      ]
+    },
+    {
+      "ide": "142225",
+      "date": "1938-02-13",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Buster Crabbe"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380213 Ep019 Buster Crabbe.mp3",
+          "time": "1781",
+          "size": "14246895"
+        }
+      ]
+    },
+    {
+      "ide": "142226",
+      "date": "1938-02-20",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sigmund Romberg"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380220 Ep020 Sigmund Romberg.mp3",
+          "time": "1778",
+          "size": "14225471"
+        }
+      ]
+    },
+    {
+      "ide": "142227",
+      "date": "1938-02-27",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tribute To Vaudeville"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380227 Ep021 Smith And Dale.mp3",
+          "time": "1765",
+          "size": "14122303"
+        }
+      ]
+    },
+    {
+      "ide": "142228",
+      "date": "1938-03-06",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jackie Cooper"
+        },
+        {
+          "title": "Gigantic Studios"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380306 Ep022 Jackie Cooper.mp3",
+          "time": "1779",
+          "size": "14231711"
+        }
+      ]
+    },
+    {
+      "ide": "142229",
+      "date": "1938-03-13",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Edmund Lowe"
+        },
+        {
+          "title": "Guest Edmund Lowe"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380313 Ep023 Edmund Lowe.mp3",
+          "time": "1786",
+          "size": "14288287"
+        }
+      ]
+    },
+    {
+      "ide": "142230",
+      "date": "1938-03-20",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Circus Themes"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380320 Ep024 Circus Theme.mp3",
+          "time": "1780",
+          "size": "14243983"
+        }
+      ]
+    },
+    {
+      "ide": "142231",
+      "date": "1938-03-27",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Alan Mobray"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380327 Ep025 Alan Mobray.mp3",
+          "time": "1768",
+          "size": "14142271"
+        }
+      ]
+    },
+    {
+      "ide": "142232",
+      "date": "1938-04-03",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Weber and Fields"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380403 Ep026 Weber And Fields.mp3",
+          "time": "1773",
+          "size": "14186575"
+        }
+      ]
+    },
+    {
+      "ide": "142233",
+      "date": "1938-04-11",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "142234",
+      "date": "1938-04-18",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "142235",
+      "date": "1938-04-24",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On The Way To Pittsburg"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380424 Ep029 On The Way To Pittsburg.mp3",
+          "time": "1779",
+          "size": "14236079"
+        }
+      ]
+    },
+    {
+      "ide": "142236",
+      "date": "1938-05-01",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On The Way To Washington, D.C."
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380501 Ep030 Washington DC.mp3",
+          "time": "1778",
+          "size": "14226095"
+        }
+      ]
+    },
+    {
+      "ide": "142237",
+      "date": "1938-05-08",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Josephine Starr"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380508 Ep031 Josephine Starr.mp3",
+          "time": "948",
+          "size": "7587983"
+        }
+      ]
+    },
+    {
+      "ide": "142238",
+      "date": "1938-05-15",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "142239",
+      "date": "1938-05-22",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jimmy Walker"
+        },
+        {
+          "title": "Guests Mayor of New York City and Ned Wever"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380522 Ep033 Jimmy Walker.mp3",
+          "time": "1773",
+          "size": "14183663"
+        }
+      ]
+    },
+    {
+      "ide": "142240",
+      "date": "1938-05-29",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Al Burney"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380529 Ep034 Hildegarde.mp3",
+          "time": "1771",
+          "size": "14167855"
+        }
+      ]
+    },
+    {
+      "ide": "311981",
+      "date": "1938-06-19",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Father's Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380619 Ep037 Father's Day.mp3",
+          "time": "1766",
+          "size": "14129375"
+        }
+      ]
+    },
+    {
+      "ide": "142241",
+      "date": "1938-06-26",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "142242",
+      "date": "1938-07-03",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Episode"
+        },
+        {
+          "title": "Getting Rid of George's Uncle. Last Episode"
+        },
+        {
+          "title": "George's Uncle (Incomplete)"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380703 39 Getting Rid of George's Uncle. Last Episode (64-44) INCOMPLETE_OTRRPG.mp3",
+          "time": "1366",
+          "size": "10934678"
+        },
+        {
+          "path": "T",
+          "folder": "Thirty Minutes In Hollywood",
+          "name": "Thirty Minutes In Hollywood 380703 Ep039 Getting Rid Of Uncle.mp3",
+          "time": "1445",
+          "size": "11557247"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-10-10",
+      "dow": "",
+      "time": "",
+      "end": "1938-07-03",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Thirty Minutes in Hollywood"
+    },
+    {
+      "title": "30 Minutes in Hollywood"
+    },
+    {
+      "title": "30 Minutes In Hollywood"
+    }
+  ]
+}

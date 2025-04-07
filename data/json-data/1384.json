@@ -1,0 +1,547 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "BIGH"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Biggest Heart, The/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-1384-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1584",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "2003-10-01",
+      "source": "OTR Digest_1990s/OTRDigest_(103)Fall03.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (103) Fall 2003",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "29558",
+      "date": "1950-10-20",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Archaleta Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart 501020 01 Mrs. Archulette's Story_OTRRPG.mp3",
+          "time": "1759",
+          "size": "28218096"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 50-10-20 (01) Mrs Archaleta Story.mp3",
+          "time": "1728",
+          "size": "6914206"
+        }
+      ]
+    },
+    {
+      "ide": "29559",
+      "date": "1950-10-27",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Virginia Braswell Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart 501027 02 The Virginia Braswell Story_OTRRPG.mp3",
+          "time": "1717",
+          "size": "27557307"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 50-10-27 (02) Virginia Braswell Story.mp3",
+          "time": "1727",
+          "size": "6910100"
+        }
+      ]
+    },
+    {
+      "ide": "29560",
+      "date": "1950-11-03",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Max Rabinoff - Mr Santa"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart 501103 03 Max Rabinoff - Mr Santa_OTRRPG.mp3",
+          "time": "1835",
+          "size": "29444388"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 50-12-22 (10) Max Rabinoff - Mr Santa (repeat of 50-11-03).mp3",
+          "time": "1753",
+          "size": "7014558"
+        }
+      ]
+    },
+    {
+      "ide": "29561",
+      "date": "1950-11-10",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29562",
+      "date": "1950-11-17",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lily Thomas Story, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart 501117 05 The Lilly Thomas Story_OTRRPG.mp3",
+          "time": "1716",
+          "size": "27542255"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 50-11-17 (05) The Lily Thomas Story.mp3",
+          "time": "2264",
+          "size": "9056414"
+        }
+      ]
+    },
+    {
+      "ide": "29563",
+      "date": "1950-11-24",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29564",
+      "date": "1950-12-01",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29565",
+      "date": "1950-12-08",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "James Harvey Story, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 50-12-08 (08) The James Harvey Story.mp3",
+          "time": "1432",
+          "size": "5730462"
+        }
+      ]
+    },
+    {
+      "ide": "29566",
+      "date": "1950-12-15",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jean Kelogg Story, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 50-12-15 (09) The Jean Kelogg Story.mp3",
+          "time": "1750",
+          "size": "7000222"
+        }
+      ]
+    },
+    {
+      "ide": "29567",
+      "date": "1950-12-22",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Max Rabinoff - Mr Santa (repeat of 50-11-03)"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 50-12-22 (10) Max Rabinoff - Mr Santa (repeat of 50-11-03).mp3",
+          "time": "1753",
+          "size": "7014558"
+        }
+      ]
+    },
+    {
+      "ide": "29568",
+      "date": "1950-12-29",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29569",
+      "date": "1951-01-05",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29570",
+      "date": "1951-01-12",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann Sharpe Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 51-01-12 (13) Ann Sharpe Story.mp3",
+          "time": "1817",
+          "size": "7270558"
+        }
+      ]
+    },
+    {
+      "ide": "29571",
+      "date": "1951-01-19",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bill Mitchell Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart xxxxxx xx Bill Mitchell Story_OTRRPG.mp3",
+          "time": "1686",
+          "size": "27055950"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 51-01-19 (14) Bill Mitchell Story.mp3",
+          "time": "1688",
+          "size": "13506468"
+        }
+      ]
+    },
+    {
+      "ide": "29572",
+      "date": "1951-01-26",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29573",
+      "date": "1951-02-02",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29574",
+      "date": "1951-02-09",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29575",
+      "date": "1951-02-16",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29576",
+      "date": "1951-02-23",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29577",
+      "date": "1951-03-02",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marie Wichert Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart 510302 20 The Marie Wichert Story_OTRRPG.mp3",
+          "time": "1691",
+          "size": "27143324"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 51-03-02 (20) Marie Wichert Story.mp3",
+          "time": "1694",
+          "size": "13550353"
+        }
+      ]
+    },
+    {
+      "ide": "29578",
+      "date": "1951-03-09",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robert Barnett Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart 510309 21The Robert Barnett Story_OTRRPG.mp3",
+          "time": "1729",
+          "size": "27672704"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 51-03-09 (21) Robert Barnett Story.mp3",
+          "time": "1729",
+          "size": "13836238"
+        }
+      ]
+    },
+    {
+      "ide": "29579",
+      "date": "1951-03-16",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "29580",
+      "date": "1951-03-23",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good Friday Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart 510323 23 Good Friday Play_OTRRPG.mp3",
+          "time": "1698",
+          "size": "27172992"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 51-03-23 (23) Good Friday Story.mp3",
+          "time": "1073",
+          "size": "8582312"
+        }
+      ]
+    },
+    {
+      "ide": "29581",
+      "date": "1951-03-30",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Father Jim Monahan Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart 510330 24 The Father Jim Monahan Story_OTRRPG.mp3",
+          "time": "1700",
+          "size": "27197568"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 51-03-30 (24) Father Jim Monahan Story.mp3",
+          "time": "1700",
+          "size": "13598842"
+        }
+      ]
+    },
+    {
+      "ide": "29582",
+      "date": "1951-04-06",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Judge Philip B Gilliam Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart 510406 25 The Judge Philip B Gilliam Story_OTRRPG.mp3",
+          "time": "1737",
+          "size": "27879359"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 51-04-06 (25) Judge Philip B Gilliam Story.mp3",
+          "time": "1740",
+          "size": "13918166"
+        }
+      ]
+    },
+    {
+      "ide": "29583",
+      "date": "1951-04-13",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Review Of All The People"
+        },
+        {
+          "title": "Last Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "Biggest Heart 510413 26 Last Show_OTRRPG.mp3",
+          "time": "1767",
+          "size": "28276864"
+        },
+        {
+          "path": "B",
+          "folder": "Biggest Heart, The",
+          "name": "The Biggest Heart 51-04-13 (26) Review Of All The People.mp3",
+          "time": "1767",
+          "size": "14138218"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Biggest Heart"
+    }
+  ]
+}

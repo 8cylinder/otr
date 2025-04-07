@@ -1,0 +1,149 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "HOHU"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logh1006.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "724",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1977-12-01",
+      "source": "Illustrated Press/IP_018.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#18) - Dec 1977",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "78584",
+      "date": "1947-08-05",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Howard Hughes-Army Hearings Ep 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Special Event",
+          "name": "ABC Special Event 47-08-05 Investigation of Hughes Airplane Contract.mp3",
+          "time": "1775",
+          "size": "7102602"
+        }
+      ]
+    },
+    {
+      "ide": "78585",
+      "date": "1947-08-06",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Howard Hughes-Army Hearings Ep 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "78586",
+      "date": "1947-08-07",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Howard Hughes-Army Hearings Ep 3"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "78587",
+      "date": "1947-08-08",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Howard Hughes-Army Hearings Ep 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Howard Hughes Hearings",
+          "name": "Howard Hughes Hearings 1947.08.08 Howard Hughes Hearings.mp3",
+          "time": "1771",
+          "size": "7193201"
+        }
+      ]
+    },
+    {
+      "ide": "78588",
+      "date": "1947-08-09",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Howard Hughes-Army Hearings Ep 5"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Howard Hughes - Army Hearings"
+    }
+  ]
+}

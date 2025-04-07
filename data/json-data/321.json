@@ -1,0 +1,605 @@
+{
+  "avail": [
+    {
+      "avail": "16",
+      "idprint": "-1",
+      "web": "www.otrr.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "23",
+      "idprint": "-1",
+      "web": "www.otrr.org",
+      "url": "",
+      "source": "",
+      "idpytype": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322163426-0031c01f.jpg",
+      "label": "ABC Mystery Time",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185017-902b1683.jpg",
+      "label": "ABC Mystery Time CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185018-3db040b5.jpg",
+      "label": "ABC Mystery Time CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185019-30641636.jpg",
+      "label": "ABC Mystery Time CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-321-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/ABC Mystery Time/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "General Web Link",
+      "url": "ootrr.org/FILES/Articles/other/mysteryTime.html",
+      "label": "Mystery Time Overview",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1621",
+      "first": "Don",
+      "last": "Dowd",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1742",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1981-10-01",
+      "source": "Radio Currents/RC_V2_(1)_FallWinter81.pdf",
+      "idpytype2": "4",
+      "title": "RC V2 (1) FallWinter81",
+      "author": ""
+    },
+    {
+      "idprint": "1099",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1970-01-01",
+      "source": "Misc/Don_Maris_Flyer_(01)_70.pdf",
+      "idpytype2": "4",
+      "title": "Don Maris Flyer (01) 1970",
+      "author": ""
+    },
+    {
+      "idprint": "726",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1978-02-01",
+      "source": "Illustrated Press/IP_020.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#20) - Feb 1978",
+      "author": ""
+    },
+    {
+      "idprint": "1230",
+      "idtype": "4",
+      "page": "49",
+      "article": "",
+      "url": "",
+      "date": "2001-05-01",
+      "source": "NARA News/Nara News V29 02 Spring2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 02 Spring2001",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "12973",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Back To Yesterday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "12971",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Four Fatal Jugglers"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) Four Fatal Jugglers.mp3",
+          "time": "1470",
+          "size": "8817916"
+        }
+      ]
+    },
+    {
+      "ide": "262372",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Four Time Loser"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time - [Masters Of Mystery] - Four Time Loser (b.mp3",
+          "time": "1348",
+          "size": "5390524"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) Four Time Loser.mp3",
+          "time": "1456",
+          "size": "8736567"
+        }
+      ]
+    },
+    {
+      "ide": "262373",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Half An Hour"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time - [Mystery Classics] - Half An Hour (bk).mp3",
+          "time": "1181",
+          "size": "4722521"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) Half an Hour.mp3",
+          "time": "1347",
+          "size": "8084861"
+        }
+      ]
+    },
+    {
+      "ide": "262374",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ivory Elephant, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "262375",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Killing In LaFayette Place, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "262376",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder In Haste"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time - [Masters Of Mystery] - Murder In Haste (b.mp3",
+          "time": "1197",
+          "size": "4787722"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) Murder in Haste.mp3",
+          "time": "1514",
+          "size": "9083891"
+        }
+      ]
+    },
+    {
+      "ide": "262377",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Adventure In Norwalk"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) My Adventure in Norfork.mp3",
+          "time": "1440",
+          "size": "23048212"
+        }
+      ]
+    },
+    {
+      "ide": "262378",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No-one Will Ever Know"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time - [Masters Of Mystery] - No One Will Ever K.mp3",
+          "time": "1262",
+          "size": "5047275"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) No One Will Ever Know.mp3",
+          "time": "1262",
+          "size": "5047620"
+        }
+      ]
+    },
+    {
+      "ide": "262379",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Overcoat, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Theater",
+          "name": "ABC_MYSTERY_THEATER.19xx.xx.xx_The_Overcoat.mp3",
+          "time": "1429",
+          "size": "7142923"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time - The Overcoat.mp3",
+          "time": "1431",
+          "size": "5722801"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) The Overcoat.mp3",
+          "time": "1431",
+          "size": "5723137"
+        }
+      ]
+    },
+    {
+      "ide": "262380",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Picture Of Dorian Gray, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) Picture of Dorian Gray.mp3",
+          "time": "1398",
+          "size": "22368276"
+        }
+      ]
+    },
+    {
+      "ide": "262381",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Success Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time - [Masters Of Mystery] - Success Story (bk).mp3",
+          "time": "1257",
+          "size": "5027631"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) Success Story.mp3",
+          "time": "1509",
+          "size": "9055834"
+        }
+      ]
+    },
+    {
+      "ide": "262382",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Suicide Club"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Theater",
+          "name": "ABC_MYSTERY_THEATER.19xx.xx.xx_The_Suicide_Club.mp3",
+          "time": "1308",
+          "size": "6538188"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time - Suicide Club.mp3",
+          "time": "1310",
+          "size": "5239013"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) Suicide Club.mp3",
+          "time": "1310",
+          "size": "5239349"
+        }
+      ]
+    },
+    {
+      "ide": "262383",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tale, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time - [Mystery Classics] - The Tale [poor Qual].mp3",
+          "time": "1454",
+          "size": "5814648"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) The Tale.mp3",
+          "time": "1421",
+          "size": "8529200"
+        }
+      ]
+    },
+    {
+      "ide": "262384",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "White Curtain, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC MYSTERYTIME - [Mystery Classics] - 57-07-22 - The White Curtain (bk).mp3",
+          "time": "1419",
+          "size": "22707277"
+        }
+      ]
+    },
+    {
+      "ide": "306362",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death by Proxy"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (1) Death by Proxy.mp3",
+          "time": "1413",
+          "size": "22605844"
+        }
+      ]
+    },
+    {
+      "ide": "12972",
+      "date": "1956-06-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death Walked In"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Mystery Theater",
+          "name": "ABC_MYSTERY_THEATER.19xx.xx.xx_Death_Walked_In.mp3",
+          "time": "1347",
+          "size": "6735935"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time - Death Walked In.mp3",
+          "time": "1349",
+          "size": "5397211"
+        },
+        {
+          "path": "A",
+          "folder": "ABC Mystery Time",
+          "name": "ABC Mystery Time xx-xx-xx (x) Death Walked In.mp3",
+          "time": "1407",
+          "size": "8443473"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Mystery"
+    },
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mystery Time"
+    },
+    {
+      "title": "ABC Mystery Time"
+    }
+  ]
+}

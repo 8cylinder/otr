@@ -1,0 +1,160 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "TFOS"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/Tales From The Other Side/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logt1020.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "139654",
+      "date": "1992-09-20",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Silicone Symmetry"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tales From The Other Side",
+          "name": "Tales From The Otherside 92-09-20 (1) Silicone Symmetry.mp3",
+          "time": "1551",
+          "size": "24819776"
+        }
+      ]
+    },
+    {
+      "ide": "139655",
+      "date": "1992-09-27",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mission - Andromeda"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tales From The Other Side",
+          "name": "Tales From The Otherside 92-09-27 (2) Mission - Andromeda.mp3",
+          "time": "1630",
+          "size": "26089118"
+        }
+      ]
+    },
+    {
+      "ide": "139656",
+      "date": "1992-10-04",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Regression Therapy"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tales From The Other Side",
+          "name": "Tales From The Otherside 92-10-04 (3) Regression Therapy.mp3",
+          "time": "1639",
+          "size": "26219939"
+        }
+      ]
+    },
+    {
+      "ide": "139657",
+      "date": "1992-10-11",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Breakthrough"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tales From The Other Side",
+          "name": "Tales From The Otherside 92-10-11 (4) Breakthrough.mp3",
+          "time": "1648",
+          "size": "26368315"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Fantasy"
+    },
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1992-09-20",
+      "dow": "",
+      "time": "",
+      "end": "1992-10-11",
+      "length": "0",
+      "country": "USA",
+      "network": "NPR"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Tales from the Other Side"
+    }
+  ]
+}

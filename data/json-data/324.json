@@ -1,0 +1,240 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322163516-21a20101.jpg",
+      "label": "ABC Radio Workshop",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322174953-141fc9c1.jpg",
+      "label": "CBS Radio Workshop Cover Reverse",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322175012-9f577080.jpg",
+      "label": "CBS Radio Workshop Tray Insert",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322175018-6682f765.jpg",
+      "label": "CBS Radio Workshop Tray Reverse",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/ABC Radio/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "According to Dunning, it was also known as The ABC Radio Workshop."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "6282",
+      "first": "Dick",
+      "last": "Wesson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "9551",
+      "first": "Dave",
+      "last": "Ballard",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "34",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321230",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Think The Word"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Radio",
+          "name": "ABC Radio 19xx.xx.xx Think The Word.mp3",
+          "time": "1663",
+          "size": "6758400"
+        }
+      ]
+    },
+    {
+      "ide": "163945",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 7"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "163946",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Passages Darien's Rise, Part 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "247146",
+      "date": "1953-09-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Think - Mars Is Heaven (ABC Radio Workshop)"
+        },
+        {
+          "title": "The Martian Chronicles"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Radio Workshop",
+          "name": "ABC Radio Workshop 1950.xx.xx Mars Is Heaven.mp3",
+          "time": "1619",
+          "size": "6584320"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1953-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "ABC Radio Workshop"
+    },
+    {
+      "title": "Think"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "47336",
+      "first": "Wayne",
+      "last": "Miller",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "1994",
+      "first": "Don",
+      "last": "Forbes",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    },
+    {
+      "idperson": "2441",
+      "first": "Arthur",
+      "last": "Hale",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    },
+    {
+      "idperson": "7543",
+      "first": "John",
+      "last": "Wald",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    },
+    {
+      "idperson": "10715",
+      "first": "Ken",
+      "last": "Barton",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Fanfare Richfield"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "310581",
+      "date": "1947-05-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The 10th Edition Of The 17th Year"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Richfield News",
+          "name": "Richfield News 47-05-01 The 10th Edition Of The 17th Year.mp3",
+          "time": "865",
+          "size": "6921460"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1932-08-01",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1947-05-01",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1932-08-01",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1947-05-01",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Richfield Oil Company",
+      "begin": "1932-08-01",
+      "end": "1947-05-01"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Richfield Reporter, The"
+    },
+    {
+      "title": "The Richfield Reporter"
+    }
+  ]
+}

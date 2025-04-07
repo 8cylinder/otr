@@ -1,0 +1,105 @@
+{
+  "avail": [
+    {
+      "avail": "4",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "10319",
+      "first": "Jack",
+      "last": "Baker",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Blue Bayou"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "313832",
+      "date": "0000-00-00",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Honolulu Boogie [AFRS]"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jack Baker",
+          "name": "Jack Baker 5104xx 146 1st Song - Honolulu Boogie {AFRS} (128-48)_OTRRPG.mp3",
+          "time": "946",
+          "size": "15149855"
+        }
+      ]
+    },
+    {
+      "ide": "313831",
+      "date": "1951-04-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Cheaters Never Prosper"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jack Baker",
+          "name": "Jack Baker 510423 141 1st Song - Cheaters Never Prosper {AFRS} (128-48)_OTRRPG.mp3",
+          "time": "944",
+          "size": "15118367"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "9:00 AM",
+      "end": "1951-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jack Baker Show, The"
+    },
+    {
+      "title": "Jack Baker Show"
+    }
+  ]
+}

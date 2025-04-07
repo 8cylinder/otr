@@ -1,0 +1,76 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/Famous American Authors/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "23970",
+      "first": "Oliver Wendell",
+      "last": "Holmes",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313457",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Life of Oliver Wendell Holmes"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Famous American Authors",
+          "name": "Famous American Authors xxxxxx The Life of Oliver Wendell Holmes (128-48)_OTRRPG.mp3",
+          "time": "910",
+          "size": "14634005"
+        },
+        {
+          "path": "F",
+          "folder": "Famous American Authors",
+          "name": "Famous American Authors xx-xx-xx The life of Oliver Wendall Holmes.mp3",
+          "time": "908",
+          "size": "7260585"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Famous American Authors"
+    }
+  ]
+}

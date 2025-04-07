@@ -1,0 +1,211 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324164158-dae6f35b.jpg",
+      "label": "Vass Family",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/U-V Series/Vass Family,  The/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6085",
+      "first": "Sally",
+      "last": "Vass",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6084",
+      "first": "Louisa",
+      "last": "Vass",
+      "f": "Noted Role",
+      "character": "Weezy"
+    },
+    {
+      "idperson": "6086",
+      "first": "Virginia",
+      "last": "Vass",
+      "f": "Noted Role",
+      "character": "Jitchy"
+    },
+    {
+      "idperson": "6082",
+      "first": "Emily",
+      "last": "Vass",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6083",
+      "first": "Frank",
+      "last": "Vass",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1963",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1935-12-28",
+      "source": "Radio Guide/Radio Guide 35-12-28.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 35-12-28",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Mistah mockin' Bird"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "315954",
+      "date": "0000-00-00",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Romance Runs In The Family"
+        }
+      ],
+      "files": [
+        {
+          "path": "V",
+          "folder": "Vass Family,  The",
+          "name": "Vass Family xxxxxx 057 1st Song - Romance Runs In The Family_OTRRPG.mp3",
+          "time": "280",
+          "size": "4551772"
+        },
+        {
+          "path": "V",
+          "folder": "Vass Family,  The",
+          "name": "Vass Family xx-xx-xx (57) First Song - Romance Runs In The Family.mp3",
+          "time": "282",
+          "size": "2254052"
+        }
+      ]
+    },
+    {
+      "ide": "315955",
+      "date": "0000-00-00",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Crinoline Days"
+        }
+      ],
+      "files": [
+        {
+          "path": "V",
+          "folder": "Vass Family,  The",
+          "name": "Vass Family xxxxxx 058 1st Song - Crinoline Days_OTRRPG.mp3",
+          "time": "283",
+          "size": "4603587"
+        },
+        {
+          "path": "V",
+          "folder": "Vass Family,  The",
+          "name": "Vass Family xx-xx-xx (58) First Song - Crinoline Days.mp3",
+          "time": "285",
+          "size": "2280175"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1932-10-00",
+      "dow": "Sa",
+      "time": "11:15 PM",
+      "end": "1937-09-11",
+      "length": "5",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1939-10-22",
+      "dow": "Sa",
+      "time": "11:00 AM",
+      "end": "1940-12-08",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1940-12-14",
+      "dow": "Sa",
+      "time": "6:30 PM",
+      "end": "1941-06-14",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Miles Laboratories (Alka-Seltzer)",
+      "begin": "1932-10-00",
+      "end": "1941-06-14"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Vass Family, The"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5351",
+      "first": "Rod",
+      "last": "Serling",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "246474",
+      "date": "1953-10-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Happens To You - The Human Comedy"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "It Happens To You",
+          "name": "It Happens To You 1953.10.02 The Human Comedy.mp3",
+          "time": "1822",
+          "size": "7397461"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1954-08-03",
+      "dow": "",
+      "time": "8:00 PM",
+      "end": "1954-10-05",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "It Happens to You"
+    }
+  ]
+}

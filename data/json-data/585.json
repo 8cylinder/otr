@@ -1,0 +1,576 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,762969,00.html",
+      "label": "1939-12-04: Templeton Time",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,763744,00.html",
+      "label": "1940-03-25: Spring Shows",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,764098,00.html",
+      "label": "1940-06-24: Summer Shows",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,772352,00.html",
+      "label": "1940-01-15: Editors' Musts",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,778776,00.html",
+      "label": "1946-07-08: Program Preview",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "goo.gl/fskJU",
+      "label": "Review",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrads.blogspot.com/2011/01/alec-templeton.html",
+      "label": "Adverts",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loga1012.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [
+    {
+      "info": "SPONSORS - Johnson's Wax, Miles Laboratories for Alka-Seltzer, Dubonnet Wine"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "4162",
+      "first": "Billy",
+      "last": "Mills",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4331",
+      "first": "Conrad",
+      "last": "Nagel",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4470",
+      "first": "Pat",
+      "last": "O'Malley",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "4634",
+      "first": "Fort",
+      "last": "Pearson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5224",
+      "first": "Daniel",
+      "last": "Saidenberg",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "42097",
+      "first": "Edward",
+      "last": "Simmons",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "4417",
+      "first": "Ray",
+      "last": "Noble",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "32047",
+      "first": "The",
+      "last": "Moylan Sisters",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2342",
+      "first": "Ben",
+      "last": "Grauer",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "31361",
+      "first": "William",
+      "last": "Miller",
+      "f": "Noted Role",
+      "character": "Chorus Director"
+    },
+    {
+      "idperson": "49825",
+      "first": "Edna",
+      "last": "Odell",
+      "f": "Noted Role",
+      "character": "vocalist"
+    },
+    {
+      "idperson": "50336",
+      "first": "Alec",
+      "last": "Templeton",
+      "f": "Noted Role",
+      "character": "Pianist, Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "19580",
+      "date": "1939-07-04",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You're A Grand Old Flag"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "19581",
+      "date": "1939-07-11",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19582",
+      "date": "1939-07-18",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Girl Friend"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "19583",
+      "date": "1939-07-25",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Lady Be Good"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "19584",
+      "date": "1939-08-01",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19585",
+      "date": "1939-08-08",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19586",
+      "date": "1939-08-15",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19587",
+      "date": "1939-08-22",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Great Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "19588",
+      "date": "1939-08-29",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19589",
+      "date": "1939-09-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19590",
+      "date": "1940-06-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19591",
+      "date": "1940-09-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19592",
+      "date": "1941-04-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19593",
+      "date": "1943-01-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19594",
+      "date": "1943-03-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19595",
+      "date": "1943-07-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19596",
+      "date": "1943-08-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19597",
+      "date": "1946-06-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Kay Lorene"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "19598",
+      "date": "1946-07-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Pearl Bailey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "19599",
+      "date": "1946-07-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Battered Bride"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "19600",
+      "date": "1946-08-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19601",
+      "date": "1947-06-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "19602",
+      "date": "1947-08-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Last Episode"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-07-04",
+      "dow": "Tu",
+      "time": "9:30 AM",
+      "end": "1939-08-29",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1939-07-04",
+      "dow": "Tu",
+      "time": "9:30 PM",
+      "end": "1940-06-24",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1939-09-25",
+      "dow": "M",
+      "time": "9:30 PM",
+      "end": "1940-06-24",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1940-09-06",
+      "dow": "F",
+      "time": "7:30 PM",
+      "end": "1941-04-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1943-03-01",
+      "dow": "M,W,F",
+      "time": "10:30 PM",
+      "end": "1943-08-27",
+      "length": "5",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1946-06-02",
+      "dow": "Su",
+      "time": "8:00 PM",
+      "end": "1946-08-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1947-06-01",
+      "dow": "Su",
+      "time": "8:00 PM",
+      "end": "1947-08-31",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "S. C. Johnson and Son (Floor Wax)",
+      "begin": "1939-07-04",
+      "end": "1939-08-29"
+    },
+    {
+      "sponsor": "Miles Laboratories (Alka-Seltzer)",
+      "begin": "1939-09-25",
+      "end": "1941-04-25"
+    },
+    {
+      "sponsor": "Dubonnet Wine",
+      "begin": "1943-03-01",
+      "end": "1943-08-27"
+    },
+    {
+      "sponsor": "Chase and Sanborn Coffee",
+      "begin": "1946-06-02",
+      "end": "1947-08-31"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Alec Templeton Time"
+    }
+  ]
+}

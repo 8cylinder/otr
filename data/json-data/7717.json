@@ -1,0 +1,130 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1572",
+      "first": "Bob",
+      "last": "Dixon",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "1572",
+      "first": "Bob",
+      "last": "Dixon",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "15565",
+      "first": "Elliot",
+      "last": "Lawrence",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "24022",
+      "first": "The",
+      "last": "Honeydreamers",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1954-07-04",
+      "dow": "",
+      "time": "4:30 PM",
+      "end": "1954-09-26",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1955-06-12",
+      "dow": "",
+      "time": "4:00 PM",
+      "end": "1955-09-03",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Amoco Gasoline",
+      "begin": "1954-07-04",
+      "end": "1955-09-04"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Rhythm on the Road"
+    }
+  ]
+}

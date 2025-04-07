@@ -1,0 +1,109 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Arbogast Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "316415",
+      "date": "1951-11-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arbogast Show",
+          "name": "Arbogast_Show_110151.mp3",
+          "time": "1771",
+          "size": "14171593"
+        }
+      ]
+    },
+    {
+      "ide": "316416",
+      "date": "1951-11-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Zany disc jockey program"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arbogast Show",
+          "name": "Arbogast_Show_110251_Zany_disc_jockey_program.mp3",
+          "time": "1829",
+          "size": "14629401"
+        }
+      ]
+    },
+    {
+      "ide": "316417",
+      "date": "1951-11-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harvest Moon Vocal Semi Finals"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Arbogast Show",
+          "name": "Arbogast_Show_111251_Harvest_Moon_Vocal_Semi_Finals.mp3",
+          "time": "1696",
+          "size": "13567353"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Bob Arbogast"
+    }
+  ]
+}

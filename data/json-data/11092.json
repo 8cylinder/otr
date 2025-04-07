@@ -1,0 +1,113 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Salute To Britain/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311199",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Salute to Britain 39-xx-xx (02) Guest - Jean Hersholt"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Salute To Britain",
+          "name": "Salute to Britain 39-xx-xx (02) Guest - Jean Hersholt.mp3",
+          "time": "826",
+          "size": "6609396"
+        }
+      ]
+    },
+    {
+      "ide": "314815",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Eddie Cantor"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Salute To Britain",
+          "name": "Salute To Britain 39xxxx 01 Guest - Eddie Cantor_OTRRPG.mp3",
+          "time": "907",
+          "size": "14586562"
+        }
+      ]
+    },
+    {
+      "ide": "314816",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jean Hersholt"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Salute To Britain",
+          "name": "Salute To Britain 39xxxx 02 Guest - Jean Hersholt_OTRRPG.mp3",
+          "time": "824",
+          "size": "13262468"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Salute to Britain"
+    }
+  ]
+}

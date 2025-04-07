@@ -1,0 +1,147 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Adventures Of Charlie Lung/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "196",
+      "first": "Dave",
+      "last": "Bacal",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2194",
+      "first": "Hal",
+      "last": "Gibney",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3678",
+      "first": "Charlie",
+      "last": "Lung",
+      "f": "Noted Role",
+      "character": "Played all the roles"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "316317",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Midnight Rendezvous"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Charlie Lung",
+          "name": "Adventures Of Charlie Lung 48-05-29 Midnight Rendezvous.mp3",
+          "time": "1796",
+          "size": "7188316"
+        }
+      ]
+    },
+    {
+      "ide": "316315",
+      "date": "1948-02-28",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Leap For Life"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Charlie Lung",
+          "name": "Adventures Of Charlie Lung 48-02-28 (17) Leap For Life.mp3",
+          "time": "1703",
+          "size": "6815287"
+        }
+      ]
+    },
+    {
+      "ide": "316316",
+      "date": "1948-05-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Midnight Rendezvous"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Charlie Lung",
+          "name": "Adventures Of Charlie Lung 48-05-29 - Midnight Rendezvous.mp3",
+          "time": "1796",
+          "size": "7188316"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventures of Charlie Lung, The"
+    }
+  ]
+}

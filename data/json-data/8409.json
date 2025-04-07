@@ -1,0 +1,101 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "315105",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Body Found In A Plastic Bag Fred [Stern Murder Case]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Squad Room",
+          "name": "Squad Room 55xxxx xxx Body Found In A Plastic Bag Fred {Stern Murder Case}_OTRRPG.mp3",
+          "time": "1196",
+          "size": "19144561"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1953-01-10",
+      "dow": "Su",
+      "time": "6:30 PM",
+      "end": "1954-01-24",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1954-02-03",
+      "dow": "W",
+      "time": "8:00 PM",
+      "end": "1955-04-06",
+      "length": "45",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1956-01-08",
+      "dow": "Tu",
+      "time": "8:30 PM",
+      "end": "1956-07-17",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Squad Room"
+    }
+  ]
+}

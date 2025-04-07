@@ -1,0 +1,83 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,759795,00.html",
+      "label": "1938-05-30: Listeners' Shows",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logm1029.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5572",
+      "first": "Jeff",
+      "last": "Sparks",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "37290",
+      "first": "Quinn",
+      "last": "Ryan",
+      "f": "Noted Role",
+      "character": "Interviewer"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1938-10-30",
+      "dow": "M,W,F",
+      "time": "3:00 PM",
+      "end": "1940-09-02",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Marriage License (Bureau) (Romances)"
+    }
+  ]
+}

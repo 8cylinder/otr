@@ -1,0 +1,130 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "729",
+      "first": "Lou",
+      "last": "Bring",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3022",
+      "first": "Al",
+      "last": "Jolson",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3513",
+      "first": "Oscar",
+      "last": "Levant",
+      "f": "Noted Role",
+      "character": "Pianist and humorist"
+    },
+    {
+      "idperson": "4156",
+      "first": "Milena",
+      "last": "Miller",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "50356",
+      "first": "Ken",
+      "last": "Carpenter",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1947-10-02",
+      "dow": "Th",
+      "time": "9:00 AM",
+      "end": "1948-06-10",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1948-09-30",
+      "dow": "Th",
+      "time": "9:00 PM",
+      "end": "1949-05-26",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Al Jolson - Kraft Music Hall"
+    },
+    {
+      "title": "Kraft Music Hall with Al Jolson"
+    },
+    {
+      "title": "Al Jolson"
+    }
+  ]
+}

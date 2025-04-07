@@ -1,0 +1,207 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19301931eve.html",
+      "label": "Evening Ratings: (1930-1931: #15)",
+      "idtype": "8"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50353",
+      "first": "Raymond",
+      "last": "Knight",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "199",
+      "first": "Alwyn E. W.",
+      "last": "Bach",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "767",
+      "first": "George Frame",
+      "last": "Brown",
+      "f": "Noted Role",
+      "character": "Matt Thompkins"
+    },
+    {
+      "idperson": "767",
+      "first": "George Frame",
+      "last": "Brown",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "2287",
+      "first": "Elsie Mae",
+      "last": "Gordon",
+      "f": "Noted Role",
+      "character": "Mrs. Stevens"
+    },
+    {
+      "idperson": "5230",
+      "first": "Harry",
+      "last": "Salter",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "18747",
+      "first": "Virginia",
+      "last": "Farmer",
+      "f": "Noted Role",
+      "character": "Marthy Thompkins"
+    },
+    {
+      "idperson": "5324",
+      "first": "Laddie",
+      "last": "Seaman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50841",
+      "first": "Tommy",
+      "last": "Brown",
+      "f": "Noted Role",
+      "character": "Elmer Thompkins"
+    },
+    {
+      "idperson": "50842",
+      "first": "Phoebe",
+      "last": "Mackay",
+      "f": "Noted Role",
+      "character": "Mrs. Watts"
+    },
+    {
+      "idperson": "50843",
+      "first": "G. Underhill",
+      "last": "Macy",
+      "f": "Noted Role",
+      "character": "Fred Tibbetts"
+    },
+    {
+      "idperson": "50844",
+      "first": "Edwin",
+      "last": "Whitney",
+      "f": "Noted Role",
+      "character": "Judge Whipple"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1928-08-06",
+      "dow": "M",
+      "time": "9:30 PM",
+      "end": "1932-01-04",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1932-01-10",
+      "dow": "Su",
+      "time": "5:00 PM",
+      "end": "1932-04-03",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Chesebrough Manufacturing Company for Vaseline",
+      "begin": "1928-08-06",
+      "end": "1932-01-04"
+    },
+    {
+      "sponsor": "GeneraL Foods Corp. (Log Cabin Syrup)",
+      "begin": "1932-01-10",
+      "end": "1932-04-03"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Real Folks"
+    }
+  ]
+}

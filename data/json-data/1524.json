@@ -1,0 +1,147 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,855761,00.html",
+      "label": "1947-06-16: Her Nibs",
+      "idtype": "11"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Show was a summer replacement for Eddie Cantor."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "2193",
+      "first": "Georgia",
+      "last": "Gibbs",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "2193",
+      "first": "Georgia",
+      "last": "Gibbs",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5118",
+      "first": "David",
+      "last": "Rose",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312748",
+      "date": "1947-09-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - I Get A Kick Out of You"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Blue Ribbon Music Time",
+          "name": "Blue Ribbon Music Time 470911 1st Song - I Get A Kick Out of You (128-48)_OTRRPG.mp3",
+          "time": "1756",
+          "size": "28166925"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-06-26",
+      "dow": "Th",
+      "time": "10:30 PM",
+      "end": "1947-09-18",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Blue Ribbon Music Time"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "17603",
+      "first": "Artie 'Arty'",
+      "last": "Dunn",
+      "f": "Noted Role",
+      "character": "Co-Host"
+    },
+    {
+      "idperson": "50808",
+      "first": "Les",
+      "last": "Reis",
+      "f": "Noted Role",
+      "character": "Co-Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Here We Are"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Songs"
+    },
+    {
+      "genre": "Other"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1931-10-06",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1934-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Icyeast Corp.",
+      "begin": "1931-10-06",
+      "end": "1931-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Reis And Dunn"
+    }
+  ]
+}

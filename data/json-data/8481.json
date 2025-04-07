@@ -1,0 +1,1393 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrr.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Stella Dallas/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,760635,00.html",
+      "label": "1939-01-23: Hummerts' Mill",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,777046,00.html",
+      "label": "1946-08-05: For Listeners Only",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,850120,00.html",
+      "label": "1942-10-19: Double Life",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,852707,00.html",
+      "label": "1946-02-25: Who Buys the Air?",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,886759,00.html",
+      "label": "1945-12-31: Radio Lux Rides Again",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-56.html",
+      "label": "The Golden Age of Radio: Program 56 - November, 1974 - Virginia Graham",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-82.html",
+      "label": "The Golden Age of Radio: Program 82 - January, 1977 - Staats Cottsworth",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-87.html",
+      "label": "The Golden Age of Radio: Program 87 - Lowell Thomas, Jack Benny, Ann Elstner",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19381939day.html",
+      "label": "Daytime Ratings: (1938-1939: #8)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19391940day.html",
+      "label": "Daytime Ratings: (1939-1940: #3)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19401941day.html",
+      "label": "Daytime Ratings: (1940-1941: #12)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19411942day.html",
+      "label": "Daytime Ratings: (1941-1942)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19421943day.html",
+      "label": "Daytime Ratings: (1942-1943: #4)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19431944day.html",
+      "label": "Daytime Ratings: (1943-1944: #6)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19441945day.html",
+      "label": "Daytime Ratings: (1944-1945: #9)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19451946day.html",
+      "label": "Daytime Ratings: (1945-1946: #7)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19461947day.html",
+      "label": "Daytime Ratings: (1946-1947: #20)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19471948day.html",
+      "label": "Daytime Ratings: (1947-1948: #6)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19481949day.html",
+      "label": "Daytime Ratings: (1948-1949: #9)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19491950day.html",
+      "label": "Daytime Ratings: (1949-1950: #10)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19501951day.html",
+      "label": "Daytime Ratings: (1950-1951: #11)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19511952day.html",
+      "label": "Daytime Ratings: (1951-1952: #10)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19521953day.html",
+      "label": "Daytime Ratings: (1952-1953: #10)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19531954day.html",
+      "label": "Daytime Ratings: (1953-1954: #9)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19541955day.html",
+      "label": "Daytime Ratings: (1954-1955: #4)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8481-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "208",
+      "first": "James Gilmore",
+      "last": "Backus",
+      "f": "Noted Role",
+      "character": "Dick, Lolly's husband"
+    },
+    {
+      "idperson": "411",
+      "first": "Charita",
+      "last": "Bauer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "620",
+      "first": "Ford",
+      "last": "Bond",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "950",
+      "first": "Macdonald",
+      "last": "Carey",
+      "f": "Noted Role",
+      "character": "Dick Grosvenor"
+    },
+    {
+      "idperson": "1097",
+      "first": "Helen",
+      "last": "Claire",
+      "f": "Noted Role",
+      "character": "Ada Dexter"
+    },
+    {
+      "idperson": "1100",
+      "first": "Howard",
+      "last": "Claney",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1268",
+      "first": "Jack",
+      "last": "Costello",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1272",
+      "first": "Staats",
+      "last": "Cotsworth",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1360",
+      "first": "Joseph",
+      "last": "Curtin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1501",
+      "first": "Roger",
+      "last": "DeKoven",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1794",
+      "first": "Anne",
+      "last": "Elstner",
+      "f": "Noted Role",
+      "character": "Stella Davis"
+    },
+    {
+      "idperson": "1845",
+      "first": "Ethel",
+      "last": "Everett",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2123",
+      "first": "Frank",
+      "last": "Gallop",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2862",
+      "first": "Anne",
+      "last": "Hummert",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "2862",
+      "first": "Anne",
+      "last": "Hummert",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3322",
+      "first": "Roger",
+      "last": "Krupp",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3641",
+      "first": "Frank",
+      "last": "Lovejoy",
+      "f": "Noted Role",
+      "character": "Dick Grosvenor, Charles Martin"
+    },
+    {
+      "idperson": "4717",
+      "first": "Madeleine",
+      "last": "Pierce",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5537",
+      "first": "Vivian",
+      "last": "Smolen",
+      "f": "Noted Role",
+      "character": "Laurel Dallas Grosvenor"
+    },
+    {
+      "idperson": "5772",
+      "first": "Norman",
+      "last": "Sweetser",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "5955",
+      "first": "Frederic",
+      "last": "Tozere",
+      "f": "Noted Role",
+      "character": "Stephen Dallas"
+    },
+    {
+      "idperson": "5975",
+      "first": "Sybil",
+      "last": "Trent",
+      "f": "Noted Role",
+      "character": "Countess Marla Darnell"
+    },
+    {
+      "idperson": "6044",
+      "first": "Grace",
+      "last": "Valentine",
+      "f": "Noted Role",
+      "character": "Minnie Grady"
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6170",
+      "first": "Helen",
+      "last": "Walpole",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "12294",
+      "first": "Richard",
+      "last": "Leonard",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "39569",
+      "first": "Albert",
+      "last": "Aley",
+      "f": "Noted Role",
+      "character": "Bob James"
+    },
+    {
+      "idperson": "47391",
+      "first": "Barbara",
+      "last": "Barton",
+      "f": "Noted Role",
+      "character": "Nellie Ellis"
+    },
+    {
+      "idperson": "47287",
+      "first": "Julie",
+      "last": "Benell",
+      "f": "Noted Role",
+      "character": "Helen Dallas"
+    },
+    {
+      "idperson": "24170",
+      "first": "Jane",
+      "last": "Houston",
+      "f": "Noted Role",
+      "character": "Mrs. Grosvenor - Dick's mother"
+    },
+    {
+      "idperson": "493",
+      "first": "Spencer",
+      "last": "Bentley",
+      "f": "Noted Role",
+      "character": "Dick Grosvenor"
+    },
+    {
+      "idperson": "691",
+      "first": "Raymond 'Ray'",
+      "last": "Bramley",
+      "f": "Noted Role",
+      "character": "Lewis Johnson"
+    },
+    {
+      "idperson": "948",
+      "first": "Helen",
+      "last": "Carew",
+      "f": "Noted Role",
+      "character": "Vera Johnson"
+    },
+    {
+      "idperson": "2570",
+      "first": "Joy",
+      "last": "Hathaway",
+      "f": "Noted Role",
+      "character": "Laurel Dallas Grosvenor"
+    },
+    {
+      "idperson": "2703",
+      "first": "Mary Jane",
+      "last": "Higby",
+      "f": "Noted Role",
+      "character": "Beatrice Martin"
+    },
+    {
+      "idperson": "2733",
+      "first": "Elsie",
+      "last": "Hitz",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2849",
+      "first": "Arthur",
+      "last": "Hughes",
+      "f": "Noted Role",
+      "character": "Stephen Dallas"
+    },
+    {
+      "idperson": "2863",
+      "first": "Frank",
+      "last": "Hummert",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "2863",
+      "first": "Frank",
+      "last": "Hummert",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "2911",
+      "first": "Ethel",
+      "last": "Intropidi",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3013",
+      "first": "Raymond Edward",
+      "last": "Johnson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3243",
+      "first": "Walter",
+      "last": "Kinsella",
+      "f": "Noted Role",
+      "character": "Gus Grady"
+    },
+    {
+      "idperson": "3305",
+      "first": "Mandel",
+      "last": "Kramer",
+      "f": "Noted Role",
+      "character": "Sam Ellis"
+    },
+    {
+      "idperson": "3499",
+      "first": "Bernard",
+      "last": "Lenrow",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3766",
+      "first": "Arthur",
+      "last": "Maitland",
+      "f": "Noted Role",
+      "character": "Mr. Crane"
+    },
+    {
+      "idperson": "4016",
+      "first": "Paul",
+      "last": "McGrath",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4271",
+      "first": "Bret",
+      "last": "Morrison",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4283",
+      "first": "Arnold",
+      "last": "Moss",
+      "f": "Noted Role",
+      "character": "Ahmed"
+    },
+    {
+      "idperson": "4798",
+      "first": "Olive Higgins",
+      "last": "Prouty",
+      "f": "Noted Role",
+      "character": "Based on her novel."
+    },
+    {
+      "idperson": "4802",
+      "first": "Cameron",
+      "last": "Prud'homme",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5630",
+      "first": "Edgar",
+      "last": "Stehli",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5654",
+      "first": "Julie",
+      "last": "Stevens",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6006",
+      "first": "Tom",
+      "last": "Tully",
+      "f": "Noted Role",
+      "character": "Charles Martin"
+    },
+    {
+      "idperson": "6103",
+      "first": "Harold",
+      "last": "Vermilyea",
+      "f": "Noted Role",
+      "character": "Mr. Bruce"
+    },
+    {
+      "idperson": "6517",
+      "first": "Carleton G.",
+      "last": "Young",
+      "f": "Noted Role",
+      "character": "Dick Grosvenor"
+    },
+    {
+      "idperson": "12283",
+      "first": "George",
+      "last": "Lambert",
+      "f": "Noted Role",
+      "character": "Dick Grosvenor"
+    },
+    {
+      "idperson": "14569",
+      "first": "Bert",
+      "last": "Cowlan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48279",
+      "first": "Stanley",
+      "last": "Warner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50338",
+      "first": "Peter",
+      "last": "Kappel",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50339",
+      "first": "Dick",
+      "last": "Leibert",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "3187",
+      "first": "Elaine",
+      "last": "Kent",
+      "f": "Noted Role",
+      "character": "Madge Harte"
+    },
+    {
+      "idperson": "3712",
+      "first": "Alan",
+      "last": "MacAteer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3915",
+      "first": "Grace",
+      "last": "Matthews",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4131",
+      "first": "Mary",
+      "last": "Michael",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4826",
+      "first": "William 'Bill'",
+      "last": "Quinn",
+      "f": "Noted Role",
+      "character": "Jerry"
+    },
+    {
+      "idperson": "4974",
+      "first": "Doris",
+      "last": "Rich",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5048",
+      "first": "Bartlett 'Bart'",
+      "last": "Robinson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5164",
+      "first": "Selena",
+      "last": "Royle",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5283",
+      "first": "Stefan",
+      "last": "Schnabel",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5305",
+      "first": "Lorene",
+      "last": "Scott",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7192",
+      "first": "Nancy",
+      "last": "Sheridan",
+      "f": "Noted Role",
+      "character": "Madeline Carter"
+    },
+    {
+      "idperson": "7259",
+      "first": "Bill",
+      "last": "Smith",
+      "f": "Noted Role",
+      "character": "Philip Baxter"
+    },
+    {
+      "idperson": "7584",
+      "first": "Charles",
+      "last": "Powers",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "31292",
+      "first": "Beatrice",
+      "last": "Miller",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "31794",
+      "first": "Elizabeth",
+      "last": "Morgan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "34817",
+      "first": "Muriel",
+      "last": "Pollack",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "5663",
+      "first": "Margot",
+      "last": "Stevenson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6068",
+      "first": "Luis",
+      "last": "Van Rooten",
+      "f": "Noted Role",
+      "character": "Dr. Ramsey"
+    },
+    {
+      "idperson": "6113",
+      "first": "Arthur",
+      "last": "Vinton",
+      "f": "Noted Role",
+      "character": "Ed Munn"
+    },
+    {
+      "idperson": "40320",
+      "first": "Joan",
+      "last": "Vitez",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "875",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1984-10-01",
+      "source": "Illustrated Press/IP_096.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press - #96 Oct 84",
+      "author": ""
+    },
+    {
+      "idprint": "876",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1984-11-01",
+      "source": "Illustrated Press/IP_097.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press - #97 Nov 84",
+      "author": ""
+    },
+    {
+      "idprint": "599",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "1990-08-01",
+      "source": "Illustrated Press/IP_167.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #167 Aug 90",
+      "author": ""
+    },
+    {
+      "idprint": "753",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "1997-12-01",
+      "source": "Illustrated Press/IP_255.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#255) - Dec 1997",
+      "author": ""
+    },
+    {
+      "idprint": "1114",
+      "idtype": "4",
+      "page": "21",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_01.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #1",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "28",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1573",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "1988-05-01",
+      "source": "OTR Digest_1980s/OTRDigest_(027)MayJun88.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (27) May-Jun 1988",
+      "author": ""
+    },
+    {
+      "idprint": "2265",
+      "idtype": "4",
+      "page": "20",
+      "article": "Stella Dallas in Living Portraits",
+      "url": "",
+      "date": "1941-11-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 4111.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 4111",
+      "author": ""
+    },
+    {
+      "idprint": "2266",
+      "idtype": "4",
+      "page": "20",
+      "article": "Stella Dallas in Living Portraits",
+      "url": "",
+      "date": "1941-12-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 4112.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 4112",
+      "author": ""
+    },
+    {
+      "idprint": "2293",
+      "idtype": "4",
+      "page": "32",
+      "article": "Stella Dallas",
+      "url": "",
+      "date": "1950-03-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 5003.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 5003",
+      "author": ""
+    },
+    {
+      "idprint": "2332",
+      "idtype": "4",
+      "page": "24",
+      "article": "",
+      "url": "",
+      "date": "1953-06-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 5306.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 5306",
+      "author": ""
+    },
+    {
+      "idprint": "2352",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "1950-01-01",
+      "source": "Radios Best/Radio Best 5001 - incomplete.pdf",
+      "idpytype2": "4",
+      "title": "Radio Best 5001 - incomplete",
+      "author": ""
+    },
+    {
+      "idprint": "2170",
+      "idtype": "4",
+      "page": "34",
+      "article": "Presenting Stella Dallas",
+      "url": "",
+      "date": "1942-09-01",
+      "source": "Radio Mirror/Radio Mirror 4209.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4209",
+      "author": ""
+    },
+    {
+      "idprint": "2193",
+      "idtype": "4",
+      "page": "38",
+      "article": "",
+      "url": "",
+      "date": "1947-03-01",
+      "source": "Radio Mirror/Radio Mirror 4703.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4703",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2697",
+      "idtype": "4",
+      "page": "41",
+      "article": "",
+      "url": "",
+      "date": "1943-07-01",
+      "source": "Tune In/Tune In 4307.pdf",
+      "idpytype2": "4",
+      "title": "Tune In - Jul 1943",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Memories; The Old Refrain; How Can I Leave Thee"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "256949",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Charlie Is Worried"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256950",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Egyptian Mummy 1"
+        },
+        {
+          "title": "Jeff Goes to D.C."
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stella Dallas",
+          "name": "Stella Dallas xx-xx-xx (xx) Egyptian Mummy 1 aka Jeff Goes to D.C..mp3",
+          "time": "669",
+          "size": "2676678"
+        }
+      ]
+    },
+    {
+      "ide": "256951",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Egyptian Mummy 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stella Dallas",
+          "name": "Stella Dallas xx-xx-xx (xx) Egyptian Mummy 2.mp3",
+          "time": "662",
+          "size": "2647848"
+        }
+      ]
+    },
+    {
+      "ide": "256952",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Laurel is Being Kept Prisoner by Sheik Ahmed"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256953",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Wyman Is Keeping His Daughter Celia Prisoner"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stella Dallas",
+          "name": "Stella Dallas xx-xx-xx (xx) Paul Wyman Is Keeping His Daughter Celia Prisoner.mp3",
+          "time": "804",
+          "size": "3215825"
+        }
+      ]
+    },
+    {
+      "ide": "256954",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spy Gregory Has Been Captured and Removed from the Ship, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256955",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stella Discovers Sheik Ahmed Has a Strange Scar"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256956",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stella Has Returned to Colorado"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256957",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stella Has Returned to New York"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "256958",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stephen Dallas Returns"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stella Dallas",
+          "name": "Stella Dallas xx-xx-xx (xx) Stephen Dallas Returns.mp3",
+          "time": "878",
+          "size": "3511366"
+        }
+      ]
+    },
+    {
+      "ide": "134672",
+      "date": "1937-10-25",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "134673",
+      "date": "1938-06-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134674",
+      "date": "1938-06-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134680",
+      "date": "1941-12-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Net Pearl Harbor Coverage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "134681",
+      "date": "1942-01-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stella Is Visiting Nellie, Who Is Still in the Hospital"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "134682",
+      "date": "1942-01-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Laurel Visits Arthur Mason, the Banker, to Ask Him to Help Her"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "134683",
+      "date": "1944-06-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Cartwright Is a Rascal, but How Will Stella Prove It"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "134684",
+      "date": "1945-08-10",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stella and Phil Baxter Rig Up a Dictaphone"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stella Dallas",
+          "name": "Stella Dallas 1945-08-10 (0021) Dictaphone To Trap Neal and Harriet.mp3",
+          "time": "973",
+          "size": "7866995"
+        }
+      ]
+    },
+    {
+      "ide": "134685",
+      "date": "1949-02-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stella Has Left Mr Ford's Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "134686",
+      "date": "1949-04-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Wyman Comes to Visit Stella"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stella Dallas",
+          "name": "Stella Dallas 1949-04-25 Paul Wyman Pays Stella A Visit.mp3",
+          "time": "885",
+          "size": "7162145"
+        }
+      ]
+    },
+    {
+      "ide": "134687",
+      "date": "1955-12-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Evil Raymond Is Planning to Kill Stella"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stella Dallas",
+          "name": "Stella Dallas 1955-12-22 Raymond Is Planning To Kill Stella and Steven.mp3",
+          "time": "636",
+          "size": "7715063"
+        }
+      ]
+    },
+    {
+      "ide": "134688",
+      "date": "1955-12-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Last Show"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Serial"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-06-06",
+      "dow": "M,Tu,W,Th,F",
+      "time": "4:15 PM",
+      "end": "1955-12-23",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Phillips Milk of Magnesia, Bayer",
+      "begin": "1937-10-25",
+      "end": "1955-12-23"
+    },
+    {
+      "sponsor": "Diamond Blue-White",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Stella Dallas"
+    }
+  ]
+}

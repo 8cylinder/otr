@@ -1,0 +1,934 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "MERE"
+    }
+  ],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,764098,00.html",
+      "label": "1940-06-24: Summer Shows",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logm1018.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Meredith Wilson's Musical Revue/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Summer replacements for Fibber McGee"
+    },
+    {
+      "info": "6/6/46 - 8/29/46 Summer replacement of Burns and Allen."
+    },
+    {
+      "info": "6/1/52 - 9/28/52 Summer replacement for Phil Harris-Alice Faye"
+    },
+    {
+      "info": "8/25/49 - 9/29/49 Partial summer replacement of Aldrich Family."
+    },
+    {
+      "info": "In his book, Music Radio, Jim Cox refers to the 1951-1952 version of this program sponsored by RCA as Meredith Willson's Music Room."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "3811",
+      "first": "Josef",
+      "last": "Marais",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "6381",
+      "first": "Meredith",
+      "last": "Willson",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6543",
+      "first": "Norma",
+      "last": "Zimmer",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "48227",
+      "first": "Betty",
+      "last": "Allen",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "51216",
+      "first": "Paulena",
+      "last": "Carter",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5592",
+      "first": "Kay",
+      "last": "St. Germaine",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "6381",
+      "first": "Meredith",
+      "last": "Willson",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4377",
+      "first": "John",
+      "last": "Nesbitt",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "A Handful Of Stars"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "250803",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song -  All Of Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson's Musical Revue 40-xx-xx First Song - All Of Me.mp3",
+          "time": "1789",
+          "size": "7159828"
+        }
+      ]
+    },
+    {
+      "ide": "6405",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - My Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson's Musical Revue 40-xx-xx First Song - My Song.mp3",
+          "time": "1781",
+          "size": "7125170"
+        }
+      ]
+    },
+    {
+      "ide": "250802",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "314133",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song Pop Goes the Weasel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "314134",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song Pop Goes the Weasel"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson Show xxxxxx xx 1st; Pop Goes the Weasel (256-44).mp3",
+          "time": "891",
+          "size": "28610152"
+        },
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson Show xxxxxx xx 1st; Pop Goes the Weasel.flac",
+          "time": "891",
+          "size": "58729286"
+        }
+      ]
+    },
+    {
+      "ide": "314135",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Put On Your Old Grey Bonnet"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Wilson Show 47xxxx xxx (Rehearsal) 1st Song - Put On Your Old Grey Bonnet_OTRRPG.mp3",
+          "time": "1132",
+          "size": "18123216"
+        },
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson Show 50xxxx xxx (Rehearsal) 1st Song - Put On Your Old Grey Bonnet.mp3",
+          "time": "1129",
+          "size": "9034893"
+        }
+      ]
+    },
+    {
+      "ide": "329803",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Sousa's 'High School Cadets'. Falstaff Beer"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson Show 48xxxx xx 1st Sousa's 'High School Cadets'. Falstaff Beer.flac",
+          "time": "881",
+          "size": "145978423"
+        }
+      ]
+    },
+    {
+      "ide": "334067",
+      "date": "1940-01-01",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334068",
+      "date": "1940-01-01",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334069",
+      "date": "1940-01-01",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334070",
+      "date": "1940-01-01",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334071",
+      "date": "1940-01-01",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334072",
+      "date": "1940-01-01",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334073",
+      "date": "1940-01-01",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334074",
+      "date": "1940-01-01",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334075",
+      "date": "1940-01-01",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334076",
+      "date": "1940-01-01",
+      "epnum": "73",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334077",
+      "date": "1940-01-01",
+      "epnum": "74",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334078",
+      "date": "1940-01-01",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334079",
+      "date": "1940-01-01",
+      "epnum": "80",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334080",
+      "date": "1940-01-01",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104785",
+      "date": "1940-07-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104786",
+      "date": "1940-07-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104787",
+      "date": "1940-07-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104788",
+      "date": "1940-07-23",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song -  I Love You"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson's Musical Revue 40-07-23 (4) First Song -  I Love You.mp3",
+          "time": "1716",
+          "size": "8580730"
+        }
+      ]
+    },
+    {
+      "ide": "104789",
+      "date": "1940-07-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104790",
+      "date": "1940-08-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104791",
+      "date": "1940-08-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song -  Tell Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson's Musical Revue 40-08-13 First Song - Tell Me.mp3",
+          "time": "1801",
+          "size": "7205042"
+        }
+      ]
+    },
+    {
+      "ide": "104792",
+      "date": "1940-08-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song -  Me And My Shadow"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson's Musical Revue 40-08-20  First Song - Me And My Shadow.mp3",
+          "time": "1781",
+          "size": "7123122"
+        }
+      ]
+    },
+    {
+      "ide": "104793",
+      "date": "1940-08-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104794",
+      "date": "1940-09-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104795",
+      "date": "1940-09-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104796",
+      "date": "1940-09-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song -  If I Had You"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson's Musical Revue 49-09-17 First Song - If I Had You.mp3",
+          "time": "1788",
+          "size": "7151794"
+        }
+      ]
+    },
+    {
+      "ide": "104797",
+      "date": "1940-09-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You're My Everything"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Meredith Wilson's Musical Revue",
+          "name": "Meredith Willson's Musical Revue 40-09-24 First Song - You're My Everything.mp3",
+          "time": "1808",
+          "size": "7233714"
+        }
+      ]
+    },
+    {
+      "ide": "104798",
+      "date": "1942-06-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104799",
+      "date": "1942-07-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104800",
+      "date": "1942-07-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104801",
+      "date": "1942-07-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104802",
+      "date": "1942-07-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104803",
+      "date": "1942-08-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104804",
+      "date": "1942-08-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104805",
+      "date": "1942-08-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104806",
+      "date": "1942-08-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104807",
+      "date": "1942-09-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104808",
+      "date": "1942-09-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104809",
+      "date": "1942-09-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104810",
+      "date": "1942-09-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-07-02",
+      "dow": "Tu",
+      "time": "9:30 PM",
+      "end": "1940-09-24",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1942-06-30",
+      "dow": "Tu",
+      "time": "9:30 PM",
+      "end": "1942-09-22",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1935-04-21",
+      "dow": "M",
+      "time": "8:29 PM",
+      "end": "1935-07-06",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1936-06-15",
+      "dow": "Tu",
+      "time": "9:00 PM",
+      "end": "1937-08-04",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1946-10-04",
+      "dow": "F",
+      "time": "6:30 AM",
+      "end": "1946-03-27",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-06-18",
+      "dow": "W",
+      "time": "8:30 PM",
+      "end": "1947-09-24",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1948-10-05",
+      "dow": "W",
+      "time": "10:29 PM",
+      "end": "1949-03-30",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1946-06-06",
+      "dow": "Th",
+      "time": "8:30 PM",
+      "end": "1946-08-29",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1951-08-08",
+      "dow": "W",
+      "time": "10:30 PM",
+      "end": "1951-12-26",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1949-08-25",
+      "dow": "Th",
+      "time": "8:00 PM",
+      "end": "1949-09-29",
+      "length": "25",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1952-06-01",
+      "dow": "Su",
+      "time": "8:00 PM",
+      "end": "1951-09-28",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1951-08-08",
+      "dow": "W",
+      "time": "10:30 PM",
+      "end": "1952-05-28",
+      "length": "25",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1952-06-01",
+      "dow": "Su",
+      "time": "8:00 PM",
+      "end": "1952-09-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1953-01-03",
+      "dow": "Sa",
+      "time": "10:30 PM",
+      "end": "1953-06-13",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1952-04-15",
+      "dow": "M,Tu,W,Th,F",
+      "time": "2:15 PM",
+      "end": "1952-11-28",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1953-12-16",
+      "dow": "M,Tu,W,Th,F",
+      "time": "9:44 AM",
+      "end": "1954-02-12",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "General Foods Corp. (Maxwell House Coffee)",
+      "begin": "1946-05-06",
+      "end": "1946-08-29"
+    },
+    {
+      "sponsor": "Canada Dry Ginger Ale",
+      "begin": "1946-10-04",
+      "end": "1947-02-28"
+    },
+    {
+      "sponsor": "Ford Motor Company",
+      "begin": "1947-06-17",
+      "end": "1947-09-24"
+    },
+    {
+      "sponsor": "General Foods",
+      "begin": "1948-10-08",
+      "end": "1949-09-29"
+    },
+    {
+      "sponsor": "RCA",
+      "begin": "1950-08-08",
+      "end": "1952-09-28"
+    },
+    {
+      "sponsor": "Multi",
+      "begin": "1952-04-15",
+      "end": "1952-11-28"
+    },
+    {
+      "sponsor": "Florida Citrus Commission",
+      "begin": "1953-12-16",
+      "end": "1954-02-12"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Meredith Willson"
+    },
+    {
+      "title": "Every Day"
+    },
+    {
+      "title": "Meredith Willson's Music Room"
+    },
+    {
+      "title": "Meredith Willson's Musical Revue"
+    },
+    {
+      "title": "Meredith Wilson - John Nesbitt Show, The"
+    },
+    {
+      "title": "The Passing Parade"
+    }
+  ]
+}

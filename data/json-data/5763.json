@@ -1,0 +1,146 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [
+    {
+      "info": "The dates listed are from the OTTER file."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "4377",
+      "first": "John",
+      "last": "Nesbitt",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6237",
+      "first": "Jack",
+      "last": "Webb",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1114",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_01.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #1",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313996",
+      "date": "1945-05-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Little Man Inside, The",
+          "name": "Little Man Inside, The 450521_OTRRPG.mp3",
+          "time": "912",
+          "size": "14676396"
+        }
+      ]
+    },
+    {
+      "ide": "157921",
+      "date": "1945-09-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Little Man Inside, The",
+          "name": "Little Man Inside, The 450921_OTRRPG.mp3",
+          "time": "873",
+          "size": "14047977"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1945-09-05",
+      "dow": "W,F",
+      "time": "",
+      "end": "1945-12-18",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Little Man Inside, The"
+    },
+    {
+      "title": "The Little Man Inside"
+    }
+  ]
+}

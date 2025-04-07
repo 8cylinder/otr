@@ -1,0 +1,93 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19551956eve.html",
+      "label": "Evening Ratings: (1955-1956: #16)",
+      "idtype": "8"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1263",
+      "first": "Bill",
+      "last": "Corum",
+      "f": "Noted Role",
+      "character": "Sportscaster"
+    },
+    {
+      "idperson": "1710",
+      "first": "Don",
+      "last": "Dunphy",
+      "f": "Noted Role",
+      "character": "Sportscaster"
+    },
+    {
+      "idperson": "1773",
+      "first": "Win",
+      "last": "Elliot",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1947-00-00",
+      "dow": "F",
+      "time": "10:00 PM",
+      "end": "1954-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1955-00-00",
+      "dow": "F",
+      "time": "10:00 PM",
+      "end": "1957-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Gillette Cavalcade of Sports"
+    }
+  ]
+}

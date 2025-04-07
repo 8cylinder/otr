@@ -1,0 +1,533 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "ESRH"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322183649-3e7e9a3a.jpg",
+      "label": "Earthsearch",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/es_.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/E Series/Earth Search/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1557",
+      "idtype": "4",
+      "page": "42",
+      "article": "",
+      "url": "",
+      "date": "1985-09-01",
+      "source": "OTR Digest_1980s/OTRDigest_(011)SepOct85.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (11) Sep-Oct 1985",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "251618",
+      "date": "0000-00-00",
+      "epnum": "NOTE",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "[Begin of prequel series - Earthsearch Mindwarp]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "158625",
+      "date": "1981-01-06",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Planet Fall"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search (BBC) 81-01-06 (01) Planetfall.mp3",
+          "time": "1631",
+          "size": "8155698"
+        }
+      ]
+    },
+    {
+      "ide": "322621",
+      "date": "1981-01-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Part 02 First Footprint City"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "322622",
+      "date": "1981-01-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Part 03 Sands Of Kyros"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "158628",
+      "date": "1981-01-27",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Solaric Empire, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search (BBC) 81-01-27 (04) The Solaric Empire.mp3",
+          "time": "1727",
+          "size": "8637018"
+        }
+      ]
+    },
+    {
+      "ide": "158629",
+      "date": "1981-02-03",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pools of Time, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search (BBC) 81-02-03 (05) The Pools of Time.mp3",
+          "time": "1712",
+          "size": "8563758"
+        }
+      ]
+    },
+    {
+      "ide": "158630",
+      "date": "1981-02-10",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Across the Abyss"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search (BBC) 81-02-10 (06) Across the Abyss.mp3",
+          "time": "1641",
+          "size": "8205558"
+        }
+      ]
+    },
+    {
+      "ide": "158631",
+      "date": "1981-02-17",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Blood"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search (BBC) 81-02-17 (07) New Blood.mp3",
+          "time": "1622",
+          "size": "8114118"
+        }
+      ]
+    },
+    {
+      "ide": "158632",
+      "date": "1981-02-24",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marooned"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search (BBC) 81-02-24 (08) Marooned.mp3",
+          "time": "1688",
+          "size": "8444058"
+        }
+      ]
+    },
+    {
+      "ide": "158633",
+      "date": "1981-03-03",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Star Cluster"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search (BBC) 81-03-03 (09) Star Cluster Tersus.mp3",
+          "time": "1796",
+          "size": "8980638"
+        }
+      ]
+    },
+    {
+      "ide": "158634",
+      "date": "1981-03-10",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Earthfall"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search (BBC) 81-03-10 (10) Earthfall.mp3",
+          "time": "1755",
+          "size": "8778678"
+        }
+      ]
+    },
+    {
+      "ide": "55233",
+      "date": "1982-01-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Begin of sequel series - Earthsearch II]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "158635",
+      "date": "1982-04-25",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Return"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search II (BBC) 82-04-25 (01) Return.mp3",
+          "time": "1615",
+          "size": "8077758"
+        }
+      ]
+    },
+    {
+      "ide": "158636",
+      "date": "1982-05-02",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flood"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search II (BBC) 82-05-02 (02) Flood.mp3",
+          "time": "1680",
+          "size": "8404638"
+        }
+      ]
+    },
+    {
+      "ide": "158637",
+      "date": "1982-05-09",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Surrender"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search II (BBC) 82-05-09 (03) Surrender.mp3",
+          "time": "1686",
+          "size": "8433978"
+        }
+      ]
+    },
+    {
+      "ide": "158638",
+      "date": "1982-05-16",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Solaria"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search II (BBC) 82-05-16 (04) Solaria.mp3",
+          "time": "1693",
+          "size": "8468178"
+        }
+      ]
+    },
+    {
+      "ide": "158639",
+      "date": "1982-05-23",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sun Death"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search II (BBC) 82-05-23 (05) Sundeath.mp3",
+          "time": "1683",
+          "size": "8415258"
+        }
+      ]
+    },
+    {
+      "ide": "158640",
+      "date": "1982-05-30",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Supermass"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search II (BBC) 82-05-30 (06) Supermass.mp3",
+          "time": "1641",
+          "size": "8207538"
+        }
+      ]
+    },
+    {
+      "ide": "158641",
+      "date": "1982-06-06",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death Ship"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search II (BBC) 82-06-06 (07) Deathship.mp3",
+          "time": "1722",
+          "size": "8610558"
+        }
+      ]
+    },
+    {
+      "ide": "158642",
+      "date": "1982-06-13",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Megalomania"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search II (BBC) 82-06-13 (08) Megalomania.mp3",
+          "time": "1661",
+          "size": "8307618"
+        }
+      ]
+    },
+    {
+      "ide": "158643",
+      "date": "1982-06-20",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Earth"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search II (BBC) 82-06-20 (09) Earth.mp3",
+          "time": "1671",
+          "size": "8355318"
+        }
+      ]
+    },
+    {
+      "ide": "158644",
+      "date": "1982-06-27",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Earth Voice"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search II (BBC) 82-06-27 (10) Earthvoice.mp3",
+          "time": "1696",
+          "size": "8480598"
+        }
+      ]
+    },
+    {
+      "ide": "251617",
+      "date": "2006-04-01",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "158626",
+      "date": "2006-04-08",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search (BBC) 81-01-13 (02) First Footprint City.mp3",
+          "time": "1682",
+          "size": "8409858"
+        }
+      ]
+    },
+    {
+      "ide": "158627",
+      "date": "2006-04-12",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Earth Search",
+          "name": "Earth Search (BBC) 81-01-20 (03) Sands of Kyros.mp3",
+          "time": "1705",
+          "size": "8528118"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Earth Search - BBC"
+    }
+  ]
+}

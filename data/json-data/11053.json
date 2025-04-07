@@ -1,0 +1,98 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/O Series/Opportunity USA/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "319174",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Al Jolson, Bing Crosby"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Opportunity USA",
+          "name": "Opportunity USA 49-05-16 Guest - Al Jolson, Bing Crosby.mp3",
+          "time": "3589",
+          "size": "28710869"
+        }
+      ]
+    },
+    {
+      "ide": "314382",
+      "date": "1949-05-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Savings Bonds Drive"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Opportunity USA",
+          "name": "Opportunity USA 490516 xxx Savings Bonds Drive_OTRRPG.mp3",
+          "time": "3598",
+          "size": "57645973"
+        },
+        {
+          "path": "O",
+          "folder": "Opportunity USA",
+          "name": "Opportunity USA 490516 xxx Savings Bonds Drive (2)_OTRRPG.mp3",
+          "time": "3578",
+          "size": "57333513"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1946-09-08",
+      "dow": "Su",
+      "time": "1:15 PM",
+      "end": "1946-10-13",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Opportunity USA"
+    }
+  ]
+}

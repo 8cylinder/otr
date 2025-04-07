@@ -1,0 +1,95 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "473",
+      "first": "Gordon 'Tex'",
+      "last": "Beneke",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "34",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Moonlight Serenade"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "324328",
+      "date": "1947-09-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Bagatelle"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tex Benneke And The Glenn Miller Orchestra",
+          "name": "Tex Benneke And The Glenn Miller Orchestra 1947.09.05 First Tune Bagatelle.mp3",
+          "time": "1415",
+          "size": "5767274"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Songs"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-03-13",
+      "dow": "Sa",
+      "time": "1:30 PM",
+      "end": "1948-09-11",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Tex Beneke - On The Beam"
+    }
+  ]
+}

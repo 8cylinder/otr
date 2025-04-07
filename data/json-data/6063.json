@@ -1,0 +1,94 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "18233",
+      "first": "Mary",
+      "last": "Ellis",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Food"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1933-09-11",
+      "dow": "M,W,F",
+      "time": "11:00 AM",
+      "end": "1934-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1934-00-00",
+      "dow": "W",
+      "time": "",
+      "end": "1935-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1935-00-00",
+      "dow": "Tu,Th",
+      "time": "",
+      "end": "1936-02-14",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Pillsbury",
+      "begin": "1933-09-11",
+      "end": "1936-02-14"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Mary Ellis Ames"
+    },
+    {
+      "title": "Cooking Close-Ups"
+    }
+  ]
+}

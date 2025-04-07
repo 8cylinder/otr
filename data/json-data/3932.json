@@ -1,0 +1,147 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logf1050.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3125",
+      "first": "Larry",
+      "last": "Keating",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5002",
+      "first": "George",
+      "last": "Riley",
+      "f": "Noted Role",
+      "character": "comedian"
+    },
+    {
+      "idperson": "5533",
+      "first": "Verne",
+      "last": "Smith",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6159",
+      "first": "Beryl",
+      "last": "Wallace",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "7549",
+      "first": "Spike Jones and the City Slickers",
+      "last": "",
+      "f": "Noted Role",
+      "character": "Comedy music"
+    },
+    {
+      "idperson": "9286",
+      "first": "Bradford",
+      "last": "Browne",
+      "f": "Producer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "246275",
+      "date": "1942-11-09",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Furlough Fun"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Furlough Fun",
+          "name": "Furlough Fun 1942.11.09 Furlough Fun.mp3",
+          "time": "1575",
+          "size": "6408782"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Furlough Fun"
+    }
+  ]
+}

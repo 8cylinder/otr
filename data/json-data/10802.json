@@ -1,0 +1,95 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mesa Memories/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "8646",
+      "first": "Ted",
+      "last": "Arthur",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "10200",
+      "first": "Helen",
+      "last": "Baer",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314136",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yarns Around The Campfire"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mesa Memories",
+          "name": "Mesa Memories 3xxxxx 01 Yarns Around The Campfire_OTRRPG.mp3",
+          "time": "903",
+          "size": "14571396"
+        },
+        {
+          "path": "M",
+          "folder": "Mesa Memories",
+          "name": "Mesa Memories 3x-xx-xx (1) Austin Tecumseh Marlborough.mp3",
+          "time": "914",
+          "size": "7314164"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mesa Memories"
+    }
+  ]
+}

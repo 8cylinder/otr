@@ -1,0 +1,146 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "18735",
+      "first": "Ed",
+      "last": "Farley",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "46768",
+      "first": "Larry",
+      "last": "Fonatine",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "268235",
+      "date": "1947-09-13",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sensation Rag"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "268236",
+      "date": "1947-09-20",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Sunny Side of the Street"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "268237",
+      "date": "1947-11-11",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Billy Maxted and His Orchestra, the Four Vagabonds (vocals)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "268238",
+      "date": "1949-11-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ida"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bands For Bonds",
+          "name": "Bands For Bonds 49-11-19.mp3",
+          "time": "893",
+          "size": "14281048"
+        }
+      ]
+    },
+    {
+      "ide": "268239",
+      "date": "1951-12-14",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "That Strawberry Roan"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-09-13",
+      "dow": "",
+      "time": "",
+      "end": "1951-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "AFRS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Bands For Bonds"
+    },
+    {
+      "title": "Larry Fontaine"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/G Series/Gloria Swanson Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "308526",
+      "date": "0000-00-00",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Arthur Blake (part 1 only)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glloria Swanson Show",
+          "name": "Gloria Swanson Show 51xxxx 049 Guest - Arthur Blake (part 1 only) (256-44)_OTRRPG.mp3",
+          "time": "761",
+          "size": "24367388"
+        },
+        {
+          "path": "G",
+          "folder": "Glloria Swanson Show",
+          "name": "Gloria Swanson Show xx-xx-xx (049) Guest - Arthur Blake (part 1 only).mp3",
+          "time": "758",
+          "size": "6060425"
+        }
+      ]
+    },
+    {
+      "ide": "308527",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Leatrice Joy (part 1 only)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glloria Swanson Show",
+          "name": "Gloria Swanson Show 51xxxx 050 Guest - Leatrice Joy (part 1 only) (256-44)_OTRRPG.mp3",
+          "time": "796",
+          "size": "25467457"
+        },
+        {
+          "path": "G",
+          "folder": "Glloria Swanson Show",
+          "name": "Gloria Swanson Show xx-xx-xx (050) Guest - Leatrice Joy (part 1 only).mp3",
+          "time": "792",
+          "size": "6333945"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1951-05-13",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1951-11-30",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Gloria Swanson Show"
+    }
+  ]
+}

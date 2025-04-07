@@ -1,0 +1,95 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "22899",
+      "first": "Joe",
+      "last": "Hassel",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324592",
+      "date": "1948-11-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Conspiracy Suit Vs Tom Kelly"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Joe Hassel Sports Roundup",
+          "name": "Joe Hassel Sports Roundup 1948.11.15 Conspiracy Suit Vs Tom Kelly.mp3",
+          "time": "859",
+          "size": "3541816"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sports"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1953-10-26",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:15 PM",
+      "end": "1954-12-31",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1947-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "6:00 PM",
+      "end": "1951-03-16",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Joe Hassel"
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "WOYO"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,766182,00.html",
+      "label": "1941-09-29: For Native Sons",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9675-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Knowledege And The Great Door"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "127037",
+      "date": "1936-12-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Freer Gallery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127038",
+      "date": "1937-06-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Communications"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127036",
+      "date": "1937-12-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Drugs & Medicine"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 371219 Drugs & Medicine_OTRRPG.mp3",
+          "time": "1718",
+          "size": "27562521"
+        },
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "The World Is Yours 37-12-19 (xxx) Drugs & Medicine.mp3",
+          "time": "1720",
+          "size": "13759759"
+        }
+      ]
+    },
+    {
+      "ide": "127035",
+      "date": "1937-12-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas in the Colonies"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 371226 Christmas In The Colonies_OTRRPG.mp3",
+          "time": "1747",
+          "size": "28029390"
+        },
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "The World Is Yours 37-12-26 (xxx) Christmas in the Colonies.mp3",
+          "time": "1749",
+          "size": "13993420"
+        }
+      ]
+    },
+    {
+      "ide": "127034",
+      "date": "1938-01-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "True DeSoto, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 380102 xxx The True Desoto_OTRRPG.mp3",
+          "time": "1688",
+          "size": "27086464"
+        },
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "The World Is Yours 38-01-02 (xxx) The True DeSoto.mp3",
+          "time": "1690",
+          "size": "13521731"
+        }
+      ]
+    },
+    {
+      "ide": "127039",
+      "date": "1938-01-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Masters Behind The Mellon Masterpieces"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 380109 xxx Masters Behind The Mellon Masterpieces_OTRRPG.mp3",
+          "time": "1659",
+          "size": "26624224"
+        },
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "The World Is Yours 38-01-09 (xxx) Masters Behind The Mellon Masterpieces.mp3",
+          "time": "1661",
+          "size": "13290831"
+        }
+      ]
+    },
+    {
+      "ide": "127033",
+      "date": "1938-01-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Land Vs Weather"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "The World Is Yours 38-01-16 (xxx) Land Vs Weather.mp3",
+          "time": "1686",
+          "size": "13492682"
+        }
+      ]
+    },
+    {
+      "ide": "127032",
+      "date": "1938-01-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Saga of the Sewing Machine, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 380123 xxx The Saga of The Sewing Machine_OTRRPG.mp3",
+          "time": "1701",
+          "size": "27289189"
+        },
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "The World Is Yours 38-01-23 (xxx) The Saga of the Sewing Machine.mp3",
+          "time": "1703",
+          "size": "13623309"
+        }
+      ]
+    },
+    {
+      "ide": "127031",
+      "date": "1938-01-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Whales - The Largest Mammals"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 380130 xxx Whales - The Largest Mammals_OTRRPG.mp3",
+          "time": "1551",
+          "size": "24897625"
+        }
+      ]
+    },
+    {
+      "ide": "127040",
+      "date": "1938-02-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Four Elements Of Mechanics, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 380206 xxx The Four Elements of Mechanics_OTRRPG.mp3",
+          "time": "1795",
+          "size": "28802620"
+        }
+      ]
+    },
+    {
+      "ide": "127030",
+      "date": "1938-02-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snakes, Big & Little"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 380213 xxx Snakes, Big & Little_OTRRPG.mp3",
+          "time": "1641",
+          "size": "26328709"
+        },
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "The World Is Yours 38-02-13 (xxx) Snakes, Big & Little.mp3",
+          "time": "1643",
+          "size": "13143064"
+        }
+      ]
+    },
+    {
+      "ide": "127029",
+      "date": "1938-02-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lincoln Legend, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 380220 xxx The Lincoln Legend_OTRRPG.mp3",
+          "time": "1658",
+          "size": "26605814"
+        },
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "The World Is Yours 38-02-20 (xxx) The Lincoln Legend.mp3",
+          "time": "1660",
+          "size": "13281407"
+        }
+      ]
+    },
+    {
+      "ide": "248004",
+      "date": "1938-02-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Electricity"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 380227 xxx Electricity_OTRRPG.mp3",
+          "time": "1616",
+          "size": "25933311"
+        },
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "The World Is Yours 38-02-27 (xxx) Electricity.mp3",
+          "time": "1618",
+          "size": "12945359"
+        }
+      ]
+    },
+    {
+      "ide": "248005",
+      "date": "1938-03-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Against Insects"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "World Is Yours, The 380306 xxx Man Against Insects_OTRRPG.mp3",
+          "time": "1697",
+          "size": "27237769"
+        },
+        {
+          "path": "W",
+          "folder": "World is Yours",
+          "name": "The World Is Yours 38-03-06 (xxx) Man Against Insects.mp3",
+          "time": "1700",
+          "size": "13597385"
+        }
+      ]
+    },
+    {
+      "ide": "127041",
+      "date": "1938-03-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rockets and Planets"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127042",
+      "date": "1938-04-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Introducing The Universe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127043",
+      "date": "1938-07-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "127044",
+      "date": "1938-07-31",
+      "epnum": "112",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Potter's Art"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127045",
+      "date": "1938-10-23",
+      "epnum": "124",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Great Engineering Feats: Boulder Dam"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127046",
+      "date": "1938-12-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Petroleum, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127047",
+      "date": "1939-02-26",
+      "epnum": "142",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cave and Cliff Dwellers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127048",
+      "date": "1939-04-09",
+      "epnum": "148",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of First Ladies' Fashions, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127049",
+      "date": "1939-05-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Salt, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127050",
+      "date": "1939-07-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of French Soldiers In The American Revolution, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127051",
+      "date": "1939-07-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Birds In The Service Of Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127052",
+      "date": "1939-07-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Fossils, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127053",
+      "date": "1939-09-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of First Lady's Fashions, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127054",
+      "date": "1939-10-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of King Salmon, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127055",
+      "date": "1939-10-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of The Indians Who Met Columbus, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127056",
+      "date": "1939-10-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Marvels Of Sound, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127057",
+      "date": "1939-10-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Earthquakes, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127058",
+      "date": "1939-10-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Concrete, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127059",
+      "date": "1939-11-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Germanna Ford: Crossroads Of History"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127060",
+      "date": "1939-11-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of The Great Apes, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127061",
+      "date": "1939-11-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Flying In Safety"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127062",
+      "date": "1939-11-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Our Debt To The Indians"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127063",
+      "date": "1939-12-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Exploring The Amazon For Plants"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127064",
+      "date": "1939-12-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Historic Gems"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127065",
+      "date": "1939-12-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cortez The Conquerer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127066",
+      "date": "1939-12-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Printing, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127067",
+      "date": "1940-01-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "March Of Science, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127068",
+      "date": "1940-01-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Railroads Today, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127069",
+      "date": "1940-01-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Harnessing Electromagnetism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127070",
+      "date": "1940-01-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Volcanoes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127071",
+      "date": "1940-02-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "American Bison, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127072",
+      "date": "1940-02-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Hard Money, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127073",
+      "date": "1940-02-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Evolution Of The Typewriter, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127074",
+      "date": "1940-02-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Pompeii Lives Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127075",
+      "date": "1940-03-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Radium, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127076",
+      "date": "1940-03-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Conquest Of Noise, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127077",
+      "date": "1940-03-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Our Changing Wildlife"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127078",
+      "date": "1940-03-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Pharmacy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127079",
+      "date": "1940-03-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Opening Of The Far West"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127080",
+      "date": "1940-04-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "American Inventions"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127081",
+      "date": "1940-04-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Science In The Field"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127082",
+      "date": "1940-04-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Dinosaurs, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127083",
+      "date": "1940-04-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Corn, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127084",
+      "date": "1940-05-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Old Timer, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127085",
+      "date": "1940-05-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Freer Gallery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127086",
+      "date": "1940-05-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Voyages Of Charles Wilkes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "127087",
+      "date": "1940-05-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Of Airships, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Information"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1936-06-14",
+      "dow": "Sa",
+      "time": "5:00 PM",
+      "end": "1942-05-03",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1936-06-07",
+      "dow": "",
+      "time": "",
+      "end": "1942-05-10",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1936-06-07",
+      "end": "1942-05-10"
+    },
+    {
+      "sponsor": "Sustained",
+      "begin": "1936-06-14",
+      "end": "1942-05-03"
+    }
+  ],
+  "titles": [
+    {
+      "title": "World Is Yours, The"
+    }
+  ]
+}

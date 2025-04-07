@@ -1,0 +1,94 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Story Time/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19551956day.html",
+      "label": "Daytime Ratings: (1955-1956: #19)",
+      "idtype": "7"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "315245",
+      "date": "1945-04-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Captain Comes Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Time",
+          "name": "Story Time 450411 xxx The Captain Comes Home_OTRRPG.mp3",
+          "time": "388",
+          "size": "6224983"
+        },
+        {
+          "path": "S",
+          "folder": "Story Time",
+          "name": "Story Time 45-04-11 The Captain Comes Home.mp3",
+          "time": "387",
+          "size": "3099460"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Children"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1929-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1930-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Book House",
+      "begin": "1929-00-00",
+      "end": "1930-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Story Time"
+    }
+  ]
+}

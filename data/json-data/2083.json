@@ -1,0 +1,158 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173647-5f603985.jpg",
+      "label": "CBC Mystery Theater",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173739-1687c8d4.jpg",
+      "label": "CBC Mystery Theater",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.thrillingdetective.com/cbc.html",
+      "label": "Thrilling Detective",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/cbcmys_gl.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "322146",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Tell-Tale Heart"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery Theater - CBC",
+          "name": "CBC Mystery Theatre 1966.11.xx The Tell-Tale Heart.mp3",
+          "time": "1551",
+          "size": "6312244"
+        }
+      ]
+    },
+    {
+      "ide": "322147",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Adventures Of The Noble Bachelor"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery Theater - CBC",
+          "name": "CBC Mystery Theatre 1966.12.xx The Adventures Of The Noble Bachelor.mp3",
+          "time": "1742",
+          "size": "7075472"
+        }
+      ]
+    },
+    {
+      "ide": "322148",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Perfectly Happy Life"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery Theater - CBC",
+          "name": "CBC Mystery Theatre 1967.xx.xx A Perfectly Happy Life.mp3",
+          "time": "1782",
+          "size": "7235836"
+        }
+      ]
+    },
+    {
+      "ide": "322149",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Cable Car Incident"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery Theater - CBC",
+          "name": "CBC Mystery Theatre 1967.xx.xx The Cable Car Incident.mp3",
+          "time": "1599",
+          "size": "6505034"
+        }
+      ]
+    },
+    {
+      "ide": "322150",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Kitchen Table"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery Theater - CBC",
+          "name": "CBC Mystery Theatre 1967.xx.xx The Kitchen Table.mp3",
+          "time": "1571",
+          "size": "6391026"
+        }
+      ]
+    },
+    {
+      "ide": "330393",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Cable Car Experiment"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "CBC Mystery Project, The"
+    }
+  ]
+}

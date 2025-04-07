@@ -1,0 +1,725 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/E Series/Everything's For The Boys/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Everything-For-The-Boys.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Everything-For-The-Boys.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loge1004.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2008",
+      "first": "Helen",
+      "last": "Forrest",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "2609",
+      "first": "Dick",
+      "last": "Haymes",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "2977",
+      "first": "Gordon",
+      "last": "Jenkins",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3859",
+      "first": "Frank",
+      "last": "Martin",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4109",
+      "first": "Milton",
+      "last": "Merlin",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "4483",
+      "first": "Arch",
+      "last": "Oboler",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "4483",
+      "first": "Arch",
+      "last": "Oboler",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "4483",
+      "first": "Arch",
+      "last": "Oboler",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "46233",
+      "first": "Barbara",
+      "last": "Smitten",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "2952",
+      "first": "Harry",
+      "last": "James",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3435",
+      "first": "Jerry",
+      "last": "Lawrence",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3959",
+      "first": "Mercedes",
+      "last": "McCambridge",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4962",
+      "first": "Betty Jane",
+      "last": "Rhodes",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5085",
+      "first": "Ginger",
+      "last": "Rogers",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "603",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1990-12-01",
+      "source": "Illustrated Press/IP_171.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #171 Dec 90",
+      "author": ""
+    },
+    {
+      "idprint": "1539",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "1984-09-01",
+      "source": "On_The_Air/OnTheAir_V1_05SepDec84.pdf",
+      "idpytype2": "4",
+      "title": "ON THE AIR - Vol 1 #5 Sept-Dec 85",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "2726",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "1943-06-01",
+      "source": "Tune In Yesterday/TIY_41.pdf",
+      "idpytype2": "4",
+      "title": "TIY 41",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "56698",
+      "date": "1944-01-18",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Petrified Forest"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-01-18 (01) Petrified Forest.mp3",
+          "time": "1801",
+          "size": "5401936"
+        }
+      ]
+    },
+    {
+      "ide": "56699",
+      "date": "1944-01-25",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Knuckles"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56700",
+      "date": "1944-02-01",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lost Horizon"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-02-01 (03) Lost Horizon.mp3",
+          "time": "1792",
+          "size": "7168207"
+        }
+      ]
+    },
+    {
+      "ide": "56701",
+      "date": "1944-02-08",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Berkeley Square"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-02-08 (04) Berkeley Square.mp3",
+          "time": "1756",
+          "size": "7025268"
+        }
+      ]
+    },
+    {
+      "ide": "56702",
+      "date": "1944-02-15",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man to Remember, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-02-15 (05) A Man to Remember.mp3",
+          "time": "1793",
+          "size": "7171347"
+        }
+      ]
+    },
+    {
+      "ide": "56703",
+      "date": "1944-02-22",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Woman Stayed at Home, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-02-22 (06) The Woman Stayed at Home.mp3",
+          "time": "1792",
+          "size": "7167174"
+        }
+      ]
+    },
+    {
+      "ide": "56704",
+      "date": "1944-02-29",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rogue Male"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56705",
+      "date": "1944-03-07",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Of Human Bondage"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-03-07 (08) Of Human Bondage.mp3",
+          "time": "1763",
+          "size": "7051182"
+        }
+      ]
+    },
+    {
+      "ide": "56706",
+      "date": "1944-03-14",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ghost Goes West, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-03-14 (09) The Ghost Goes West.mp3",
+          "time": "1787",
+          "size": "7150033"
+        }
+      ]
+    },
+    {
+      "ide": "56707",
+      "date": "1944-03-21",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Girl on the Road, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-03-21 (10) A Girl on the Road.mp3",
+          "time": "1773",
+          "size": "7092981"
+        }
+      ]
+    },
+    {
+      "ide": "56708",
+      "date": "1944-03-28",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ostrich in Bed, An"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-03-28 (11) An Ostrich in Bed.mp3",
+          "time": "1687",
+          "size": "6747328"
+        }
+      ]
+    },
+    {
+      "ide": "56709",
+      "date": "1944-04-04",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This Living Book"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-04-04 (12) This Living Book.mp3",
+          "time": "1845",
+          "size": "7380326"
+        }
+      ]
+    },
+    {
+      "ide": "56710",
+      "date": "1944-04-11",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Citadel, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-04-11 (13) The Citadel.mp3",
+          "time": "1848",
+          "size": "7392233"
+        }
+      ]
+    },
+    {
+      "ide": "56711",
+      "date": "1944-04-18",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jarvis Bay Goes Down, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-04-18 (14) The Jarvis Bay Goes Down.mp3",
+          "time": "1841",
+          "size": "7365706"
+        }
+      ]
+    },
+    {
+      "ide": "56712",
+      "date": "1944-04-25",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death Takes a Holiday"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-04-25 (15) Death Takes a Holiday.mp3",
+          "time": "1844",
+          "size": "7374689"
+        }
+      ]
+    },
+    {
+      "ide": "56713",
+      "date": "1944-05-02",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Holy Matrimony"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-05-02 (16) Holy Matrimony.mp3",
+          "time": "1781",
+          "size": "7122861"
+        }
+      ]
+    },
+    {
+      "ide": "56714",
+      "date": "1944-05-09",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This Above All"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-05-09 (17) This Above All.mp3",
+          "time": "1824",
+          "size": "7294434"
+        }
+      ]
+    },
+    {
+      "ide": "56715",
+      "date": "1944-05-16",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blithe Spirit"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-05-16 (18) Blithe Spirit.mp3",
+          "time": "1719",
+          "size": "6875847"
+        }
+      ]
+    },
+    {
+      "ide": "56716",
+      "date": "1944-05-23",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quality Street"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everything's For The Boys",
+          "name": "EFTB 44-05-23 (19) Quality Street.mp3",
+          "time": "1875",
+          "size": "7500070"
+        }
+      ]
+    },
+    {
+      "ide": "56717",
+      "date": "1944-05-30",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House I Live In, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56718",
+      "date": "1944-06-13",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reunion in Vienna"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-06-20",
+      "dow": "Tu",
+      "time": "7:30 PM",
+      "end": "1945-06-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1944-01-18",
+      "dow": "Tu",
+      "time": "7:30 PM",
+      "end": "1944-06-13",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Everything for the Boys"
+    },
+    {
+      "title": "Command Theatre of Air"
+    },
+    {
+      "title": "Everything For The Boys"
+    }
+  ]
+}

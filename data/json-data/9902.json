@@ -1,0 +1,81 @@
+{
+  "avail": [
+    {
+      "avail": "1",
+      "idprint": "-1",
+      "web": "",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "497",
+      "first": "Gertrude",
+      "last": "Berg",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "497",
+      "first": "Gertrude",
+      "last": "Berg",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "68065",
+      "date": "1939-06-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mary Washes Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fifth Wheel",
+          "name": "FifthWheel 39-06-12 (xxxx) Mary Washes Baby.MP3",
+          "time": "834",
+          "size": "6671158"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Fifth Wheel, The"
+    }
+  ]
+}

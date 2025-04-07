@@ -1,0 +1,528 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "WHSP"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324102447-178f8251.jpg",
+      "label": "Whisperer, The CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324102456-5c4d287b.jpg",
+      "label": "Whisperer, The CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324102506-26b80dea.jpg",
+      "label": "Whisperer, The CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9527-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Whisperer.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/whs.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logw1006.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/W Series/Whisperer, The/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "7636",
+      "first": "Betty",
+      "last": "Moran",
+      "f": "Noted Role",
+      "character": "Ellen Norris"
+    },
+    {
+      "idperson": "6517",
+      "first": "Carleton G.",
+      "last": "Young",
+      "f": "Noted Role",
+      "character": "Philip Gault"
+    },
+    {
+      "idperson": "17505",
+      "first": "John",
+      "last": "Duffy",
+      "f": "Noted Role",
+      "character": "Organist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "125362",
+      "date": "1951-07-01",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "[PREMIERE w Carleton Young - @ 5pm on NBC]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "125363",
+      "date": "1951-07-08",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tea Time for Teenagers"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-07-08 (02) Tea Time for Teenagers.mp3",
+          "time": "1532",
+          "size": "6131722"
+        }
+      ]
+    },
+    {
+      "ide": "125364",
+      "date": "1951-07-15",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Attempted Murder"
+        },
+        {
+          "title": "The Syndicate"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-07-15 (03) Attempted Murder.mp3",
+          "time": "1468",
+          "size": "5873802"
+        }
+      ]
+    },
+    {
+      "ide": "125365",
+      "date": "1951-07-22",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hippity Hoppity"
+        },
+        {
+          "title": "Death of Two Men in Jail"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-07-22 (04) Hippity Hoppity.mp3",
+          "time": "1482",
+          "size": "5931146"
+        }
+      ]
+    },
+    {
+      "ide": "125366",
+      "date": "1951-07-29",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Policeman in Danger"
+        },
+        {
+          "title": "Murdering Lieutenant Denvers"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-07-29 (05) Policeman in Danger.mp3",
+          "time": "1484",
+          "size": "5937290"
+        }
+      ]
+    },
+    {
+      "ide": "125367",
+      "date": "1951-08-05",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Ye Sow"
+        },
+        {
+          "title": "Anthony Powers"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-08-05 (06) What Ye Sow.mp3",
+          "time": "1739",
+          "size": "6955146"
+        }
+      ]
+    },
+    {
+      "ide": "125368",
+      "date": "1951-08-12",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fight Game, The"
+        },
+        {
+          "title": "Kid Noonan"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-08-12 (07) The Fight Game.mp3",
+          "time": "1724",
+          "size": "6895754"
+        }
+      ]
+    },
+    {
+      "ide": "125369",
+      "date": "1951-08-19",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Into Each Life"
+        },
+        {
+          "title": "Nightclub Owner"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-08-19 (08) Into Each Life.mp3",
+          "time": "1750",
+          "size": "7000202"
+        }
+      ]
+    },
+    {
+      "ide": "125370",
+      "date": "1951-08-26",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Taken for a Ride"
+        },
+        {
+          "title": "Ace Trucking Company"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-08-26 (09) Taken for a Ride.mp3",
+          "time": "1778",
+          "size": "7110794"
+        }
+      ]
+    },
+    {
+      "ide": "125371",
+      "date": "1951-09-02",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stanley Hayes Must Die by Midnight the Following Day"
+        },
+        {
+          "title": "Stanley Hayes"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-09-02 (10) Stanley Hayes Must Die by Midnight the Following Day.mp3",
+          "time": "1753",
+          "size": "7014538"
+        }
+      ]
+    },
+    {
+      "ide": "125372",
+      "date": "1951-09-09",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Woman on Ice"
+        },
+        {
+          "title": "Now"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-09-09 (11) Woman on Ice.mp3",
+          "time": "1753",
+          "size": "7012490"
+        }
+      ]
+    },
+    {
+      "ide": "125373",
+      "date": "1951-09-16",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Never the Twain"
+        },
+        {
+          "title": "Patricia Folsom"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-09-16 (12) Never the Twain.mp3",
+          "time": "1774",
+          "size": "7096458"
+        }
+      ]
+    },
+    {
+      "ide": "125374",
+      "date": "1951-09-23",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Police Lieutenant, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-09-23 (13) The Police Lieutenant.mp3",
+          "time": "1802",
+          "size": "7211146"
+        }
+      ]
+    },
+    {
+      "ide": "125375",
+      "date": "1951-09-30",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strange Bed Fellows"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whisperer, The",
+          "name": "The Whisperer 51-09-30 (14) Strange Bed Fellows.mp3",
+          "time": "1717",
+          "size": "6871178"
+        }
+      ]
+    },
+    {
+      "ide": "125376",
+      "date": "1951-10-07",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "125377",
+      "date": "1951-10-14",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "125378",
+      "date": "1951-10-21",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "125379",
+      "date": "1951-10-28",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "125380",
+      "date": "1951-11-04",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "125381",
+      "date": "1951-11-11",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "125382",
+      "date": "1951-11-18",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "125383",
+      "date": "1951-11-25",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "125384",
+      "date": "1951-12-02",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "125385",
+      "date": "1951-12-09",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "125386",
+      "date": "1951-12-16",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1951-07-08",
+      "dow": "Su",
+      "time": "5:00 PM",
+      "end": "1951-12-16",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Whisperer, The"
+    }
+  ]
+}

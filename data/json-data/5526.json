@@ -1,0 +1,222 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1804",
+      "first": "Holland",
+      "last": "Engle",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "7319",
+      "first": "Don",
+      "last": "Gordon",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4231",
+      "first": "Tom",
+      "last": "Moore",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "19411",
+      "first": "Herbert",
+      "last": "Foote",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "20132",
+      "first": "Porter",
+      "last": "Heaps",
+      "f": "Noted Role",
+      "character": "Organist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Audience Participation"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-01-23",
+      "dow": "M,W,Th,F",
+      "time": "2:00 PM",
+      "end": "1950-02-17",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1950-02-20",
+      "dow": "M,W,Th,F",
+      "time": "2:15 PM",
+      "end": "1950-05-05",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1950-05-08",
+      "dow": "M,W,F",
+      "time": "2:15 PM",
+      "end": "1950-09-29",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1951-07-23",
+      "dow": "M,W,Th,F",
+      "time": "3:30 PM",
+      "end": "1951-09-21",
+      "length": "0",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1951-10-01",
+      "dow": "M,W,Th,F",
+      "time": "11:00 AM",
+      "end": "1952-06-27",
+      "length": "25",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1952-09-29",
+      "dow": "M,W,Th,F",
+      "time": "11:00 AM",
+      "end": "1953-07-03",
+      "length": "25",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1953-09-07",
+      "dow": "M,W,Th,F",
+      "time": "11:00 AM",
+      "end": "1954-01-01",
+      "length": "25",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1953-07-06",
+      "dow": "M,W,Th,F",
+      "time": "2:00 PM",
+      "end": "1953-09-04",
+      "length": "25",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1949-01-23",
+      "end": "1950-02-17"
+    },
+    {
+      "sponsor": "Miles Laboratories",
+      "begin": "1950-02-20",
+      "end": "1950-09-29"
+    },
+    {
+      "sponsor": "Sterling Drug Company",
+      "begin": "1951-10-01",
+      "end": "1954-01-01"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Ladies' Fair"
+    }
+  ]
+}

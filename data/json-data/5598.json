@@ -1,0 +1,436 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "LEAR"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/L Series/Lear Radio Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logl1014.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6267",
+      "first": "Orson",
+      "last": "Welles",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "90803",
+      "date": "1945-09-15",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Party For The Doctor, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "90802",
+      "date": "1945-09-23",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sheriff Matt Blake"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lear Radio Show",
+          "name": "Lear Radio Show - 1945-09-23 (02) -  1st Topic - Prophecy.mp3",
+          "time": "853",
+          "size": "13646976"
+        }
+      ]
+    },
+    {
+      "ide": "90801",
+      "date": "1945-09-30",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "One Of Us"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "89692",
+      "date": "1945-10-07",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89691",
+      "date": "1945-10-14",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "1st Topic - Birthdays"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "89690",
+      "date": "1945-10-21",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89689",
+      "date": "1945-10-28",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89688",
+      "date": "1945-11-04",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89687",
+      "date": "1945-11-11",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89686",
+      "date": "1945-11-18",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "1st Topic - Lobbyists"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "89685",
+      "date": "1945-11-25",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89684",
+      "date": "1945-12-02",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89683",
+      "date": "1945-12-09",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doris Miller Tribute (Exerpt)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lady Esther Serenade",
+          "name": "Lady Esther Playhouse 451209 xxx Doris Miller Tribute (2)_OTRRPG.mp3",
+          "time": "217",
+          "size": "3558292"
+        },
+        {
+          "path": "L",
+          "folder": "Lear Radio Show",
+          "name": "Lear Radio Show - 1945-12-09 (xx) -  Doris Miller Tribute (excerpt).mp3",
+          "time": "222",
+          "size": "1775071"
+        }
+      ]
+    },
+    {
+      "ide": "89682",
+      "date": "1945-12-16",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89681",
+      "date": "1945-12-23",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89680",
+      "date": "1945-12-30",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89679",
+      "date": "1946-01-06",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89678",
+      "date": "1946-01-13",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89677",
+      "date": "1946-01-20",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "89676",
+      "date": "1946-01-27",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "309635",
+      "date": "1946-06-23",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Topic - End Of OPA"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lear Radio Show",
+          "name": "Lear Radio Show - 1946-06-23 (41) -  1st Topic - End Of OPA.mp3",
+          "time": "841",
+          "size": "6729060"
+        }
+      ]
+    },
+    {
+      "ide": "309636",
+      "date": "1946-06-30",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Topic - OPA Set To End "
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lear Radio Show",
+          "name": "Lear Radio Show - 1946-06-30 (42) -  1st Topic - OPA Set To End .mp3",
+          "time": "875",
+          "size": "6996554"
+        }
+      ]
+    },
+    {
+      "ide": "309637",
+      "date": "1946-07-21",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Topic - OPA One Year Extension"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lear Radio Show",
+          "name": "Lear Radio Show - 1946-07-21 (45) -  1st Topic - OPA One Year Extension.mp3",
+          "time": "869",
+          "size": "6952669"
+        }
+      ]
+    },
+    {
+      "ide": "309638",
+      "date": "1946-07-28",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Topic - Black Veteran Blinded By Police "
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lear Radio Show",
+          "name": "Lear Radio Show - 1946-07-28 (46) -  1st Topic - Black Veteran Blinded By Police .mp3",
+          "time": "857",
+          "size": "6856407"
+        }
+      ]
+    },
+    {
+      "ide": "309639",
+      "date": "1946-08-04",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Topic - Clement Attlee"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lear Radio Show",
+          "name": "Lear Radio Show - 1946-08-04 (47) -  1st Topic - Clement Attlee.mp3",
+          "time": "864",
+          "size": "6909828"
+        }
+      ]
+    },
+    {
+      "ide": "309640",
+      "date": "1946-08-11",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Topic - Race Relations"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lear Radio Show",
+          "name": "Lear Radio Show - 1946-08-11 (48) -  1st Topic - Race Relations.mp3",
+          "time": "855",
+          "size": "6839611"
+        }
+      ]
+    },
+    {
+      "ide": "309641",
+      "date": "1946-08-18",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Topic - Batesburg Not Aiken"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lear Radio Show",
+          "name": "Lear Radio Show - 1946-08-18 (49) -  1st Topic - Batesburg Not Aiken.mp3",
+          "time": "852",
+          "size": "6819758"
+        }
+      ]
+    },
+    {
+      "ide": "309642",
+      "date": "1946-08-25",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Topic - Welles Movie Banned"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lear Radio Show",
+          "name": "Lear Radio Show - 1946-08-25 (50) -  1st Topic - Welles Movie Banned.mp3",
+          "time": "864",
+          "size": "6913380"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "Lear Radios",
+      "begin": "1945-09-16",
+      "end": "1946-10-13"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Lear Radio Show"
+    }
+  ]
+}

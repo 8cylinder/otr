@@ -1,0 +1,232 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "THAM"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logt1019.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4483",
+      "first": "Arch",
+      "last": "Oboler",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "142921",
+      "date": "1942-06-22",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Caravan of American Folk Music"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "142922",
+      "date": "1942-06-29",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "142923",
+      "date": "1942-07-06",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All Western Jamboree"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "142924",
+      "date": "1942-07-13",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Miniver"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "142925",
+      "date": "1942-07-20",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "World Without End"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "142926",
+      "date": "1942-07-27",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "142927",
+      "date": "1942-08-03",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dark World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "142928",
+      "date": "1942-08-10",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "142929",
+      "date": "1942-08-17",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arch Oboler Interlude, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "142930",
+      "date": "1942-08-24",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Son of the Navy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "142931",
+      "date": "1942-08-31",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pied Piper, The"
+        },
+        {
+          "title": "Labor's Victory Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "142932",
+      "date": "1942-09-07",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paternity Ward"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "142933",
+      "date": "1942-09-14",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Up Pops the Devil"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Episodic Drama"
+    },
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-07-03",
+      "dow": "",
+      "time": "",
+      "end": "1940-08-28",
+      "length": "30",
+      "country": "USA",
+      "network": "Syndicated"
+    },
+    {
+      "begin": "1942-06-22",
+      "dow": "W",
+      "time": "8:00 PM",
+      "end": "1942-09-14",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "California Federation Of Labor",
+      "begin": "1942-06-22",
+      "end": "1942-09-14"
+    }
+  ],
+  "titles": [
+    {
+      "title": "This Is Our America"
+    }
+  ]
+}

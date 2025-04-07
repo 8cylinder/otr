@@ -1,0 +1,152 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3686",
+      "first": "Abe",
+      "last": "Lyman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1096",
+      "first": "Bernice",
+      "last": "Claire",
+      "f": "Noted Role",
+      "character": "vocals"
+    },
+    {
+      "idperson": "5336",
+      "first": "Vivienne",
+      "last": "Segal",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "47000",
+      "first": "Oliver",
+      "last": "Smith",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2283",
+      "idtype": "4",
+      "page": "58",
+      "article": "The Judy Canova Show???ÃÂº??in color",
+      "url": "",
+      "date": "1949-05-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 4905.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 4905",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "La Golondrina'"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1935-07-07",
+      "dow": "Su",
+      "time": "5:00 PM",
+      "end": "1936-06-17",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1934-08-20",
+      "dow": "Tu",
+      "time": "8:30 PM",
+      "end": "1935-07-15",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1936-05-26",
+      "dow": "M",
+      "time": "7:30 PM",
+      "end": "1936-12-28",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Phillips",
+      "begin": "1934-08-20",
+      "end": "1936-12-28"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Melodiana"
+    }
+  ]
+}

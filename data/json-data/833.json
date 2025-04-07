@@ -1,0 +1,205 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Andy Russell Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5185",
+      "first": "Andy",
+      "last": "Russell",
+      "f": "Noted Role",
+      "character": "Orchestra Leader"
+    },
+    {
+      "idperson": "4615",
+      "first": "Les",
+      "last": "Paul",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "33742",
+      "first": "The",
+      "last": "Les Paul Trio",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3469",
+      "first": "Peggy",
+      "last": "Lee",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "189",
+      "first": "Mitchell",
+      "last": "Ayres",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "729",
+      "first": "Lou",
+      "last": "Bring",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1779",
+      "first": "Anita",
+      "last": "Ellis",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "2437",
+      "first": "Connie",
+      "last": "Haines",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "5945",
+      "first": "Mel",
+      "last": "Torme",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "34642",
+      "first": "The",
+      "last": "Pied Pipers",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "5945",
+      "first": "Mel",
+      "last": "Torme",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Magic Is The Moonlight"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "330240",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Johnny Mercer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "246653",
+      "date": "1939-10-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Manhattan Mother"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Andy Russell Show",
+          "name": "Andy Russell Show 47-02-27 Manhattan Mother.mp3",
+          "time": "1673",
+          "size": "6698049"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-01-27",
+      "dow": "Sa",
+      "time": "10:00 PM",
+      "end": "1945-06-09",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Andy Russell Show, The"
+    }
+  ]
+}

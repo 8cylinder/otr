@@ -1,0 +1,80 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Alice Cornell/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312385",
+      "date": "1944-06-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Blue Moon"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Alice Cornell",
+          "name": "Alice Cornell Show 440607 1st Song - Blue Moon_OTRRPG.mp3",
+          "time": "856",
+          "size": "13703296"
+        },
+        {
+          "path": "A",
+          "folder": "Alice Cornell",
+          "name": "Alice Cornell 44-06-07 First Song - Blue Moon.mp3",
+          "time": "856",
+          "size": "6855827"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Alice Cornell"
+    }
+  ]
+}

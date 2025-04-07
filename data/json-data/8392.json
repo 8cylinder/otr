@@ -1,0 +1,147 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8392-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "The second run was syndicated."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "4381",
+      "first": "David 'Dave'",
+      "last": "Newell",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4968",
+      "first": "Grantland",
+      "last": "Rice",
+      "f": "Noted Role",
+      "character": "Sports Commentator"
+    },
+    {
+      "idperson": "4968",
+      "first": "Grantland",
+      "last": "Rice",
+      "f": "Noted Role",
+      "character": "Host - First run"
+    },
+    {
+      "idperson": "14788",
+      "first": "George",
+      "last": "Crook",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "4381",
+      "first": "David 'Dave'",
+      "last": "Newell",
+      "f": "Noted Role",
+      "character": "Host - Second run"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "315091",
+      "date": "1943-12-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Lady Was A Flop"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sportsmen's Club",
+          "name": "Sportsmen's Club 431211 xxx The Lady Was A Flop_OTRRPG.mp3",
+          "time": "1796",
+          "size": "28812204"
+        }
+      ]
+    },
+    {
+      "ide": "315092",
+      "date": "1943-12-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This Football"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sportsmen's Club",
+          "name": "Sportsmen's Club 431218 xxx This Football_OTRRPG.mp3",
+          "time": "1793",
+          "size": "28774163"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sports"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-01-00",
+      "dow": "Sa",
+      "time": "",
+      "end": "1944-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Sportsmen's Club, The"
+    }
+  ]
+}

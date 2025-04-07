@@ -1,0 +1,596 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/U-V Series/Up For Parole/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Up-For-Parole.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logu1002.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9255-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3813",
+      "first": "Harry",
+      "last": "Marble",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "5230",
+      "first": "Harry",
+      "last": "Salter",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "147543",
+      "date": "1950-03-10",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "John Newton"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Up For Parole",
+          "name": "Up For Parole 50-03-10 (01) John Newton.mp3",
+          "time": "1789",
+          "size": "7154995"
+        }
+      ]
+    },
+    {
+      "ide": "147544",
+      "date": "1950-03-17",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Botwin"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Up For Parole",
+          "name": "Up For Parole 50-03-17 (02) Paul Botwin.mp3",
+          "time": "1784",
+          "size": "14274465"
+        }
+      ]
+    },
+    {
+      "ide": "147545",
+      "date": "1950-03-24",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147546",
+      "date": "1950-03-31",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eddie Loughlin"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Up For Parole",
+          "name": "Up For Parole 50-03-31 (04) Eddie Larson.mp3",
+          "time": "1780",
+          "size": "14243746"
+        }
+      ]
+    },
+    {
+      "ide": "147547",
+      "date": "1950-04-07",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147548",
+      "date": "1950-04-14",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147549",
+      "date": "1950-04-21",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harold Edgerton II"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Up For Parole",
+          "name": "Up For Parole 50-04-21 (07) Harold Edgerton I I.mp3",
+          "time": "1776",
+          "size": "14212197"
+        }
+      ]
+    },
+    {
+      "ide": "147550",
+      "date": "1950-04-28",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Harry Marble"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147551",
+      "date": "1950-05-05",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tyler Graham"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Up For Parole",
+          "name": "Up For Parole 50-05-05 (09) Tyler Graham.mp3",
+          "time": "1776",
+          "size": "14205084"
+        }
+      ]
+    },
+    {
+      "ide": "147552",
+      "date": "1950-05-12",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clarence Hogan"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Up For Parole",
+          "name": "Up For Parole 50-05-12 (10) Clarence Hogan.mp3",
+          "time": "1796",
+          "size": "14371853"
+        }
+      ]
+    },
+    {
+      "ide": "147553",
+      "date": "1950-05-19",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thomas Hostey"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Up For Parole",
+          "name": "Up For Parole 50-05-19 (11) Thomas Hostey.mp3",
+          "time": "1779",
+          "size": "14233717"
+        }
+      ]
+    },
+    {
+      "ide": "147554",
+      "date": "1950-05-26",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Love-crazed robber pleads for second chance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147555",
+      "date": "1950-06-02",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Margo Owens"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Up For Parole",
+          "name": "Up For Parole 50-06-02 (13) Margo Owens.mp3",
+          "time": "1782",
+          "size": "14257538"
+        }
+      ]
+    },
+    {
+      "ide": "147556",
+      "date": "1950-06-09",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147557",
+      "date": "1950-06-16",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147558",
+      "date": "1950-06-23",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147559",
+      "date": "1950-06-30",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147560",
+      "date": "1950-07-07",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147561",
+      "date": "1950-07-14",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147562",
+      "date": "1950-07-21",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147563",
+      "date": "1950-07-28",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ernest Moss"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147564",
+      "date": "1950-08-04",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147565",
+      "date": "1950-08-11",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147566",
+      "date": "1950-08-18",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147567",
+      "date": "1950-08-25",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147568",
+      "date": "1950-09-01",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clinton Foster"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Up For Parole",
+          "name": "Up For Parole 50-09-01 (26) Clinton Foster.mp3",
+          "time": "1786",
+          "size": "14292023"
+        }
+      ]
+    },
+    {
+      "ide": "147569",
+      "date": "1950-09-08",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Wanda Stewart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147570",
+      "date": "1950-09-15",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lawrence Trowbridge"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147571",
+      "date": "1950-09-22",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Margie Braun"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147572",
+      "date": "1950-09-29",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147573",
+      "date": "1950-10-06",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fern Russell"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Up For Parole",
+          "name": "Up For Parole 50-10-06 (31) Fern Russell.mp3",
+          "time": "1773",
+          "size": "14183142"
+        }
+      ]
+    },
+    {
+      "ide": "147574",
+      "date": "1950-10-13",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147575",
+      "date": "1950-10-20",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147576",
+      "date": "1950-10-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[PRE_EMPTED political]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147577",
+      "date": "1950-11-03",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147578",
+      "date": "1950-11-10",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "147579",
+      "date": "1950-11-17",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Claire Compton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147580",
+      "date": "1950-11-24",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Matthew Morris"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147581",
+      "date": "1950-12-01",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Henry Merritt"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147582",
+      "date": "1950-12-08",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Last Episode"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-03-10",
+      "dow": "F",
+      "time": "8:00 AM",
+      "end": "1950-12-08",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Up for Parole"
+    }
+  ]
+}

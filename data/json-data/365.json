@@ -1,0 +1,236 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3248",
+      "first": "Gene",
+      "last": "Kirby",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "45328",
+      "first": "Adele",
+      "last": "Clark",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "As You Desire Me"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "321232",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A B C Radio Broadcast"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adele Clark Sings",
+          "name": "Adele Clark Sings 194x.xx.xx A B C Radio Broadcast.mp3",
+          "time": "560",
+          "size": "2347008"
+        }
+      ]
+    },
+    {
+      "ide": "321233",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "But None Like You"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adele Clark Sings",
+          "name": "Adele Clark Sings 194x.xx.xx But None Like You.mp3",
+          "time": "194",
+          "size": "884736"
+        }
+      ]
+    },
+    {
+      "ide": "321234",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Heavens Sake"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adele Clark Sings",
+          "name": "Adele Clark Sings 194x.xx.xx For Heavens Sake.mp3",
+          "time": "163",
+          "size": "759808"
+        }
+      ]
+    },
+    {
+      "ide": "321235",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hes Funny That Way"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adele Clark Sings",
+          "name": "Adele Clark Sings 194x.xx.xx Hes Funny That Way.mp3",
+          "time": "220",
+          "size": "989184"
+        }
+      ]
+    },
+    {
+      "ide": "321236",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Radio Broadcast - Again"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adele Clark Sings",
+          "name": "Adele Clark Sings 194x.xx.xx Radio Broadcast - Again.mp3",
+          "time": "314",
+          "size": "1366016"
+        }
+      ]
+    },
+    {
+      "ide": "321237",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Someone Said"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adele Clark Sings",
+          "name": "Adele Clark Sings 194x.xx.xx Someone Said.mp3",
+          "time": "173",
+          "size": "802816"
+        }
+      ]
+    },
+    {
+      "ide": "321238",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When Your Lover Has Gone"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adele Clark Sings",
+          "name": "Adele Clark Sings 194x.xx.xx When Your Lover Has Gone.mp3",
+          "time": "215",
+          "size": "968704"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adele Clark"
+    }
+  ]
+}

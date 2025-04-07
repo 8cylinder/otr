@@ -1,0 +1,832 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19541955day.html",
+      "label": "Daytime Ratings: (1954-1955: #16)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6335-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5216",
+      "first": "Bob",
+      "last": "Sabin",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6199",
+      "first": "Gertrude",
+      "last": "Warner",
+      "f": "Noted Role",
+      "character": "Helen Gregory, Host"
+    },
+    {
+      "idperson": "40841",
+      "first": "Margaret",
+      "last": "Sangster",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3138",
+      "first": "Jackie",
+      "last": "Kelk",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3267",
+      "first": "Adelaide",
+      "last": "Klein",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4005",
+      "first": "Eloise",
+      "last": "McElhone",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4427",
+      "first": "Kathleen",
+      "last": "Norris",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "7492",
+      "first": "Joseph 'Joe'",
+      "last": "Graham",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "29594",
+      "first": "Ira",
+      "last": "Marion",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "29743",
+      "first": "William",
+      "last": "Marshall",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "47944",
+      "first": "Don",
+      "last": "Witty",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "48284",
+      "first": "George D.",
+      "last": "Henniger",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "48352",
+      "first": "Lillian",
+      "last": "Shoen",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "398",
+      "first": "Andre",
+      "last": "Baruch",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "830",
+      "first": "Alan",
+      "last": "Bunce",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "922",
+      "first": "Ralph",
+      "last": "Camargo",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "939",
+      "first": "Charles 'Charlie'",
+      "last": "Cantor",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2140",
+      "first": "Don",
+      "last": "Gardiner",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3628",
+      "first": "Athena",
+      "last": "Lorde",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3645",
+      "first": "Don",
+      "last": "Lowe",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3805",
+      "first": "Charlotte",
+      "last": "Manson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4403",
+      "first": "Claire",
+      "last": "Niesen",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4680",
+      "first": "George O.",
+      "last": "Petrie",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5598",
+      "first": "Hanley",
+      "last": "Stafford",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6538",
+      "first": "Lawson",
+      "last": "Zerbe",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6922",
+      "first": "Patsy",
+      "last": "Campbell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7069",
+      "first": "Vinton",
+      "last": "Hayworth",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7448",
+      "first": "Edwin",
+      "last": "Bruce",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "35963",
+      "first": "Ethel",
+      "last": "Remey",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "43643",
+      "first": "Lyle",
+      "last": "Sudrow",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "12297",
+      "first": "Bill",
+      "last": "Lipton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50585",
+      "first": "Scott",
+      "last": "Thompson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5774",
+      "first": "Karl",
+      "last": "Swenson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5975",
+      "first": "Sybil",
+      "last": "Trent",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Modern Romances,' 'Love is the Sweetist Thing'"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "6193",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Goodbye Darling"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Modern Romances",
+          "name": "Modern Romances 1944.xx.xx Goodbye Darling.mp3",
+          "time": "669",
+          "size": "2783500"
+        }
+      ]
+    },
+    {
+      "ide": "251954",
+      "date": "0000-00-00",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strangest Triangle, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251952",
+      "date": "0000-00-00",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Only Half a Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6187",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Make Me Beautiful"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6186",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Isn't a Game"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6185",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Girl Who Made Me Over, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6184",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Gave Away My Son"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6183",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ruled by Our Own Desires"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6182",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "If Only I Knew"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6181",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Can a Girl Believe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6731",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Washed up with Marriage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6531",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Risked Too Much for Marriage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107110",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ghost Ridden"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6192",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dominating Woman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107111",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kiss Inviter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "106491",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When a Kiss Is Offered"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "17265",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Possessive Woman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "17263",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Male Nurse"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251948",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cheated Mother"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251953",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secret I Couldn't Keep, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251947",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bad Breaks"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251949",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "He Played for Keeps"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251956",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Kinds of Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251957",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When the Showdown Comes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251950",
+      "date": "0000-00-00",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Was Bored with Wifehood"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251951",
+      "date": "0000-00-00",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Was His Second Choice"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6191",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Temptation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6190",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prize Fighter's Girl"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6189",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Romance on the Wane"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6188",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afraid to Face the Music"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251955",
+      "date": "1944-06-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "There's No Profit Loving"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Romance"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1936-10-07",
+      "dow": "W",
+      "time": "2:00 PM",
+      "end": "1937-03-31",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1949-04-11",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1950-08-05",
+      "length": "0",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1950-08-08",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1951-02-02",
+      "length": "0",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1951-08-31",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1951-10-02",
+      "length": "0",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1953-03-14",
+      "dow": "Sa",
+      "time": "11:30 AM",
+      "end": "1953-08-29",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1954-07-26",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:00 AM",
+      "end": "1955-02-25",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1953-10-05",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1954-07-02",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Modern Romances Magazine",
+      "begin": "1936-10-07",
+      "end": "1937-03-31"
+    },
+    {
+      "sponsor": "Multi",
+      "begin": "1949-04-07",
+      "end": "1950-08-05"
+    },
+    {
+      "sponsor": "Norwich",
+      "begin": "1950-08-08",
+      "end": "1951-02-02"
+    },
+    {
+      "sponsor": "Sustained",
+      "begin": "1951-08-31",
+      "end": "1951-10-02"
+    },
+    {
+      "sponsor": "Ex-lax",
+      "begin": "1953-10-05",
+      "end": "1954-07-02"
+    },
+    {
+      "sponsor": "Multi",
+      "begin": "1954-07-26",
+      "end": "1955-02-25"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Modern Romances"
+    }
+  ]
+}

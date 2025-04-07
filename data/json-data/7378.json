@@ -1,0 +1,104 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4940",
+      "first": "Leo",
+      "last": "Reisman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5111",
+      "first": "Eleanor",
+      "last": "Roosevelt",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6527",
+      "first": "Victor",
+      "last": "Young",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6349",
+      "first": "Lee",
+      "last": "Wiley",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "My Love"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1931-05-29",
+      "dow": "F",
+      "time": "9:30 PM",
+      "end": "1934-01-05",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Pond's Program With Leo Reisman Orchestra"
+    }
+  ]
+}

@@ -1,0 +1,984 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322174017-85300612.jpg",
+      "label": "Challenge Of Space CD Cover",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "41201",
+      "date": "1969-05-19",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "X-9 Commander (First Episode)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41202",
+      "date": "1969-05-26",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Destiny-The Stars"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41203",
+      "date": "1969-06-02",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women Must Wait"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41204",
+      "date": "1969-06-09",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wake for Johnny, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41205",
+      "date": "1969-06-16",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women in Orbit"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Challenge Of Space - SA",
+          "name": "Challenge Of Space - SA 72-xx-xx (5) Where Was Atlantis.mp3",
+          "time": "1665",
+          "size": "11656407"
+        }
+      ]
+    },
+    {
+      "ide": "41206",
+      "date": "1969-06-23",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "6500 Mile Stroll"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41207",
+      "date": "1969-06-30",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Invisible Shotgun, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41208",
+      "date": "1969-07-07",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "10 Miles to the Moon"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Challenge Of Space - SA",
+          "name": "Challenge Of Space - SA 69-07-07 (08) 10 Miles to the Moon.mp3",
+          "time": "1849",
+          "size": "5547803"
+        }
+      ]
+    },
+    {
+      "ide": "41209",
+      "date": "1969-07-14",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Legend is Born, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41210",
+      "date": "1969-07-21",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moon Landing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41211",
+      "date": "1969-07-28",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prints on the Moon, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41212",
+      "date": "1969-08-04",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Space Station Nr 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41213",
+      "date": "1969-08-11",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eyes that Guard the Plough, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41214",
+      "date": "1969-08-18",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In the Beginning"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41215",
+      "date": "1969-08-25",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Long Road Out, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41216",
+      "date": "1969-09-01",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Earth Still Spins, Commander, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41217",
+      "date": "1969-09-08",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Climb to Safety"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Challenge Of Space - SA",
+          "name": "Challenge Of Space - SA 69-09-08 (17) Climb to Safety.mp3",
+          "time": "1626",
+          "size": "6506516"
+        }
+      ]
+    },
+    {
+      "ide": "41218",
+      "date": "1969-09-15",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sample, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41219",
+      "date": "1969-09-22",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown-UFO's"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41220",
+      "date": "1969-09-29",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Re-entry with Rubbish Bins"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41221",
+      "date": "1969-10-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Episode-Special Sarie 1969 Programme"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41222",
+      "date": "1969-10-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Episode-Special Sarie 1969 Programme"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41223",
+      "date": "1969-10-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Episode-Special Sarie 1969 Programme"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41224",
+      "date": "1969-10-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Episode-Special Sarie 1969 Programme"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41225",
+      "date": "1969-11-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Episode-Special Sarie 1969 Programme"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41226",
+      "date": "1969-11-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Episode-Special Sarie 1969 Programme"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41227",
+      "date": "1969-11-17",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Planetarium, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41228",
+      "date": "1969-11-24",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Space Commander"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41229",
+      "date": "1969-12-01",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Another Galaxy"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Challenge Of Space - SA",
+          "name": "Challenge Of Space - SA 69-12-01 (23) Another Galaxy.mp3",
+          "time": "1757",
+          "size": "14060503"
+        }
+      ]
+    },
+    {
+      "ide": "41230",
+      "date": "1969-12-08",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Look the Other Way"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41231",
+      "date": "1969-12-15",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "C.Q.-Anybody Out There"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41232",
+      "date": "1969-12-22",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where Was Atlantis?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41233",
+      "date": "1969-12-29",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ergot"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41234",
+      "date": "1970-01-05",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Seven Ages of Man, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41235",
+      "date": "1970-01-12",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Centauries, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Challenge Of Space - SA",
+          "name": "Challenge Of Space - SA 70-01-12 (29) The Centauries.mp3",
+          "time": "1477",
+          "size": "10336905"
+        }
+      ]
+    },
+    {
+      "ide": "41236",
+      "date": "1970-01-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moon Landing (Repeat of B/C (69/07/21)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41237",
+      "date": "1970-01-26",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Way Back, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41238",
+      "date": "1970-02-02",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Colonisers, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41239",
+      "date": "1970-02-09",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clapper for the Bell, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Challenge Of Space - SA",
+          "name": "Challenge Of Space - SA 70-02-09 (32) A Clapper for the Bell.mp3",
+          "time": "2451",
+          "size": "19609754"
+        }
+      ]
+    },
+    {
+      "ide": "41240",
+      "date": "1970-02-16",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time Must Have a Stop"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41241",
+      "date": "1970-02-23",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mars, The Red Planet"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41242",
+      "date": "1970-03-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prints on the Moon (Repeat of B/C (69/07/28), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41243",
+      "date": "1970-03-09",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prometheus IX is Missing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41244",
+      "date": "1970-03-16",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Third Passenger, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41245",
+      "date": "1970-03-23",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pioneer, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41246",
+      "date": "1970-03-30",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Emergency Passenger, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41247",
+      "date": "1970-04-06",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Brother in the Sky"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41248",
+      "date": "1970-04-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In the Beginning (Repeat of B/C (69/08/18)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41249",
+      "date": "1970-04-20",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lost Lake, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41250",
+      "date": "1970-04-27",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Retrospect-Intergalactic Travel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41251",
+      "date": "1970-05-04",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ultimatum"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41252",
+      "date": "1970-05-11",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Screwball Satellite"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Challenge Of Space - SA",
+          "name": "Challenge Of Space - SA 70-05-11 (43) Screwball Satellite.mp3",
+          "time": "1788",
+          "size": "10729950"
+        }
+      ]
+    },
+    {
+      "ide": "41253",
+      "date": "1970-05-18",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Object Myra XVI"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41254",
+      "date": "1970-05-25",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Modern Icarus"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41255",
+      "date": "1970-06-01",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Assignment for George"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41256",
+      "date": "1970-06-08",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Commander's Privilege"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41257",
+      "date": "1970-06-15",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unaccomplished Mission"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41258",
+      "date": "1970-06-22",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This is His Cross and he Bears it"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41259",
+      "date": "1970-06-29",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mission Abort"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Challenge Of Space - SA",
+          "name": "Challenge Of Space - SA 70-06-29 (50) Mission Abort.mp3",
+          "time": "1782",
+          "size": "10694992"
+        }
+      ]
+    },
+    {
+      "ide": "41260",
+      "date": "1970-07-06",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "World in Microcosm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41261",
+      "date": "1970-07-13",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plague, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41262",
+      "date": "1970-07-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Climb to Safety (Repeat of B/C (69/09/08)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41263",
+      "date": "1970-07-27",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead Planet, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41264",
+      "date": "1970-08-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Episode - Special Transmission"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41265",
+      "date": "1970-08-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Episode - Special Transmission"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41266",
+      "date": "1970-08-17",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Forgotten World, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41267",
+      "date": "1970-08-24",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women in Orbit (Repeat of B/C (69/06/16)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41268",
+      "date": "1970-08-31",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Neglected Factor, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41269",
+      "date": "1970-09-07",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dark Mercury"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41270",
+      "date": "1970-09-14",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Saturn's Rings"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41271",
+      "date": "1970-09-21",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Generation Gap, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41272",
+      "date": "1970-09-27",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Odyssey of Flight 33, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41273",
+      "date": "1970-10-05",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life Form, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "41274",
+      "date": "1970-10-12",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unscheduled Landfall (Final Episode)"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Challenge Of Space"
+    }
+  ]
+}

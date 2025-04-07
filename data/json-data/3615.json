@@ -1,0 +1,6021 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323040834-8af9ba60.jpg",
+      "label": "Fire Fighters CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323040838-6b3687a2.jpg",
+      "label": "Fire Fighters CD",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323040841-c69bdeb3.jpg",
+      "label": "Firefighters 02",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323040844-b9347412.jpg",
+      "label": "Fire Fighters CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323040847-c2e75360.jpg",
+      "label": "Firefighters 01",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Firefighters_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3615-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logf1009.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/Firefighters/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "330198",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Promotion and Audition Material"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62216",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chief Cody Orders More Men to Rescue Tim"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (010) Chief Cody Orders More Men to Rescue Tim.mp3",
+          "time": "741",
+          "size": "29827001"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (010) Chief Cody Orders Men To Rescue Tim.mp3",
+          "time": "720",
+          "size": "11720216"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (010) CHIEF CODY ORDERS MEN TO RESCUE TIM.mp3",
+          "time": "782",
+          "size": "3128763"
+        }
+      ]
+    },
+    {
+      "ide": "62306",
+      "date": "0000-00-00",
+      "epnum": "100",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs. Wilcox Informed How Fire Started"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (100) Mrs. Wilcox Informed How Fire Started.mp3",
+          "time": "726",
+          "size": "29237559"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (100) Mrs. Wilcox Informed How Fire Began.mp3",
+          "time": "720",
+          "size": "11720676"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (100) MRS WILCOX INFORMED HOW FIRE BEGAN.mp3",
+          "time": "709",
+          "size": "2834676"
+        }
+      ]
+    },
+    {
+      "ide": "62307",
+      "date": "0000-00-00",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Barge Filled with Oil"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (101) Barge Filled with Oil.mp3",
+          "time": "710",
+          "size": "28581863"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (101) Barge Filled With Oil On Fire.mp3",
+          "time": "720",
+          "size": "11720246"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (101) BARGE FILLED WITH OIL ON FIRE.mp3",
+          "time": "695",
+          "size": "2782015"
+        }
+      ]
+    },
+    {
+      "ide": "62308",
+      "date": "0000-00-00",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tug Boat Tries to Move"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (102) Tug Boat Tries to Move.mp3",
+          "time": "722",
+          "size": "29062824"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (102) Tug Boat Tries To Move The Barge.mp3",
+          "time": "720",
+          "size": "11720672"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (102) TUG BOAT TRIES TO MOVE THE BARGE.mp3",
+          "time": "704",
+          "size": "2816706"
+        }
+      ]
+    },
+    {
+      "ide": "62309",
+      "date": "0000-00-00",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "BARGE LOOSE, THREATENS WATERFRONT"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (103) Barge Loose, Threatens Waterfront.mp3",
+          "time": "730",
+          "size": "29371955"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (103) Barge Loose, Threatens Waterfront.mp3",
+          "time": "720",
+          "size": "11720256"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (103) BARGE LOOSE, THREATENS WATERFRONT.mp3",
+          "time": "719",
+          "size": "2876591"
+        }
+      ]
+    },
+    {
+      "ide": "62310",
+      "date": "0000-00-00",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "BARGE MOVED AWAY FROM PIER"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (104) Barge Moved Away from Pier.mp3",
+          "time": "723",
+          "size": "29095468"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (104) Barge Moved Away From Pier.mp3",
+          "time": "720",
+          "size": "11720658"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (104) BARGE MOVED AWAY FROM PIER.mp3",
+          "time": "713",
+          "size": "2851316"
+        }
+      ]
+    },
+    {
+      "ide": "62311",
+      "date": "0000-00-00",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "BARGE FIRE IS PUT OUT"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (105) Barge Fire Is Put Out.mp3",
+          "time": "721",
+          "size": "29033063"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (105) Barge Fire Is Put Out.mp3",
+          "time": "720",
+          "size": "11720230"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (105) BARGE FIRE IS PUT OUT.mp3",
+          "time": "722",
+          "size": "2889599"
+        }
+      ]
+    },
+    {
+      "ide": "62312",
+      "date": "0000-00-00",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Once Again Collecting Items"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (106) Once Again Collecting Items.mp3",
+          "time": "717",
+          "size": "28862189"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (106) Once Again Collecting Items For Charity Sale.mp3",
+          "time": "720",
+          "size": "11720694"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (106) ONCE AGAIN COLLECTING ITEMS FOR CHARITY SALE.mp3",
+          "time": "737",
+          "size": "2948834"
+        }
+      ]
+    },
+    {
+      "ide": "62316",
+      "date": "0000-00-00",
+      "epnum": "110",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr. Darby Is Freed and Returns"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (110) Mr. Darby Is Freed and Returns.mp3",
+          "time": "715",
+          "size": "28765232"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (110) DARBY IS FREED & RETURNS SNUFF BOX.mp3",
+          "time": "691",
+          "size": "2762520"
+        }
+      ]
+    },
+    {
+      "ide": "62317",
+      "date": "0000-00-00",
+      "epnum": "111",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chief Cody Investigates"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (111) Chief Cody Investigates.mp3",
+          "time": "712",
+          "size": "28656745"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (110) Mr. Darby Is Freed & Returns Snuff Box.mp3",
+          "time": "720",
+          "size": "11720264"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (111) CHIEF CODY INVESTIGATES FIRES.mp3",
+          "time": "691",
+          "size": "2765453"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (111) Chief Cody Investigates Fires.mp3",
+          "time": "720",
+          "size": "11720664"
+        }
+      ]
+    },
+    {
+      "ide": "62318",
+      "date": "0000-00-00",
+      "epnum": "112",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Begins Investigating Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (112) Tim Begins Investigating Fire.mp3",
+          "time": "722",
+          "size": "29050351"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (112) Tim Begins Investigating Fires.mp3",
+          "time": "720",
+          "size": "11720666"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (112) TIM BEGINS INVESTIGATING FIRES.mp3",
+          "time": "707",
+          "size": "2828252"
+        }
+      ]
+    },
+    {
+      "ide": "62319",
+      "date": "0000-00-00",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fires Beginning in Mattress"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (113) Fires Beginning in Mattress.mp3",
+          "time": "737",
+          "size": "29674349"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (113) Fires Beginning In Mattresses.mp3",
+          "time": "720",
+          "size": "11720246"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (113) FIRES BEGINNING IN MATTRESSES.mp3",
+          "time": "707",
+          "size": "2829657"
+        }
+      ]
+    },
+    {
+      "ide": "62320",
+      "date": "0000-00-00",
+      "epnum": "114",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "RECALLING MATTRESSES"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (114) Recalling Mattresses.mp3",
+          "time": "736",
+          "size": "29618662"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (114) Recalling Mattresses.mp3",
+          "time": "720",
+          "size": "11720646"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (114) RECALLING MATTRESSES.mp3",
+          "time": "715",
+          "size": "2860080"
+        }
+      ]
+    },
+    {
+      "ide": "62321",
+      "date": "0000-00-00",
+      "epnum": "115",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cotton Seeds Answer to Mattress Fires"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (115) Cotton Seeds Answer to Mattress Fires.mp3",
+          "time": "726",
+          "size": "29242359"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (115) Cotton Seeds Causing Mattress Fire Hazard.mp3",
+          "time": "720",
+          "size": "11723196"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (115) COTTON SEEDS CAUSING MATTRESS FIRE HAZARD.mp3",
+          "time": "702",
+          "size": "2808093"
+        }
+      ]
+    },
+    {
+      "ide": "62322",
+      "date": "0000-00-00",
+      "epnum": "116",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "CHIEF CODY ON VACATION"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (116) Chief Cody on Vacation.mp3",
+          "time": "745",
+          "size": "29986344"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (116) Chief Cody On Vacation.mp3",
+          "time": "720",
+          "size": "11720650"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (116) CHIEF CODY ON VACATION.mp3",
+          "time": "720",
+          "size": "2881708"
+        }
+      ]
+    },
+    {
+      "ide": "62323",
+      "date": "0000-00-00",
+      "epnum": "117",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "JIM AND JACK ATTEMPT A RESCUE"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (117) Jim and Jack Attempt a Rescue.mp3",
+          "time": "749",
+          "size": "30128431"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (117) Jim And Jack Attempt A Rescue.mp3",
+          "time": "720",
+          "size": "11720246"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (117) JIM AND JACK ATTEMPT A RESCUE.mp3",
+          "time": "715",
+          "size": "2859349"
+        }
+      ]
+    },
+    {
+      "ide": "62324",
+      "date": "0000-00-00",
+      "epnum": "118",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TIM BEGINS SCALING TALL BUILDING"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (118) Tim Begins Scaling Tall Building.mp3",
+          "time": "733",
+          "size": "29509234"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (118) Tim Begins Scaling Tall Building.mp3",
+          "time": "720",
+          "size": "11720670"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (118) TIM BEGINS SCALING TALL BUILDING.mp3",
+          "time": "702",
+          "size": "2809454"
+        }
+      ]
+    },
+    {
+      "ide": "62325",
+      "date": "0000-00-00",
+      "epnum": "119",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Reaches Trapped Woman"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (119) Tim Reaches Trapped Woman.mp3",
+          "time": "740",
+          "size": "29764587"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (119) Tim Reaches Trapped Woman And Jack.mp3",
+          "time": "720",
+          "size": "11720674"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (119) TIM REACHES TRAPPED WOMAN AND JACK.mp3",
+          "time": "745",
+          "size": "2978370"
+        }
+      ]
+    },
+    {
+      "ide": "62218",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Fire Started Solved"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (012) How Fire Started Solved.mp3",
+          "time": "714",
+          "size": "28736424"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (012) How The Fire Started.mp3",
+          "time": "720",
+          "size": "11720186"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (012) HOW THE FIRE STARTED.mp3",
+          "time": "760",
+          "size": "3038426"
+        }
+      ]
+    },
+    {
+      "ide": "62326",
+      "date": "0000-00-00",
+      "epnum": "120",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TIM RESCUES JACK AND THE WOMAN"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (120) Tim Rescues Jack and the Woman.mp3",
+          "time": "743",
+          "size": "29889392"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (120) Tim Rescues Jack And The Woman.mp3",
+          "time": "720",
+          "size": "11720248"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (120) TIM RESCUES JACK AND THE WOMAN.mp3",
+          "time": "737",
+          "size": "2948174"
+        }
+      ]
+    },
+    {
+      "ide": "62327",
+      "date": "0000-00-00",
+      "epnum": "121",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chief Cody Back, Problems with Monkeys"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (121) Chief Cody Back, Problems with Monkeys.mp3",
+          "time": "734",
+          "size": "29535160"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (121) Chief Cody Returns, Monkey Problem Begins.mp3",
+          "time": "720",
+          "size": "11720270"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (121) CHIEF CODY RETURNS, MONKEY PROBLEM BEGINS.mp3",
+          "time": "732",
+          "size": "2928593"
+        }
+      ]
+    },
+    {
+      "ide": "62328",
+      "date": "0000-00-00",
+      "epnum": "122",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Everyone Trying to Catch Monkeys"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (122) Everyone Trying to Catch Monkeys.mp3",
+          "time": "738",
+          "size": "29702194"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (122) Trying To Catch The Monkeys.mp3",
+          "time": "720",
+          "size": "11720660"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (122) TRYING TO CATCH THE MONKEYS.mp3",
+          "time": "718",
+          "size": "2871551"
+        }
+      ]
+    },
+    {
+      "ide": "62329",
+      "date": "0000-00-00",
+      "epnum": "123",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Most of the Monkeys Caught"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (123) Most of the Monkeys Caught.mp3",
+          "time": "737",
+          "size": "29664748"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (123) Most Of The Monkeys Have Been Captured.mp3",
+          "time": "720",
+          "size": "11720264"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (123) MOST OF THE MONKEYS HAVE BEEN CAPTURED.mp3",
+          "time": "710",
+          "size": "2839022"
+        }
+      ]
+    },
+    {
+      "ide": "62330",
+      "date": "0000-00-00",
+      "epnum": "124",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Idea for Snake to Catch Monkeys"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (124) Idea For Snake to Catch Monkeys.mp3",
+          "time": "740",
+          "size": "29764593"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (124) Snake Suggested To Catch Remaining Monkeys.mp3",
+          "time": "720",
+          "size": "11720272"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (124) SNAKE SUGGESTED TO CATCH REMAINING MONKEYS.mp3",
+          "time": "719",
+          "size": "2877288"
+        }
+      ]
+    },
+    {
+      "ide": "62331",
+      "date": "0000-00-00",
+      "epnum": "125",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snake Used and All Monkeys Are Caught"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (125) Snake Used and All Monkeys Are Caught.mp3",
+          "time": "749",
+          "size": "30149559"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (125) Snake Works In Capturing Rest Of The Monkeys.mp3",
+          "time": "720",
+          "size": "11720276"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (125) SNAKE WORKS IN CAPTURING REST OF THE MONKEYS.mp3",
+          "time": "722",
+          "size": "2888120"
+        }
+      ]
+    },
+    {
+      "ide": "62332",
+      "date": "0000-00-00",
+      "epnum": "126",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Friend of Tim's Trapped in Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (126) Friend of Tim's Trapped in Fire.mp3",
+          "time": "748",
+          "size": "30115953"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (126) Tim's Friend Trapped By Fire.mp3",
+          "time": "720",
+          "size": "11720662"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (126) TIM'S FRIEND TRAPPED BY FIRE.mp3",
+          "time": "713",
+          "size": "2852064"
+        }
+      ]
+    },
+    {
+      "ide": "62333",
+      "date": "0000-00-00",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim's Friend Saved;  Floor May Collapse"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (127) Tim's Friend Saved - Floor May Collapse.mp3",
+          "time": "744",
+          "size": "29938360"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (127) Tim's Friend Rescued, But Floor Might Collapse.mp3",
+          "time": "720",
+          "size": "11720698"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (127) TIM'S FRIEND RESCUED, BUT FLOOR MIGHT COLLAPSE.mp3",
+          "time": "720",
+          "size": "2880202"
+        }
+      ]
+    },
+    {
+      "ide": "62334",
+      "date": "0000-00-00",
+      "epnum": "128",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Trapped Under Collapsed Floor"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (128) Tim Trapped Under Collapsed Floor.mp3",
+          "time": "739",
+          "size": "29755955"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (128) The Floor Collapses On Tim.mp3",
+          "time": "720",
+          "size": "11720240"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (128) THE FLOOR COLLAPSES ON TIM.mp3",
+          "time": "721",
+          "size": "2883096"
+        }
+      ]
+    },
+    {
+      "ide": "62335",
+      "date": "0000-00-00",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Taps on Steam Pipe Saying He Is Alive"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (129) Tim Taps on Steam Pipe Saying He Is Alive.mp3",
+          "time": "730",
+          "size": "29379643"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (129) Tim Is Alive, Taps On Pipes For Rescue.mp3",
+          "time": "720",
+          "size": "11720682"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (129) TIM IS ALIVE, TAPS ON PIPES FOR RESCUE.mp3",
+          "time": "711",
+          "size": "2845558"
+        }
+      ]
+    },
+    {
+      "ide": "62219",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tenement Fires Trap Woman and Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (013) Tenement Fires Trap Woman and Baby.mp3",
+          "time": "743",
+          "size": "29885555"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (013) Fire Traps Woman And Her Baby.mp3",
+          "time": "720",
+          "size": "11720204"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (013) FIRE TRAPS WOMAN AND HER BABY.mp3",
+          "time": "781",
+          "size": "3125095"
+        }
+      ]
+    },
+    {
+      "ide": "62336",
+      "date": "0000-00-00",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Freed with Steam Shovel"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (130) Tim Freed with Steam Shovel.mp3",
+          "time": "740",
+          "size": "29785709"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (130) Firemen Rescue Tim With A Steam Shovel.mp3",
+          "time": "720",
+          "size": "11720264"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (130) FIREMEN RESCUE TIM WITH A STEAM SHOVEL.mp3",
+          "time": "727",
+          "size": "2908374"
+        }
+      ]
+    },
+    {
+      "ide": "62337",
+      "date": "0000-00-00",
+      "epnum": "131",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "CHIEF CODY AND TIM LEAVE ON VACATION"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (131) Chief Cody and Tim Leave on Vacation.mp3",
+          "time": "737",
+          "size": "29681078"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (131) Chief Cody And Tim Leave On Vacation.mp3",
+          "time": "720",
+          "size": "11720260"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (131) CHIEF CODY AND TIM LEAVE ON VACATION.mp3",
+          "time": "700",
+          "size": "2800738"
+        }
+      ]
+    },
+    {
+      "ide": "62338",
+      "date": "0000-00-00",
+      "epnum": "132",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "FIRE IN BAGGAGE AREA OF PLANE"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (132) Fire in Baggage Area of Plane.mp3",
+          "time": "738",
+          "size": "29714671"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (132) Fire In Baggage Area Of Plane.mp3",
+          "time": "720",
+          "size": "11720246"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (132) FIRE IN BAGGAGE AREA OF PLANE.mp3",
+          "time": "723",
+          "size": "2890995"
+        }
+      ]
+    },
+    {
+      "ide": "62339",
+      "date": "0000-00-00",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim May Parachute to Save Plane"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (133) Tim May Parachute to Save Plane.mp3",
+          "time": "749",
+          "size": "30143793"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (133) Airfield Found, But Landing Lights Are Off.mp3",
+          "time": "720",
+          "size": "11720690"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (133) AIRFIELD FOUND, BUT LANDING LIGHTS ARE OFF.mp3",
+          "time": "734",
+          "size": "2937294"
+        }
+      ]
+    },
+    {
+      "ide": "62340",
+      "date": "0000-00-00",
+      "epnum": "134",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Tries to Find Runway Lights"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (134) Tim Tries to Find Runway Lights.mp3",
+          "time": "741",
+          "size": "29831793"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (134) Tim Parachutes To Field, But Airport Is Shut Down.mp3",
+          "time": "720",
+          "size": "11720704"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (134) TIM PARACHUTES TO FIELD, BUT AIRPORT IS SHUT DOWN.mp3",
+          "time": "744",
+          "size": "2977653"
+        }
+      ]
+    },
+    {
+      "ide": "62341",
+      "date": "0000-00-00",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Automobile Headlights to Light Runway"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (135) Automobile Headlights to Light Runway.mp3",
+          "time": "735",
+          "size": "29567799"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (135) Headlights On Autos Used To Light The Runway.mp3",
+          "time": "720",
+          "size": "11720694"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (135) HEADLIGHTS ON AUTOS USED TO LIGHT THE RUNWAY.mp3",
+          "time": "724",
+          "size": "2897580"
+        }
+      ]
+    },
+    {
+      "ide": "62342",
+      "date": "0000-00-00",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vacation at Plum Valley"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (136) Vacation at Plum Valley.mp3",
+          "time": "742",
+          "size": "29873065"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (136) Tim And Chief Cody On Vacation At Plum Valley.mp3",
+          "time": "720",
+          "size": "11720278"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (136) TIM AND CHIEF CODY ON VACATION AT PLUM VALLEY.mp3",
+          "time": "741",
+          "size": "2965377"
+        }
+      ]
+    },
+    {
+      "ide": "62343",
+      "date": "0000-00-00",
+      "epnum": "137",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Several Fires in a Small Town"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (137) Several Fires in a Small Town.mp3",
+          "time": "752",
+          "size": "30253231"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (137) Fire Begins In The Town Of Plum Valley.mp3",
+          "time": "720",
+          "size": "11720264"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (137) FIRE BEGINS IN THE TOWN OF PLUM VALLEY.mp3",
+          "time": "738",
+          "size": "2953160"
+        }
+      ]
+    },
+    {
+      "ide": "62344",
+      "date": "0000-00-00",
+      "epnum": "138",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Small Town Newspaper Burns"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (138) Small Town Newspaper Burns.mp3",
+          "time": "747",
+          "size": "30051628"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (138) Plum Valley Newspaper Is On Fire.mp3",
+          "time": "720",
+          "size": "11720252"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (138) PLUM VALLEY NEWSPAPER IS ON FIRE.mp3",
+          "time": "735",
+          "size": "2942280"
+        }
+      ]
+    },
+    {
+      "ide": "62345",
+      "date": "0000-00-00",
+      "epnum": "139",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Campaign Started for Full-Time Firemen"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (139) Campaign Started for Full-Time Firemen.mp3",
+          "time": "740",
+          "size": "29777080"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (139) Plum Valley Tries To Hire Full-time Firemen.mp3",
+          "time": "720",
+          "size": "11720274"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (139) PLUM VALLEY TRIES TO HIRE FULL-TIME FIREMEN.mp3",
+          "time": "724",
+          "size": "2895383"
+        }
+      ]
+    },
+    {
+      "ide": "62220",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "WOMAN AND BABY SAVED"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (014) Woman and Baby Saved.mp3",
+          "time": "728",
+          "size": "29308581"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (014) Woman And Baby Saved.mp3",
+          "time": "720",
+          "size": "11719768"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (014) WOMAN AND BABY SAVED.mp3",
+          "time": "770",
+          "size": "3080292"
+        }
+      ]
+    },
+    {
+      "ide": "62346",
+      "date": "0000-00-00",
+      "epnum": "140",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tom Calpepper to Oppose the Town's Mayor"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (140) Tom Calpepper to Oppose the Town's Mayor.mp3",
+          "time": "737",
+          "size": "29656122"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (140) Plum Valley City Council Meeting.mp3",
+          "time": "720",
+          "size": "11720670"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (140) PLUM VALLEY CITY COUNCIL MEETING.mp3",
+          "time": "719",
+          "size": "2878044"
+        }
+      ]
+    },
+    {
+      "ide": "62347",
+      "date": "0000-00-00",
+      "epnum": "141",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Campaign to Obtain New Firefighting Equipment pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (141) Campaign to Obtain New Firefighting Equipment pt. 1.mp3",
+          "time": "745",
+          "size": "29973893"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (141) Campaign To Obtain New Fire Equipment Pt. 1.mp3",
+          "time": "731",
+          "size": "23586423"
+        }
+      ]
+    },
+    {
+      "ide": "62348",
+      "date": "0000-00-00",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Campaign to Obtain New Firefighting Equipment pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (142) Campaign to Obtain New Firefighting Equipment pt. 2.mp3",
+          "time": "747",
+          "size": "30078533"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (142) Campaign To Obtain New Fire Equipment Pt. 2.mp3",
+          "time": "725",
+          "size": "23405028"
+        }
+      ]
+    },
+    {
+      "ide": "62349",
+      "date": "0000-00-00",
+      "epnum": "143",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Campaign to Obtain New Firefighting Equipment pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (143) Campaign to Obtain New Firefighting Equipment pt. 3.mp3",
+          "time": "754",
+          "size": "30329093"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (143) Campaign To Obtain New Fire Equipment Pt. 3.mp3",
+          "time": "727",
+          "size": "23450168"
+        }
+      ]
+    },
+    {
+      "ide": "62350",
+      "date": "0000-00-00",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Campaign to Obtain New Firefighting Equipment pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (144) Campaign to Obtain New Firefighting Equipment pt. 4.mp3",
+          "time": "742",
+          "size": "29856773"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (144) Campaign To Obtain New Fire Equipment Pt. 4.mp3",
+          "time": "721",
+          "size": "23278805"
+        }
+      ]
+    },
+    {
+      "ide": "62351",
+      "date": "0000-00-00",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Campaign to Obtain New Firefighting Equipment pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (145) Campaign to Obtain New Firefighting Equipment pt. 5.mp3",
+          "time": "753",
+          "size": "30304133"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (145) What Will Turner's Defeat Mean.mp3",
+          "time": "732",
+          "size": "23611476"
+        }
+      ]
+    },
+    {
+      "ide": "62352",
+      "date": "0000-00-00",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Man Who Was Too Clever pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (146) The Man Who Was Too Clever pt. 1.mp3",
+          "time": "766",
+          "size": "30813874"
+        }
+      ]
+    },
+    {
+      "ide": "62353",
+      "date": "0000-00-00",
+      "epnum": "147",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Man Who Was Too Clever pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (147) The Man Who Was Too Clever pt. 2.mp3",
+          "time": "736",
+          "size": "29626354"
+        }
+      ]
+    },
+    {
+      "ide": "62354",
+      "date": "0000-00-00",
+      "epnum": "148",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Man Who Was Too Clever pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (148) The Man Who Was Too Clever pt. 3.mp3",
+          "time": "754",
+          "size": "30337714"
+        }
+      ]
+    },
+    {
+      "ide": "62355",
+      "date": "0000-00-00",
+      "epnum": "149",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Man Who Was Too Clever pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (149) The Man Who Was Too Clever pt. 4.mp3",
+          "time": "744",
+          "size": "29936434"
+        }
+      ]
+    },
+    {
+      "ide": "62221",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time Tries to Save Wife of Arsonist"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (015) Tim Tries to Save Wife of Arsonist.mp3",
+          "time": "725",
+          "size": "29165556"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (015) Tim Tries To Save Arsonist's Wife.mp3",
+          "time": "720",
+          "size": "11719794"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (015) TIM TRIES TO SAVE ARSONIST'S WIFE.mp3",
+          "time": "789",
+          "size": "3156169"
+        }
+      ]
+    },
+    {
+      "ide": "62356",
+      "date": "0000-00-00",
+      "epnum": "150",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Man Who Was Too Clever pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (150) The Man Who Was Too Clever pt. 5.mp3",
+          "time": "761",
+          "size": "30608434"
+        }
+      ]
+    },
+    {
+      "ide": "62357",
+      "date": "0000-00-00",
+      "epnum": "151",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Horse Ravine Adventures pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (151) Red Horse Ravine Adventures pt. 1.mp3",
+          "time": "748",
+          "size": "30115955"
+        }
+      ]
+    },
+    {
+      "ide": "62358",
+      "date": "0000-00-00",
+      "epnum": "152",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Horse Ravine Adventures pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (152) Red Horse Ravine Adventures pt. 2.mp3",
+          "time": "684",
+          "size": "27562355"
+        }
+      ]
+    },
+    {
+      "ide": "62359",
+      "date": "0000-00-00",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Horse Ravine Adventures pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (153) Red Horse Ravine Adventures pt. 3.mp3",
+          "time": "743",
+          "size": "29885555"
+        }
+      ]
+    },
+    {
+      "ide": "62360",
+      "date": "0000-00-00",
+      "epnum": "154",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Horse Ravine Adventures pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (154) Red Horse Ravine Adventures pt. 4.mp3",
+          "time": "748",
+          "size": "30119795"
+        }
+      ]
+    },
+    {
+      "ide": "62361",
+      "date": "0000-00-00",
+      "epnum": "155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Horse Ravine Adventures pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (155) Red Horse Ravine Adventures pt. 5.mp3",
+          "time": "743",
+          "size": "29915315"
+        }
+      ]
+    },
+    {
+      "ide": "62362",
+      "date": "0000-00-00",
+      "epnum": "156",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Motion Picture Mystery pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (156) The Motion Picture Mystery pt. 1.mp3",
+          "time": "735",
+          "size": "29580274"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (156) The  Motion Picture Mystery Pt. 1.mp3",
+          "time": "715",
+          "size": "23069058"
+        }
+      ]
+    },
+    {
+      "ide": "62363",
+      "date": "0000-00-00",
+      "epnum": "157",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Motion Picture Mystery pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (157) The Motion Picture Mystery pt. 2.mp3",
+          "time": "745",
+          "size": "29986354"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (157) The  Motion Picture Mystery Pt. 2.mp3",
+          "time": "718",
+          "size": "23166861"
+        }
+      ]
+    },
+    {
+      "ide": "62364",
+      "date": "0000-00-00",
+      "epnum": "158",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Motion Picture Mystery pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (158) The Motion Picture Mystery pt. 3.mp3",
+          "time": "751",
+          "size": "30236914"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (158) The  Motion Picture Mystery Pt. 3.mp3",
+          "time": "725",
+          "size": "23385035"
+        }
+      ]
+    },
+    {
+      "ide": "62365",
+      "date": "0000-00-00",
+      "epnum": "159",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Motion Picture Mystery pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (159) The Motion Picture Mystery pt. 4.mp3",
+          "time": "757",
+          "size": "30466354"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (159) The  Motion Picture Mystery Pt. 4.mp3",
+          "time": "734",
+          "size": "23696833"
+        }
+      ]
+    },
+    {
+      "ide": "62366",
+      "date": "0000-00-00",
+      "epnum": "160",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Motion Picture Mystery pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (160) The Motion Picture Mystery pt. 5.mp3",
+          "time": "740",
+          "size": "29768434"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (160) The  Motion Picture Mystery Pt. 5.mp3",
+          "time": "712",
+          "size": "22975433"
+        }
+      ]
+    },
+    {
+      "ide": "62367",
+      "date": "0000-00-00",
+      "epnum": "161",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery of the Unnecessary Accident pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (161) Mystery of the Unnecessary Accident pt. 1.mp3",
+          "time": "756",
+          "size": "30428923"
+        }
+      ]
+    },
+    {
+      "ide": "62368",
+      "date": "0000-00-00",
+      "epnum": "162",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery of the Unnecessary Accident pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (162) Mystery of the Unnecessary Accident pt. 2.mp3",
+          "time": "741",
+          "size": "29819323"
+        }
+      ]
+    },
+    {
+      "ide": "62369",
+      "date": "0000-00-00",
+      "epnum": "163",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery of the Unnecessary Accident pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (163) Mystery of the Unnecessary Accident pt. 3.mp3",
+          "time": "745",
+          "size": "29990203"
+        }
+      ]
+    },
+    {
+      "ide": "62370",
+      "date": "0000-00-00",
+      "epnum": "164",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery of the Unnecessary Accident pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (164) Mystery of the Unnecessary Accident pt. 4.mp3",
+          "time": "736",
+          "size": "29604283"
+        }
+      ]
+    },
+    {
+      "ide": "62371",
+      "date": "0000-00-00",
+      "epnum": "165",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery of the Unnecessary Accident pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (165) Mystery of the Unnecessary Accident pt. 5.mp3",
+          "time": "742",
+          "size": "29881723"
+        }
+      ]
+    },
+    {
+      "ide": "62372",
+      "date": "0000-00-00",
+      "epnum": "166",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Case of the Runaway Spaghetti pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (166) The Case of the Runaway Spaghetti pt. 1.mp3",
+          "time": "751",
+          "size": "30215801"
+        }
+      ]
+    },
+    {
+      "ide": "62373",
+      "date": "0000-00-00",
+      "epnum": "167",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Case of the Runaway Spaghetti pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (167) The Case of the Runaway Spaghetti pt. 2.mp3",
+          "time": "737",
+          "size": "29677241"
+        }
+      ]
+    },
+    {
+      "ide": "62374",
+      "date": "0000-00-00",
+      "epnum": "168",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Case of the Runaway Spaghetti pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (168) The Case of the Runaway Spaghetti pt. 3.mp3",
+          "time": "749",
+          "size": "30144761"
+        }
+      ]
+    },
+    {
+      "ide": "62375",
+      "date": "0000-00-00",
+      "epnum": "169",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Case of the Runaway Spaghetti pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (169) The Case of the Runaway Spaghetti pt. 4.mp3",
+          "time": "740",
+          "size": "29794361"
+        }
+      ]
+    },
+    {
+      "ide": "62223",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "MAN CONFESSES TO STARTING FIRES"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (017) Man Confesses to Starting Fires.mp3",
+          "time": "727",
+          "size": "29279792"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (017) Man Confesses To Starting Fires.mp3",
+          "time": "720",
+          "size": "11720208"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (017) MAN CONFESSES TO STARTING FIRES.mp3",
+          "time": "763",
+          "size": "3050709"
+        }
+      ]
+    },
+    {
+      "ide": "62376",
+      "date": "0000-00-00",
+      "epnum": "170",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Case of the Runaway Spaghetti pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (170) The Case of the Runaway Spaghetti pt. 5.mp3",
+          "time": "749",
+          "size": "30132281"
+        }
+      ]
+    },
+    {
+      "ide": "62377",
+      "date": "0000-00-00",
+      "epnum": "171",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "High Tension Adventure pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (171) High Tension Adventure pt. 1.mp3",
+          "time": "763",
+          "size": "30713070"
+        }
+      ]
+    },
+    {
+      "ide": "62378",
+      "date": "0000-00-00",
+      "epnum": "172",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "High Tension Adventure pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (172) High Tension Adventure pt. 2.mp3",
+          "time": "742",
+          "size": "29848110"
+        }
+      ]
+    },
+    {
+      "ide": "62379",
+      "date": "0000-00-00",
+      "epnum": "173",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "High Tension Adventure pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (173) High Tension Adventure pt. 3.mp3",
+          "time": "736",
+          "size": "29622510"
+        }
+      ]
+    },
+    {
+      "ide": "62380",
+      "date": "0000-00-00",
+      "epnum": "174",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "High Tension Adventure pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (174) High Tension Adventure pt. 4.mp3",
+          "time": "741",
+          "size": "29823150"
+        }
+      ]
+    },
+    {
+      "ide": "62381",
+      "date": "0000-00-00",
+      "epnum": "175",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "High Tension Adventure pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (175) High Tension Adventure pt. 5.mp3",
+          "time": "743",
+          "size": "29922990"
+        }
+      ]
+    },
+    {
+      "ide": "62382",
+      "date": "0000-00-00",
+      "epnum": "176",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quick Burner Adventure pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (176) Quick Burner Adventure pt. 1.mp3",
+          "time": "746",
+          "size": "30011310"
+        }
+      ]
+    },
+    {
+      "ide": "62383",
+      "date": "0000-00-00",
+      "epnum": "177",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quick Burner Adventure pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (177) Quick Burner Adventure pt. 2.mp3",
+          "time": "737",
+          "size": "29677230"
+        }
+      ]
+    },
+    {
+      "ide": "62384",
+      "date": "0000-00-00",
+      "epnum": "178",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quick Burner Adventure pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (178) Quick Burner Adventure pt. 3.mp3",
+          "time": "744",
+          "size": "29936430"
+        }
+      ]
+    },
+    {
+      "ide": "62385",
+      "date": "0000-00-00",
+      "epnum": "179",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quick Burner Adventure pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (179) Quick Burner Adventure pt. 4.mp3",
+          "time": "747",
+          "size": "30052590"
+        }
+      ]
+    },
+    {
+      "ide": "62386",
+      "date": "0000-00-00",
+      "epnum": "180",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quick Burner Adventure pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (180) Quick Burner Adventure pt. 5.mp3",
+          "time": "746",
+          "size": "30011310"
+        }
+      ]
+    },
+    {
+      "ide": "62387",
+      "date": "0000-00-00",
+      "epnum": "181",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Revere Adventure pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (181) Paul Revere Adventure pt. 1.mp3",
+          "time": "740",
+          "size": "29802029"
+        }
+      ]
+    },
+    {
+      "ide": "62388",
+      "date": "0000-00-00",
+      "epnum": "182",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Revere Adventure pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (182) Paul Revere Adventure pt. 2.mp3",
+          "time": "742",
+          "size": "29844269"
+        }
+      ]
+    },
+    {
+      "ide": "62389",
+      "date": "0000-00-00",
+      "epnum": "183",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Revere Adventure pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (183) Paul Revere Adventure pt. 3.mp3",
+          "time": "741",
+          "size": "29810669"
+        }
+      ]
+    },
+    {
+      "ide": "62390",
+      "date": "0000-00-00",
+      "epnum": "184",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Revere Adventure pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (184) Paul Revere Adventure pt. 4.mp3",
+          "time": "736",
+          "size": "29638829"
+        }
+      ]
+    },
+    {
+      "ide": "62391",
+      "date": "0000-00-00",
+      "epnum": "185",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Revere Adventure pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (185) Paul Revere Adventure pt. 5.mp3",
+          "time": "741",
+          "size": "29839469"
+        }
+      ]
+    },
+    {
+      "ide": "62392",
+      "date": "0000-00-00",
+      "epnum": "186",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Fire Mystery pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (186) The Fire Mystery pt. 1.mp3",
+          "time": "742",
+          "size": "29844264"
+        }
+      ]
+    },
+    {
+      "ide": "62393",
+      "date": "0000-00-00",
+      "epnum": "187",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Fire Mystery pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (187) The Fire Mystery pt. 2.mp3",
+          "time": "738",
+          "size": "29697384"
+        }
+      ]
+    },
+    {
+      "ide": "62394",
+      "date": "0000-00-00",
+      "epnum": "188",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Fire Mystery pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (188) The Fire Mystery pt. 3.mp3",
+          "time": "749",
+          "size": "30149544"
+        }
+      ]
+    },
+    {
+      "ide": "330191",
+      "date": "0000-00-00",
+      "epnum": "189",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Fire Mystery pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (189) The Fire Mystery pt. 4.mp3",
+          "time": "741",
+          "size": "29819304"
+        }
+      ]
+    },
+    {
+      "ide": "62225",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "School Fire - Tim on Special Assignment"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (019) School Fire -Tim on Special Assignment.mp3",
+          "time": "729",
+          "size": "29350840"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (019) School Fire.mp3",
+          "time": "720",
+          "size": "11719750"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (019) SCHOOL FIRE.mp3",
+          "time": "766",
+          "size": "3063693"
+        }
+      ]
+    },
+    {
+      "ide": "330192",
+      "date": "0000-00-00",
+      "epnum": "190",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Fire Mystery pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (190) The Fire Mystery pt. 5.mp3",
+          "time": "738",
+          "size": "29714664"
+        }
+      ]
+    },
+    {
+      "ide": "330193",
+      "date": "0000-00-00",
+      "epnum": "191",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Wet Water Mystery pt. 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (191) The Wet Water Mystery pt. 1.mp3",
+          "time": "745",
+          "size": "29986349"
+        }
+      ]
+    },
+    {
+      "ide": "330194",
+      "date": "0000-00-00",
+      "epnum": "192",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Wet Water Mystery pt. 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (192) The Wet Water Mystery pt. 2.mp3",
+          "time": "725",
+          "size": "29166509"
+        }
+      ]
+    },
+    {
+      "ide": "330195",
+      "date": "0000-00-00",
+      "epnum": "193",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Wet Water Mystery pt. 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (193) The Wet Water Mystery pt. 3.mp3",
+          "time": "731",
+          "size": "29418029"
+        }
+      ]
+    },
+    {
+      "ide": "330196",
+      "date": "0000-00-00",
+      "epnum": "194",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Wet Water Mystery pt. 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (194) The Wet Water Mystery pt. 4.mp3",
+          "time": "739",
+          "size": "29735789"
+        }
+      ]
+    },
+    {
+      "ide": "330197",
+      "date": "0000-00-00",
+      "epnum": "195",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Wet Water Mystery pt. 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (195) The Wet Water Mystery pt. 5.mp3",
+          "time": "740",
+          "size": "29777069"
+        }
+      ]
+    },
+    {
+      "ide": "62208",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search for Who Turned in False Alarms"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (002) Search for Who Turned in False Alarm.mp3",
+          "time": "735",
+          "size": "29576437"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (002) False Alarms.mp3",
+          "time": "726",
+          "size": "17623492"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (002) FALSE ALARMS.mp3",
+          "time": "776",
+          "size": "3105652"
+        }
+      ]
+    },
+    {
+      "ide": "62227",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "SEARCHING FOR FIRE ON SHIP DOCKS"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (021) Searching for Fire on Ship Docks.mp3",
+          "time": "746",
+          "size": "30015153"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (021) Searching For Fire On Ship Docks.mp3",
+          "time": "720",
+          "size": "11720210"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (021) SEARCHING FOR FIRE ON SHIP DOCKS.mp3",
+          "time": "707",
+          "size": "2826802"
+        }
+      ]
+    },
+    {
+      "ide": "62228",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Towboat Owner Is Mad"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (022) Towboat Owner Is Mad.mp3",
+          "time": "753",
+          "size": "30304101"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (022) Towboat Owner Is Mad At Firefighters.mp3",
+          "time": "720",
+          "size": "11720218"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (022) TOWBOAT OWNER IS MAD AT FIREFIGHTERS.mp3",
+          "time": "727",
+          "size": "2906980"
+        }
+      ]
+    },
+    {
+      "ide": "62229",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TOWBOAT OWNER IS AT FAULT"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (023) Towboat Owner Is at Fault.mp3",
+          "time": "731",
+          "size": "29425706"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (023) Towboat Owner Is At Fault.mp3",
+          "time": "720",
+          "size": "11720196"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (023) TOWBOAT OWNER IS AT FAULT.mp3",
+          "time": "723",
+          "size": "2893233"
+        }
+      ]
+    },
+    {
+      "ide": "62230",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "CHIEF CODY IS IN TROUBLE"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (024) Chief Cody Is in Trouble.mp3",
+          "time": "736",
+          "size": "29618665"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (024) Chief Cody Is In Trouble.mp3",
+          "time": "720",
+          "size": "11719776"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (024) CHIEF CODY IS IN TROUBLE.mp3",
+          "time": "731",
+          "size": "2924314"
+        }
+      ]
+    },
+    {
+      "ide": "62232",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "PLANS MADE TO HELP CHIEF CODY"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (026) Plans Made to Help Chief Cody.mp3",
+          "time": "734",
+          "size": "29560110"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (026) Plans Made To Help Chief Cody.mp3",
+          "time": "720",
+          "size": "11720204"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (026) PLANS MADE TO HELP CHIEF CODY.mp3",
+          "time": "713",
+          "size": "2851369"
+        }
+      ]
+    },
+    {
+      "ide": "62233",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "CHIEF CODY THREATENS TO RESIGN"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (027) Chief Cody Threatens to Resign.mp3",
+          "time": "733",
+          "size": "29505391"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (027) Chief Cody Threatens To Resign.mp3",
+          "time": "720",
+          "size": "11720206"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (027) CHIEF CODY THREATENS TO RESIGN.mp3",
+          "time": "710",
+          "size": "2838364"
+        }
+      ]
+    },
+    {
+      "ide": "62234",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "GANG OF BOYS SETTING FIRES"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (028) Gang of Boys Setting Fires.mp3",
+          "time": "742",
+          "size": "29881707"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (028) Gang Of Boys Setting Fires.mp3",
+          "time": "720",
+          "size": "11720198"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (028) GANG OF BOYS SETTING FIRES.mp3",
+          "time": "722",
+          "size": "2889600"
+        }
+      ]
+    },
+    {
+      "ide": "62235",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Undercover as a Bum"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (029) Tim Undercover as Bum.mp3",
+          "time": "734",
+          "size": "29555304"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (029) Tim Undercover As Bum To Catch Boys.mp3",
+          "time": "720",
+          "size": "11719798"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (029) TIM UNDERCOVER AS BUM TO CATCH BOYS.mp3",
+          "time": "714",
+          "size": "2854991"
+        }
+      ]
+    },
+    {
+      "ide": "62209",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Jimmy Responsible for False Alarms"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (003) Is Jimmy Responsible for False Alarms.mp3",
+          "time": "727",
+          "size": "29263477"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (003) Is Jimmy Collins Turning In False Alarms.mp3",
+          "time": "643",
+          "size": "15628486"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (003) IS JIMMY COLLINS TURNING IN FALSE ALARMS.mp3",
+          "time": "774",
+          "size": "3096896"
+        }
+      ]
+    },
+    {
+      "ide": "62236",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TIM TRAPPED, PUTS OUT FIRE"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (030) Tim Trapped, Puts Out Fire.mp3",
+          "time": "746",
+          "size": "30027627"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (030) Tim Trapped, Puts Out Fire.mp3",
+          "time": "720",
+          "size": "11719780"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (030) TIM TRAPPED, PUTS OUT FIRE.mp3",
+          "time": "727",
+          "size": "2907012"
+        }
+      ]
+    },
+    {
+      "ide": "62237",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "ILLUSION MAKER WITH PHOSPHORUS"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (031) Illusion Maker with Phosphorus.mp3",
+          "time": "746",
+          "size": "30011311"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (031) Illusion Maker With Phosphorus.mp3",
+          "time": "720",
+          "size": "11720206"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (031) ILLUSION MAKER WITH PHOSPHORUS.mp3",
+          "time": "715",
+          "size": "2860652"
+        }
+      ]
+    },
+    {
+      "ide": "62238",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim and Chief Attend Demonstration"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (032) Tim and Chief Attend Demonstration.mp3",
+          "time": "740",
+          "size": "29785715"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (032) Chief Cody And Tim Attend A Demonstration.mp3",
+          "time": "720",
+          "size": "11720226"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (032) CHIEF CODY AND TIM ATTEND A DEMONSTRATION.mp3",
+          "time": "715",
+          "size": "2862183"
+        }
+      ]
+    },
+    {
+      "ide": "62239",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Everyone Escapes and Fire Put Out"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (033) Everyone Escapes and Fire Put Out.mp3",
+          "time": "731",
+          "size": "29438194"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (033) Everyone Escapes And Fire Is Put Out.mp3",
+          "time": "720",
+          "size": "11719800"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (033) EVERYONE ESCAPES AND FIRE IS PUT OUT.mp3",
+          "time": "711",
+          "size": "2844898"
+        }
+      ]
+    },
+    {
+      "ide": "62240",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fire Department Displays Equipment"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (034) Fire Department Displays Equipment.mp3",
+          "time": "736",
+          "size": "29622515"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (034) Fire Equipment Display.mp3",
+          "time": "720",
+          "size": "11720190"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (034) FIRE EQUIPMENT DISPLAY.mp3",
+          "time": "715",
+          "size": "2862098"
+        }
+      ]
+    },
+    {
+      "ide": "62241",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Idea for Firefighting Tug Boat"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (035) Idea for Firefighting Tug Boat.mp3",
+          "time": "717",
+          "size": "28844911"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (035) New Fire Fighting Tug Boat.mp3",
+          "time": "720",
+          "size": "11719780"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (035) NEW FIRE FIGHTING TUG BOAT.mp3",
+          "time": "701",
+          "size": "2804438"
+        }
+      ]
+    },
+    {
+      "ide": "62242",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim's New Job - Firefighting Tug Boat"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (036) Tim's New Job - Firefighting Tug Boat.mp3",
+          "time": "731",
+          "size": "29442998"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (036) Tim Assigned To Fire Fighting Tug Boat.mp3",
+          "time": "720",
+          "size": "11720222"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (036) TIM ASSIGNED TO FIRE FIGHTING TUG BOAT.mp3",
+          "time": "710",
+          "size": "2841978"
+        }
+      ]
+    },
+    {
+      "ide": "62243",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bad Fire Aboard Grain Ship"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (037) Bad Fire Aboard Grain Ship.mp3",
+          "time": "724",
+          "size": "29158827"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (037) Grain Ship Fire.mp3",
+          "time": "720",
+          "size": "11720176"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (037) GRAIN SHIP FIRE.mp3",
+          "time": "703",
+          "size": "2813777"
+        }
+      ]
+    },
+    {
+      "ide": "62244",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fire Put Out by Tug Boat Crew"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (038) Fire Put Out by Tug Boat Crew.mp3",
+          "time": "729",
+          "size": "29359470"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (038) Grain Ship Fire Put Out By Tug Boat.mp3",
+          "time": "720",
+          "size": "11719798"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (038) GRAIN SHIP FIRE PUT OUT BY TUG BOAT.mp3",
+          "time": "709",
+          "size": "2836835"
+        }
+      ]
+    },
+    {
+      "ide": "62245",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim on Vacation to See Cousin"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (039) Tim on Vacation to See Cousin.mp3",
+          "time": "739",
+          "size": "29751150"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (039) Tim Goes On Furlough.mp3",
+          "time": "720",
+          "size": "11720186"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (039) TIM GOES ON FURLOUGH.mp3",
+          "time": "724",
+          "size": "2896186"
+        }
+      ]
+    },
+    {
+      "ide": "62210",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jimmy Not Responsible for Alarms"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (004) Jimmy Not Responsible for Alarms.mp3",
+          "time": "730",
+          "size": "29400752"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (004) Jimmy Not Guilty of False Alarms.mp3",
+          "time": "722",
+          "size": "17531510"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (004) JIMMY NOT GUILTY OF FALSE ALARMS.mp3",
+          "time": "772",
+          "size": "3088262"
+        }
+      ]
+    },
+    {
+      "ide": "62246",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Problems of Volunteer Fire Department"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (040) Problems of Volunteer Fire Department.mp3",
+          "time": "734",
+          "size": "29526518"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (040) Volunteer Fire Department.mp3",
+          "time": "720",
+          "size": "11719778"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (040) VOLUNTEER FIRE DEPARTMENT.mp3",
+          "time": "724",
+          "size": "2895385"
+        }
+      ]
+    },
+    {
+      "ide": "62248",
+      "date": "0000-00-00",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chief and Tim Have Idea to Haul Water"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (042) Chief and Tim Have Idea to Haul Water.mp3",
+          "time": "728",
+          "size": "29322038"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (042) New Way To Haul Water.mp3",
+          "time": "720",
+          "size": "11720188"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (042) NEW WAY TO HAUL WATER.mp3",
+          "time": "709",
+          "size": "2836151"
+        }
+      ]
+    },
+    {
+      "ide": "62249",
+      "date": "0000-00-00",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Forest Fire Breaks Out"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (043) Forest Fire Breaks Out.mp3",
+          "time": "734",
+          "size": "29555303"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (043) Forest Fire.mp3",
+          "time": "720",
+          "size": "11720168"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (043) FOREST FIRE.mp3",
+          "time": "712",
+          "size": "2848411"
+        }
+      ]
+    },
+    {
+      "ide": "62250",
+      "date": "0000-00-00",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Boys Trapped by Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (044) Two Boys Trapped by Fire.mp3",
+          "time": "732",
+          "size": "29446825"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (044) Boys Trapped By Forest Fire.mp3",
+          "time": "720",
+          "size": "11720200"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (044) BOYS TRAPPED BY FOREST FIRE.mp3",
+          "time": "712",
+          "size": "2848415"
+        }
+      ]
+    },
+    {
+      "ide": "62251",
+      "date": "0000-00-00",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim, Jim and Pete Safe in Cave"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (045) Tim, Jim and Pete Safe in Cave.mp3",
+          "time": "729",
+          "size": "29346991"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (045) Tim And Children Safe From Fire In A Cave.mp3",
+          "time": "720",
+          "size": "11720228"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (045) TIM AND CHILDREN SAFE FROM FIRE IN A CAVE.mp3",
+          "time": "714",
+          "size": "2855731"
+        }
+      ]
+    },
+    {
+      "ide": "62252",
+      "date": "0000-00-00",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "FOREST FIRE UNDER CONTROL"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (046) Forest Fire Under Control.mp3",
+          "time": "729",
+          "size": "29359466"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (046) Forest Fire Under Control.mp3",
+          "time": "720",
+          "size": "11720196"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (046) FOREST FIRE UNDER CONTROL.mp3",
+          "time": "709",
+          "size": "2837613"
+        }
+      ]
+    },
+    {
+      "ide": "62253",
+      "date": "0000-00-00",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fire Stopped and Chief Cody Offered Job"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (047) Fire Stopped and Chief Cody Offered Job.mp3",
+          "time": "724",
+          "size": "29150200"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (047) Forest Fire Out, Chief Cody Offered A Job.mp3",
+          "time": "720",
+          "size": "11720228"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (047) FOREST FIRE OUT, CHIEF CODY OFFERED A JOB.mp3",
+          "time": "705",
+          "size": "2821089"
+        }
+      ]
+    },
+    {
+      "ide": "62254",
+      "date": "0000-00-00",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Attends Firefighters School"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (048) Tim Attends Firefighters School.mp3",
+          "time": "725",
+          "size": "29200112"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (048) Tim Attends A Fire Fighting School.mp3",
+          "time": "720",
+          "size": "11719796"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (048) TIM ATTENDS A FIRE FIGHTING SCHOOL.mp3",
+          "time": "699",
+          "size": "2796436"
+        }
+      ]
+    },
+    {
+      "ide": "62211",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TIM DOESN'T GET HIS APPOINTMENT"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (005) Tim Doesn't Get His Appointment.mp3",
+          "time": "732",
+          "size": "29459311"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (005) Tim Doesn't Get His Appointment.mp3",
+          "time": "720",
+          "size": "11719790"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (005) TIM DOESN'T GET HIS APPOINTMENT.mp3",
+          "time": "780",
+          "size": "3121439"
+        }
+      ]
+    },
+    {
+      "ide": "62256",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jimmy Upset about Something"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (050) Jimmy Upset about Something.mp3",
+          "time": "727",
+          "size": "29263468"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (050) Jimmy Collins Is Upset.mp3",
+          "time": "720",
+          "size": "11720190"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (050) JIMMY COLLINS IS UPSET.mp3",
+          "time": "712",
+          "size": "2847072"
+        }
+      ]
+    },
+    {
+      "ide": "62257",
+      "date": "0000-00-00",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "PROBLEMS WITH JIMMY AND WHITEY"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (051) Problems with Jimmy and Whitey.mp3",
+          "time": "747",
+          "size": "30052591"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (051) Problems With Jimmy And Whitey.mp3",
+          "time": "720",
+          "size": "11720206"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (051) PROBLEMS WITH JIMMY AND WHITEY.mp3",
+          "time": "730",
+          "size": "2919914"
+        }
+      ]
+    },
+    {
+      "ide": "62258",
+      "date": "0000-00-00",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "North Side Junior Firefighters' Problems"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (052) North Side Junior Firefighters' Problems.mp3",
+          "time": "743",
+          "size": "29919161"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (052) North Side Junior Firefighters.mp3",
+          "time": "720",
+          "size": "11719788"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (052) North Side Junior Firefighters.mp3",
+          "time": "721",
+          "size": "2886020"
+        }
+      ]
+    },
+    {
+      "ide": "62259",
+      "date": "0000-00-00",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jimmy and Whitey Back Together"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (053) Jimmy and Whitey Back Together Again.mp3",
+          "time": "732",
+          "size": "29471791"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (053) Jimmy And Whitey Are Friends Again.mp3",
+          "time": "720",
+          "size": "11719796"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (053) JIMMY AND WHITEY ARE FRIENDS AGAIN.mp3",
+          "time": "710",
+          "size": "2840478"
+        }
+      ]
+    },
+    {
+      "ide": "62260",
+      "date": "0000-00-00",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tracking Down Unsafe Electric Cords"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (054) Tracking Down Unsafe Electric Cords.mp3",
+          "time": "741",
+          "size": "29823156"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (054) Unsafe Electric Cords Being Sold.mp3",
+          "time": "720",
+          "size": "11719792"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (054) UNSAFE ELECTRIC CORDS BEING SOLD.mp3",
+          "time": "710",
+          "size": "2841970"
+        }
+      ]
+    },
+    {
+      "ide": "62261",
+      "date": "0000-00-00",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stopping People from Using Cords"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (055) Stopping People from Using Cords.mp3",
+          "time": "768",
+          "size": "30901233"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (055) Finding Unsafe Electrical Cords.mp3",
+          "time": "721",
+          "size": "11736133"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (055) FINDING UNSAFE ELECTRICAL CORDS.mp3",
+          "time": "721",
+          "size": "2883113"
+        }
+      ]
+    },
+    {
+      "ide": "62262",
+      "date": "0000-00-00",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Another Fire from Unsafe Electrical Cord"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (056) Another Fire from Unsafe Electrical Cord.mp3",
+          "time": "735",
+          "size": "29567801"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (056) Another Fire From Unsafe Electrical Cords.mp3",
+          "time": "720",
+          "size": "11720228"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (056) ANOTHER FIRE FROM UNSAFE ELECTRICAL CORDS.mp3",
+          "time": "715",
+          "size": "2860083"
+        }
+      ]
+    },
+    {
+      "ide": "62263",
+      "date": "0000-00-00",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Caught Selling Bad Electric Cords"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (057) Man Caught Selling Bad Electric Cords.mp3",
+          "time": "749",
+          "size": "30157238"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (057) Unsafe Electrical Cord Salesman Caught.mp3",
+          "time": "720",
+          "size": "11719804"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (057) UNSAFE ELECTRICAL CORD SALESMAN CAUGHT.mp3",
+          "time": "726",
+          "size": "2903302"
+        }
+      ]
+    },
+    {
+      "ide": "62264",
+      "date": "0000-00-00",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Problems with Drivers While Going to Fires"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (058) Problems with Drivers While Going to Fires.mp3",
+          "time": "731",
+          "size": "29430523"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (058) Fire Sightseers Causing Problems.mp3",
+          "time": "720",
+          "size": "11719792"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (058) FIRE SIGHTSEERS CAUSING PROBLEMS.mp3",
+          "time": "710",
+          "size": "2839800"
+        }
+      ]
+    },
+    {
+      "ide": "62265",
+      "date": "0000-00-00",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Men Start Turning in False Alarms"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (059) Two Men Start Turning in False Alarms.mp3",
+          "time": "739",
+          "size": "29743478"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (059) False Alarms Being Turned In.mp3",
+          "time": "720",
+          "size": "11720202"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (059) FALSE ALARMS BEING TURNED IN.mp3",
+          "time": "717",
+          "size": "2867280"
+        }
+      ]
+    },
+    {
+      "ide": "62212",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "FIRE AT TIM'S HOUSE PUT OUT"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (006) Fire at Tim's House Put Out.mp3",
+          "time": "725",
+          "size": "29200107"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (006) Fire At Tim's House Put Out.mp3",
+          "time": "720",
+          "size": "11719782"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (006) FIRE AT TIM'S HOUSE PUT OUT.mp3",
+          "time": "759",
+          "size": "3036995"
+        }
+      ]
+    },
+    {
+      "ide": "62266",
+      "date": "0000-00-00",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Men Continue Pulling False Alarms"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (060) Men Continue Pulling False Alarms.mp3",
+          "time": "740",
+          "size": "29780914"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (060) False Alarms Continue.mp3",
+          "time": "720",
+          "size": "11720188"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (060) FALSE ALARMS CONTINUE.mp3",
+          "time": "718",
+          "size": "2872341"
+        }
+      ]
+    },
+    {
+      "ide": "62268",
+      "date": "0000-00-00",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Railroad Flats Discussed as Dangerous"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (062) Railroad Flats Discussed as Dangerous.mp3",
+          "time": "724",
+          "size": "29158838"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (062) Railroad Flats Discussed.mp3",
+          "time": "720",
+          "size": "11719776"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (062) RAILROAD FLATS DISCUSSED.mp3",
+          "time": "707",
+          "size": "2828980"
+        }
+      ]
+    },
+    {
+      "ide": "62269",
+      "date": "0000-00-00",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Children Trapped in Apartment Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (063) Children Trapped in Apartment Fire.mp3",
+          "time": "730",
+          "size": "29394995"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (063) Children Trapped In An Apartment Fire.mp3",
+          "time": "720",
+          "size": "11719802"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (063) CHILDREN TRAPPED IN AN APARTMENT FIRE.mp3",
+          "time": "711",
+          "size": "2844899"
+        }
+      ]
+    },
+    {
+      "ide": "62270",
+      "date": "0000-00-00",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Children Saved from Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (064) Children Saved from Fire.mp3",
+          "time": "718",
+          "size": "28890985"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (064) Children Are Saved.mp3",
+          "time": "720",
+          "size": "11720182"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (064) CHILDREN ARE SAVED.mp3",
+          "time": "701",
+          "size": "2804426"
+        }
+      ]
+    },
+    {
+      "ide": "62271",
+      "date": "0000-00-00",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chief Talks about Firefighting"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (065) Chief Talks about Firefighting.mp3",
+          "time": "729",
+          "size": "29338351"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (065) Chief Cody Talks About Fire Fighting.mp3",
+          "time": "720",
+          "size": "11719800"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (065) CHIEF CODY TALKS ABOUT FIRE FIGHTING.mp3",
+          "time": "698",
+          "size": "2792932"
+        }
+      ]
+    },
+    {
+      "ide": "62272",
+      "date": "0000-00-00",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "STORY OF FIRE BURNING WHOLE CITY"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (066) Story of Fire Burning Whole City.mp3",
+          "time": "729",
+          "size": "29325873"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (066) Story Of Fire Burning Whole City.mp3",
+          "time": "720",
+          "size": "11720210"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (066) STORY OF FIRE BURNING WHOLE CITY.mp3",
+          "time": "708",
+          "size": "2831176"
+        }
+      ]
+    },
+    {
+      "ide": "62273",
+      "date": "0000-00-00",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story Is Completed"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (067) Story Is Completed.mp3",
+          "time": "714",
+          "size": "28740259"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (067) Story Is Completed Of Fire Almost Destroying City.mp3",
+          "time": "720",
+          "size": "11720244"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (067) STORY IS COMPLETED OF FIRE ALMOST DESTROYING CITY.mp3",
+          "time": "691",
+          "size": "2762569"
+        }
+      ]
+    },
+    {
+      "ide": "62274",
+      "date": "0000-00-00",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TIM MIGHT BE PROMOTED"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (068) Tim Might Be Promoted.mp3",
+          "time": "743",
+          "size": "29922022"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (068) Tim Might Be Promoted.mp3",
+          "time": "720",
+          "size": "11719770"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (068) TIM MIGHT BE PROMOTED.mp3",
+          "time": "725",
+          "size": "2900425"
+        }
+      ]
+    },
+    {
+      "ide": "62275",
+      "date": "0000-00-00",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Wants Transfer to Rescue"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (069) Tim Wants Transfer to Rescue.mp3",
+          "time": "729",
+          "size": "29329709"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (069) Tim Wants Transfer To Rescue Squad.mp3",
+          "time": "720",
+          "size": "11720214"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (069) TIM WANTS TRANSFER TO RESCUE SQUAD.mp3",
+          "time": "710",
+          "size": "2840576"
+        }
+      ]
+    },
+    {
+      "ide": "62276",
+      "date": "0000-00-00",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Assigned to Fire Prevention Play"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (070) Tim Assigned to Fire Prevention Play.mp3",
+          "time": "729",
+          "size": "29359477"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (070) Tim Assigned To Fire Prevention Squad.mp3",
+          "time": "720",
+          "size": "11720220"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (070) TIM ASSIGNED TO FIRE PREVENTION SQUAD.mp3",
+          "time": "713",
+          "size": "2850619"
+        }
+      ]
+    },
+    {
+      "ide": "62277",
+      "date": "0000-00-00",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Production of Fire Prevention Play"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (071) Production of Fire Prevention Play.mp3",
+          "time": "735",
+          "size": "29563955"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (071) Production Of Fire Prevention Play Begins.mp3",
+          "time": "720",
+          "size": "11719810"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (071) PRODUCTION OF FIRE PREVENTION PLAY BEGINS.mp3",
+          "time": "717",
+          "size": "2867265"
+        }
+      ]
+    },
+    {
+      "ide": "62278",
+      "date": "0000-00-00",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "PLAY WASN'T PROPERLY REHEARSED"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (072) Play Wasn't Properly Rehearsed.mp3",
+          "time": "731",
+          "size": "29409391"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (072) Play Wasn't Properly Rehearsed.mp3",
+          "time": "720",
+          "size": "11720206"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (072) PLAY WASN'T PROPERLY REHEARSED.mp3",
+          "time": "718",
+          "size": "2872338"
+        }
+      ]
+    },
+    {
+      "ide": "62279",
+      "date": "0000-00-00",
+      "epnum": "73",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "CHIEF CODY SAVES THE PLAY"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (073) Chief Cody Saves the Play.mp3",
+          "time": "736",
+          "size": "29626346"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (073) Chief Cody Saves The Play.mp3",
+          "time": "720",
+          "size": "11719778"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (073) CHIEF CODY SAVES THE PLAY.mp3",
+          "time": "717",
+          "size": "2867959"
+        }
+      ]
+    },
+    {
+      "ide": "62280",
+      "date": "0000-00-00",
+      "epnum": "74",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Transfers to the Rescue Unit"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (074) Tim Transfers to the Rescue Unit.mp3",
+          "time": "729",
+          "size": "29329713"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (074) Tim Transfers To The Rescue Squad.mp3",
+          "time": "720",
+          "size": "11719794"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (074) TIM TRANSFERS TO THE RESCUE SQUAD.mp3",
+          "time": "707",
+          "size": "2828255"
+        }
+      ]
+    },
+    {
+      "ide": "62281",
+      "date": "0000-00-00",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim's Having Problems"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (075) Tim's Having Problems.mp3",
+          "time": "741",
+          "size": "29806822"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (075) Tim's Having Problems With New Assignment.mp3",
+          "time": "720",
+          "size": "11720228"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (075) TIM'S HAVING PROBLEMS WITH NEW ASSIGNMENT.mp3",
+          "time": "714",
+          "size": "2854931"
+        }
+      ]
+    },
+    {
+      "ide": "62282",
+      "date": "0000-00-00",
+      "epnum": "76",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TIM GETS IN A BOXING MATCH"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (076) Tim Gets in a Boxing Match.mp3",
+          "time": "728",
+          "size": "29313387"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (076) Tim Gets In A Boxing Match.mp3",
+          "time": "720",
+          "size": "11719780"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (076) TIM GETS IN A BOXING MATCH.mp3",
+          "time": "721",
+          "size": "2886082"
+        }
+      ]
+    },
+    {
+      "ide": "62283",
+      "date": "0000-00-00",
+      "epnum": "77",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fire with Man Trapped in Vault"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (077) Fire with Man Trapped in Vault.mp3",
+          "time": "728",
+          "size": "29304751"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (077) Fire With Man Trapped In A Vault.mp3",
+          "time": "720",
+          "size": "11720210"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (077) FIRE WITH MAN TRAPPED IN A VAULT.mp3",
+          "time": "708",
+          "size": "2831164"
+        }
+      ]
+    },
+    {
+      "ide": "62284",
+      "date": "0000-00-00",
+      "epnum": "78",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TRYING TO OPEN VAULT"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (078) Trying to Open Vault.mp3",
+          "time": "735",
+          "size": "29585061"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (078) Trying To Open Vault.mp3",
+          "time": "720",
+          "size": "11719768"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (078) TRYING TO OPEN VAULT.mp3",
+          "time": "718",
+          "size": "2870876"
+        }
+      ]
+    },
+    {
+      "ide": "62285",
+      "date": "0000-00-00",
+      "epnum": "79",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "VAULT IS FILLING UP WITH WATER"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (079) Vault Is Filling up with Water.mp3",
+          "time": "721",
+          "size": "29020591"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (079) Vault Is Filling Up With Water.mp3",
+          "time": "720",
+          "size": "11719788"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (079) VAULT IS FILLING UP WITH WATER.mp3",
+          "time": "708",
+          "size": "2831894"
+        }
+      ]
+    },
+    {
+      "ide": "62214",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TIM TRIES TO SAVE A MAN"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (008) Tim Tries to Save a Man.mp3",
+          "time": "738",
+          "size": "29723303"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (008) Tim Tries To Save A Man.mp3",
+          "time": "720",
+          "size": "11720192"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (008) TIM TRIES TO SAVE A MAN.mp3",
+          "time": "784",
+          "size": "3137393"
+        }
+      ]
+    },
+    {
+      "ide": "62286",
+      "date": "0000-00-00",
+      "epnum": "80",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "MAN RESCUED FROM THE VAULT"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (080) Man Rescued from the Vault.mp3",
+          "time": "732",
+          "size": "29467947"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (080) Man Rescued From The Vault.mp3",
+          "time": "720",
+          "size": "11720198"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (080) MAN RESCUED FROM THE VAULT.mp3",
+          "time": "724",
+          "size": "2894706"
+        }
+      ]
+    },
+    {
+      "ide": "62287",
+      "date": "0000-00-00",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Liked in Rescue Department"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (081) Tim Liked in Rescue Department.mp3",
+          "time": "728",
+          "size": "29288431"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (081) Tim Accepted By Fellow Rescue Squad Workers.mp3",
+          "time": "720",
+          "size": "11720232"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (081) TIM ACCEPTED BY FELLOW RESCUE SQUAD WORKERS.mp3",
+          "time": "683",
+          "size": "2731443"
+        }
+      ]
+    },
+    {
+      "ide": "62288",
+      "date": "0000-00-00",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim to Go On Strange Fishing Trip"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (082) Tim to Go On Strange Fishing Trip.mp3",
+          "time": "733",
+          "size": "29509234"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (082) Tim Assigned To Go On A Fishing Trip.mp3",
+          "time": "720",
+          "size": "11719800"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (082) TIM ASSIGNED TO GO ON A FISHING TRIP.mp3",
+          "time": "694",
+          "size": "2776986"
+        }
+      ]
+    },
+    {
+      "ide": "62289",
+      "date": "0000-00-00",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Learns Hard Hat Diving Equipment"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (083) Tim Learns Hard Hat Diving Equipment.mp3",
+          "time": "731",
+          "size": "29413237"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (083) Tim Learns Diving.mp3",
+          "time": "720",
+          "size": "11719762"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (083) TIM LEARNS DIVING.mp3",
+          "time": "699",
+          "size": "2795093"
+        }
+      ]
+    },
+    {
+      "ide": "62290",
+      "date": "0000-00-00",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Counterfeit Plates Forced Underwater"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (084) Counterfeit Plates Forced Underwater.mp3",
+          "time": "732",
+          "size": "29480437"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (084) Printing Plates For Counterfeit Money Found.mp3",
+          "time": "720",
+          "size": "11720232"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (084) Printing Plates For Counterfeit Money Found.mp3",
+          "time": "706",
+          "size": "2825343"
+        }
+      ]
+    },
+    {
+      "ide": "62291",
+      "date": "0000-00-00",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chief Gives Counterfeit Plates to Police"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (085) Chief Gives Counterfeit Plates to Police.mp3",
+          "time": "720",
+          "size": "28979321"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (085) Chief Cody Turns Printing Plates Over To Police.mp3",
+          "time": "720",
+          "size": "11720282"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (085) CHIEF CODY TURNS PRINTING PLATES OVER TO POLICE.mp3",
+          "time": "696",
+          "size": "2783467"
+        }
+      ]
+    },
+    {
+      "ide": "62293",
+      "date": "0000-00-00",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Has Idea to Find Missing Fireman"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (087) Tim Has Idea to Find Missing Fireman.mp3",
+          "time": "725",
+          "size": "29171317"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (087) Searching For Missing Fireman.mp3",
+          "time": "720",
+          "size": "11720246"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (087) SEARCHING FOR MISSING FIREMAN.mp3",
+          "time": "701",
+          "size": "2805965"
+        }
+      ]
+    },
+    {
+      "ide": "62294",
+      "date": "0000-00-00",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fireman Found and Claims Innocence"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (088) Fireman Found and Claims Innocence.mp3",
+          "time": "722",
+          "size": "29058035"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (088) Missing Fireman Found.mp3",
+          "time": "720",
+          "size": "11720230"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (088) MISSING FIREMAN FOUND.mp3",
+          "time": "698",
+          "size": "2790703"
+        }
+      ]
+    },
+    {
+      "ide": "62295",
+      "date": "0000-00-00",
+      "epnum": "89",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Firemen Work to Save Man Thought Drowned"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (089) Firemen Work to Save Man Thought Drowned.mp3",
+          "time": "735",
+          "size": "29585081"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (089) Firemen Work On Drowning Victim.mp3",
+          "time": "720",
+          "size": "11720668"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (089) FIREMEN WORK ON DROWNING VICTIM.mp3",
+          "time": "713",
+          "size": "2850617"
+        }
+      ]
+    },
+    {
+      "ide": "62215",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Trapped and Fights for Air"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (009) Tim Trapped and Fights for Air.mp3",
+          "time": "723",
+          "size": "29108910"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (009) Tim Is Trapped Fighting For Air.mp3",
+          "time": "720",
+          "size": "11720208"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (009) TIM IS TRAPPED FIGHTING FOR AIR.mp3",
+          "time": "774",
+          "size": "3095441"
+        }
+      ]
+    },
+    {
+      "ide": "62296",
+      "date": "0000-00-00",
+      "epnum": "90",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fireman Cleared about Plates"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (090) Fireman Cleared about Plates.mp3",
+          "time": "729",
+          "size": "29346989"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (090) Fireman Is Cleared Of Any Connection To Printing Plates.mp3",
+          "time": "720",
+          "size": "11720716"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (090) FIREMAN IS CLEARED OF ANY CONNECTION TO PRINTING PLATES.mp3",
+          "time": "706",
+          "size": "2822453"
+        }
+      ]
+    },
+    {
+      "ide": "62297",
+      "date": "0000-00-00",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "DEALER PUTS GASOLINE IN APARTMENT OIL TANK"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (091) Dealer Puts Gasoline in Apartment Oil Tank.mp3",
+          "time": "728",
+          "size": "29287483"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (091) Dealer Puts Gasoline In Apartment Oil Tank.mp3",
+          "time": "720",
+          "size": "11720272"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (091) DEALER PUTS GASOLINE IN APARTMENT OIL TANK.mp3",
+          "time": "701",
+          "size": "2805892"
+        }
+      ]
+    },
+    {
+      "ide": "62298",
+      "date": "0000-00-00",
+      "epnum": "92",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Furnace Started, Firemen Evacuating Building"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (092) Furnace Started, Firemen Evacuating Building.mp3",
+          "time": "725",
+          "size": "29166525"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (092) Furnace Started, Firemen Evacuating Building.mp3",
+          "time": "720",
+          "size": "11720694"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (092) Furnace Started, Firemen Evacuating Building.mp3",
+          "time": "704",
+          "size": "2816674"
+        }
+      ]
+    },
+    {
+      "ide": "62299",
+      "date": "0000-00-00",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "FIREMEN SEARCH FOR VALVE TO SHUT FURNACE OFF"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (093) Firemen Search for Valve to Shut Furnace Off.mp3",
+          "time": "729",
+          "size": "29347005"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (093) Firemen Search For Valve To Shut Furnace Off.mp3",
+          "time": "720",
+          "size": "11720694"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (093) FIREMEN SEARCH FOR VALVE TO SHUT FURNACE OFF.mp3",
+          "time": "715",
+          "size": "2861442"
+        }
+      ]
+    },
+    {
+      "ide": "62300",
+      "date": "0000-00-00",
+      "epnum": "94",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jimmy Is in Crawl Space"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (094) Jimmy Is in Crawl Space.mp3",
+          "time": "719",
+          "size": "28940904"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (094) Jimmy Is In Crawl Space With Rusty Valve.mp3",
+          "time": "720",
+          "size": "11720268"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (094) JIMMY IS IN CRAWL SPACE WITH RUSTY VALVE.mp3",
+          "time": "703",
+          "size": "2812336"
+        }
+      ]
+    },
+    {
+      "ide": "62301",
+      "date": "0000-00-00",
+      "epnum": "95",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "JIMMY AND TIM GET THE VALVE SHUT OFF"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (095) Jimmy and Tim Get the Valve Shut Off.mp3",
+          "time": "735",
+          "size": "29593717"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (095) Jimmy And Tim Get The Valve Shut Off.mp3",
+          "time": "720",
+          "size": "11719843"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (095) JIMMY AND TIM GET THE VALVE SHUT OFF.mp3",
+          "time": "723",
+          "size": "2893256"
+        }
+      ]
+    },
+    {
+      "ide": "62302",
+      "date": "0000-00-00",
+      "epnum": "96",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jimmy and Trudy Collect Charity Items"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (096) Jimmy and Trudy Collect Charity Items.mp3",
+          "time": "710",
+          "size": "28590518"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (096) Jimmy And Trudy Collect Items For Charity Sale.mp3",
+          "time": "720",
+          "size": "11720698"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (096) JIMMY AND TRUDY COLLECT ITEMS FOR CHARITY SALE.mp3",
+          "time": "695",
+          "size": "2781350"
+        }
+      ]
+    },
+    {
+      "ide": "62303",
+      "date": "0000-00-00",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "JIMMY AND TRUDY DISCOVER FIRE AT WILCOX MANSION"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (097) Jimmy and Trudy Discover Fire at Wilcox Mansion.mp3",
+          "time": "722",
+          "size": "29050368"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (097) Jimmy And Trudy Discover Fire At Wilcox Mansion.mp3",
+          "time": "720",
+          "size": "11720282"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (097) JIMMY AND TRUDY DISCOVER FIRE AT WILCOX MANSION.mp3",
+          "time": "702",
+          "size": "2806585"
+        }
+      ]
+    },
+    {
+      "ide": "62304",
+      "date": "0000-00-00",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "JIMMY AND TRUDY SUSPECTED OF ARSON"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (098) Jimmy and Trudy Suspected of Arson.mp3",
+          "time": "726",
+          "size": "29237555"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (098) Jimmy And Trudy Suspected Of Arson.mp3",
+          "time": "720",
+          "size": "11720674"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (098) JIMMY AND TRUDY SUSPECTED OF ARSON.mp3",
+          "time": "701",
+          "size": "2804426"
+        }
+      ]
+    },
+    {
+      "ide": "62305",
+      "date": "0000-00-00",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TIM AND CHIEF CODY FIGURE OUT HOW FIRE STARTED"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (099) Tim and Chief Cody Figure Out How Fire Started.mp3",
+          "time": "723",
+          "size": "29112767"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (099) Tim And Chief Cody Figure Out How Fire Started.mp3",
+          "time": "720",
+          "size": "11720280"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (099) TIM AND CHIEF CODY FIGURE OUT HOW FIRE STARTED.mp3",
+          "time": "700",
+          "size": "2801516"
+        }
+      ]
+    },
+    {
+      "ide": "62207",
+      "date": "1949-11-14",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Collins' First Day on the Job"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (001) Tim Collins' First Day on the Job.mp3",
+          "time": "742",
+          "size": "29865393"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (001) Tim Collins' First Day.mp3",
+          "time": "735",
+          "size": "17853254"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (001) TIM COLLINS' FIRST DAY.mp3",
+          "time": "783",
+          "size": "3132362"
+        }
+      ]
+    },
+    {
+      "ide": "62213",
+      "date": "1949-11-22",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Finally Makes the Fire Department"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (007) Tim Finally Makes the Fire Department.mp3",
+          "time": "728",
+          "size": "29317237"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (007) Tim Gets Appointed To Fire Department.mp3",
+          "time": "720",
+          "size": "11719802"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (007) TIM GETS APPOINTED TO THE FIRE DEPARTMENT.mp3",
+          "time": "769",
+          "size": "3075279"
+        }
+      ]
+    },
+    {
+      "ide": "62217",
+      "date": "1949-11-28",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim and Watchman Saved"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (011) Tim and Watchman Saved.mp3",
+          "time": "731",
+          "size": "29412263"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (011) Tim and Watchman Are Saved.mp3",
+          "time": "720",
+          "size": "11720198"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (011) TIM AND THE WATCHMAN ARE SAVED.mp3",
+          "time": "775",
+          "size": "3100496"
+        }
+      ]
+    },
+    {
+      "ide": "62222",
+      "date": "1949-12-05",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Woman Saved and Tim Rescued"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (016) Woman Saved and Tim Rescued.mp3",
+          "time": "736",
+          "size": "29613868"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (016) Tim And Woman Are Rescued.mp3",
+          "time": "720",
+          "size": "11720196"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (016) TIM AND THE WOMAN ARE RESCUED.mp3",
+          "time": "770",
+          "size": "3080375"
+        }
+      ]
+    },
+    {
+      "ide": "62224",
+      "date": "1949-12-07",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim to Northside School to Give Talk"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (018) Tim to Northside School to Give Talk.mp3",
+          "time": "744",
+          "size": "29931637"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (018) Tim Lectures At Northside School.mp3",
+          "time": "720",
+          "size": "11719792"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (018) TIM LECTURES AT NORTH SIDE SCHOOL.mp3",
+          "time": "768",
+          "size": "3073069"
+        }
+      ]
+    },
+    {
+      "ide": "62226",
+      "date": "1949-12-09",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Transferred to Engine Company 209"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (020) Tim Transferred to Engine Company 209.mp3",
+          "time": "741",
+          "size": "29839478"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (020) Tim Joins Engine Company 209.mp3",
+          "time": "720",
+          "size": "11720202"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (020) TIM JOINS ENGINE COMPANY 209.mp3",
+          "time": "781",
+          "size": "3124336"
+        }
+      ]
+    },
+    {
+      "ide": "62231",
+      "date": "1949-12-16",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chief Cody Talks with Nightclub Owner"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (025) Chief Cody Talks with Nightclub Owner.mp3",
+          "time": "723",
+          "size": "29104118"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (025) Chief Cody Talks With Night Club Owner.mp3",
+          "time": "720",
+          "size": "11720222"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (025) CHIEF CODY TALKS WITH NIGHT CLUB OWNER.mp3",
+          "time": "722",
+          "size": "2886708"
+        }
+      ]
+    },
+    {
+      "ide": "62247",
+      "date": "1950-01-10",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chief Talks with Tim About His Ideas"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (041) Chief Talks with Tim About His Ideas.mp3",
+          "time": "722",
+          "size": "29058037"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (041) Chief Cody & Tim Discuss Volunteer Fire Department.mp3",
+          "time": "720",
+          "size": "11719828"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (041) CHIEF CODY & TIM DISCUSS VOLUNTEER FIRE DEPARTMENT.mp3",
+          "time": "685",
+          "size": "2741618"
+        }
+      ]
+    },
+    {
+      "ide": "62255",
+      "date": "1950-01-20",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim and Crew Rescue a Cat"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (049) Tim and Crew Rescue a Cat.mp3",
+          "time": "725",
+          "size": "29187626"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (049) Tim & Crew Rescue A Cat.mp3",
+          "time": "720",
+          "size": "11720192"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (049) TIM & CREW RESCUE A CAT.mp3",
+          "time": "704",
+          "size": "2814533"
+        }
+      ]
+    },
+    {
+      "ide": "62267",
+      "date": "1950-02-07",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chief and Tim Try to Catch the Two Men"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (061) Chief and Tim Try to Catch the Two Men.mp3",
+          "time": "732",
+          "size": "29480439"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (061) Chief Cody & Tim Try To Catch False Alarmers.mp3",
+          "time": "720",
+          "size": "11720234"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (061) CHIEF CODY & TIM TRY TO CATCH FALSE ALARMERS.mp3",
+          "time": "715",
+          "size": "2861446"
+        }
+      ]
+    },
+    {
+      "ide": "62292",
+      "date": "1950-03-14",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fireman Missing, Linked to Plates"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (086) Fireman Missing, Linked to Plates.mp3",
+          "time": "738",
+          "size": "29697394"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (086) A Fireman Is Missing.mp3",
+          "time": "720",
+          "size": "11720228"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (086) A FIREMAN IS MISSING.mp3",
+          "time": "712",
+          "size": "2847074"
+        }
+      ]
+    },
+    {
+      "ide": "62313",
+      "date": "1950-04-12",
+      "epnum": "107",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snuff Box Disappears"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (107) Snuff Box Disappears.mp3",
+          "time": "727",
+          "size": "29250982"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (107) A Snuff Box Is Missing.mp3",
+          "time": "720",
+          "size": "11720650"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (107) A SNUFF BOX IS MISSING.mp3",
+          "time": "699",
+          "size": "2797144"
+        }
+      ]
+    },
+    {
+      "ide": "62314",
+      "date": "1950-04-13",
+      "epnum": "108",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr. Darby Locked in Vault"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (108) Mr. Darby Locked in Vault.mp3",
+          "time": "745",
+          "size": "29969067"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (108) Mr. Darby Locked In Vault.mp3",
+          "time": "720",
+          "size": "11720238"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (108) MISTER DARBY LOCKED IN VAULT.mp3",
+          "time": "719",
+          "size": "2874424"
+        }
+      ]
+    },
+    {
+      "ide": "62315",
+      "date": "1950-04-14",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr. Darby Is Discovered"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49-xx-xx (109) Mr. Darby Is Discovered.mp3",
+          "time": "719",
+          "size": "28940905"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Firefighters_Singles",
+          "name": "Firefighters 49xxxx (109) Mr. Darby Is Discovered Locked In Vault.mp3",
+          "time": "720",
+          "size": "11720266"
+        },
+        {
+          "path": "F",
+          "folder": "Firefighters",
+          "name": "Firefighters xx-xx-xx (109) MISTER DARBY IS DISCOVERED LOCKED IN VAULT.mp3",
+          "time": "691",
+          "size": "2764696"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Fire Fighters"
+    },
+    {
+      "title": "Firefighters"
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "TRZD"
+    },
+    {
+      "code": "TRZF"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064518-e5dc6a96.jpg",
+      "label": "Tarzan and the Diamond of Ahser CD",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064521-5ae77342.jpg",
+      "label": "Tarzan and the Diamond of Ahser CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064525-62be9598.jpg",
+      "label": "Tarzan and the Diamond of Ahser CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064529-5e3e5ec8.jpg",
+      "label": "Tarzan and the Fires of Tohr CD",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064533-347e1f6d.jpg",
+      "label": "Tarzan and the Fires of Tohr CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064537-2fd78ac3.jpg",
+      "label": "Tarzan and the Fires of Tohr CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/tda.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    }
+  ],
+  "infos": [
+    {
+      "info": "In 1951 Tarzan was produced and syndicated on the west coast by Commodore Productions.  The first 61 shows aired in LA (KHJ 8:00pm). In the spring of 1952 CBS bought rights to the series and ran 67 Of the 76 episodes (second series of dates on log) [The remaining 15 shows (after 02-28-51) were not broadcast in this] Market. The posted dates for these shows were the syndicated Scheduled air dates."
+    }
+  ],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "140249",
+      "date": "1935-05-01",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mistaken Identity"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-01 (01) Mistaken Identity .mp3",
+          "time": "791",
+          "size": "3166402"
+        }
+      ]
+    },
+    {
+      "ide": "140250",
+      "date": "1935-05-02",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Map, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-02 (02) The Map.mp3",
+          "time": "775",
+          "size": "3102914"
+        }
+      ]
+    },
+    {
+      "ide": "140251",
+      "date": "1935-05-03",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wolf Among The Sheep, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-03 (03) A Wolf Among The Sheep.mp3",
+          "time": "783",
+          "size": "3135714"
+        }
+      ]
+    },
+    {
+      "ide": "140252",
+      "date": "1935-05-04",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "River Boat Of Danger"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-04 (04) River Boat Of Danger.mp3",
+          "time": "811",
+          "size": "3246306"
+        }
+      ]
+    },
+    {
+      "ide": "140253",
+      "date": "1935-05-07",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gregory Expedition Begins, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-07 (05) The Gregory Expedition Begins.mp3",
+          "time": "760",
+          "size": "3041506"
+        }
+      ]
+    },
+    {
+      "ide": "140254",
+      "date": "1935-05-08",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ape Man Returns, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-08 (06) The Ape Man Returns.mp3",
+          "time": "806",
+          "size": "3223778"
+        }
+      ]
+    },
+    {
+      "ide": "140255",
+      "date": "1935-05-09",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Legend Of The Father Of Diamonds"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-09 (07) Legend Of The Father Of Diamonds.mp3",
+          "time": "796",
+          "size": "3186882"
+        }
+      ]
+    },
+    {
+      "ide": "140256",
+      "date": "1935-05-10",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Magra's Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-10 (08) Magra's Story.mp3",
+          "time": "798",
+          "size": "3193058"
+        }
+      ]
+    },
+    {
+      "ide": "140257",
+      "date": "1935-05-11",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stampeding Thunder"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-11 (09) Stampeding Thunder.mp3",
+          "time": "758",
+          "size": "3033282"
+        }
+      ]
+    },
+    {
+      "ide": "140258",
+      "date": "1935-05-14",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reptile Death"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-14 (10) Reptile Death.mp3",
+          "time": "746",
+          "size": "2986178"
+        }
+      ]
+    },
+    {
+      "ide": "140259",
+      "date": "1935-05-15",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Voodoo Medicine"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-15 (11) Voodoo Medicine.mp3",
+          "time": "764",
+          "size": "3055842"
+        }
+      ]
+    },
+    {
+      "ide": "140260",
+      "date": "1935-05-16",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sting Of The Black Snake Whip"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-16 (12) Sting Of The Black Snake Whip.mp3",
+          "time": "753",
+          "size": "3014850"
+        }
+      ]
+    },
+    {
+      "ide": "140261",
+      "date": "1935-05-17",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jungle Fury"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-17 (13) Jungle Fury.mp3",
+          "time": "770",
+          "size": "3080418"
+        }
+      ]
+    },
+    {
+      "ide": "140262",
+      "date": "1935-05-18",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Desertion"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-18 (14) Desertion.mp3",
+          "time": "770",
+          "size": "3082466"
+        }
+      ]
+    },
+    {
+      "ide": "140263",
+      "date": "1935-05-21",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Night Attack"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-21 (15) Night Attack.mp3",
+          "time": "758",
+          "size": "3031266"
+        }
+      ]
+    },
+    {
+      "ide": "140264",
+      "date": "1935-05-22",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captives Of Al-Ton-Tome"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-22 (16) Captives Of Al-Ton-Tome.mp3",
+          "time": "768",
+          "size": "3072226"
+        }
+      ]
+    },
+    {
+      "ide": "140265",
+      "date": "1935-05-23",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pact, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-23 (17) The Pact.mp3",
+          "time": "762",
+          "size": "3047650"
+        }
+      ]
+    },
+    {
+      "ide": "140266",
+      "date": "1935-05-24",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Helen Vanishes"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-24 (18) Helen Vanishes.mp3",
+          "time": "789",
+          "size": "3158242"
+        }
+      ]
+    },
+    {
+      "ide": "140267",
+      "date": "1935-05-25",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ancient Causeway, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-25 (19) The Ancient Causeway.mp3",
+          "time": "770",
+          "size": "3080418"
+        }
+      ]
+    },
+    {
+      "ide": "140268",
+      "date": "1935-05-28",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tu-Em-Baka Beckons"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-28 (20) Tu-Em-Baka Beckons.mp3",
+          "time": "780",
+          "size": "3119330"
+        }
+      ]
+    },
+    {
+      "ide": "140269",
+      "date": "1935-05-29",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death's Head, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-29 (21) The Death's Head.mp3",
+          "time": "758",
+          "size": "3033314"
+        }
+      ]
+    },
+    {
+      "ide": "140270",
+      "date": "1935-05-30",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cave Of Dinosaurs"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-30 (22) Cave Of Dinosaurs.mp3",
+          "time": "805",
+          "size": "3219682"
+        }
+      ]
+    },
+    {
+      "ide": "140271",
+      "date": "1935-05-31",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Land Of Tu-Em-Baka, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-05-31 (23) The Land Of Tu-Em-Baka.mp3",
+          "time": "765",
+          "size": "3064034"
+        }
+      ]
+    },
+    {
+      "ide": "140272",
+      "date": "1935-06-01",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Escort To Asher"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-01 (24) Escort To Asher.mp3",
+          "time": "750",
+          "size": "3000546"
+        }
+      ]
+    },
+    {
+      "ide": "140273",
+      "date": "1935-06-04",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "City Of Asher, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-04 (25) The City Of Asher.mp3",
+          "time": "780",
+          "size": "3121378"
+        }
+      ]
+    },
+    {
+      "ide": "140274",
+      "date": "1935-06-05",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guardian Of The Diamond, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-05 (26) The Guardian Of The Diamond.mp3",
+          "time": "753",
+          "size": "3012834"
+        }
+      ]
+    },
+    {
+      "ide": "140275",
+      "date": "1935-06-06",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Al-Ton-Tome's New Alliance"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-06 (27) Al-Ton-Tome's New Alliance.mp3",
+          "time": "766",
+          "size": "3068098"
+        }
+      ]
+    },
+    {
+      "ide": "140276",
+      "date": "1935-06-07",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "King Suten's New Prisoners"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-07 (28) King Suten's New Prisoners.mp3",
+          "time": "748",
+          "size": "2992322"
+        }
+      ]
+    },
+    {
+      "ide": "140277",
+      "date": "1935-06-08",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Another Try For The Diamond"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-08 (29) Another Try For The Diamond.mp3",
+          "time": "789",
+          "size": "3158242"
+        }
+      ]
+    },
+    {
+      "ide": "140278",
+      "date": "1935-06-11",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Queen's Offer, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-11 (30) The Queen's Offer.mp3",
+          "time": "776",
+          "size": "3104994"
+        }
+      ]
+    },
+    {
+      "ide": "140279",
+      "date": "1935-06-12",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Diamond's New Owner, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-12 (31) The Diamond's New Owner.mp3",
+          "time": "767",
+          "size": "3068130"
+        }
+      ]
+    },
+    {
+      "ide": "140280",
+      "date": "1935-06-13",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Together Again"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-13 (32) Together Again.mp3",
+          "time": "803",
+          "size": "3211490"
+        }
+      ]
+    },
+    {
+      "ide": "140281",
+      "date": "1935-06-14",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Help From A Friend"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-14 (33) Help From A Friend.mp3",
+          "time": "771",
+          "size": "3086562"
+        }
+      ]
+    },
+    {
+      "ide": "140282",
+      "date": "1935-06-15",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Royal Wedding"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-15 (34) Royal Wedding.mp3",
+          "time": "788",
+          "size": "3154146"
+        }
+      ]
+    },
+    {
+      "ide": "140283",
+      "date": "1935-06-18",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tower Of The Sun, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-18 (35) The Tower Of The Sun.mp3",
+          "time": "772",
+          "size": "3090658"
+        }
+      ]
+    },
+    {
+      "ide": "140284",
+      "date": "1935-06-19",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Temple Of Ma-Chu"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-19 (36) Temple Of Ma-Chu.mp3",
+          "time": "784",
+          "size": "3137730"
+        }
+      ]
+    },
+    {
+      "ide": "140285",
+      "date": "1935-06-20",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Escape Plans"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-20 (37) Escape Plans.mp3",
+          "time": "774",
+          "size": "3098850"
+        }
+      ]
+    },
+    {
+      "ide": "140286",
+      "date": "1935-06-21",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out Numbered"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-21 (38) Out Numbered.mp3",
+          "time": "774",
+          "size": "3096770"
+        }
+      ]
+    },
+    {
+      "ide": "140287",
+      "date": "1935-06-22",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Victory And Death"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tarzan",
+          "name": "Tarzan - The Diamond Of Asher 35-06-22 (39) Victory And Death.mp3",
+          "time": "758",
+          "size": "3033314"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Tarzan and the Diamond of Asher"
+    },
+    {
+      "title": "Tarzan and the Fires of Tohr "
+    }
+  ]
+}

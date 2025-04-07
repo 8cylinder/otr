@@ -1,0 +1,86 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1087",
+      "first": "Ken",
+      "last": "Christy",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "39511",
+      "first": "Buzz",
+      "last": "Adlam",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "246688",
+      "date": "1948-12-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mirth And Melody"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mirth And Melody",
+          "name": "Mirth And Melody 1948.12.02 Mirth And Melody.mp3",
+          "time": "1812",
+          "size": "7354013"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1948-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mirth and Melody"
+    }
+  ]
+}

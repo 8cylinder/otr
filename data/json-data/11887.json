@@ -1,0 +1,113 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "10257",
+      "first": "Homer",
+      "last": "Bliss",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "32934",
+      "first": "Mort",
+      "last": "Nussbaum",
+      "f": "Noted Role",
+      "character": "M.C."
+    }
+  ],
+  "prints": [],
+  "synopses": [
+    {
+      "synopsis": "Local Talent Show from Rochester, New York."
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Stairway to the Stars'"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "316200",
+      "date": "1949-01-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Contestant - Edgar Von Falconberg"
+        }
+      ],
+      "files": [
+        {
+          "path": "Y",
+          "folder": "You Can Be a Star",
+          "name": "You Can Be A Star 490124 xxx Ist Contestant - Edgar Von Falconberg_OTRRPG.mp3",
+          "time": "1652",
+          "size": "26515128"
+        }
+      ]
+    },
+    {
+      "ide": "316201",
+      "date": "1949-01-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Ralph Canary"
+        }
+      ],
+      "files": [
+        {
+          "path": "Y",
+          "folder": "You Can Be a Star",
+          "name": "You Can Be A Star 490124 xxx Winner - Ralph Canary_OTRRPG.mp3",
+          "time": "1652",
+          "size": "26515120"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "You Can Be A Star 49-01-24.mp3",
+          "time": "1654",
+          "size": "13235721"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "Norge Appliances",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "You Can Be A Star"
+    }
+  ]
+}

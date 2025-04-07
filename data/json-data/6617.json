@@ -1,0 +1,861 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1621",
+      "first": "Don",
+      "last": "Dowd",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "613",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1992-01-01",
+      "source": "Illustrated Press/IP_184.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #184 Jan 92",
+      "author": ""
+    },
+    {
+      "idprint": "617",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "1992-05-01",
+      "source": "Illustrated Press/IP_188.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #188 May 92",
+      "author": ""
+    },
+    {
+      "idprint": "2206",
+      "idtype": "4",
+      "page": "49",
+      "article": "",
+      "url": "",
+      "date": "1976-01-01",
+      "source": "Radio Nostalgia/Radio_Nostalgia_(04).pdf",
+      "idpytype2": "4",
+      "title": "Radio Nostalgia (04)",
+      "author": ""
+    },
+    {
+      "idprint": "2207",
+      "idtype": "4",
+      "page": "47",
+      "article": "",
+      "url": "",
+      "date": "1977-01-01",
+      "source": "Radio Nostalgia/Radio_Nostalgia_(05).pdf",
+      "idpytype2": "4",
+      "title": "Radio Nostalgia (05)",
+      "author": ""
+    },
+    {
+      "idprint": "2207",
+      "idtype": "4",
+      "page": "48",
+      "article": "",
+      "url": "",
+      "date": "1977-01-01",
+      "source": "Radio Nostalgia/Radio_Nostalgia_(05).pdf",
+      "idpytype2": "4",
+      "title": "Radio Nostalgia (05)",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "286484",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death By Proxy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286485",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death Walked In"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286481",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death Watch"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286486",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Four Fatal Jugglers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286487",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Four Time Loser"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286488",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder In Haste"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286489",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Adventure In Norfolk"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286490",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No One Will Ever Know"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286492",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Overcoat, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286493",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Picture Of Dorian Gray, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286491",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Success Story"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286494",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tale, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286495",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "White Curtain, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286423",
+      "date": "1956-05-03",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Queen of Spades (Orson Welles), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286424",
+      "date": "1956-05-10",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Judgment (Trevor Howard), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286425",
+      "date": "1956-05-17",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dr Jekyll and Mr Hyde (Sir Lawrence Olivier)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286426",
+      "date": "1956-05-24",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Markheim (Sir Lawrence Olivier)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286427",
+      "date": "1956-05-31",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286482",
+      "date": "1956-06-07",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Suicide Club (Sir Lawrence Olivier)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286428",
+      "date": "1956-06-14",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286429",
+      "date": "1956-06-21",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286430",
+      "date": "1956-06-28",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286431",
+      "date": "1956-07-05",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286432",
+      "date": "1956-07-12",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286433",
+      "date": "1956-07-19",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286434",
+      "date": "1956-07-26",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286483",
+      "date": "1956-08-02",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Half an Hour (Sir Ralph Richardson)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286435",
+      "date": "1956-08-09",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286436",
+      "date": "1956-08-16",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sire de Maltroit's Door (Robert Donat), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286437",
+      "date": "1956-08-23",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[PRE_EMPTED GOP Nat'l Conv.]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286438",
+      "date": "1956-08-30",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killing at Lafayette Place (Ed Begley), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286439",
+      "date": "1956-09-06",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286440",
+      "date": "1956-09-13",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286441",
+      "date": "1956-09-20",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286442",
+      "date": "1956-09-27",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286443",
+      "date": "1956-10-04",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286444",
+      "date": "1956-10-11",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286445",
+      "date": "1956-10-18",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286446",
+      "date": "1956-10-25",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286447",
+      "date": "1956-11-01",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286448",
+      "date": "1956-11-08",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286449",
+      "date": "1956-11-15",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286450",
+      "date": "1956-11-22",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Fall of the House of Usher, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286451",
+      "date": "1956-11-29",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286452",
+      "date": "1956-12-06",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286453",
+      "date": "1956-12-13",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286454",
+      "date": "1956-12-20",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286455",
+      "date": "1956-12-27",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286456",
+      "date": "1957-01-03",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286457",
+      "date": "1957-01-10",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286458",
+      "date": "1957-01-17",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286459",
+      "date": "1957-01-24",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286460",
+      "date": "1957-01-31",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286461",
+      "date": "1957-02-07",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286462",
+      "date": "1957-02-14",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286463",
+      "date": "1957-02-21",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286464",
+      "date": "1957-02-28",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286465",
+      "date": "1957-03-07",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286466",
+      "date": "1957-03-14",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286467",
+      "date": "1957-03-21",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286468",
+      "date": "1957-03-28",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Locomotive Ghost, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286469",
+      "date": "1957-04-04",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286470",
+      "date": "1957-04-11",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286471",
+      "date": "1957-04-18",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Upper Berth, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286472",
+      "date": "1957-04-25",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death Takes First Prize"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286473",
+      "date": "1957-05-02",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death Rides the Storm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286474",
+      "date": "1957-05-09",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286475",
+      "date": "1957-05-16",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286476",
+      "date": "1957-05-23",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ski Master"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286477",
+      "date": "1957-05-30",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Tell Tale Heart, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286478",
+      "date": "1957-06-06",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286479",
+      "date": "1957-06-13",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "286480",
+      "date": "1957-06-20",
+      "epnum": "59",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Mystery"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1956-05-03",
+      "dow": "Th",
+      "time": "7:30 PM",
+      "end": "1957-06-13",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1957-06-17",
+      "dow": "M",
+      "time": "7:30 PM",
+      "end": "1957-09-30",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mystery Classics"
+    }
+  ]
+}

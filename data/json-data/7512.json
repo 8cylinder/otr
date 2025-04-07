@@ -1,0 +1,106 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6047",
+      "first": "Rudy",
+      "last": "Vallee",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "323984",
+      "date": "1935-01-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rudy Vallee"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Radio City Matinee",
+          "name": "Radio City Matinee 1935.01.16 Rudy Vallee.mp3",
+          "time": "3543",
+          "size": "14280531"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1935-01-09",
+      "dow": "W",
+      "time": "2:00 PM",
+      "end": "1935-04-09",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "RCA",
+      "begin": "1935-01-09",
+      "end": "1935-04-10"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Radio City Matinee"
+    }
+  ]
+}

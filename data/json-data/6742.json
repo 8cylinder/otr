@@ -1,0 +1,233 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/N Series/Nellie Revel Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4953",
+      "first": "Nellie",
+      "last": "Revell",
+      "f": "Noted Role",
+      "character": "Commentator"
+    },
+    {
+      "idperson": "4953",
+      "first": "Nellie",
+      "last": "Revell",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "4953",
+      "first": "Nellie",
+      "last": "Revell",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Wait Til The Sun Shines Nellie"
+    },
+    {
+      "theme": "Love Thy Neighbor"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "311182",
+      "date": "1935-12-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Jewel"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nellie Revel Show",
+          "name": "Nellie Revel Show 351219 xxx 1st Song - Jewel_OTRRPG.mp3",
+          "time": "793",
+          "size": "12765526"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Nellie Revel Show 35-12-19 xxx 1st Song - Jewel.mp3",
+          "time": "795",
+          "size": "12722304"
+        },
+        {
+          "path": "N",
+          "folder": "Nellie Revel Show",
+          "name": "Nellie Revel Show 1935.12.19 Nellie Revel Show.mp3",
+          "time": "795",
+          "size": "3286421"
+        },
+        {
+          "path": "N",
+          "folder": "Nellie Revel Show",
+          "name": "Nellie Revel Show 35-12-19.mp3",
+          "time": "795",
+          "size": "6361128"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Interview"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1934-03-09",
+      "dow": "F",
+      "time": "",
+      "end": "1936-10-01",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1935-09-15",
+      "dow": "Su",
+      "time": "10:15 AM",
+      "end": "1936-06-14",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1936-06-20",
+      "dow": "Su",
+      "time": "11:15 AM",
+      "end": "1936-11-01",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1936-11-00",
+      "dow": "M",
+      "time": "10:45 AM",
+      "end": "1937-02-15",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1936-08-16",
+      "dow": "M,W,F",
+      "time": "12:15 PM",
+      "end": "1939-03-01",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1937-07-04",
+      "dow": "Su",
+      "time": "11:15 AM",
+      "end": "1939-12-31",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1939-03-14",
+      "dow": "Tu,F",
+      "time": "",
+      "end": "1940-05-03",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1941-01-08",
+      "dow": "W",
+      "time": "12:29 PM",
+      "end": "1941-09-23",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1942-08-04",
+      "dow": "Sa",
+      "time": "10:29 PM",
+      "end": "1943-11-27",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1934-03-09",
+      "end": "1936-10-02"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Neighbor Nell"
+    },
+    {
+      "title": "Nellie Revell Show , The"
+    },
+    {
+      "title": "Meet The Songwriters"
+    },
+    {
+      "title": "Nellie Revell Presents"
+    },
+    {
+      "title": "Meet the Song Writer"
+    }
+  ]
+}

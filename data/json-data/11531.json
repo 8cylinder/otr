@@ -1,0 +1,219 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1180",
+      "first": "Betty",
+      "last": "Comden",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2040",
+      "first": "John",
+      "last": "Frank",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2360",
+      "first": "Adolph",
+      "last": "Green",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "22388",
+      "first": "Alvin",
+      "last": "Hammer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50795",
+      "first": "Judith",
+      "last": "Children",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "310571",
+      "date": "1940-04-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Magazine Stand"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Reviewers, The",
+          "name": "The Reviewers 40-04-23 The Magazine Stand.mp3",
+          "time": "1647",
+          "size": "13175326"
+        }
+      ]
+    },
+    {
+      "ide": "310572",
+      "date": "1940-05-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The World's Fair"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Reviewers, The",
+          "name": "The Reviewers 40-05-14 The World's Fair.mp3",
+          "time": "1686",
+          "size": "13489422"
+        }
+      ]
+    },
+    {
+      "ide": "310573",
+      "date": "1940-06-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The World Of Music"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Reviewers, The",
+          "name": "The Reviewers 40-06-18 The World Of Music.mp3",
+          "time": "1646",
+          "size": "13165086"
+        }
+      ]
+    },
+    {
+      "ide": "310574",
+      "date": "1940-09-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nightlife"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Reviewers, The",
+          "name": "The Reviewers 40-09-29 Nightlife.mp3",
+          "time": "1662",
+          "size": "13298624"
+        }
+      ]
+    },
+    {
+      "ide": "310575",
+      "date": "1940-10-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "WSM's 50th Anniversary"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Reviewers, The",
+          "name": "The Reviewers 40-10-06 WSM's 50th Anniversary.mp3",
+          "time": "1600",
+          "size": "12798118"
+        }
+      ]
+    },
+    {
+      "ide": "310576",
+      "date": "1940-11-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "20th Anniversary of Radio"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Reviewers, The",
+          "name": "The Reviewers 40-11-03 20th Anniversary of Radio.mp3",
+          "time": "1610",
+          "size": "12876485"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-00-00",
+      "dow": "Tu",
+      "time": "",
+      "end": "1940-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Reviewers, The"
+    }
+  ]
+}

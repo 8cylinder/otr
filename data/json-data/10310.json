@@ -1,0 +1,203 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6237",
+      "first": "Jack",
+      "last": "Webb",
+      "f": "Noted Role",
+      "character": "Johnny Madero"
+    },
+    {
+      "idperson": "302",
+      "first": "Joan",
+      "last": "Banks",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "869",
+      "first": "Francis X.",
+      "last": "Bushman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1204",
+      "first": "William",
+      "last": "Conrad",
+      "f": "Noted Role",
+      "character": "Warcheck"
+    },
+    {
+      "idperson": "2147",
+      "first": "John",
+      "last": "Garfield",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2288",
+      "first": "Gale",
+      "last": "Gordon",
+      "f": "Noted Role",
+      "character": "Father Leahy"
+    },
+    {
+      "idperson": "3344",
+      "first": "Tony",
+      "last": "LaFrano",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5086",
+      "first": "Jean",
+      "last": "Rogers",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "37415",
+      "first": "Harry",
+      "last": "Zimmerman",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "I Cover The Waterfront"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "309430",
+      "date": "1947-06-19",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Find Pete Sutro"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Johnny Madero",
+          "name": "Johnny Madero, Pier 23 47-06-19 (09) Find Pete Sutro.mp3",
+          "time": "1734",
+          "size": "8673290"
+        }
+      ]
+    },
+    {
+      "ide": "309432",
+      "date": "1947-06-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Man who Chased Himself"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Johnny Madero",
+          "name": "Johnny Modero, Pier 23 47-06-23 The Man who Chased Himself.mp3",
+          "time": "1674",
+          "size": "6697088"
+        }
+      ]
+    },
+    {
+      "ide": "309431",
+      "date": "1947-06-26",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fatal Auction"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Johnny Madero",
+          "name": "Johnny Madero, Pier 23 47-06-26 (10) Fatal Auction.mp3",
+          "time": "1712",
+          "size": "27394211"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-04-24",
+      "dow": "Th",
+      "time": "",
+      "end": "1947-09-04",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Johnny Madero, Pier 23"
+    }
+  ]
+}

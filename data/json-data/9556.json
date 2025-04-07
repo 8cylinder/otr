@@ -1,0 +1,111 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1572",
+      "first": "Bob",
+      "last": "Dixon",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4153",
+      "first": "Jack",
+      "last": "Miller",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4513",
+      "first": "Santos",
+      "last": "Ortega",
+      "f": "Noted Role",
+      "character": "Inspector Slade"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "764",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1998-12-01",
+      "source": "Illustrated Press/IP_265.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#265) - Dec 1998",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Game Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-05-30",
+      "dow": "Su",
+      "time": "4:30 PM",
+      "end": "1948-06-07",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Albers Brothers Milling Company",
+      "begin": "1948-05-30",
+      "end": "1948-07-07"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Who-Dun-It?"
+    }
+  ]
+}

@@ -1,0 +1,2442 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Author Meets The Critics/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,779748,00.html",
+      "label": "1948-03-15: Handyman",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,797355,00.html",
+      "label": "1945-03-19: Plug for Plugs",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,812429,00.html",
+      "label": "1950-05-08: Laurels for 1949",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,934574,00.html",
+      "label": "1947-06-02: Amateur Meets an Audience",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-1049-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "(1) One of the few literary discussion programs on radio, the half-hour weekly Author Meets Critic was originally a production of a local New York City station, WOR, until it became a network program in 1946. During the first half of the show, two critics argued the strengths and weaknesses of an author's work. During the second half of the show, the author was given a chance to enter the discussion and either defend his or her work or acknowledge the praise. Authors who were guests on this series included Leon Uris, Kathleen Winsor, Anita Loos, and Isaac Asimov. Barry Gray and John K. M. McCaffrey were the show's hosts. The series was produced and directed by Martin Stone. - (2) The series is also known as ' Author Meets Critic' - Source: The Encyclopedia of American Radio"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "129",
+      "first": "Isaac",
+      "last": "Asimov",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2347",
+      "first": "Barry",
+      "last": "Gray",
+      "f": "Noted Role",
+      "character": "Host, on Mutual"
+    },
+    {
+      "idperson": "3623",
+      "first": "Anita",
+      "last": "Loos",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3955",
+      "first": "John K. M.",
+      "last": "McCaffery",
+      "f": "Noted Role",
+      "character": "Host, on NBC and ABC"
+    },
+    {
+      "idperson": "5700",
+      "first": "Martin",
+      "last": "Stone",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "5700",
+      "first": "Martin",
+      "last": "Stone",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "33677",
+      "first": "Leon",
+      "last": "Uris",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "33678",
+      "first": "Kathleen",
+      "last": "Winson",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3955",
+      "first": "John K. M.",
+      "last": "McCaffery",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5410",
+      "first": "Bob",
+      "last": "Sherry",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6182",
+      "first": "Edith",
+      "last": "Walton",
+      "f": "Noted Role",
+      "character": "Critic"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "250836",
+      "date": "1945-01-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Troubled Midnight, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 45-01-29 The Troubled Midnight.mp3",
+          "time": "1802",
+          "size": "14417910"
+        }
+      ]
+    },
+    {
+      "ide": "250833",
+      "date": "1945-02-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secret History Of The War, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 45-02-05 The Secret History Of The War.mp3",
+          "time": "1719",
+          "size": "13754198"
+        }
+      ]
+    },
+    {
+      "ide": "24736",
+      "date": "1945-02-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Anything Can Happen"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 45-02-12 Anything Can Happen.mp3",
+          "time": "1793",
+          "size": "14344974"
+        }
+      ]
+    },
+    {
+      "ide": "24737",
+      "date": "1945-02-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Youngin'"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 45-02-19 Youngin'.mp3",
+          "time": "894",
+          "size": "7156483"
+        }
+      ]
+    },
+    {
+      "ide": "24738",
+      "date": "1945-02-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brainstorm"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 45-02-28 Brainstorm.mp3",
+          "time": "1801",
+          "size": "14411629"
+        }
+      ]
+    },
+    {
+      "ide": "250840",
+      "date": "1946-06-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250841",
+      "date": "1946-06-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250842",
+      "date": "1946-06-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250843",
+      "date": "1946-07-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250844",
+      "date": "1946-07-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250845",
+      "date": "1946-07-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250846",
+      "date": "1946-07-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250847",
+      "date": "1946-08-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250848",
+      "date": "1946-08-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250849",
+      "date": "1946-08-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250850",
+      "date": "1946-08-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250851",
+      "date": "1946-09-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250852",
+      "date": "1946-09-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250853",
+      "date": "1946-09-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250854",
+      "date": "1946-09-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250855",
+      "date": "1946-10-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250856",
+      "date": "1946-10-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250857",
+      "date": "1946-10-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250858",
+      "date": "1946-10-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250859",
+      "date": "1946-10-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250860",
+      "date": "1946-11-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250861",
+      "date": "1946-11-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250862",
+      "date": "1946-11-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250863",
+      "date": "1946-11-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250864",
+      "date": "1946-12-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250865",
+      "date": "1946-12-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250866",
+      "date": "1946-12-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250867",
+      "date": "1946-12-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250868",
+      "date": "1947-01-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250869",
+      "date": "1947-01-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250870",
+      "date": "1947-01-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250871",
+      "date": "1947-01-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250872",
+      "date": "1947-01-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250873",
+      "date": "1947-02-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250874",
+      "date": "1947-02-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250875",
+      "date": "1947-02-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250876",
+      "date": "1947-02-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250877",
+      "date": "1947-03-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250878",
+      "date": "1947-03-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250879",
+      "date": "1947-03-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250880",
+      "date": "1947-03-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250881",
+      "date": "1947-04-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250882",
+      "date": "1947-05-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250883",
+      "date": "1947-06-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250884",
+      "date": "1947-06-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250885",
+      "date": "1947-06-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250886",
+      "date": "1947-06-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250887",
+      "date": "1947-06-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250888",
+      "date": "1947-07-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250889",
+      "date": "1947-07-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250890",
+      "date": "1947-07-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250891",
+      "date": "1947-07-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "24791",
+      "date": "1947-08-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Belvedere"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 47-08-03 Belvedere.mp3",
+          "time": "1779",
+          "size": "14230861"
+        }
+      ]
+    },
+    {
+      "ide": "24792",
+      "date": "1947-08-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Richer By Asea"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 47-08-10 Richer By Asea.mp3",
+          "time": "1789",
+          "size": "14316338"
+        }
+      ]
+    },
+    {
+      "ide": "24793",
+      "date": "1947-08-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vespers In Vienna"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 47-08-17 Vespers In Vienna.mp3",
+          "time": "1798",
+          "size": "14380707"
+        }
+      ]
+    },
+    {
+      "ide": "250828",
+      "date": "1947-08-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harder They Fall, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 47-08-24 The Harder They Fall.mp3",
+          "time": "1788",
+          "size": "14307358"
+        }
+      ]
+    },
+    {
+      "ide": "24795",
+      "date": "1947-08-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Star Spangled Mikado"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 47-08-31 Star Spangled Mikado.mp3",
+          "time": "1778",
+          "size": "14227319"
+        }
+      ]
+    },
+    {
+      "ide": "24796",
+      "date": "1947-09-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You're The Boss"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 47-09-07 You're The Boss.mp3",
+          "time": "1791",
+          "size": "14330968"
+        }
+      ]
+    },
+    {
+      "ide": "250892",
+      "date": "1947-09-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250893",
+      "date": "1947-09-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "24799",
+      "date": "1947-09-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adversary In The House"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 47-09-28 Adversary In The House.mp3",
+          "time": "1783",
+          "size": "14263266"
+        }
+      ]
+    },
+    {
+      "ide": "24800",
+      "date": "1947-10-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Or Forfeit Freedom"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 47-10-05 Or Forfeit Freedom.mp3",
+          "time": "1801",
+          "size": "14409756"
+        }
+      ]
+    },
+    {
+      "ide": "24801",
+      "date": "1947-10-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grenedine Etching"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 47-10-12 Grenedine Etching.mp3",
+          "time": "1799",
+          "size": "14390111"
+        }
+      ]
+    },
+    {
+      "ide": "250894",
+      "date": "1947-10-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250895",
+      "date": "1947-10-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250896",
+      "date": "1947-11-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250897",
+      "date": "1947-11-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250898",
+      "date": "1947-11-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250899",
+      "date": "1947-11-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250900",
+      "date": "1947-11-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250901",
+      "date": "1947-12-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250902",
+      "date": "1947-12-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250903",
+      "date": "1947-12-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250904",
+      "date": "1947-12-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250905",
+      "date": "1948-01-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250906",
+      "date": "1948-01-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250907",
+      "date": "1948-01-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250908",
+      "date": "1948-01-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250909",
+      "date": "1948-02-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250910",
+      "date": "1948-02-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250911",
+      "date": "1948-02-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "24820",
+      "date": "1948-07-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Miracle Of The Bells"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-07-04 Miracle Of The Bells.mp3",
+          "time": "1799",
+          "size": "14394712"
+        }
+      ]
+    },
+    {
+      "ide": "250827",
+      "date": "1948-07-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guide To Confident Living, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-07-11 A Guide To Confident Living.mp3",
+          "time": "1797",
+          "size": "14378627"
+        }
+      ]
+    },
+    {
+      "ide": "24822",
+      "date": "1948-07-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baseball"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-07-18 Baseball.mp3",
+          "time": "1793",
+          "size": "14343709"
+        }
+      ]
+    },
+    {
+      "ide": "250834",
+      "date": "1948-07-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time Of Your Life, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-07-25 The Time Of Your Life.mp3",
+          "time": "1798",
+          "size": "14382174"
+        }
+      ]
+    },
+    {
+      "ide": "250912",
+      "date": "1948-08-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250822",
+      "date": "1948-08-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Comics, Very Funny, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-08-08 The Comics, Very Funny.mp3",
+          "time": "1795",
+          "size": "14358978"
+        }
+      ]
+    },
+    {
+      "ide": "250820",
+      "date": "1948-08-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "American Democarcy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24827",
+      "date": "1948-08-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tomorrow Everything Will Be Better"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-08-22 Tomorrow Everything Will Be Better.mp3",
+          "time": "1794",
+          "size": "14351676"
+        }
+      ]
+    },
+    {
+      "ide": "24828",
+      "date": "1948-08-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "So This Is New York"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "Author Meets The Critics 48-08-29  So This Is New York.mp3",
+          "time": "1798",
+          "size": "14382601"
+        }
+      ]
+    },
+    {
+      "ide": "24829",
+      "date": "1948-09-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gertrude Stein"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-09-05 Gertrude Stein.mp3",
+          "time": "1795",
+          "size": "14364613"
+        }
+      ]
+    },
+    {
+      "ide": "24830",
+      "date": "1948-09-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Family Circle"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-09-12 Family Circle.mp3",
+          "time": "1794",
+          "size": "14354372"
+        }
+      ]
+    },
+    {
+      "ide": "250823",
+      "date": "1948-09-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crusaders, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-09-19 The Crusaders.mp3",
+          "time": "1799",
+          "size": "14389898"
+        }
+      ]
+    },
+    {
+      "ide": "24832",
+      "date": "1948-09-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Didn't Know It Was Loaded"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-09-26 I Didn't Know It Was Loaded.mp3",
+          "time": "1801",
+          "size": "14404750"
+        }
+      ]
+    },
+    {
+      "ide": "250819",
+      "date": "1948-10-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Affair Of State, An"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-10-03 An Affair Of State.mp3",
+          "time": "1797",
+          "size": "14379872"
+        }
+      ]
+    },
+    {
+      "ide": "250831",
+      "date": "1948-10-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Schmo, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-10-10 The Schmo.mp3",
+          "time": "1799",
+          "size": "14395955"
+        }
+      ]
+    },
+    {
+      "ide": "250839",
+      "date": "1948-10-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wild Country, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-10-17 The Wild Country.mp3",
+          "time": "1799",
+          "size": "14394708"
+        }
+      ]
+    },
+    {
+      "ide": "250832",
+      "date": "1948-10-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sealed Verdict, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-10-24 The Sealed Verdict.mp3",
+          "time": "1800",
+          "size": "14400979"
+        }
+      ]
+    },
+    {
+      "ide": "250837",
+      "date": "1948-11-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wayfaring Stranger, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-11-07 The Wayfaring Stranger.mp3",
+          "time": "1797",
+          "size": "14377786"
+        }
+      ]
+    },
+    {
+      "ide": "24838",
+      "date": "1948-11-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Our New National Labor Policy"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-11-14 Our New National Labor Policy.mp3",
+          "time": "1800",
+          "size": "14398065"
+        }
+      ]
+    },
+    {
+      "ide": "250821",
+      "date": "1948-11-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Autobiography Of Sol Bloom"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "Author Meets The Critics 48-11-21 Autobiography Of Saul Bloom.mp3",
+          "time": "1798",
+          "size": "14383114"
+        }
+      ]
+    },
+    {
+      "ide": "250838",
+      "date": "1948-11-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Whole Of Their Lives, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24841",
+      "date": "1948-12-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "We're All In It"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24842",
+      "date": "1948-12-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Warlords Of Washington"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-12-12 Warlords Of Washington.mp3",
+          "time": "1796",
+          "size": "14365875"
+        }
+      ]
+    },
+    {
+      "ide": "24843",
+      "date": "1948-12-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "So Far, So Good"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-12-19 So Far, So Good.mp3",
+          "time": "1794",
+          "size": "14355837"
+        }
+      ]
+    },
+    {
+      "ide": "250830",
+      "date": "1948-12-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Called White, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 48-12-26 A Man Called White.mp3",
+          "time": "1799",
+          "size": "14388858"
+        }
+      ]
+    },
+    {
+      "ide": "24845",
+      "date": "1949-01-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Larks In The Popcorn"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-01-02 Larks In The Popcorn.mp3",
+          "time": "1799",
+          "size": "14390114"
+        }
+      ]
+    },
+    {
+      "ide": "250818",
+      "date": "1949-01-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Act Of Love, An"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-01-09 An Act Of Love.mp3",
+          "time": "1797",
+          "size": "14372763"
+        }
+      ]
+    },
+    {
+      "ide": "250826",
+      "date": "1949-01-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flesh Of Mary Duncan, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-01-16 The Flesh Of Mary Duncan.mp3",
+          "time": "1797",
+          "size": "14374027"
+        }
+      ]
+    },
+    {
+      "ide": "250824",
+      "date": "1949-01-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Embers Still Burn, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-01-23 The Embers Still Burn.mp3",
+          "time": "1797",
+          "size": "14376323"
+        }
+      ]
+    },
+    {
+      "ide": "24849",
+      "date": "1949-01-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "China, The Land And The People"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-01-30 China, The Land And The People.mp3",
+          "time": "1795",
+          "size": "14362748"
+        }
+      ]
+    },
+    {
+      "ide": "24850",
+      "date": "1949-02-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "American Argument"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-02-06 American Argument.mp3",
+          "time": "1802",
+          "size": "14412681"
+        }
+      ]
+    },
+    {
+      "ide": "24851",
+      "date": "1949-02-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shalom Means Peace"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-02-13 Shalom Means Peace.mp3",
+          "time": "1793",
+          "size": "14345391"
+        }
+      ]
+    },
+    {
+      "ide": "250829",
+      "date": "1949-02-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mad Woman Of Chaillot, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-02-20 The Mad Woman Of Chaillot.mp3",
+          "time": "1800",
+          "size": "14401822"
+        }
+      ]
+    },
+    {
+      "ide": "24853",
+      "date": "1949-02-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Place To Hide"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-02-27 No Place To Hide.mp3",
+          "time": "1799",
+          "size": "14390528"
+        }
+      ]
+    },
+    {
+      "ide": "250825",
+      "date": "1949-03-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fires Of Spring, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-03-20 The Fires Of Spring.mp3",
+          "time": "1800",
+          "size": "14398681"
+        }
+      ]
+    },
+    {
+      "ide": "250835",
+      "date": "1949-03-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Treasury Of The Spoken Word, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author Meets The Critics",
+          "name": "_Author Meets The Critics 49-03-27 A Treasury Of The Spoken Word.mp3",
+          "time": "1795",
+          "size": "14364628"
+        }
+      ]
+    },
+    {
+      "ide": "250913",
+      "date": "1949-11-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250914",
+      "date": "1949-12-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250915",
+      "date": "1949-12-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250916",
+      "date": "1949-12-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250917",
+      "date": "1949-12-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250918",
+      "date": "1949-12-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250919",
+      "date": "1950-01-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250920",
+      "date": "1950-01-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250921",
+      "date": "1950-01-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250922",
+      "date": "1950-01-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250923",
+      "date": "1950-02-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250924",
+      "date": "1950-02-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250925",
+      "date": "1950-02-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250926",
+      "date": "1950-02-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250927",
+      "date": "1950-03-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250928",
+      "date": "1950-03-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250929",
+      "date": "1950-03-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250930",
+      "date": "1950-03-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250931",
+      "date": "1950-03-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250932",
+      "date": "1950-04-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250933",
+      "date": "1950-04-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250934",
+      "date": "1950-04-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250935",
+      "date": "1950-04-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250936",
+      "date": "1950-05-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250937",
+      "date": "1950-05-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250938",
+      "date": "1950-05-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250939",
+      "date": "1950-05-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250940",
+      "date": "1950-06-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250941",
+      "date": "1950-06-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250942",
+      "date": "1950-06-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250943",
+      "date": "1950-06-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250944",
+      "date": "1950-06-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250945",
+      "date": "1950-07-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250946",
+      "date": "1950-07-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250947",
+      "date": "1950-07-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250948",
+      "date": "1950-07-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250949",
+      "date": "1950-08-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250950",
+      "date": "1950-08-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250951",
+      "date": "1950-08-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250952",
+      "date": "1950-08-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250953",
+      "date": "1950-08-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250954",
+      "date": "1950-09-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250955",
+      "date": "1950-09-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250956",
+      "date": "1950-09-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250957",
+      "date": "1950-09-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250958",
+      "date": "1950-10-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250959",
+      "date": "1950-10-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250960",
+      "date": "1950-10-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250961",
+      "date": "1950-10-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250962",
+      "date": "1950-10-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250963",
+      "date": "1950-11-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250964",
+      "date": "1950-11-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250965",
+      "date": "1950-11-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250966",
+      "date": "1950-11-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250967",
+      "date": "1950-12-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250968",
+      "date": "1950-12-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250969",
+      "date": "1950-12-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250970",
+      "date": "1950-12-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250971",
+      "date": "1950-12-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250972",
+      "date": "1951-01-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250973",
+      "date": "1951-01-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250974",
+      "date": "1951-01-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250975",
+      "date": "1951-01-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250976",
+      "date": "1951-02-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250977",
+      "date": "1951-02-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250978",
+      "date": "1951-02-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250979",
+      "date": "1951-02-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250980",
+      "date": "1951-03-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250981",
+      "date": "1951-03-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250982",
+      "date": "1951-03-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250983",
+      "date": "1951-03-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250984",
+      "date": "1951-04-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250985",
+      "date": "1951-04-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250986",
+      "date": "1951-04-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "250987",
+      "date": "1951-04-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Discussion"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-06-12",
+      "dow": "W",
+      "time": "10:30 AM",
+      "end": "1947-04-02",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1947-05-25",
+      "dow": "Su",
+      "time": "4:30 AM",
+      "end": "1948-02-00",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1948-07-00",
+      "dow": "Su",
+      "time": "5:00 PM",
+      "end": "1948-10-03",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1949-11-24",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1950-09-00",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1950-09-00",
+      "dow": "Su",
+      "time": "11:30 AM",
+      "end": "1951-04-22",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Author Meets The Critics"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324065538-9befc6dd.jpg",
+      "label": "Three Sheets to the Wind",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "dukefanclub.blogspot.com/2011/12/john-waynes-forgotten-radio-show.html",
+      "label": "The New Frontier",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6227",
+      "first": "John",
+      "last": "Wayne",
+      "f": "Noted Role",
+      "character": "Dan O'Brien"
+    },
+    {
+      "idperson": "31747",
+      "first": "Helga",
+      "last": "Moray",
+      "f": "Noted Role",
+      "character": "Joan Lockwood"
+    },
+    {
+      "idperson": "1205",
+      "first": "Hans",
+      "last": "Conried",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48150",
+      "first": "Ray",
+      "last": "Garrett",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "48150",
+      "first": "Ray",
+      "last": "Garrett",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "48150",
+      "first": "Ray",
+      "last": "Garrett",
+      "f": "Producer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1588",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "2006-02-01",
+      "source": "OTR Digest_1990s/OTRDigest_(112)Winter06.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (112) Winter 2006",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "247169",
+      "date": "1942-02-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three Sheets To The Wind - Sultan's Curse"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Three Sheets To The Wind",
+          "name": "Three Sheets To The Wind 1942.02.12 Sultans Curse.mp3",
+          "time": "1674",
+          "size": "6802739"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "ThreeSheetsJHMC",
+          "name": "Three Sheets to the Wind (radio play that is a movie audition).mp3",
+          "time": "1564",
+          "size": "17964306"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-02-15",
+      "dow": "Su",
+      "time": "11:30 PM",
+      "end": "1942-07-05",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Three Sheets to the Wind"
+    }
+  ]
+}

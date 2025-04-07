@@ -1,0 +1,145 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "49655",
+      "first": "The",
+      "last": "Revelers Quartet",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "246310",
+      "date": "1933-04-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good Gulf Program - Host Will Rogers"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Good Gulf Program",
+          "name": "Good Gulf Program 33-04-30 With Al Goodman and the Revelers.mp3",
+          "time": "1657",
+          "size": "6628519"
+        }
+      ]
+    },
+    {
+      "ide": "322921",
+      "date": "1933-04-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Al Goodman And The Revelers"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Good Gulf Program",
+          "name": "Good Gulf Program 1933.04.30 Al Goodman And The Revelers.mp3",
+          "time": "1657",
+          "size": "6734500"
+        }
+      ]
+    },
+    {
+      "ide": "318677",
+      "date": "1935-04-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will Rogers - Government Money"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Good Gulf Program",
+          "name": "Good Gulf Program 35-04-07 Will Rogers - Government Money.mp3",
+          "time": "821",
+          "size": "3285682"
+        }
+      ]
+    },
+    {
+      "ide": "318678",
+      "date": "1935-04-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will Rogers, Frank Orch and Helen Gleason"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Good Gulf Program",
+          "name": "Good Gulf Program 35-04-21 Will Rodgers, Frank Orch and Helen Gleason.mp3",
+          "time": "1569",
+          "size": "6275553"
+        }
+      ]
+    },
+    {
+      "ide": "318679",
+      "date": "1935-05-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Rogers Plan"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Good Gulf Program",
+          "name": "Good Gulf Program 35-05-05 The Rogers Plan.mp3",
+          "time": "531",
+          "size": "2122292"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Good Gulf Show"
+    },
+    {
+      "title": "Gulf Headliners"
+    }
+  ]
+}

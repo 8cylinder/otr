@@ -1,0 +1,123 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50791",
+      "first": "Red Benson",
+      "last": "",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "487",
+      "first": "Al",
+      "last": "Benson",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "38070",
+      "first": "Carlton",
+      "last": "Warren",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324001",
+      "date": "1948-09-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Starring Red Benson"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Movie Matinee",
+          "name": "Movie Matinee 1948.09.28 Starring Red Benson.mp3",
+          "time": "1771",
+          "size": "7192466"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Quiz"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1955-06-05",
+      "dow": "M,Tu,W,Th,F",
+      "time": "8:00 PM",
+      "end": "1955-10-28",
+      "length": "60",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1946-10-30",
+      "dow": "Sa",
+      "time": "2:00 PM",
+      "end": "1947-03-08",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1948-02-03",
+      "dow": "M,Tu,W,Th,F",
+      "time": "3:00 PM",
+      "end": "1949-04-22",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Red Benson"
+    },
+    {
+      "title": "Red Benson's Movie Matinee"
+    }
+  ]
+}

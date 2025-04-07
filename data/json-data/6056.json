@@ -1,0 +1,91 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6318",
+      "first": "Jack",
+      "last": "Whiting",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45697",
+      "first": "",
+      "last": "Jack Denny Orchestra",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "1690",
+      "idtype": "4",
+      "page": "32",
+      "article": "",
+      "url": "",
+      "date": "1934-05-01",
+      "source": "Radio Land/Radioland 3405.pdf",
+      "idpytype2": "4",
+      "title": "Radio Land 1934 - May",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1934-02-09",
+      "dow": "F",
+      "time": "9:30 PM",
+      "end": "1934-06-01",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Hudnut",
+      "begin": "1934-02-09",
+      "end": "1934-06-01"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Marvelous Melodies"
+    },
+    {
+      "title": "Powder Box Revue, The"
+    }
+  ]
+}

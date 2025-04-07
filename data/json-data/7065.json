@@ -1,0 +1,189 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/O Series/Over Here/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-7065-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "288147",
+      "date": "1942-12-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Milton Berle - part 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Over Here",
+          "name": "Over Here 42-12-12 Milton Berle - part 1.mp3",
+          "time": "1030",
+          "size": "4120586"
+        }
+      ]
+    },
+    {
+      "ide": "288148",
+      "date": "1942-12-13",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Milton Berle, Linda Darnell - Part 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Over Here",
+          "name": "Over Here 42-12-13 Milton Berle, Linda Darnell - Part 2.mp3",
+          "time": "2351",
+          "size": "9406474"
+        }
+      ]
+    },
+    {
+      "ide": "288149",
+      "date": "1942-12-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Susan Hayward"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Over Here",
+          "name": "Over Here 42-12-19 Susan Hayward.mp3",
+          "time": "3109",
+          "size": "12439562"
+        }
+      ]
+    },
+    {
+      "ide": "288150",
+      "date": "1942-12-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack Benny, Mary Livingston"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Over Here",
+          "name": "Over Here 42-12-26 Jack Benny, Mary Livingston.mp3",
+          "time": "1562",
+          "size": "6248458"
+        }
+      ]
+    },
+    {
+      "ide": "288151",
+      "date": "1943-01-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Charles Laughton"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Over Here",
+          "name": "Over Here 43-01-02 Charles Laughton.mp3",
+          "time": "1273",
+          "size": "5093386"
+        }
+      ]
+    },
+    {
+      "ide": "288152",
+      "date": "1943-01-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Groucho Marx, Jane Froman"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Over Here",
+          "name": "Over Here 43-01-09 Groucho Marx, Jane Froman.mp3",
+          "time": "2080",
+          "size": "8321034"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "News"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Over Here"
+    }
+  ]
+}

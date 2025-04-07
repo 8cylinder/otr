@@ -1,0 +1,112 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "19842",
+      "first": "Ken",
+      "last": "French",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "19842",
+      "first": "Ken",
+      "last": "French",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "300",
+      "first": "Kenneth 'Ken'",
+      "last": "Banghart",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321268",
+      "date": "1949-02-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Do We Know About Farm Prices"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "America United",
+          "name": "America United 1949.02.20 What Do We Know About Farm Prices.mp3",
+          "time": "1832",
+          "size": "7434240"
+        }
+      ]
+    },
+    {
+      "ide": "321269",
+      "date": "1949-02-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should Be The New Labor Legislation"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "America United",
+          "name": "America United 1949.02.27 What Should Be The New Labor Legislation.mp3",
+          "time": "1837",
+          "size": "7456768"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "America United"
+    }
+  ]
+}

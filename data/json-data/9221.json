@@ -1,0 +1,216 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324164134-22d4d49d.jpg",
+      "label": "Uncle Remus",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/U-V Series/Uncle Remus/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2987",
+      "first": "Fred",
+      "last": "Jeske",
+      "f": "Noted Role",
+      "character": "Uncle Remus"
+    },
+    {
+      "idperson": "47700",
+      "first": "Joel Chandler",
+      "last": "Harris",
+      "f": "Noted Role",
+      "character": "Based on his stories"
+    },
+    {
+      "idperson": "41360",
+      "first": "Jimmy",
+      "last": "Scribner",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "1649",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "2001-07-01",
+      "source": "OTR Digest_1990s/OTRDigest_(098)Summer01.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (98) Summer 2001",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "315945",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mud Pies"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Uncle Remus",
+          "name": "Uncle Remus xxxxxx xxx Mud Pies_OTRRPG.mp3",
+          "time": "866",
+          "size": "13936596"
+        }
+      ]
+    },
+    {
+      "ide": "320745",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mud Pies"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Uncle Remus",
+          "name": "Uncle Remus xx-xx-xx Mud Pies.mp3",
+          "time": "868",
+          "size": "6946689"
+        }
+      ]
+    },
+    {
+      "ide": "320742",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brer Rabbit's Ghost"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Uncle Remus",
+          "name": "Uncle Remus xx-xx-xx (01) Brer Rabbit's Ghost.mp3",
+          "time": "884",
+          "size": "7068624"
+        }
+      ]
+    },
+    {
+      "ide": "320743",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Feeding The Pigs"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Uncle Remus",
+          "name": "Uncle Remus xx-xx-xx (11) Feeding The Pigs.mp3",
+          "time": "888",
+          "size": "7105024"
+        }
+      ]
+    },
+    {
+      "ide": "315944",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Tar Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "Uncle Remus",
+          "name": "Uncle Remus xxxxxx 002 The Tar Baby_OTRRPG.mp3",
+          "time": "868",
+          "size": "13974217"
+        },
+        {
+          "path": "U",
+          "folder": "Uncle Remus",
+          "name": "Uncle Remus xx-xx-xx (2) The Tar Baby.mp3",
+          "time": "871",
+          "size": "6965497"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Children"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Uncle Remus"
+    }
+  ]
+}

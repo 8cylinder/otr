@@ -1,0 +1,112 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3212",
+      "first": "Bradley",
+      "last": "Kincaid",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3395",
+      "first": "Snooky",
+      "last": "Lanson",
+      "f": "Noted Role",
+      "character": "Co-Host"
+    },
+    {
+      "idperson": "33931",
+      "first": "Evelyn",
+      "last": "Parker",
+      "f": "Noted Role",
+      "character": "Co-Host"
+    },
+    {
+      "idperson": "48071",
+      "first": "Owen",
+      "last": "Bradley",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324192",
+      "date": "1947-09-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Dude Ranch Program From Tulsa"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Saturday Showcase",
+          "name": "Saturday Showcase 1947.09.06 The Dude Ranch Program From Tulsa.mp3",
+          "time": "1785",
+          "size": "7246111"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-06-01",
+      "dow": "Sa",
+      "time": "3:00 PM",
+      "end": "1946-09-21",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Saturday Showcase, The"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Music By Adlan/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314190",
+      "date": "1947-12-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - The Best Things In Life Are Free"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music By Adlan",
+          "name": "Music By Adlam 471227 xxx 1st Song - The Best Things In Life Are Free_OTRRPG.mp3",
+          "time": "849",
+          "size": "13589647"
+        },
+        {
+          "path": "M",
+          "folder": "Music By Adlan",
+          "name": "Music By Adlam 471227 xxx 1st Song - The Best Things In Life.mp3",
+          "time": "847",
+          "size": "6773479"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Music by Adlam"
+    },
+    {
+      "title": "Buzz Adlam's Playroom"
+    },
+    {
+      "title": "Music by Adlan"
+    }
+  ]
+}

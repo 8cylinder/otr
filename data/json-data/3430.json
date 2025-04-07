@@ -1,0 +1,842 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323042858-82f01244.jpg",
+      "label": "An Evening With Groucho 01",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323042900-19337e86.jpg",
+      "label": "An Evening With Groucho 02",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323042902-2c404788.jpg",
+      "label": "An Evening With Groucho 03",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323042905-f1b00d59.jpg",
+      "label": "Evening With Groucho Marx",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_An_Evening_With_Groucho_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_An_Evening_With_Groucho_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "248931",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Overture - Medley from Marx Brothers Films"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_01_Overture-MedleyFromMarxBrothersFilms.mp3",
+          "time": "187.59",
+          "size": "1500765"
+        }
+      ]
+    },
+    {
+      "ide": "152829",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Timbuctoo"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_10_Timbuctoo.mp3",
+          "time": "144.63",
+          "size": "1157119"
+        }
+      ]
+    },
+    {
+      "ide": "152830",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Annie Berger"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_11_Annie_Berger.mp3",
+          "time": "170.28",
+          "size": "1362305"
+        }
+      ]
+    },
+    {
+      "ide": "152831",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "World War One, Vaudeville in Toronto"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_12_WorldWarOneVaudeville_InToronto.mp3",
+          "time": "51.09",
+          "size": "408763"
+        }
+      ]
+    },
+    {
+      "ide": "152820",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oh, How That Woman Could Cook"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_13_OhHowThatWomanCouldCook.mp3",
+          "time": "145.65",
+          "size": "1165269"
+        }
+      ]
+    },
+    {
+      "ide": "165923",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Toronto Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_14_Toronto_Song.mp3",
+          "time": "102.71",
+          "size": "821707"
+        }
+      ]
+    },
+    {
+      "ide": "165924",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "London Stories - Polish Officer Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_15_LondonStories-PolishOfficerStory.mp3",
+          "time": "108.22",
+          "size": "865802"
+        }
+      ]
+    },
+    {
+      "ide": "165925",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "London Stories - Churchill & 2nd World War"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_16_LondonStories-ChurchillAnd2ndWorldWar.mp3",
+          "time": "125.36",
+          "size": "1002892"
+        }
+      ]
+    },
+    {
+      "ide": "165926",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tough Chicago Critic Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_17_ToughChicagoCriticStory.mp3",
+          "time": "166.86",
+          "size": "1334929"
+        }
+      ]
+    },
+    {
+      "ide": "165927",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Palace Theatre - Sarah Bernhardt"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_18_PalaceTheatre-SarahBernhardt.mp3",
+          "time": "64.07",
+          "size": "512626"
+        }
+      ]
+    },
+    {
+      "ide": "165928",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Palace Theatre - Fanny Brice-Swayne's Rats and Cats"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_19_FannyBrice-SwaynesRatsAndCats.mp3",
+          "time": "103.62",
+          "size": "829021"
+        }
+      ]
+    },
+    {
+      "ide": "152821",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Introduction - Dick Cavett"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_02_Introduction_-_DickCavett.mp3",
+          "time": "277",
+          "size": "2212048"
+        }
+      ]
+    },
+    {
+      "ide": "165929",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poem from the Play 'animal Crackers'"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_20_PoemFromThePlay-AnimalCrackers.mp3",
+          "time": "146.25",
+          "size": "1170076"
+        }
+      ]
+    },
+    {
+      "ide": "165930",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "T S Eliot Memorial- Laurence Olivier's Lap"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_21T.S.EliotMemorial-LaurenceOliviersLap.mp3",
+          "time": "251",
+          "size": "4012350"
+        }
+      ]
+    },
+    {
+      "ide": "165931",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "2nd World War Bond Tour"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_22_2nd_WorldWarBondTour.mp3",
+          "time": "74.73",
+          "size": "1195703"
+        }
+      ]
+    },
+    {
+      "ide": "165932",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Houdini Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_23_Houdini_Story.mp3",
+          "time": "81.47",
+          "size": "1303527"
+        }
+      ]
+    },
+    {
+      "ide": "165933",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music in - Cocoanuts"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_24_Music_In-Cocoanuts.mp3",
+          "time": "102.03",
+          "size": "1632515"
+        }
+      ]
+    },
+    {
+      "ide": "165934",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music in - Cocoanuts- - Stay Down Here Where You Belong"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_25_StayDownHereWhereYouBelong.mp3",
+          "time": "220.91",
+          "size": "3534634"
+        }
+      ]
+    },
+    {
+      "ide": "165935",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Otto Kahn Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_26_OttoKahnStory.mp3",
+          "time": "49.62",
+          "size": "794037"
+        }
+      ]
+    },
+    {
+      "ide": "165936",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "W C Fields- Beebee Gun-Prohibition"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_27_W.C.Fields-BeebeeGun-Prohibition.mp3",
+          "time": "81.36",
+          "size": "1301877"
+        }
+      ]
+    },
+    {
+      "ide": "165937",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "W C Fields- Baby Leroy"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_28_W.C.Fields-BabyLeroy.mp3",
+          "time": "60.75",
+          "size": "972064"
+        }
+      ]
+    },
+    {
+      "ide": "165938",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Evening with Groucho - 29 - Heaven's Above, An"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_29_Heavens_Above.mp3",
+          "time": "58.97",
+          "size": "943665"
+        }
+      ]
+    },
+    {
+      "ide": "152822",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hello, I Must Be Going"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_03_Hello_I_MustBeGoing.mp3",
+          "time": "66.53",
+          "size": "532270"
+        }
+      ]
+    },
+    {
+      "ide": "165939",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Everybody Works but Father"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_30_EverybodyWorksButFather.mp3",
+          "time": "107.64",
+          "size": "1722335"
+        }
+      ]
+    },
+    {
+      "ide": "165940",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Father's Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_31_Fathers_Day.mp3",
+          "time": "118.72",
+          "size": "1899536"
+        }
+      ]
+    },
+    {
+      "ide": "165941",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Margaret Dumont, the Dowager in Our Films"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_32_MargaretDumontTheDowagerInOurFilms.mp3",
+          "time": "62.69",
+          "size": "1003042"
+        }
+      ]
+    },
+    {
+      "ide": "165942",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thalberg Story - Garbo"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_33_ThalbergStory-Garbo.mp3",
+          "time": "50.56",
+          "size": "809090"
+        }
+      ]
+    },
+    {
+      "ide": "165943",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sampson and Delilah Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_34_Sampson_And_DelilahStory.mp3",
+          "time": "55.55",
+          "size": "888923"
+        }
+      ]
+    },
+    {
+      "ide": "165944",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will Rogers, Baseball in Baltimore"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_35_Will_RogersBaseball_InBaltimore.mp3",
+          "time": "56.21",
+          "size": "899381"
+        }
+      ]
+    },
+    {
+      "ide": "165945",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Priests' Stories- Plaza Hotel-Montreal"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_36_PriestsStories-PlazaHotel-Montreal.mp3",
+          "time": "119.92",
+          "size": "1918788"
+        }
+      ]
+    },
+    {
+      "ide": "165946",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Priests' Stories- Rome"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_37_PriestsStories-Rome.mp3",
+          "time": "55.42",
+          "size": "886831"
+        }
+      ]
+    },
+    {
+      "ide": "165947",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Show Me a Rose"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_38_ShowMeARose.mp3",
+          "time": "174.12",
+          "size": "2786029"
+        }
+      ]
+    },
+    {
+      "ide": "165948",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lydia, the Tattooed Lady"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_39_LydiaTheTattooed_Lady.mp3",
+          "time": "257",
+          "size": "4112224"
+        }
+      ]
+    },
+    {
+      "ide": "152823",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Violin Solo, Jack Benny Tribute"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_04_ViolinSolo_JackBennyTribute.mp3",
+          "time": "49.18",
+          "size": "393476"
+        }
+      ]
+    },
+    {
+      "ide": "152824",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How I Got Started in Show Business"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_05_How_I_GotStarted_InShowBusiness.mp3",
+          "time": "62.32",
+          "size": "498624"
+        }
+      ]
+    },
+    {
+      "ide": "152825",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Family, How We Got Our Names"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_06_MyFamily_HowWeGotOurNames.mp3",
+          "time": "99.83",
+          "size": "798719"
+        }
+      ]
+    },
+    {
+      "ide": "152826",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strange Relatives - Uncle Julius"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_07_StrangeRelatives_-_UncleJulius.mp3",
+          "time": "105.08",
+          "size": "840692"
+        }
+      ]
+    },
+    {
+      "ide": "152827",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chico at Klauber Horn Co"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_08_ChicoAtKlauberHornCo.mp3",
+          "time": "146.05",
+          "size": "1168404"
+        }
+      ]
+    },
+    {
+      "ide": "152828",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Uncle Herman, Chiropodist"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_An_Evening_With_Groucho_Singles",
+          "name": "AnEveningWithGroucho_09_UncleHermanChiropodist.mp3",
+          "time": "71.07",
+          "size": "568633"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Evening with Groucho, An"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "776",
+      "first": "Les",
+      "last": "Brown",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2561",
+      "first": "Jack",
+      "last": "Haskell",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "6111",
+      "first": "Elmore",
+      "last": "Vincent",
+      "f": "Noted Role",
+      "character": "Senator Fishface"
+    },
+    {
+      "idperson": "24990",
+      "first": "Don",
+      "last": "Johnson",
+      "f": "Noted Role",
+      "character": "Professor Figgsbottle"
+    },
+    {
+      "idperson": "48399",
+      "first": "Roy",
+      "last": "Shields",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "274960",
+      "date": "1950-07-10",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is 'Carmelita', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "54915",
+      "date": "1950-07-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is 'The Donkey Serenade', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "54916",
+      "date": "1950-08-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is 'The Waltz in Swingtime', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "54917",
+      "date": "1953-03-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is 'Blue Tango', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "54918",
+      "date": "1953-08-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is 'Gone with the Wind', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "54914",
+      "date": "1973-08-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chuck Schadens Hall Closet"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Chuck Schadens Hall Closet",
+          "name": "Chuck_Schadens_Hall_Closet_081773.mp3",
+          "time": "10411",
+          "size": "249853910"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1935-10-12",
+      "dow": "Su",
+      "time": "4:30 PM",
+      "end": "1936-03-29",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1949-06-19",
+      "dow": "Su",
+      "time": "2:30 PM",
+      "end": "1949-09-18",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Design for Listening"
+    }
+  ]
+}

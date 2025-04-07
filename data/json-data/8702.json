@@ -1,0 +1,230 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "TATO"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/Tailspin Tommy/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8702-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "724",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1977-12-01",
+      "source": "Illustrated Press/IP_018.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#18) - Dec 1977",
+      "author": ""
+    },
+    {
+      "idprint": "780",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "1979-01-01",
+      "source": "Illustrated Press/IP_032.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#31) - Jan 1979",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2677",
+      "idtype": "4",
+      "page": "10",
+      "article": "",
+      "url": "",
+      "date": "1976-07-01",
+      "source": "The Great Radio Shows/TGRS_V01_02Summer76.pdf",
+      "idpytype2": "4",
+      "title": "The Great Radio Shows - Vol (01) #2 - Summer 1976",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "263405",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carablanca"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tailspin Tommy",
+          "name": "Tailspin Tommy xx-xx-xx Carabalanca .mp3",
+          "time": "869",
+          "size": "5527572"
+        }
+      ]
+    },
+    {
+      "ide": "263406",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oil fields"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tailspin Tommy",
+          "name": "Tailspin Tommy xx-xx-xx Oilfields.mp3",
+          "time": "751",
+          "size": "4512257"
+        }
+      ]
+    },
+    {
+      "ide": "324324",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tailspin Tommy",
+          "name": "Tailspin Tommy 1941.10.05.mp3",
+          "time": "1771",
+          "size": "7192220"
+        }
+      ]
+    },
+    {
+      "ide": "139581",
+      "date": "1941-09-05",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder In The Sky"
+        },
+        {
+          "title": "Hidden Mine"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tailspin Tommy",
+          "name": "Tailspin Tommy 41-09-05 Murder In The Sky.mp3",
+          "time": "1729",
+          "size": "6916106"
+        }
+      ]
+    },
+    {
+      "ide": "139582",
+      "date": "1941-10-03",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Movie Murder"
+        },
+        {
+          "title": "Midnight Patrol"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tailspin Tommy",
+          "name": "Tailspin Tommy 41-10-03 (5) Movie Murder.mp3",
+          "time": "1845",
+          "size": "11071498"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    },
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1941-09-05",
+      "dow": "F",
+      "time": "",
+      "end": "1941-11-21",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Tailspin Tommy"
+    }
+  ]
+}

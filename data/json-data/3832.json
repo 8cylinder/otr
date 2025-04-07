@@ -1,0 +1,987 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323042046-618d4a06.jpg",
+      "label": "Fred Waring",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3832-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19351936eve.html",
+      "label": "Evening Ratings: (1935-1936: #20)",
+      "idtype": "8"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,772352,00.html",
+      "label": "1940-01-15: Editors' Musts",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,775850,00.html",
+      "label": "1945-06-11: Morning Music",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,776901,00.html",
+      "label": "1946-05-27: Daisy Mae's Friends",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,798089,00.html",
+      "label": "1947-08-25: The Waring Mixture",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,931336,00.html",
+      "label": "1939-06-26: Fred Waring, Inc.",
+      "idtype": "11"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/Fred Waring Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "552",
+      "first": "Bill",
+      "last": "Bivens",
+      "f": "Noted Role",
+      "character": "1940s"
+    },
+    {
+      "idperson": "552",
+      "first": "Bill",
+      "last": "Bivens",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "699",
+      "first": "Hugh 'Lumpy'",
+      "last": "Brannum",
+      "f": "Noted Role",
+      "character": "Comic singer"
+    },
+    {
+      "idperson": "1206",
+      "first": "Bob",
+      "last": "Considine",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1449",
+      "first": "Johnny 'Scat'",
+      "last": "Davis",
+      "f": "Noted Role",
+      "character": "Comic singer"
+    },
+    {
+      "idperson": "1618",
+      "first": "Paul",
+      "last": "Douglas",
+      "f": "Noted Role",
+      "character": "for Chesterfield"
+    },
+    {
+      "idperson": "1618",
+      "first": "Paul",
+      "last": "Douglas",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2160",
+      "first": "Patsy",
+      "last": "Garrett",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3377",
+      "first": "Priscilla",
+      "last": "Lane",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3380",
+      "first": "Rosemary",
+      "last": "Lane",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3978",
+      "first": "Poley",
+      "last": "McClintock",
+      "f": "Noted Role",
+      "character": "comedic singer"
+    },
+    {
+      "idperson": "4615",
+      "first": "Les",
+      "last": "Paul",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5008",
+      "first": "Roy",
+      "last": "Ringwald",
+      "f": "Noted Role",
+      "character": "Singer and soloist"
+    },
+    {
+      "idperson": "5128",
+      "first": "David",
+      "last": "Ross",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5376",
+      "first": "Robert",
+      "last": "Shaw",
+      "f": "Noted Role",
+      "character": "Choral Leader"
+    },
+    {
+      "idperson": "5890",
+      "first": "Kay",
+      "last": "Thompson",
+      "f": "Noted Role",
+      "character": "Singer and soloist"
+    },
+    {
+      "idperson": "6196",
+      "first": "Fred",
+      "last": "Waring",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "6196",
+      "first": "Fred",
+      "last": "Waring",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6197",
+      "first": "Tom",
+      "last": "Waring",
+      "f": "Noted Role",
+      "character": "Singer and soloist"
+    },
+    {
+      "idperson": "6260",
+      "first": "Bob",
+      "last": "Weiskopf",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "6821",
+      "first": "Stuart",
+      "last": "Churchill",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6919",
+      "first": "Jimmy",
+      "last": "Atkins",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7053",
+      "first": "Stella",
+      "last": "Friend",
+      "f": "Noted Role",
+      "character": "Three Girlfriends (Singer and soloist)"
+    },
+    {
+      "idperson": "7346",
+      "first": "Frank",
+      "last": "Moore",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7347",
+      "first": "Mike",
+      "last": "Dutton",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7437",
+      "first": "Roy",
+      "last": "Atwell",
+      "f": "Noted Role",
+      "character": "comic with a simplistic stuttering routine"
+    },
+    {
+      "idperson": "7441",
+      "first": "Tom",
+      "last": "Bennett",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "7441",
+      "first": "Tom",
+      "last": "Bennett",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "7487",
+      "first": "Gordon",
+      "last": "Goodman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7524",
+      "first": "Murray",
+      "last": "Kane",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7654",
+      "first": "Mac",
+      "last": "Perrin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7677",
+      "first": "June",
+      "last": "Taylor",
+      "f": "Noted Role",
+      "character": "Three Girlfriends"
+    },
+    {
+      "idperson": "9532",
+      "first": "Daisy",
+      "last": "Bernier",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "10078",
+      "first": "Gordon",
+      "last": "Berger",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "12117",
+      "first": "",
+      "last": "Babs and Her Brothers",
+      "f": "Noted Role",
+      "character": "Singer and soloist"
+    },
+    {
+      "idperson": "14494",
+      "first": "Ruth",
+      "last": "Cottingham",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "14608",
+      "first": "Don",
+      "last": "Craig",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "15259",
+      "first": "Fred",
+      "last": "Culley",
+      "f": "Noted Role",
+      "character": "Assistant Conductor"
+    },
+    {
+      "idperson": "15379",
+      "first": "Livingston",
+      "last": "Gearhart",
+      "f": "Noted Role",
+      "character": "Piano duo"
+    },
+    {
+      "idperson": "15434",
+      "first": "Dave",
+      "last": "Harmon",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "15694",
+      "first": "Virginia",
+      "last": "Morley",
+      "f": "Noted Role",
+      "character": "piano duo"
+    },
+    {
+      "idperson": "17846",
+      "first": "The",
+      "last": "Fred Waring Glee Club",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "17847",
+      "first": "",
+      "last": "Honey and the Bees",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "18902",
+      "first": "",
+      "last": "Stella and The Fellas",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "38637",
+      "first": "Joanne",
+      "last": "Wheatley",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "39213",
+      "first": "Jane",
+      "last": "Wilson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45447",
+      "first": "Paul",
+      "last": "Gibbons",
+      "f": "Noted Role",
+      "character": "Singer and soloist"
+    },
+    {
+      "idperson": "45448",
+      "first": "Hal",
+      "last": "Kanner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45449",
+      "first": "Craig",
+      "last": "Leitch",
+      "f": "Noted Role",
+      "character": "Singer and soloist"
+    },
+    {
+      "idperson": "45450",
+      "first": "Ida",
+      "last": "Pierce",
+      "f": "Noted Role",
+      "character": "Three Girlfriends"
+    },
+    {
+      "idperson": "45592",
+      "first": "The",
+      "last": "McFarland Twins",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7342",
+      "first": "Diane",
+      "last": "Courtney",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "15263",
+      "first": "Donna",
+      "last": "Dae",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "15",
+      "first": "Warren",
+      "last": "Angell",
+      "f": "Noted Role",
+      "character": "Singer"
+    },
+    {
+      "idperson": "5449",
+      "first": "Harry",
+      "last": "Simeone",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "15519",
+      "first": "Arthur 'Art'",
+      "last": "McFarland",
+      "f": "Noted Role",
+      "character": "McFarland Twins"
+    },
+    {
+      "idperson": "30495",
+      "first": "George",
+      "last": "McFarland",
+      "f": "Noted Role",
+      "character": "McFarland Twins"
+    },
+    {
+      "idperson": "41036",
+      "first": "Walter",
+      "last": "Scheff",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "47079",
+      "first": "Elinor",
+      "last": "Ohms",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "47080",
+      "first": "Ann",
+      "last": "Price",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "47171",
+      "first": "Hilda",
+      "last": "Cole",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3247",
+      "first": "Durward",
+      "last": "Kirby",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5391",
+      "first": "Herb",
+      "last": "Sheldon",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "38684",
+      "first": "Andy",
+      "last": "White",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "4635",
+      "first": "Ted",
+      "last": "Pearson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4665",
+      "first": "Lilyan",
+      "last": "Perron",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "398",
+      "first": "Andre",
+      "last": "Baruch",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2579",
+      "first": "Alois",
+      "last": "Havrilla",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2730",
+      "first": "Bob",
+      "last": "Hite",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5820",
+      "first": "Frederick Chase",
+      "last": "Taylor",
+      "f": "Noted Role",
+      "character": "Stoopnagle"
+    },
+    {
+      "idperson": "7051",
+      "first": "Ferne",
+      "last": "Buckner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "17845",
+      "first": "The",
+      "last": "Twin Trio",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "17848",
+      "first": "The",
+      "last": "Three Girl Friends",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "29583",
+      "first": "Joe",
+      "last": "Marine",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "42564",
+      "first": "The",
+      "last": "Smoothies",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "42623",
+      "first": "Joe",
+      "last": "Sodja",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45096",
+      "first": "",
+      "last": "Two Bees and A Honey",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "50184",
+      "first": "Budd",
+      "last": "Hulick",
+      "f": "Noted Role",
+      "character": "Budd"
+    },
+    {
+      "idperson": "6139",
+      "first": "Bea",
+      "last": "Wain",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "1074",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "1934-05-26",
+      "source": "Microphone/Microphone_34_05_26.pdf",
+      "idpytype2": "4",
+      "title": "Microphone 34 05 26",
+      "author": ""
+    },
+    {
+      "idprint": "1164",
+      "idtype": "4",
+      "page": "39",
+      "article": "",
+      "url": "",
+      "date": "1941-07-26",
+      "source": "Movie Radio Guide/Movie - Radio Guide 410726.pdf",
+      "idpytype2": "4",
+      "title": "Movie - Radio Guide 410726",
+      "author": ""
+    },
+    {
+      "idprint": "1539",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "1984-09-01",
+      "source": "On_The_Air/OnTheAir_V1_05SepDec84.pdf",
+      "idpytype2": "4",
+      "title": "ON THE AIR - Vol 1 #5 Sept-Dec 85",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1649",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "2001-07-01",
+      "source": "OTR Digest_1990s/OTRDigest_(098)Summer01.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (98) Summer 2001",
+      "author": ""
+    },
+    {
+      "idprint": "2279",
+      "idtype": "4",
+      "page": "54",
+      "article": "Your Ticket To The Fred Waring Show",
+      "url": "",
+      "date": "1949-01-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 4901.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 4901",
+      "author": ""
+    },
+    {
+      "idprint": "1690",
+      "idtype": "4",
+      "page": "32",
+      "article": "",
+      "url": "",
+      "date": "1934-05-01",
+      "source": "Radio Land/Radioland 3405.pdf",
+      "idpytype2": "4",
+      "title": "Radio Land 1934 - May",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2214",
+      "idtype": "4",
+      "page": "31",
+      "article": "",
+      "url": "",
+      "date": "1933-10-01",
+      "source": "Radio Stars/Radio Stars 3310.pdf",
+      "idpytype2": "4",
+      "title": "Radio Stars 3310",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "I Hear Music' , 'Breezing Along With The Breeze'"
+    },
+    {
+      "theme": "Sleep"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1933-02-08",
+      "dow": "W",
+      "time": "10:00 PM",
+      "end": "1934-01-31",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1934-02-04",
+      "dow": "",
+      "time": "",
+      "end": "1936-12-29",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1936-01-17",
+      "dow": "F",
+      "time": "9:30 PM",
+      "end": "1936-12-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1938-10-08",
+      "dow": "Sa",
+      "time": "8:30 PM",
+      "end": "1939-03-04",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1939-06-19",
+      "dow": "M,Tu,W,Th,F",
+      "time": "7:00 PM",
+      "end": "1944-06-09",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1944-09-07",
+      "dow": "Th",
+      "time": "7:00 PM",
+      "end": "1945-01-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-01-00",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1945-05-31",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-06-04",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:00 AM",
+      "end": "1949-07-08",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1946-06-18",
+      "dow": "Tu",
+      "time": "9:30 PM",
+      "end": "1946-09-24",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1947-06-24",
+      "dow": "Tu",
+      "time": "9:30 PM",
+      "end": "1947-09-30",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1947-10-06",
+      "dow": "M",
+      "time": "10:30 PM",
+      "end": "1948-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1948-06-07",
+      "dow": "M,W",
+      "time": "11:00 AM",
+      "end": "1948-09-29",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1949-07-16",
+      "dow": "Sa",
+      "time": "10:00 AM",
+      "end": "1950-07-22",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1956-10-01",
+      "dow": "M,Tu,W,Th,F",
+      "time": "2:00 PM",
+      "end": "1957-03-15",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1957-04-09",
+      "dow": "M,Tu,W,Th,F",
+      "time": "9:30 PM",
+      "end": "1957-10-04",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Fred Waring"
+    },
+    {
+      "title": "Fred Waring Show"
+    },
+    {
+      "title": "Fred Waring Show, The (all)"
+    },
+    {
+      "title": "Pleasure Time"
+    },
+    {
+      "title": "Victory Tunes"
+    },
+    {
+      "title": "The Fred Waring Show"
+    }
+  ]
+}

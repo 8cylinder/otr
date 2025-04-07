@@ -1,0 +1,439 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2694",
+      "first": "Charlton",
+      "last": "Heston",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5061",
+      "first": "William N.",
+      "last": "Robson",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "5342",
+      "first": "Gilbert",
+      "last": "Seldes",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "21083",
+      "first": "Leon",
+      "last": "Goldman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "30522",
+      "first": "Earle",
+      "last": "McGill",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "5552",
+      "first": "Hester",
+      "last": "Sondergaard",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "777",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1978-11-01",
+      "source": "Illustrated Press/IP_029.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#29) - Nov 1978",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "23353",
+      "date": "1938-11-13",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "23354",
+      "date": "1938-11-20",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Our English Heritage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23355",
+      "date": "1938-11-27",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Our Hispanic Heritage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23356",
+      "date": "1938-12-04",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Scotch, Scotch-Irish and Welsh"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23357",
+      "date": "1938-12-11",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winning Freedom"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23358",
+      "date": "1938-12-18",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Negro in the United States, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23359",
+      "date": "1938-12-25",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "French Speaking Peoples"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23360",
+      "date": "1939-01-02",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "23361",
+      "date": "1939-01-08",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Irish in the United States"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23362",
+      "date": "1939-01-15",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Germans in the United States"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23363",
+      "date": "1939-01-22",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Scandinavians in the United States"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23364",
+      "date": "1939-01-29",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Closing Frontiers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23365",
+      "date": "1939-02-05",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jews in the United States"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23366",
+      "date": "1939-02-12",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slavs in the United States part 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23367",
+      "date": "1939-02-19",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slavs in the United States part 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23368",
+      "date": "1939-02-26",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Orientals in the United States"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23369",
+      "date": "1939-03-05",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Italians in the United States"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23370",
+      "date": "1939-03-12",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Near Eastern Peoples"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23371",
+      "date": "1939-03-19",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Immigrants from Smaller Countries"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23372",
+      "date": "1939-03-29",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contributions in Industry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23373",
+      "date": "1939-04-02",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contributions in Science"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23374",
+      "date": "1939-04-09",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contributions in Arts and Crafts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23375",
+      "date": "1939-04-16",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contributions in Social Progress"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23376",
+      "date": "1939-04-23",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New England Town, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23377",
+      "date": "1939-04-30",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Industrial City, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23378",
+      "date": "1939-05-07",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grand Finale"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Americans All"
+    },
+    {
+      "title": "Americans All, Immigrants All"
+    },
+    {
+      "title": "Americans All-Immigrants All"
+    }
+  ]
+}

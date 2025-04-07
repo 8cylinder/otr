@@ -1,0 +1,140 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Air Force Hour/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "45855",
+      "first": "Glenn",
+      "last": "Darwin",
+      "f": "Noted Role",
+      "character": "Singer"
+    },
+    {
+      "idperson": "5398",
+      "first": "George",
+      "last": "Shelton",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "307227",
+      "date": "1950-06-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Triumph Of Old Glory"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Air Force Hour",
+          "name": "Air Force Hour 50-06-03 First Tune - Triumph Of Old Glory.mp3",
+          "time": "1725",
+          "size": "13801474"
+        }
+      ]
+    },
+    {
+      "ide": "307228",
+      "date": "1950-06-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - June Is Bustin' Out All Over"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Air Force Hour",
+          "name": "Air Force Hour 50-06-10 First Tune - June Is Bustin' Out All Over.mp3",
+          "time": "1756",
+          "size": "14045458"
+        }
+      ]
+    },
+    {
+      "ide": "312384",
+      "date": "1951-06-04",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st- Everywhere You Go. Story of a Tank-Buster"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Air Force Hour",
+          "name": "Air Force Hour 510604 0109 1st- Everywhere You Go. Story of a Tank-Buster AFRS.mp3",
+          "time": "1814",
+          "size": "29100066"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Air Force Hour"
+    }
+  ]
+}

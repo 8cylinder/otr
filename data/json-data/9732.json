@@ -1,0 +1,539 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "YUOC"
+    }
+  ],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324105454-771b9b15.jpg",
+      "label": "You Cant Do Business With Hitler 01",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324105455-163d408b.jpg",
+      "label": "You Cant Do Business With Hitler 02",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324105457-c753dd24.jpg",
+      "label": "You Cant Do Business With Hitler 03",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9732-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5849",
+      "first": "Frank",
+      "last": "Telford",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "23799",
+      "first": "Elwood",
+      "last": "Hoffman",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324569",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1000 Year Reich"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep07_1000_Year_Reich.mp3",
+          "time": "880",
+          "size": "7040741"
+        },
+        {
+          "path": "arcDotOrg",
+          "folder": "You Can't Do Business With Hitler",
+          "name": "YCDBWH  1942.xx.xx 1000 Year Reich.mp3",
+          "time": "872",
+          "size": "3597664"
+        }
+      ]
+    },
+    {
+      "ide": "8698",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Heads They Win, Tails We Lose"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep01_Heads_They_Win_-_Tails_We_Lose.mp3",
+          "time": "913",
+          "size": "7304432"
+        }
+      ]
+    },
+    {
+      "ide": "239141",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pagan Gods, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep10_Pagan_Gods.mp3",
+          "time": "893",
+          "size": "7143977"
+        }
+      ]
+    },
+    {
+      "ide": "239142",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Swastikas over the Equator"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep11_Swastikas_over_the_Equator.mp3",
+          "time": "908",
+          "size": "7261809"
+        }
+      ]
+    },
+    {
+      "ide": "239143",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Money Talks with a German Accent"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep12_Money_Talks_with_a_German_Accent.mp3",
+          "time": "880",
+          "size": "7039037"
+        }
+      ]
+    },
+    {
+      "ide": "239144",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Work or Die"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239147",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Health by Decree"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239150",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Legalized Murder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239152",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Enemy Within Our Shores, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239154",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Drama in Italian (6), A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239156",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gestapo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239158",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Drama in Italian (5), A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239133",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Broken Promises"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep02_Broken_Promises.mp3",
+          "time": "901",
+          "size": "7208552"
+        }
+      ]
+    },
+    {
+      "ide": "239160",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Drama in Italian (3), A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239162",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Drama in Italian (2), A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239164",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Drama in Italian, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239134",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No American Goods Wanted"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep03_No_American_Goods_Wanted.mp3",
+          "time": "873",
+          "size": "6982227"
+        }
+      ]
+    },
+    {
+      "ide": "239135",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two for Me, One for You"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep04_Two_for_Me_One_for_You.mp3",
+          "time": "911",
+          "size": "7284829"
+        }
+      ]
+    },
+    {
+      "ide": "239166",
+      "date": "0000-00-00",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Origin of the Nazi Species"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239167",
+      "date": "0000-00-00",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gestapo in Sheep's Clothing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239168",
+      "date": "0000-00-00",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Third Horseman, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239169",
+      "date": "0000-00-00",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nazis in False Face"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "239136",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mass Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep05_Mass_Murder.mp3",
+          "time": "884",
+          "size": "7075014"
+        }
+      ]
+    },
+    {
+      "ide": "239137",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spoils of Europe, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep06_Spoils_of_Europe.mp3",
+          "time": "920",
+          "size": "7361107"
+        }
+      ]
+    },
+    {
+      "ide": "239138",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thousand Year Reich, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep07_1000_Year_Reich.mp3",
+          "time": "880",
+          "size": "7040741"
+        }
+      ]
+    },
+    {
+      "ide": "239139",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Living Dead, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep08_Living_Dead.mp3",
+          "time": "891",
+          "size": "7128095"
+        }
+      ]
+    },
+    {
+      "ide": "239140",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Anti-Christ, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_You_Cant_Do_Business_With_Hitler_Singles",
+          "name": "YCDBWH_42-xx-xx_ep09_Anti-Christ.mp3",
+          "time": "896",
+          "size": "7168637"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "You Can't Do Business With Hitler"
+    }
+  ]
+}

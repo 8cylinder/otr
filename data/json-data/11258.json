@@ -1,0 +1,73 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5883",
+      "first": "Bill",
+      "last": "Thompson",
+      "f": "Noted Role",
+      "character": "Talking dog"
+    },
+    {
+      "idperson": "39638",
+      "first": "Morey",
+      "last": "Amsterdam",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1936-06-20",
+      "dow": "Sa",
+      "time": "8:30 PM",
+      "end": "1936-07-10",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1937-05-20",
+      "dow": "Th",
+      "time": "11:00 PM",
+      "end": "1937-06-03",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "NIght Court of the Air"
+    },
+    {
+      "title": "Night Club"
+    },
+    {
+      "title": "Night Club of the Air"
+    }
+  ]
+}

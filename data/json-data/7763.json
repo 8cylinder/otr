@@ -1,0 +1,4102 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "www.otrrlibrary.org",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Road Of Life/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,764030,00.html",
+      "label": "1940-06-10: Script Queen",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,818833,00.html",
+      "label": "1953-09-07: This, Too, Will Pass",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,852707,00.html",
+      "label": "1946-02-25: Who Buys the Air?",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,934409,00.html",
+      "label": "1946-01-21: Suds Can Be Beautiful",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19371938day.html",
+      "label": "Daytime Ratings: (1937-1938: #8)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19381939day.html",
+      "label": "Daytime Ratings: (1938-1939: #16)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19381939day.html",
+      "label": "Daytime Ratings: (1938-1939: #6)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19391940day.html",
+      "label": "Daytime Ratings: (1939-1940: #16)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19391940day.html",
+      "label": "Daytime Ratings: (1939-1940: #12)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19401941day.html",
+      "label": "Daytime Ratings: (1940-1941: #14)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19401941day.html",
+      "label": "Daytime Ratings: (1940-1941: #5)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19411942day.html",
+      "label": "Daytime Ratings: (1941-1942)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19421943day.html",
+      "label": "Daytime Ratings: (1942-1943: #10)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19431944day.html",
+      "label": "Daytime Ratings: (1943-1944: #15)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19441945day.html",
+      "label": "Daytime Ratings: (1944-1945: #20)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19451946day.html",
+      "label": "Daytime Ratings: (1945-1946: #18)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19461947day.html",
+      "label": "Daytime Ratings: (1946-1947: #17)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19471948day.html",
+      "label": "Daytime Ratings: (1947-1948: #18)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19491950day.html",
+      "label": "Daytime Ratings: (1949-1950: #5)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19501951day.html",
+      "label": "Daytime Ratings: (1950-1951: #10)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19511952day.html",
+      "label": "Daytime Ratings: (1951-1952: #7)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19521953day.html",
+      "label": "Daytime Ratings: (1952-1953: #6)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19531954day.html",
+      "label": "Daytime Ratings: (1953-1954: #15)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19531954day.html",
+      "label": "Daytime Ratings: (1953-1954: #11)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19541955day.html",
+      "label": "Daytime Ratings: (1954-1955: #4)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19551956day.html",
+      "label": "Daytime Ratings: (1955-1956: #5)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "xroads.virginia.edu/%7E1930s2/Radio/day/radio.html",
+      "label": "American Studies at the Univ. of Virginia : A Day in Radio (September 21, 1939)",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-7763-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "(1) Sources differ as to whether Procter &amp; Gamble dropped its long association with the program in 1955 or late 1958, giving way to multiple sponsors during the final years; (2) Charles Paul was the organist; (3) Sound effects were by Russ Gainor, Jerry McCarty and Manny Segal."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "157",
+      "first": "Eleanor",
+      "last": "Audley",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "231",
+      "first": "Bob",
+      "last": "Bailey",
+      "f": "Noted Role",
+      "character": "Dale Humphrey"
+    },
+    {
+      "idperson": "252",
+      "first": "Gene",
+      "last": "Baker",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "324",
+      "first": "John",
+      "last": "Barclay",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "453",
+      "first": "Frank",
+      "last": "Behrens",
+      "f": "Noted Role",
+      "character": "Ray Sawyer"
+    },
+    {
+      "idperson": "802",
+      "first": "George",
+      "last": "Bryan",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "922",
+      "first": "Ralph",
+      "last": "Camargo",
+      "f": "Noted Role",
+      "character": "Dr. Burke"
+    },
+    {
+      "idperson": "1016",
+      "first": "Nelson",
+      "last": "Case",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1173",
+      "first": "Clayton 'Bud'",
+      "last": "Collyer",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1342",
+      "first": "Matt",
+      "last": "Crowley",
+      "f": "Noted Role",
+      "character": "Dr. Jim Brent"
+    },
+    {
+      "idperson": "1408",
+      "first": "Frank",
+      "last": "Dane",
+      "f": "Noted Role",
+      "character": "Fred"
+    },
+    {
+      "idperson": "1421",
+      "first": "Denver",
+      "last": "Darling",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1501",
+      "first": "Roger",
+      "last": "DeKoven",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1563",
+      "first": "Charles",
+      "last": "Dingle",
+      "f": "Noted Role",
+      "character": "Mr. Overton"
+    },
+    {
+      "idperson": "1766",
+      "first": "Harry",
+      "last": "Elders",
+      "f": "Noted Role",
+      "character": "Dr. Bill Evans"
+    },
+    {
+      "idperson": "1845",
+      "first": "Ethel",
+      "last": "Everett",
+      "f": "Noted Role",
+      "character": "Miss Boyle"
+    },
+    {
+      "idperson": "1946",
+      "first": "Louise",
+      "last": "Fitch",
+      "f": "Noted Role",
+      "character": "Carol Evans Brent"
+    },
+    {
+      "idperson": "1968",
+      "first": "James F.",
+      "last": "Fleming",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2077",
+      "first": "Vivian",
+      "last": "Fridell",
+      "f": "Noted Role",
+      "character": "Mary Holt"
+    },
+    {
+      "idperson": "2095",
+      "first": "Barbara",
+      "last": "Fuller",
+      "f": "Noted Role",
+      "character": "Marion Baxter"
+    },
+    {
+      "idperson": "2095",
+      "first": "Barbara",
+      "last": "Fuller",
+      "f": "Noted Role",
+      "character": "Verna Roberts"
+    },
+    {
+      "idperson": "2189",
+      "first": "Betty Lou",
+      "last": "Gerson",
+      "f": "Noted Role",
+      "character": "Helen Gowan Stephenson"
+    },
+    {
+      "idperson": "2300",
+      "first": "Thomas Walter",
+      "last": "Gorman",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "2393",
+      "first": "Kenneth 'Ken'",
+      "last": "Griffin",
+      "f": "Noted Role",
+      "character": "Dr. Jim Brent"
+    },
+    {
+      "idperson": "2396",
+      "first": "William 'Bill'",
+      "last": "Griffis",
+      "f": "Noted Role",
+      "character": "Dr. Bill Evans"
+    },
+    {
+      "idperson": "2653",
+      "first": "Percy",
+      "last": "Hemus",
+      "f": "Noted Role",
+      "character": "Dr. Winslow"
+    },
+    {
+      "idperson": "2683",
+      "first": "Arthur 'Art'",
+      "last": "Hern",
+      "f": "Noted Role",
+      "character": "Joe Buckley"
+    },
+    {
+      "idperson": "3057",
+      "first": "Dick",
+      "last": "Joy",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3073",
+      "first": "Carlton",
+      "last": "Kadell",
+      "f": "Noted Role",
+      "character": "Arthur Reads"
+    },
+    {
+      "idperson": "3123",
+      "first": "Teri",
+      "last": "Keane",
+      "f": "Noted Role",
+      "character": "Jocelyn Brent"
+    },
+    {
+      "idperson": "3132",
+      "first": "William",
+      "last": "Keene",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3340",
+      "first": "Rupert",
+      "last": "LaBelle",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3404",
+      "first": "John",
+      "last": "Larkin",
+      "f": "Noted Role",
+      "character": "Frank Dana"
+    },
+    {
+      "idperson": "3411",
+      "first": "Joseph 'Joe'",
+      "last": "Latham",
+      "f": "Noted Role",
+      "character": "Jim Brent's father"
+    },
+    {
+      "idperson": "3432",
+      "first": "Elizabeth",
+      "last": "Lawrence",
+      "f": "Noted Role",
+      "character": "Francie Brent"
+    },
+    {
+      "idperson": "3459",
+      "first": "Barbara",
+      "last": "Lee",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3491",
+      "first": "Jack",
+      "last": "Lemmon",
+      "f": "Noted Role",
+      "character": "Dr. Brent"
+    },
+    {
+      "idperson": "3527",
+      "first": "Abby",
+      "last": "Lewis",
+      "f": "Noted Role",
+      "character": "Mrs. Overton"
+    },
+    {
+      "idperson": "3610",
+      "first": "Janet",
+      "last": "Logan",
+      "f": "Noted Role",
+      "character": "Helen Gowan Stephenson"
+    },
+    {
+      "idperson": "3666",
+      "first": "Barbara",
+      "last": "Luddy",
+      "f": "Noted Role",
+      "character": "Carol Evans Brent"
+    },
+    {
+      "idperson": "3684",
+      "first": "Paul",
+      "last": "Luther",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3805",
+      "first": "Charlotte",
+      "last": "Manson",
+      "f": "Noted Role",
+      "character": "Dr. Carson McVicker"
+    },
+    {
+      "idperson": "3915",
+      "first": "Grace",
+      "last": "Matthews",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4125",
+      "first": "Stuart",
+      "last": "Metz",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4154",
+      "first": "Marvin",
+      "last": "Miller",
+      "f": "Noted Role",
+      "character": "Ted Fenton"
+    },
+    {
+      "idperson": "4154",
+      "first": "Marvin",
+      "last": "Miller",
+      "f": "Noted Role",
+      "character": "George Jeffries"
+    },
+    {
+      "idperson": "4175",
+      "first": "Jan",
+      "last": "Miner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4192",
+      "first": "Shirley",
+      "last": "Mitchell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4271",
+      "first": "Bret",
+      "last": "Morrison",
+      "f": "Noted Role",
+      "character": "Linden Wake"
+    },
+    {
+      "idperson": "4283",
+      "first": "Arnold",
+      "last": "Moss",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4400",
+      "first": "Kathleen",
+      "last": "Niday",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4564",
+      "first": "Effie",
+      "last": "Palmer",
+      "f": "Noted Role",
+      "character": "Jim Brent's Mother"
+    },
+    {
+      "idperson": "4612",
+      "first": "Mary",
+      "last": "Patton",
+      "f": "Noted Role",
+      "character": "Miss Todd"
+    },
+    {
+      "idperson": "4612",
+      "first": "Mary",
+      "last": "Patton",
+      "f": "Noted Role",
+      "character": "Isobel Daley"
+    },
+    {
+      "idperson": "4614",
+      "first": "Charles",
+      "last": "Paul",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "4623",
+      "first": "Virginia",
+      "last": "Payne",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4639",
+      "first": "Cornelius 'Corny'",
+      "last": "Peeples",
+      "f": "Noted Role",
+      "character": "Junior Stephenson"
+    },
+    {
+      "idperson": "4680",
+      "first": "George O.",
+      "last": "Petrie",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4685",
+      "first": "Jack",
+      "last": "Petruzzi",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4697",
+      "first": "Irna",
+      "last": "Phillips",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "4749",
+      "first": "Dick",
+      "last": "Post",
+      "f": "Noted Role",
+      "character": "Dr. Grant Frasier"
+    },
+    {
+      "idperson": "4772",
+      "first": "Ed",
+      "last": "Prentiss",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4881",
+      "first": "Ron",
+      "last": "Rawson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4974",
+      "first": "Doris",
+      "last": "Rich",
+      "f": "Noted Role",
+      "character": "Mrs. Evans"
+    },
+    {
+      "idperson": "5042",
+      "first": "Arnold",
+      "last": "Robertson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5123",
+      "first": "Jack",
+      "last": "Roseleigh",
+      "f": "Noted Role",
+      "character": "Dr. Winslow"
+    },
+    {
+      "idperson": "5239",
+      "first": "Dorothy",
+      "last": "Sands",
+      "f": "Noted Role",
+      "character": "Auntie"
+    },
+    {
+      "idperson": "5332",
+      "first": "Charles",
+      "last": "Seel",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5335",
+      "first": "Richard",
+      "last": "Seff",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5426",
+      "first": "Marion",
+      "last": "Shockley",
+      "f": "Noted Role",
+      "character": "Carol Evans Brent"
+    },
+    {
+      "idperson": "5552",
+      "first": "Hester",
+      "last": "Sondergaard",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5554",
+      "first": "Guy",
+      "last": "Sorel",
+      "f": "Noted Role",
+      "character": "Dr. Yates"
+    },
+    {
+      "idperson": "5643",
+      "first": "Len",
+      "last": "Sterling",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5654",
+      "first": "Julie",
+      "last": "Stevens",
+      "f": "Noted Role",
+      "character": "Maggie Lowell"
+    },
+    {
+      "idperson": "5737",
+      "first": "Hugh",
+      "last": "Studebaker",
+      "f": "Noted Role",
+      "character": "Grandpa Sutter"
+    },
+    {
+      "idperson": "5755",
+      "first": "Hope",
+      "last": "Summers",
+      "f": "Noted Role",
+      "character": "Mrs. Evans"
+    },
+    {
+      "idperson": "5847",
+      "first": "Howard",
+      "last": "Teichmann",
+      "f": "Noted Role",
+      "character": "Dr. Jim Brent"
+    },
+    {
+      "idperson": "5847",
+      "first": "Howard",
+      "last": "Teichmann",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "5901",
+      "first": "Russell",
+      "last": "Thorson",
+      "f": "Noted Role",
+      "character": "Jack Felzer"
+    },
+    {
+      "idperson": "6044",
+      "first": "Grace",
+      "last": "Valentine",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6070",
+      "first": "Helen",
+      "last": "Van Tuyl",
+      "f": "Noted Role",
+      "character": "Mrs. Hurley"
+    },
+    {
+      "idperson": "6079",
+      "first": "Evelyn",
+      "last": "Varden",
+      "f": "Noted Role",
+      "character": "Auntie"
+    },
+    {
+      "idperson": "6118",
+      "first": "Vicki",
+      "last": "Vola",
+      "f": "Noted Role",
+      "character": "Faith Richards"
+    },
+    {
+      "idperson": "6163",
+      "first": "Mike",
+      "last": "Wallace",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6184",
+      "first": "Sam",
+      "last": "Wanamaker",
+      "f": "Noted Role",
+      "character": "Dr. Miller"
+    },
+    {
+      "idperson": "6211",
+      "first": "Willard",
+      "last": "Waterman",
+      "f": "Noted Role",
+      "character": "Dr. Grant Frasier"
+    },
+    {
+      "idperson": "6242",
+      "first": "Karl",
+      "last": "Weber",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6277",
+      "first": "Sarajane",
+      "last": "Wells",
+      "f": "Noted Role",
+      "character": "Claudia Wilson"
+    },
+    {
+      "idperson": "6331",
+      "first": "Ireene 'Irene'",
+      "last": "Wicker",
+      "f": "Noted Role",
+      "character": "Sylvia Bertram"
+    },
+    {
+      "idperson": "6387",
+      "first": "Ethel",
+      "last": "Wilson",
+      "f": "Noted Role",
+      "character": "Eloise Cummings"
+    },
+    {
+      "idperson": "6409",
+      "first": "Betty",
+      "last": "Winkler",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6418",
+      "first": "Joan",
+      "last": "Winters",
+      "f": "Noted Role",
+      "character": "Sylvia Bertram"
+    },
+    {
+      "idperson": "6443",
+      "first": "Edwin R.",
+      "last": "Wolfe",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "6468",
+      "first": "Lesley",
+      "last": "Woods",
+      "f": "Noted Role",
+      "character": "Carol Evans Martin"
+    },
+    {
+      "idperson": "6538",
+      "first": "Lawson",
+      "last": "Zerbe",
+      "f": "Noted Role",
+      "character": "Fred"
+    },
+    {
+      "idperson": "6538",
+      "first": "Lawson",
+      "last": "Zerbe",
+      "f": "Noted Role",
+      "character": "Butch and Brent"
+    },
+    {
+      "idperson": "6905",
+      "first": "Eva",
+      "last": "Parnell",
+      "f": "Noted Role",
+      "character": "Miss Radcliff"
+    },
+    {
+      "idperson": "7095",
+      "first": "David",
+      "last": "Ellis",
+      "f": "Noted Role",
+      "character": "Dr. Jim Brent"
+    },
+    {
+      "idperson": "7095",
+      "first": "David",
+      "last": "Ellis",
+      "f": "Noted Role",
+      "character": "Butch Brent"
+    },
+    {
+      "idperson": "7134",
+      "first": "Terry",
+      "last": "Rice",
+      "f": "Noted Role",
+      "character": "Alice Randall"
+    },
+    {
+      "idperson": "7205",
+      "first": "Jeanette",
+      "last": "Dowling",
+      "f": "Noted Role",
+      "character": "Paging Nurse"
+    },
+    {
+      "idperson": "7247",
+      "first": "Gregory",
+      "last": "Morton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7269",
+      "first": "Renee",
+      "last": "Terry",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7272",
+      "first": "John M.",
+      "last": "Young",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7416",
+      "first": "Stanley",
+      "last": "Davis",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "7431",
+      "first": "Gladys",
+      "last": "Heen",
+      "f": "Noted Role",
+      "character": "Miss Bradley"
+    },
+    {
+      "idperson": "7444",
+      "first": "Jack",
+      "last": "Bivans",
+      "f": "Noted Role",
+      "character": "Junior Stephenson"
+    },
+    {
+      "idperson": "7463",
+      "first": "Virginia",
+      "last": "Dwyer",
+      "f": "Noted Role",
+      "character": "Jocelyn McLeod Brent"
+    },
+    {
+      "idperson": "7468",
+      "first": "Elspeth",
+      "last": "Eric",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7471",
+      "first": "Dorothy",
+      "last": "Francis",
+      "f": "Noted Role",
+      "character": "Mrs. Chapman"
+    },
+    {
+      "idperson": "7507",
+      "first": "Dick",
+      "last": "Holland",
+      "f": "Noted Role",
+      "character": "Junior Stephenson"
+    },
+    {
+      "idperson": "7510",
+      "first": "Elizabeth",
+      "last": "Howard",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "7569",
+      "first": "Helen",
+      "last": "Lewis",
+      "f": "Noted Role",
+      "character": "Maggie Lowell"
+    },
+    {
+      "idperson": "7585",
+      "first": "DeWitt",
+      "last": "McBride",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7648",
+      "first": "Eileen",
+      "last": "Palmer",
+      "f": "Noted Role",
+      "character": "Francie Brent"
+    },
+    {
+      "idperson": "7648",
+      "first": "Eileen",
+      "last": "Palmer",
+      "f": "Noted Role",
+      "character": "Frances Brent"
+    },
+    {
+      "idperson": "7651",
+      "first": "Olive",
+      "last": "Parker",
+      "f": "Noted Role",
+      "character": "Julia"
+    },
+    {
+      "idperson": "7678",
+      "first": "Reese",
+      "last": "Taylor",
+      "f": "Noted Role",
+      "character": "Dr. Reginald Parsons"
+    },
+    {
+      "idperson": "7685",
+      "first": "Beryl",
+      "last": "Vaughn",
+      "f": "Noted Role",
+      "character": "Faith Richards"
+    },
+    {
+      "idperson": "7728",
+      "first": "Dale",
+      "last": "Burch",
+      "f": "Noted Role",
+      "character": "Mary Holt"
+    },
+    {
+      "idperson": "8443",
+      "first": "John",
+      "last": "Anthony",
+      "f": "Noted Role",
+      "character": "Society Doctor"
+    },
+    {
+      "idperson": "8587",
+      "first": "Betty",
+      "last": "Arnold",
+      "f": "Noted Role",
+      "character": "Adele Corlis"
+    },
+    {
+      "idperson": "9091",
+      "first": "Barbara",
+      "last": "Becker",
+      "f": "Noted Role",
+      "character": "Jocelyn McLeod Brent"
+    },
+    {
+      "idperson": "11098",
+      "first": "Muriel",
+      "last": "Bremner",
+      "f": "Noted Role",
+      "character": "Helen Gowan Stephenson"
+    },
+    {
+      "idperson": "11643",
+      "first": "Sidney",
+      "last": "Breese",
+      "f": "Noted Role",
+      "character": "Dr. Ralph Thompson"
+    },
+    {
+      "idperson": "11966",
+      "first": "Viola",
+      "last": "Berwick",
+      "f": "Noted Role",
+      "character": "Sally Barnett"
+    },
+    {
+      "idperson": "12282",
+      "first": "Eloise",
+      "last": "Kummer",
+      "f": "Noted Role",
+      "character": "Janet Mercer"
+    },
+    {
+      "idperson": "12297",
+      "first": "Bill",
+      "last": "Lipton",
+      "f": "Noted Role",
+      "character": "Butch Brent"
+    },
+    {
+      "idperson": "20138",
+      "first": "Lee",
+      "last": "Young",
+      "f": "Noted Role",
+      "character": "Dr. Bill Evans"
+    },
+    {
+      "idperson": "20153",
+      "first": "Don",
+      "last": "MacLaughlin",
+      "f": "Noted Role",
+      "character": "Dr. Jim Brent"
+    },
+    {
+      "idperson": "21265",
+      "first": "Stanley",
+      "last": "Gordon",
+      "f": "Noted Role",
+      "character": "Hartley Knowlton"
+    },
+    {
+      "idperson": "21754",
+      "first": "Robert 'Bob'",
+      "last": "Griffin",
+      "f": "Noted Role",
+      "character": "Tom Stephenson"
+    },
+    {
+      "idperson": "25949",
+      "first": "Joan",
+      "last": "Kay",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "26037",
+      "first": "Howard",
+      "last": "Keegan",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "26985",
+      "first": "Fayette",
+      "last": "Krum",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "27878",
+      "first": "Grace",
+      "last": "Lenard",
+      "f": "Noted Role",
+      "character": "Nurse Lanier"
+    },
+    {
+      "idperson": "30248",
+      "first": "Bess",
+      "last": "McCammon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "30879",
+      "first": "Malcolm",
+      "last": "Meachum",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "31970",
+      "first": "William",
+      "last": "Morwood",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "33474",
+      "first": "Angeline",
+      "last": "Orr",
+      "f": "Noted Role",
+      "character": "Alice Johnson"
+    },
+    {
+      "idperson": "33694",
+      "first": "Charles",
+      "last": "Schenck",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "38716",
+      "first": "Lillian",
+      "last": "White",
+      "f": "Noted Role",
+      "character": "Dorothy Reads"
+    },
+    {
+      "idperson": "39494",
+      "first": "Mason",
+      "last": "Adams",
+      "f": "Noted Role",
+      "character": "Clifton Wadsworth"
+    },
+    {
+      "idperson": "39597",
+      "first": "Peggy",
+      "last": "Allenby",
+      "f": "Noted Role",
+      "character": "Helen Gowan Stephenson"
+    },
+    {
+      "idperson": "39597",
+      "first": "Peggy",
+      "last": "Allenby",
+      "f": "Noted Role",
+      "character": "Night Nurse"
+    },
+    {
+      "idperson": "40344",
+      "first": "Lois",
+      "last": "Volkman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "40444",
+      "first": "Charles",
+      "last": "Urquhart",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "43637",
+      "first": "Ray",
+      "last": "Suber",
+      "f": "Noted Role",
+      "character": "Morton Blair"
+    },
+    {
+      "idperson": "43643",
+      "first": "Lyle",
+      "last": "Sudrow",
+      "f": "Noted Role",
+      "character": "Frank Dana"
+    },
+    {
+      "idperson": "45303",
+      "first": "Kay",
+      "last": "Lane",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "45397",
+      "first": "John",
+      "last": "Briggs",
+      "f": "Noted Role",
+      "character": "Daley"
+    },
+    {
+      "idperson": "45498",
+      "first": "Roland",
+      "last": "Butterfield",
+      "f": "Noted Role",
+      "character": "Butch Brent"
+    },
+    {
+      "idperson": "45567",
+      "first": "Carl",
+      "last": "Wester",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "45684",
+      "first": "Gil",
+      "last": "Gibbons",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "45816",
+      "first": "Angel",
+      "last": "Casey",
+      "f": "Noted Role",
+      "character": "Paging Nurse"
+    },
+    {
+      "idperson": "45868",
+      "first": "Robert",
+      "last": "Duane",
+      "f": "Noted Role",
+      "character": "Dr. Grant Frasier"
+    },
+    {
+      "idperson": "45870",
+      "first": "Walt",
+      "last": "Ehrgott",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "45897",
+      "first": "Dick",
+      "last": "Foster",
+      "f": "Noted Role",
+      "character": "Clifford Foster"
+    },
+    {
+      "idperson": "45994",
+      "first": "Donald 'Don'",
+      "last": "Kraatz",
+      "f": "Noted Role",
+      "character": "Butch Brent"
+    },
+    {
+      "idperson": "46036",
+      "first": "Mary",
+      "last": "Mareen",
+      "f": "Noted Role",
+      "character": "Paula Harwood"
+    },
+    {
+      "idperson": "46054",
+      "first": "Doris",
+      "last": "Mead",
+      "f": "Noted Role",
+      "character": "Sally Barnett"
+    },
+    {
+      "idperson": "46161",
+      "first": "Leslie",
+      "last": "Spears",
+      "f": "Noted Role",
+      "character": "Frank Roberts"
+    },
+    {
+      "idperson": "46231",
+      "first": "Lois",
+      "last": "Zarley",
+      "f": "Noted Role",
+      "character": "Sylvia Bertram"
+    },
+    {
+      "idperson": "47017",
+      "first": "Elena",
+      "last": "Karam",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "47021",
+      "first": "Lynn",
+      "last": "Masters",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "47045",
+      "first": "Ira",
+      "last": "York",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50248",
+      "first": "Arthur",
+      "last": "Kohl",
+      "f": "Noted Role",
+      "character": "George Hurley"
+    },
+    {
+      "idperson": "50547",
+      "first": "Bill",
+      "last": "Meeder",
+      "f": "Noted Role",
+      "character": "Oganist"
+    },
+    {
+      "idperson": "50937",
+      "first": "Nannette",
+      "last": "Sargent",
+      "f": "Noted Role",
+      "character": "Sally Barnett"
+    },
+    {
+      "idperson": "50937",
+      "first": "Nannette",
+      "last": "Sargent",
+      "f": "Noted Role",
+      "character": "Elizabeth"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "1099",
+      "idtype": "4",
+      "page": "2",
+      "article": "",
+      "url": "",
+      "date": "1970-01-01",
+      "source": "Misc/Don_Maris_Flyer_(01)_70.pdf",
+      "idpytype2": "4",
+      "title": "Don Maris Flyer (01) 1970",
+      "author": ""
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "409",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1992-05-01",
+      "source": "Hello Again/HA_V23_(03)_MayJun92.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 23 #03 May/Jun 1992",
+      "author": ""
+    },
+    {
+      "idprint": "734",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1996-07-01",
+      "source": "Illustrated Press/IP_238.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#238) - Jul 1996",
+      "author": ""
+    },
+    {
+      "idprint": "1064",
+      "idtype": "4",
+      "page": "40",
+      "article": "",
+      "url": "",
+      "date": "1986-01-01",
+      "source": "Memories/86_Vol_12_01.pdf",
+      "idpytype2": "4",
+      "title": "Memories - 1986 Vol 12 #01",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2287",
+      "idtype": "4",
+      "page": "43",
+      "article": "",
+      "url": "",
+      "date": "1949-09-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 4909.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 4909",
+      "author": ""
+    },
+    {
+      "idprint": "2313",
+      "idtype": "4",
+      "page": "90",
+      "article": "Signpost to a Dream",
+      "url": "undefined",
+      "date": "1951-11-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 5111.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 5111",
+      "author": ""
+    },
+    {
+      "idprint": "2332",
+      "idtype": "4",
+      "page": "23",
+      "article": "",
+      "url": "",
+      "date": "1953-06-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 5306.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 5306",
+      "author": ""
+    },
+    {
+      "idprint": "2352",
+      "idtype": "4",
+      "page": "26",
+      "article": "",
+      "url": "",
+      "date": "1950-01-01",
+      "source": "Radios Best/Radio Best 5001 - incomplete.pdf",
+      "idpytype2": "4",
+      "title": "Radio Best 5001 - incomplete",
+      "author": ""
+    },
+    {
+      "idprint": "2353",
+      "idtype": "4",
+      "page": "23",
+      "article": "",
+      "url": "",
+      "date": "1950-10-01",
+      "source": "Radios Best/Radio Best 5010.PDF",
+      "idpytype2": "4",
+      "title": "Radio Best 5010",
+      "author": ""
+    },
+    {
+      "idprint": "2064",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1939-01-14",
+      "source": "Radio Guide/Radio Guide 39-01-14.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 39-01-14",
+      "author": ""
+    },
+    {
+      "idprint": "2192",
+      "idtype": "4",
+      "page": "41",
+      "article": "",
+      "url": "",
+      "date": "1947-02-01",
+      "source": "Radio Mirror/Radio Mirror 4702.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4702",
+      "author": ""
+    },
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1700",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "1945-05-01",
+      "source": "Radio Row/Radio Row 4505.pdf",
+      "idpytype2": "4",
+      "title": "Radio Row 1945 05",
+      "author": ""
+    },
+    {
+      "idprint": "1673",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1970-07-01",
+      "source": "Radio Dial/Radio_Dial_Summer70.pdf",
+      "idpytype2": "4",
+      "title": "Radio_Dial_Summer_1970",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "151",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "99",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2689",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "1944-08-01",
+      "source": "Tune In/Tune In 4408.pdf",
+      "idpytype2": "4",
+      "title": "Tune In - Aug 1944",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Pathetique' from Tchaikovsky's Sixth Symphony"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "259640",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ella Excited About Debut On Radio"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259644",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frank And Bill Talk"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road Of Life xx-xx-xx Frank And Bill Talk.mp3",
+          "time": "945",
+          "size": "3780766"
+        }
+      ]
+    },
+    {
+      "ide": "259645",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frank And Bill Talk (Helen's Husband in Accident)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259654",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim Was A Little Puzzled By Francie's Cool Reception"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "329511",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Musical Themes - file 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life - Musical Themes - file 1.mp3",
+          "time": "410",
+          "size": "5088217"
+        }
+      ]
+    },
+    {
+      "ide": "329512",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Musical Themes - file 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life - Musical Themes - file 2.mp3",
+          "time": "406",
+          "size": "5089038"
+        }
+      ]
+    },
+    {
+      "ide": "314794",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beth's December 21st Letter Causes Concern"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "The Road Of Life 5003xx xxx Beth's December 21st Letter Causes Concern (96-48).mp3",
+          "time": "758",
+          "size": "9172030"
+        }
+      ]
+    },
+    {
+      "ide": "314795",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim Was A Little Puzzled By Francie's Cool Reception"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life xxxxxx xxxx Jim Was A Little Puzzled By Francie's Cool Reception_OTRRPG.mp3",
+          "time": "892",
+          "size": "14351956"
+        }
+      ]
+    },
+    {
+      "ide": "329518",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "John Speaks With Dr Frasier About Jim's Expulsion"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-05 1913 John Speaks With Dr Frasier About Jim's Expulsion.mp3",
+          "time": "863",
+          "size": "10803797"
+        }
+      ]
+    },
+    {
+      "ide": "331823",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Phone Call"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road Of Life, The 5xxxxx xxx The Phone Call (C).mp3",
+          "time": "874",
+          "size": "28031906"
+        }
+      ]
+    },
+    {
+      "ide": "331822",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Augusta The Killer"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road Of Life, The 5xxxxx xxx Augusta The Killer (C).mp3",
+          "time": "885",
+          "size": "28362146"
+        }
+      ]
+    },
+    {
+      "ide": "314793",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 49xxxx 0002_OTRRPG.mp3",
+          "time": "822",
+          "size": "13236536"
+        }
+      ]
+    },
+    {
+      "ide": "167655",
+      "date": "0000-00-00",
+      "epnum": "4347",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Overton Has Gone To Texas"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "167654",
+      "date": "0000-00-00",
+      "epnum": "4348",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sybil Gets Her Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "167653",
+      "date": "0000-00-00",
+      "epnum": "4349",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Overton Brings Pearl And Eddie Back From Texas"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "167652",
+      "date": "0000-00-00",
+      "epnum": "4350",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mooch Is Leaving The Band"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259651",
+      "date": "0000-00-00",
+      "epnum": "4351",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim And Jocelyn Talk"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259659",
+      "date": "0000-00-00",
+      "epnum": "4352",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Overton Has Everything Under Control"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259652",
+      "date": "0000-00-00",
+      "epnum": "4353",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim And Jocelyn Worry About Pearl"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259668",
+      "date": "0000-00-00",
+      "epnum": "4354",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sybil Lies To Pearl"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259631",
+      "date": "0000-00-00",
+      "epnum": "4359",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Conrad And Malcolm Are Not Getting Along"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259619",
+      "date": "0000-00-00",
+      "epnum": "4360",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Armee Fixes Mooch Up With Sybil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259671",
+      "date": "1937-09-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259663",
+      "date": "1939-09-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder Trial Of John McKuen, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259650",
+      "date": "1940-07-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim And Helen Go To The Second Floor Waiting Room"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road Of Life 40-07-12 Jim And Helen Go To The Second Floor Waiting Room.mp3",
+          "time": "929",
+          "size": "3715230"
+        }
+      ]
+    },
+    {
+      "ide": "259639",
+      "date": "1941-12-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Thompson Calls On Carol"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259638",
+      "date": "1944-06-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Frazier Tries To Cut In On Dr Brent's New Clinic"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 44-06-07 Dr Frasier Tries to Break in on Dr Brent's Clinic.mp3",
+          "time": "841",
+          "size": "20191327"
+        }
+      ]
+    },
+    {
+      "ide": "329513",
+      "date": "1944-12-27",
+      "epnum": "1905",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent Inquires About His Son"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1944-12-27 1905 Dr Brent Inquires About His Son.mp3",
+          "time": "881",
+          "size": "11537585"
+        }
+      ]
+    },
+    {
+      "ide": "329514",
+      "date": "1944-12-28",
+      "epnum": "1906",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Frasier Refuses to Attend to Emergency Patient"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1944-12-28 1906 Dr Frasier Refuses to Attend to Emergency Patient.mp3",
+          "time": "887",
+          "size": "11245296"
+        }
+      ]
+    },
+    {
+      "ide": "329515",
+      "date": "1944-12-29",
+      "epnum": "1908",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Frasier Told Get Out of the Operating Room"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1944-12-29 1908 Dr Frasier Told Get Out of the Operating Room.mp3",
+          "time": "883",
+          "size": "11784608"
+        }
+      ]
+    },
+    {
+      "ide": "329516",
+      "date": "1945-01-03",
+      "epnum": "1911",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Argues With Her Aunt About Divorcing Jim"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-03 1911 Carol Argues With Her Aunt About Divorcing Jim.mp3",
+          "time": "884",
+          "size": "10388076"
+        }
+      ]
+    },
+    {
+      "ide": "329517",
+      "date": "1945-01-04",
+      "epnum": "1912",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "John Argues With Jim About the Emergency Surgery"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-04 1912 John Argues With Jim About the Emergency Surgery.mp3",
+          "time": "879",
+          "size": "10882174"
+        }
+      ]
+    },
+    {
+      "ide": "259665",
+      "date": "1945-01-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rumors Are Spreading About Dr Brent"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "329519",
+      "date": "1945-01-08",
+      "epnum": "1914",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Boards Train For Reno to Get Divorced"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-08 1914 Carol Boards Train For Reno to Get Divorced.mp3",
+          "time": "888",
+          "size": "11340165"
+        }
+      ]
+    },
+    {
+      "ide": "329520",
+      "date": "1945-01-15",
+      "epnum": "1915",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim Asks John Not to Interfere"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-15 1915 Jim Asks John Not to Interfere.mp3",
+          "time": "885",
+          "size": "10734430"
+        }
+      ]
+    },
+    {
+      "ide": "329521",
+      "date": "1945-01-16",
+      "epnum": "1916",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Frasier Prepares a Cover-Up"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-16 1916 Dr Frasier Prepares a Cover-Up.mp3",
+          "time": "871",
+          "size": "10973746"
+        }
+      ]
+    },
+    {
+      "ide": "329522",
+      "date": "1945-01-17",
+      "epnum": "1917",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Chat Between Nurse Sylvia and Dr Brent"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-17 1917 A Chat Between Nurse Sylvia and Dr Brent.mp3",
+          "time": "894",
+          "size": "11362042"
+        }
+      ]
+    },
+    {
+      "ide": "329523",
+      "date": "1945-01-18",
+      "epnum": "1918",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Arrives in Reno"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-18 1918 Carol Arrives in Reno.mp3",
+          "time": "879",
+          "size": "11331039"
+        }
+      ]
+    },
+    {
+      "ide": "329524",
+      "date": "1945-01-19",
+      "epnum": "1919",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Has a Nightmare"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-19 1919 Carol Has a Nightmare.mp3",
+          "time": "877",
+          "size": "11185503"
+        }
+      ]
+    },
+    {
+      "ide": "259633",
+      "date": "1945-01-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent And Sylvia Have A Talk"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-22 1920 Jim Has Dinner With Sylvia.mp3",
+          "time": "878",
+          "size": "11061647"
+        }
+      ]
+    },
+    {
+      "ide": "329525",
+      "date": "1945-01-23",
+      "epnum": "1921",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent Not Worried About Ethics Board"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-23 1921 Dr Brent Not Worried About Ethics Board.mp3",
+          "time": "871",
+          "size": "10339418"
+        }
+      ]
+    },
+    {
+      "ide": "329526",
+      "date": "1945-01-24",
+      "epnum": "1922",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Speaks With a Divorcee"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-24 1922 Carol Speaks With a Divorcee.mp3",
+          "time": "866",
+          "size": "10146933"
+        }
+      ]
+    },
+    {
+      "ide": "329527",
+      "date": "1945-01-25",
+      "epnum": "1923",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ethics Committee Meeting Begins"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-25 1923 Ethics Committee Meeting Begins.mp3",
+          "time": "882",
+          "size": "11447972"
+        }
+      ]
+    },
+    {
+      "ide": "329528",
+      "date": "1945-01-26",
+      "epnum": "1924",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tom Parsons Testifies"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-26 1924 Tom Parsons Testifies.mp3",
+          "time": "883",
+          "size": "10486119"
+        }
+      ]
+    },
+    {
+      "ide": "329529",
+      "date": "1945-01-29",
+      "epnum": "1925",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tom Parsons Testimony Thrown Out"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-29 1925 Tom Parsons Testimony Thrown Out.mp3",
+          "time": "866",
+          "size": "10955668"
+        }
+      ]
+    },
+    {
+      "ide": "329530",
+      "date": "1945-01-30",
+      "epnum": "1926",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nurse Palmer Testifies"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-30 1926 Nurse Palmer Testifies.mp3",
+          "time": "879",
+          "size": "11243505"
+        }
+      ]
+    },
+    {
+      "ide": "329531",
+      "date": "1945-01-31",
+      "epnum": "1927",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ethel Lanear Testifies"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-01-31 1927 Ethel Lanear Testifies.mp3",
+          "time": "866",
+          "size": "10651757"
+        }
+      ]
+    },
+    {
+      "ide": "329532",
+      "date": "1945-02-01",
+      "epnum": "1928",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim and John Wait For a Decision"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-01 1928 Jim and John Wait For a Decision.mp3",
+          "time": "869",
+          "size": "10898094"
+        }
+      ]
+    },
+    {
+      "ide": "329533",
+      "date": "1945-02-02",
+      "epnum": "1929",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent Found Guilty"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-02 1929 Dr Brent Found Guilty.mp3",
+          "time": "878",
+          "size": "10907283"
+        }
+      ]
+    },
+    {
+      "ide": "329534",
+      "date": "1945-02-05",
+      "epnum": "1930",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim Tells John of the Guilty Verdict"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-05 1930 Jim Tells John of the Guilty Verdict.mp3",
+          "time": "872",
+          "size": "10884643"
+        }
+      ]
+    },
+    {
+      "ide": "329535",
+      "date": "1945-02-06",
+      "epnum": "1931",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Reminisces"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-06 1931 Carol Reminisces.mp3",
+          "time": "878",
+          "size": "11888473"
+        }
+      ]
+    },
+    {
+      "ide": "329536",
+      "date": "1945-02-07",
+      "epnum": "1932",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim Reflects On His Life"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-07 1932 Jim Reflects On His Life.mp3",
+          "time": "887",
+          "size": "11291082"
+        }
+      ]
+    },
+    {
+      "ide": "329537",
+      "date": "1945-02-08",
+      "epnum": "1933",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ethel Lanear Confronts Dr Frasier"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-08 1933 Ethel Lanear Confronts Dr Frasier.mp3",
+          "time": "889",
+          "size": "11295696"
+        }
+      ]
+    },
+    {
+      "ide": "329538",
+      "date": "1945-02-09",
+      "epnum": "1934",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pauline Urges Carol to Get A Lawyer"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-09 1934 Pauline Urges Carol to Get A Lawyer.mp3",
+          "time": "879",
+          "size": "11040218"
+        }
+      ]
+    },
+    {
+      "ide": "329539",
+      "date": "1945-02-12",
+      "epnum": "1935",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Sees a Lawyer"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-12 1935 Carol Sees a Lawyer.mp3",
+          "time": "862",
+          "size": "10527577"
+        }
+      ]
+    },
+    {
+      "ide": "329540",
+      "date": "1945-02-13",
+      "epnum": "1936",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol's Jealousy"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-13 1936 Carol's Jealousy.mp3",
+          "time": "875",
+          "size": "11055842"
+        }
+      ]
+    },
+    {
+      "ide": "329541",
+      "date": "1945-02-14",
+      "epnum": "1937",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Judy Evans Visits Dr Brent"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-14 1937 Judy Evans Visits Dr Brent.mp3",
+          "time": "873",
+          "size": "10683235"
+        }
+      ]
+    },
+    {
+      "ide": "329542",
+      "date": "1945-02-15",
+      "epnum": "1938",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim Visits Bill at the Sanitarium"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-15 1938 Jim Visits Bill at the Sanitarium.mp3",
+          "time": "880",
+          "size": "10889293"
+        }
+      ]
+    },
+    {
+      "ide": "329543",
+      "date": "1945-02-16",
+      "epnum": "1939",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim and Sylvia Discuss Bill's New Treatment"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-16 1939 Jim and Sylvia Discuss Bill's New Treatment.mp3",
+          "time": "868",
+          "size": "10904978"
+        }
+      ]
+    },
+    {
+      "ide": "329544",
+      "date": "1945-02-19",
+      "epnum": "1940",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bill Begins His New Treatment"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-19 1940 Bill Begins His New Treatment.mp3",
+          "time": "882",
+          "size": "10929319"
+        }
+      ]
+    },
+    {
+      "ide": "329545",
+      "date": "1945-02-20",
+      "epnum": "1941",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bill Better After Treatment"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-20 1941 Bill Better After Treatment.mp3",
+          "time": "883",
+          "size": "11124804"
+        }
+      ]
+    },
+    {
+      "ide": "329546",
+      "date": "1945-02-21",
+      "epnum": "1942",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Preliminary Divorce Proceedings Begin"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-21 1942 Preliminary Divorce Proceedings Begin.mp3",
+          "time": "876",
+          "size": "11094112"
+        }
+      ]
+    },
+    {
+      "ide": "329547",
+      "date": "1945-02-22",
+      "epnum": "1943",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Spends the Day With Her Lawyer"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-22 1943 Carol Spends the Day With Her Lawyer.mp3",
+          "time": "874",
+          "size": "10888706"
+        }
+      ]
+    },
+    {
+      "ide": "329548",
+      "date": "1945-02-23",
+      "epnum": "1944",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim Requests More Equipment for the Sanitarium"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-23 1944 Jim Requests More Equipment for the Sanitarium.mp3",
+          "time": "879",
+          "size": "11240665"
+        }
+      ]
+    },
+    {
+      "ide": "329549",
+      "date": "1945-02-26",
+      "epnum": "1945",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent Meets Madeleine Post"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-26 1945 Dr Brent Meets Madeleine Post.mp3",
+          "time": "864",
+          "size": "11009669"
+        }
+      ]
+    },
+    {
+      "ide": "329550",
+      "date": "1945-02-27",
+      "epnum": "1946",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent Meets Madeleine's Mother"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-27 1946 Dr Brent Meets Madeleine's Mother.mp3",
+          "time": "867",
+          "size": "10739716"
+        }
+      ]
+    },
+    {
+      "ide": "329551",
+      "date": "1945-02-28",
+      "epnum": "1947",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent Makes an Appointment With Augustus Post"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-02-28 1947 Dr Brent Makes an Appointment With Augustus Post.mp3",
+          "time": "866",
+          "size": "10977798"
+        }
+      ]
+    },
+    {
+      "ide": "329552",
+      "date": "1945-03-01",
+      "epnum": "1948",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Augustus Post Turns Down Dr. Brent's Request"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-03-01 1948 Augustus Post Turns Down Dr. Brent's Request.mp3",
+          "time": "881",
+          "size": "11904486"
+        }
+      ]
+    },
+    {
+      "ide": "329553",
+      "date": "1945-03-02",
+      "epnum": "1949",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent Finds a New Benefactor"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "RoadOfLifeJHMC",
+          "name": "Road of Life 1945-03-02 1949 Dr Brent Finds a New Benefactor.mp3",
+          "time": "878",
+          "size": "11096278"
+        }
+      ]
+    },
+    {
+      "ide": "259656",
+      "date": "1945-05-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lotte And Alice Are Cleaning House"
+        },
+        {
+          "title": "The Brents Leave New York"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road Of Life 450528 xxx The Brents Leave New York (Lotte & Alice are Cleaning the House for the Brents).mp3",
+          "time": "888",
+          "size": "14287116"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 450528 xxxx Lotte and Alice are Cleaning the House for the Brents_OTRRPG.mp3",
+          "time": "889",
+          "size": "14228019"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 450528 xxx Lotte and Alice are Cleaning the Hou.mp3",
+          "time": "886",
+          "size": "7091959"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "The Road Of Life 45-05-28 The Brents Leave New York.mp3",
+          "time": "886",
+          "size": "7091188"
+        }
+      ]
+    },
+    {
+      "ide": "259632",
+      "date": "1945-06-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cummings Sisters Spy On Carol, The"
+        },
+        {
+          "title": "The Busybody Cummings Sisters Spy on Carol Brent"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road Of Life 450622 xxx The Busybody Cummings Sisters Spy on Carol Brent.mp3",
+          "time": "879",
+          "size": "14138664"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 450622 xxxx The busybody Cummings sisters Spy on Carol Brent_OTRRPG.mp3",
+          "time": "879",
+          "size": "14079567"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 450622 xxx The busybody Cummings sisters Spy on.mp3",
+          "time": "877",
+          "size": "7017901"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "The Road Of Life 45-06-22 The Two Old Sisters.mp3",
+          "time": "877",
+          "size": "7017140"
+        }
+      ]
+    },
+    {
+      "ide": "259660",
+      "date": "1945-08-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Fitzpatrick Foiled By A Detective"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259655",
+      "date": "1946-07-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Janey Runs The Family Ragged"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259667",
+      "date": "1946-08-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strange Man Asks Janey Questions, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "312308",
+      "date": "1946-08-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Fitzpatrick Has Been Foiled by a Detective"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 46-08-17 Mrs Fitzpatrick Has Been Foiled by a Detective.mp3",
+          "time": "818",
+          "size": "19638994"
+        }
+      ]
+    },
+    {
+      "ide": "310595",
+      "date": "1946-08-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 1946-08-22.mp3",
+          "time": "997",
+          "size": "10053074"
+        }
+      ]
+    },
+    {
+      "ide": "259676",
+      "date": "1946-11-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259677",
+      "date": "1946-11-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259678",
+      "date": "1946-12-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259637",
+      "date": "1946-12-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent Talks To Francie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259679",
+      "date": "1946-12-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259664",
+      "date": "1946-12-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Year's Eve Party, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259642",
+      "date": "1947-05-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Francie And Maggie Discuss Jim And Carol"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259625",
+      "date": "1947-06-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Hates Her New Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259623",
+      "date": "1947-06-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol And Jim Talk About The Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road Of Life 47-06-18 Carol And Jim Talk About The Fire.mp3",
+          "time": "890",
+          "size": "8902814"
+        }
+      ]
+    },
+    {
+      "ide": "259635",
+      "date": "1947-07-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent Has Proposed To Maggie, But Is She Still Alive"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 470726 xxxx Dr Brent Has Proposed To Maggie, But Is She Still Alive_OTRRPG.mp3",
+          "time": "860",
+          "size": "13839494"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 47-07-26 Dr  Brent Has Proposed to Maggie, But is She Still Alive.mp3",
+          "time": "858",
+          "size": "6865385"
+        }
+      ]
+    },
+    {
+      "ide": "259627",
+      "date": "1947-09-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Is Tricked"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259626",
+      "date": "1947-10-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Intercepts Note To Dr. Brent From Nurse Roberts"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 471021 xxxx Carol Intercepts Note To Dr. Brent From Nurse Roberts_OTRRPG.mp3",
+          "time": "870",
+          "size": "13991629"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 47-10-21 Carol Intercepts Note to Dr  Brent, from Nurse Roberts.mp3",
+          "time": "868",
+          "size": "6941097"
+        }
+      ]
+    },
+    {
+      "ide": "259618",
+      "date": "1947-11-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alec Uses Carol To Obtain A Job"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 471106 xxxx Alex Uses Carol To Obtain A Job_OTRRPG.mp3",
+          "time": "869",
+          "size": "13989100"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 47-11-06 Alex Uses Carol to Obtain a Job at the Sanitarium.mp3",
+          "time": "867",
+          "size": "6939849"
+        }
+      ]
+    },
+    {
+      "ide": "259617",
+      "date": "1947-11-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alec Has Kissed Carol"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259616",
+      "date": "1947-11-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alec and Carol Take a Ride"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259643",
+      "date": "1947-12-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Francie Is Leaving The Brent House"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 471201 xxxx Francie Is Leaving The Brent House_OTRRPG.mp3",
+          "time": "872",
+          "size": "14029303"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 47-12-01 Francie Is Leaving The Brent House.mp3",
+          "time": "875",
+          "size": "21006974"
+        }
+      ]
+    },
+    {
+      "ide": "259634",
+      "date": "1947-12-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent Asks Francie To Return"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 471202 xxxx Dr Brent Asks Francie To Return_OTRRPG.mp3",
+          "time": "878",
+          "size": "14120000"
+        }
+      ]
+    },
+    {
+      "ide": "259630",
+      "date": "1947-12-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol's Career Means More Than Her Marriage"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 471203 xxxx Carol's Career Means More Than Her Marriage_OTRRPG.mp3",
+          "time": "869",
+          "size": "13981656"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 47-12-03 Carol's Career Means More Than Her Marriage.mp3",
+          "time": "877",
+          "size": "21055248"
+        }
+      ]
+    },
+    {
+      "ide": "259649",
+      "date": "1947-12-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Janey Has The Chicken Pox"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259636",
+      "date": "1947-12-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Brent May Fall Prey To Alex"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259646",
+      "date": "1947-12-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frank's Offer Of Marriage To Maggie"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road Of Life 47-12-18 Franks Offer Of Marriage To Frankie.mp3",
+          "time": "905",
+          "size": "3619666"
+        }
+      ]
+    },
+    {
+      "ide": "259621",
+      "date": "1947-12-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bill Is Suffering From Island Fever"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259628",
+      "date": "1948-01-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Plans To Go To Paris"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259629",
+      "date": "1948-01-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol's Boss Changes His Mind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259658",
+      "date": "1948-05-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Maggie Turns Down Frank's Proposal"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480507 xxxx Maggie Turns Down Frank's Proposal (2)_OTRRPG.mp3",
+          "time": "826",
+          "size": "13300523"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480507 xxxx Maggie Turns Down Frank's Proposal_OTRRPG.mp3",
+          "time": "874",
+          "size": "14069016"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-05-07 Maggie Turns Down Frank's Proposal.mp3",
+          "time": "877",
+          "size": "21055248"
+        }
+      ]
+    },
+    {
+      "ide": "259662",
+      "date": "1948-05-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Lowell Tries To Break up Frank And Maggie"
+        },
+        {
+          "title": "Trying to Break Up the Romance of Maggie and Frank"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480511 xxxx Mrs Lowell Tries To Break Up Frank And Maggie (2)_OTRRPG.mp3",
+          "time": "837",
+          "size": "13476495"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480511 xxxx Mrs Lowell Tries To Break Up Frank And Maggie_OTRRPG.mp3",
+          "time": "878",
+          "size": "14120843"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-05-11 Mrs Lowell Tries To Break up Frank And Maggie.mp3",
+          "time": "880",
+          "size": "21126719"
+        }
+      ]
+    },
+    {
+      "ide": "259661",
+      "date": "1948-05-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Lowell Has Demonstrated Her Power Over Maggie"
+        },
+        {
+          "title": "Maggie Upset by Mrs Lowell's Threats"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480519 xxxx Mrs Lowell Has Demonstrated Her Power Over Maggie (2)_OTRRPG.mp3",
+          "time": "830",
+          "size": "13351947"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480519 xxxx Mrs Lowell Has Demonstrated Her Power Over Maggie_OTRRPG.mp3",
+          "time": "871",
+          "size": "14010874"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-05-19 Mrs Lowell Has Demonstrated Her Power Over Maggie.mp3",
+          "time": "873",
+          "size": "20959327"
+        }
+      ]
+    },
+    {
+      "ide": "259666",
+      "date": "1948-05-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sinister Mysterious Behavior Of Mrs Lowell, The"
+        },
+        {
+          "title": "Memorable Tributes to Granny Rice"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480520 xxxx The Sinister Mysterious Behavior of Mrs Lowell (2)_OTRRPG.mp3",
+          "time": "823",
+          "size": "13251216"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480520 xxxx The Sinister Mysterious Behavior of Mrs Lowell_OTRRPG.mp3",
+          "time": "870",
+          "size": "14002561"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-05-20 Sinister Mysterious Behavior Of Mrs Lowell, The.mp3",
+          "time": "873",
+          "size": "20959327"
+        }
+      ]
+    },
+    {
+      "ide": "259647",
+      "date": "1948-05-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Goaded Almost Beyond Endurance By Mrs Lowell"
+        },
+        {
+          "title": "Cold Terror Closes Around Maggie's Heart"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480525 xxxx Goaded Almost Beyond Endurance By Mrs Lowell (2)_OTRRPG.mp3",
+          "time": "821",
+          "size": "13222375"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480525 xxxx Goaded Almost Beyond Endurance By Mrs Lowell_OTRRPG.mp3",
+          "time": "882",
+          "size": "14195241"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-05-25 Goaded Almost Beyond Endurance By Mrs Lowell.mp3",
+          "time": "885",
+          "size": "21247092"
+        }
+      ]
+    },
+    {
+      "ide": "259657",
+      "date": "1948-06-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Maggie Lowell Has Not The Slightest Inkling"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480630 xxxx Maggie Lowell Has Not The Slightest Inkling (2)_OTRRPG.mp3",
+          "time": "828",
+          "size": "13262080"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480630 xxxx Maggie Lowell Has Not The Slightest Inkling_OTRRPG.mp3",
+          "time": "895",
+          "size": "14394556"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-06-30 Maggie Lowell Has Not The Slightest Inkling.mp3",
+          "time": "897",
+          "size": "21534857"
+        }
+      ]
+    },
+    {
+      "ide": "259653",
+      "date": "1948-07-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim Branch Was A Little Puzzled By Maggies Reaction"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480723 xxxx Jim Branch Was A Little Puzzled By Maggies Reaction (2)_OTRRPG.mp3",
+          "time": "827",
+          "size": "13303884"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 480723 xxxx Jim Branch Was A Little Puzzled By Maggies Reaction_OTRRPG.mp3",
+          "time": "873",
+          "size": "14043522"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-07-23 Jim Branch Was A Little Puzzled By Maggies Reaction.mp3",
+          "time": "876",
+          "size": "21031425"
+        }
+      ]
+    },
+    {
+      "ide": "259641",
+      "date": "1948-11-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Two Days Francie Brent Has Been Puzzled By Carol's Attitude"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 481128 xxxx For Two Days Francie Brent Has Been Puzzled By Carol's Attitude (2)_OTRRPG.mp3",
+          "time": "832",
+          "size": "13391667"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 481128 xxxx For Two Days Francie Brent Has Been Puzzled By Carol's Attitude_OTRRPG.mp3",
+          "time": "882",
+          "size": "14184792"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-11-28 For Two Days Francie Brent Has Been Puzzled By Car....mp3",
+          "time": "884",
+          "size": "21222641"
+        }
+      ]
+    },
+    {
+      "ide": "259670",
+      "date": "1948-12-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When Jim Brent Asked His Wife To Apoligize"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 481203 xxxx When Jim Brent Asked His Wife To Apologize (2)_OTRRPG.mp3",
+          "time": "822",
+          "size": "13223626"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 481203 xxxx When Jim Brent Asked His Wife To Apologize_OTRRPG.mp3",
+          "time": "874",
+          "size": "14070218"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 47-12-03 Carol's Career Means More Than Her Marriage.mp3",
+          "time": "877",
+          "size": "21055248"
+        }
+      ]
+    },
+    {
+      "ide": "259624",
+      "date": "1948-12-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol Brent Settled Herself Back In Her Seat"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 481204 xxxx Carol Brent Settled Herself Back In Her Seat (2)_OTRRPG.mp3",
+          "time": "829",
+          "size": "13337313"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 481204 xxxx Carol Brent Settled Herself Back In Her Seat_OTRRPG.mp3",
+          "time": "882",
+          "size": "14184792"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-12-04 Carol Brent Settled Herself Back In Her Seat.mp3",
+          "time": "884",
+          "size": "21222641"
+        }
+      ]
+    },
+    {
+      "ide": "259680",
+      "date": "1948-12-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259622",
+      "date": "1948-12-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "But We Can Make It, Mr Dudley"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 481215 xxxx But We Can Make It, Mr Dudley (2)_OTRRPG.mp3",
+          "time": "825",
+          "size": "13271679"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 481215 xxxx But We Can Make It, Mr Dudley_OTRRPG.mp3",
+          "time": "863",
+          "size": "13895564"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-12-15 But We Can Make It, Mr Dudley.mp3",
+          "time": "866",
+          "size": "20790680"
+        }
+      ]
+    },
+    {
+      "ide": "259648",
+      "date": "1948-12-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In A Stone House On The Rue Delavie In Paris"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 481216 xxxx In A Stone House On The Rue Delavie In Paris (2)_OTRRPG.mp3",
+          "time": "821",
+          "size": "13211090"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 481216 xxxx In A Stone House On The Rue Delavie In Paris_OTRRPG.mp3",
+          "time": "874",
+          "size": "14058150"
+        },
+        {
+          "path": "R",
+          "folder": "Road Of Life",
+          "name": "Road of Life 48-12-16 In A Stone House On The Rue Delavie In Paris.mp3",
+          "time": "876",
+          "size": "21031425"
+        }
+      ]
+    },
+    {
+      "ide": "259620",
+      "date": "1949-09-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beth is Masquerading as Carol Brent (Beth Is Sick)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259672",
+      "date": "1952-12-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259669",
+      "date": "1954-02-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Sailors Land In San Diego"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "259673",
+      "date": "1954-06-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259674",
+      "date": "1958-11-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259675",
+      "date": "1959-01-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Serial"
+    },
+    {
+      "genre": "Romance"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-09-13",
+      "dow": "M,Tu,W,Th,F",
+      "time": "9:30 AM",
+      "end": "1938-05-27",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1937-09-13",
+      "dow": "Tu,W,Th,F",
+      "time": "4:45 PM",
+      "end": "1938-05-27",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1938-05-30",
+      "dow": "M,Tu,W,Th,F",
+      "time": "1:30 PM",
+      "end": "1939-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1938-05-30",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:45 AM",
+      "end": "1939-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1939-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:15 AM",
+      "end": "1940-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1939-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "1:45 PM",
+      "end": "1942-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1940-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:30 AM",
+      "end": "1941-12-26",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1941-12-29",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:45 AM",
+      "end": "1942-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1942-00-00",
+      "dow": "M,Tu,W,F",
+      "time": "11:00 AM",
+      "end": "1945-06-01",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1945-04-02",
+      "dow": "M,Tu,W,Th,F",
+      "time": "1:45 PM",
+      "end": "1947-05-30",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-06-04",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:30 AM",
+      "end": "1949-07-08",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1949-07-11",
+      "dow": "M,Tu,W,Th,F",
+      "time": "3:15 PM",
+      "end": "1954-06-25",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1952-12-29",
+      "dow": "M,Tu,W,Th,F",
+      "time": "1:00 PM",
+      "end": "1956-06-29",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1956-07-02",
+      "dow": "M,Tu,W,Th,F",
+      "time": "1:45 PM",
+      "end": "1959-01-02",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Procter and Gamble",
+      "begin": "1937-09-13",
+      "end": "1959-01-02"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Road of Life, The"
+    }
+  ]
+}

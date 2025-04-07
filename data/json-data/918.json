@@ -1,0 +1,846 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3039",
+      "first": "Jonah",
+      "last": "Jones",
+      "f": "Noted Role",
+      "character": "trumpeter"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "24103",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Alexander's Ragtime Band"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166229",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Legend of Wyatt Earp"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166266",
+      "date": "0000-00-00",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Easy To Remember"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166267",
+      "date": "0000-00-00",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Brazil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166268",
+      "date": "0000-00-00",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song- Welcome Young Lovers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166230",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Muskrat Ramble"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "329556",
+      "date": "0000-00-00",
+      "epnum": "119",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ray Ellis"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Army Bandstand",
+          "name": "Army Bandstand 119 196x-xx-xx Ray Ellis.mp3",
+          "time": "883",
+          "size": "12350781"
+        }
+      ]
+    },
+    {
+      "ide": "166231",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bewitched, Bothered and Bewildered"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "329557",
+      "date": "0000-00-00",
+      "epnum": "120",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "U. S. Army Band"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Army Bandstand",
+          "name": "Army Bandstand 120 196x-xx-xx U. S. Army Band.mp3",
+          "time": "890",
+          "size": "12084139"
+        }
+      ]
+    },
+    {
+      "ide": "329558",
+      "date": "0000-00-00",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Richard Maltby"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Army Bandstand",
+          "name": "Army Bandstand 127 1961-xx-xx Richard Maltby.mp3",
+          "time": "896",
+          "size": "11418379"
+        }
+      ]
+    },
+    {
+      "ide": "329559",
+      "date": "0000-00-00",
+      "epnum": "128",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "U. S Ary Band"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Army Bandstand",
+          "name": "Army Bandstand 128 1961-xx-xx U.S. Army Band.mp3",
+          "time": "896",
+          "size": "12403521"
+        }
+      ]
+    },
+    {
+      "ide": "166269",
+      "date": "0000-00-00",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Ciribiribin"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Army Bandstand",
+          "name": "Army Bandstand 129 1961-xx-xx Henry Jerome.mp3",
+          "time": "878",
+          "size": "11996067"
+        }
+      ]
+    },
+    {
+      "ide": "166232",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Phillipe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330241",
+      "date": "0000-00-00",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Army Band"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166270",
+      "date": "0000-00-00",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Showtime"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166271",
+      "date": "0000-00-00",
+      "epnum": "139",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - In The Mood"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166233",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "166272",
+      "date": "0000-00-00",
+      "epnum": "143",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Mambo In"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166234",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "166235",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Thirteen Men and Only One Gal in Town"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166236",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "166237",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Say Darling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166238",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I May Be Wrong"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24102",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Didn't Know The Gun Was Loaded"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166239",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "166240",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bill Bailey Won't You Please Come Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166241",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song  - I Don't Stand a Ghost of a Chance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166242",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "166243",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Shootin' High"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166244",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "166245",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "166246",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song -  Night Train"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24101",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "166247",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Tina Marie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166248",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Better Let Nature Take Its Course"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166249",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Love You Porgy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166273",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - George Shearing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166250",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Could Write a Book"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24100",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Any Place I Hang My Hat Is Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166251",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Stardust"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166252",
+      "date": "0000-00-00",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Kiss Me First"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166253",
+      "date": "0000-00-00",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Malaguena"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166274",
+      "date": "0000-00-00",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jorge Ingmann"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166254",
+      "date": "0000-00-00",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Swingin Down The Lane"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166224",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "166255",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Love Eyes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166256",
+      "date": "0000-00-00",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Old Man And The Sea"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166257",
+      "date": "0000-00-00",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - All About Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166275",
+      "date": "0000-00-00",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Vincent Lopez and His Orchestra"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166276",
+      "date": "0000-00-00",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Connie Francis"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166258",
+      "date": "0000-00-00",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Carolina In The Morning"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166277",
+      "date": "0000-00-00",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Fran Warren"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166259",
+      "date": "0000-00-00",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Looking Over A Four Leaf Clover"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166225",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - From This Moment On"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166260",
+      "date": "0000-00-00",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - All About Love (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166261",
+      "date": "0000-00-00",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Smile"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166226",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "166262",
+      "date": "0000-00-00",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Could Write A Book (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166263",
+      "date": "0000-00-00",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Raunchy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166264",
+      "date": "0000-00-00",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Hadn't Had Anyone Til You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166265",
+      "date": "0000-00-00",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Sitting On Top Of The World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166227",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sugar Moon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "166228",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "24198",
+      "date": "1958-10-20",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Stan Kenton and His Orchestra"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24199",
+      "date": "1958-10-20",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Polly Bergen"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Army Bandstand"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/W Series/Which Is Which/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9523-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4318",
+      "first": "Ken",
+      "last": "Murray",
+      "f": "Noted Role",
+      "character": "emcee"
+    },
+    {
+      "idperson": "2719",
+      "first": "Richard",
+      "last": "Himber",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "38992",
+      "first": "Bob",
+      "last": "Williams",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "603",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1990-12-01",
+      "source": "Illustrated Press/IP_171.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #171 Dec 90",
+      "author": ""
+    },
+    {
+      "idprint": "1539",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "1984-09-01",
+      "source": "On_The_Air/OnTheAir_V1_05SepDec84.pdf",
+      "idpytype2": "4",
+      "title": "ON THE AIR - Vol 1 #5 Sept-Dec 85",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "1700",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "1945-05-01",
+      "source": "Radio Row/Radio Row 4505.pdf",
+      "idpytype2": "4",
+      "title": "Radio Row 1945 05",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "320951",
+      "date": "1944-12-06",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ken Murray - host"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Which Is Which",
+          "name": "Which Is Which 44-12-06 (07) Ken Murray - host.mp3",
+          "time": "1676",
+          "size": "6702288"
+        }
+      ]
+    },
+    {
+      "ide": "320952",
+      "date": "1945-01-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Phil Silvers"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Which Is Which",
+          "name": "Which Is Which 45-01-24 Guest - Phil Silvers.mp3",
+          "time": "1747",
+          "size": "13974633"
+        }
+      ]
+    },
+    {
+      "ide": "316079",
+      "date": "1945-01-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Rudy Vallee, Carmen Miranda"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Which Is Which",
+          "name": "Which Is Which 450131 xxx Guests - Rudy Vallee, Carmen Miranda_OTRRPG.mp3",
+          "time": "1751",
+          "size": "28092917"
+        },
+        {
+          "path": "W",
+          "folder": "Which Is Which",
+          "name": "Which Is Which 45 01 31 Guest - Carmen Miranda.mp3",
+          "time": "1686",
+          "size": "13491439"
+        }
+      ]
+    },
+    {
+      "ide": "311243",
+      "date": "1946-01-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Which is Which 46-01-31 Guest - Carmen Miranda"
+        },
+        {
+          "title": "Guests - Rudy Vallee, Carmen Miranda"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Which is Which 46-01-31 Guest - Carmen Miranda.mp3",
+          "time": "1753",
+          "size": "14024619"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Game Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-10-25",
+      "dow": "W",
+      "time": "9:29 PM",
+      "end": "1945-06-06",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "P. Lorillard Company - Old Gold Cigarettes",
+      "begin": "1944-10-25",
+      "end": "1945-06-06"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Which Is Which?"
+    }
+  ]
+}

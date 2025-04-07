@@ -1,0 +1,641 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "MUDE"
+    }
+  ],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Music Depreciation/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Music-Depreciation.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logm1014.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6467-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "15293",
+      "first": "Frank",
+      "last": "DeVol",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "33742",
+      "first": "The",
+      "last": "Les Paul Trio",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "33742",
+      "first": "The",
+      "last": "Les Paul Trio",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "50612",
+      "first": "Rubin",
+      "last": "Gaines",
+      "f": "Noted Role",
+      "character": "Emcee"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2775",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Presented swinging tunes and arrangements of song originally written in other styles."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "107861",
+      "date": "1944-10-29",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two And A Half Minute Waltz"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 44-10-29 (01) Two and One Half Minute Waltz.mp3",
+          "time": "1740",
+          "size": "6960928"
+        }
+      ]
+    },
+    {
+      "ide": "107862",
+      "date": "1944-11-05",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Black and Blue Danube"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 44-11-05 (02) Black and Blue Danube.mp3",
+          "time": "1762",
+          "size": "7049530"
+        }
+      ]
+    },
+    {
+      "ide": "107863",
+      "date": "1944-11-12",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Night Ride"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 44-11-12 (03) Night Ride.mp3",
+          "time": "1761",
+          "size": "7042413"
+        }
+      ]
+    },
+    {
+      "ide": "107864",
+      "date": "1944-11-19",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Syncopation"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 44-11-19 (04) Syncopation (Minuet in G).mp3",
+          "time": "1742",
+          "size": "6968645"
+        }
+      ]
+    },
+    {
+      "ide": "107865",
+      "date": "1944-11-26",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Boy Blue"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 44-11-26 (05) Little Boy Blue.mp3",
+          "time": "1742",
+          "size": "6968649"
+        }
+      ]
+    },
+    {
+      "ide": "107866",
+      "date": "1944-12-03",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strike up the Band"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 44-12-03 (06) Strike Up the Band.mp3",
+          "time": "1763",
+          "size": "7051616"
+        }
+      ]
+    },
+    {
+      "ide": "107867",
+      "date": "1944-12-10",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Continental"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 44-12-10 (07) The Continental.mp3",
+          "time": "1731",
+          "size": "6923296"
+        }
+      ]
+    },
+    {
+      "ide": "107868",
+      "date": "1944-12-17",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Song of India"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 44-12-17 (08) Song of India.mp3",
+          "time": "1737",
+          "size": "6947749"
+        }
+      ]
+    },
+    {
+      "ide": "107869",
+      "date": "1944-12-24",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Special Christmas Program"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107870",
+      "date": "1944-12-31",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bori Bori"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 44-12-31 (10) Bori Bori.mp3",
+          "time": "1768",
+          "size": "7071252"
+        }
+      ]
+    },
+    {
+      "ide": "107871",
+      "date": "1945-01-07",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "La Cucaracha"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 45-01-07 (11) La Cucaracha.mp3",
+          "time": "1759",
+          "size": "7034893"
+        }
+      ]
+    },
+    {
+      "ide": "107872",
+      "date": "1945-01-14",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Volga Boatman"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 45-01-14 (12) Song of the Volga Boatman.mp3",
+          "time": "1775",
+          "size": "7099469"
+        }
+      ]
+    },
+    {
+      "ide": "107873",
+      "date": "1945-01-21",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deep Night"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 45-01-21 (13) Deep Night.mp3",
+          "time": "1772",
+          "size": "7087763"
+        }
+      ]
+    },
+    {
+      "ide": "107874",
+      "date": "1945-02-04",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mexican Hat Dance"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 45-02-04 (14) Mexican Hat Dance.mp3",
+          "time": "1759",
+          "size": "7034898"
+        }
+      ]
+    },
+    {
+      "ide": "107875",
+      "date": "1945-02-11",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Caravan"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 45-02-11 (15) Caravan.mp3",
+          "time": "1744",
+          "size": "6974911"
+        }
+      ]
+    },
+    {
+      "ide": "107876",
+      "date": "1945-02-18",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lullaby of Broadway"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 45-02-18 (16) Lullaby of Broadeay.mp3",
+          "time": "1755",
+          "size": "7020062"
+        }
+      ]
+    },
+    {
+      "ide": "107877",
+      "date": "1945-02-25",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tico Tico"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 45-02-25 (17) Tico Tico.mp3",
+          "time": "1762",
+          "size": "7046384"
+        }
+      ]
+    },
+    {
+      "ide": "107878",
+      "date": "1945-03-04",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "La Cucaracha"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 450304 (18) La Cucaracha.mp3",
+          "time": "1762",
+          "size": "7050149"
+        }
+      ]
+    },
+    {
+      "ide": "107879",
+      "date": "1945-03-11",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 450311 (19) Great Day.mp3",
+          "time": "1757",
+          "size": "7028830"
+        }
+      ]
+    },
+    {
+      "ide": "107880",
+      "date": "1945-03-18",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Donkey Serenade"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 450318 (20) Donkey Serenade.mp3",
+          "time": "1746",
+          "size": "6985368"
+        }
+      ]
+    },
+    {
+      "ide": "107881",
+      "date": "1945-03-25",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bim, Bam, Boom"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 450325 (21) Bim Bam Boom.mp3",
+          "time": "1764",
+          "size": "7054748"
+        }
+      ]
+    },
+    {
+      "ide": "107882",
+      "date": "1945-04-01",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Parisian Market"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 450401 (22) Parisian Market.mp3",
+          "time": "1731",
+          "size": "6924346"
+        }
+      ]
+    },
+    {
+      "ide": "107883",
+      "date": "1945-04-08",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "There's a Small Hotel"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 450408 (23) There's a Small Hotel.mp3",
+          "time": "1745",
+          "size": "6979104"
+        }
+      ]
+    },
+    {
+      "ide": "107884",
+      "date": "1945-04-22",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music Depreciation",
+          "name": "Music Depreciation 450422 (24) National Emblem March.mp3",
+          "time": "1744",
+          "size": "6975122"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-10-29",
+      "dow": "",
+      "time": "",
+      "end": "1945-04-22",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1944-10-29",
+      "end": "1945-04-22"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Music Depreciation"
+    }
+  ]
+}

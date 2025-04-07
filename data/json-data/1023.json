@@ -1,0 +1,137 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loga1013.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [
+    {
+      "info": "This is a 4 hour serial."
+    }
+  ],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "24674",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "episode 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Atlantis The Lost Continent",
+          "name": "Atlantis The Lost Continent 19xx.xx.xx Part 1 Four Roads To Atlantis.mp3",
+          "time": "3204",
+          "size": "12924928"
+        }
+      ]
+    },
+    {
+      "ide": "24675",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "episode 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Atlantis The Lost Continent",
+          "name": "Atlantis The Lost Continent 19xx.xx.xx Part 2 The Location Of Atlantis.mp3",
+          "time": "3309",
+          "size": "13342720"
+        }
+      ]
+    },
+    {
+      "ide": "24676",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "episode 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Black Magic",
+          "name": "Black Magic 1930.xx.xx Episode 3.mp3",
+          "time": "747",
+          "size": "3096119"
+        }
+      ]
+    },
+    {
+      "ide": "24677",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "episode 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Black Magic",
+          "name": "Black Magic 1930.xx.xx Episode 4.mp3",
+          "time": "761",
+          "size": "3151812"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Atlantis - The Lost Continent"
+    }
+  ]
+}

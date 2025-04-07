@@ -1,0 +1,259 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/American Portraits/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "American The Beautiful"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "152304",
+      "date": "1938-01-29",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prevue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152305",
+      "date": "1938-02-05",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Andrew Jackson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152306",
+      "date": "1938-02-12",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Abraham Lincoln"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152307",
+      "date": "1938-02-19",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "William Penn"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152308",
+      "date": "1938-02-26",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Walt Whitman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152309",
+      "date": "1938-03-05",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eli Whitney"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152310",
+      "date": "1938-03-12",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Alexander Hamilton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152311",
+      "date": "1938-03-19",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Robert E Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152312",
+      "date": "1938-03-26",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ralph Waldo Emerson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152313",
+      "date": "1938-04-02",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jean Louis Rodolphe Agassiz"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152314",
+      "date": "1938-04-09",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thomas Jefferson"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Portraits",
+          "name": "American Portraits - 38-04-09 Thomas Jefferson.mp3",
+          "time": "1781",
+          "size": "28491440"
+        }
+      ]
+    },
+    {
+      "ide": "152315",
+      "date": "1938-04-16",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harriet Beecher Stowe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152316",
+      "date": "1938-04-23",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mark Twain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "152317",
+      "date": "1938-04-30",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Augustus Saint-Gaudens (Last Episode)"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-01-29",
+      "dow": "Sa",
+      "time": "9:30 PM",
+      "end": "1938-04-30",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "American Portraits (1938)"
+    }
+  ]
+}

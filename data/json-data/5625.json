@@ -1,0 +1,98 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5585",
+      "first": "H. Leopold",
+      "last": "Spitalny",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "33534",
+      "first": "Emma",
+      "last": "Otero",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-02-26",
+      "dow": "Su",
+      "time": "",
+      "end": "1942-05-23",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1943-01-10",
+      "dow": "Su",
+      "time": "",
+      "end": "1943-05-23",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Leopold Spitalny Orchestra"
+    },
+    {
+      "title": "Tapestry Musicale"
+    }
+  ]
+}

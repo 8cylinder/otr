@@ -1,0 +1,90 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/O Series/Old Kentucky Barn Dance",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "140",
+      "first": "Randy",
+      "last": "Atcher",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "310224",
+      "date": "1956-12-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Fool Around"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Old Kentucky Barn Dance",
+          "name": "Old Kentucky Barndance 561223 xxx 1st Song - Fool Around (128-48)_OTRRPG.mp3",
+          "time": "1638",
+          "size": "26213368"
+        },
+        {
+          "path": "O",
+          "folder": "Old Kentucky Barn Dance",
+          "name": "Old Kentucky Barn Dance 56-12-23 First Song - Fool Around (sound low).mp3",
+          "time": "1648",
+          "size": "13183570"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Country Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1956-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1956-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Old Kentucky Barn Dance"
+    }
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323040039-3d65df04.jpg",
+      "label": "Eddie Bracken Show",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323040046-3d65df04.jpg",
+      "label": "Eddie Bracken",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3221-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loge1007.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/E Series/Eddie Bracken Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "The Big Broadcast lists the producer as Mann Holiner, rather than Mann Holmer"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "634",
+      "first": "Shirley",
+      "last": "Booth",
+      "f": "Noted Role",
+      "character": "Betty Mahoney"
+    },
+    {
+      "idperson": "671",
+      "first": "Eddie",
+      "last": "Bracken",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "1511",
+      "first": "William",
+      "last": "Demarest",
+      "f": "Noted Role",
+      "character": "Connie's Father"
+    },
+    {
+      "idperson": "4666",
+      "first": "Ruth",
+      "last": "Perrott",
+      "f": "Noted Role",
+      "character": "Mrs. Pringle"
+    },
+    {
+      "idperson": "5202",
+      "first": "Ann",
+      "last": "Rutherford",
+      "f": "Noted Role",
+      "character": "Connie Monahan"
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Noted Role",
+      "character": "1946"
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "7543",
+      "first": "John",
+      "last": "Wald",
+      "f": "Noted Role",
+      "character": "1945"
+    },
+    {
+      "idperson": "7543",
+      "first": "John",
+      "last": "Wald",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "20143",
+      "first": "Nat",
+      "last": "Wolff",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "22594",
+      "first": "Lee",
+      "last": "Harlin",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "45961",
+      "first": "Mann",
+      "last": "Holmer",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "6145",
+      "first": "Janet",
+      "last": "Waldo",
+      "f": "Noted Role",
+      "character": "Eddie's girlfriend"
+    },
+    {
+      "idperson": "1346",
+      "first": "Robert Riley",
+      "last": "Crutcher",
+      "f": "Noted Role",
+      "character": "1945"
+    },
+    {
+      "idperson": "1346",
+      "first": "Robert Riley",
+      "last": "Crutcher",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "2517",
+      "first": "Leigh",
+      "last": "Harline",
+      "f": "Noted Role",
+      "character": "Musician"
+    },
+    {
+      "idperson": "4594",
+      "first": "Emory",
+      "last": "Parnell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3531",
+      "first": "Cathy",
+      "last": "Lewis",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3760",
+      "first": "Wally",
+      "last": "Maher",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4410",
+      "first": "Norma Jean",
+      "last": "Nilsson",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "165",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1101",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "1971-12-01",
+      "source": "Misc/Double_R_Radio_Flyer_(05)_Dec71.pdf",
+      "idpytype2": "4",
+      "title": "Double R Radio Flyer (05) Dec 1971",
+      "author": ""
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "322623",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Easter Spectacular"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55709",
+      "date": "1945-01-28",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eddie Inherits a Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Bracken Show",
+          "name": "The Eddie Bracken Show 45-01-28 (01) Eddie Inherits a Baby.mp3",
+          "time": "1817",
+          "size": "7266458"
+        }
+      ]
+    },
+    {
+      "ide": "55710",
+      "date": "1945-02-04",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55711",
+      "date": "1945-02-11",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Whole Day With No Trouble"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Bracken Show",
+          "name": "The Eddie Bracken Show 45-02-11 (03) Whole Day With No Trouble.mp3",
+          "time": "1544",
+          "size": "7719467"
+        }
+      ]
+    },
+    {
+      "ide": "55712",
+      "date": "1945-02-18",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55713",
+      "date": "1945-02-25",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55714",
+      "date": "1945-03-04",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55715",
+      "date": "1945-03-11",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Connie's Shorty Costume"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Bracken Show",
+          "name": "The Eddie Bracken Show 45-03-11 (07) Connie's Shorty Costume.mp3",
+          "time": "1817",
+          "size": "7269177"
+        }
+      ]
+    },
+    {
+      "ide": "55716",
+      "date": "1945-03-18",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pretend Marriage and Baby Scales, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Bracken Show",
+          "name": "The Eddie Bracken Show 45-03-18 (08) The Pretend Marriage and Baby Scales.mp3",
+          "time": "1827",
+          "size": "7309732"
+        }
+      ]
+    },
+    {
+      "ide": "55717",
+      "date": "1945-03-25",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55718",
+      "date": "1945-04-01",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Switching Beauty Contestant Pictures"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Bracken Show",
+          "name": "The Eddie Bracken Show 45-04-01 (10) Switching Beauty Contestant Pictures.mp3",
+          "time": "1773",
+          "size": "7093648"
+        }
+      ]
+    },
+    {
+      "ide": "318047",
+      "date": "1945-04-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tacks"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Bracken Show",
+          "name": "Eddie Bracken Story 45-04-02 Tacks.mp3",
+          "time": "1682",
+          "size": "20184665"
+        }
+      ]
+    },
+    {
+      "ide": "55719",
+      "date": "1945-04-08",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55720",
+      "date": "1945-04-15",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55721",
+      "date": "1945-04-22",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55722",
+      "date": "1945-04-29",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55723",
+      "date": "1945-05-06",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To Borrow a Pig"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55724",
+      "date": "1945-05-13",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55725",
+      "date": "1945-05-20",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55726",
+      "date": "1945-05-27",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "55727",
+      "date": "1946-09-29",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Predicting a Horse Race"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55728",
+      "date": "1946-10-06",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Carries Firewood on the Bus"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55729",
+      "date": "1946-10-13",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Marriage by Proxy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55730",
+      "date": "1946-10-20",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Birthday Present for Mr Monahan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55731",
+      "date": "1946-10-27",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Meets Tea Time Amy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55732",
+      "date": "1946-11-03",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Magician for the Bazaar"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55733",
+      "date": "1946-11-10",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mistaken Engagement"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55734",
+      "date": "1946-11-17",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Home Building Scheme"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55735",
+      "date": "1946-11-24",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Stolen Turkey, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55736",
+      "date": "1946-12-01",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie's Dream"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55737",
+      "date": "1946-12-08",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Haunted House, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55738",
+      "date": "1946-12-15",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Buys a Tuba"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55739",
+      "date": "1946-12-22",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie's Christmas Tree"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55740",
+      "date": "1946-12-29",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Starts a Newspaper"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55741",
+      "date": "1947-01-05",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Fights Slugger Grimes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55742",
+      "date": "1947-01-12",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Impersonates a Senator"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55743",
+      "date": "1947-01-19",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Befriends a Hobo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55744",
+      "date": "1947-01-26",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mistaken Elopement"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55745",
+      "date": "1947-02-02",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie's Inheritance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55746",
+      "date": "1947-02-09",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Joins the Police Force"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55747",
+      "date": "1947-02-16",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Connie's Fur Coat"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55748",
+      "date": "1947-02-23",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Thinks He Has Six Months to Live"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55749",
+      "date": "1947-03-02",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Causes Fires"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55750",
+      "date": "1947-03-09",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eddie Wrecks Mr Monahan's Car"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55751",
+      "date": "1947-03-16",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Captures a Check Forger"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "55752",
+      "date": "1947-03-23",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eddie Buys a Stolen Race Horse"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-01-08",
+      "dow": "Su",
+      "time": "8:30 PM",
+      "end": "1945-05-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1946-09-29",
+      "dow": "Su",
+      "time": "9:30 PM",
+      "end": "1947-03-23",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Eddie Bracken Show, The"
+    }
+  ]
+}

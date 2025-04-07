@@ -1,0 +1,151 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Red Grange Football Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "21429",
+      "first": "Harold 'Red'",
+      "last": "Grange",
+      "f": "Noted Role",
+      "character": "Commentator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314724",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Stars of 1950"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Grange Football Show",
+          "name": "Red Grange Football Show 49xxxx 08 Great Stars of 1950_OTRRPG.mp3",
+          "time": "682",
+          "size": "10986061"
+        },
+        {
+          "path": "R",
+          "folder": "Red Grange Football Show",
+          "name": "Red Grange Football Show 50-11-xx (08) Great Stars Of 1950.mp3",
+          "time": "685",
+          "size": "5483832"
+        }
+      ]
+    },
+    {
+      "ide": "314725",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Outstanding Football Plays of The Season"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Grange Football Show",
+          "name": "Red Grange Football Show 4xxxxx 09 Outstanding Football Plays of The Season_OTRRPG.mp3",
+          "time": "645",
+          "size": "10398455"
+        },
+        {
+          "path": "R",
+          "folder": "Red Grange Football Show",
+          "name": "Red Grange Football Show 50-11-xx (09) Outstanding Football Plays Of The Season.mp3",
+          "time": "649",
+          "size": "5189380"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sports"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-09-21",
+      "dow": "Th,Sa",
+      "time": "6:00 PM",
+      "end": "1938-11-26",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1936-09-04",
+      "dow": "F,Sa",
+      "time": "",
+      "end": "1936-11-28",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1940-10-04",
+      "dow": "F",
+      "time": "7:15 PM",
+      "end": "1940-11-30",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sinclair Motor Oil",
+      "begin": "1936-09-04",
+      "end": "1936-11-28"
+    },
+    {
+      "sponsor": "Pure Oil Company",
+      "begin": "1938-09-21",
+      "end": "1938-11-26"
+    },
+    {
+      "sponsor": "National Refining Company",
+      "begin": "1940-10-04",
+      "end": "1940-11-30"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Red Grange Football Show"
+    }
+  ]
+}

@@ -1,0 +1,1395 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrrlibrary.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Aunt Jenny's Real Life Stories/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,806657,00.html",
+      "label": "1953-03-23: Clean Sweep",
+      "idtype": "11"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Aunt_Jenny%E2%80%99s_Real_Life_Stories",
+      "label": "Wikipedia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-23.html",
+      "label": "The Golden Age of Radio: Program 23 - February, 1972 - The Radio Shows of 1947",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-75.html",
+      "label": "The Golden Age of Radio: Program 75 - June, 1976 - Jim Maloney",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19371938day.html",
+      "label": "Daytime Ratings: (1937-1938: #17)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19381939day.html",
+      "label": "Daytime Ratings: (1938-1939: #16)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19391940day.html",
+      "label": "Daytime Ratings: (1939-1940: #20)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19401941day.html",
+      "label": "Daytime Ratings: (1940-1941: #18)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19421943day.html",
+      "label": "Daytime Ratings: (1942-1943: #2)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19431944day.html",
+      "label": "Daytime Ratings: (1943-1944: #13)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19441945day.html",
+      "label": "Daytime Ratings: (1944-1945: #11)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19451946day.html",
+      "label": "Daytime Ratings: (1945-1946: #19)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19461947day.html",
+      "label": "Daytime Ratings: (1946-1947: #9)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19471948day.html",
+      "label": "Daytime Ratings: (1947-1948: #13)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19481949day.html",
+      "label": "Daytime Ratings: (1948-1949: #11)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19491950day.html",
+      "label": "Daytime Ratings: (1949-1950: #4)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19501951day.html",
+      "label": "Daytime Ratings: (1950-1951: #6)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19511952day.html",
+      "label": "Daytime Ratings: (1951-1952: #4)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19521953day.html",
+      "label": "Daytime Ratings: (1952-1953: #3)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19531954day.html",
+      "label": "Daytime Ratings: (1953-1954: #5)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19541955day.html",
+      "label": "Daytime Ratings: (1954-1955: #7)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19551956day.html",
+      "label": "Daytime Ratings: (1955-1956: #7)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "xroads.virginia.edu/%7E1930s2/Radio/day/radio.html",
+      "label": "American Studies at the Univ. of Virginia : A Day in Radio (September 21, 1939)",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "(1) The program was produced by the Ruthrauff and Ryan advertising agency; - (2) the organist was Elsie Thompson - (3) sound effects were by Jim Dwan and Harold Forry. - (4) Also known as ' Aunt Jenny's Thrilling Real Life Stories' - (5) Other sponsors included Lux Soap"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "1422",
+      "first": "Toni",
+      "last": "Darnay",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1787",
+      "first": "Sidney",
+      "last": "Ellstrom",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2984",
+      "first": "Edwin 'Ed'",
+      "last": "Jerome",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3153",
+      "first": "Nancy",
+      "last": "Kelly",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3267",
+      "first": "Adelaide",
+      "last": "Klein",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3642",
+      "first": "John W.",
+      "last": "Loveton",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "4447",
+      "first": "Edmond 'Eddie'",
+      "last": "O'Brien",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5214",
+      "first": "Alfred",
+      "last": "Ryder",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5358",
+      "first": "Dan 'Danny'",
+      "last": "Seymour",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5416",
+      "first": "Helen",
+      "last": "Shields",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6513",
+      "first": "Ruth",
+      "last": "Yorke",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7388",
+      "first": "William 'Bill'",
+      "last": "Sweets",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "7388",
+      "first": "William 'Bill'",
+      "last": "Sweets",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7463",
+      "first": "Virginia",
+      "last": "Dwyer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7592",
+      "first": "Lawrence",
+      "last": "Klee",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7627",
+      "first": "Eleanor",
+      "last": "Abbey",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "10224",
+      "first": "Henry",
+      "last": "Boyd",
+      "f": "Noted Role",
+      "character": "Jenny's whistling canary"
+    },
+    {
+      "idperson": "10224",
+      "first": "Henry",
+      "last": "Boyd",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "11326",
+      "first": "Ralph",
+      "last": "Berkey",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "12277",
+      "first": "Doris",
+      "last": "Halman",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "22201",
+      "first": "Franc",
+      "last": "Hale",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "24738",
+      "first": "Ruth Adams",
+      "last": "Knight",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "24752",
+      "first": "Elsie",
+      "last": "Thompson",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "24752",
+      "first": "Elsie",
+      "last": "Thompson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "24784",
+      "first": "Jimmy",
+      "last": "Dwan",
+      "f": "Noted Role",
+      "character": "Sound effects"
+    },
+    {
+      "idperson": "24784",
+      "first": "Jimmy",
+      "last": "Dwan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "28928",
+      "first": "Edwin",
+      "last": "Halloran",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "29117",
+      "first": "Ed",
+      "last": "MacDonald",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "30731",
+      "first": "Douglas",
+      "last": "McLean",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "34723",
+      "first": "Ann",
+      "last": "Pitoniak",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "39595",
+      "first": "Vera",
+      "last": "Allen",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "39597",
+      "first": "Peggy",
+      "last": "Allenby",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45251",
+      "first": "Robert S.",
+      "last": "Steele",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "45654",
+      "first": "Elinor",
+      "last": "Lenz",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "45804",
+      "first": "Carl Alfred",
+      "last": "Buss",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "45838",
+      "first": "Alfred",
+      "last": "Corn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45894",
+      "first": "Harold",
+      "last": "Forry",
+      "f": "Noted Role",
+      "character": "Sound effects"
+    },
+    {
+      "idperson": "45894",
+      "first": "Harold",
+      "last": "Forry",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46052",
+      "first": "Elizabeth",
+      "last": "McLean",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "46167",
+      "first": "Bill",
+      "last": "Steel",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "46201",
+      "first": "Thomas F.",
+      "last": "Vietor, Jr.",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "46226",
+      "first": "Tony",
+      "last": "Wilson",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "45857",
+      "first": "David",
+      "last": "Davidson",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "46163",
+      "first": "Edith",
+      "last": "Spencer",
+      "f": "Noted Role",
+      "character": "Aunt Jenny"
+    },
+    {
+      "idperson": "20135",
+      "first": "Agnes",
+      "last": "Young",
+      "f": "Noted Role",
+      "character": "Aunt Jenny"
+    },
+    {
+      "idperson": "7472",
+      "first": "Maurice",
+      "last": "Franklin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "614",
+      "first": "Jim",
+      "last": "Boles",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1590",
+      "first": "Ted",
+      "last": "Donaldson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2032",
+      "first": "Anne",
+      "last": "Francis",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2295",
+      "first": "Richard",
+      "last": "Gordon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3628",
+      "first": "Athena",
+      "last": "Lorde",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "33949",
+      "first": "Phyllis",
+      "last": "Parker",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "39645",
+      "first": "Arthur",
+      "last": "Anderson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2788",
+      "first": "Skip",
+      "last": "Homeier",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3068",
+      "first": "Evelyn 'Evie'",
+      "last": "Juster",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3288",
+      "first": "Richard",
+      "last": "Kollmar",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3467",
+      "first": "Madaline",
+      "last": "Lee",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3502",
+      "first": "Sheldon",
+      "last": "Leonard",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3509",
+      "first": "Jerry",
+      "last": "Lesser",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4840",
+      "first": "Katherine",
+      "last": "Raht",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "25372",
+      "first": "Merrill",
+      "last": "Joels",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50309",
+      "first": "Bill",
+      "last": "Johnstone",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50338",
+      "first": "Peter",
+      "last": "Kappel",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3522",
+      "first": "Estelle",
+      "last": "Levy",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3568",
+      "first": "Margaret",
+      "last": "Lipper",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3641",
+      "first": "Frank",
+      "last": "Lovejoy",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3648",
+      "first": "Dorothy",
+      "last": "Lowell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3766",
+      "first": "Arthur",
+      "last": "Maitland",
+      "f": "Noted Role",
+      "character": "Doc Allen"
+    },
+    {
+      "idperson": "3805",
+      "first": "Charlotte",
+      "last": "Manson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3915",
+      "first": "Grace",
+      "last": "Matthews",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4131",
+      "first": "Mary",
+      "last": "Michael",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4392",
+      "first": "Theodore",
+      "last": "Newton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4717",
+      "first": "Madeleine",
+      "last": "Pierce",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4895",
+      "first": "Robert 'Bob'",
+      "last": "Readick",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5048",
+      "first": "Bartlett 'Bart'",
+      "last": "Robinson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5123",
+      "first": "Jack",
+      "last": "Roseleigh",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5207",
+      "first": "Dick",
+      "last": "Ryan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5210",
+      "first": "Patricia 'Pat'",
+      "last": "Ryan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5283",
+      "first": "Stefan",
+      "last": "Schnabel",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5496",
+      "first": "Everett",
+      "last": "Sloane",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5606",
+      "first": "Arnold",
+      "last": "Stang",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7154",
+      "first": "Elaine",
+      "last": "Rost",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "20153",
+      "first": "Don",
+      "last": "MacLaughlin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "34916",
+      "first": "William",
+      "last": "Post Jr.",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "49988",
+      "first": "Jack",
+      "last": "MacBryde",
+      "f": "Noted Role",
+      "character": "Fred, the mailman"
+    },
+    {
+      "idperson": "7669",
+      "first": "Ann",
+      "last": "Shepherd",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50660",
+      "first": "Michael 'Junior'",
+      "last": "O'Day",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7231",
+      "first": "Ronald",
+      "last": "Liss",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5663",
+      "first": "Margot",
+      "last": "Stevenson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5716",
+      "first": "Chester",
+      "last": "Stratton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5774",
+      "first": "Karl",
+      "last": "Swenson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5897",
+      "first": "Gladys",
+      "last": "Thornton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6044",
+      "first": "Grace",
+      "last": "Valentine",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6262",
+      "first": "Dwight",
+      "last": "Weist",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6294",
+      "first": "Ned",
+      "last": "Wever",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6333",
+      "first": "Richard",
+      "last": "Widmark",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6517",
+      "first": "Carleton G.",
+      "last": "Young",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6538",
+      "first": "Lawson",
+      "last": "Zerbe",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7269",
+      "first": "Renee",
+      "last": "Terry",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "17749",
+      "first": "James Van",
+      "last": "Dyk",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "40320",
+      "first": "Joan",
+      "last": "Vitez",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5773",
+      "first": "Alfred",
+      "last": "Swenson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50179",
+      "first": "Charles",
+      "last": "Webster",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50670",
+      "first": "Vickie",
+      "last": "Vola",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7684",
+      "first": "Betty Jane",
+      "last": "Tyler",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "738",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1996-10-01",
+      "source": "Illustrated Press/IP_241.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#241) - Oct 1996",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2292",
+      "idtype": "4",
+      "page": "46",
+      "article": "Investment in Happiness",
+      "url": "",
+      "date": "1950-02-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 5002.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 5002",
+      "author": ""
+    },
+    {
+      "idprint": "2300",
+      "idtype": "4",
+      "page": "60",
+      "article": "This Is My Life",
+      "url": "",
+      "date": "1950-10-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 5010.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 5010",
+      "author": ""
+    },
+    {
+      "idprint": "2332",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "1953-06-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 5306.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 5306",
+      "author": ""
+    },
+    {
+      "idprint": "4854",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "undefined",
+      "date": "1937-08-14",
+      "source": "Radio Guide/Radio Guide 370814.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 370814",
+      "author": ""
+    },
+    {
+      "idprint": "2062",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1938-12-31",
+      "source": "Radio Guide/Radio Guide 38-12-31.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 38-12-31",
+      "author": ""
+    },
+    {
+      "idprint": "2162",
+      "idtype": "4",
+      "page": "12",
+      "article": "Phantom Desire",
+      "url": "",
+      "date": "1939-07-01",
+      "source": "Radio Mirror/Radio Mirror 3907.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 3907",
+      "author": ""
+    },
+    {
+      "idprint": "2185",
+      "idtype": "4",
+      "page": "35",
+      "article": "",
+      "url": "",
+      "date": "1946-06-01",
+      "source": "Radio Mirror/Radio Mirror 4606.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4606",
+      "author": ""
+    },
+    {
+      "idprint": "2186",
+      "idtype": "4",
+      "page": "24",
+      "article": "Once We're Married???????Part Two of an Aunt Jenny Real Life Story",
+      "url": "",
+      "date": "1946-07-01",
+      "source": "Radio Mirror/Radio Mirror 4607.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4607",
+      "author": ""
+    },
+    {
+      "idprint": "2187",
+      "idtype": "4",
+      "page": "32",
+      "article": "",
+      "url": "",
+      "date": "1946-08-01",
+      "source": "Radio Mirror/Radio Mirror 4608.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4608",
+      "author": ""
+    },
+    {
+      "idprint": "2193",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "1947-03-01",
+      "source": "Radio Mirror/Radio Mirror 4703.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4703",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Believe Me, If All Those Endearing Young Charms'"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "24722",
+      "date": "1938-02-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Margo and Jack Run Away"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257155",
+      "date": "1938-11-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "24724",
+      "date": "1939-09-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Molly Can't Forget Bill"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Aunt Jenny's Real Life Stories",
+          "name": "Aunt Jenny's Real Life Stories 39-09-21 Molly Still Loves Bill Crawford.mp3",
+          "time": "906",
+          "size": "14498125"
+        }
+      ]
+    },
+    {
+      "ide": "24725",
+      "date": "1944-06-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim's Father is Dead"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Aunt Jenny's Real Life Stories",
+          "name": "Aunt Jenny's Real Life Stories 44-06-06 Dday Jim Abbott Returns To Littleton.mp3",
+          "time": "799",
+          "size": "12784640"
+        }
+      ]
+    },
+    {
+      "ide": "24726",
+      "date": "1944-06-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jim Gets Married"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24727",
+      "date": "1946-05-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eric Confronts Joad"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Aunt Jenny's Real Life Stories",
+          "name": "Aunt Jenny's Real Life Stories 46-05-06 Marriage Of Convenience.mp3",
+          "time": "909",
+          "size": "7278803"
+        }
+      ]
+    },
+    {
+      "ide": "24728",
+      "date": "1946-10-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lanny Sings"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24729",
+      "date": "1950-05-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Johnny Bought a New Car"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24730",
+      "date": "1950-05-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Elaine Is Secretive"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24731",
+      "date": "1950-05-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Elaine Is Seen at the Rooster's Nest"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24732",
+      "date": "1950-06-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dave is Protecting Someone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24733",
+      "date": "1950-09-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Did George Retire Too Early"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Romance"
+    },
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-01-18",
+      "dow": "M,Tu,W,Th,F",
+      "time": "1:45 PM",
+      "end": "1937-07-02",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1937-07-05",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:45 AM",
+      "end": "1946-06-21",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1956-01-02",
+      "dow": "M,Tu,W,Th,F",
+      "time": "2:45 PM",
+      "end": "1956-11-16",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-06-24",
+      "dow": "M,Tu,W,Th,F",
+      "time": "12:15 PM",
+      "end": "1955-07-01",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Aunt Jenny's Real-Life Stories"
+    }
+  ]
+}

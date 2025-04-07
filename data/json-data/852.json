@@ -1,0 +1,150 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.antiqueradio.org/index01.htm",
+      "label": "Radio Index Magazine (1932)",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3450",
+      "first": "Ann",
+      "last": "Leaf",
+      "f": "Noted Role",
+      "character": "Organist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "109",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1928-02-26",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "LISTENING--IN ON THE RADIO",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "In Time'"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1929-00-00",
+      "dow": "M,W,F",
+      "time": "",
+      "end": "1930-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1930-00-00",
+      "dow": "W",
+      "time": "",
+      "end": "1931-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1931-00-00",
+      "dow": "M,W,Th,F",
+      "time": "",
+      "end": "1932-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1933-00-00",
+      "dow": "M,Th",
+      "time": "2:00 PM",
+      "end": "1934-09-09",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1936-05-24",
+      "dow": "Su",
+      "time": "4:00 PM",
+      "end": "1936-08-30",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1937-05-08",
+      "dow": "Sa",
+      "time": "10:15 PM",
+      "end": "1938-02-05",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1937-07-28",
+      "dow": "W",
+      "time": "4:00 PM",
+      "end": "1937-09-15",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "National Heel Manufacturing Assocation",
+      "begin": "1929-00-00",
+      "end": "1930-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Ann Leaf At The Organ"
+    }
+  ]
+}

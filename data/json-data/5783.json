@@ -1,0 +1,232 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "LIAA"
+    }
+  ],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/L Series/Living In an Atomic Age/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Living-In-An-Atomic-Age.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logl1005.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "37188",
+      "first": "Bertrand",
+      "last": "Russell",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "93646",
+      "date": "1953-05-12",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Present Perplexities"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Living In an Atomic Age",
+          "name": "Living in an Atomic Age 53-05-12 (1) Present Perplexities.mp3",
+          "time": "856",
+          "size": "3424574"
+        }
+      ]
+    },
+    {
+      "ide": "93647",
+      "date": "1953-05-19",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Obsolete Ideas"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Living In an Atomic Age",
+          "name": "Living in an Atomic Age 53-05-19 (2) Obsolete Ideas.mp3",
+          "time": "879",
+          "size": "3516937"
+        }
+      ]
+    },
+    {
+      "ide": "93648",
+      "date": "1953-05-26",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Modern Mastery of Nature, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Living In an Atomic Age",
+          "name": "Living in an Atomic Age 53-05-26 (3) The Modern Mastery of Nature.mp3",
+          "time": "883",
+          "size": "3533460"
+        }
+      ]
+    },
+    {
+      "ide": "93649",
+      "date": "1953-06-02",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Limits of Human Power, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Living In an Atomic Age",
+          "name": "Living in an Atomic Age 53-06-02 (4) The Limits of Human Power.mp3",
+          "time": "888",
+          "size": "3550802"
+        }
+      ]
+    },
+    {
+      "ide": "93650",
+      "date": "1953-06-09",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Conflict and Unification"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Living In an Atomic Age",
+          "name": "Living in an Atomic Age 53-06-09 (5) Conflict and Unification.mp3",
+          "time": "875",
+          "size": "3499810"
+        }
+      ]
+    },
+    {
+      "ide": "93651",
+      "date": "1953-06-16",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Achievement of Harmony"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Living In an Atomic Age",
+          "name": "Living in an Atomic Age 53-06-16 (6) Achievement of Harmony.mp3",
+          "time": "880",
+          "size": "3520915"
+        }
+      ]
+    },
+    {
+      "ide": "93652",
+      "date": "1953-06-23",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reflections on Being 80"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Living In an Atomic Age",
+          "name": "Living in an Atomic Age 53-06-23 (7) Reflections on Being 80.mp3",
+          "time": "698",
+          "size": "2793040"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Living in An Atomic Age"
+    }
+  ]
+}

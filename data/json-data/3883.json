@@ -1,0 +1,708 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323041634-531e8384.jpg",
+      "label": "FRONT LINE THEATER",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/Front Line Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Usually rebroadcast as Screen Guild Theater which led to Globe Theater."
+    }
+  ],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "803",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1981-01-01",
+      "source": "Illustrated Press/IP_053.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#53) - Jan 1981",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "A Handful Of Stars"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "258900",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good Old Days, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258903",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missing Sparkler, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 43-xx-xx (x) The Missing Sparkler.mp3",
+          "time": "1772",
+          "size": "7090348"
+        }
+      ]
+    },
+    {
+      "ide": "258904",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Please Not C.O.D."
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 43-xx-xx (x) Please Not C O D.mp3",
+          "time": "1790",
+          "size": "10737932"
+        }
+      ]
+    },
+    {
+      "ide": "258905",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strange Case of Professor Wainger"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater xx-xx-xx (x) Strange Case of Professor Wainger.mp3",
+          "time": "1840",
+          "size": "7361675"
+        }
+      ]
+    },
+    {
+      "ide": "329819",
+      "date": "0000-00-00",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Man's Best Wife"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theatre 440319 #111 Magnificent Obsession {Martha Scott, Walter Pidgeon} (H-5-111) AFRS [Lots of noise].mp3",
+          "time": "1790",
+          "size": "28719313"
+        }
+      ]
+    },
+    {
+      "ide": "333883",
+      "date": "1943-01-01",
+      "epnum": "121 ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Miracle in the Rain - Helen Hayes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "333884",
+      "date": "1943-01-01",
+      "epnum": "23 ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Please Not COD - Blondie and Dagwood"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "333885",
+      "date": "1943-01-01",
+      "epnum": "28 ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nothing but the Truth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258909",
+      "date": "1943-04-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Woman of the Year"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 43-04-19 022 Woman of the Year.mp3",
+          "time": "1791",
+          "size": "28651606"
+        }
+      ]
+    },
+    {
+      "ide": "258901",
+      "date": "1943-05-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Johnny Eager"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 43-05-10 032 Johnny Eager.mp3",
+          "time": "1791",
+          "size": "28656622"
+        }
+      ]
+    },
+    {
+      "ide": "322871",
+      "date": "1943-08-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Niagra To Reno"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 1943.08.08 Niagra To Reno.mp3",
+          "time": "1802",
+          "size": "7314390"
+        }
+      ]
+    },
+    {
+      "ide": "258910",
+      "date": "1943-11-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You Belong To Me"
+        },
+        {
+          "title": "Vivacious Lady"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 43-11-08 071 You Belong to Me.mp3",
+          "time": "1786",
+          "size": "28580553"
+        }
+      ]
+    },
+    {
+      "ide": "258902",
+      "date": "1943-11-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lady Grows Up, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65020",
+      "date": "1943-11-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Theodora Goes Wild"
+        },
+        {
+          "title": "Love Affair"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 43-11-29 088 Theodora Goes Wild.mp3",
+          "time": "1791",
+          "size": "28658294"
+        }
+      ]
+    },
+    {
+      "ide": "65021",
+      "date": "1943-12-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Only Yesterday"
+        },
+        {
+          "title": "Magnificent Obsession"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 43-12-06 (x) Only Yesterday.mp3",
+          "time": "1840",
+          "size": "7362378"
+        }
+      ]
+    },
+    {
+      "ide": "65022",
+      "date": "1943-12-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Maltese Falcon"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 431217 Maltese Falcon_OTRRPG.mp3",
+          "time": "1700",
+          "size": "27285940"
+        },
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 43-12-17 (x) Maltese Falcon.mp3",
+          "time": "1816",
+          "size": "14531034"
+        }
+      ]
+    },
+    {
+      "ide": "333886",
+      "date": "1944-01-01",
+      "epnum": "117 ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mayerling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "333887",
+      "date": "1944-01-01",
+      "epnum": "119 ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Suez Road"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "333888",
+      "date": "1944-01-01",
+      "epnum": "122 ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Women I Killed"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "333889",
+      "date": "1944-01-01",
+      "epnum": "136 ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arrowsmith"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258907",
+      "date": "1944-01-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "True To Life"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 44-01-12 xxx True to Life.mp3",
+          "time": "1769",
+          "size": "28313059"
+        }
+      ]
+    },
+    {
+      "ide": "258906",
+      "date": "1944-02-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three Men on a Horse (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater xx-xx-xx (x) Three Men on a Horse.mp3",
+          "time": "1770",
+          "size": "12388368"
+        }
+      ]
+    },
+    {
+      "ide": "258899",
+      "date": "1944-03-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gay Divorcee, The"
+        },
+        {
+          "title": "A Lady Grows Up"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 440306 A Lady Grows Up_OTRRPG.mp3",
+          "time": "1805",
+          "size": "28954120"
+        },
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 44-03-06 (x) A Lady Grows Up.mp3",
+          "time": "1826",
+          "size": "14606290"
+        },
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 44-03-06 109 The Gay Divorcee.mp3",
+          "time": "1771",
+          "size": "28332703"
+        }
+      ]
+    },
+    {
+      "ide": "258908",
+      "date": "1944-03-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tuttles of Tahiti, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 44-03-13 112 The Tuttles of Tahiti.mp3",
+          "time": "1778",
+          "size": "28454329"
+        }
+      ]
+    },
+    {
+      "ide": "329820",
+      "date": "1944-03-19",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vivacious Lady (Ginger Rogers, Walter Pidgeon)"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fred Waring And His Pennsylvanians",
+          "name": "Fred Waring AHO 4xxxxx xxxx 1st; 'Kings Of The Highway' (War Dept SSD 41).flac",
+          "time": "878",
+          "size": "30091696"
+        }
+      ]
+    },
+    {
+      "ide": "329821",
+      "date": "1944-03-19",
+      "epnum": "111",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Magnificent Obsession {Martha Scott, Walter Pidgeon}"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theatre 440319 #106 Vivacious Lady (Ginger Rogers, Walter Pidgeon) AFRS (H-5-106).mp3",
+          "time": "1800",
+          "size": "28879809"
+        }
+      ]
+    },
+    {
+      "ide": "333890",
+      "date": "1944-03-20",
+      "epnum": "115 ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Constant Nymph"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65026",
+      "date": "1944-03-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ham for Sale"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 44-03-27 (x) Ham for Sale.mp3",
+          "time": "1530",
+          "size": "6121999"
+        }
+      ]
+    },
+    {
+      "ide": "322872",
+      "date": "1944-05-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lucky Partners"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 1944.05.02 Lucky Partners.mp3",
+          "time": "1710",
+          "size": "6949303"
+        }
+      ]
+    },
+    {
+      "ide": "65027",
+      "date": "1944-05-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Up In Mabel's Room"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 44-05-22 128 Up in Mabel's Room.mp3",
+          "time": "1789",
+          "size": "28631544"
+        }
+      ]
+    },
+    {
+      "ide": "328645",
+      "date": "1944-05-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0184 Front Line Theater - The Sun Field"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "AFRS Collection 1944.05.28 0184 Front Line Theater - The Sun Field.mp3",
+          "time": "1784",
+          "size": "7243776"
+        }
+      ]
+    },
+    {
+      "ide": "258898",
+      "date": "1944-06-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Amazing Dr Clitterhouse, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 44-06-05 130 The Amazing Dr Clitterhouse.mp3",
+          "time": "1790",
+          "size": "28637814"
+        }
+      ]
+    },
+    {
+      "ide": "333891",
+      "date": "1944-07-21",
+      "epnum": "99 ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Honeymoon Deferred"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "318404",
+      "date": "1944-09-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Too Many Husbands"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front Line Theater",
+          "name": "Front Line Theater 44-09-04 152 Too Many Husbands.mp3",
+          "time": "1795",
+          "size": "28723077"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Front Line Theater"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5647",
+      "first": "Bill",
+      "last": "Stern",
+      "f": "Noted Role",
+      "character": "Sportscaster - 1938"
+    },
+    {
+      "idperson": "11374",
+      "first": "Red",
+      "last": "Barber",
+      "f": "Noted Role",
+      "character": "Sportscaster - 1939"
+    },
+    {
+      "idperson": "46593",
+      "first": "Al",
+      "last": "Helfler",
+      "f": "Noted Role",
+      "character": "Sportscaster - 1939"
+    },
+    {
+      "idperson": "51208",
+      "first": "George",
+      "last": "Trevor",
+      "f": "Noted Role",
+      "character": "Sports Writer- 1938"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "247263",
+      "date": "1939-09-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "We Want A Touchdown - Colgate VS NYU"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "We Want A Touchdown",
+          "name": "We Want A Touchdown 1939.09.28 Colgate Vs Nyu.mp3",
+          "time": "1729",
+          "size": "7025911"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sports"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-09-28",
+      "dow": "Th",
+      "time": "10:30 PM",
+      "end": "1939-11-02",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "We Want A Touchdown"
+    }
+  ]
+}

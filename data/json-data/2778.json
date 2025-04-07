@@ -1,0 +1,450 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322180225-fd24ac61.jpg",
+      "label": "Dark Destiny",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Dark-Destiny.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.threeinvestigatorsbooks.com/MysteriousTravelerRadio.html",
+      "label": "The Radio Programs of Robert Arthur and David Kogan",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logd1027.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "8644",
+      "first": "Robert",
+      "last": "Arthur",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "8644",
+      "first": "Robert",
+      "last": "Arthur",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "8644",
+      "first": "Robert",
+      "last": "Arthur",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "26804",
+      "first": "David",
+      "last": "Kogan",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "26804",
+      "first": "David",
+      "last": "Kogan",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "26804",
+      "first": "David",
+      "last": "Kogan",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "51531",
+      "date": "1942-08-26",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "It Is Later Then You Think"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51532",
+      "date": "1942-09-02",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curse of the Tomb, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51533",
+      "date": "1942-09-23",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Who Couldn't Die, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51534",
+      "date": "1942-09-30",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Escape into the Night"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51535",
+      "date": "1942-10-07",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Knives of Death, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51536",
+      "date": "1942-10-17",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murderer at Large"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51537",
+      "date": "1942-10-24",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Bell of Life, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51538",
+      "date": "1942-10-31",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Masquerade"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dark Destiny",
+          "name": "Dark Destiny 1942.10.31 Masquerade.mp3",
+          "time": "1690",
+          "size": "6866951"
+        }
+      ]
+    },
+    {
+      "ide": "51539",
+      "date": "1942-11-07",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Till Death Do Us Part"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51540",
+      "date": "1942-11-14",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dynasty of Death, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51541",
+      "date": "1942-11-21",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Escape"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51542",
+      "date": "1942-11-26",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Full Fathom Fifty"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51543",
+      "date": "1942-12-03",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Extra! Extra!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51544",
+      "date": "1942-12-10",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mortal Clay"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51545",
+      "date": "1942-12-17",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "They Who Sleep"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51546",
+      "date": "1942-12-24",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No One on the Line"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51547",
+      "date": "1942-12-31",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "It Is Later Then You Think"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51548",
+      "date": "1943-01-07",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Goes Free"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51549",
+      "date": "1943-01-14",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Whisper of Death, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51550",
+      "date": "1943-01-21",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "House of Cain, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51551",
+      "date": "1943-01-28",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "If You Believe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51552",
+      "date": "1943-02-04",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Horror by Night"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51553",
+      "date": "1943-02-11",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Five Miles Down"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51554",
+      "date": "1943-02-18",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death Won't Wait"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51555",
+      "date": "1943-02-25",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cat from Hell, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51556",
+      "date": "1943-03-04",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Flight to Safety"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51557",
+      "date": "1943-03-11",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Hand with Claws, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Horror"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Dark Destiny"
+    }
+  ]
+}

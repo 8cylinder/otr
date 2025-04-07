@@ -1,0 +1,102 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [
+    {
+      "info": "1929-31: Old Company Songalogue - 1931-32: American Singer"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "49732",
+      "first": "The",
+      "last": "American Singers",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "50154",
+      "first": "William",
+      "last": "Wirges",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6280",
+      "first": "Reinald",
+      "last": "Werrenrath",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1931-09-13",
+      "dow": "Su",
+      "time": "1:45 PM",
+      "end": "1932-03-06",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1928-00-00",
+      "dow": "Su",
+      "time": "7:00 AM",
+      "end": "1932-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Lehigh Navigation Coal Company",
+      "begin": "1931-09-13",
+      "end": "1932-03-06"
+    },
+    {
+      "sponsor": "Old Company Coal",
+      "begin": "1928-00-00",
+      "end": "1932-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Old Company's Program, The"
+    },
+    {
+      "title": "Old Company Program"
+    },
+    {
+      "title": "American Singer"
+    }
+  ]
+}

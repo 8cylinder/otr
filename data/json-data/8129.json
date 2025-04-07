@@ -1,0 +1,431 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Showtime From Hollywood/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3860",
+      "first": "Freddy",
+      "last": "Martin",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "616",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "1992-04-01",
+      "source": "Illustrated Press/IP_187.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #187 Apr 92",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "106",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "147",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "156",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Piano Concerto #1 of Tchaikowsky"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "153348",
+      "date": "0000-00-00",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - My Merry Oldsmobile"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 153 {AFRS} - 1st Song - My Merry Oldsmobile_OTRRPG.mp3",
+          "time": "664",
+          "size": "10708142"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (153) First Song - My Merry Oldsmobile.mp3",
+          "time": "667",
+          "size": "10664596"
+        }
+      ]
+    },
+    {
+      "ide": "264258",
+      "date": "0000-00-00",
+      "epnum": "154",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - When the Music Stops, Everyone Kiss Your Sweethea"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 154 {AFRS} 1st Song - When The Music Stops, Everyone Kiss Your Sweetheart_OTRRPG.mp3",
+          "time": "658",
+          "size": "10600756"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (154) First Song - When the Music Stops, Everyone Kiss Your Sweethea.mp3",
+          "time": "660",
+          "size": "10557200"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (154) First Song - When the Music Stops, Everyone Kiss Your Sweetheart.mp3",
+          "time": "660",
+          "size": "10557210"
+        }
+      ]
+    },
+    {
+      "ide": "264257",
+      "date": "0000-00-00",
+      "epnum": "155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Girl That I Marry"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 155 {AFRS} 1st Song - The Girl That I Marry_OTRRPG.mp3",
+          "time": "674",
+          "size": "10867384"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (155) First Song - The Girl That I Marry.mp3",
+          "time": "676",
+          "size": "10823840"
+        }
+      ]
+    },
+    {
+      "ide": "264254",
+      "date": "0000-00-00",
+      "epnum": "159",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Linda"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 159 {AFRS} 1st Song - Linda_OTRRPG.mp3",
+          "time": "682",
+          "size": "10986904"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (159) First Song - Linda.mp3",
+          "time": "684",
+          "size": "10943360"
+        }
+      ]
+    },
+    {
+      "ide": "264259",
+      "date": "0000-00-00",
+      "epnum": "160",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - With a Hey and a High and a Ho, Ho, Ho"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 160 {AFRS} 1st Song - With A Hey And A High And A Ho, Ho, Ho_OTRRPG.mp3",
+          "time": "678",
+          "size": "10921736"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (160) First Song - With a Hey and a High and a Ho, Ho, Ho.mp3",
+          "time": "680",
+          "size": "10878182"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (160) First Song - With a Hey and a High and a Ho, Ho.mp3",
+          "time": "680",
+          "size": "10878192"
+        }
+      ]
+    },
+    {
+      "ide": "264262",
+      "date": "0000-00-00",
+      "epnum": "167",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Zing! Went the Strings of My Heart"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 167 {AFRS} 1st Song - Zing! Went The Strings of My Heart_OTRRPG.mp3",
+          "time": "665",
+          "size": "10721947"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (167) First Song - Zing! Went the Strings of My Heart.mp3",
+          "time": "667",
+          "size": "10678403"
+        }
+      ]
+    },
+    {
+      "ide": "314947",
+      "date": "0000-00-00",
+      "epnum": "168",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 168 {AFRS} missing first half_OTRRPG.mp3",
+          "time": "367",
+          "size": "5883352"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 168 (AFRS) (missing first half).mp3",
+          "time": "367",
+          "size": "5872744"
+        }
+      ]
+    },
+    {
+      "ide": "264253",
+      "date": "0000-00-00",
+      "epnum": "169",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - June Is Busting out All Over"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 169 {AFRS} 1st Song - June is Busting Out All Over_OTRRPG.mp3",
+          "time": "672",
+          "size": "10758010"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 169A {AFRS} 1st Song - You Can't See The Sun When You're Crying_OTRRPG.mp3",
+          "time": "668",
+          "size": "10775035"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (169) First Song - June Is Busting out All Over.mp3",
+          "time": "672",
+          "size": "10747778"
+        }
+      ]
+    },
+    {
+      "ide": "264261",
+      "date": "0000-00-00",
+      "epnum": "170",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You're the Cause of It All"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 170 {AFRS} 1st Song - Your The Cause of It All_OTRRPG.mp3",
+          "time": "660",
+          "size": "10640853"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (170) First Song - You're the Cause of It All.mp3",
+          "time": "662",
+          "size": "10597311"
+        }
+      ]
+    },
+    {
+      "ide": "264260",
+      "date": "0000-00-00",
+      "epnum": "171",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You Can't See the Sun When You're Crying"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "264256",
+      "date": "0000-00-00",
+      "epnum": "173",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Mr Night Owl"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 173 {AFRS} - 1st Song - Mr. Night Owl_OTRRPG.mp3",
+          "time": "1183",
+          "size": "18933292"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (173) First Song - Mr Night Owl.mp3",
+          "time": "1183",
+          "size": "18923044"
+        }
+      ]
+    },
+    {
+      "ide": "264255",
+      "date": "0000-00-00",
+      "epnum": "174",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Moonface, Starry Eyes"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood 174 {AFRS} 1st Song - Moonface, Starry Eyes_OTRRPG.mp3",
+          "time": "651",
+          "size": "10498326"
+        },
+        {
+          "path": "S",
+          "folder": "Showtime From Hollywood",
+          "name": "Showtime From Hollywood xx-xx-xx (174) First Song - Moonface, Starry Eyes.mp3",
+          "time": "653",
+          "size": "10454782"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Showtime from Hollywood"
+    }
+  ]
+}

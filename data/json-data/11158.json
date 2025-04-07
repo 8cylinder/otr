@@ -1,0 +1,96 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3860",
+      "first": "Freddy",
+      "last": "Martin",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314715",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st; South Wind [Sammy Kaye Orchestra, Alan Foster, voc.]"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "NBC Thesaurus",
+          "name": "Thesaurus 1053 1st; South Wind [Sammy Kaye Orchestra, Alan Foster, voc.] (256-44).mp3",
+          "time": "831",
+          "size": "27805845"
+        },
+        {
+          "path": "N",
+          "folder": "NBC Thesaurus",
+          "name": "Thesaurus 1053 1st; South Wind [Sammy Kaye Orchestra, Alan Foster, voc.] - Cleaned ET.flac",
+          "time": "831",
+          "size": "37907838"
+        }
+      ]
+    },
+    {
+      "ide": "314716",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st; When I'd Yoo Hoo in the Valley [The Jesters]"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "NBC Thesaurus",
+          "name": "Thesaurus 1053 1st; When I'd Yoo Hoo in the Valley [The Jesters] (256-44).mp3",
+          "time": "741",
+          "size": "24587561"
+        },
+        {
+          "path": "N",
+          "folder": "NBC Thesaurus",
+          "name": "Thesaurus 1053 1st; When I'd Yoo Hoo in the Valley [The Jesters] - Cleaned ET.flac",
+          "time": "740",
+          "size": "33283320"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "RCA Thesaurus Library"
+    }
+  ]
+}

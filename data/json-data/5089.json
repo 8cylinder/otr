@@ -1,0 +1,126 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4788",
+      "first": "J. B.",
+      "last": "Priestley",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311091",
+      "date": "1942-06-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Britain Speaks 42-06-11"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Britain Speaks 42-06-11.mp3",
+          "time": "623",
+          "size": "4984162"
+        }
+      ]
+    },
+    {
+      "ide": "313828",
+      "date": "1942-06-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "British War Production Is Level With German Production"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Britain Speaks",
+          "name": "Britain Speaks 420611 xxx British War Production Is Level With German Production_OTRRPG.mp3",
+          "time": "621",
+          "size": "10012041"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-00-00",
+      "dow": "Tu",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "United Kingdom",
+      "network": "BBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "J. B. Priestley"
+    },
+    {
+      "title": "Britain Speaks"
+    },
+    {
+      "title": "Britain Speaks"
+    }
+  ]
+}

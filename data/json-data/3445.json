@@ -1,0 +1,821 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrrlibrary.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/E Series/Everyman's Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,765318,00.html",
+      "label": "1941-03-17: Wunderkind Out",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,772494,00.html",
+      "label": "1940-12-02: Busy Wunderkind",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,849566,00.html",
+      "label": "1941-10-27: Best Plays",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "joancrawfordma.tripod.com/radiodays.html",
+      "label": "Joan Crawford - On the Radio",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Everymans-Theater.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Everymans-Theater.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.joancrawfordbest.com/audio.htm",
+      "label": "The Best of Everything: A Joan Crawford Encyclopedia - Radio Appearances",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.karloff.com/radio.html",
+      "label": "Radio Programs Featuring Boris Karloff",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loge1003.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3445-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Some of the episodes of Everyman's Theater were copied from the series Lights Out and Arch Oboler's Plays. (Dunning, J., 2008)"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "306",
+      "first": "Jim",
+      "last": "Bannon",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "1310",
+      "first": "Joan",
+      "last": "Crawford",
+      "f": "Noted Role",
+      "character": "Guest star"
+    },
+    {
+      "idperson": "1443",
+      "first": "Bette",
+      "last": "Davis",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1554",
+      "first": "Marlene",
+      "last": "Dietrich",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2671",
+      "first": "Katharine",
+      "last": "Hepburn",
+      "f": "Noted Role",
+      "character": "Guest star"
+    },
+    {
+      "idperson": "2891",
+      "first": "Walter",
+      "last": "Huston",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2977",
+      "first": "Gordon",
+      "last": "Jenkins",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3013",
+      "first": "Raymond Edward",
+      "last": "Johnson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3096",
+      "first": "Boris",
+      "last": "Karloff",
+      "f": "Noted Role",
+      "character": "Guest star"
+    },
+    {
+      "idperson": "3274",
+      "first": "Eric",
+      "last": "Knight",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3417",
+      "first": "Charles",
+      "last": "Laughton",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3730",
+      "first": "Gilbert 'Gil'",
+      "last": "Mack",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3895",
+      "first": "Raymond",
+      "last": "Massey",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4346",
+      "first": "Alla",
+      "last": "Nazimova",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4435",
+      "first": "Jay",
+      "last": "Novello",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4483",
+      "first": "Arch",
+      "last": "Oboler",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "4483",
+      "first": "Arch",
+      "last": "Oboler",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "4483",
+      "first": "Arch",
+      "last": "Oboler",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "5170",
+      "first": "Benny",
+      "last": "Rubin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5384",
+      "first": "Norma",
+      "last": "Shearer",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5844",
+      "first": "Irene",
+      "last": "Tedrow",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5940",
+      "first": "Franchot",
+      "last": "Tone",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6068",
+      "first": "Luis",
+      "last": "Van Rooten",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7669",
+      "first": "Ann",
+      "last": "Shepherd",
+      "f": "Noted Role",
+      "character": "Scheindel Kalish"
+    },
+    {
+      "idperson": "12297",
+      "first": "Bill",
+      "last": "Lipton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "12368",
+      "first": "Betty",
+      "last": "Caine",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "39562",
+      "first": "Ben",
+      "last": "Alexander",
+      "f": "Noted Role",
+      "character": "Narrator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "760",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1998-06-01",
+      "source": "Illustrated Press/IP_261.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#261) - Jun 1998",
+      "author": ""
+    },
+    {
+      "idprint": "889",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "2000-06-01",
+      "source": "Illustrated Press/IP_281.pdf",
+      "idpytype2": "4",
+      "title": "IP 00 06 281",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Everyman's Theater was a mix of Arch Oboler dramas, originals and adaptations. It displayed the same Oboler techniques (offbeat plotting, realistic sound effects, and stream-of-consciousness narration) that had captured national attention in Lights Out and Arch Oboler's Plays. - On the Air: The Encyclopedia of Old-Time Radio by John Dunning"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Death And Transfiguration"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "56672",
+      "date": "1940-10-04",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lonely Heart, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everyman's Theater",
+          "name": "Everyman's Theatre 40-10-04 (01) The Lonely Heart.mp3",
+          "time": "1751",
+          "size": "7005012"
+        }
+      ]
+    },
+    {
+      "ide": "56673",
+      "date": "1940-10-11",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This Precious Freedom"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everyman's Theater",
+          "name": "Everyman's Theater 40-10-11 (02) This Precious Freedom .Mp3",
+          "time": "1640",
+          "size": "13124462"
+        },
+        {
+          "path": "E",
+          "folder": "Everyman's Theater",
+          "name": "Everyman's Theatre 40-10-11 This Precious Freedom.mp3",
+          "time": "1640",
+          "size": "6563850"
+        }
+      ]
+    },
+    {
+      "ide": "56674",
+      "date": "1940-10-18",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cat Wife"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everyman's Theater",
+          "name": "Everyman's Theatre 401018 03 Cat Wife_OTRRPG.mp3",
+          "time": "1788",
+          "size": "28690652"
+        },
+        {
+          "path": "E",
+          "folder": "Everyman's Theater",
+          "name": "Everyman's Theatre 40-10-18 (03) Cat Wife.Mp3",
+          "time": "1791",
+          "size": "14324619"
+        }
+      ]
+    },
+    {
+      "ide": "56675",
+      "date": "1940-10-25",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "And Adam Begot"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56676",
+      "date": "1940-11-01",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Word, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56677",
+      "date": "1940-11-08",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I'll Tell My Husband"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56678",
+      "date": "1940-11-15",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flying Yorkshireman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56679",
+      "date": "1940-11-22",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Word - Two - Eve, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56680",
+      "date": "1940-11-29",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "American Is Born, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56681",
+      "date": "1940-12-06",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Visitor from Hades"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56682",
+      "date": "1940-12-13",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mr Whiskers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56683",
+      "date": "1940-12-20",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women Stayed at Home, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everyman's Theater",
+          "name": "Everyman's Theatre 40-12-20 (12) The Women Stayed at Home.Mp3",
+          "time": "1487",
+          "size": "11897338"
+        }
+      ]
+    },
+    {
+      "ide": "56684",
+      "date": "1940-12-27",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "These Are Your Brothers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56685",
+      "date": "1941-01-03",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Suffer the Little Children"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56686",
+      "date": "1941-01-10",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Flight from Destiny"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56687",
+      "date": "1941-01-17",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "You and I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56688",
+      "date": "1941-01-24",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Of Human Bondage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56689",
+      "date": "1941-01-31",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Madame Affamee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56690",
+      "date": "1941-02-07",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Special to Hollywood"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everyman's Theater",
+          "name": "Everyman's Theatre 41-02-05 Special to Hollywood.mp3",
+          "time": "1487",
+          "size": "5947962"
+        },
+        {
+          "path": "E",
+          "folder": "Everyman's Theater",
+          "name": "Everyman's Theater 41-02-07 Special to Hollywood.mp3",
+          "time": "1487",
+          "size": "5947962"
+        }
+      ]
+    },
+    {
+      "ide": "56691",
+      "date": "1941-02-14",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Immortal Gentleman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56692",
+      "date": "1941-02-21",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Ginsburg"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56693",
+      "date": "1941-02-28",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Family, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56694",
+      "date": "1941-03-07",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Problem Papa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56695",
+      "date": "1941-03-14",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ugliest Man in the World, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56696",
+      "date": "1941-03-21",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Listener, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56697",
+      "date": "1941-03-28",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Everyman's Theater",
+          "name": "Everyman's Theatre 41-03-28 (26) Baby.mp3",
+          "time": "1493",
+          "size": "11948042"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-10-04",
+      "dow": "F",
+      "time": "9:30 PM",
+      "end": "1941-03-28",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Everyman's Theatre"
+    }
+  ]
+}

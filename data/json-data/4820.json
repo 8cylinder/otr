@@ -1,0 +1,181 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "HOST"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logh1013.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "1101",
+      "idtype": "4",
+      "page": "19",
+      "article": "",
+      "url": "",
+      "date": "1971-12-01",
+      "source": "Misc/Double_R_Radio_Flyer_(05)_Dec71.pdf",
+      "idpytype2": "4",
+      "title": "Double R Radio Flyer (05) Dec 1971",
+      "author": ""
+    },
+    {
+      "idprint": "2206",
+      "idtype": "4",
+      "page": "30",
+      "article": "",
+      "url": "",
+      "date": "1976-01-01",
+      "source": "Radio Nostalgia/Radio_Nostalgia_(04).pdf",
+      "idpytype2": "4",
+      "title": "Radio Nostalgia (04)",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "258850",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beginning, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Host Planet Earth",
+          "name": "Host Planet Earth 1967.07.30 Part 1 The Beginning.mp3",
+          "time": "1790",
+          "size": "7269074"
+        }
+      ]
+    },
+    {
+      "ide": "78346",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Empty Minds, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Host Planet Earth",
+          "name": "Host Planet Earth 1967.08.06 Part 2 The Empty Minds.mp3",
+          "time": "1756",
+          "size": "7130003"
+        }
+      ]
+    },
+    {
+      "ide": "78345",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pattern Emerges, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Host Planet Earth",
+          "name": "Host Planet Earth 1967.08.13 Part 3 The Pattern Emerges.mp3",
+          "time": "1801",
+          "size": "7310987"
+        }
+      ]
+    },
+    {
+      "ide": "78344",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gemini Factor, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Host Planet Earth",
+          "name": "Host Planet Earth 1967.08.20 Part 4 The Gemini Factor.mp3",
+          "time": "1734",
+          "size": "7042026"
+        }
+      ]
+    },
+    {
+      "ide": "78343",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arrival, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Host Planet Earth",
+          "name": "Host Planet Earth 1967.08.27 Part 5 The Arrival.mp3",
+          "time": "1807",
+          "size": "7334168"
+        }
+      ]
+    },
+    {
+      "ide": "78342",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Price of Freedom, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Host Planet Earth",
+          "name": "Host Planet Earth 1967.09.03 Part 6 The Price Of Freedom.mp3",
+          "time": "1712",
+          "size": "6954156"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Host Planet Earth"
+    }
+  ]
+}

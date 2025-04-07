@@ -1,0 +1,216 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/Numbered Series/One%20Thousand%20One%20Wives/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3959",
+      "first": "Mercedes",
+      "last": "McCambridge",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6409",
+      "first": "Betty",
+      "last": "Winkler",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7433",
+      "first": "Al",
+      "last": "Barker",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7630",
+      "first": "Sandra",
+      "last": "Michael",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "23748",
+      "first": "William",
+      "last": "Hodapp",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "26985",
+      "first": "Fayette",
+      "last": "Krum",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "34046",
+      "first": "Frankie",
+      "last": "Patchelli",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4312",
+      "first": "Pat",
+      "last": "Murphy",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "163564",
+      "date": "1939-05-15",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Figure to Conjure with in European Journalism, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "163565",
+      "date": "1939-06-16",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "10 -45 P M the First Program of the Series"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "163567",
+      "date": "1939-07-06",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rip Van Winkle - Pt 1of5 (Mon thru Fri afternoon broadcasts on Mutual network)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "163566",
+      "date": "1939-07-20",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Monsieur Beaucaire"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "163563",
+      "date": "1939-09-07",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nazis Hope to Keep the World in a State of Jitters Intrigue in Bulgaria and the Balkans , The"
+        }
+      ],
+      "files": [
+        {
+          "path": "num",
+          "folder": "One Thousand One Wives",
+          "name": "1001 Wives 39-09-07 Lori O'Donnell.mp3",
+          "time": "1650",
+          "size": "8249569"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-05-05",
+      "dow": "F",
+      "time": "10:00 PM",
+      "end": "1939-07-07",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1939-07-13",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1939-09-14",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1950-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1950-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "1001 Wives"
+    },
+    {
+      "title": "Thousand and One Wives, A"
+    }
+  ]
+}

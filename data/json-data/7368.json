@@ -1,0 +1,908 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "article",
+      "url": "www.otrr.org/FILES/Articles/Jack_French_Articles/Lady_Detectives.htm",
+      "label": "Lady Detectives by Jack French",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/articles/artjf009.html",
+      "label": "Lady Crimefighters by Jack French",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1309",
+      "first": "Jesse",
+      "last": "Crawford",
+      "f": "Noted Role",
+      "character": "Music"
+    },
+    {
+      "idperson": "1693",
+      "first": "Dick",
+      "last": "Dunham",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2136",
+      "first": "Betty",
+      "last": "Garde",
+      "f": "Noted Role",
+      "character": "Mary Sullivan"
+    },
+    {
+      "idperson": "2678",
+      "first": "Walter",
+      "last": "Herlihy",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "43679",
+      "first": "Mary",
+      "last": "Sullivan",
+      "f": "Noted Role",
+      "character": "Herself"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "763",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1998-11-01",
+      "source": "Illustrated Press/IP_264.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#264) - Nov 1998",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "248003",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Cat-Thief"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118589",
+      "date": "1946-05-06",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TCOT Bite on the Arm --- [10:45am, Mondays on ABC, 15 minutes] (available per Goldin & Jay Hickerson)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118590",
+      "date": "1946-05-13",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCO A Woman's Mind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118591",
+      "date": "1946-05-20",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Gigolo and Jewels"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118592",
+      "date": "1946-05-27",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Careful Murderers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118593",
+      "date": "1946-06-03",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Bitter Medicine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118594",
+      "date": "1946-06-10",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Badger Game"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118595",
+      "date": "1946-06-17",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Excellent Marksman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118596",
+      "date": "1946-07-07",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Woman's Earring --- [Show moves to Sunday nights @ 9:45pm on ABC]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118597",
+      "date": "1946-07-14",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Spanish Sweethearts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118598",
+      "date": "1946-07-21",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Scheming Wife (OR) TCOT Doubtful Wife"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118599",
+      "date": "1946-07-28",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Unexpected Husband"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118600",
+      "date": "1946-08-04",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCO Death on a Lonely Road"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118601",
+      "date": "1946-08-11",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Meek-Mannered Orderly"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118602",
+      "date": "1946-08-18",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCO Murder by Accident"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118603",
+      "date": "1946-08-25",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Hallway Murder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118604",
+      "date": "1946-09-01",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Running Bowline (or) TCOT Jittery Socialite"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118605",
+      "date": "1946-09-08",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Tell-Tale Switch"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118606",
+      "date": "1946-09-15",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Lonely Artist"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118607",
+      "date": "1946-09-22",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Red Hands"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118608",
+      "date": "1946-09-29",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Hungry Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118609",
+      "date": "1946-10-06",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Lonely Women (or) TCOT Scheming Gigalo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118610",
+      "date": "1946-10-13",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Burned Books"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118611",
+      "date": "1946-10-20",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Unloved Son"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118612",
+      "date": "1946-10-27",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Missing Heiress"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118613",
+      "date": "1946-11-03",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Scheming Showgirl"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118614",
+      "date": "1946-11-10",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Broken Bottle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118615",
+      "date": "1946-11-17",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Crystal Ball"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118616",
+      "date": "1946-11-24",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Left-Handed Clue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118617",
+      "date": "1946-12-01",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Faithless Wife"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118618",
+      "date": "1946-12-08",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-empted in some markets for Pres Truman address]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118619",
+      "date": "1946-12-15",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Eccentric Wife"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118620",
+      "date": "1946-12-22",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Big-time boxer found dead in his dressing room with a broken right hand"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118621",
+      "date": "1946-12-29",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "118622",
+      "date": "1947-01-05",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Dancing Shoes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118623",
+      "date": "1947-01-12",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Lucky Beggar"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118624",
+      "date": "1947-01-19",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Shattered Bottle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118625",
+      "date": "1947-01-26",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Handsome Scoundrel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118626",
+      "date": "1947-02-02",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Lying Sweetheart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118627",
+      "date": "1947-02-09",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Missing Guest"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118628",
+      "date": "1947-02-16",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Unhappy Newlyweds"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118629",
+      "date": "1947-02-23",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Master-Mind Gambler"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118630",
+      "date": "1947-03-02",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Missing Footsteps"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118631",
+      "date": "1947-03-09",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Stolen Wrist Watch"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118632",
+      "date": "1947-03-16",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Vanishing Waitress"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118633",
+      "date": "1947-03-23",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Mysterious Beggar"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118634",
+      "date": "1947-03-30",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Nine Pound Roast"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118635",
+      "date": "1947-04-06",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "118636",
+      "date": "1947-04-13",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Deceitful Husband"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118637",
+      "date": "1947-04-20",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "118638",
+      "date": "1947-04-27",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Lonely  Wife"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118639",
+      "date": "1947-05-04",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "118640",
+      "date": "1947-05-11",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "118641",
+      "date": "1947-05-18",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Carnival Murder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118642",
+      "date": "1947-05-25",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Dead Blackmailer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118643",
+      "date": "1947-06-01",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Bewildered Husband"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118644",
+      "date": "1947-06-08",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Twisted Romance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118645",
+      "date": "1947-06-15",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Diplomat's Wife"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118646",
+      "date": "1947-06-22",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TCOT Double Triangle (available per Jay Hickerson)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "118647",
+      "date": "1947-06-29",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TCOT Scheming Bridegroom [LAST EPISODE]"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Police Woman",
+          "name": "Police Woman 1947.06.29 The Case Of The Steaming Bridegroom.mp3",
+          "time": "897",
+          "size": "3696904"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Police"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-05-06",
+      "dow": "M",
+      "time": "10:45 PM",
+      "end": "1947-06-00",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1947-06-00",
+      "dow": "Su",
+      "time": "9:45 PM",
+      "end": "1947-06-29",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Carter's Little Liver Pills",
+      "begin": "1946-05-06",
+      "end": "1947-05-29"
+    },
+    {
+      "sponsor": "Arrid Deodorant",
+      "begin": "1946-05-06",
+      "end": "1947-06-29"
+    },
+    {
+      "sponsor": "Nair",
+      "begin": "1946-05-06",
+      "end": "1947-06-29"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Police Woman"
+    }
+  ]
+}

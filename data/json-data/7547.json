@@ -1,0 +1,109 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "214",
+      "first": "Arthur 'Bugs'",
+      "last": "Baer",
+      "f": "Noted Role",
+      "character": "Emcee"
+    },
+    {
+      "idperson": "1397",
+      "first": "William",
+      "last": "Daly",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3547",
+      "first": "Welcome",
+      "last": "Lewis",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "50825",
+      "first": "Sam",
+      "last": "Herman",
+      "f": "Noted Role",
+      "character": "Music"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1931-00-00",
+      "dow": "Tu,Th",
+      "time": "",
+      "end": "1932-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "RCA Radios",
+      "begin": "1931-00-00",
+      "end": "1932-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Radiotron Varieties"
+    }
+  ]
+}

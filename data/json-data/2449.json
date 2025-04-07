@@ -1,0 +1,93 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313051",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Under The Double Eagle"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Colonel Jack and the Hillbillies",
+          "name": "Colonel Jack And The Hillbillies 34xxxx 008 1st Song - Under The Double Eagle_OTRRPG.mp3",
+          "time": "760",
+          "size": "12242497"
+        }
+      ]
+    },
+    {
+      "ide": "313052",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Old Wagoneer"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Colonel Jack and the Hillbillies",
+          "name": "Colonel Jack And The Hillbillies 34xxxx xxx 1st Song - Old Wagoneer_OTRRPG.mp3",
+          "time": "760",
+          "size": "12236217"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Colonel Jack And Shorty's Hillbillies"
+    }
+  ]
+}

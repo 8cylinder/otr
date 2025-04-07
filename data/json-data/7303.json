@@ -1,0 +1,85 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "586",
+      "first": "Ray",
+      "last": "Bloch",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1922",
+      "first": "Arthur",
+      "last": "Fields",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2448",
+      "first": "Fred",
+      "last": "Hall",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3775",
+      "first": "Pick",
+      "last": "Malone",
+      "f": "Noted Role",
+      "character": "Co-Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-11-25",
+      "dow": "M",
+      "time": "8:30 AM",
+      "end": "1941-02-17",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Model Pipe Tobacco",
+      "begin": "1940-12-25",
+      "end": "1941-02-17"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Pick & Pat in Pipe Smoking Time"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5656",
+      "first": "Leith",
+      "last": "Stevens",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1695",
+      "idtype": "4",
+      "page": "32",
+      "article": "",
+      "url": "",
+      "date": "1934-11-01",
+      "source": "Radio Land/Radioland 3411.pdf",
+      "idpytype2": "4",
+      "title": "Radioland 34 11",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Nocturne"
+    }
+  ],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1934-12-27",
+      "dow": "Th",
+      "time": "8:00 PM",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1935-01-02",
+      "dow": "W",
+      "time": "9:00 PM",
+      "end": "1935-04-17",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1935-04-18",
+      "dow": "Th",
+      "time": "8:30 PM",
+      "end": "1935-05-02",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Leith Stevens Harmonies"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185601-63c67d82.jpg",
+      "label": "American Gallery CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185602-0d4bd6e3.jpg",
+      "label": "American Gallery CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185603-4ade6c92.jpg",
+      "label": "American Gallery CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-An-American-Gallery.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-745-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loga1023.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/American Gallery/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4480",
+      "first": "Terry",
+      "last": "O'Sullivan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "9053",
+      "first": "Art",
+      "last": "Ballinger",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "23047",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Satchmo"
+        },
+        {
+          "title": "Satchmo - the Louis Armstrong Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery 61xxxx (Audition) Louis Armstrong_OTRRPG.mp3",
+          "time": "1763",
+          "size": "28223987"
+        },
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (01) Satchmo.mp3",
+          "time": "1746",
+          "size": "13969448"
+        }
+      ]
+    },
+    {
+      "ide": "267377",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Henry Wodsworth Longfellow, Poet"
+        },
+        {
+          "title": "Henry Wadsworth Longfellow, Poet"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (10) Henry Wadsworth Longfellow, Poet.mp3",
+          "time": "1769",
+          "size": "14150634"
+        }
+      ]
+    },
+    {
+      "ide": "267378",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To Hear a Different Drummer"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (11) To Hear a Different Drummer.mp3",
+          "time": "1741",
+          "size": "13928279"
+        }
+      ]
+    },
+    {
+      "ide": "267379",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Count-Down for a Champ"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "23059",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Count-Down for a Champ"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (13) Count-Down for a Champ.mp3",
+          "time": "1740",
+          "size": "13922637"
+        }
+      ]
+    },
+    {
+      "ide": "23048",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Nobody Liked, The"
+        },
+        {
+          "title": "Man Everybody Liked, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (02) The Man Nobody Liked.mp3",
+          "time": "1735",
+          "size": "13883767"
+        }
+      ]
+    },
+    {
+      "ide": "23049",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Review of Coming Attractions, A"
+        },
+        {
+          "title": "Preview of Coming Attractions, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (03) A Review of Coming Attractions.mp3",
+          "time": "1740",
+          "size": "13922010"
+        }
+      ]
+    },
+    {
+      "ide": "267371",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of Two Giants, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (04) A Story of Two Giants.mp3",
+          "time": "1739",
+          "size": "13913860"
+        }
+      ]
+    },
+    {
+      "ide": "267372",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Porgy, Bess and George"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (05) Porgy, Bess and George.mp3",
+          "time": "1671",
+          "size": "13371140"
+        }
+      ]
+    },
+    {
+      "ide": "23052",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flight Before Fury"
+        },
+        {
+          "title": "Flight Before Fury - a Tribute to Thomas Wolfe"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (06) Flight Before Fury.mp3",
+          "time": "1737",
+          "size": "13898604"
+        }
+      ]
+    },
+    {
+      "ide": "267374",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Portrait of a Photographer"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (07) Portrait of a Photographer.mp3",
+          "time": "1739",
+          "size": "13911770"
+        }
+      ]
+    },
+    {
+      "ide": "267375",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Day to Test, a Day to Learn, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (08) A Day to Test, a Day to Learn.mp3",
+          "time": "1738",
+          "size": "13906128"
+        }
+      ]
+    },
+    {
+      "ide": "267376",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Westward the Painter"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Gallery",
+          "name": "American Gallery - AFRS xx-xx-xx (09) Westward the Painter.mp3",
+          "time": "1739",
+          "size": "13909471"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "American Gallery, An"
+    }
+  ]
+}

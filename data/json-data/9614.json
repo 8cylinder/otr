@@ -1,0 +1,781 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,764030,00.html",
+      "label": "1940-06-10: Script Queen",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,775848,00.html",
+      "label": "1945-06-11: With Significance",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,802311,00.html",
+      "label": "1942-03-23: Suppurating Serials",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,852707,00.html",
+      "label": "1946-02-25: Who Buys the Air?",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19371938day.html",
+      "label": "Daytime Ratings: (1937-1938: #5)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19391940day.html",
+      "label": "Daytime Ratings: (1939-1940: #11)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19401941day.html",
+      "label": "Daytime Ratings: (1940-1941: #7)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19411942day.html",
+      "label": "Daytime Ratings: (1941-1942)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19441945day.html",
+      "label": "Daytime Ratings: (1944-1945: #18)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19451946day.html",
+      "label": "Daytime Ratings: (1945-1946: #15)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19461947day.html",
+      "label": "Daytime Ratings: (1946-1947: #16)",
+      "idtype": "7"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "950",
+      "first": "Macdonald",
+      "last": "Carey",
+      "f": "Noted Role",
+      "character": "Dr. Lee Markham"
+    },
+    {
+      "idperson": "1630",
+      "first": "Hugh",
+      "last": "Downs",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1675",
+      "first": "Howard",
+      "last": "Duff",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2306",
+      "first": "David",
+      "last": "Gothard",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3282",
+      "first": "Peggy",
+      "last": "Knudsen",
+      "f": "Noted Role",
+      "character": "Karen Adams"
+    },
+    {
+      "idperson": "20038",
+      "first": "Herb",
+      "last": "Futran",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "27528",
+      "first": "Robert &quot;Bob&quot;",
+      "last": "Latting",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "40412",
+      "first": "Albert 'Al'",
+      "last": "Ulrich",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "47626",
+      "first": "Bob",
+      "last": "Dryenforth",
+      "f": "Noted Role",
+      "character": "Dad Munson"
+    },
+    {
+      "idperson": "47627",
+      "first": "Alma",
+      "last": "Dubus",
+      "f": "Noted Role",
+      "character": "Linda Munson"
+    },
+    {
+      "idperson": "47658",
+      "first": "Robert",
+      "last": "Futran",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "47823",
+      "first": "C. Henry",
+      "last": "Nathan",
+      "f": "Noted Role",
+      "character": "Bob Banning"
+    },
+    {
+      "idperson": "47835",
+      "first": "Edith",
+      "last": "Perry",
+      "f": "Noted Role",
+      "character": "Janet Munson Adams"
+    },
+    {
+      "idperson": "47903",
+      "first": "Jack",
+      "last": "Swingford",
+      "f": "Noted Role",
+      "character": "Crandall Barnes"
+    },
+    {
+      "idperson": "239",
+      "first": "Ruth",
+      "last": "Bailey",
+      "f": "Noted Role",
+      "character": "Alice Day"
+    },
+    {
+      "idperson": "453",
+      "first": "Frank",
+      "last": "Behrens",
+      "f": "Noted Role",
+      "character": "Roy Palmer"
+    },
+    {
+      "idperson": "947",
+      "first": "Kathryn",
+      "last": "Card",
+      "f": "Noted Role",
+      "character": "Mrs Grey"
+    },
+    {
+      "idperson": "1766",
+      "first": "Harry",
+      "last": "Elders",
+      "f": "Noted Role",
+      "character": "Dr. Jack Landis"
+    },
+    {
+      "idperson": "1787",
+      "first": "Sidney",
+      "last": "Ellstrom",
+      "f": "Noted Role",
+      "character": "Frank Fenton"
+    },
+    {
+      "idperson": "1865",
+      "first": "Willard",
+      "last": "Farnum",
+      "f": "Noted Role",
+      "character": "John Adams"
+    },
+    {
+      "idperson": "1946",
+      "first": "Louise",
+      "last": "Fitch",
+      "f": "Noted Role",
+      "character": "Betty Adams"
+    },
+    {
+      "idperson": "2393",
+      "first": "Kenneth 'Ken'",
+      "last": "Griffin",
+      "f": "Noted Role",
+      "character": "Dr. Paul Burton"
+    },
+    {
+      "idperson": "2874",
+      "first": "Henry",
+      "last": "Hunter",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3070",
+      "first": "Jeanne",
+      "last": "Juvelier",
+      "f": "Noted Role",
+      "character": "Anna"
+    },
+    {
+      "idperson": "3136",
+      "first": "Ian",
+      "last": "Keith",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3320",
+      "first": "Louis 'Lou'",
+      "last": "Krugman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4154",
+      "first": "Marvin",
+      "last": "Miller",
+      "f": "Noted Role",
+      "character": "Dr. Lee Markham"
+    },
+    {
+      "idperson": "4772",
+      "first": "Ed",
+      "last": "Prentiss",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5737",
+      "first": "Hugh",
+      "last": "Studebaker",
+      "f": "Noted Role",
+      "character": "Dr. Purdy"
+    },
+    {
+      "idperson": "6211",
+      "first": "Willard",
+      "last": "Waterman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6242",
+      "first": "Karl",
+      "last": "Weber",
+      "f": "Noted Role",
+      "character": "Dr. Kirk Harding"
+    },
+    {
+      "idperson": "6415",
+      "first": "Irene",
+      "last": "Winston",
+      "f": "Noted Role",
+      "character": "Rosemary Hemingway"
+    },
+    {
+      "idperson": "6468",
+      "first": "Lesley",
+      "last": "Woods",
+      "f": "Noted Role",
+      "character": "Janet Adams"
+    },
+    {
+      "idperson": "7362",
+      "first": "Luise",
+      "last": "Barclay",
+      "f": "Noted Role",
+      "character": "Karen Harding"
+    },
+    {
+      "idperson": "8641",
+      "first": "Louise",
+      "last": "Arthur",
+      "f": "Noted Role",
+      "character": "Anne Templeton"
+    },
+    {
+      "idperson": "11098",
+      "first": "Muriel",
+      "last": "Bremner",
+      "f": "Noted Role",
+      "character": "Helen Bradley"
+    },
+    {
+      "idperson": "42383",
+      "first": "Betty Ruth",
+      "last": "Smith",
+      "f": "Noted Role",
+      "character": "Myra Walker"
+    },
+    {
+      "idperson": "44132",
+      "first": "Beverly",
+      "last": "Taylor",
+      "f": "Noted Role",
+      "character": "Alice Hendricks"
+    },
+    {
+      "idperson": "45195",
+      "first": "Genelle",
+      "last": "Gibbs",
+      "f": "Noted Role",
+      "character": "Rosemary Hemingway"
+    },
+    {
+      "idperson": "5843",
+      "first": "Henrietta",
+      "last": "Tedro",
+      "f": "Noted Role",
+      "character": "Aunt Helen"
+    },
+    {
+      "idperson": "12282",
+      "first": "Eloise",
+      "last": "Kummer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50387",
+      "first": "Janet",
+      "last": "Lane",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46231",
+      "first": "Lois",
+      "last": "Zarley",
+      "f": "Noted Role",
+      "character": "Sybella Mansfield"
+    },
+    {
+      "idperson": "2225",
+      "first": "Toni",
+      "last": "Gilman",
+      "f": "Noted Role",
+      "character": "Betty Adams"
+    },
+    {
+      "idperson": "3610",
+      "first": "Janet",
+      "last": "Logan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3666",
+      "first": "Barbara",
+      "last": "Luddy",
+      "f": "Noted Role",
+      "character": "Janet Munson Adams"
+    },
+    {
+      "idperson": "3715",
+      "first": "Franklyn",
+      "last": "MacCormack",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4271",
+      "first": "Bret",
+      "last": "Morrison",
+      "f": "Noted Role",
+      "character": "Dave Talbot"
+    },
+    {
+      "idperson": "4367",
+      "first": "Herbert 'Herb'",
+      "last": "Nelson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4623",
+      "first": "Virginia",
+      "last": "Payne",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4674",
+      "first": "Arthur 'Art'",
+      "last": "Peterson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4685",
+      "first": "Jack",
+      "last": "Petruzzi",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4697",
+      "first": "Irna",
+      "last": "Phillips",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "5076",
+      "first": "Victor",
+      "last": "Rodman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5081",
+      "first": "Louis",
+      "last": "Roen",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5082",
+      "first": "Elmira",
+      "last": "Roessler",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6967",
+      "first": "Marilou",
+      "last": "Neumayer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7366",
+      "first": "Philip 'Phil'",
+      "last": "Lord",
+      "f": "Noted Role",
+      "character": "Thomas Hawkins"
+    },
+    {
+      "idperson": "28709",
+      "first": "Judith",
+      "last": "Lowery",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "30248",
+      "first": "Bess",
+      "last": "McCammon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4312",
+      "first": "Pat",
+      "last": "Murphy",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5749",
+      "first": "Fred",
+      "last": "Sullivan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5755",
+      "first": "Hope",
+      "last": "Summers",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5972",
+      "first": "Les",
+      "last": "Tremayne",
+      "f": "Noted Role",
+      "character": "Leonard Huntley"
+    },
+    {
+      "idperson": "6070",
+      "first": "Helen",
+      "last": "Van Tuyl",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6120",
+      "first": "Theodore",
+      "last": "von Eltz",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6277",
+      "first": "Sarajane",
+      "last": "Wells",
+      "f": "Noted Role",
+      "character": "Eileen Holmes, also Gladys Grey"
+    },
+    {
+      "idperson": "6481",
+      "first": "Ben",
+      "last": "Wright",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7497",
+      "first": "Ken",
+      "last": "Griffin",
+      "f": "Noted Role",
+      "character": "Dr. Paul Barton"
+    },
+    {
+      "idperson": "7678",
+      "first": "Reese",
+      "last": "Taylor",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5843",
+      "first": "Henrietta",
+      "last": "Tedro",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46174",
+      "first": "Daniel",
+      "last": "Sutter",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "51228",
+      "first": "Herb",
+      "last": "Butterfield",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "51229",
+      "first": "David",
+      "last": "Payne",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2361",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1940-07-01",
+      "source": "Radio Varieties/Radio Varieties 4007.pdf",
+      "idpytype2": "4",
+      "title": "Radio Varieties - July, 1940",
+      "author": ""
+    },
+    {
+      "idprint": "2200",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "1947-10-01",
+      "source": "Radio Mirror/Radio Mirror 4710.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4710",
+      "author": ""
+    },
+    {
+      "idprint": "1064",
+      "idtype": "4",
+      "page": "48",
+      "article": "",
+      "url": "",
+      "date": "1986-01-01",
+      "source": "Memories/86_Vol_12_01.pdf",
+      "idpytype2": "4",
+      "title": "Memories - 1986 Vol 12 #01",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "32",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Interlude"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "332833",
+      "date": "1944-06-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "ileen Holmes"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1938-01-03",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:45 AM",
+      "end": "1940-09-27",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1940-09-30",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:45 AM",
+      "end": "1942-09-25",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1944-06-05",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:45 AM",
+      "end": "1948-05-28",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Pillsbury Mills",
+      "begin": "1938-01-03",
+      "end": "1940-09-27"
+    },
+    {
+      "sponsor": "Procter and Gamble for Camay",
+      "begin": "1940-09-30",
+      "end": "1941-00-00"
+    },
+    {
+      "sponsor": "General Mills",
+      "begin": "1944-06-05",
+      "end": "1948-05-28"
+    },
+    {
+      "sponsor": "Procter and Gamble (Oxydol)",
+      "begin": "1941-00-00",
+      "end": "1942-09-25"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Woman in White, The"
+    }
+  ]
+}

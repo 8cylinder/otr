@@ -1,0 +1,116 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "MGMP"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "archive",
+      "url": "details/OTRR_Movie_Previews_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "6399",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Balalaika"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "262350",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Caddy (unedited commercial with blue language), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6402",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Conquest"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "262351",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kid From Brooklyn, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "6400",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rosalie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "262352",
+      "date": "1943-04-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slightly Dangerous"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Movie_Previews_Singles",
+          "name": "MGM on Parade 43-04-12 - Slightly Dangerous - Guest - Victor Borge.mp3",
+          "time": "271",
+          "size": "1084805"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mgm Movie Previews"
+    }
+  ]
+}

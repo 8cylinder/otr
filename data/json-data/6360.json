@@ -1,0 +1,831 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.ortcat.com",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324163511-7965acfe.jpg",
+      "label": "Montecello Party Line",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6360-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Monticello Party Line/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "7630",
+      "first": "Sandra",
+      "last": "Michael",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "105505",
+      "date": "1938-04-27",
+      "epnum": "673",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chat About Which House to Rent, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105504",
+      "date": "1938-04-28",
+      "epnum": "674",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clement and Aggie Tuttle Are at Home After Dinner"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105503",
+      "date": "1938-04-29",
+      "epnum": "675",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curly Is Relaxing in His Garden in the Late Afternoon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105502",
+      "date": "1938-09-26",
+      "epnum": "676",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ken"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105501",
+      "date": "1938-09-27",
+      "epnum": "677",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105500",
+      "date": "1938-09-28",
+      "epnum": "678",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lend"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105499",
+      "date": "1938-09-29",
+      "epnum": "679",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I'm Free of You at Last"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105498",
+      "date": "1938-09-30",
+      "epnum": "680",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack Owens Plans to Get the $1000 from Aunt Willy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105497",
+      "date": "1938-10-03",
+      "epnum": "681",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marilyn Tells Aunt Willy the Whole Story"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "105496",
+      "date": "1938-10-04",
+      "epnum": "682",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aunt Willy Offers to Give Jack Owen the Money"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257537",
+      "date": "1938-10-05",
+      "epnum": "683",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ken"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257519",
+      "date": "1938-10-12",
+      "epnum": "688",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aunt Willy Reveals How She Got Rid of Jack Owen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257520",
+      "date": "1938-10-13",
+      "epnum": "689",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can Marilyn Learn to Love Jack Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257541",
+      "date": "1938-10-31",
+      "epnum": "701",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marilyn Admits to Her Brother Carleton That Dave Hunter Had Asked"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257551",
+      "date": "1938-11-01",
+      "epnum": "702",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Handibook Is Offered as a Premium, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257545",
+      "date": "1938-11-02",
+      "epnum": "703",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Handibook and a Sample of Dr Caldwell's Medicine, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257546",
+      "date": "1938-11-03",
+      "epnum": "704",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Handibook and a Sample of Dr Caldwell's Medicine, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257547",
+      "date": "1938-11-10",
+      "epnum": "709",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Handibook and a Sample of Dr Caldwell's Medicine, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257539",
+      "date": "1938-11-11",
+      "epnum": "710",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Call"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257530",
+      "date": "1938-11-14",
+      "epnum": "711",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Despite the Promise of the Last Program, the Sara and Aggie Handibook"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257552",
+      "date": "1938-11-15",
+      "epnum": "712",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Handibook Offer Is Worked into the Plot, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257550",
+      "date": "1938-11-16",
+      "epnum": "713",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Handibook and Dr Caldwell's Syrup Pepsin Sample, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-xx-xx (713) Jack Borrows One Thousand Dollars from Woman.mp3",
+          "time": "867",
+          "size": "8667294"
+        }
+      ]
+    },
+    {
+      "ide": "257548",
+      "date": "1938-11-17",
+      "epnum": "714",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Handibook and Dr Caldwell's Medicine Sample, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-xx-xx (714) Where Are Clem and Curly .mp3",
+          "time": "870",
+          "size": "8704158"
+        }
+      ]
+    },
+    {
+      "ide": "257549",
+      "date": "1938-11-18",
+      "epnum": "715",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Handibook and Dr Caldwell's Sample Are Still, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257517",
+      "date": "1938-11-21",
+      "epnum": "716",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After the Car Wreck, the Passengers Are Shaken up and the Rolls"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257533",
+      "date": "1938-11-22",
+      "epnum": "717",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How to Win Friends and Influence People"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257532",
+      "date": "1938-11-23",
+      "epnum": "718",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Sixteen Cylinder Adventure, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257538",
+      "date": "1938-11-30",
+      "epnum": "723",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ken"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-11-30 (723).mp3",
+          "time": "901",
+          "size": "7204736"
+        }
+      ]
+    },
+    {
+      "ide": "257535",
+      "date": "1938-12-01",
+      "epnum": "724",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack Owens Has Been Hurt During the Collapse of a Construction"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "319002",
+      "date": "1938-12-01",
+      "epnum": "741",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Merry Christmas, Party Liners"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-12-xx (741) Merry Christmas, Party Liners.mp3",
+          "time": "872",
+          "size": "8726686"
+        }
+      ]
+    },
+    {
+      "ide": "319003",
+      "date": "1938-12-01",
+      "epnum": "742",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hello, Is That You, Jimmy"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-12-xx (742) Hello, Is That You, Jimmy.mp3",
+          "time": "886",
+          "size": "8865950"
+        }
+      ]
+    },
+    {
+      "ide": "257523",
+      "date": "1938-12-02",
+      "epnum": "725",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clem Tuttle Becomes Impatient Taking Messages for Agatha, Who's"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-12-02 (725).mp3",
+          "time": "893",
+          "size": "7141952"
+        }
+      ]
+    },
+    {
+      "ide": "257536",
+      "date": "1938-12-05",
+      "epnum": "726",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack Owens Lies at the Door of Death in a Lonely Winter World"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-12-02 (726).mp3",
+          "time": "892",
+          "size": "7137536"
+        }
+      ]
+    },
+    {
+      "ide": "257542",
+      "date": "1938-12-08",
+      "epnum": "727",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Apron"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-12-08 (729).mp3",
+          "time": "876",
+          "size": "7006400"
+        }
+      ]
+    },
+    {
+      "ide": "257540",
+      "date": "1938-12-16",
+      "epnum": "735",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Chance"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-12-08 (735).mp3",
+          "time": "897",
+          "size": "7179968"
+        }
+      ]
+    },
+    {
+      "ide": "257543",
+      "date": "1938-12-17",
+      "epnum": "730",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Apron Premium Is Again Offered to Listeners, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-12-09 (730).mp3",
+          "time": "900",
+          "size": "7201472"
+        }
+      ]
+    },
+    {
+      "ide": "257534",
+      "date": "1938-12-19",
+      "epnum": "736",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack Is Looking Better in the Infirmary"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-12-19 (736).mp3",
+          "time": "903",
+          "size": "7226432"
+        }
+      ]
+    },
+    {
+      "ide": "257544",
+      "date": "1938-12-20",
+      "epnum": "737",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sara and Aggie Apron Premium Is Once Again Offered to Listeners, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-12-20 (737).mp3",
+          "time": "894",
+          "size": "7148864"
+        }
+      ]
+    },
+    {
+      "ide": "257531",
+      "date": "1938-12-21",
+      "epnum": "738",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For the Last Time"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 38-12-21 (738).mp3",
+          "time": "899",
+          "size": "7192832"
+        }
+      ]
+    },
+    {
+      "ide": "257526",
+      "date": "1939-01-29",
+      "epnum": "765",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Darnedest Temper, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 39-02-xx (765) Faculty and Alumni Dance.mp3",
+          "time": "872",
+          "size": "8722580"
+        }
+      ]
+    },
+    {
+      "ide": "257518",
+      "date": "1939-01-30",
+      "epnum": "766",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Agatha and Sara Are on the Party Line"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 39-02-xx (766) Hello, Is That You, Clem.mp3",
+          "time": "884",
+          "size": "8839326"
+        }
+      ]
+    },
+    {
+      "ide": "257527",
+      "date": "1939-01-31",
+      "epnum": "767",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "David Has Lost the Horseshoe Pitching Contest"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 39-02-xx (767) Hello, This Is The Monticello Party Line.mp3",
+          "time": "880",
+          "size": "8798366"
+        }
+      ]
+    },
+    {
+      "ide": "257529",
+      "date": "1939-02-01",
+      "epnum": "768",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "David Lost at Horseshoes, So He's Called Christie to Ask Her"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monticello Party Line",
+          "name": "Monticello Party Line 39-02-xx (768) Lorrie Doesn't Tell Christy.mp3",
+          "time": "884",
+          "size": "8841374"
+        }
+      ]
+    },
+    {
+      "ide": "257528",
+      "date": "1939-02-06",
+      "epnum": "771",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "David Hunter Has Taken Christy Warren out on a Date"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257525",
+      "date": "1939-02-07",
+      "epnum": "772",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curly Reveals That David Hunter Asked Christy out Because Of"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257521",
+      "date": "1939-02-08",
+      "epnum": "773",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christy Warren Breaks Her Date with David Hunter After Finding"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257553",
+      "date": "1939-02-09",
+      "epnum": "774",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Up in Alaska, Jack's Friend Rocky Remembers His Youth (and Also"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257522",
+      "date": "1939-02-10",
+      "epnum": "775",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christy Warren Meets Carleton Ross"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "257524",
+      "date": "1939-02-13",
+      "epnum": "776",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curly Decides to Go to Christy Warren to Apologize for Talking"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sitcom"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "Dr. Caldwell's Syrup",
+      "begin": "1936-00-00",
+      "end": "1939-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Monticello Party Line"
+    }
+  ]
+}

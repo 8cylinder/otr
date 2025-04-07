@@ -1,0 +1,136 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4398",
+      "first": "Red",
+      "last": "Nichols",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Parade Of The Five Pennies"
+    },
+    {
+      "theme": "Wail Of The Winds"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "324931",
+      "date": "1952-06-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Program 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Nichols And His Five Pennies",
+          "name": "Red Nichols And His Five Pennies 1952.06.27 Program 1.mp3",
+          "time": "660",
+          "size": "2746118"
+        }
+      ]
+    },
+    {
+      "ide": "324932",
+      "date": "1952-07-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Program 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Nichols And His Five Pennies",
+          "name": "Red Nichols And His Five Pennies 1952.07.04 Program 2.mp3",
+          "time": "661",
+          "size": "2751029"
+        }
+      ]
+    },
+    {
+      "ide": "324933",
+      "date": "1952-07-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Program 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Nichols And His Five Pennies",
+          "name": "Red Nichols And His Five Pennies 1952.07.11 Program 3.mp3",
+          "time": "673",
+          "size": "2798259"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Red Nichols"
+    }
+  ]
+}

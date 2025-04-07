@@ -1,0 +1,655 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Adventures Of Frank Farrell/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-444-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312364",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Audition"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Frank Farrell xxxxxx 00 (Audition)_OTRRPG.mp3",
+          "time": "906",
+          "size": "14575666"
+        },
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Adventures Of Frank Farrell 4x-xx-xx Audition.mp3",
+          "time": "908",
+          "size": "7266428"
+        }
+      ]
+    },
+    {
+      "ide": "248066",
+      "date": "1941-03-19",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "[6:15pm, daily & Saturday, on KGER, Los Angeles]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248071",
+      "date": "1941-03-20",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Robbed by two thieves & car stolen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248068",
+      "date": "1941-03-21",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frank & Jim find Mr Beasley tied up in closet, Helen missing, Spud found unconcious"
+        },
+        {
+          "title": "Bank Robbers"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Adventures of Frank Farrell xx-xx-xx (03) (s&d).mp3",
+          "time": "896",
+          "size": "3585463"
+        },
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Adventures of Frank Farrell xx-xx-xx (03).mp3",
+          "time": "896",
+          "size": "7169800"
+        }
+      ]
+    },
+    {
+      "ide": "248069",
+      "date": "1941-03-22",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frank, Jim, Helen & Spud arrested for bank robbery & car theft while on way to Syracuse"
+        },
+        {
+          "title": "Bank Robbers"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Adventures of Frank Farrell 41-03-22 Frank, Jim, Helen & Spud arrested for bank robbery & car theft while on way to Syracuse.mp3",
+          "time": "874",
+          "size": "3496396"
+        },
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Adventures of Frank Farrell xx-xx-xx (04) (s&d).mp3",
+          "time": "876",
+          "size": "3504331"
+        },
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Adventures of Frank Farrell xx-xx-xx (04).mp3",
+          "time": "876",
+          "size": "7007568"
+        }
+      ]
+    },
+    {
+      "ide": "248067",
+      "date": "1941-03-24",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[6:15pm, Monday thru Saturday, on KGER, Los Angeles]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248059",
+      "date": "1941-03-25",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "$250 to Throw Football Game"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248060",
+      "date": "1941-03-26",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "248061",
+      "date": "1941-03-27",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "248062",
+      "date": "1941-03-28",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "248063",
+      "date": "1941-03-29",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "155658",
+      "date": "1941-03-31",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Harrington Hears Some Things"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Frank Farrell xxxxxx 11 Mrs Harrington Hears Some Things_OTRRPG.mp3",
+          "time": "743",
+          "size": "11972638"
+        }
+      ]
+    },
+    {
+      "ide": "155659",
+      "date": "1941-04-01",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search for Helen & Mr. Newman"
+        },
+        {
+          "title": "Discussing Noel's Threat"
+        },
+        {
+          "title": "Discussing Noel's Threat"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Frank Farrell xxxxxx 12 Discussing Noel's Threat_OTRRPG.mp3",
+          "time": "700",
+          "size": "11202688"
+        },
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Adventures of Frank Farrell 41-04-01 Search for Helen & Mr. Newman.mp3",
+          "time": "894",
+          "size": "8945802"
+        }
+      ]
+    },
+    {
+      "ide": "155660",
+      "date": "1941-04-02",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Conclusion - Helen rescued, bank robbers caught"
+        },
+        {
+          "title": "Held Captive in Log Cabin"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Adventures of Frank Farrell 41-04-02 Conclusion - Helen rescued, bank robbers caught.mp3",
+          "time": "897",
+          "size": "8974474"
+        }
+      ]
+    },
+    {
+      "ide": "155661",
+      "date": "1941-04-03",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coach Grover Asks About The Attack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155662",
+      "date": "1941-04-05",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frank And Coach Grover Discuss Visit"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155663",
+      "date": "1941-04-07",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trent High Plays Garfield High"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155664",
+      "date": "1941-04-08",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Several Hours Before The Game"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155665",
+      "date": "1941-04-09",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In The Third Quarter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155666",
+      "date": "1941-04-10",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three Weeks Later"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155667",
+      "date": "1941-04-11",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Tim Serves 'Soft Drinks'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155668",
+      "date": "1941-04-12",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Forbidding Free Basketball Games"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155669",
+      "date": "1941-04-14",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Waiting For Coach Grover And Frank"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155670",
+      "date": "1941-04-15",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frank And The Team Practice"
+        },
+        {
+          "title": "Recovering the Horses"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155671",
+      "date": "1941-04-16",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "There's A Lot Of Money Bet On The Game"
+        },
+        {
+          "title": "Cattle Thieves"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155672",
+      "date": "1941-04-17",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pedro gets Helen to go with him on Blackies' orders"
+        },
+        {
+          "title": "Blackie Holds Note on Ranch"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Adventures of Frank Farrell 41-04-17 Frank & Coach Grover recover Mr. Newman's stolen horses.mp3",
+          "time": "897",
+          "size": "8972426"
+        }
+      ]
+    },
+    {
+      "ide": "155673",
+      "date": "1941-04-18",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Conclusion - Helen found at Blackie's, Blackie captured"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Frank Farrell",
+          "name": "Adventures of Frank Farrell 41-04-18 Conclusion - Helen found at Blackie's, Blackie captured.mp3",
+          "time": "892",
+          "size": "8921226"
+        }
+      ]
+    },
+    {
+      "ide": "155674",
+      "date": "1941-04-19",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Betting On The Big Game"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155675",
+      "date": "1941-04-21",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coach Grover Disappears"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155676",
+      "date": "1941-04-22",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spud Tries To Stall The Game"
+        },
+        {
+          "title": "Audition Show - Frank Returns at the End of the Third Quarter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155677",
+      "date": "1941-04-23",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slim Is Enemy No 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155678",
+      "date": "1941-04-24",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slim And Smoke Approach"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155679",
+      "date": "1941-04-25",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slim And Smoke In The Basement"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248064",
+      "date": "1941-04-26",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bud's Car Wrecked"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248065",
+      "date": "1941-04-28",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "155680",
+      "date": "1941-04-29",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trapped In The Old House"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155681",
+      "date": "1941-04-30",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frank And Coach Grover Still Held Prisoners"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155682",
+      "date": "1941-05-01",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spud Finds Frank"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "155683",
+      "date": "1941-05-02",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frank And Coach Grover Have The Evidence"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248070",
+      "date": "1941-05-03",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Last Show]"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Action"
+    },
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventures of Frank Farrell"
+    },
+    {
+      "title": "Frank Farrell"
+    }
+  ]
+}

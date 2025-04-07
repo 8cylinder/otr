@@ -1,0 +1,204 @@
+{
+  "avail": [
+    {
+      "avail": "2",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/J Series/Jack Webb Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Jack-Webb-Show.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "An ABC West Coast broadcast from KGO, San Francisco, airing at 9:30 pm Pacific Time."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "6237",
+      "first": "Jack",
+      "last": "Webb",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "6237",
+      "first": "Jack",
+      "last": "Webb",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6992",
+      "first": "Clancy",
+      "last": "Hayes",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6993",
+      "first": "Nora",
+      "last": "McNamara",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6994",
+      "first": "Dick",
+      "last": "Breen",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "6995",
+      "first": "Phil",
+      "last": "Bovero",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "20233",
+      "first": "John",
+      "last": "Galbraith",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313837",
+      "date": "1946-04-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The 'Razor', in 'The Case of the Confused Keyhole'"
+        },
+        {
+          "title": "Facts on Parade"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jack Webb Show",
+          "name": "Jack Webb Show 46-04-10 Guest - John Galbraith.mp3",
+          "time": "1765",
+          "size": "14119924"
+        }
+      ]
+    },
+    {
+      "ide": "313838",
+      "date": "1946-04-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slim Slade, Western Bandleader, from Howdyville"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jack Webb Show",
+          "name": "Jack Webb Show 460417 005 Slim Slade, Western Bandleader, from Howdyville_OTRRPG.mp3",
+          "time": "1770",
+          "size": "28330821"
+        },
+        {
+          "path": "J",
+          "folder": "Jack Webb Show",
+          "name": "Jack Webb Show 46-04-17 Guest - Midge Williams.mp3",
+          "time": "1715",
+          "size": "13716404"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-03-20",
+      "dow": "W",
+      "time": "9:30 PM",
+      "end": "1946-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jack Webb Show, The"
+    }
+  ]
+}

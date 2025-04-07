@@ -1,0 +1,450 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "HHGG"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050923-bd9f5f14.jpg",
+      "label": "Hitch Hikers Guide to the Galaxy",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.otr.com/sf.shtml",
+      "label": "To Boldly Go... by James F. Widner",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/hhg.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logh1010.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6659",
+      "first": "Richard",
+      "last": "Vernon",
+      "f": "Noted Role",
+      "character": "Slartibartfast"
+    },
+    {
+      "idperson": "24971",
+      "first": "David",
+      "last": "Jason",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "585",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1989-06-01",
+      "source": "Illustrated Press/IP_153.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #153 Jun 89",
+      "author": ""
+    },
+    {
+      "idprint": "1230",
+      "idtype": "4",
+      "page": "48",
+      "article": "",
+      "url": "",
+      "date": "2001-05-01",
+      "source": "NARA News/Nara News V29 02 Spring2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 02 Spring2001",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "250800",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Douglas Adams B B C Interview"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76210",
+      "date": "1978-03-07",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prologue(Given artificial date to force to top of series list)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76211",
+      "date": "1978-03-08",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The First"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76212",
+      "date": "1978-03-15",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Second"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76213",
+      "date": "1978-03-22",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Third"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76214",
+      "date": "1978-03-29",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Fourth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76215",
+      "date": "1978-04-05",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Fifth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76216",
+      "date": "1978-04-12",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Sixth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76217",
+      "date": "1978-05-24",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Seventh"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76218",
+      "date": "1978-05-31",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Eighth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76219",
+      "date": "1978-06-07",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Ninth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76220",
+      "date": "1978-06-14",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Tenth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76221",
+      "date": "1978-06-21",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Eleventh"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76222",
+      "date": "1978-06-28",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Twelfth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76223",
+      "date": "2004-09-21",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Thirteenth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76224",
+      "date": "2004-09-28",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Fourteenth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76225",
+      "date": "2004-10-05",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Fifteenth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76226",
+      "date": "2004-10-12",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Sixteenth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76227",
+      "date": "2004-10-19",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Seventeenth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76228",
+      "date": "2004-10-26",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Eighteenth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76229",
+      "date": "2005-05-03",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Nineteenth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76230",
+      "date": "2005-05-10",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Twentieth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76231",
+      "date": "2005-05-17",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Twenty-First"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76232",
+      "date": "2005-05-24",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Twenty-Second"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76233",
+      "date": "2005-05-31",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Twenty-Third"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76234",
+      "date": "2005-06-07",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Twenty-Fourth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76235",
+      "date": "2005-06-14",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Twenty-Fifth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76236",
+      "date": "2005-06-21",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fit The Twenty-Sixth"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hitchhikers Guide to the Galaxy, The"
+    }
+  ]
+}

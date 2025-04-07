@@ -1,0 +1,201 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Coronet%20Story%20Teller/",
+      "label": "Library Files",
+      "idtype": "16"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Five-minute broadcast heard five nights a week on ABC"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "3870",
+      "first": "Gilbert",
+      "last": "Martyn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4154",
+      "first": "Marvin",
+      "last": "Miller",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "19141",
+      "first": "Alan M.",
+      "last": "Fishburn",
+      "f": "Noted Role",
+      "character": "Chicago"
+    },
+    {
+      "idperson": "19141",
+      "first": "Alan M.",
+      "last": "Fishburn",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "45685",
+      "first": "Ted",
+      "last": "MacMurray",
+      "f": "Noted Role",
+      "character": "Hollywood"
+    },
+    {
+      "idperson": "45685",
+      "first": "Ted",
+      "last": "MacMurray",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "47154",
+      "first": "Mike",
+      "last": "Stuart",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50499",
+      "first": "Vic",
+      "last": "Perrin",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313161",
+      "date": "1944-12-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gift of The Little Shepherd"
+        },
+        {
+          "title": "The Little Lamb"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Coronet Story Teller",
+          "name": "Coronet Storyteller 441224 xxx The Gift of The Little Shepherd_OTRRPG.mp3",
+          "time": "868",
+          "size": "13960454"
+        },
+        {
+          "path": "C",
+          "folder": "Coronet Story Teller",
+          "name": "Coronet Storyteller 44-12-24 Gift Of The Little Shepherd.mp3",
+          "time": "870",
+          "size": "13918336"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Coronet Storyteller 44-12-24 The Little Lamb.mp3",
+          "time": "870",
+          "size": "6958601"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-01-24",
+      "dow": "M,Tu,W,Th,F",
+      "time": "9:55 PM",
+      "end": "1945-11-02",
+      "length": "5",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1947-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "5",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Coronet Storyteller"
+    }
+  ]
+}

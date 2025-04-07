@@ -1,0 +1,86 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "42482",
+      "first": "Lester",
+      "last": "Smith",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "309656",
+      "date": "1949-08-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Soviets Extending Rule Over Europe"
+        },
+        {
+          "title": "[Subs for Cedric Foster] Acheson Accuses the USSR of Intimidating Its Neighbors"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lester Smith Commentary",
+          "name": "Lester Smith Commentary 490808 [Subs for Cedric Foster] Acheson Accuses the USSR of Intimidating Its Neighbors.mp3",
+          "time": "879",
+          "size": "14137842"
+        },
+        {
+          "path": "L",
+          "folder": "Lester Smith Commentary",
+          "name": "Lester Smith Commentary 49-08-08 Soviets Extending Rule Over Europe.mp3",
+          "time": "877",
+          "size": "7016932"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1949-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Lester Smith"
+    }
+  ]
+}

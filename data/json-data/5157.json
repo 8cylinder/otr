@@ -1,0 +1,131 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "2780",
+      "web": "",
+      "url": "0",
+      "source": "",
+      "idpytype": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1287",
+      "first": "Jane",
+      "last": "Cowl",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "174628",
+      "date": "1944-08-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Topic - Ghosts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "174629",
+      "date": "1944-08-23",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Topic - Help"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "174630",
+      "date": "1945-04-04",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Topic - Information"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "323308",
+      "date": "1945-05-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Frederick March"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jane Cowl",
+          "name": "Jane Cowl 1945.05.04 Guest Frederick March.mp3",
+          "time": "879",
+          "size": "3622151"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1944-07-10",
+      "dow": "M,W,F",
+      "time": "",
+      "end": "1945-11-16",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jane Cowl"
+    }
+  ]
+}

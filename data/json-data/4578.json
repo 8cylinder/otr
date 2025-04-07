@@ -1,0 +1,186 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2913",
+      "first": "Charles",
+      "last": "Irving",
+      "f": "Noted Role",
+      "character": "Narrator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "323011",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marco Polo"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heritage",
+          "name": "Heritage 1953.xx.xx Marco Polo.mp3",
+          "time": "1812",
+          "size": "7356771"
+        }
+      ]
+    },
+    {
+      "ide": "323012",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tales Of The Decameron"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heritage",
+          "name": "Heritage 1953.xx.xx Tales Of The Decameron.mp3",
+          "time": "1747",
+          "size": "7094931"
+        }
+      ]
+    },
+    {
+      "ide": "323013",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Canterbury Tales"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heritage",
+          "name": "Heritage 1953.xx.xx The Canterbury Tales.mp3",
+          "time": "1748",
+          "size": "7098378"
+        }
+      ]
+    },
+    {
+      "ide": "323014",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three Stories From The Notebooks Of Science"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heritage",
+          "name": "Heritage 1953.xx.xx Three Stories From The Notebooks Of Science.mp3",
+          "time": "1800",
+          "size": "7307694"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Heritage"
+    }
+  ]
+}

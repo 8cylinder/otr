@@ -1,0 +1,710 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/H Series/Hear It Now/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,814817,00.html",
+      "label": "1951-04-30: Airborne Oscars",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,856820,00.html",
+      "label": "1951-05-07: Under the Gun",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,859114,00.html",
+      "label": "1950-12-25: Hear It Now",
+      "idtype": "11"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Hear_It_Now",
+      "label": "Wikipedia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Hear-It-Now.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.marx-brothers.org/listening/radio.htm",
+      "label": "The Marx Brothers - Radio shows and guest appearances",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4321",
+      "first": "Edward R.",
+      "last": "Murrow",
+      "f": "Noted Role",
+      "character": "news commentator"
+    },
+    {
+      "idperson": "46450",
+      "first": "Palmer",
+      "last": "Williams",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "2770",
+      "first": "Don",
+      "last": "Hollenbeck",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "603",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1990-12-01",
+      "source": "Illustrated Press/IP_171.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #171 Dec 90",
+      "author": ""
+    },
+    {
+      "idprint": "1230",
+      "idtype": "4",
+      "page": "48",
+      "article": "",
+      "url": "",
+      "date": "2001-05-01",
+      "source": "NARA News/Nara News V29 02 Spring2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 02 Spring2001",
+      "author": ""
+    },
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "73918",
+      "date": "1950-12-15",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Korean War Reports"
+        },
+        {
+          "title": "Will There Be Peace Or War"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 501215 01 Will There Be Peace Or War_OTRRPG.mp3",
+          "time": "3537",
+          "size": "56673202"
+        },
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 50-12-15 (01) Korean War Reports.mp3",
+          "time": "3591",
+          "size": "57462607"
+        }
+      ]
+    },
+    {
+      "ide": "73919",
+      "date": "1950-12-22",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Abe Burrows Interviews Santa Claus"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 50-12-22 (02) Abe Burrows Interviews Santa Claus.mp3",
+          "time": "3584",
+          "size": "57346013"
+        }
+      ]
+    },
+    {
+      "ide": "73920",
+      "date": "1950-12-29",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "More News From the Korean War front"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 50-12-29 (03) More News From the Korean War front.mp3",
+          "time": "2729",
+          "size": "43673610"
+        }
+      ]
+    },
+    {
+      "ide": "73921",
+      "date": "1951-01-05",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fall of Seoul, Korea, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-01-05 (04) The Fall of Seoul, Korea.mp3",
+          "time": "3594",
+          "size": "57501834"
+        }
+      ]
+    },
+    {
+      "ide": "73922",
+      "date": "1951-01-12",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Retreat in Korea"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-01-12 (05) Retreat in Korea.mp3",
+          "time": "3587",
+          "size": "57398658"
+        }
+      ]
+    },
+    {
+      "ide": "73923",
+      "date": "1951-01-19",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "U.S. Navy Ships being Recommissioned (First Half of Program)"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-01-19 (06) U.S. Navy Ships being Recommissioned (First Half of Program).mp3",
+          "time": "1809",
+          "size": "28946570"
+        }
+      ]
+    },
+    {
+      "ide": "73924",
+      "date": "1951-01-26",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cost of a pound of Steak, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-01-26 (07) The Cost of a pound of Steak.mp3",
+          "time": "3578",
+          "size": "57249802"
+        }
+      ]
+    },
+    {
+      "ide": "73925",
+      "date": "1951-02-02",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Special Report on Detroit"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-02-02 (08) Special Report on Detroit.mp3",
+          "time": "3587",
+          "size": "57393162"
+        }
+      ]
+    },
+    {
+      "ide": "73926",
+      "date": "1951-02-09",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big train Wreck, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-02-09 (09) A big train Wreck.mp3",
+          "time": "3576",
+          "size": "57215114"
+        }
+      ]
+    },
+    {
+      "ide": "73927",
+      "date": "1951-02-16",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Isolationist Debate in Washington"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-02-16 (10) Isolationist Debate in Washington.mp3",
+          "time": "3565",
+          "size": "57043082"
+        }
+      ]
+    },
+    {
+      "ide": "73928",
+      "date": "1951-02-23",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Truman names a Tank"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-02-23 (11) Truman names a Tank.mp3",
+          "time": "3586",
+          "size": "57370762"
+        }
+      ]
+    },
+    {
+      "ide": "73929",
+      "date": "1951-03-02",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cold War News"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-03-02 (12) Cold War News.mp3",
+          "time": "3554",
+          "size": "56869002"
+        }
+      ]
+    },
+    {
+      "ide": "73930",
+      "date": "1951-03-09",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Biography of a Labor Union, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-03-09 (13) A Biography of a Labor Union.mp3",
+          "time": "3560",
+          "size": "56957066"
+        }
+      ]
+    },
+    {
+      "ide": "73931",
+      "date": "1951-03-16",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kefauver Crime Hearings, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-03-16 (14) The Kefauver Crime Hearings.mp3",
+          "time": "3586",
+          "size": "57381002"
+        }
+      ]
+    },
+    {
+      "ide": "73932",
+      "date": "1951-03-23",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Costello Crime Hearings"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-03-23 (15) Costello Crime Hearings.mp3",
+          "time": "3589",
+          "size": "57430026"
+        }
+      ]
+    },
+    {
+      "ide": "73933",
+      "date": "1951-03-30",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Human Tick, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-03-30 (16) The Human Tick.mp3",
+          "time": "3582",
+          "size": "57313418"
+        }
+      ]
+    },
+    {
+      "ide": "73934",
+      "date": "1951-04-06",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recording of a Parachute Jump"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-04-06 (17) Recording of a Parachute Jump.mp3",
+          "time": "3591",
+          "size": "57452682"
+        }
+      ]
+    },
+    {
+      "ide": "73935",
+      "date": "1951-04-13",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Truman fires MacArthur"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-04-13 (18) Truman fires MacAuthur.mp3",
+          "time": "3586",
+          "size": "57378954"
+        }
+      ]
+    },
+    {
+      "ide": "73936",
+      "date": "1951-04-20",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "MacAuthur speaks before Congress"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-04-20 (19) MacAuthur speaks before Congress.mp3",
+          "time": "3585",
+          "size": "57356461"
+        }
+      ]
+    },
+    {
+      "ide": "73937",
+      "date": "1951-04-27",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Communist Offensive in Korea"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-04-27 (20) Communist Offensive in Korea.mp3",
+          "time": "3582",
+          "size": "57315497"
+        }
+      ]
+    },
+    {
+      "ide": "73938",
+      "date": "1951-05-04",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reno  and the Divorce Business"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-05-04 (21) Reno  and the Divorce Business.mp3",
+          "time": "1835",
+          "size": "29356042"
+        }
+      ]
+    },
+    {
+      "ide": "73939",
+      "date": "1951-05-11",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "MacArthur-Truman Controversy, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-05-11 (22) The MacAuthor-Truman Controversy.mp3",
+          "time": "3586",
+          "size": "57380284"
+        }
+      ]
+    },
+    {
+      "ide": "73940",
+      "date": "1951-05-18",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crime Hearings"
+        },
+        {
+          "title": "The Return Of Frank Stylow"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-05-18 (23) Crime Hearings.mp3",
+          "time": "3593",
+          "size": "57485174"
+        }
+      ]
+    },
+    {
+      "ide": "73941",
+      "date": "1951-05-25",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guided Missile Recordings"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-05-25 (24) Guided Missile Recordings.mp3",
+          "time": "3590",
+          "size": "57444225"
+        }
+      ]
+    },
+    {
+      "ide": "73942",
+      "date": "1951-06-01",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Memorial Day 1951"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73943",
+      "date": "1951-06-08",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Serge Koussevitsky dies"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hear It Now",
+          "name": "Hear It Now 51-06-08 (26) Serge Kousevitsky dies.mp3",
+          "time": "3591",
+          "size": "57460874"
+        }
+      ]
+    },
+    {
+      "ide": "73944",
+      "date": "1951-06-15",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Senator McCarthy attacks General Marshall"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73945",
+      "date": "1951-10-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "General MacArthur in Washington"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-12-15",
+      "dow": "F",
+      "time": "9:00 PM",
+      "end": "1951-06-15",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hear It Now"
+    }
+  ]
+}

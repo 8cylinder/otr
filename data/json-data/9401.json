@@ -1,0 +1,127 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3013",
+      "first": "Raymond Edward",
+      "last": "Johnson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3641",
+      "first": "Frank",
+      "last": "Lovejoy",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4283",
+      "first": "Arnold",
+      "last": "Moss",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1587",
+      "first": "Peter",
+      "last": "Donald",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324519",
+      "date": "1947-07-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Taskforce Furnace"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Warriors Of Peace",
+          "name": "Warriors Of Peace 1947.07.13 Taskforce Furnace.mp3",
+          "time": "939",
+          "size": "3862365"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "unknown"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-03-31",
+      "dow": "Su",
+      "time": "2:00 PM",
+      "end": "1947-10-05",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "U. S. Army/Air Force",
+      "begin": "1947-03-31",
+      "end": "1947-10-05"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Warriors of Peace"
+    }
+  ]
+}

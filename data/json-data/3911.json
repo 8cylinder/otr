@@ -1,0 +1,507 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2826",
+      "first": "Morty",
+      "last": "Howard",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2828",
+      "first": "Tom",
+      "last": "Howard",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "278940",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Automobile Troubles"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278941",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Bill is Seeing Spots"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278953",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Bridegroom"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278942",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Chewing Gum"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278954",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Macy's Basement"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast Show xxxxxx xxx Macy's Basement (192-44)_OTRRPG.mp3",
+          "time": "211",
+          "size": "5078550"
+        }
+      ]
+    },
+    {
+      "ide": "278955",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Music Teacher"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278956",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Need 50 Bucks"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278957",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Painting the Garage"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast Show xxxxxx xxx Painting the Garage (192-44)_OTRRPG.mp3",
+          "time": "200",
+          "size": "4811248"
+        }
+      ]
+    },
+    {
+      "ide": "278958",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Sore Throat"
+        },
+        {
+          "title": "George Has a Sore Throat"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast Show xxxxxx xxx George Has a Sore Throat (192-44)_OTRRPG.mp3",
+          "time": "214",
+          "size": "5136768"
+        }
+      ]
+    },
+    {
+      "ide": "278943",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Talking Golf"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278944",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Tom Loses at the Track"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278945",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Trip with a Tramp"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278946",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Violin and Organ Recitals"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "313545",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cottage on the Country"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast Show xxxxxx xxx Cottage on the Country (192-44)_OTRRPG.mp3",
+          "time": "200",
+          "size": "4802356"
+        }
+      ]
+    },
+    {
+      "ide": "313546",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music Lessons"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast Show xxxxxx xxx Music Lessons (192-44)_OTRRPG.mp3",
+          "time": "201",
+          "size": "4845052"
+        }
+      ]
+    },
+    {
+      "ide": "313547",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tom Tries to Borrow 50 Bucks from George"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast Show xxxxxx xxx Tom Tries to Borrow 50 Bucks from George (192-44)_OTRRPG.mp3",
+          "time": "209",
+          "size": "5037860"
+        }
+      ]
+    },
+    {
+      "ide": "278947",
+      "date": "0000-00-00",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Party"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278948",
+      "date": "0000-00-00",
+      "epnum": "134",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Red Flannel Girl"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278949",
+      "date": "0000-00-00",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Baseball GAme"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278950",
+      "date": "0000-00-00",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Loan of Money"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278951",
+      "date": "0000-00-00",
+      "epnum": "137",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Life of Riley"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278952",
+      "date": "0000-00-00",
+      "epnum": "138",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Wedding Invitation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "278937",
+      "date": "1946-02-27",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Case of snoo"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast w Ford Bond 460227.mp3",
+          "time": "294",
+          "size": "11797553"
+        },
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast w Ford Bond 460227.flac",
+          "time": "294",
+          "size": "12184314"
+        },
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun At Breakfast 46-02-27 First joke is about a case of snuu.mp3",
+          "time": "280",
+          "size": "3356436"
+        }
+      ]
+    },
+    {
+      "ide": "278938",
+      "date": "1946-02-28",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Telegraph company"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast w Ford Bond 460228.mp3",
+          "time": "292",
+          "size": "11709233"
+        },
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast w Ford Bond 460228.flac",
+          "time": "292",
+          "size": "11544225"
+        },
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun At Breakfast 46-02-28 A routine where they start a telegraph company.mp3",
+          "time": "282",
+          "size": "3383041"
+        }
+      ]
+    },
+    {
+      "ide": "331228",
+      "date": "1946-03-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast w Ford Bond 460301.mp3",
+          "time": "282",
+          "size": "11300273"
+        },
+        {
+          "path": "F",
+          "folder": "Fun At Breakfast",
+          "name": "Fun at Breakfast w Ford Bond 460301.flac",
+          "time": "282",
+          "size": "11181719"
+        }
+      ]
+    },
+    {
+      "ide": "278939",
+      "date": "1946-03-21",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First joke - Writing a Story"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Fun at Breakfast"
+    }
+  ]
+}

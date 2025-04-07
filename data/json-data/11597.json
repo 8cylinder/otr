@@ -1,0 +1,123 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "30",
+      "first": "Ray",
+      "last": "Anthony",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Sky Coach'"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "331342",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trumpet Boogie"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Ray Anthony",
+          "name": "The Ray Anthony Show #10 Trumpet Boogie.mp3",
+          "time": "885",
+          "size": "21263095"
+        }
+      ]
+    },
+    {
+      "ide": "331343",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cat Dancing"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Ray Anthony",
+          "name": "The Ray Anthony Show #11 Cat Dancing.mp3",
+          "time": "891",
+          "size": "21402687"
+        }
+      ]
+    },
+    {
+      "ide": "331344",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Juke Box Special"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Ray Anthony",
+          "name": "The Ray Anthony Show #9 Juke Box Special.mp3",
+          "time": "882",
+          "size": "21189855"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1951-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1952-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Ray Anthony Orchestra, The"
+    }
+  ]
+}

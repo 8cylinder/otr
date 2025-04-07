@@ -1,0 +1,142 @@
+{
+  "avail": [
+    {
+      "avail": "3",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "308666",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack and Jill Get Married"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jack And Jill",
+          "name": "Jack And Jill 3xxxxx 001 Jack And Jill Get Married (128-48)_OTRRPG.mp3",
+          "time": "877",
+          "size": "14047775"
+        },
+        {
+          "path": "J",
+          "folder": "Jack And Jill",
+          "name": "Jack And Jill 3x-xx-xx Jack and Jill Get Married.mp3",
+          "time": "873",
+          "size": "6985108"
+        }
+      ]
+    },
+    {
+      "ide": "308667",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Haunted House"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jack And Jill",
+          "name": "Jack And Jill 3xxxxx 002 The Haunted House (128-48)_OTRRPG.mp3",
+          "time": "885",
+          "size": "14175263"
+        },
+        {
+          "path": "s J",
+          "folder": "0",
+          "name": "Jack And Jill 3x-xx-xx The Haunted House.mp3",
+          "time": "881",
+          "size": "7048756"
+        }
+      ]
+    },
+    {
+      "ide": "313829",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jack And Jill",
+          "name": "Jack And Jill xxxxxx 01_OTRRPG.mp3",
+          "time": "823",
+          "size": "13254064"
+        }
+      ]
+    },
+    {
+      "ide": "313830",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jack And Jill",
+          "name": "Jack And Jill xxxxxx 02_OTRRPG.mp3",
+          "time": "820",
+          "size": "13205999"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1932-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jack and Jill"
+    }
+  ]
+}

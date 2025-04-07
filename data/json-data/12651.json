@@ -1,0 +1,105 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "326037",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Show 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "326038",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Show 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "326039",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Show 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "C E Tunes",
+          "name": "C E Tunes 1944.xx.xx Show 3.mp3",
+          "time": "656",
+          "size": "2732482"
+        }
+      ]
+    },
+    {
+      "ide": "326040",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Show 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "C E Tunes",
+          "name": "C E Tunes 1944.xx.xx Show 4.mp3",
+          "time": "698",
+          "size": "2900816"
+        }
+      ]
+    },
+    {
+      "ide": "326041",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Show 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "C E Tunes",
+          "name": "C E Tunes 1944.xx.xx Show 5.mp3",
+          "time": "708",
+          "size": "2941776"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "C E Tunes"
+    }
+  ]
+}

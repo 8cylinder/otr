@@ -1,0 +1,2031 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/College%20Quiz%20Bowl/",
+      "label": "Library Files",
+      "idtype": "16"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,823761,00.html",
+      "label": "1955-02-07: Twelve Straight",
+      "idtype": "11"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Lackmann's book gives the time of the Wednesday's shows as 8:45PM."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "3665",
+      "first": "Allen",
+      "last": "Ludden",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3665",
+      "first": "Allen",
+      "last": "Ludden",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46196",
+      "first": "Roger",
+      "last": "Tuttler",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "The Second Elizabeth' also 'Hurry, Hurry, Hurry'"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "274537",
+      "date": "1953-10-10",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Columbia Vs Northwestern"
+        },
+        {
+          "title": "1st Show Northwestern vs Columbia"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-10-10 (x) Columbia Vs Northwestern.mp3",
+          "time": "1814",
+          "size": "14516471"
+        }
+      ]
+    },
+    {
+      "ide": "274538",
+      "date": "1953-10-17",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wesleyan Vs Northwestern"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-10-17 (x) Wesleyan Vs Northwestern.mp3",
+          "time": "1827",
+          "size": "14615109"
+        }
+      ]
+    },
+    {
+      "ide": "274539",
+      "date": "1953-10-24",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tulane Vs Northwestern"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-10-24 (x) Tulane Vs Northwestern.mp3",
+          "time": "1842",
+          "size": "14738405"
+        }
+      ]
+    },
+    {
+      "ide": "274540",
+      "date": "1953-10-31",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Northwestern"
+        },
+        {
+          "title": "University of Minnesota vs Northwestern"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-10-31 (x) Minnesota Vs Northwestern.mp3",
+          "time": "1831",
+          "size": "14649383"
+        }
+      ]
+    },
+    {
+      "ide": "274541",
+      "date": "1953-11-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Radcliff"
+        },
+        {
+          "title": "University of Minnesota vs Radcliffe"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-11-07 (x) Minnesota Vs Radcliffe.mp3",
+          "time": "1822",
+          "size": "14577908"
+        }
+      ]
+    },
+    {
+      "ide": "158162",
+      "date": "1953-11-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Wisconsin"
+        },
+        {
+          "title": "University of Minnesota vs University of Wisconsin"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-11-14 (x) Minnesota Vs Wisconsin.mp3",
+          "time": "1835",
+          "size": "14681981"
+        }
+      ]
+    },
+    {
+      "ide": "274542",
+      "date": "1953-11-21",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Pennsylvania"
+        },
+        {
+          "title": "The University of Minnesota vs. The University of Pennsylvania"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-11-21 (x) Minnesota Vs Pennsylvania.mp3",
+          "time": "1755",
+          "size": "14038536"
+        }
+      ]
+    },
+    {
+      "ide": "274543",
+      "date": "1953-11-28",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Illinois"
+        },
+        {
+          "title": "The University of Illinois vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-11-28 (x) Minnesota Vs Illinois.mp3",
+          "time": "1822",
+          "size": "14577908"
+        }
+      ]
+    },
+    {
+      "ide": "274544",
+      "date": "1953-12-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs New York"
+        },
+        {
+          "title": "New York University vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-12-05 (x) Minnesota Vs New York.mp3",
+          "time": "1838",
+          "size": "14704341"
+        }
+      ]
+    },
+    {
+      "ide": "274545",
+      "date": "1953-12-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Notre Dame"
+        },
+        {
+          "title": "The University of Minnesota vs. Notre Dame University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-12-12 (x) Minnesota Vs Notre Dame.mp3",
+          "time": "1822",
+          "size": "14573521"
+        }
+      ]
+    },
+    {
+      "ide": "274546",
+      "date": "1953-12-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Georgia"
+        },
+        {
+          "title": "The University of Minnesota vs The University of Georgia"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 53-12-19 (x) Minnesota Vs Georgia.mp3",
+          "time": "1881",
+          "size": "15046021"
+        }
+      ]
+    },
+    {
+      "ide": "274532",
+      "date": "1953-12-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "274547",
+      "date": "1954-01-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brown Vs Michigan"
+        },
+        {
+          "title": "University of Michigan vs Brown/Pembroke University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-01-02 (x) Brown Vs Michigan.mp3",
+          "time": "1830",
+          "size": "14637463"
+        }
+      ]
+    },
+    {
+      "ide": "274533",
+      "date": "1954-01-09",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "274548",
+      "date": "1954-01-16",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brown Vs University of Ohio"
+        },
+        {
+          "title": "Ohio State University vs Brown/Pembroke University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-01-16 (x) Brown Vs University of Ohio.mp3",
+          "time": "1775",
+          "size": "14200079"
+        }
+      ]
+    },
+    {
+      "ide": "274534",
+      "date": "1954-01-23",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "274549",
+      "date": "1954-01-31",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brown Vs Maryland"
+        },
+        {
+          "title": "Brown/Pembroke University vs The University of Maryland"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-01-31 (x) Brown Vs Maryland.mp3",
+          "time": "1774",
+          "size": "14190038"
+        }
+      ]
+    },
+    {
+      "ide": "274550",
+      "date": "1954-02-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brown Vs Smith"
+        },
+        {
+          "title": "Brown/Pembroke University vs. Smith College"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-02-07 (x) Brown Vs Smith.mp3",
+          "time": "1780",
+          "size": "14243534"
+        }
+      ]
+    },
+    {
+      "ide": "274551",
+      "date": "1954-02-14",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Smith Vs Indiana"
+        },
+        {
+          "title": "Indiana University vs. Smith College"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-02-14 (x) Smith Vs Indiana.mp3",
+          "time": "1760",
+          "size": "14080114"
+        }
+      ]
+    },
+    {
+      "ide": "274552",
+      "date": "1954-02-21",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Smith Vs Washington &  Lee"
+        },
+        {
+          "title": "Smith College vs. Washington and Lee University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-02-21 (x) Smith Vs Washington & Lee.mp3",
+          "time": "1799",
+          "size": "14389204"
+        }
+      ]
+    },
+    {
+      "ide": "274553",
+      "date": "1954-02-28",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Washington & Lee Vs Chicago"
+        },
+        {
+          "title": "Washington and Lee University vs. the University of Chicago"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-02-28 (x) Washington & Lee Vs Chicago.mp3",
+          "time": "1807",
+          "size": "14456079"
+        }
+      ]
+    },
+    {
+      "ide": "274554",
+      "date": "1954-03-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Washington & Lee Vs Princeton"
+        },
+        {
+          "title": "Washington and Lee University Vs. Princeton University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-03-07 (x) Washington & Lee Vs Princeton.mp3",
+          "time": "1744",
+          "size": "13952440"
+        }
+      ]
+    },
+    {
+      "ide": "274555",
+      "date": "1954-03-14",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Washington & Lee Vs Barnard"
+        },
+        {
+          "title": "Washington and Lee University Vs. Barnard College"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-03-14 (x) Washington & Lee Vs Barnard.mp3",
+          "time": "1798",
+          "size": "14386280"
+        }
+      ]
+    },
+    {
+      "ide": "274556",
+      "date": "1954-03-21",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Washington & Lee Vs Pittsburgh"
+        },
+        {
+          "title": "Washington and Lee University Vs. the University of Pittsburgh"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-03-21 (x) Washington & Lee Vs Pittsburgh.mp3",
+          "time": "1798",
+          "size": "14381894"
+        }
+      ]
+    },
+    {
+      "ide": "274557",
+      "date": "1954-03-28",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Washington & Lee Vs Syracuse"
+        },
+        {
+          "title": "Washington and Lee University Vs. Syracuse University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-03-28 (x) Washington & Lee Vs Syracuse.mp3",
+          "time": "1794",
+          "size": "14353680"
+        }
+      ]
+    },
+    {
+      "ide": "274558",
+      "date": "1954-04-04",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Syracuse Vs University of Colorado"
+        },
+        {
+          "title": "Syracuse University vs. The University of Colorado"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-04-04 (x) Syracuse Vs Colorado.mp3",
+          "time": "1776",
+          "size": "14210953"
+        }
+      ]
+    },
+    {
+      "ide": "274535",
+      "date": "1954-04-11",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "274536",
+      "date": "1954-04-18",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "274559",
+      "date": "1954-10-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Syracuse Vs Trinity College"
+        },
+        {
+          "title": "Syracuse University vs. Trinity College"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-10-23 (x) Syracuse Vs Trinity College.mp3",
+          "time": "1744",
+          "size": "13953901"
+        }
+      ]
+    },
+    {
+      "ide": "274560",
+      "date": "1954-10-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Syracuse Vs Bernard"
+        },
+        {
+          "title": "Barnard College vs. Syracuse University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-10-30 (x) Syracuse Vs Barnard.mp3",
+          "time": "1726",
+          "size": "13809697"
+        }
+      ]
+    },
+    {
+      "ide": "274561",
+      "date": "1954-11-06",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Syracuse Vs Georgetown"
+        },
+        {
+          "title": "Georgetown University vs. Syracuse University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-11-06 (x) Syracuse Vs Georgetown.mp3",
+          "time": "1727",
+          "size": "13817223"
+        }
+      ]
+    },
+    {
+      "ide": "274562",
+      "date": "1954-11-13",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Georgetown Vs Minnesota"
+        },
+        {
+          "title": "Georgetown University vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-11-13 (x) Georgetown Vs Minnesota.mp3",
+          "time": "1722",
+          "size": "13778964"
+        }
+      ]
+    },
+    {
+      "ide": "274563",
+      "date": "1954-11-20",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Georgetown Vs Minnesota"
+        },
+        {
+          "title": "Georgetown University vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-11-20 (x) Georgetown Vs Minnesota.mp3",
+          "time": "1740",
+          "size": "13918228"
+        }
+      ]
+    },
+    {
+      "ide": "274564",
+      "date": "1954-11-27",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Smith"
+        },
+        {
+          "title": "Smith College vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-11-27 (x) Minnesota Vs Smith.mp3",
+          "time": "1743",
+          "size": "13946900"
+        }
+      ]
+    },
+    {
+      "ide": "274565",
+      "date": "1954-12-04",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Georgia"
+        },
+        {
+          "title": "The University of Georgia vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-12-04 (x) Minnesota Vs Georgia.mp3",
+          "time": "1745",
+          "size": "13963284"
+        }
+      ]
+    },
+    {
+      "ide": "274566",
+      "date": "1954-12-11",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Northwestern"
+        },
+        {
+          "title": "Northwestern University vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-12-11 (x) Minnesota Vs Northwestern .mp3",
+          "time": "1730",
+          "size": "13842452"
+        }
+      ]
+    },
+    {
+      "ide": "274567",
+      "date": "1954-12-18",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Washington & Lee"
+        },
+        {
+          "title": "Washington and Lee University vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-12-18 (x) Minnesota Vs Washington & Lee.mp3",
+          "time": "1712",
+          "size": "13701140"
+        }
+      ]
+    },
+    {
+      "ide": "274568",
+      "date": "1954-12-25",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Wesleyan"
+        },
+        {
+          "title": "Wesleyan University vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-12-25 (x) Minnesota Vs Wesleyan.mp3",
+          "time": "1733",
+          "size": "13864980"
+        }
+      ]
+    },
+    {
+      "ide": "274569",
+      "date": "1954-12-31",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Colorado"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 54-12-31 (x) Minnesota Vs Colorado.mp3",
+          "time": "1447",
+          "size": "11580514"
+        }
+      ]
+    },
+    {
+      "ide": "274570",
+      "date": "1955-01-01",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Colorado"
+        },
+        {
+          "title": "The University of Colorado vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-01-01 (x) Minnesota Vs Colorado.mp3",
+          "time": "1698",
+          "size": "13588500"
+        }
+      ]
+    },
+    {
+      "ide": "274571",
+      "date": "1955-01-08",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Tulane & Newcomb"
+        },
+        {
+          "title": "Tulane/Newcombe University vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-01-08 (x) Minnesota Vs Tulane & Newcomb.mp3",
+          "time": "1740",
+          "size": "13921093"
+        }
+      ]
+    },
+    {
+      "ide": "274572",
+      "date": "1955-01-15",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brown Vs Minnesota"
+        },
+        {
+          "title": "Brown/Pembroke University vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-01-15 (x) Brown Vs Minnesota.mp3",
+          "time": "1756",
+          "size": "14046052"
+        }
+      ]
+    },
+    {
+      "ide": "274573",
+      "date": "1955-01-22",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Illinois"
+        },
+        {
+          "title": "University of Illinois vs. University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-01-22 (x) Minnesota Vs Illinois.mp3",
+          "time": "1759",
+          "size": "14070923"
+        }
+      ]
+    },
+    {
+      "ide": "274574",
+      "date": "1955-01-29",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Rutgers"
+        },
+        {
+          "title": "Rutgers vs. The University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-01-29 (x) Minnesota Vs Rutgers.mp3",
+          "time": "1763",
+          "size": "14101016"
+        }
+      ]
+    },
+    {
+      "ide": "274575",
+      "date": "1955-02-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Princeton"
+        },
+        {
+          "title": "Princeton University vs. the University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-02-05 (x) Minnesota Vs Princeton.mp3",
+          "time": "1763",
+          "size": "14102480"
+        }
+      ]
+    },
+    {
+      "ide": "274576",
+      "date": "1955-02-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Oberlin"
+        },
+        {
+          "title": "Oberlin College vs. the University of Minnesota"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-02-12 (x) Minnesota Vs Oberlin.mp3",
+          "time": "1711",
+          "size": "13684937"
+        }
+      ]
+    },
+    {
+      "ide": "274577",
+      "date": "1955-02-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oberlin Vs Mt Holyoke"
+        },
+        {
+          "title": "Oberlin College vs. Mount Holyoke College"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-02-19 (x) Oberlin Vs Mt Holyoke.mp3",
+          "time": "1802",
+          "size": "14417412"
+        }
+      ]
+    },
+    {
+      "ide": "274578",
+      "date": "1955-02-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mt Holyoke Vs Notre Dame"
+        },
+        {
+          "title": "Mount Holyoke College vs. Notre Dame"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-02-26 (x) Mt Holyoke Vs Notre Dame.mp3",
+          "time": "1773",
+          "size": "14184193"
+        }
+      ]
+    },
+    {
+      "ide": "274579",
+      "date": "1955-03-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mt Holyoke Vs Colgate"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-03-05 (x) Mt Holyoke Vs Colgate.mp3",
+          "time": "1771",
+          "size": "14166427"
+        }
+      ]
+    },
+    {
+      "ide": "274580",
+      "date": "1955-03-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Columbia"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-03-12 (x) Colgate Vs Columbia.mp3",
+          "time": "1763",
+          "size": "14101015"
+        }
+      ]
+    },
+    {
+      "ide": "274581",
+      "date": "1955-03-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Cornell"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-03-19 (x) Colgate Vs Cornell.mp3",
+          "time": "1777",
+          "size": "14213862"
+        }
+      ]
+    },
+    {
+      "ide": "274582",
+      "date": "1955-03-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Duke"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-03-26 (x) Colgate Vs Duke.mp3",
+          "time": "1752",
+          "size": "14019299"
+        }
+      ]
+    },
+    {
+      "ide": "274583",
+      "date": "1955-04-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Georgetown"
+        },
+        {
+          "title": "Georgetown University vs. Colgate University"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "274584",
+      "date": "1955-04-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Mt Holyoke"
+        },
+        {
+          "title": "Mount Holyoke College vs. Colgate University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-04-09 (x) Colgate Vs Mt Holyoke.mp3",
+          "time": "1760",
+          "size": "14076775"
+        }
+      ]
+    },
+    {
+      "ide": "274585",
+      "date": "1955-04-16",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mt Holyoke vs Hamilton"
+        },
+        {
+          "title": "Mount Holyoke College vs. Hamilton College"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-04-16 (x) Mt Holyoke Vs Hamilton.mp3",
+          "time": "1759",
+          "size": "14069671"
+        }
+      ]
+    },
+    {
+      "ide": "274586",
+      "date": "1955-04-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mt Holyoak Vs Syracuse"
+        },
+        {
+          "title": "Mount Holyoke College vs. The University of Syracuse"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-04-23 (x) Mt Holyoke Vs Syracuse.mp3",
+          "time": "1812",
+          "size": "14494735"
+        }
+      ]
+    },
+    {
+      "ide": "274587",
+      "date": "1955-04-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Syracuse Vs Goucher"
+        },
+        {
+          "title": "Goucher College vs. Syracuse University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-04-30 (x) Syracuse Vs Goucher.mp3",
+          "time": "1779",
+          "size": "14234761"
+        }
+      ]
+    },
+    {
+      "ide": "274588",
+      "date": "1955-05-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Syracuse Vs Fordham"
+        },
+        {
+          "title": "Fordham University vs. Syracuse University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-05-07 (x) Syracuse Vs Fordham.mp3",
+          "time": "1760",
+          "size": "14077191"
+        }
+      ]
+    },
+    {
+      "ide": "274589",
+      "date": "1955-05-11",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Syracuse vs Trinity"
+        },
+        {
+          "title": "Trinity College vs. Syracuse University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-05-11 (x) Syracuse Vs Trinity.mp3",
+          "time": "1464",
+          "size": "11709870"
+        }
+      ]
+    },
+    {
+      "ide": "274590",
+      "date": "1955-05-18",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Syracuse Vs Bernard"
+        },
+        {
+          "title": "Barnard College vs. Syracuse University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-05-18 (x) Syracuse Vs Barnard .mp3",
+          "time": "1513",
+          "size": "6052178"
+        }
+      ]
+    },
+    {
+      "ide": "274591",
+      "date": "1955-05-25",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Georgetown Vs Syracuse"
+        },
+        {
+          "title": "Georgetown University vs Syracuse University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-05-25 (x) Georgetown Vs Syracuse .mp3",
+          "time": "1540",
+          "size": "6161427"
+        }
+      ]
+    },
+    {
+      "ide": "274592",
+      "date": "1955-06-01",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Georgetown"
+        },
+        {
+          "title": "The University of Minnesota vs. Georgetown University"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-06-01 (x) Minnesota Vs Georgetown .mp3",
+          "time": "1448",
+          "size": "23175198"
+        }
+      ]
+    },
+    {
+      "ide": "274593",
+      "date": "1955-06-08",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Georgetown"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-06-08 (x) Minnesota Vs Georgetown .mp3",
+          "time": "1441",
+          "size": "23056414"
+        }
+      ]
+    },
+    {
+      "ide": "274594",
+      "date": "1955-06-15",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Northwestern"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-06-15 (x) Minnesota Vs Northwestern .mp3",
+          "time": "1469",
+          "size": "23504926"
+        }
+      ]
+    },
+    {
+      "ide": "274595",
+      "date": "1955-06-22",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Colorado"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-06-22 (x) Minnesota Vs Colorado .mp3",
+          "time": "1456",
+          "size": "23304222"
+        }
+      ]
+    },
+    {
+      "ide": "274596",
+      "date": "1955-06-29",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Brown"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-06-29 (x) Minnesota Vs Brown .mp3",
+          "time": "1466",
+          "size": "23459870"
+        }
+      ]
+    },
+    {
+      "ide": "274597",
+      "date": "1955-07-06",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Illinois"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-07-06 (x) Minnesota Vs Illinois.mp3",
+          "time": "1489",
+          "size": "11916344"
+        }
+      ]
+    },
+    {
+      "ide": "274598",
+      "date": "1955-07-13",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Princeton"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-07-13 (x) Minnesota Vs Princeton.mp3",
+          "time": "1490",
+          "size": "11923868"
+        }
+      ]
+    },
+    {
+      "ide": "274599",
+      "date": "1955-07-20",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minnesota Vs Oberlin"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-07-20 (x) Minnesota Vs Oberlin.mp3",
+          "time": "1456",
+          "size": "11647386"
+        }
+      ]
+    },
+    {
+      "ide": "274600",
+      "date": "1955-07-27",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oberlin Vs Mt Holyoak"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-07-27 (x) Oberlin Vs Mt Holyoke.mp3",
+          "time": "1460",
+          "size": "11678734"
+        }
+      ]
+    },
+    {
+      "ide": "274601",
+      "date": "1955-08-03",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mt Holyoak Vs Notre Dame"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-08-03 (x) Mt Holyoke Vs Notre Dame.mp3",
+          "time": "1464",
+          "size": "11715726"
+        }
+      ]
+    },
+    {
+      "ide": "274602",
+      "date": "1955-08-10",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mt Holyoak Vs Colgate"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-08-10 (x) Mt Holyoke Vs Colgate.mp3",
+          "time": "1442",
+          "size": "11534538"
+        }
+      ]
+    },
+    {
+      "ide": "274603",
+      "date": "1955-08-17",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Columbia"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-08-17 (x) Colgate Vs Columbia.mp3",
+          "time": "1454",
+          "size": "11634010"
+        }
+      ]
+    },
+    {
+      "ide": "274604",
+      "date": "1955-08-24",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Duke"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-08-24 (x) Colgate Vs Duke.mp3",
+          "time": "1447",
+          "size": "11573193"
+        }
+      ]
+    },
+    {
+      "ide": "274605",
+      "date": "1955-08-31",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Mt Holyoak"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-08-31 (x) Colgate Vs Mt Holyoke.mp3",
+          "time": "1473",
+          "size": "11784269"
+        }
+      ]
+    },
+    {
+      "ide": "274606",
+      "date": "1955-09-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mt Holyoak Vs Hamilton"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-09-07 (x) Mt Holyoke Vs Hamilton.mp3",
+          "time": "1450",
+          "size": "11604338"
+        }
+      ]
+    },
+    {
+      "ide": "274607",
+      "date": "1955-09-14",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mt Holyoak Vs Syracuse"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-09-14 (x) Mt Holyoke Vs Syracuse.mp3",
+          "time": "1462",
+          "size": "11693573"
+        }
+      ]
+    },
+    {
+      "ide": "274608",
+      "date": "1955-09-21",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Syracuse vs Goucher"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-09-21 (x) Syracuse Vs Goucher.mp3",
+          "time": "1454",
+          "size": "11632548"
+        }
+      ]
+    },
+    {
+      "ide": "274609",
+      "date": "1955-09-28",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fordham Vs Washington & Lee"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-09-28 (x) Fordham Vs Washington & Lee.mp3",
+          "time": "1454",
+          "size": "11635481"
+        }
+      ]
+    },
+    {
+      "ide": "274610",
+      "date": "1955-10-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Washington & Lee Vs Northwestern"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-10-05 (x) Washington & Lee Vs Northwestern.mp3",
+          "time": "1425",
+          "size": "11402265"
+        }
+      ]
+    },
+    {
+      "ide": "274611",
+      "date": "1955-10-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Washington & Lee vs Hobart & William Smith"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-10-12 (x) Washington & Lee Vs Hobart & William Smith.mp3",
+          "time": "1421",
+          "size": "11366540"
+        }
+      ]
+    },
+    {
+      "ide": "274612",
+      "date": "1955-10-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hobart & William Smith Vs Oberlin"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-10-19 (x) Hobart & William Smith Vs Oberlin.mp3",
+          "time": "1436",
+          "size": "11491500"
+        }
+      ]
+    },
+    {
+      "ide": "274613",
+      "date": "1955-10-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oberlin Vs Brown-Pemboke"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-10-26 (x) Oberlin Vs Brown-Pembroke.mp3",
+          "time": "1433",
+          "size": "11463279"
+        }
+      ]
+    },
+    {
+      "ide": "274614",
+      "date": "1955-11-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oberlin Vs Mt Holyoak"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-11-02 (x) Oberlin Vs Mt Holyoke.mp3",
+          "time": "1463",
+          "size": "11708409"
+        }
+      ]
+    },
+    {
+      "ide": "274615",
+      "date": "1955-11-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mt Holyoak Vs Colgate"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-11-09 (x) Mt Holyoke Vs Colgate.mp3",
+          "time": "1437",
+          "size": "11498803"
+        }
+      ]
+    },
+    {
+      "ide": "274616",
+      "date": "1955-11-16",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Princeton"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-11-16 (x) Colgate Vs Princeton.mp3",
+          "time": "1436",
+          "size": "11486890"
+        }
+      ]
+    },
+    {
+      "ide": "274617",
+      "date": "1955-11-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Weslyan"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-11-23 (x) Colgate Vs Wesleyan.mp3",
+          "time": "1442",
+          "size": "11535998"
+        }
+      ]
+    },
+    {
+      "ide": "274618",
+      "date": "1955-11-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Colgate Vs Georgetown"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "274619",
+      "date": "1955-12-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Georgetown Vs Chicago"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "274620",
+      "date": "1955-12-14",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chicago Vs Syracuse"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "College Quiz Bowl",
+          "name": "College Quiz Bowl 55-12-14 (x) Chicago Vs Syracuse.mp3",
+          "time": "1423",
+          "size": "11383026"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Game Show"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "College Quiz Bowl"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/America Dances/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "245737",
+      "date": "1938-07-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "America Dances - With Count Basie"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "America Dances",
+          "name": "America Dances 38-07-06 With Count Basie.mp3",
+          "time": "1465",
+          "size": "5861287"
+        }
+      ]
+    },
+    {
+      "ide": "316394",
+      "date": "1939-07-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Shorty George"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "America Dances",
+          "name": "America Dances 39-07-19 First Song - Shorty George.mp3",
+          "time": "1744",
+          "size": "6979440"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "America Dances"
+    }
+  ]
+}

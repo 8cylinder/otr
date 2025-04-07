@@ -1,0 +1,833 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Adventures of Rin-Tin-Tin/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Rin Tin Tin/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19541955day.html",
+      "label": "Daytime Ratings: (1954-1955: #16)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-475-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "869",
+      "first": "Francis X.",
+      "last": "Bushman",
+      "f": "Noted Role",
+      "character": "Second Run"
+    },
+    {
+      "idperson": "6305",
+      "first": "Bob",
+      "last": "White",
+      "f": "Noted Role",
+      "character": "First Run"
+    },
+    {
+      "idperson": "10377",
+      "first": "James",
+      "last": "Brown",
+      "f": "Noted Role",
+      "character": "Fourth Run"
+    },
+    {
+      "idperson": "39447",
+      "first": "Lee",
+      "last": "Aaker",
+      "f": "Noted Role",
+      "character": "Fourth Run"
+    },
+    {
+      "idperson": "39625",
+      "first": "Don",
+      "last": "Ameche",
+      "f": "Noted Role",
+      "character": "Second Run"
+    },
+    {
+      "idperson": "47629",
+      "first": "Lee",
+      "last": "Duncan",
+      "f": "Noted Role",
+      "character": "First Run"
+    },
+    {
+      "idperson": "49262",
+      "first": "Junior",
+      "last": "McLain",
+      "f": "Noted Role",
+      "character": "Second Run"
+    },
+    {
+      "idperson": "50853",
+      "first": "Tom",
+      "last": "Corwine",
+      "f": "Noted Role",
+      "character": "First Run"
+    },
+    {
+      "idperson": "50854",
+      "first": "Don",
+      "last": "Morris",
+      "f": "Noted Role",
+      "character": "Third Run"
+    },
+    {
+      "idperson": "50854",
+      "first": "Don",
+      "last": "Morris",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Bugle Call"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "289857",
+      "date": "1955-01-02",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Blood Brothers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289858",
+      "date": "1955-01-09",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RinTin Tin and the Sacred Lance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289859",
+      "date": "1955-01-16",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RinTin Tin and the Medicine Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289860",
+      "date": "1955-01-23",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Shifting Sands, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289861",
+      "date": "1955-01-30",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "289862",
+      "date": "1955-02-06",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Flaming Forest, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289863",
+      "date": "1955-02-13",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Raging River, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289864",
+      "date": "1955-02-20",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eagle's Nest, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289865",
+      "date": "1955-02-27",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer Cat, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289866",
+      "date": "1955-03-06",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Education of Cpl Rusty, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289867",
+      "date": "1955-03-13",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rusty's romance with major's daughter causes problems"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289868",
+      "date": "1955-03-20",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rin Tin Tin, Outlaw"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289869",
+      "date": "1955-03-27",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Outcast of Fort Apache, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289870",
+      "date": "1955-04-03",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Raw Recruit, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289871",
+      "date": "1955-04-10",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rusty Plays Cupid"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289872",
+      "date": "1955-04-17",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Babe in the Woods"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289873",
+      "date": "1955-04-24",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cpl Rusty, the honorarytakes a serious step today"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289874",
+      "date": "1955-05-01",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Legacy of Sean O'Hara, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289875",
+      "date": "1955-05-08",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Blushing Bride, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289876",
+      "date": "1955-05-15",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guilty One, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289877",
+      "date": "1955-05-22",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ghost Town, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289878",
+      "date": "1955-05-29",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ancient Mariner, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289879",
+      "date": "1955-06-05",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RinTin Tin and the Barber of Seville"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289880",
+      "date": "1955-06-12",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Magic Box, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289881",
+      "date": "1955-06-19",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Bandit Kingdom, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289882",
+      "date": "1955-06-26",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Printer's Devil, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289883",
+      "date": "1955-07-03",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "289884",
+      "date": "1955-07-10",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sacred Lance, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289885",
+      "date": "1955-07-17",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "RinTin Tin and the Medicine Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289886",
+      "date": "1955-07-24",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "289887",
+      "date": "1955-07-31",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Wolf Cry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289888",
+      "date": "1955-08-07",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Education of Cpl Rusty, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289889",
+      "date": "1955-08-14",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rin Tin Tin, Outlaw"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289890",
+      "date": "1955-08-21",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Outcast of Fort Apache, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289891",
+      "date": "1955-08-28",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Babe in the Woods"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289892",
+      "date": "1955-09-04",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rusty Resigns From the Army"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289893",
+      "date": "1955-09-11",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Legacy of Sean O'Hara, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289894",
+      "date": "1955-09-18",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ghost Town, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289895",
+      "date": "1955-09-25",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Printer's Devil, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289896",
+      "date": "1955-10-02",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rin Tin Tin and the Dead Man's Gold"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289897",
+      "date": "1955-10-09",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rin Tin Tin and the Lost Scotchman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289898",
+      "date": "1955-10-16",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "289899",
+      "date": "1955-10-23",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "289900",
+      "date": "1955-10-30",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rin Tin Tin Meets Shakespeare"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289901",
+      "date": "1955-11-06",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Wild Stallion, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289907",
+      "date": "1955-11-13",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ambassador, The"
+        },
+        {
+          "title": "Don Cortez"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures of Rin-Tin-Tin",
+          "name": "Rin Tin Tin 55-11-13 (x) The Ambassador.mp3",
+          "time": "1763",
+          "size": "7055330"
+        },
+        {
+          "path": "R",
+          "folder": "Rin Tin Tin",
+          "name": "Rin Tin Tin 55-11-13 The Ambassador.mp3",
+          "time": "1746",
+          "size": "6983271"
+        }
+      ]
+    },
+    {
+      "ide": "289902",
+      "date": "1955-11-20",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Poor Little Rich Boy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289908",
+      "date": "1955-11-27",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "White Buffalo, The"
+        },
+        {
+          "title": "Rin Tin Tin and the White Buffalo"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures of Rin-Tin-Tin",
+          "name": "Rin Tin Tin 55-11-27 (x) The White Buffalo.mp3",
+          "time": "1755",
+          "size": "7025066"
+        },
+        {
+          "path": "R",
+          "folder": "Rin Tin Tin",
+          "name": "Rin Tin Tin 55-11-27 The White Buffalo.mp3",
+          "time": "1735",
+          "size": "6940119"
+        }
+      ]
+    },
+    {
+      "ide": "289903",
+      "date": "1955-12-04",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Farmer's Daughter, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289904",
+      "date": "1955-12-11",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "289905",
+      "date": "1955-12-18",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Burial Ground"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "289906",
+      "date": "1955-12-25",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1930-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1955-01-02",
+      "dow": "",
+      "time": "",
+      "end": "1956-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1934-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1934-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Ken-L-Ration",
+      "begin": "1930-04-05",
+      "end": "1934-05-20"
+    },
+    {
+      "sponsor": "Milk Bone Dog Biscuits",
+      "begin": "1955-01-02",
+      "end": "1955-12-24"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Adventures of Rin Tin Tin, The"
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "GORD"
+    }
+  ],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3747",
+      "first": "Gordon",
+      "last": "MacRae",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "6527",
+      "first": "Victor",
+      "last": "Young",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "436",
+      "idtype": "4",
+      "page": "10",
+      "article": "",
+      "url": "",
+      "date": "1996-11-01",
+      "source": "Hello Again/HA_V27_(06)NovDec96.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 27 #06 Nov/Dec 1996",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Life Is A Song, Let's Sing It (when Gulf Spray)"
+    },
+    {
+      "theme": "Penthouse Serenade"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "320049",
+      "date": "1946-05-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Patty Clayton"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Skyline Roof",
+          "name": "Skyline Roof 46-05-06 Guest - Patty Clayton.mp3",
+          "time": "890",
+          "size": "14243850"
+        }
+      ]
+    },
+    {
+      "ide": "320050",
+      "date": "1946-05-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Larry Cotton"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Skyline Roof",
+          "name": "Skyline Roof 46-05-23 Guest - Larry Cotton.mp3",
+          "time": "893",
+          "size": "14290954"
+        }
+      ]
+    },
+    {
+      "ide": "320051",
+      "date": "1946-07-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Martha King"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Skyline Roof",
+          "name": "Skyline Roof 46-07-18 Guest - Martha King.mp3",
+          "time": "893",
+          "size": "14290954"
+        }
+      ]
+    },
+    {
+      "ide": "320052",
+      "date": "1946-08-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - The Murphy Sisters"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Skyline Roof",
+          "name": "Skyline Roof 46-08-09 Guests - The Murphy Sisters.mp3",
+          "time": "861",
+          "size": "13770762"
+        }
+      ]
+    },
+    {
+      "ide": "320053",
+      "date": "1946-08-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Patty Clayton"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Skyline Roof",
+          "name": "Skyline Roof 46-08-13 Guest - Patty Clayton.mp3",
+          "time": "877",
+          "size": "14028810"
+        }
+      ]
+    },
+    {
+      "ide": "320054",
+      "date": "1946-08-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Norman Paris"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Skyline Roof",
+          "name": "Skyline Roof 46-08-14 Guest - Norman Paris.mp3",
+          "time": "875",
+          "size": "14002186"
+        }
+      ]
+    },
+    {
+      "ide": "320055",
+      "date": "1946-08-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Romo Vincent"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Skyline Roof",
+          "name": "Skyline Roof 46-08-15 Guest - Romo Vincent.mp3",
+          "time": "882",
+          "size": "14118922"
+        }
+      ]
+    },
+    {
+      "ide": "68966",
+      "date": "1948-01-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Near You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68967",
+      "date": "1948-01-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Best Things In Life Are Free"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68968",
+      "date": "1948-01-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You Are My Sunshine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68969",
+      "date": "1948-01-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bongo, Bongo, Bongo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68970",
+      "date": "1948-02-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - She's Too Fat For Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "249109",
+      "date": "1948-02-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Manana"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68972",
+      "date": "1948-02-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm A-Comin' A-Courting, Corabelle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "249110",
+      "date": "1948-03-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Manana"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68976",
+      "date": "1948-03-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Looking Over A Four Leaf Clover"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68977",
+      "date": "1948-03-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bye Bye Blackbird"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68978",
+      "date": "1948-04-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Blue Skies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68979",
+      "date": "1948-04-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Dickie Bird Song"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68980",
+      "date": "1948-04-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Baby Face"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68981",
+      "date": "1948-04-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Somebody Stole My Gal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68983",
+      "date": "1948-05-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - My Blue Heaven"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68984",
+      "date": "1948-05-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sweet Sue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68985",
+      "date": "1948-05-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - June Is Busting Out All Over"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68987",
+      "date": "1948-06-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jimmy Durante"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68988",
+      "date": "1948-06-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Put 'Em In A Box"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68989",
+      "date": "1948-06-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - When The Red Red Robin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68990",
+      "date": "1948-06-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Yankee Doodle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68991",
+      "date": "1948-07-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - A Most Unusual Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68992",
+      "date": "1948-07-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Woody Woodpecker Song"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68993",
+      "date": "1948-07-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Highway To Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68994",
+      "date": "1948-08-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Top Hat, White Tie And Tails"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68996",
+      "date": "1948-08-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - It's A Most Unusual Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68997",
+      "date": "1948-08-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You Call Everybody Darling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68998",
+      "date": "1948-09-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Little Girl"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "68999",
+      "date": "1948-09-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Ramblin' Rose"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "69000",
+      "date": "1948-09-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hair Of Gold, Eyes Of Blue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "313663",
+      "date": "1949-12-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song 'The Riff Song'. Guest, Jo Stafford"
+        },
+        {
+          "title": "The 1949 Christmas Seal Campaign"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gordon MacRae",
+          "name": "Gordon MacRae Show 49xxxx 1st; 'The Rif Song'. The 1949 Christmas Seal Campaign.mp3",
+          "time": "856",
+          "size": "13776293"
+        },
+        {
+          "path": "G",
+          "folder": "Gordon MacRae",
+          "name": "Gordon MacRae Show [Christmas Seal Program] 491212 1st Song 'The Riff Song'. Guest, Jo Stafford (128-44)_OTRRPG.mp3",
+          "time": "857",
+          "size": "13717173"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-03-24",
+      "dow": "",
+      "time": "",
+      "end": "1948-09-15",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1948-01-04",
+      "dow": "Su",
+      "time": "9:30 PM",
+      "end": "1948-03-21",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-08-19",
+      "dow": "M,Tu,W,Th,F",
+      "time": "6:30 PM",
+      "end": "1946-09-20",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-12-03",
+      "dow": "M,Tu,W,Th,F",
+      "time": "4:30 AM",
+      "end": "1946-03-21",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Texas Company (Texaco)",
+      "begin": "1948-03-24",
+      "end": "1948-09-15"
+    },
+    {
+      "sponsor": "Gulf Spray",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    },
+    {
+      "sponsor": "General Foods",
+      "begin": "1947-00-00",
+      "end": "1948-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Gordon MacRae - Texaco Star Theater"
+    },
+    {
+      "title": "Gordon MacRae Show, The (Skyline Roof)"
+    },
+    {
+      "title": "Gordon MacRae Gulf Spray Show, The"
+    },
+    {
+      "title": "The Gordon MacRae Show"
+    }
+  ]
+}

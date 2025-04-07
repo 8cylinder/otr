@@ -1,0 +1,240 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mitch Miller Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Sing Along With Mitch/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4157",
+      "first": "Mitch",
+      "last": "Miller",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "320038",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First song- I've Been Working On The Railroad"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sing Along With Mitch",
+          "name": "Sing Along with Mitch xx-xx-xx (02) First song- I've Been Working On The Railroad.mp3",
+          "time": "1529",
+          "size": "12235945"
+        }
+      ]
+    },
+    {
+      "ide": "312345",
+      "date": "1960-09-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alan Bunce - Ralph Bellamy - Dore Sheary"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mitch Miller Show",
+          "name": "Mitch Miller 1960-09-25 CLIP Alan Bunce - Ralph Bellamy - Dore Sheary.mp3",
+          "time": "2196",
+          "size": "30843412"
+        }
+      ]
+    },
+    {
+      "ide": "246694",
+      "date": "1961-07-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mitch Miller Show - Guest - Jonathan Winters"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mitch Miller Show",
+          "name": "Mitch Miller Show 610715 xxx Guest - Jonathan Winters (dup)_OTRRPG.mp3",
+          "time": "2507",
+          "size": "40112256"
+        },
+        {
+          "path": "M",
+          "folder": "Mitch Miller Show",
+          "name": "Mitch Miller Show 61-07-15- Guest - Jonathan Winters.mp3",
+          "time": "2627",
+          "size": "42025751"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Mitch Miller Show 61-07-15 Guest - Jonathan Winters.mp3",
+          "time": "2507",
+          "size": "20055979"
+        }
+      ]
+    },
+    {
+      "ide": "246693",
+      "date": "1961-07-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mitch Miller Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mitch Miller Show",
+          "name": "Mitch Miller Show 61-07-20.mp3",
+          "time": "2638",
+          "size": "42207536"
+        }
+      ]
+    },
+    {
+      "ide": "311170",
+      "date": "1961-07-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Show of Series"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mitch Miller Show",
+          "name": "Mitch Miller Show 610729 xxx Last Show of Series _OTRRPG.mp3",
+          "time": "2536",
+          "size": "40648849"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Mitch Miller Show 61-07-29 Last Show of Series.mp3",
+          "time": "2538",
+          "size": "20302784"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1955-06-26",
+      "dow": "Su",
+      "time": "",
+      "end": "1960-00-00",
+      "length": "45",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1960-00-00",
+      "dow": "Sa",
+      "time": "",
+      "end": "1961-07-29",
+      "length": "45",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Kraft",
+      "begin": "1955-06-26",
+      "end": "1955-09-04"
+    },
+    {
+      "sponsor": "Sustained",
+      "begin": "1955-09-04",
+      "end": "1960-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Mitch Miller"
+    },
+    {
+      "title": "The Mitch Miller Show"
+    }
+  ]
+}

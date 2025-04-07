@@ -1,0 +1,3394 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324045015-e14372cf.jpg",
+      "label": "Adventuires of Paul Temple",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/pt_.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logp1003.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/P Series/Paul Temple/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "46691",
+      "first": "Peter",
+      "last": "Coke",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "760",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1998-06-01",
+      "source": "Illustrated Press/IP_261.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#261) - Jun 1998",
+      "author": ""
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "1555",
+      "idtype": "4",
+      "page": "28",
+      "article": "",
+      "url": "",
+      "date": "1985-05-01",
+      "source": "OTR Digest_1980s/OTRDigest_(009)MayJun85.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (09) May-Jun 1985",
+      "author": ""
+    },
+    {
+      "idprint": "2551",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1984-05-01",
+      "source": "Return With Us Now/RWUN V09 11 May84.pdf",
+      "idpytype2": "4",
+      "title": "Return With Us Now - Vol 9 #11 May 1984",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "89",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "141",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "149",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "116703",
+      "date": "1938-04-08",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Send For Paul Temple - Part 1 of 8"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1938-04-08 - (001) - Send For Paul Temple - Part 1 of 8.mp3",
+          "time": "2049",
+          "size": "24588298"
+        }
+      ]
+    },
+    {
+      "ide": "116704",
+      "date": "1938-04-14",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple - Part 2 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116705",
+      "date": "1938-04-22",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple - Part 3 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116706",
+      "date": "1938-04-29",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple - Part 4 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116707",
+      "date": "1938-05-06",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple - Part 5 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116708",
+      "date": "1938-05-13",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Send For Paul Temple - Part 6 of 8 - The First Penguin"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1938-05-13 - (006) - Send For Paul Temple - Part 6 of 8 - The First Penguin.mp3",
+          "time": "2244",
+          "size": "26931210"
+        }
+      ]
+    },
+    {
+      "ide": "116709",
+      "date": "1938-05-20",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Send For Paul Temple - Part 7 of 8"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1938-05-20 - (007) - Send For Paul Temple - Part 7 of 8.mp3",
+          "time": "2235",
+          "size": "26824714"
+        }
+      ]
+    },
+    {
+      "ide": "116710",
+      "date": "1938-05-27",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Send For Paul Temple - Part 8 of 8"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1938-05-27 - (008) - Send For Paul Temple - Part 8 of 8.mp3",
+          "time": "2237",
+          "size": "26845194"
+        }
+      ]
+    },
+    {
+      "ide": "116711",
+      "date": "1938-11-02",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Front Page Men - Part 1 of 8"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1938-11-02 - (009) - The Front Page Men - Part 1 of 8.mp3",
+          "time": "2156",
+          "size": "17246218"
+        }
+      ]
+    },
+    {
+      "ide": "116712",
+      "date": "1938-11-09",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Front Page Men - Part 2 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116713",
+      "date": "1938-11-16",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Front Page Men - Part 3 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116714",
+      "date": "1938-11-24",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Front Page Men - Part 4 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116715",
+      "date": "1938-11-30",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Front Page Men - Part 5 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116716",
+      "date": "1938-12-07",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Front Page Men - Part 6 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116717",
+      "date": "1938-12-14",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Front Page Men - Part 7 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116718",
+      "date": "1938-12-21",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Front Page Men - Part 8 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116719",
+      "date": "1939-11-13",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News Of Paul Temple - Part 1 of 6 - The Stage is Set"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1939-11-13 - (017) - News Of Paul Temple - Part 1 of 6 - The Stage is Set.mp3",
+          "time": "4008",
+          "size": "32065546"
+        }
+      ]
+    },
+    {
+      "ide": "116720",
+      "date": "1939-11-20",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News Of Paul Temple - Part 2 of 6 -  Concerning Z4"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1939-11-20 - (018) - News Of Paul Temple - Part 2 of 6 -  Concerning Z4.mp3",
+          "time": "3725",
+          "size": "29802506"
+        }
+      ]
+    },
+    {
+      "ide": "116721",
+      "date": "1939-11-27",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News Of Paul Temple - Part 3 of 6 - Instructions For Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1939-11-27 - (019) - News Of Paul Temple - Part 3 of 6 - Instructions For Murder.mp3",
+          "time": "3743",
+          "size": "29941770"
+        }
+      ]
+    },
+    {
+      "ide": "116722",
+      "date": "1939-12-04",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News Of Paul Temple - Part 4 of 6 - Appointment With Danger"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1939-12-04 - (020) - News Of Paul Temple - Part 4 of 6 - Appointment With Danger.mp3",
+          "time": "3997",
+          "size": "31979530"
+        }
+      ]
+    },
+    {
+      "ide": "116723",
+      "date": "1939-12-11",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News Of Paul Temple - Part 5 of 6 - In Which Mrs Moffatt Receives A Visitor"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1939-12-11 - (021) - News Of Paul Temple - Part 5 of 6 - In Which Mrs Moffatt Receives A Visitor.mp3",
+          "time": "3974",
+          "size": "31793162"
+        }
+      ]
+    },
+    {
+      "ide": "116724",
+      "date": "1939-12-18",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News of Paul Temple - Part 6 of 6"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1939-12-18 - (022) - News of Paul Temple - Part 6 of 6.mp3",
+          "time": "3796",
+          "size": "30371850"
+        }
+      ]
+    },
+    {
+      "ide": "116725",
+      "date": "1942-10-30",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Temple Intervenes - Part 1 of 8 - The Marquis"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1942-10-30 - (023) - Paul Temple Intervenes - Part 1 of 8 - The Marquis.mp3",
+          "time": "1057",
+          "size": "10575882"
+        }
+      ]
+    },
+    {
+      "ide": "116726",
+      "date": "1942-11-06",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Temple Intervenes - Part 2 of 8 - Concerning Sir Felix Raybourn"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1942-11-06 - (024) - Paul Temple Intervenes - Part 2 of 8 - Concerning Sir Felix Raybourn.mp3",
+          "time": "1119",
+          "size": "11194378"
+        }
+      ]
+    },
+    {
+      "ide": "116727",
+      "date": "1942-11-13",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Temple Intervenes - Part 3 of 8 - Kellaway Manor"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1942-11-13 - (025) - Paul Temple Intervenes - Part 3 of 8 - Kellaway Manor.mp3",
+          "time": "1136",
+          "size": "11364362"
+        }
+      ]
+    },
+    {
+      "ide": "116728",
+      "date": "1942-11-20",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Temple Intervenes - Part 4 of 8 - A Warning From The Marquis"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1942-11-20 - (026) - Paul Temple Intervenes - Part 4 of 8 - A Warning From The Marquis.mp3",
+          "time": "1043",
+          "size": "10426378"
+        }
+      ]
+    },
+    {
+      "ide": "116729",
+      "date": "1942-11-27",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Temple Intervenes - Part 5 of 8 - Temple Keeps An Appointment"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1942-11-27 - (027) - Paul Temple Intervenes - Part 5 of 8 - Temple Keeps An Appointment.mp3",
+          "time": "1038",
+          "size": "10377226"
+        }
+      ]
+    },
+    {
+      "ide": "116730",
+      "date": "1942-12-04",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Temple Intervenes - Part 6 of 8 - Above Suspicion"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1942-12-04 - (028) - Paul Temple Intervenes - Part 6 of 8 - Above Suspicion.mp3",
+          "time": "1058",
+          "size": "10582026"
+        }
+      ]
+    },
+    {
+      "ide": "116731",
+      "date": "1942-12-11",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Temple Intervenes - Part 7 of 8 - The October Hotel"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1942-12-11 - (029) - Paul Temple Intervenes - Part 7 of 8 - The October Hotel.mp3",
+          "time": "1106",
+          "size": "11065354"
+        }
+      ]
+    },
+    {
+      "ide": "116732",
+      "date": "1942-12-18",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Temple Intervenes - Part 8 of 8 - Introducing The Marquis"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1942-12-18 - (030) - Paul Temple Intervenes - Part 8 of 8 - Introducing The Marquis.mp3",
+          "time": "1122",
+          "size": "11221002"
+        }
+      ]
+    },
+    {
+      "ide": "116733",
+      "date": "1944-07-05",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "News Of Paul Temple (60 min version)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116734",
+      "date": "1945-09-13",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple Again - Part 1 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116735",
+      "date": "1945-09-20",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple Again - Part 2 of 8 - Rex Rides Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116736",
+      "date": "1945-09-27",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple Again - Part 3 of 8 - Concerning Dr Kohima"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116737",
+      "date": "1945-10-04",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple Again - Part 4 of 8 - In Which Mr Carl Latham Is Pertubed"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116738",
+      "date": "1945-10-11",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple Again - Part 5 of 8 - The Girl In Brown"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116739",
+      "date": "1945-11-18",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple Again - Part 6 of 8 - Who Is Rex"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116740",
+      "date": "1945-11-25",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple Again - Part 7 of  8 - Temple Makes A Decision"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116741",
+      "date": "1945-12-01",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Send For Paul Temple Again - Part 8 of 8 - Rex"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116742",
+      "date": "1946-02-07",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Case For Paul Temple - Part 1 of 8, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116743",
+      "date": "1946-02-14",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Case For Paul Temple - Part 2 0f 8 - In Which Steve Meets Captain O'Hara, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116744",
+      "date": "1946-02-21",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Case For Paul Temple - Part 3 of 8 - In Which Sir Gilbert Explains, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116745",
+      "date": "1946-02-28",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Case For Paul Temple - Part 4 of 8 - In Which Sir Gilbert Is Surprised, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116746",
+      "date": "1946-03-07",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Case For Paul Temple - Part 5 of 8 - In Which Mr Layman Tells The Truth, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116747",
+      "date": "1946-03-14",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Case For Paul Temple - Part 6 of 8 - In Which Valentine Strikes, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116748",
+      "date": "1946-03-21",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Case For Paul Temple - Part 7 of 8 - In Which The Net Tightens, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116749",
+      "date": "1946-03-29",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Case For Paul Temple - Part 8 of 8 - In Which Paul Meets Valentine, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116750",
+      "date": "1946-10-17",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gregory Affair - Part 1 of 9, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116751",
+      "date": "1946-10-24",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gregory Affair - Part 2 of 9, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116752",
+      "date": "1946-10-31",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gregory Affair - Part 3 of 9, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116753",
+      "date": "1946-11-07",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gregory Affair - Part 4 of 9, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116754",
+      "date": "1946-11-14",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gregory Affair - Part 5 of 9, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116755",
+      "date": "1946-11-21",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gregory Affair - Part 6 of 9, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116756",
+      "date": "1946-11-28",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gregory Affair - Part 7 of 9, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116757",
+      "date": "1946-12-05",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gregory Affair - Part 8 of 9, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116758",
+      "date": "1946-12-12",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gregory Affair - Part 9 of 9, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116759",
+      "date": "1947-03-30",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paul Temple And Steve - Part 1 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116760",
+      "date": "1947-04-06",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paul Temple And Steve - Part 2 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116761",
+      "date": "1947-04-13",
+      "epnum": "59",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paul Temple And Steve - Part 3 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116762",
+      "date": "1947-04-20",
+      "epnum": "60",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paul Temple And Steve - Part 4 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116763",
+      "date": "1947-04-27",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paul Temple And Steve - Part 5 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116764",
+      "date": "1947-05-04",
+      "epnum": "62",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paul Temple And Steve - Part 6 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116765",
+      "date": "1947-05-11",
+      "epnum": "63",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paul Temple And Steve - Part 7 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116766",
+      "date": "1947-05-18",
+      "epnum": "64",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paul Temple And Seve - Part 8 of 8"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116767",
+      "date": "1947-11-23",
+      "epnum": "65",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mr And Mrs Paul Temple"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116768",
+      "date": "1947-12-01",
+      "epnum": "66",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sullivan Mystery - Part 1 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116769",
+      "date": "1947-12-08",
+      "epnum": "67",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sullivan Mystery - Part 2 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116770",
+      "date": "1947-12-15",
+      "epnum": "68",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sullivan Mystery - Part 3 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116771",
+      "date": "1947-12-22",
+      "epnum": "69",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sullivan Mystery - Part 4 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116772",
+      "date": "1947-12-29",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sullivan Mystery - Part 5 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116773",
+      "date": "1948-01-05",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sullivan Mystery - Part 6 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116774",
+      "date": "1948-01-12",
+      "epnum": "72",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sullivan Mystery - Part 7 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116775",
+      "date": "1948-01-19",
+      "epnum": "73",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sullivan Mystery - Part 8 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116776",
+      "date": "1948-12-07",
+      "epnum": "74",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curzon Case - Part 1 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116777",
+      "date": "1948-12-14",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curzon Case - Part 2 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116778",
+      "date": "1948-12-21",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curzon Case - Part 3 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116779",
+      "date": "1948-12-28",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curzon Case - Part 4 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116780",
+      "date": "1949-01-04",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curzon Case - Part 5 of 8 - Presenting Carl Waters, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116781",
+      "date": "1949-01-11",
+      "epnum": "79",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curzon Case - Part 6 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116782",
+      "date": "1949-01-18",
+      "epnum": "80",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curzon Case - Part 7 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116783",
+      "date": "1949-01-25",
+      "epnum": "81",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curzon Case - Part 8 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116784",
+      "date": "1949-10-12",
+      "epnum": "82",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 1 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116785",
+      "date": "1949-10-19",
+      "epnum": "83",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 2 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116786",
+      "date": "1949-10-26",
+      "epnum": "84",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 3 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116787",
+      "date": "1949-11-02",
+      "epnum": "85",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 4 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116788",
+      "date": "1949-11-09",
+      "epnum": "86",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 5 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116789",
+      "date": "1949-11-16",
+      "epnum": "87",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 6 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116790",
+      "date": "1949-11-23",
+      "epnum": "88",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 7 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116791",
+      "date": "1949-11-30",
+      "epnum": "89",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 8 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116792",
+      "date": "1950-10-30",
+      "epnum": "90",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Van Dyke Affair - Part 1of 8 - The Sitter-Inn, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116793",
+      "date": "1950-11-06",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Van Dyke Affair - Part 2 of 8 - The Marlowe Incident, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116794",
+      "date": "1950-11-13",
+      "epnum": "92",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Van Dyke Affair - Part 3 of 8 - Introducing Mr Drose, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116795",
+      "date": "1950-11-20",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Van Dyke Affair - Part 4 of 8 -  Blouvard Seminair, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116796",
+      "date": "1950-11-27",
+      "epnum": "94",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Van Dyke Affair - Part 5 of 8 -  Roger Shelly Makes A Suggestion, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116797",
+      "date": "1950-12-04",
+      "epnum": "95",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Van Dyke Affair - Part 6 of 8 Suspect Number One, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116798",
+      "date": "1950-12-11",
+      "epnum": "96",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Van Dyke Affair - Part 7 of 8 - Steve Entertains, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116799",
+      "date": "1950-12-18",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Van Dyke Affair - Part 8 of 8 -  Presenting Mr Van Dyke, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116800",
+      "date": "1951-05-10",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 1 of 8 - The Fergusons, The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 1 of 8 - The Fergusons"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1951-05-10 - (098) - The Jonathan Mystery - Part 1 of 8 - The Fergusons.mp3",
+          "time": "1699",
+          "size": "6797322"
+        }
+      ]
+    },
+    {
+      "ide": "116801",
+      "date": "1951-05-17",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 2 of 8 - That Good Old Intuition, The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 2 of 8 - That Good Old Intuition"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1951-05-17 - (099) - The Jonathan Mystery - Part 2 of 8 - That Good Old Intuition.mp3",
+          "time": "1726",
+          "size": "6905866"
+        }
+      ]
+    },
+    {
+      "ide": "116802",
+      "date": "1951-05-24",
+      "epnum": "100",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 3 of 8 - The Ring, The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 3 of 8 - The Ring"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1951-05-24 - (100) - The Jonathan Mystery - Part 3 of 8 - The Ring.mp3",
+          "time": "1706",
+          "size": "6823946"
+        }
+      ]
+    },
+    {
+      "ide": "116803",
+      "date": "1951-05-31",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 4  of 8 - The Encounter, The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 4 of 8 - The Encounter"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1951-05-31 - (101) - The Jonathan Mystery - Part 4  of 8 - The Encounter.mp3",
+          "time": "1645",
+          "size": "6582282"
+        }
+      ]
+    },
+    {
+      "ide": "116804",
+      "date": "1951-06-06",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 5 of 8 -  Concerning Richard, The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 5 of 8 - Concerning Richard"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1951-06-06 - (102) - The Jonathan Mystery - Part 5 of 8 -  Concerning Richard.mp3",
+          "time": "1704",
+          "size": "6819850"
+        }
+      ]
+    },
+    {
+      "ide": "116805",
+      "date": "1951-06-13",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 6 of 8 - A Surprise for Mavis, The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 6 of 8 - A Surprise for Mavis"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1951-06-13 - (103) - The Jonathan Mystery - Part 6 of 8 - A Surprise for Mavis.mp3",
+          "time": "1691",
+          "size": "6767691"
+        }
+      ]
+    },
+    {
+      "ide": "116806",
+      "date": "1951-06-20",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 7 of 8 - An Invitation for Mr Elliott, The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 7 of 8 - An Invitation for Mr Elliott"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1951-06-20 - (104) - The Jonathan Mystery - Part 7 of 8 - An Invitation for Mr Elliott.Mp3",
+          "time": "1712",
+          "size": "6850570"
+        }
+      ]
+    },
+    {
+      "ide": "116807",
+      "date": "1951-06-27",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 8 0f 8 -  Jonathan, The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 8 0f 8 - Jonathan"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1951-06-27 - (105) - The Jonathan Mystery - Part 8 0f 8 -  Jonathan.Mp3",
+          "time": "1630",
+          "size": "6520842"
+        }
+      ]
+    },
+    {
+      "ide": "116808",
+      "date": "1953-04-08",
+      "epnum": "106",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paul Temple And Steve Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116809",
+      "date": "1954-03-29",
+      "epnum": "107",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 1 of 8 - The Unlucky One"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1954-03-29 - (107) - The Gilbert Case - Part 1 of 8 - The Unlucky One.mp3",
+          "time": "1737",
+          "size": "13897738"
+        }
+      ]
+    },
+    {
+      "ide": "116810",
+      "date": "1954-04-05",
+      "epnum": "108",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 2 of 8 - The Third Shoe"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1954-04-05 - (108) - The Gilbert Case - Part 2 of 8 - The Third Shoe.mp3",
+          "time": "1770",
+          "size": "14159882"
+        }
+      ]
+    },
+    {
+      "ide": "116811",
+      "date": "1954-04-12",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 3 of 8 - Peter Galina"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1954-04-12 - (109) - The Gilbert Case - Part  3 of 8 - Peter Galina.mp3",
+          "time": "1606",
+          "size": "6424586"
+        }
+      ]
+    },
+    {
+      "ide": "116812",
+      "date": "1954-04-19",
+      "epnum": "110",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 4 of 8 - La Martelli"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1954-04-19 - (110) - The Gilbert Case - Part 4 of 8 - La Martelli.mp3",
+          "time": "1687",
+          "size": "13500426"
+        }
+      ]
+    },
+    {
+      "ide": "116813",
+      "date": "1954-04-26",
+      "epnum": "111",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 5 of 8 - That Good Ole Intution"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1954-04-26 - (111) - The Gilbert Case - Part 5 of 8 - That Good Ole Intution.mp3",
+          "time": "1734",
+          "size": "13873162"
+        }
+      ]
+    },
+    {
+      "ide": "116814",
+      "date": "1954-05-03",
+      "epnum": "112",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 6 of 8 - A Warning From Miss Wayne"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1954-05-03 - (112) - The Gilbert Case - Part 6 of 8 - A Warning From Miss Wayne.mp3",
+          "time": "1753",
+          "size": "14026762"
+        }
+      ]
+    },
+    {
+      "ide": "116815",
+      "date": "1954-05-10",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 7 of 8 - The Note"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1954-05-10 - (113) - The Gilbert Case - Part 7 of 8 - The Note.mp3",
+          "time": "1681",
+          "size": "13447178"
+        }
+      ]
+    },
+    {
+      "ide": "116816",
+      "date": "1954-05-17",
+      "epnum": "114",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 8 of 8 - Mr Hamilton"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1954-05-17 - (114) - The Gilbert Case - Part 8 of 8 - Mr Hamilton.mp3",
+          "time": "1727",
+          "size": "13821962"
+        }
+      ]
+    },
+    {
+      "ide": "116817",
+      "date": "1955-06-20",
+      "epnum": "115",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 1 of 8  ( Remake), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116818",
+      "date": "1955-06-27",
+      "epnum": "116",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 2 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116819",
+      "date": "1955-07-04",
+      "epnum": "117",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 3 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116820",
+      "date": "1955-07-11",
+      "epnum": "118",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 4 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116821",
+      "date": "1955-07-18",
+      "epnum": "119",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 5 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116822",
+      "date": "1955-07-25",
+      "epnum": "120",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 6 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116823",
+      "date": "1955-08-01",
+      "epnum": "121",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 7 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116824",
+      "date": "1955-08-08",
+      "epnum": "122",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Madison Mystery - Part 8 of 8, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "116825",
+      "date": "1956-04-11",
+      "epnum": "123",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lawrence Affair - Part 1 of 8 - The lIttle Things, The"
+        },
+        {
+          "title": "The Lawrence Affair - Part 1 of 8 - The LIttle Things"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1956-04-11 - (123) - The Lawrence Affair - Part 1 of 8 - The LIttle Things.mp3",
+          "time": "1584",
+          "size": "6336522"
+        }
+      ]
+    },
+    {
+      "ide": "116826",
+      "date": "1956-04-18",
+      "epnum": "124",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lawrence Affair - Part 2 0f 8 - Salty West, The"
+        },
+        {
+          "title": "The Lawrence Affair - Part 2 0f 8 - Salty West"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1956-04-18 - (124) - The Lawrence Affair - Part 2 0f 8 - Salty West.mp3",
+          "time": "1592",
+          "size": "6367242"
+        }
+      ]
+    },
+    {
+      "ide": "116827",
+      "date": "1956-04-25",
+      "epnum": "125",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lawrence Affair - Part 3 of 8 - The Handbag, The"
+        },
+        {
+          "title": "The Lawrence Affair - Part 3 of 8 - The Handbag"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1956-04-25 - (125) - The Lawrence Affair - Part 3 of 8 - The Handbag.mp3",
+          "time": "1610",
+          "size": "6438922"
+        }
+      ]
+    },
+    {
+      "ide": "116828",
+      "date": "1956-05-02",
+      "epnum": "126",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lawrence Affair - Part 4 of 8 - Return to Downbouro, The"
+        },
+        {
+          "title": "The Lawrence Affair - Part 4 of 8 - Return to Downbouro"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1956-05-02 - (126) - The Lawrence Affair - Part 4 of 8 -  Return to Downbouro.mp3",
+          "time": "1604",
+          "size": "6416394"
+        }
+      ]
+    },
+    {
+      "ide": "116829",
+      "date": "1956-05-09",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lawrence Affair - Part 5 of 8 - A Present for Steve, The"
+        },
+        {
+          "title": "The Lawrence Affair - Part 5 of 8 - A Present for Steve"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1956-05-09 - (127) - The Lawrence Affair - Part 5 of 8 - A Present for Steve.mp3",
+          "time": "1605",
+          "size": "6420490"
+        }
+      ]
+    },
+    {
+      "ide": "116830",
+      "date": "1956-05-16",
+      "epnum": "128",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lawrence Affair - Part 6 of 8 - News from Sir Graha, The"
+        },
+        {
+          "title": "The Lawrence Affair - Part 6 of 8 - News from Sir Graha"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1956-05-16 - (128) - The Lawrence Affair - Part 6 of 8 - News from Sir Graha.mp3",
+          "time": "1596",
+          "size": "6385674"
+        }
+      ]
+    },
+    {
+      "ide": "116831",
+      "date": "1956-05-23",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lawrence Affair - Part 7 0f 8 - Another Suspect, The"
+        },
+        {
+          "title": "The Lawrence Affair - Part 7 0f 8 - Another Suspect"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1956-05-23 - (129) - The Lawrence Affair - Part 7 0f 8 - Another Suspect.mp3",
+          "time": "1598",
+          "size": "6391818"
+        }
+      ]
+    },
+    {
+      "ide": "116832",
+      "date": "1956-05-30",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lawrence Affair - Part 8 of 8 - Return to London, The"
+        },
+        {
+          "title": "The Lawrence Affair - Part 8 of 8 - Return to London"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1956-05-30 - (130) - The Lawrence Affair - Part 8 of 8 -  Return to London.mp3",
+          "time": "1529",
+          "size": "6115338"
+        }
+      ]
+    },
+    {
+      "ide": "116833",
+      "date": "1957-11-06",
+      "epnum": "131",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Spencer Affair - Part 1 of 8 - My Heart And Harry"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1957-11-06 - (131) - The Spencer Affair - Part 1 of 8 - My Heart And Harry.mp3",
+          "time": "1616",
+          "size": "12926986"
+        }
+      ]
+    },
+    {
+      "ide": "116834",
+      "date": "1957-11-13",
+      "epnum": "132",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Spencer Affair - Part 2 0f 8 - Concerning Judith Milton"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1957-11-13 - (132) - The Spencer Affair - Part 2 0f 8 - Concerning Judith Milton.mp3",
+          "time": "1635",
+          "size": "13084682"
+        }
+      ]
+    },
+    {
+      "ide": "116835",
+      "date": "1957-11-20",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Spencer Affair - Part 3 of 9 - Introducing Pete Roberts"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1957-11-20 - (133) - The Spencer Affair - Part 3 of 9 - Introducing Pete Roberts.mp3",
+          "time": "1605",
+          "size": "12838922"
+        }
+      ]
+    },
+    {
+      "ide": "116836",
+      "date": "1957-11-27",
+      "epnum": "134",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Spencer Affair - Part 4 of 8 - That Old Intution"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1957-11-27 - (134) - The Spencer Affair - Part 4 of 8 - That Old Intution.mp3",
+          "time": "1625",
+          "size": "12998666"
+        }
+      ]
+    },
+    {
+      "ide": "116837",
+      "date": "1957-12-04",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Spencer Affair - Part 5 of 8 - A Surprise For Pete Roberts"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1957-12-04 - (135) - The Spencer Affair - Part 5 of 8 - A Surprise For Pete Roberts.mp3",
+          "time": "1635",
+          "size": "6543370"
+        }
+      ]
+    },
+    {
+      "ide": "116838",
+      "date": "1957-12-11",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Spencer Affair - Part 6 of 8 - Home Again"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1957-12-11 - (136) - The Spencer Affair - Part 6 of 8 - Home Again.mp3",
+          "time": "1634",
+          "size": "13072394"
+        }
+      ]
+    },
+    {
+      "ide": "116839",
+      "date": "1957-12-18",
+      "epnum": "137",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Spencer Affair - Part 7 of 8 - Dinner At The Stardust"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1957-12-18 - (137) - The Spencer Affair - Part 7 of 8 - Dinner At The Stardust.mp3",
+          "time": "1626",
+          "size": "13013002"
+        }
+      ]
+    },
+    {
+      "ide": "116840",
+      "date": "1957-12-25",
+      "epnum": "138",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Spencer Affair - Part 8 of 8 - A Party Of Four"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1957-12-25 - (138) - The Spencer Affair - Part 8 of 8 - A Party Of Four.mp3",
+          "time": "1628",
+          "size": "13025290"
+        }
+      ]
+    },
+    {
+      "ide": "116841",
+      "date": "1959-01-01",
+      "epnum": "139",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Vandyke Affair - Part 1 Of 8 - The Sitter-In (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-01-01 - (139) - The Vandyke Affair - Part 1 Of 8 - The Sitter-In (Remake).mp3",
+          "time": "1611",
+          "size": "9668618"
+        }
+      ]
+    },
+    {
+      "ide": "116842",
+      "date": "1959-01-08",
+      "epnum": "140",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Vandyke Affair - Part 2 of 8 - The Marlow Incidient (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-01-08 - (140) - The Vandyke Affair - Part 2 of 8 - The Marlow Incidient (Remake).mp3",
+          "time": "1609",
+          "size": "9654282"
+        }
+      ]
+    },
+    {
+      "ide": "116843",
+      "date": "1959-01-15",
+      "epnum": "141",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Vandyke Affair - Part 3 of 8 - Introducing Mr Drose (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-01-15 - (141) - The Vandyke Affair - Part 3 of 8 - Introducing Mr Drose (Remake).mp3",
+          "time": "1608",
+          "size": "9652234"
+        }
+      ]
+    },
+    {
+      "ide": "116844",
+      "date": "1959-01-22",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Vandyke Affair - Part 4 of 8 - Boulevard Seminaire (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-01-22 - (142) - The Vandyke Affair - Part 4 of 8 - Boulevard Seminaire (Remake).mp3",
+          "time": "1615",
+          "size": "9693194"
+        }
+      ]
+    },
+    {
+      "ide": "116845",
+      "date": "1959-01-29",
+      "epnum": "143",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Vandyke Affair - Part 5 of 8 - Roger Shelly Makes A Suggestion (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-01-29 - (143) - The Vandyke Affair - Part 5 of 8 - Roger Shelly Makes A Suggestion (Remake).mp3",
+          "time": "1604",
+          "size": "9625610"
+        }
+      ]
+    },
+    {
+      "ide": "116846",
+      "date": "1959-02-05",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Vandyke Affair - Part 6 of 8 - Suspect Number One (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-02-05 - (144) - The Vandyke Affair - Part 6 of 8 - Suspect Number One (Remake).mp3",
+          "time": "1606",
+          "size": "9637898"
+        }
+      ]
+    },
+    {
+      "ide": "116847",
+      "date": "1959-02-12",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Vandyke Affair - Part 7 of 8 - Steve Entertains (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-02-12 - (145) - The Vandyke Affair - Part 7 of 8 - Steve Entertains (Remake).mp3",
+          "time": "1602",
+          "size": "9615370"
+        }
+      ]
+    },
+    {
+      "ide": "116848",
+      "date": "1959-02-19",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Vandyke Affair - Part 8 of 8 - Presenting Mr Vandyke (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-02-19 - (146) - The Vandyke Affair - Part 8 of 8 - Presenting Mr Vandyke (Remake).mp3",
+          "time": "1630",
+          "size": "9779210"
+        }
+      ]
+    },
+    {
+      "ide": "116849",
+      "date": "1959-03-02",
+      "epnum": "147",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Conrad Case - Part 1 of 8 - The Man From Munich"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-03-02 - (147) - The Conrad Case - Part 1 of 8 - The Man From Munich.mp3",
+          "time": "1616",
+          "size": "16162826"
+        }
+      ]
+    },
+    {
+      "ide": "116850",
+      "date": "1959-03-09",
+      "epnum": "148",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Conrad Case - Part 2 of 8 - Concerning Elliott France"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-03-09 - (148) - The Conrad Case - Part 2 of 8 - Concerning Elliott France.mp3",
+          "time": "1620",
+          "size": "16205834"
+        }
+      ]
+    },
+    {
+      "ide": "116851",
+      "date": "1959-03-16",
+      "epnum": "149",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Conrad Case - Part 3 of 8 - Hotel Royma"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-03-16 - (149) - The Conrad Case - Part 3 of 8 - Hotel Royma.mp3",
+          "time": "1619",
+          "size": "16195594"
+        }
+      ]
+    },
+    {
+      "ide": "116852",
+      "date": "1959-03-23",
+      "epnum": "150",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Conrad Case - Part 4 of 8 - A Visit To Innsbrook"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-03-23 - (150) - The Conrad Case - Part 4 of 8 - A Visit To Innsbrook.mp3",
+          "time": "1615",
+          "size": "16150538"
+        }
+      ]
+    },
+    {
+      "ide": "116853",
+      "date": "1959-03-30",
+      "epnum": "151",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Conrad Case - Part 5 of 8 - A Dry Martini"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-03-30 - (151) - The Conrad Case - Part 5 of 8 - A Dry Martini.mp3",
+          "time": "1615",
+          "size": "16152586"
+        }
+      ]
+    },
+    {
+      "ide": "116854",
+      "date": "1959-04-06",
+      "epnum": "152",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Conrad Case - Part 6 of 8 - Concerning Captain Smith"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-04-06 - (152) - The Conrad Case - Part 6 of 8 -  Concerning Captain Smith.mp3",
+          "time": "1618",
+          "size": "16179210"
+        }
+      ]
+    },
+    {
+      "ide": "116855",
+      "date": "1959-04-13",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Conrad Case - Part 7 of 8 - Coffee For Miss Conrad"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-04-13 - (153) - The Conrad Case - Part 7 of 8 - Coffee For Miss Conrad.mp3",
+          "time": "1617",
+          "size": "16175114"
+        }
+      ]
+    },
+    {
+      "ide": "116856",
+      "date": "1959-04-20",
+      "epnum": "154",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Conrad Case - Part 8 of 8 - Person Unknown"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-04-20 - (154) - The Conrad Case - Part 8 of 8 - Person Unknown.mp3",
+          "time": "1619",
+          "size": "16187402"
+        }
+      ]
+    },
+    {
+      "ide": "116857",
+      "date": "1959-11-22",
+      "epnum": "155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 1 of 8 - The Unlucky One (Repeat)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-11-22 - (155) - The Gilbert Case - Part 1 of 8 - The Unlucky One (Repeat).mp3",
+          "time": "1600",
+          "size": "12800010"
+        }
+      ]
+    },
+    {
+      "ide": "116858",
+      "date": "1959-11-30",
+      "epnum": "156",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 2 of 8 - The Third Shoe (Repeat)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-11-30 - (156) - The Gilbert Case - Part 2 of 8 - The Third Shoe (Repeat).mp3",
+          "time": "1605",
+          "size": "12838922"
+        }
+      ]
+    },
+    {
+      "ide": "116859",
+      "date": "1959-12-06",
+      "epnum": "157",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 3 of 8 - Peter Galina (Repeat)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-12-06 - (157) - The Gilbert Case - Part 3 of 8 - Peter Galina  (Repeat).mp3",
+          "time": "1605",
+          "size": "12843018"
+        }
+      ]
+    },
+    {
+      "ide": "116860",
+      "date": "1959-12-13",
+      "epnum": "158",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 4 of 8 - La Martella (Repeat)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-12-13 - (158) - The Gilbert Case - Part 4 of 8 - La Martella  (Repeat).mp3",
+          "time": "1602",
+          "size": "12818442"
+        }
+      ]
+    },
+    {
+      "ide": "116861",
+      "date": "1959-12-20",
+      "epnum": "159",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 5 of 8 - The Good Old Intutition"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-12-20 - (159) - The Gilbert Case - Part 5 of 8 - The Good Old Intutition.mp3",
+          "time": "1597",
+          "size": "12777482"
+        }
+      ]
+    },
+    {
+      "ide": "116862",
+      "date": "1959-12-27",
+      "epnum": "160",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 6 of 8 - A Warning From Miss Wayne - (Repeat)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1959-12-27 - (160) - The Gilbert Case - Part 6 of 8 - A Warning From Miss Wayne - (Repeat).mp3",
+          "time": "1607",
+          "size": "12855306"
+        }
+      ]
+    },
+    {
+      "ide": "116863",
+      "date": "1960-01-03",
+      "epnum": "161",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 7 of 8 - The Note ( Repeat)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1960-01-03 - (161) - The Gilbert Case - Part 7 of 8 - The Note ( Repeat).mp3",
+          "time": "1577",
+          "size": "6307850"
+        }
+      ]
+    },
+    {
+      "ide": "116864",
+      "date": "1960-01-10",
+      "epnum": "162",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Gilbert Case - Part 8 of 8 - Mr Hamilton (Repeat)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1960-01-10 - (162) - The Gilbert Case - Part 8 of 8 - Mr Hamilton (Repeat).mp3",
+          "time": "1576",
+          "size": "6305802"
+        }
+      ]
+    },
+    {
+      "ide": "116865",
+      "date": "1961-01-01",
+      "epnum": "163",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Margo Mystery - Part 1 of 8 - The Coat"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1961-01-01 - (163) - The Margo Mystery - Part 1 of 8 - The Coat.mp3",
+          "time": "1640",
+          "size": "8202250"
+        }
+      ]
+    },
+    {
+      "ide": "116866",
+      "date": "1961-01-08",
+      "epnum": "164",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Margo Mystery - Part 2 of 8 - Concerning Ted Angus"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1961-01-08 - (164) - The Margo Mystery - Part 2 of 8 - Concerning Ted Angus.mp3",
+          "time": "1649",
+          "size": "8243210"
+        }
+      ]
+    },
+    {
+      "ide": "116867",
+      "date": "1961-01-15",
+      "epnum": "165",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Margo Mystery - Part 3 of 8 - A Change Of Mind"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1961-01-15 - (165) - The Margo Mystery - Part 3 of 8 - A Change Of Mind.mp3",
+          "time": "1645",
+          "size": "8228874"
+        }
+      ]
+    },
+    {
+      "ide": "116868",
+      "date": "1961-01-22",
+      "epnum": "166",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Margo Mystery - Part 4 of 8 - Bill Fletcher's Story, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1961-01-22 - (166) - The Margo Mystery - Part 4 of 8 - Bill Fletcher's Story.mp3",
+          "time": "1661",
+          "size": "8308746"
+        }
+      ]
+    },
+    {
+      "ide": "116869",
+      "date": "1961-01-29",
+      "epnum": "167",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Margo Mystery - Part 5 of 8 - Breakwater House, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1961-01-29 - (167) - The Margo Mystery - Part 5 of 8 - Breakwater House.mp3",
+          "time": "1664",
+          "size": "8323082"
+        }
+      ]
+    },
+    {
+      "ide": "116870",
+      "date": "1961-02-05",
+      "epnum": "168",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Margo Mystery - Part 6 of 8 - Mainly About Wyman, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1961-02-05 - (168) - The Margo Mystery - Part 6 of 8 - Mainly About Wyman.mp3",
+          "time": "1662",
+          "size": "8308746"
+        }
+      ]
+    },
+    {
+      "ide": "116871",
+      "date": "1961-02-12",
+      "epnum": "169",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Margo Mystery - Part 7 of 8 - A Time To Worry, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1961-02-12 - (169) - The Margo Mystery - Part 7 of 8 - A Time To Worry.mp3",
+          "time": "1659",
+          "size": "8294410"
+        }
+      ]
+    },
+    {
+      "ide": "116872",
+      "date": "1961-02-19",
+      "epnum": "170",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Margo Mystery - Part 8 of 8 - The Visitor, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1961-02-19 - (170) - The Margo Mystery - Part 8 of 8 - The Visitor.mp3",
+          "time": "1654",
+          "size": "8271882"
+        }
+      ]
+    },
+    {
+      "ide": "116873",
+      "date": "1963-10-14",
+      "epnum": "171",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 1 of 8 - The Ferguson's (Remake), The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 1 of 8 - The Fugerson's (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1963-10-14 - (171) - The Jonathan Mystery - Part 1 of 8 - The Fugerson's (Remake).mp3",
+          "time": "1606",
+          "size": "12849162"
+        }
+      ]
+    },
+    {
+      "ide": "116874",
+      "date": "1963-10-21",
+      "epnum": "172",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 2 of 8 - That Good Old Intitution (Remake), The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 2 of 8 - That Good Old Intitution (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1963-10-21 - (172) - The Jonathan Mystery - Part 2 of 8 - That Good Old Intitution (Remake).mp3",
+          "time": "1629",
+          "size": "13029386"
+        }
+      ]
+    },
+    {
+      "ide": "116875",
+      "date": "1963-10-28",
+      "epnum": "173",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 3 of 8 - The Ring ( Remake), The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 3 of 8 - The Ring ( Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1963-10-28 - (173) - The Jonathan Mystery - Part 3 of 8 - The Ring ( Remake).mp3",
+          "time": "1624",
+          "size": "12990474"
+        }
+      ]
+    },
+    {
+      "ide": "116876",
+      "date": "1963-11-04",
+      "epnum": "174",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 4 of 8 - The Encounter, The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 4 of 8 - The Encounter"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1963-11-04 - (174) - The Jonathan Mystery - Part 4 of 8 - The Encounter.mp3",
+          "time": "1613",
+          "size": "12908554"
+        }
+      ]
+    },
+    {
+      "ide": "116877",
+      "date": "1963-11-11",
+      "epnum": "175",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 5 of 8 - Concerning Richard Ferguson (Remake), The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 5 of 8 - Concerning Richard Fegurson (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1963-11-11 - (175) - The Jonathan Mystery - Part 5 of 8 - Concerning Richard Fegurson (Remake).mp3",
+          "time": "1605",
+          "size": "12843018"
+        }
+      ]
+    },
+    {
+      "ide": "116878",
+      "date": "1963-11-18",
+      "epnum": "176",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 6 of 8 - A Surprise For Mavis Russell (Remake), The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 6 of 8 - A Surprise For Mauvis Russell (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1963-11-18 - (176) - The Jonathan Mystery - Part 6 of 8 - A Surprise For Mauvis Russell (Remake).mp3",
+          "time": "1691",
+          "size": "6766602"
+        }
+      ]
+    },
+    {
+      "ide": "116879",
+      "date": "1963-11-25",
+      "epnum": "177",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 7 of 8 - An Invitation For Mr Elliott (Remake), The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 7 of 8 - An Invitation For Mr Elliott (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1963-11-25 - (177) - The Jonathan Mystery - Part 7 of 8 - An Invitation For Mr Elliott (Remake).mp3",
+          "time": "1721",
+          "size": "6887434"
+        }
+      ]
+    },
+    {
+      "ide": "116880",
+      "date": "1963-12-02",
+      "epnum": "178",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonathan Mystery - Part 8 of 8 - Jonathan (Remake), The"
+        },
+        {
+          "title": "The Jonathan Mystery - Part 8 of 8 - Jonathan (Remake)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1963-12-02 - (178) - The Jonathan Mystery - Part 8 of 8 - Jonathan (Remake).mp3",
+          "time": "1591",
+          "size": "12730378"
+        }
+      ]
+    },
+    {
+      "ide": "116881",
+      "date": "1965-04-11",
+      "epnum": "179",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Geneva Mystery - Part 1 of 6 - Too Young to Die"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1965-04-11 - (179) - The Geneva Mystery - Part 1 of 6 - Too Young to Die.mp3",
+          "time": "1563",
+          "size": "9377802"
+        }
+      ]
+    },
+    {
+      "ide": "116882",
+      "date": "1965-04-18",
+      "epnum": "180",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Geneva Mystery - Part 2 of 6 - Concerning Mrs Milbourn"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1965-04-18 - (180) - The Geneva Mystery - Part 2 of 6 - Concerning Mrs Milbourn.mp3",
+          "time": "1556",
+          "size": "9340938"
+        }
+      ]
+    },
+    {
+      "ide": "116883",
+      "date": "1965-04-25",
+      "epnum": "181",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Geneva Mystery - Part 3 of 6 - A Note for Danny"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1965-04-25 - (181) - The Geneva Mystery - Part 3 of 6  - A Note for Danny.mp3",
+          "time": "1578",
+          "size": "9469962"
+        }
+      ]
+    },
+    {
+      "ide": "116884",
+      "date": "1965-05-02",
+      "epnum": "182",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Geneva Mystery - Part 4 of 6 - A Change of Mind"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1965-05-02 - (182) - The Geneva Mystery - Part 4 of 6 - A Change of Mind.mp3",
+          "time": "1571",
+          "size": "9424906"
+        }
+      ]
+    },
+    {
+      "ide": "116885",
+      "date": "1965-05-09",
+      "epnum": "183",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Geneva Mystery - part 5 of 6 - A Surprise for Mrs Milbo"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1965-05-09 - (183) - The Geneva Mystery - part 5 of 6 - A Surprise for Mrs Milbo.mp3",
+          "time": "1543",
+          "size": "9259018"
+        }
+      ]
+    },
+    {
+      "ide": "116886",
+      "date": "1965-05-16",
+      "epnum": "184",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Geneva Mystery - Part 6 of 6 - See You in London"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1965-05-16 - (184) - The Geneva Mystery - Part 6 of 6 - See You in London.mp3",
+          "time": "1630",
+          "size": "9781258"
+        }
+      ]
+    },
+    {
+      "ide": "116887",
+      "date": "1968-02-26",
+      "epnum": "185",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alex Affair - Part 1 of 8 - Mrs Trevallin (Remake of Send For Paul Temple Again)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1968-02-26 - (185) - The Alex Affair - Part 1 of 8 - Mrs Trevallin (Remake of Send For Paul Temple Again).mp3",
+          "time": "1646",
+          "size": "6586378"
+        }
+      ]
+    },
+    {
+      "ide": "116888",
+      "date": "1968-02-29",
+      "epnum": "186",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Alex Affair - Part 2 of 8 - Dr. Kohemia"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1968-02-29 - (186) - The Alex Affair - Part 2 of 8 - Dr. Kohemia.mp3",
+          "time": "1654",
+          "size": "6617098"
+        }
+      ]
+    },
+    {
+      "ide": "116889",
+      "date": "1968-03-04",
+      "epnum": "187",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Alex Affair - Part 3 of 8 - Dr Karl Layhum"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1968-03-04 - (187) - The Alex Affair - Part 3 of 8 - Dr Karl Layhum.mp3",
+          "time": "1647",
+          "size": "6588426"
+        }
+      ]
+    },
+    {
+      "ide": "116890",
+      "date": "1968-03-07",
+      "epnum": "188",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Alex Affair - Part 4 of 8 - Mr Spider Williams"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1968-03-07 - (188) - The Alex Affair - Part 4 of 8 - Mr Spider Williams.mp3",
+          "time": "1667",
+          "size": "6670346"
+        }
+      ]
+    },
+    {
+      "ide": "116891",
+      "date": "1968-03-11",
+      "epnum": "189",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Alex Affair - Part 5 of 8 - Mr Wilfred Davis"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1968-03-11 - (189) - The Alex Affair - Part 5 of 8 - Mr Wilfred Davis.mp3",
+          "time": "1659",
+          "size": "6637578"
+        }
+      ]
+    },
+    {
+      "ide": "116892",
+      "date": "1968-03-14",
+      "epnum": "190",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Alex Affair - Part 6 of 8 - Mr Leo Prent"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1968-03-14 - (190) - The Alex Affair - Part 6 of 8 - Mr Leo Prent.mp3",
+          "time": "1662",
+          "size": "6649866"
+        }
+      ]
+    },
+    {
+      "ide": "116893",
+      "date": "1968-03-18",
+      "epnum": "191",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alex Affair - Part 7 of 8 - The Girl In Brown, The"
+        },
+        {
+          "title": "The Alex Affair - Part 7 of 8 - The Girl In Brown"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1968-03-18 - (191) - The Alex Affair - Part 7 of 8 - The Girl In Brown.mp3",
+          "time": "1657",
+          "size": "6629386"
+        }
+      ]
+    },
+    {
+      "ide": "116894",
+      "date": "1968-03-21",
+      "epnum": "192",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alex Affair - Part 8 of 8 - Introducing Alex, The"
+        },
+        {
+          "title": "The Alex Affair - Part 8 of 8 - Introducing Alex"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1968-03-21 - (192) - The Alex Affair - Part 8 of 8 - Introducing Alex.mp3",
+          "time": "1663",
+          "size": "6653962"
+        }
+      ]
+    },
+    {
+      "ide": "116895",
+      "date": "1998-05-20",
+      "epnum": "193",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Send for Paul Temple"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Paul Temple",
+          "name": "1998-05-20 - (193) - Send for Paul Temple.mp3",
+          "time": "1701",
+          "size": "8503306"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Private Detective"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventures of Paul Temple, The"
+    },
+    {
+      "title": "Adventures Of Paul Temple, The**"
+    },
+    {
+      "title": "The Adventures Of Paul Temple"
+    },
+    {
+      "title": "Paul Temple"
+    }
+  ]
+}

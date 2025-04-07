@@ -1,0 +1,158 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/U-V Series/Vic Damone Sings/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,779244,00.html",
+      "label": "1947-07-21: Da Moan",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1402",
+      "first": "Vic",
+      "last": "Damone",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3517",
+      "first": "Sylvan",
+      "last": "Levin",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "19785",
+      "first": "Don",
+      "last": "Frederick",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "It's Springtime"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "324467",
+      "date": "1947-03-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Thats Where I Came In"
+        }
+      ],
+      "files": [
+        {
+          "path": "V",
+          "folder": "Vic Damone Sings",
+          "name": "Vic Damone 1947.03.18 First Song Thats Where I Came In.mp3",
+          "time": "882",
+          "size": "3636699"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-02-18",
+      "dow": "Tu",
+      "time": "10:15 PM",
+      "end": "1947-07-01",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Vic Damone Show, The"
+    }
+  ]
+}

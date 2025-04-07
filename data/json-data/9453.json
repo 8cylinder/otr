@@ -1,0 +1,101 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,861682,00.html",
+      "label": "1955-11-28: Woman's Home Companion",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-56.html",
+      "label": "The Golden Age of Radio: Program 56 - November, 1974 - Virginia Graham",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.latimes.com/news/obituaries/la-me-daniel30jan30,0,5636232.story",
+      "label": "Los Angeles Times: Margaret Truman Daniel, 83; actress-writer was only child of President Truman",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2602",
+      "first": "Helen",
+      "last": "Hayes",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3201",
+      "first": "Walter",
+      "last": "Kiernan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3953",
+      "first": "Mary Margaret",
+      "last": "McBride",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6163",
+      "first": "Mike",
+      "last": "Wallace",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Gossip"
+    },
+    {
+      "genre": "Information"
+    },
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1955-11-07",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1956-07-27",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Weekday"
+    }
+  ]
+}

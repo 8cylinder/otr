@@ -1,0 +1,1350 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "SEVT"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/21/20210321134418-c1b04a0c.jpg",
+      "label": "Dorothy Lamour 2",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/21/20210321134422-5a924be7.jpg",
+      "label": "Dorothy Lamour 3",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324054000-f5283842.jpg",
+      "label": "Sealtest Variety Theater",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.karloff.com/radio.html",
+      "label": "Radio Programs Featuring Boris Karloff",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logs1042.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Sealtest Variety Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "According to Dunning, the 1947 run was called Front and Center."
+    },
+    {
+      "info": "Voclists: The Crew Chiefs Quartet. - Broadcast history reported by Terrace as 1948-1949 (NBC)."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "3073",
+      "first": "Carlton",
+      "last": "Kadell",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3361",
+      "first": "Dorothy",
+      "last": "Lamour",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "5192",
+      "first": "Henry",
+      "last": "Russell",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "14738",
+      "first": "The",
+      "last": "Crew Chiefs",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "664",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "2005-04-01",
+      "source": "Illustrated Press/IP_329.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #329 Apr 05",
+      "author": ""
+    },
+    {
+      "idprint": "700",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "2009-05-01",
+      "source": "Illustrated Press/IP_370.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #370 May 09",
+      "author": ""
+    },
+    {
+      "idprint": "1649",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "2001-07-01",
+      "source": "OTR Digest_1990s/OTRDigest_(098)Summer01.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (98) Summer 2001",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "128409",
+      "date": "1948-09-09",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Waiting Room"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 480909 001 Waiting Room.mp3",
+          "time": "1758",
+          "size": "7033846"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-09-09 (01) Waiting Room.mp3",
+          "time": "1758",
+          "size": "7033856"
+        }
+      ]
+    },
+    {
+      "ide": "128410",
+      "date": "1948-09-16",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sir Lancelot of the Lake"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 480916 002 Sir Lancelot of the Lak.mp3",
+          "time": "1675",
+          "size": "6698864"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-09-16 (02) Sir Lancelot of the Lake.mp3",
+          "time": "1675",
+          "size": "6698874"
+        }
+      ]
+    },
+    {
+      "ide": "128411",
+      "date": "1948-09-23",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Taps"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 480923 003 The Love Pact.mp3",
+          "time": "1754",
+          "size": "7016084"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-09-23 (03) The Love Pact.mp3",
+          "time": "1754",
+          "size": "7016094"
+        }
+      ]
+    },
+    {
+      "ide": "128412",
+      "date": "1948-10-07",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pirate of Orleans, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481007 004 The Pirate of Orleans.mp3",
+          "time": "1756",
+          "size": "7025705"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-10-07 (04) The Pirate of Orleans.mp3",
+          "time": "1756",
+          "size": "7025715"
+        }
+      ]
+    },
+    {
+      "ide": "128413",
+      "date": "1948-10-14",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Bob Hope, Robert Young"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481014 005 Guests Robert Young and.mp3",
+          "time": "1747",
+          "size": "6990160"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-10-14 (05) Guest - Bob Hope, Robert Young.mp3",
+          "time": "1747",
+          "size": "6991882"
+        }
+      ]
+    },
+    {
+      "ide": "128414",
+      "date": "1948-10-21",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Happy Ending"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481021 006 Happy Ending.mp3",
+          "time": "1832",
+          "size": "7326418"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 1948-10-21 Guests Abbott & Costello and Dick Powell.mp3",
+          "time": "1782",
+          "size": "14256457"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-10-21 (06) Happy Ending.mp3",
+          "time": "1832",
+          "size": "7326428"
+        }
+      ]
+    },
+    {
+      "ide": "128415",
+      "date": "1948-10-28",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boris Karloff Throws Halloween Party"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481028 007.Mp3",
+          "time": "1726",
+          "size": "6904270"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-10-28 (07) Boris Karloff Throws Halloween Party.mp3",
+          "time": "1726",
+          "size": "6905866"
+        }
+      ]
+    },
+    {
+      "ide": "128416",
+      "date": "1948-11-04",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sleigh of Hand"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481104 008 Slight of Hand.Mp3",
+          "time": "1755",
+          "size": "7022354"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-11-04 (08) Sleight of Hand.mp3",
+          "time": "1755",
+          "size": "7022364"
+        }
+      ]
+    },
+    {
+      "ide": "128417",
+      "date": "1948-11-11",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Don Ameche And Dorothy Lamour"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481111 009.Mp3",
+          "time": "1742",
+          "size": "6968218"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-11-11 (09) Guest - Don Ameche, Dorothy Lamour.mp3",
+          "time": "1742",
+          "size": "6969354"
+        }
+      ]
+    },
+    {
+      "ide": "128418",
+      "date": "1948-11-18",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cavalcade of Tony Martin - The Great Gildersleeve, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481118 010 The Cavalcade of Tony M.mp3",
+          "time": "1745",
+          "size": "6978927"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-11-18 (10) The Cavalcade of Tony Martin - The Great Gildersleeve.mp3",
+          "time": "1745",
+          "size": "6978937"
+        }
+      ]
+    },
+    {
+      "ide": "128419",
+      "date": "1948-11-25",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - John Lund and Donald O'Connor"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481125 011 Donald O'Conner and Joh.mp3",
+          "time": "1735",
+          "size": "6938752"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-11-25 (11) Guest - Donald O'Connor, John Lund.mp3",
+          "time": "1735",
+          "size": "6940682"
+        }
+      ]
+    },
+    {
+      "ide": "128420",
+      "date": "1948-12-02",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lum "
+        },
+        {
+          "title": "N Abner"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481202 012 Lum 'N Abner.mp3",
+          "time": "1732",
+          "size": "6929566"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-12-02 (12) Lum 'N Abner.mp3",
+          "time": "1732",
+          "size": "6929576"
+        }
+      ]
+    },
+    {
+      "ide": "128421",
+      "date": "1948-12-09",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jack Benny"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481209 013 Jack Benny and George M.mp3",
+          "time": "1740",
+          "size": "6959441"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-12-09 (13) Guest - Jack Benny.mp3",
+          "time": "1740",
+          "size": "6961162"
+        }
+      ]
+    },
+    {
+      "ide": "128422",
+      "date": "1948-12-16",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fibber McGee and Molly"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481216 014 Fibber McGee and Molly.mp3",
+          "time": "1744",
+          "size": "6975960"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-12-16 (14) Fibber McGee and Molly.mp3",
+          "time": "1744",
+          "size": "6977546"
+        }
+      ]
+    },
+    {
+      "ide": "128423",
+      "date": "1948-12-23",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481223 015 Christmas Show.mp3",
+          "time": "1736",
+          "size": "6945869"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-12-23 (15) Christmas Show.mp3",
+          "time": "1736",
+          "size": "6945879"
+        }
+      ]
+    },
+    {
+      "ide": "128424",
+      "date": "1948-12-30",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Year's Eve"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 481230 016 New Year's Eve.mp3",
+          "time": "1737",
+          "size": "6947541"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 48-12-30 (16) New Year's Eve.mp3",
+          "time": "1737",
+          "size": "6947551"
+        }
+      ]
+    },
+    {
+      "ide": "128425",
+      "date": "1949-01-06",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dorothy Visits Archie's Tavern"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490106 017 Cornel Wilde and Ed Gar.mp3",
+          "time": "1756",
+          "size": "7024434"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-01-06 (17) Dorothy Visits Duffy's Tavern.mp3",
+          "time": "1756",
+          "size": "7024650"
+        }
+      ]
+    },
+    {
+      "ide": "128426",
+      "date": "1949-01-13",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Gene Kelly"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490113 018 Gene Kelly and Dennis D.mp3",
+          "time": "1752",
+          "size": "7008970"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-01-13 (18) Guest - Gene Kelly.mp3",
+          "time": "1752",
+          "size": "7010314"
+        }
+      ]
+    },
+    {
+      "ide": "128427",
+      "date": "1949-01-20",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Lloyd Nolan"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490120 019 Lloyd Nolan and Sddie C.mp3",
+          "time": "1752",
+          "size": "7009805"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-01-20 (19) Guest - Lloyd Nolan.mp3",
+          "time": "1752",
+          "size": "7010314"
+        }
+      ]
+    },
+    {
+      "ide": "128428",
+      "date": "1949-01-27",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Douglas Fairbanks, Jr"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490127 020 Douglas Fairbanks Jr an.mp3",
+          "time": "1756",
+          "size": "7023807"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-01-27 (20) Guest - Douglas Fairbanks, Jr.mp3",
+          "time": "1756",
+          "size": "7024650"
+        }
+      ]
+    },
+    {
+      "ide": "128429",
+      "date": "1949-02-03",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Robert Cummings"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490203 021 Joan Davis and Robert C.mp3",
+          "time": "1751",
+          "size": "7004372"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-02-03 (21) Guest - Robert Cummings.mp3",
+          "time": "1751",
+          "size": "7006218"
+        }
+      ]
+    },
+    {
+      "ide": "128430",
+      "date": "1949-02-17",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Martin and Lewis"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490217 022 Deam Martin and Jerry L.mp3",
+          "time": "1751",
+          "size": "7006044"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-02-17 (22) Guest - Martin and Lewis.mp3",
+          "time": "1751",
+          "size": "7006218"
+        }
+      ]
+    },
+    {
+      "ide": "128431",
+      "date": "1949-02-24",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Husband-Wife Breakfast Shows and Detective Show Parodies"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490224 023 Husband-Wife Breakfast .mp3",
+          "time": "1749",
+          "size": "6996065"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-02-24 (23) Husband-Wife Breakfast Shows and Detective Show Parodies.mp3",
+          "time": "1749",
+          "size": "6996075"
+        }
+      ]
+    },
+    {
+      "ide": "128432",
+      "date": "1949-03-03",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Gildersleeve, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490303 024 The Great Gildersleeve.mp3",
+          "time": "1740",
+          "size": "6960087"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-03-03 (24) The Great Gildersleeve.mp3",
+          "time": "1740",
+          "size": "6960097"
+        }
+      ]
+    },
+    {
+      "ide": "128433",
+      "date": "1949-03-10",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Richard Widmark"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490310 025 Richard Widmark and Bob.mp3",
+          "time": "1739",
+          "size": "6958188"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-03-10 (25) Guest - Richard Widmark.mp3",
+          "time": "1739",
+          "size": "6959114"
+        }
+      ]
+    },
+    {
+      "ide": "128434",
+      "date": "1949-03-17",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Live from the Shamrock Hotel -- Really Live!"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490317 026 Live from the Shamrock .mp3",
+          "time": "1734",
+          "size": "6936913"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-03-17 (26) Live from the Shamrock Hotel -- Really Live!.mp3",
+          "time": "1734",
+          "size": "6936923"
+        }
+      ]
+    },
+    {
+      "ide": "128435",
+      "date": "1949-03-24",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - David Niven"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490324 027 Alan Young and David Ni.mp3",
+          "time": "1738",
+          "size": "6954217"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-03-24 (27) Guest - David Niven.mp3",
+          "time": "1738",
+          "size": "6955018"
+        }
+      ]
+    },
+    {
+      "ide": "128436",
+      "date": "1949-04-07",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Burt Lancaster"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490407 028 Burt Langcaster.mp3",
+          "time": "1755",
+          "size": "7019210"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-04-07 (28) Guest - Burt Lancaster.mp3",
+          "time": "1755",
+          "size": "7020554"
+        }
+      ]
+    },
+    {
+      "ide": "128437",
+      "date": "1949-04-14",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Victor Mature"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490414 029 Victor Moore.mp3",
+          "time": "1766",
+          "size": "7064140"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-04-14 (29) Guest - Victor Mature.mp3",
+          "time": "1766",
+          "size": "7065610"
+        }
+      ]
+    },
+    {
+      "ide": "128438",
+      "date": "1949-04-21",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Edgar Bergen"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490421 030 Edgar Bergen.mp3",
+          "time": "1724",
+          "size": "6895703"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-04-21 (30) Guest - Edgar Bergen.mp3",
+          "time": "1724",
+          "size": "6897674"
+        }
+      ]
+    },
+    {
+      "ide": "128439",
+      "date": "1949-04-28",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Betting on a Horse Race"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490428 031 Betting on a Horse Race.mp3",
+          "time": "1734",
+          "size": "6935011"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-04-28 (31) Betting on a Horse Race.mp3",
+          "time": "1734",
+          "size": "6935021"
+        }
+      ]
+    },
+    {
+      "ide": "128440",
+      "date": "1949-05-05",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Sydney Greenstreet"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490505 032 Sidney Greenstreet.mp3",
+          "time": "1744",
+          "size": "6976160"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-05-05 (32) Guest - Sydney Greenstreet.mp3",
+          "time": "1744",
+          "size": "6977546"
+        }
+      ]
+    },
+    {
+      "ide": "128441",
+      "date": "1949-05-12",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Joan Wants Eddie to Be Her Boyfriend"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490512 033 Joan Wants Eddie to Be .mp3",
+          "time": "1730",
+          "size": "6919141"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-05-12 (33) Joan Wants Eddie to Be Her Boyfriend.mp3",
+          "time": "1730",
+          "size": "6919151"
+        }
+      ]
+    },
+    {
+      "ide": "128442",
+      "date": "1949-05-19",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How to Become a Fighter"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490519 034 How to Become a Fighter.mp3",
+          "time": "1735",
+          "size": "6941489"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-05-19 (34) How to Become a Fighter.mp3",
+          "time": "1735",
+          "size": "6941499"
+        }
+      ]
+    },
+    {
+      "ide": "128443",
+      "date": "1949-05-26",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jimmy Stewart"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490526 035 James Stewart.mp3",
+          "time": "1742",
+          "size": "6966547"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-05-26 (35) Guest - James Stewart.mp3",
+          "time": "1742",
+          "size": "6967306"
+        }
+      ]
+    },
+    {
+      "ide": "128444",
+      "date": "1949-06-02",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Charles Laughton"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490602 036 Charles Laughton.mp3",
+          "time": "1736",
+          "size": "6942723"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-06-02 (36) Guest - Charles Laughton.mp3",
+          "time": "1736",
+          "size": "6944778"
+        }
+      ]
+    },
+    {
+      "ide": "128445",
+      "date": "1949-06-09",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Neighbor, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490609 037 The New Neighbor.mp3",
+          "time": "1747",
+          "size": "6986622"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-06-09 (37) The New Neighbor.mp3",
+          "time": "1747",
+          "size": "6986632"
+        }
+      ]
+    },
+    {
+      "ide": "128446",
+      "date": "1949-06-16",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quiz Show Spoof"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490616 038 Quiz Show Spoof.mp3",
+          "time": "1744",
+          "size": "6977426"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-06-16 (38) Quiz Show Spoof.mp3",
+          "time": "1744",
+          "size": "6977436"
+        }
+      ]
+    },
+    {
+      "ide": "128447",
+      "date": "1949-06-23",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Boris Karloff"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490623 039 Boris Karloff.mp3",
+          "time": "1755",
+          "size": "7021090"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-06-23 (39) Guest - Boris Karloff.mp3",
+          "time": "1755",
+          "size": "7022602"
+        }
+      ]
+    },
+    {
+      "ide": "128448",
+      "date": "1949-06-30",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Dan Duryea"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490630 040 Dan Duryea.mp3",
+          "time": "1742",
+          "size": "6966547"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-06-30 (40) Guest - Dan Duryea.mp3",
+          "time": "1742",
+          "size": "6967306"
+        }
+      ]
+    },
+    {
+      "ide": "128449",
+      "date": "1949-07-07",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gildersleeve Skit"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 490707 041 Hal Peary.mp3",
+          "time": "1732",
+          "size": "6929557"
+        },
+        {
+          "path": "S",
+          "folder": "Sealtest Variety Theater",
+          "name": "Sealtest Variety Theater 49-07-07 (41) Gildersleeve Skit.mp3",
+          "time": "1732",
+          "size": "6930442"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-07-06",
+      "dow": "Su",
+      "time": "8:30 PM",
+      "end": "1947-09-28",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1948-09-09",
+      "dow": "Th",
+      "time": "9:30 PM",
+      "end": "1949-07-07",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sealtest Ice Cream",
+      "begin": "1947-07-06",
+      "end": "1949-07-07"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Sealtest Variety Theater"
+    },
+    {
+      "title": "Dorothy Lamour Progran, The"
+    },
+    {
+      "title": "Dorothy Lamour Show"
+    }
+  ]
+}

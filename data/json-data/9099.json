@@ -1,0 +1,784 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9099-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5988",
+      "first": "Robert",
+      "last": "Trout",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "10552",
+      "first": "John",
+      "last": "Becker",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "38644",
+      "first": "Charles",
+      "last": "Wheeler",
+      "f": "Noted Role",
+      "character": "news correspondent"
+    },
+    {
+      "idperson": "1220",
+      "first": "Alistair",
+      "last": "Cooke",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "1555",
+      "first": "Howard",
+      "last": "Dietz",
+      "f": "Noted Role",
+      "character": "Paneilist"
+    },
+    {
+      "idperson": "1884",
+      "first": "Frank",
+      "last": "Fay",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "4261",
+      "first": "Christopher",
+      "last": "Morley",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "7607",
+      "first": "Warren",
+      "last": "Sweeney",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "14835",
+      "first": "Russell",
+      "last": "Crouse",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "51121",
+      "first": "Don",
+      "last": "Heyworth",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "144419",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Engineer Wade's Wife, Hilda"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "232096",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Fear Itself"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "234084",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "For The First Time"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "232097",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Letter from Father"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "234083",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "San Fernando Valley"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144417",
+      "date": "0000-00-00",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144429",
+      "date": "1943-02-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144430",
+      "date": "1943-03-07",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCO Big Boss Benny Gleason"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144431",
+      "date": "1943-03-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144432",
+      "date": "1943-03-21",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144433",
+      "date": "1943-06-13",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144434",
+      "date": "1943-06-27",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCO Mr Syndicate"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144435",
+      "date": "1943-08-01",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Who Remembered Too Much, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144436",
+      "date": "1943-08-15",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Spanish Artist"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144437",
+      "date": "1944-02-21",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144438",
+      "date": "1944-05-21",
+      "epnum": "68",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144439",
+      "date": "1944-05-28",
+      "epnum": "69",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story of the United States 'T' Men, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "234075",
+      "date": "1944-06-04",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Deliver us From Our Enemy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "232088",
+      "date": "1944-06-04",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Doctor and Magdalena , The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144428",
+      "date": "1944-06-04",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Fabulous Maxine Gang"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144440",
+      "date": "1944-06-11",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144441",
+      "date": "1944-06-18",
+      "epnum": "72",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story of 'T' Men, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144442",
+      "date": "1944-06-25",
+      "epnum": "73",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144443",
+      "date": "1944-07-02",
+      "epnum": "74",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Faithful Wife"
+        },
+        {
+          "title": "Unloyal Wife, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144444",
+      "date": "1944-07-09",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Swindler's Daughter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "234076",
+      "date": "1944-07-16",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sweet And Low"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144426",
+      "date": "1944-07-16",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Hate Racket [PREMIERE - Tuesday, 9pm WJZ-ABC in NY]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "232089",
+      "date": "1944-07-16",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Under One Flag 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144445",
+      "date": "1944-07-23",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144425",
+      "date": "1944-07-30",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mary visits the Culvers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "234077",
+      "date": "1944-07-30",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Mail Today"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "232090",
+      "date": "1944-07-30",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Under One Flag 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "234078",
+      "date": "1944-08-06",
+      "epnum": "80",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cowboy And The Senorita, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144424",
+      "date": "1944-08-06",
+      "epnum": "80",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Demand for Labor Saving Devices"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "232091",
+      "date": "1944-08-06",
+      "epnum": "80",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "It's a Small World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144446",
+      "date": "1944-08-13",
+      "epnum": "81",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "234079",
+      "date": "1944-08-20",
+      "epnum": "82",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Letters From The Front"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144423",
+      "date": "1944-08-20",
+      "epnum": "82",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mary Helps A Shaky Marriage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "232092",
+      "date": "1944-08-20",
+      "epnum": "82",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Windows on the World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "232093",
+      "date": "1944-08-27",
+      "epnum": "83",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eye Witness 52"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "234080",
+      "date": "1944-08-27",
+      "epnum": "83",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Song Of America"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144422",
+      "date": "1944-08-27",
+      "epnum": "83",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144447",
+      "date": "1944-09-03",
+      "epnum": "84",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "234081",
+      "date": "1944-09-10",
+      "epnum": "85",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Gracie Fields"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "232094",
+      "date": "1944-09-10",
+      "epnum": "85",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Jungle in Retreat 1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144421",
+      "date": "1944-09-10",
+      "epnum": "85",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "311228",
+      "date": "1944-09-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Transatlantic Call 44-09-11 Getting To Know Britian"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Transatlantic Call 44-09-11 Getting To Know Britian.mp3",
+          "time": "1723",
+          "size": "13787636"
+        }
+      ]
+    },
+    {
+      "ide": "315656",
+      "date": "1944-09-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Getting To Know Britain"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Transatlantic Call",
+          "name": "Transatlantic Call 440911 Getting To Know Britain_OTRRPG.mp3",
+          "time": "1721",
+          "size": "27618339"
+        }
+      ]
+    },
+    {
+      "ide": "232095",
+      "date": "1944-09-17",
+      "epnum": "86",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Jungle in Retreat 2"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "234082",
+      "date": "1944-09-17",
+      "epnum": "86",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Without A Country, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144420",
+      "date": "1944-09-17",
+      "epnum": "86",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Papering the Bedroom"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144448",
+      "date": "1944-09-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144449",
+      "date": "1944-10-01",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144450",
+      "date": "1944-10-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "(Show moves to Thursdays at 8pm)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144452",
+      "date": "1945-02-18",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Killer's Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144453",
+      "date": "1946-04-21",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "144454",
+      "date": "1952-10-19",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "(Time slot moves to Thursdays at 7:30pm)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "144455",
+      "date": "1953-04-12",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-02-17",
+      "dow": "",
+      "time": "",
+      "end": "1945-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Transatlantic Call: People To People"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050710-dae8cca0.jpg",
+      "label": "Heritage Over The Land CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050722-08be8f8f.jpg",
+      "label": "Heritage Over The Land CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050728-98d58d47.jpg",
+      "label": "Heritage Over The Land CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Heritage_Over_The_Land_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Heritage-Over-the-Land.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Heritage_Over_The_Land_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "75850",
+      "date": "1954-01-10",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time To Build, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-01-10__01_A_Time_To_Build.mp3",
+          "time": "1838",
+          "size": "29405301"
+        }
+      ]
+    },
+    {
+      "ide": "75851",
+      "date": "1954-01-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Pre-empted for Tony Awards]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "75852",
+      "date": "1954-01-24",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Land is New, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-01-24__02_The_Land_is_New.mp3",
+          "time": "1849",
+          "size": "29587925"
+        }
+      ]
+    },
+    {
+      "ide": "75853",
+      "date": "1954-01-31",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Growth of the Timber Industry in the South, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-01-31__03_The_Growth_of_the_Timber_Industry_in_the_South.mp3",
+          "time": "1909",
+          "size": "30542964"
+        }
+      ]
+    },
+    {
+      "ide": "75854",
+      "date": "1954-02-07",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pattern for Tomorrow"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-02-07__04_Pattern_for_Tomorrow.mp3",
+          "time": "1872",
+          "size": "29958874"
+        }
+      ]
+    },
+    {
+      "ide": "75855",
+      "date": "1954-02-14",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bounty of the Sun"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-02-14__05_Bounty_of_the_Sun.mp3",
+          "time": "1865",
+          "size": "29839639"
+        }
+      ]
+    },
+    {
+      "ide": "75856",
+      "date": "1954-02-21",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Forge for the Future"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-02-21__06_Forge_for_the_Future.mp3",
+          "time": "1838",
+          "size": "29408218"
+        }
+      ]
+    },
+    {
+      "ide": "75857",
+      "date": "1954-02-28",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doorway to the Future"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-02-28__07_Doorway_to_the_Future.mp3",
+          "time": "1829",
+          "size": "29265371"
+        }
+      ]
+    },
+    {
+      "ide": "75858",
+      "date": "1954-03-07",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Power and the Pride, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-03-07__08_The_Power_and_the_Pride.mp3",
+          "time": "1844",
+          "size": "29496925"
+        }
+      ]
+    },
+    {
+      "ide": "75859",
+      "date": "1954-03-14",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Legacy of the Centuries"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-03-14__09_Legacy_of_the_Centuries.mp3",
+          "time": "1874",
+          "size": "29986494"
+        }
+      ]
+    },
+    {
+      "ide": "75860",
+      "date": "1954-03-21",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lesson For Tomorrow"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-03-21__10_Lesson_For_Tomorrow.mp3",
+          "time": "1847",
+          "size": "29557978"
+        }
+      ]
+    },
+    {
+      "ide": "75861",
+      "date": "1954-03-28",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time for Beauty"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-03-28__11_Time_for_Beauty.mp3",
+          "time": "1776",
+          "size": "28409431"
+        }
+      ]
+    },
+    {
+      "ide": "75862",
+      "date": "1954-04-04",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Land is Bright, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Heritage_Over_The_Land_Singles",
+          "name": "Heritage_Over_The_Land_54-04-04__12_The_Land_is_Bright.mp3",
+          "time": "1900",
+          "size": "15202604"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Heritage Over the Land"
+    }
+  ]
+}

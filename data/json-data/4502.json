@@ -1,0 +1,6423 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "HEAR"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050632-41e8080f.jpg",
+      "label": "Heartbeat Theater",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-4502-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/H Series/Heartbeat Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "29159",
+      "first": "C. P. 'Chip'",
+      "last": "MacGregor",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4271",
+      "first": "Bret",
+      "last": "Morrison",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3666",
+      "first": "Barbara",
+      "last": "Luddy",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4695",
+      "first": "Barney",
+      "last": "Phillips",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4937",
+      "first": "Alice",
+      "last": "Reinheart",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5563",
+      "first": "Olan",
+      "last": "Soule",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "241550",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Birthday Surprise"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater xx-xx-xx (xxxx) Birthday Surprise.mp3",
+          "time": "1570",
+          "size": "6284247"
+        }
+      ]
+    },
+    {
+      "ide": "241553",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deadman"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater xx-xx-xx (xxxx) Deadman.mp3",
+          "time": "1912",
+          "size": "7647143"
+        }
+      ]
+    },
+    {
+      "ide": "241556",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fourth Of July Reunion"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater xx-xx-xx (xxxx) Fourth Of July Reunion.mp3",
+          "time": "1555",
+          "size": "6221971"
+        }
+      ]
+    },
+    {
+      "ide": "241559",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Time I Saw Lulu, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater xx-xx-xx (xxxx) The Last Time I Saw Lulu.mp3",
+          "time": "1582",
+          "size": "6329805"
+        }
+      ]
+    },
+    {
+      "ide": "241561",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pygmalion In Reverse"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater xx-xx-xx (xxxx) Pygmalion In Reverse.mp3",
+          "time": "1417",
+          "size": "5669116"
+        }
+      ]
+    },
+    {
+      "ide": "241563",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Seventy-Second Christmas Of Charlie Snow, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater xx-xx-xx (xxxx) The Seventy-Second Christmas Of Charlie Snow.mp3",
+          "time": "1440",
+          "size": "5763261"
+        }
+      ]
+    },
+    {
+      "ide": "241565",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thrill Seeker, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater xx-xx-xx (xxxx) The Thrill Seeker.mp3",
+          "time": "1461",
+          "size": "5847375"
+        }
+      ]
+    },
+    {
+      "ide": "241567",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Very Special People"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater xx-xx-xx (xxxx) Very Special People.mp3",
+          "time": "1572",
+          "size": "6290934"
+        }
+      ]
+    },
+    {
+      "ide": "241569",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wild Turkey"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater xx-xx-xx (xxxx) Wild Turkey.mp3",
+          "time": "1351",
+          "size": "5404652"
+        }
+      ]
+    },
+    {
+      "ide": "198243",
+      "date": "0000-00-00",
+      "epnum": "1000",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vengance Is Mine (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73951",
+      "date": "1956-03-04",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Child's Play"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73952",
+      "date": "1956-03-11",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Journey for Katherine"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater xx-xx-xx (1000) Vengance Is Mine (2).mp3",
+          "time": "1553",
+          "size": "6213925"
+        }
+      ]
+    },
+    {
+      "ide": "73953",
+      "date": "1956-03-18",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man who was born Twice, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73954",
+      "date": "1956-03-25",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "By The Company we Keep"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73955",
+      "date": "1956-04-01",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Holiday at Miner's Junction, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73956",
+      "date": "1956-04-08",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To Live Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73957",
+      "date": "1956-04-15",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man in the Background"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73958",
+      "date": "1956-04-22",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Return to April"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73959",
+      "date": "1956-04-29",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last of These, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73960",
+      "date": "1956-05-06",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life of Nikki Roselli, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73961",
+      "date": "1956-05-13",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "73962",
+      "date": "1956-05-20",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "73963",
+      "date": "1956-05-27",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Johnny No-Name"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73964",
+      "date": "1956-06-03",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Very Important Person, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73965",
+      "date": "1956-06-10",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Theme and Variation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73966",
+      "date": "1956-06-17",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Man, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73967",
+      "date": "1956-06-24",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rainstorm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73968",
+      "date": "1956-07-01",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Danube Was Blue, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73969",
+      "date": "1956-07-08",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Darkest Night, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73970",
+      "date": "1956-07-15",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sing Me a Lullaby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73971",
+      "date": "1956-07-22",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wanderer, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73972",
+      "date": "1956-07-29",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Steps in the Right Direction"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73973",
+      "date": "1956-08-05",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When the Cat's Away"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73974",
+      "date": "1956-08-12",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Matter of Time, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73975",
+      "date": "1956-08-19",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search Beyond, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73976",
+      "date": "1956-08-26",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Of Men and Angels"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73977",
+      "date": "1956-09-02",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Meeting in the Rain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73978",
+      "date": "1956-09-09",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shortcut"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73979",
+      "date": "1956-09-16",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Answer, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73980",
+      "date": "1956-09-23",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pat Hand"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73981",
+      "date": "1956-09-30",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Home for Scrappy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73982",
+      "date": "1956-10-07",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hide and Seek"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73983",
+      "date": "1956-10-14",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Night to Remember, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73984",
+      "date": "1956-10-21",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aftermath"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73985",
+      "date": "1956-10-28",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "If It's Alive, Salute It"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73986",
+      "date": "1956-11-04",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Give Us This Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73987",
+      "date": "1956-11-11",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Question, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73988",
+      "date": "1956-11-18",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thanksgiving for Miss Tessie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73989",
+      "date": "1956-11-25",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flight Through Fear"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73990",
+      "date": "1956-12-02",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prize Window"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73917",
+      "date": "1956-12-09",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "73915",
+      "date": "1956-12-16",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "73991",
+      "date": "1956-12-23",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Royal Suite"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73992",
+      "date": "1956-12-30",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Five Minutes to Paradise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73993",
+      "date": "1957-01-06",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crackup at Eagle Pass"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73994",
+      "date": "1957-01-13",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Was a Stranger"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73995",
+      "date": "1957-08-18",
+      "epnum": "77",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Day the Birds Stopped Singing, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73996",
+      "date": "1957-08-25",
+      "epnum": "78",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "None So Blind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73997",
+      "date": "1957-09-05",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "That Bailey Boy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73998",
+      "date": "1957-09-22",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Danny Dopple's Dilemma"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73999",
+      "date": "1957-09-29",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pure in Heart, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74000",
+      "date": "1957-10-06",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "There's a Baby in the House"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74001",
+      "date": "1957-10-13",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out of the Darkness"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74002",
+      "date": "1957-10-20",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Give and Bequeath"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74003",
+      "date": "1957-10-27",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boy Who Wouldn't Talk, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74004",
+      "date": "1957-11-03",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Night of Decision"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74005",
+      "date": "1957-11-24",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Step North of Evil, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74006",
+      "date": "1957-12-01",
+      "epnum": "92",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yuletide Embers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74007",
+      "date": "1958-01-05",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tonic for Mrs Totter, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74008",
+      "date": "1958-01-12",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dinner of Herbs, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74009",
+      "date": "1958-01-19",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Columbia Street"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74010",
+      "date": "1958-01-26",
+      "epnum": "100",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Million Laughs, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74011",
+      "date": "1958-02-02",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Remarkable Incident at Whitney Hills, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 58-02-02 (0101) The Remarkable Incident at Whitney Hills.mp3",
+          "time": "1807",
+          "size": "7229608"
+        }
+      ]
+    },
+    {
+      "ide": "74012",
+      "date": "1958-02-09",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Showdown at Cactus Wells Junction"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74013",
+      "date": "1958-02-16",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Just to Be Stealing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74014",
+      "date": "1958-02-23",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Certain Samaritan, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74015",
+      "date": "1958-03-02",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "End of the Trail, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74016",
+      "date": "1958-03-09",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Safe at First"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74017",
+      "date": "1958-04-27",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sally in the Brain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74018",
+      "date": "1958-05-04",
+      "epnum": "114",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Note in the Yellow Robe, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74019",
+      "date": "1958-05-11",
+      "epnum": "115",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Location Plainview"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74020",
+      "date": "1958-05-18",
+      "epnum": "116",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Postscript to a Hero"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74021",
+      "date": "1958-05-25",
+      "epnum": "117",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rumor Mill, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74022",
+      "date": "1958-06-01",
+      "epnum": "118",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Golden Agers, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74023",
+      "date": "1958-06-08",
+      "epnum": "119",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Village Where Contentment Hid, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74024",
+      "date": "1958-06-15",
+      "epnum": "120",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unwanted, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74025",
+      "date": "1958-06-22",
+      "epnum": "121",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Consider the Lilies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74026",
+      "date": "1958-06-29",
+      "epnum": "122",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kidnapping of Kirby Dent, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74027",
+      "date": "1958-07-06",
+      "epnum": "123",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Feet That Did Not Slip, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74028",
+      "date": "1958-07-13",
+      "epnum": "124",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trial of Joe the Turk, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 580713 124 The Trial of Joe The Turk (192-44)_OTRRPG.mp3",
+          "time": "1797",
+          "size": "43147488"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 58-07-13 (0124) The Trial of Joe the Turk.mp3",
+          "time": "1792",
+          "size": "14333962"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 580713 124 The Trial of Joe The Turk (192-44).mp3",
+          "time": "1797",
+          "size": "21568341"
+        }
+      ]
+    },
+    {
+      "ide": "74029",
+      "date": "1958-07-20",
+      "epnum": "125",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Decision on Highway 60"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74030",
+      "date": "1958-07-27",
+      "epnum": "126",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Miracle of El Horabado, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74031",
+      "date": "1958-08-03",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moving Van"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74032",
+      "date": "1958-08-10",
+      "epnum": "128",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Matter of Life, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74033",
+      "date": "1958-08-17",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Egghead, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74034",
+      "date": "1958-08-24",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Friends and Brothers"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 58-08-24 (0130) Friends and Brothers.mp3",
+          "time": "1681",
+          "size": "6725949"
+        }
+      ]
+    },
+    {
+      "ide": "74035",
+      "date": "1958-08-31",
+      "epnum": "131",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nightmare at Gate Twelve"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74036",
+      "date": "1958-09-07",
+      "epnum": "132",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "None Other Name"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74037",
+      "date": "1958-09-14",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Discovery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74038",
+      "date": "1958-09-21",
+      "epnum": "134",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fear No Evil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74039",
+      "date": "1958-09-28",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out of the Harness"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74040",
+      "date": "1958-10-05",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lockridge and Son"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74041",
+      "date": "1958-10-12",
+      "epnum": "137",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Awakening of Uncle Charlie, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 58-10-12 (0137) The Awakening of Uncle Charlie.mp3",
+          "time": "1750",
+          "size": "7003659"
+        }
+      ]
+    },
+    {
+      "ide": "74042",
+      "date": "1958-10-19",
+      "epnum": "138",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Best Policy, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 58-10-19 (0138) The Best Policy.mp3",
+          "time": "1791",
+          "size": "7164783"
+        }
+      ]
+    },
+    {
+      "ide": "74043",
+      "date": "1958-10-26",
+      "epnum": "139",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brighter Tomorrow, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74044",
+      "date": "1958-11-02",
+      "epnum": "140",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery at the Carib Settlement, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74045",
+      "date": "1958-11-09",
+      "epnum": "141",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Success"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 58-11-09 (0141) Success.mp3",
+          "time": "1798",
+          "size": "7191114"
+        }
+      ]
+    },
+    {
+      "ide": "74046",
+      "date": "1958-11-16",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sighting, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 58-11-16 (0142) The Sighting.mp3",
+          "time": "1785",
+          "size": "7138911"
+        }
+      ]
+    },
+    {
+      "ide": "74047",
+      "date": "1958-11-23",
+      "epnum": "143",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Madonna of the Great Architect, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74048",
+      "date": "1958-11-30",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This Humility Bit"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74049",
+      "date": "1958-12-07",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gift of a Lifetime, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74050",
+      "date": "1958-12-14",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When Twilight Comes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74051",
+      "date": "1958-12-21",
+      "epnum": "147",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wise Men on Wheels"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74052",
+      "date": "1958-12-28",
+      "epnum": "148",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grey Flannel Christmas, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74053",
+      "date": "1959-01-04",
+      "epnum": "149",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Swamp, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74054",
+      "date": "1959-01-11",
+      "epnum": "150",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tambourine Liz"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74055",
+      "date": "1959-01-18",
+      "epnum": "151",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oil of Gladness"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74056",
+      "date": "1959-01-25",
+      "epnum": "152",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prowler, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74057",
+      "date": "1959-02-01",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Symbol, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74058",
+      "date": "1959-02-08",
+      "epnum": "154",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "They Gave Their House Away"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74059",
+      "date": "1959-02-15",
+      "epnum": "155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strong Tower, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74060",
+      "date": "1959-02-22",
+      "epnum": "156",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House on Maplewood Avenue, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74061",
+      "date": "1959-03-01",
+      "epnum": "157",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Terrible Teens, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74062",
+      "date": "1959-03-08",
+      "epnum": "158",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Day, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74063",
+      "date": "1959-03-15",
+      "epnum": "159",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Place to Hide, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74064",
+      "date": "1959-03-22",
+      "epnum": "160",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lead Us Not"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74065",
+      "date": "1959-03-29",
+      "epnum": "161",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Children of the Light"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-03-29 (0161) Children of the Light.mp3",
+          "time": "1818",
+          "size": "7273347"
+        }
+      ]
+    },
+    {
+      "ide": "74066",
+      "date": "1959-04-05",
+      "epnum": "162",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Winthrop Place, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-04-05 (0162) The Old Winthrop Place.mp3",
+          "time": "1800",
+          "size": "7203444"
+        }
+      ]
+    },
+    {
+      "ide": "74067",
+      "date": "1959-04-12",
+      "epnum": "163",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Memory of Tomorrow"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-04-12 (0163) Memory of Tomorrow.mp3",
+          "time": "1835",
+          "size": "7343356"
+        }
+      ]
+    },
+    {
+      "ide": "74068",
+      "date": "1959-04-19",
+      "epnum": "164",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sour Drum Song, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-04-19 (0164) The Sour Drum Song.mp3",
+          "time": "1836",
+          "size": "7347640"
+        }
+      ]
+    },
+    {
+      "ide": "74069",
+      "date": "1959-04-26",
+      "epnum": "165",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Witness, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-04-26 (0165) The Last Witness.mp3",
+          "time": "1805",
+          "size": "7221834"
+        }
+      ]
+    },
+    {
+      "ide": "74070",
+      "date": "1959-05-03",
+      "epnum": "166",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lucky Break, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-05-03 (0166) The Lucky Break.mp3",
+          "time": "1799",
+          "size": "7199473"
+        }
+      ]
+    },
+    {
+      "ide": "74071",
+      "date": "1959-05-10",
+      "epnum": "167",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Say to the Mountain"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-05-10 (0167) Say to the Mountain.mp3",
+          "time": "1794",
+          "size": "7175006"
+        }
+      ]
+    },
+    {
+      "ide": "74072",
+      "date": "1959-05-17",
+      "epnum": "168",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ghost of Danton Hill, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-05-17 (0168) The Ghost of Danton Hill.mp3",
+          "time": "1799",
+          "size": "7197891"
+        }
+      ]
+    },
+    {
+      "ide": "74073",
+      "date": "1959-05-24",
+      "epnum": "169",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crescendo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74074",
+      "date": "1959-05-31",
+      "epnum": "170",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fingertip Coat, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74075",
+      "date": "1959-06-07",
+      "epnum": "171",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Forbid Them Not"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74076",
+      "date": "1959-06-14",
+      "epnum": "172",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Recompense"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74077",
+      "date": "1959-06-21",
+      "epnum": "173",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Job for Joe, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74078",
+      "date": "1959-06-28",
+      "epnum": "174",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hotrod"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74079",
+      "date": "1959-07-05",
+      "epnum": "175",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Falling Leaves"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74080",
+      "date": "1959-07-12",
+      "epnum": "176",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reward, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74081",
+      "date": "1959-07-19",
+      "epnum": "177",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Black Keys and the White, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-07-19 (0177) The Black Keys and the White.mp3",
+          "time": "1945",
+          "size": "7780808"
+        }
+      ]
+    },
+    {
+      "ide": "74082",
+      "date": "1959-07-26",
+      "epnum": "178",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Con Man, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-07-26 (0178) The Con Man.mp3",
+          "time": "1796",
+          "size": "7183838"
+        }
+      ]
+    },
+    {
+      "ide": "74083",
+      "date": "1959-08-02",
+      "epnum": "179",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Family Album"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-08-02 (0179) Family Album.mp3",
+          "time": "2012",
+          "size": "8050664"
+        }
+      ]
+    },
+    {
+      "ide": "74084",
+      "date": "1959-08-09",
+      "epnum": "180",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lie, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-08-09 (0180) The Lie.mp3",
+          "time": "1780",
+          "size": "7121434"
+        }
+      ]
+    },
+    {
+      "ide": "74085",
+      "date": "1959-08-16",
+      "epnum": "181",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "As the Wind Changes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74086",
+      "date": "1959-08-23",
+      "epnum": "182",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Attempted Robbery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74087",
+      "date": "1959-08-30",
+      "epnum": "183",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Once a Thief"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-08-30 (0183) Once a Thief.mp3",
+          "time": "1831",
+          "size": "7323407"
+        }
+      ]
+    },
+    {
+      "ide": "74088",
+      "date": "1959-09-06",
+      "epnum": "184",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good Angel, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-09-06 (0184) A Good Angel.mp3",
+          "time": "1815",
+          "size": "7261436"
+        }
+      ]
+    },
+    {
+      "ide": "74089",
+      "date": "1959-09-13",
+      "epnum": "185",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poison Pills, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74090",
+      "date": "1959-09-20",
+      "epnum": "186",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Will Restore"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74091",
+      "date": "1959-09-27",
+      "epnum": "187",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Way for a Stranger, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74092",
+      "date": "1959-10-04",
+      "epnum": "188",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Maid of the Mountains"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74093",
+      "date": "1959-10-11",
+      "epnum": "189",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man for Hire"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74094",
+      "date": "1959-10-18",
+      "epnum": "190",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boy in the Park, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74095",
+      "date": "1959-10-25",
+      "epnum": "191",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Storm Signal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74096",
+      "date": "1959-11-01",
+      "epnum": "192",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Greatest Team, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74097",
+      "date": "1959-11-08",
+      "epnum": "193",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oasis"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74098",
+      "date": "1959-11-15",
+      "epnum": "194",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Down in the Sea"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74099",
+      "date": "1959-11-22",
+      "epnum": "195",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Many Mansions"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74100",
+      "date": "1959-11-29",
+      "epnum": "196",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boy with the Sad Brown Eyes, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74101",
+      "date": "1959-12-06",
+      "epnum": "197",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lonely Man, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74102",
+      "date": "1959-12-13",
+      "epnum": "198",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Humbug"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74103",
+      "date": "1959-12-20",
+      "epnum": "199",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kettle, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-12-20 (0199) The Kettle.mp3",
+          "time": "1810",
+          "size": "7241792"
+        }
+      ]
+    },
+    {
+      "ide": "74104",
+      "date": "1959-12-27",
+      "epnum": "200",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yuan Tan"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 59-12-27 (0200) Yuan Tan.mp3",
+          "time": "1790",
+          "size": "7163215"
+        }
+      ]
+    },
+    {
+      "ide": "74105",
+      "date": "1960-01-03",
+      "epnum": "201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Iverson Story, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74106",
+      "date": "1960-01-10",
+      "epnum": "202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Horn of Plenty"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74107",
+      "date": "1960-01-17",
+      "epnum": "203",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Abstract"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 60-01-17 (0203) Abstract.mp3",
+          "time": "1825",
+          "size": "7302291"
+        }
+      ]
+    },
+    {
+      "ide": "74108",
+      "date": "1960-01-24",
+      "epnum": "204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Count of Nine"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 60-01-24 (0204) Count of Nine.mp3",
+          "time": "1784",
+          "size": "7137824"
+        }
+      ]
+    },
+    {
+      "ide": "74109",
+      "date": "1960-01-31",
+      "epnum": "205",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Malignancy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74110",
+      "date": "1960-02-07",
+      "epnum": "206",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Promise Box, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74111",
+      "date": "1960-02-14",
+      "epnum": "207",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Too Late to Classify"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74112",
+      "date": "1960-02-21",
+      "epnum": "208",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hole in the Doughnut, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74113",
+      "date": "1960-02-28",
+      "epnum": "209",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "City That Was, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74114",
+      "date": "1960-03-06",
+      "epnum": "210",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yankee, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74115",
+      "date": "1960-03-13",
+      "epnum": "211",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Saga of Mannie the Moocher, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74116",
+      "date": "1960-03-20",
+      "epnum": "212",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Letter to the Editor"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74117",
+      "date": "1960-03-27",
+      "epnum": "213",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Uncle Ken"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74118",
+      "date": "1960-04-03",
+      "epnum": "214",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Witch of Tory Place, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74119",
+      "date": "1960-04-10",
+      "epnum": "215",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rumble, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74120",
+      "date": "1960-04-17",
+      "epnum": "216",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Easter Parade"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74121",
+      "date": "1960-04-24",
+      "epnum": "217",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eyes to the Blind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74122",
+      "date": "1960-05-01",
+      "epnum": "218",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pegray Revisited"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74123",
+      "date": "1960-05-08",
+      "epnum": "219",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To Forgive"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74124",
+      "date": "1960-05-15",
+      "epnum": "220",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stranger in the House"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74125",
+      "date": "1960-05-22",
+      "epnum": "221",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gift, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74126",
+      "date": "1960-05-29",
+      "epnum": "222",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trouble Years, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74127",
+      "date": "1960-06-05",
+      "epnum": "223",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trial, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74128",
+      "date": "1960-06-12",
+      "epnum": "224",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Beds"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74129",
+      "date": "1960-06-19",
+      "epnum": "225",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Just Happened"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74130",
+      "date": "1960-06-26",
+      "epnum": "226",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coward, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74131",
+      "date": "1960-07-17",
+      "epnum": "229",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wanted, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74132",
+      "date": "1960-07-24",
+      "epnum": "230",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Higher Court, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74133",
+      "date": "1960-07-31",
+      "epnum": "231",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Second Sight"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74134",
+      "date": "1960-08-07",
+      "epnum": "232",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rollaway Bed"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74135",
+      "date": "1960-08-14",
+      "epnum": "233",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hukbo ng Kaligtasan"
+        },
+        {
+          "title": "Hoot, Mon, Calichtassen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74136",
+      "date": "1960-08-21",
+      "epnum": "234",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Within These Gates"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74137",
+      "date": "1960-08-28",
+      "epnum": "235",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flaming Brush, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74138",
+      "date": "1960-09-04",
+      "epnum": "236",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "McDevitt's Last Run"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74139",
+      "date": "1960-09-11",
+      "epnum": "237",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Panic and Gordon Hayes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74140",
+      "date": "1960-09-25",
+      "epnum": "239",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "There Can Be More"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74141",
+      "date": "1960-10-02",
+      "epnum": "240",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Burning Wheel, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74142",
+      "date": "1960-10-09",
+      "epnum": "241",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Portrait of a Prophet part 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 60-10-09 (0241) Portrait of a Prophet part 1.mp3",
+          "time": "1829",
+          "size": "7317965"
+        }
+      ]
+    },
+    {
+      "ide": "74143",
+      "date": "1960-10-16",
+      "epnum": "242",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Portrait of a Prophet part 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 60-10-16 (0242) Portrait of a Prophet part 2.mp3",
+          "time": "1835",
+          "size": "7341161"
+        }
+      ]
+    },
+    {
+      "ide": "74144",
+      "date": "1960-10-23",
+      "epnum": "243",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tea Party, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 60-10-23 (0243) The Tea Party.mp3",
+          "time": "1833",
+          "size": "7333429"
+        }
+      ]
+    },
+    {
+      "ide": "74145",
+      "date": "1960-10-30",
+      "epnum": "244",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Emergency, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 60-10-30 (0244) The Emergency.mp3",
+          "time": "1842",
+          "size": "7366880"
+        }
+      ]
+    },
+    {
+      "ide": "74146",
+      "date": "1960-11-06",
+      "epnum": "245",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sword and a Rose, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74147",
+      "date": "1960-11-13",
+      "epnum": "246",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Treasure, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74148",
+      "date": "1960-11-20",
+      "epnum": "247",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Thanksgiving, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74149",
+      "date": "1960-11-27",
+      "epnum": "248",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Valley of the Shadow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74150",
+      "date": "1960-12-02",
+      "epnum": "197",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Payoff, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74151",
+      "date": "1960-12-04",
+      "epnum": "249",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Citadel, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74152",
+      "date": "1960-12-11",
+      "epnum": "250",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ancestor, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74153",
+      "date": "1960-12-18",
+      "epnum": "251",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "God Rest Ye"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74154",
+      "date": "1960-12-25",
+      "epnum": "252",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gift in Morning Calm, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74155",
+      "date": "1961-01-01",
+      "epnum": "253",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Land of Beginning Again"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74156",
+      "date": "1961-01-08",
+      "epnum": "254",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Iron Bars"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74157",
+      "date": "1961-01-15",
+      "epnum": "255",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Home for Frank, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74158",
+      "date": "1961-01-22",
+      "epnum": "256",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Seat of the Mighty"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74159",
+      "date": "1961-01-29",
+      "epnum": "257",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eye for an Eye, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74160",
+      "date": "1961-02-05",
+      "epnum": "258",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harvest, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74161",
+      "date": "1961-02-12",
+      "epnum": "259",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nick's Story"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74162",
+      "date": "1961-02-19",
+      "epnum": "260",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Home Is the Hunter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74163",
+      "date": "1961-02-26",
+      "epnum": "261",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of the Picture, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre - #261 - 610226 - The Story of the Picture - Donald Buka & Jay Jostyn.mp3",
+          "time": "1534",
+          "size": "18404643"
+        }
+      ]
+    },
+    {
+      "ide": "74164",
+      "date": "1961-03-05",
+      "epnum": "262",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Watchful, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre - #262 - 610305 - Alice Reinheart in the Watchful.mp3",
+          "time": "1542",
+          "size": "18510132"
+        }
+      ]
+    },
+    {
+      "ide": "74165",
+      "date": "1961-03-12",
+      "epnum": "263",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case in Point, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 61-03-12 (0263) A Case in Point.mp3",
+          "time": "1833",
+          "size": "7333638"
+        }
+      ]
+    },
+    {
+      "ide": "74166",
+      "date": "1961-03-19",
+      "epnum": "264",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Four Hungry Boys"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74167",
+      "date": "1961-03-26",
+      "epnum": "265",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Runaway, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74168",
+      "date": "1961-04-02",
+      "epnum": "266",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coin, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74169",
+      "date": "1961-04-09",
+      "epnum": "267",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Talking Drums"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74170",
+      "date": "1961-04-16",
+      "epnum": "268",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stones into the Sea"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74171",
+      "date": "1961-04-23",
+      "epnum": "269",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Canvas Palace, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74172",
+      "date": "1961-04-30",
+      "epnum": "270",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Nobody Wanted, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74173",
+      "date": "1961-05-21",
+      "epnum": "273",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Party, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74174",
+      "date": "1961-05-28",
+      "epnum": "274",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Find My Brother"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74175",
+      "date": "1961-06-04",
+      "epnum": "275",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mirror of Ice"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74176",
+      "date": "1961-06-11",
+      "epnum": "276",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Funny Man, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74177",
+      "date": "1961-06-18",
+      "epnum": "277",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aftermath"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74178",
+      "date": "1961-06-25",
+      "epnum": "278",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Day It Rained, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74179",
+      "date": "1961-07-02",
+      "epnum": "279",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dark Alley, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74180",
+      "date": "1961-07-09",
+      "epnum": "280",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Honor Among Thieves"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74181",
+      "date": "1961-07-16",
+      "epnum": "281",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trial of the Innocent"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74182",
+      "date": "1961-07-23",
+      "epnum": "282",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clean Sweep"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74183",
+      "date": "1961-07-30",
+      "epnum": "283",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Kid Brother"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74184",
+      "date": "1961-08-06",
+      "epnum": "284",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blind Man's Bluff"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74185",
+      "date": "1961-08-13",
+      "epnum": "285",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Leave of Absence"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74186",
+      "date": "1961-08-20",
+      "epnum": "286",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Noblesse Oblige"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74187",
+      "date": "1961-08-27",
+      "epnum": "287",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Stand"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74188",
+      "date": "1961-09-03",
+      "epnum": "288",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Image, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74189",
+      "date": "1961-09-10",
+      "epnum": "289",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Operation Robbie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74190",
+      "date": "1961-09-17",
+      "epnum": "290",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Remember Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74191",
+      "date": "1961-09-24",
+      "epnum": "291",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bottom of the Well, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74192",
+      "date": "1961-10-01",
+      "epnum": "292",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Innocent and the Guilty, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74193",
+      "date": "1961-10-08",
+      "epnum": "293",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sense of Values, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74194",
+      "date": "1961-10-15",
+      "epnum": "294",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Going Up"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74195",
+      "date": "1961-10-22",
+      "epnum": "295",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of Joan, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74196",
+      "date": "1961-10-29",
+      "epnum": "296",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thou Good and Faithful Servant"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74197",
+      "date": "1961-11-05",
+      "epnum": "297",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Suit, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74198",
+      "date": "1961-11-12",
+      "epnum": "298",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Success Story, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74199",
+      "date": "1961-11-19",
+      "epnum": "299",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thanksgiving on Battle Row"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74200",
+      "date": "1961-11-26",
+      "epnum": "300",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Finders Keepers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74201",
+      "date": "1961-12-03",
+      "epnum": "301",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unwed Mother"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74202",
+      "date": "1961-12-10",
+      "epnum": "302",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Call Me Mara"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74203",
+      "date": "1961-12-17",
+      "epnum": "303",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In His Footsteps"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 61-12-17 (0303) In His Footsteps.mp3",
+          "time": "1834",
+          "size": "7340012"
+        }
+      ]
+    },
+    {
+      "ide": "74204",
+      "date": "1961-12-24",
+      "epnum": "304",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Third Saturday in Advent, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 61-12-24 (0304) The Third Saturday in Advent.mp3",
+          "time": "1803",
+          "size": "7215983"
+        }
+      ]
+    },
+    {
+      "ide": "74205",
+      "date": "1961-12-31",
+      "epnum": "305",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hand on My Shoulder"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 61-12-31 (0305) Hand on My Shoulder.mp3",
+          "time": "1836",
+          "size": "7347326"
+        }
+      ]
+    },
+    {
+      "ide": "74206",
+      "date": "1962-01-07",
+      "epnum": "306",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Depart in Peace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74207",
+      "date": "1962-01-14",
+      "epnum": "307",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sad Is the Lute"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74208",
+      "date": "1962-01-21",
+      "epnum": "308",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Louie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74209",
+      "date": "1962-01-28",
+      "epnum": "309",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House of the Foolish Old Woman, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74210",
+      "date": "1962-02-04",
+      "epnum": "310",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passion of Joey Dukes, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74211",
+      "date": "1962-02-11",
+      "epnum": "311",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Legal Transaction, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74212",
+      "date": "1962-02-18",
+      "epnum": "312",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prisoner, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74213",
+      "date": "1962-02-25",
+      "epnum": "313",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blood and Fire"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74214",
+      "date": "1962-03-04",
+      "epnum": "314",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Turning Point, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74215",
+      "date": "1962-03-11",
+      "epnum": "315",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Which Way Is Up"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74216",
+      "date": "1962-03-18",
+      "epnum": "316",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gang War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74217",
+      "date": "1962-03-25",
+      "epnum": "317",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bridge, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74218",
+      "date": "1962-04-01",
+      "epnum": "318",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tenth Life, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74219",
+      "date": "1962-04-08",
+      "epnum": "319",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nothing Lost"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74220",
+      "date": "1962-04-15",
+      "epnum": "320",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Woman Talk"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74221",
+      "date": "1962-04-22",
+      "epnum": "321",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time to Live, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74222",
+      "date": "1962-04-29",
+      "epnum": "322",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Home-coming"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74223",
+      "date": "1962-05-06",
+      "epnum": "323",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "D-Day for Dory"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 62-05-06 (0323) D-Day for Dory.mp3",
+          "time": "1834",
+          "size": "7336513"
+        }
+      ]
+    },
+    {
+      "ide": "74224",
+      "date": "1962-05-13",
+      "epnum": "324",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Executive Decision"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 62-05-13 (0324) Executive Decision.mp3",
+          "time": "1841",
+          "size": "7365117"
+        }
+      ]
+    },
+    {
+      "ide": "74225",
+      "date": "1962-05-20",
+      "epnum": "325",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For the Sake of the Kids"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74226",
+      "date": "1962-05-27",
+      "epnum": "326",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Runaway, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74227",
+      "date": "1962-06-03",
+      "epnum": "327",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gateway, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74228",
+      "date": "1962-06-10",
+      "epnum": "328",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Promotion to Glory"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74229",
+      "date": "1962-06-17",
+      "epnum": "329",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In a Strange Land"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74230",
+      "date": "1962-06-24",
+      "epnum": "330",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trains"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74231",
+      "date": "1962-07-01",
+      "epnum": "331",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To Move a Mountain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74232",
+      "date": "1962-07-08",
+      "epnum": "332",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secret of Charlotte Wells, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74233",
+      "date": "1962-07-15",
+      "epnum": "333",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain Lucy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74234",
+      "date": "1962-07-22",
+      "epnum": "334",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Warrior, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74235",
+      "date": "1962-07-29",
+      "epnum": "335",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reverend Tex"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74236",
+      "date": "1962-08-05",
+      "epnum": "336",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love and Learn"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74237",
+      "date": "1962-08-12",
+      "epnum": "337",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Penny for Your Thoughts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74238",
+      "date": "1962-08-19",
+      "epnum": "338",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lonely One, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74239",
+      "date": "1962-08-26",
+      "epnum": "339",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pennies from Heaven"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 62-08-26 (0339) Pennies from Heaven.mp3",
+          "time": "1832",
+          "size": "7332175"
+        }
+      ]
+    },
+    {
+      "ide": "74240",
+      "date": "1962-09-02",
+      "epnum": "340",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Apples of Gold"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74241",
+      "date": "1962-09-09",
+      "epnum": "341",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reason to Get Up, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74242",
+      "date": "1962-09-16",
+      "epnum": "342",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Pleasure, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74243",
+      "date": "1962-09-23",
+      "epnum": "343",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Other Hand, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74244",
+      "date": "1962-09-30",
+      "epnum": "344",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Army Game, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74245",
+      "date": "1962-10-07",
+      "epnum": "345",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Matter of Love or Death, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74246",
+      "date": "1962-10-14",
+      "epnum": "346",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "There's No Place Like Home Plate"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74247",
+      "date": "1962-10-21",
+      "epnum": "347",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time out for Terry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74248",
+      "date": "1962-10-28",
+      "epnum": "348",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Small Miracle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74249",
+      "date": "1962-11-04",
+      "epnum": "349",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Matter of Motion, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74250",
+      "date": "1962-11-11",
+      "epnum": "350",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lushai"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74251",
+      "date": "1962-11-18",
+      "epnum": "351",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bonnets in the West"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74252",
+      "date": "1962-11-25",
+      "epnum": "352",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thanksgiving Harvest"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74253",
+      "date": "1962-12-02",
+      "epnum": "353",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Stop, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74254",
+      "date": "1962-12-09",
+      "epnum": "354",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gift, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74255",
+      "date": "1962-12-16",
+      "epnum": "355",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Merry Christmas, My Children"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74256",
+      "date": "1962-12-23",
+      "epnum": "356",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Leave"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74257",
+      "date": "1962-12-30",
+      "epnum": "357",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This Above All"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74258",
+      "date": "1963-01-06",
+      "epnum": "358",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ear for Music, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74259",
+      "date": "1963-01-13",
+      "epnum": "359",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thing of Beauty, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74260",
+      "date": "1963-01-20",
+      "epnum": "360",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Seek and Find"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74261",
+      "date": "1963-01-27",
+      "epnum": "361",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quiet Time, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74262",
+      "date": "1963-02-03",
+      "epnum": "362",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Legacy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74263",
+      "date": "1963-02-10",
+      "epnum": "363",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Company You Keep, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74264",
+      "date": "1963-02-17",
+      "epnum": "364",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "White Canary, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74265",
+      "date": "1963-02-24",
+      "epnum": "365",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Failure, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74266",
+      "date": "1963-03-03",
+      "epnum": "366",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unwanted, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74267",
+      "date": "1963-03-10",
+      "epnum": "367",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Greatest of These, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74268",
+      "date": "1963-03-17",
+      "epnum": "368",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "His Name Was David"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74269",
+      "date": "1963-03-24",
+      "epnum": "369",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On with the Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74270",
+      "date": "1963-03-31",
+      "epnum": "370",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Windows of Heaven, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74271",
+      "date": "1963-04-07",
+      "epnum": "371",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hard Shell, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74272",
+      "date": "1963-04-14",
+      "epnum": "372",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Amy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74273",
+      "date": "1963-04-21",
+      "epnum": "373",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Who Found Himself, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74274",
+      "date": "1963-04-28",
+      "epnum": "374",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Something More Important"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74275",
+      "date": "1963-05-05",
+      "epnum": "375",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Daring Journey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74276",
+      "date": "1963-05-12",
+      "epnum": "376",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Threshold"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74277",
+      "date": "1963-05-19",
+      "epnum": "377",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All You Have to Do Is Ask"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74278",
+      "date": "1963-05-26",
+      "epnum": "378",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Go for Broke"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74279",
+      "date": "1963-06-02",
+      "epnum": "379",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stone Blunts Scissors"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74280",
+      "date": "1963-06-09",
+      "epnum": "380",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blessed Are the Meek"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74281",
+      "date": "1963-06-16",
+      "epnum": "381",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Child, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74282",
+      "date": "1963-06-23",
+      "epnum": "382",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Certain Samaritan, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74283",
+      "date": "1963-06-30",
+      "epnum": "383",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Scorekeeper, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74284",
+      "date": "1963-07-07",
+      "epnum": "384",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Never Faileth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74285",
+      "date": "1963-07-14",
+      "epnum": "385",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "American, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74286",
+      "date": "1963-07-21",
+      "epnum": "386",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Miracle Tomorrow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74287",
+      "date": "1963-07-28",
+      "epnum": "387",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Storm, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74288",
+      "date": "1963-08-04",
+      "epnum": "388",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Letters from Nina, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74289",
+      "date": "1963-08-11",
+      "epnum": "389",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You Are Old Father William"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74290",
+      "date": "1963-08-18",
+      "epnum": "390",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sergeant Major, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74291",
+      "date": "1963-08-25",
+      "epnum": "391",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bum, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74292",
+      "date": "1963-09-01",
+      "epnum": "392",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sky Is Full of Stars, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74293",
+      "date": "1963-09-08",
+      "epnum": "393",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rock-a-Bye Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74294",
+      "date": "1963-09-15",
+      "epnum": "394",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Come Jump with Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74295",
+      "date": "1963-09-22",
+      "epnum": "395",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Place to Go"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74296",
+      "date": "1963-09-29",
+      "epnum": "396",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christ That Smiled, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241560",
+      "date": "1963-10-06",
+      "epnum": "397",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One Of The Boys"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631006 397 One of The Boys (192-44)_OTRRPG.mp3",
+          "time": "1470",
+          "size": "35293066"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 63-10-06 (0397) One Of The Boys.mp3",
+          "time": "1465",
+          "size": "11724810"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631006 397 One of The Boys (192-44).mp3",
+          "time": "1470",
+          "size": "17641130"
+        }
+      ]
+    },
+    {
+      "ide": "241554",
+      "date": "1963-10-13",
+      "epnum": "398",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Ugly"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631013 398 Double Ugly (192-44)_OTRRPG.mp3",
+          "time": "1495",
+          "size": "35898408"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 63-10-13 (0398) Double Ugly.mp3",
+          "time": "1491",
+          "size": "11925514"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631013 398 Double Ugly (192-44).mp3",
+          "time": "1495",
+          "size": "17943801"
+        }
+      ]
+    },
+    {
+      "ide": "241566",
+      "date": "1963-10-20",
+      "epnum": "399",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Faces Of Love, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631020 399 The Two Faces of Love (192-44)_OTRRPG.mp3",
+          "time": "1488",
+          "size": "35719998"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 63-10-20 (0399) The Two Faces Of Love.mp3",
+          "time": "1483",
+          "size": "11866122"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631020 399 The Two Faces of Love (192-44).mp3",
+          "time": "1488",
+          "size": "17854596"
+        }
+      ]
+    },
+    {
+      "ide": "241558",
+      "date": "1963-10-27",
+      "epnum": "400",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Journey, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631027 400 The Journey (192-44)_OTRRPG.mp3",
+          "time": "1491",
+          "size": "35800126"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 63-10-27 (0400) The Journey.mp3",
+          "time": "1486",
+          "size": "11892746"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631027 400 The Journey (192-44).mp3",
+          "time": "1491",
+          "size": "17894660"
+        }
+      ]
+    },
+    {
+      "ide": "241549",
+      "date": "1963-11-03",
+      "epnum": "401",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Birth Of A Salesman"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631103 401 Birth of A Salesman (192-44)_OTRRPG.mp3",
+          "time": "1487",
+          "size": "35698088"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 63-11-03 (0401) Birth Of A Salesman.mp3",
+          "time": "1482",
+          "size": "11859978"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631103 401 Birth of A Salesman (192-44).mp3",
+          "time": "1487",
+          "size": "17843641"
+        }
+      ]
+    },
+    {
+      "ide": "241551",
+      "date": "1963-11-10",
+      "epnum": "402",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blind Vision"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631110 402 Blind Vision (192-44)_OTRRPG.mp3",
+          "time": "1480",
+          "size": "35522182"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 63-11-10 (0402) Blind Vision.mp3",
+          "time": "1475",
+          "size": "11800586"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631110 402 Blind Vision (192-44).mp3",
+          "time": "1480",
+          "size": "17755688"
+        }
+      ]
+    },
+    {
+      "ide": "241555",
+      "date": "1963-11-17",
+      "epnum": "403",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Every Day Is The Fourth Of July"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631117 403 Every Day Is The 4th of July (192-44)_OTRRPG.mp3",
+          "time": "1486",
+          "size": "35664284"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 63-11-17 (0403) Every Day Is The Fourth Of July.mp3",
+          "time": "1481",
+          "size": "11847690"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631117 403 Every Day Is The 4th of July (192-44).mp3",
+          "time": "1486",
+          "size": "17826739"
+        }
+      ]
+    },
+    {
+      "ide": "241557",
+      "date": "1963-11-24",
+      "epnum": "476",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "John Ball's Thanksgiving"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 63-11-24 (0404) John Balls' Thanksgiving.mp3",
+          "time": "1477",
+          "size": "11816970"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631124 476 John Ball's Thanksgiving (192-44).mp3",
+          "time": "1482",
+          "size": "17781354"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 631124 476 John Ball's Thanksgiving (192-44)_OTRRPG.mp3",
+          "time": "1482",
+          "size": "35573514"
+        }
+      ]
+    },
+    {
+      "ide": "74297",
+      "date": "1963-12-29",
+      "epnum": "409",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After the Storm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74298",
+      "date": "1964-01-05",
+      "epnum": "410",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Father's House"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74299",
+      "date": "1964-01-12",
+      "epnum": "411",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Voyage, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74300",
+      "date": "1964-01-19",
+      "epnum": "412",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Undertow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74301",
+      "date": "1964-01-26",
+      "epnum": "413",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trust in Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74302",
+      "date": "1964-02-02",
+      "epnum": "414",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unwed Father"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74303",
+      "date": "1964-02-09",
+      "epnum": "415",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sounding Brass"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74304",
+      "date": "1964-02-16",
+      "epnum": "416",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Happy Birthday, Mr Sam"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74305",
+      "date": "1964-02-23",
+      "epnum": "417",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Take My Hand"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74306",
+      "date": "1964-03-01",
+      "epnum": "418",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One Man in His Time"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74307",
+      "date": "1964-03-08",
+      "epnum": "419",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who Am I"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74308",
+      "date": "1964-03-15",
+      "epnum": "420",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dropout, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74309",
+      "date": "1964-03-22",
+      "epnum": "421",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ex-Con"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74310",
+      "date": "1964-03-29",
+      "epnum": "422",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where There's a Will"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74311",
+      "date": "1964-04-05",
+      "epnum": "423",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cop's Kid"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74312",
+      "date": "1964-04-12",
+      "epnum": "424",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lace Curtains"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74313",
+      "date": "1964-05-17",
+      "epnum": "429",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Which Way the Road"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74314",
+      "date": "1964-05-24",
+      "epnum": "430",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Kid, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74315",
+      "date": "1964-05-31",
+      "epnum": "431",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Merry-Go-Round, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74316",
+      "date": "1964-06-07",
+      "epnum": "432",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chicken on a Treadmill"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74317",
+      "date": "1964-07-12",
+      "epnum": "437",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Neither Sorrow nor Crying"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74318",
+      "date": "1964-07-19",
+      "epnum": "438",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reflections in a Clouded Glass"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74319",
+      "date": "1964-07-26",
+      "epnum": "439",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Eighty-One Godchildren"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74320",
+      "date": "1964-08-02",
+      "epnum": "440",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Giving"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74321",
+      "date": "1964-08-09",
+      "epnum": "441",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yesterday Was Lived Already"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74322",
+      "date": "1964-08-16",
+      "epnum": "442",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mountains Are for Punks"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74323",
+      "date": "1964-08-23",
+      "epnum": "443",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Thy Neighbor"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74324",
+      "date": "1964-08-30",
+      "epnum": "444",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Child, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74325",
+      "date": "1964-09-06",
+      "epnum": "445",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "And the Walls Came Tumbling Down"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74326",
+      "date": "1964-09-13",
+      "epnum": "446",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Overboard"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74327",
+      "date": "1964-09-20",
+      "epnum": "447",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vacation with Pay"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74328",
+      "date": "1964-09-27",
+      "epnum": "448",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shoes Like Eddie's"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74329",
+      "date": "1964-11-01",
+      "epnum": "453",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Finders Keepers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74330",
+      "date": "1964-11-08",
+      "epnum": "454",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Retirement Age"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74331",
+      "date": "1964-11-15",
+      "epnum": "455",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Senior Citizen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74332",
+      "date": "1964-11-22",
+      "epnum": "456",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House to Put It In, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74333",
+      "date": "1964-12-27",
+      "epnum": "461",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Price of Forgiveness, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74334",
+      "date": "1965-01-03",
+      "epnum": "462",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bequest of Joseph Channing, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74335",
+      "date": "1965-01-10",
+      "epnum": "463",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quiet Alarm, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74336",
+      "date": "1965-01-17",
+      "epnum": "464",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Day of Disaster"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 65-01-17 (0464) Day of Disaster.mp3",
+          "time": "1417",
+          "size": "11339796"
+        }
+      ]
+    },
+    {
+      "ide": "74337",
+      "date": "1965-01-24",
+      "epnum": "465",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Calling of Soong Yung, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74338",
+      "date": "1965-01-31",
+      "epnum": "466",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pursuit of Happiness, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74339",
+      "date": "1965-02-07",
+      "epnum": "467",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two's Company, Three's a Family"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74340",
+      "date": "1965-02-14",
+      "epnum": "468",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cheat, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74341",
+      "date": "1965-02-21",
+      "epnum": "469",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "As an Oak Is Strong"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74342",
+      "date": "1965-02-28",
+      "epnum": "470",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brotherly Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74343",
+      "date": "1965-03-07",
+      "epnum": "471",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unrevealed Paths"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74344",
+      "date": "1965-03-14",
+      "epnum": "472",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Upholstery Job, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "241568",
+      "date": "1965-03-21",
+      "epnum": "473",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Welcome Home Miss Munson"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 650321 473 Welcome Home Miss Munson (192-44)_OTRRPG.mp3",
+          "time": "1487",
+          "size": "35695584"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 65-03-21 (0473) Welcome Home, Miss Munson.mp3",
+          "time": "1482",
+          "size": "11857930"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 650321 473 Welcome Home Miss Munson (192-44).mp3",
+          "time": "1487",
+          "size": "17842389"
+        }
+      ]
+    },
+    {
+      "ide": "241562",
+      "date": "1965-03-28",
+      "epnum": "474",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sally's Locket"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 650328 474 Sally's Locket (192-44)_OTRRPG.mp3",
+          "time": "1487",
+          "size": "35704348"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 65-03-28 (0474) Sally's Locket.mp3",
+          "time": "1482",
+          "size": "11862026"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 650328 474 Sally's Locket (192-44).mp3",
+          "time": "1487",
+          "size": "17846771"
+        }
+      ]
+    },
+    {
+      "ide": "241552",
+      "date": "1965-04-04",
+      "epnum": "475",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bread Upon The Waters"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 650404 475 Bread Upon The Waters (192-44)_OTRRPG.mp3",
+          "time": "1489",
+          "size": "35758184"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 65-04-04 (0475) Bread Upon The Water.mp3",
+          "time": "1485",
+          "size": "11878410"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 650404 475 Bread Upon The Waters (192-44).mp3",
+          "time": "1489",
+          "size": "17873689"
+        }
+      ]
+    },
+    {
+      "ide": "241564",
+      "date": "1965-04-11",
+      "epnum": "476",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Silent World Of Tiimmy Barton, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 650411 476 The Silent World of Timmy Barton (192-44)_OTRRPG.mp3",
+          "time": "1494",
+          "size": "35875872"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 65-04-11 (0476) The Silent World Of Timmy Barton.mp3",
+          "time": "1490",
+          "size": "11917322"
+        },
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theatre 650411 476 The Silent World of Timmy Barton (192-44).mp3",
+          "time": "1494",
+          "size": "17932533"
+        }
+      ]
+    },
+    {
+      "ide": "74345",
+      "date": "1965-05-30",
+      "epnum": "483",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sign and the Scissors, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74346",
+      "date": "1965-06-06",
+      "epnum": "484",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man's Conscience, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74347",
+      "date": "1965-07-11",
+      "epnum": "489",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dreams Are Not Truth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74348",
+      "date": "1965-07-18",
+      "epnum": "490",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Uncle Morritz"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74349",
+      "date": "1965-07-25",
+      "epnum": "491",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wings to the Rescue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74350",
+      "date": "1965-08-01",
+      "epnum": "492",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Summer Fun, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74351",
+      "date": "1965-08-08",
+      "epnum": "493",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Name of the Game, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74352",
+      "date": "1965-08-15",
+      "epnum": "494",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You Can't Win 'em All"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74353",
+      "date": "1965-08-22",
+      "epnum": "495",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ready to Climb"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74354",
+      "date": "1965-08-29",
+      "epnum": "496",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "King of the Surf, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74355",
+      "date": "1965-09-05",
+      "epnum": "497",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House Without Music, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74356",
+      "date": "1965-09-12",
+      "epnum": "498",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strong in Heart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74357",
+      "date": "1965-09-19",
+      "epnum": "499",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "74358",
+      "date": "1965-09-26",
+      "epnum": "500",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "74359",
+      "date": "1965-10-31",
+      "epnum": "505",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clown, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74360",
+      "date": "1965-11-07",
+      "epnum": "506",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time to Live, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74361",
+      "date": "1965-11-14",
+      "epnum": "507",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "With Hand to Man"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 65-11-14 (0507) With Hand to Man.mp3",
+          "time": "1519",
+          "size": "6077357"
+        }
+      ]
+    },
+    {
+      "ide": "74362",
+      "date": "1965-11-21",
+      "epnum": "508",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wind at Thanksgiving, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 65-11-21 (0508) A Wind at Thanksgiving.mp3",
+          "time": "1513",
+          "size": "6054892"
+        }
+      ]
+    },
+    {
+      "ide": "74363",
+      "date": "1965-12-26",
+      "epnum": "513",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Comes to the Circle K"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74364",
+      "date": "1966-01-02",
+      "epnum": "514",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Party of One, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74365",
+      "date": "1966-01-09",
+      "epnum": "515",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who Is Adam Scott"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74366",
+      "date": "1966-01-16",
+      "epnum": "516",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Government of Laws, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74367",
+      "date": "1966-10-16",
+      "epnum": "555",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Whole New World, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74368",
+      "date": "1966-10-23",
+      "epnum": "556",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Only You Can Do It Yourself"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74369",
+      "date": "1966-11-27",
+      "epnum": "561",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beloved Physician, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74370",
+      "date": "1966-12-04",
+      "epnum": "562",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Ride, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74371",
+      "date": "1966-12-11",
+      "epnum": "563",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sing Me the Old Songs"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74372",
+      "date": "1966-12-18",
+      "epnum": "564",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Wedding"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73916",
+      "date": "1967-08-27",
+      "epnum": "600",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Private World Of Tommy Martin, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 67-08-27 (0600) The Private World Of Tommy Martin.mp3",
+          "time": "1503",
+          "size": "30758557"
+        }
+      ]
+    },
+    {
+      "ide": "74373",
+      "date": "1967-10-29",
+      "epnum": "609",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Begins at Forty"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74374",
+      "date": "1967-11-05",
+      "epnum": "610",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nobody Knows My Name"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "74375",
+      "date": "1967-11-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "74376",
+      "date": "1967-11-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "74377",
+      "date": "1967-11-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "74378",
+      "date": "1967-12-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "74379",
+      "date": "1967-12-10",
+      "epnum": "615",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 67-12-10 (615) A Comeback at Twilight.mp3",
+          "time": "1533",
+          "size": "31363015"
+        }
+      ]
+    },
+    {
+      "ide": "74380",
+      "date": "1967-12-17",
+      "epnum": "616",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 67-12-17 (616) The Seventy-Second Christmas.mp3",
+          "time": "1496",
+          "size": "30681674"
+        }
+      ]
+    },
+    {
+      "ide": "74381",
+      "date": "1967-12-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "74382",
+      "date": "1967-12-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "198237",
+      "date": "1968-10-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lost And Found"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 68-10-13 (xxxx) Lost And Found.mp3",
+          "time": "1555",
+          "size": "6219586"
+        }
+      ]
+    },
+    {
+      "ide": "74383",
+      "date": "1969-08-31",
+      "epnum": "705",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Education Of Mr Phipps, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 69-08-31 (0705) The Education Of Mr Phipps.mp3",
+          "time": "1495",
+          "size": "5982794"
+        }
+      ]
+    },
+    {
+      "ide": "74384",
+      "date": "1969-09-07",
+      "epnum": "706",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ten To One"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 69-09-07 (0706) Ten To One.mp3",
+          "time": "1490",
+          "size": "5963150"
+        }
+      ]
+    },
+    {
+      "ide": "198238",
+      "date": "1974-09-22",
+      "epnum": "969",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "E-Z Credit"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 74-09-22 (0969) E-Z Credit.mp3",
+          "time": "1503",
+          "size": "24047794"
+        }
+      ]
+    },
+    {
+      "ide": "198239",
+      "date": "1974-09-29",
+      "epnum": "970",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs. Higgins' Good Taste"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 74-09-29 (0970) Mrs. Higgins' Good Taste.mp3",
+          "time": "1500",
+          "size": "23994546"
+        }
+      ]
+    },
+    {
+      "ide": "198240",
+      "date": "1974-10-06",
+      "epnum": "971",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Proof Of A Man"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 74-10-06 (0971) Proof Of A Man.mp3",
+          "time": "1518",
+          "size": "24285362"
+        }
+      ]
+    },
+    {
+      "ide": "198241",
+      "date": "1974-10-13",
+      "epnum": "972",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stitch In Time, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 74-10-13 (0972) A Stitch In Time.mp3",
+          "time": "1540",
+          "size": "24647858"
+        }
+      ]
+    },
+    {
+      "ide": "198242",
+      "date": "1976-05-09",
+      "epnum": "1054",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Broken Circle, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Heartbeat Theater",
+          "name": "Heartbeat Theater 76-05-09 (1054) The Broken Circle.mp3",
+          "time": "1511",
+          "size": "12086899"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Heartbeat Theatre"
+    },
+    {
+      "title": "Heartbeat Theatre"
+    },
+    {
+      "title": "Heartbeat Theater"
+    }
+  ]
+}

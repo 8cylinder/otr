@@ -1,0 +1,553 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2030",
+      "first": "Walt",
+      "last": "Framer",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7536",
+      "first": "Scott",
+      "last": "Douglas",
+      "f": "Noted Role",
+      "character": "Kip Burland, rookie cop"
+    },
+    {
+      "idperson": "7536",
+      "first": "Scott",
+      "last": "Douglas",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7537",
+      "first": "Marjorie",
+      "last": "Cramer",
+      "f": "Noted Role",
+      "character": "Barbara Sutton, girl reporter"
+    },
+    {
+      "idperson": "7537",
+      "first": "Marjorie",
+      "last": "Cramer",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "142",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "The story revolved around a super hero crime fighter known as the Black Hood, who was actually a rookie cop named Kip Burland, and whose true identity was known only to Barbara Sutton, girl reporter. - 'Archive of the Airwaves, vol 1, p 132'."
+    }
+  ],
+  "themes": [
+    {
+      "theme": "The Sorcerer's Apprentice'"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "34425",
+      "date": "1943-07-05",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "[Week 01 of Mon thru Fri broadcasts @ 5:15pm on WOR-MUTUAL]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34426",
+      "date": "1943-07-12",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 02]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34427",
+      "date": "1943-07-19",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 03]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34428",
+      "date": "1943-07-26",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 04]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34429",
+      "date": "1943-08-02",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 05]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34430",
+      "date": "1943-08-09",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 06]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34431",
+      "date": "1943-08-16",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 07]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34432",
+      "date": "1943-08-23",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 08]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34433",
+      "date": "1943-08-30",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Emerald Ring --- (Week 09), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34434",
+      "date": "1943-09-06",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 10]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34435",
+      "date": "1943-09-13",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 11]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34436",
+      "date": "1943-09-20",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 12]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34437",
+      "date": "1943-09-27",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 13]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34438",
+      "date": "1943-10-04",
+      "epnum": "66",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 14]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34439",
+      "date": "1943-10-11",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 15]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34440",
+      "date": "1943-10-18",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 16]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34441",
+      "date": "1943-10-25",
+      "epnum": "81",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 17]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34442",
+      "date": "1943-11-01",
+      "epnum": "86",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 18]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34443",
+      "date": "1943-11-08",
+      "epnum": "91",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 19]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34444",
+      "date": "1943-11-15",
+      "epnum": "96",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 20]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34445",
+      "date": "1943-11-22",
+      "epnum": "101",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 21]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34446",
+      "date": "1943-11-29",
+      "epnum": "106",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 22]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34447",
+      "date": "1943-12-06",
+      "epnum": "111",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 23]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34448",
+      "date": "1943-12-13",
+      "epnum": "116",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 24]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34449",
+      "date": "1943-12-20",
+      "epnum": "121",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 25]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34450",
+      "date": "1943-12-27",
+      "epnum": "126",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 26]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34451",
+      "date": "1944-01-03",
+      "epnum": "131",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 27]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34452",
+      "date": "1944-01-10",
+      "epnum": "136",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Week 28]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "34453",
+      "date": "1944-01-11",
+      "epnum": "137",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "34454",
+      "date": "1944-01-12",
+      "epnum": "138",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "34455",
+      "date": "1944-01-13",
+      "epnum": "139",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "34456",
+      "date": "1944-01-14",
+      "epnum": "140",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[LAST EPISODE]"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Black Hood, The"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Better Living Radio Theatre/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-1316-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "268569",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Million Words, A Million Songs, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53xxxx 01 A Million Words, A Million Songs_OTRRPG.mp3",
+          "time": "905",
+          "size": "14552623"
+        },
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53-xx-xx (01) A Million Words, A Million Songs.mp3",
+          "time": "907",
+          "size": "14509751"
+        }
+      ]
+    },
+    {
+      "ide": "268578",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wire Rope Express, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "268579",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No More Frontiers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "268580",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Magic Bus, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "268581",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lost Billion Trees, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "268570",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "George Washington's Gingerbread Man"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53xxxx 02 George Washington's Gingerbread Man_OTRRPG.mp3",
+          "time": "898",
+          "size": "14446882"
+        },
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53-xx-xx (02) George Washington's Gingerbread Man.mp3",
+          "time": "900",
+          "size": "14404007"
+        }
+      ]
+    },
+    {
+      "ide": "268571",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Night the Mountain Caught Fire, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53xxxx 03 The Night The Mountain Caught Fire_OTRRPG.mp3",
+          "time": "887",
+          "size": "14278443"
+        },
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53-xx-xx (03) The Night the Mountain Caught Fire.mp3",
+          "time": "890",
+          "size": "14235569"
+        }
+      ]
+    },
+    {
+      "ide": "268572",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Milk for Millions"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53xxxx 04 Milk For Millions_OTRRPG.mp3",
+          "time": "858",
+          "size": "13800281"
+        },
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53-xx-xx (04) Milk for Millions.mp3",
+          "time": "860",
+          "size": "13757424"
+        }
+      ]
+    },
+    {
+      "ide": "268573",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Floating City, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53xxxx 05 The Floating City_OTRRPG.mp3",
+          "time": "891",
+          "size": "14336523"
+        },
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53-xx-xx (05) The Floating City.mp3",
+          "time": "893",
+          "size": "14293666"
+        }
+      ]
+    },
+    {
+      "ide": "268574",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Half Hour to Death, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53xxxx 06 A Half Hour To Death_OTRRPG.mp3",
+          "time": "885",
+          "size": "14239977"
+        },
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53-xx-xx (06) A Half Hour to Death.mp3",
+          "time": "887",
+          "size": "14197117"
+        }
+      ]
+    },
+    {
+      "ide": "268575",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wings Over the World"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53xxxx 07 Wings Over The World_OTRRPG.mp3",
+          "time": "894",
+          "size": "14382083"
+        },
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53-xx-xx (07) Wings Over the World.mp3",
+          "time": "896",
+          "size": "14339223"
+        }
+      ]
+    },
+    {
+      "ide": "268576",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Magic Broomstick, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53xxxx 08 The Magic Broomstick_OTRRPG.mp3",
+          "time": "884",
+          "size": "14222423"
+        },
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53-xx-xx (08) The Magic Broomstick.mp3",
+          "time": "886",
+          "size": "14179563"
+        }
+      ]
+    },
+    {
+      "ide": "268577",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs. USA"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53xxxx 09 Mrs USA_OTRRPG.mp3",
+          "time": "894",
+          "size": "14384160"
+        },
+        {
+          "path": "B",
+          "folder": "Better Living Radio Theatre",
+          "name": "Better Living Radio Theatre 53-xx-xx (09) Mrs. USA.mp3",
+          "time": "896",
+          "size": "14341313"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Better Living Radio Theater"
+    }
+  ]
+}

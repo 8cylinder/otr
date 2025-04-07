@@ -1,0 +1,125 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [
+    {
+      "info": "Karl Schadow has a log."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "39564",
+      "first": "Jeff",
+      "last": "Alexander",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "315925",
+      "date": "1951-09-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winter Holiday"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tums Hollywood Theatre",
+          "name": "Tums Hollywood Theatre 510918 001 Winter Holiday (256-44).mp3",
+          "time": "1761",
+          "size": "56453782"
+        },
+        {
+          "path": "T",
+          "folder": "Tums Hollywood Theatre",
+          "name": "Tums Hollywood Theatre 510918 001 Winter Holiday (cleaned).flac",
+          "time": "1761",
+          "size": "58818129"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1951-09-18",
+      "dow": "Tu",
+      "time": "8:30 PM",
+      "end": "1952-03-11",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Tums",
+      "begin": "1951-09-18",
+      "end": "1952-03-11"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Tums Hollywood Theater"
+    }
+  ]
+}

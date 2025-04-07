@@ -1,0 +1,552 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mary Foster, Editor's Daughter/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6064-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "302",
+      "first": "Joan",
+      "last": "Banks",
+      "f": "Noted Role",
+      "character": "Mary Foster"
+    },
+    {
+      "idperson": "1899",
+      "first": "Parker",
+      "last": "Fennelly",
+      "f": "Noted Role",
+      "character": "Henry Foster"
+    },
+    {
+      "idperson": "4564",
+      "first": "Effie",
+      "last": "Palmer",
+      "f": "Noted Role",
+      "character": "Mrs. Foster"
+    },
+    {
+      "idperson": "12297",
+      "first": "Bill",
+      "last": "Lipton",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "751",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1997-10-01",
+      "source": "Illustrated Press/IP_253.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#253) - Oct 1997",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "285442",
+      "date": "0000-00-00",
+      "epnum": "2195",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mary Decides to Go to Work for Fred"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Foster, Editor's Daughter",
+          "name": "Mary Foster, Editors Daughter xx-xx-xx (2195) Mary Foster Is Deeply Disturbed.mp3",
+          "time": "736",
+          "size": "2944443"
+        }
+      ]
+    },
+    {
+      "ide": "285443",
+      "date": "0000-00-00",
+      "epnum": "2196",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Today's the Day of the Golf Match with John Redmond"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Foster, Editor's Daughter",
+          "name": "Mary Foster, Editors Daughter xx-xx-xx (2196) Mary Foster is Upset.mp3",
+          "time": "732",
+          "size": "2927584"
+        }
+      ]
+    },
+    {
+      "ide": "285444",
+      "date": "0000-00-00",
+      "epnum": "2197",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mary Is Very Disappointed That John Redmond Is Going to Be In"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Foster, Editor's Daughter",
+          "name": "Mary Foster, Editors Daughter xx-xx-xx (2197) Mary Is Determined To Take Her Children.mp3",
+          "time": "729",
+          "size": "2917811"
+        }
+      ]
+    },
+    {
+      "ide": "285445",
+      "date": "0000-00-00",
+      "epnum": "2198",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Amelia Bustles into the Sentinel Office with the News That Edna"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Foster, Editor's Daughter",
+          "name": "Mary Foster, Editors Daughter xx-xx-xx (2198) John Redmond Angryly Announced.mp3",
+          "time": "723",
+          "size": "2891882"
+        }
+      ]
+    },
+    {
+      "ide": "285446",
+      "date": "0000-00-00",
+      "epnum": "2199",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Edna Has Found an Apartment for Mary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285447",
+      "date": "0000-00-00",
+      "epnum": "2200",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Henry Is Overjoyed at Mary's Decision Not to Move"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285448",
+      "date": "0000-00-00",
+      "epnum": "2201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Caesar's Ghost (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285449",
+      "date": "0000-00-00",
+      "epnum": "2202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flirtatious Croquette"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285450",
+      "date": "0000-00-00",
+      "epnum": "2203",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Caesar's Ghost"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285451",
+      "date": "0000-00-00",
+      "epnum": "2204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Bill Nelson Invites Henry and Mary over to Dinner"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285452",
+      "date": "0000-00-00",
+      "epnum": "2205",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mary Is Annoyed with Fred for the Elopement Trick, but Then Dr"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285453",
+      "date": "0000-00-00",
+      "epnum": "2206",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sandra Accuses Mary of Trying to Steal Dr Bill Nelson, Her Fiance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285454",
+      "date": "0000-00-00",
+      "epnum": "2207",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sandra Bryant Is Going to Marry Dr Bill Nelson in a Month"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285455",
+      "date": "0000-00-00",
+      "epnum": "2208",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Jimmy Has a Raging Fever"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285456",
+      "date": "0000-00-00",
+      "epnum": "2209",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out of Circulation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285457",
+      "date": "0000-00-00",
+      "epnum": "2210",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Don't Know"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285458",
+      "date": "0000-00-00",
+      "epnum": "2211",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sandra Is Welcomed Back to Henry Lord's House"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285459",
+      "date": "0000-00-00",
+      "epnum": "2212",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Truth, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285460",
+      "date": "0000-00-00",
+      "epnum": "2213",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Caesar's Ghost!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285461",
+      "date": "0000-00-00",
+      "epnum": "2214",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Caesar's Ghost"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285462",
+      "date": "0000-00-00",
+      "epnum": "2215",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Orphan Boy Must Be Told That the Old Sailor He Has Been Living, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285463",
+      "date": "0000-00-00",
+      "epnum": "2216",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mary Will Not Fire Della, the Housekeeper"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285464",
+      "date": "0000-00-00",
+      "epnum": "2217",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mary Sells Her Car to Dorothy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285465",
+      "date": "0000-00-00",
+      "epnum": "2218",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Possible Mutual Net Origination, the Music Cues and Local Announcements"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285438",
+      "date": "1948-06-25",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dr Bill Nelson Wants to Buy Boothby House"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Foster, Editor's Daughter",
+          "name": "Mary Foster, Editors Daughter 48-06-25 Mary and Her Father With Bill.mp3",
+          "time": "786",
+          "size": "9435284"
+        }
+      ]
+    },
+    {
+      "ide": "285439",
+      "date": "1948-06-28",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Amelia Has Her Suspicions About Who Set the Fire in the Boothby"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Foster, Editor's Daughter",
+          "name": "Mary Foster, Editors Daughter 48-06-28.mp3",
+          "time": "879",
+          "size": "10543252"
+        }
+      ]
+    },
+    {
+      "ide": "285440",
+      "date": "1948-07-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mary and Harry Foster Are Driving out to Reid's House After A"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Foster, Editor's Daughter",
+          "name": "Mary Foster, Editors Daughter 48-07-07.mp3",
+          "time": "868",
+          "size": "10422420"
+        }
+      ]
+    },
+    {
+      "ide": "285441",
+      "date": "1948-07-08",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After Searching All Night in the Swamp, Tish Edwards Is Found"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mary Foster, Editor's Daughter",
+          "name": "Mary Foster, Editors Daughter 48-07-08 It's Just Before Dawn.mp3",
+          "time": "891",
+          "size": "10688660"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mary Foster"
+    },
+    {
+      "title": "Mary Foster, Editor's Daughter"
+    },
+    {
+      "title": "Mary Foster, the Editor's Daughter"
+    },
+    {
+      "title": "Mary Foster, The Editor's Daughter"
+    },
+    {
+      "title": "Editor's Daughter, The"
+    }
+  ]
+}

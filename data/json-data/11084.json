@@ -1,0 +1,90 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Riverside Rancho/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "39092",
+      "first": "Tex",
+      "last": "Williams",
+      "f": "Noted Role",
+      "character": "Star"
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324908",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest T Texas Tyler"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riverside Rancho",
+          "name": "Riverside Rancho 19xx.xx.xx Guest T Texas Tyler.mp3",
+          "time": "1505",
+          "size": "6128040"
+        }
+      ]
+    },
+    {
+      "ide": "314791",
+      "date": "1949-11-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - The Covered Wagon Rolled Right Along"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riverside Rancho",
+          "name": "Riverside Rancho 491112 xxx 1st Song - The Covered Wagon Rolled Right Along {AFRS}_OTRRPG.mp3",
+          "time": "1788",
+          "size": "28621754"
+        },
+        {
+          "path": "R",
+          "folder": "Riverside Rancho",
+          "name": "Riverside Rancho 49-11-12 First Song - The Covered Waggon (AFRS).mp3",
+          "time": "2512",
+          "size": "20096789"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Riverside Rancho"
+    }
+  ]
+}

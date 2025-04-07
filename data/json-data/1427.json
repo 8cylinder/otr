@@ -1,0 +1,4043 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4162",
+      "first": "Billy",
+      "last": "Mills",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "28999",
+      "first": "",
+      "last": "Billy Mills and His Orchestra",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321581",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321583",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blue Skys"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1939.xx.xx Blue Skys.mp3",
+          "time": "107",
+          "size": "537077"
+        }
+      ]
+    },
+    {
+      "ide": "321584",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Penny Serenade"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1939.xx.xx Penny Serenade.mp3",
+          "time": "171",
+          "size": "790684"
+        }
+      ]
+    },
+    {
+      "ide": "321596",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Want To Be Happy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321603",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crazy Rhythm"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.05.xx Crazy Rhythm.mp3",
+          "time": "89",
+          "size": "462269"
+        }
+      ]
+    },
+    {
+      "ide": "321615",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oh Johnny Oh"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.xx.xx Oh Johnny Oh.mp3",
+          "time": "102",
+          "size": "516290"
+        }
+      ]
+    },
+    {
+      "ide": "321616",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321635",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Breaking My Heart Cause Youre Leaving"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.xx.xx Breaking My Heart Cause Youre Leaving.mp3",
+          "time": "124",
+          "size": "602648"
+        }
+      ]
+    },
+    {
+      "ide": "321636",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Comin Around The Mountain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321658",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dream"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1945.xx.xx Dream.mp3",
+          "time": "111",
+          "size": "551802"
+        }
+      ]
+    },
+    {
+      "ide": "321675",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pass That Peace Pipe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321780",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bye Bye Baby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321781",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Copper Canyon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321782",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doggy In The Window"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 19xx.xx.xx Doggy In The Window.mp3",
+          "time": "102",
+          "size": "515050"
+        }
+      ]
+    },
+    {
+      "ide": "321783",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gay Caballero"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 19xx.xx.xx Gay Caballero.mp3",
+          "time": "96",
+          "size": "493513"
+        }
+      ]
+    },
+    {
+      "ide": "321784",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Georgia On My Mind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321785",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Liza"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321786",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Maple Leaf Rag"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 19xx.xx.xx Maple Leaf Rag.mp3",
+          "time": "130",
+          "size": "628411"
+        }
+      ]
+    },
+    {
+      "ide": "321787",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Parade Of The Wooden Soldiers"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 19xx.xx.xx Parade Of The Wooden Soldiers.mp3",
+          "time": "105",
+          "size": "529176"
+        }
+      ]
+    },
+    {
+      "ide": "321788",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Speak Low"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 19xx.xx.xx Speak Low.mp3",
+          "time": "114",
+          "size": "562364"
+        }
+      ]
+    },
+    {
+      "ide": "321789",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321579",
+      "date": "1939-05-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Orleans"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1939.05.16 New Orleans.mp3",
+          "time": "121",
+          "size": "590789"
+        }
+      ]
+    },
+    {
+      "ide": "321580",
+      "date": "1939-09-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bob And Ray",
+          "name": "Bob And Ray Show 19xx.xx.xx Unknown Title.mp3",
+          "time": "1388",
+          "size": "5658432"
+        }
+      ]
+    },
+    {
+      "ide": "321582",
+      "date": "1939-12-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Didja Didja Do"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1939.12.12 Didja Didja Do.mp3",
+          "time": "117",
+          "size": "576376"
+        }
+      ]
+    },
+    {
+      "ide": "321585",
+      "date": "1940-01-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.01.23 Unknown Title.mp3",
+          "time": "116",
+          "size": "571463"
+        }
+      ]
+    },
+    {
+      "ide": "321586",
+      "date": "1940-01-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Careless"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Ozzie Nelson And His Orchestra",
+          "name": "Ozzie Nelson And His Orchestra 1940.xx.xx Careless.mp3",
+          "time": "176",
+          "size": "810668"
+        }
+      ]
+    },
+    {
+      "ide": "321587",
+      "date": "1940-01-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Somebody Loves Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321588",
+      "date": "1940-02-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Holy Smoke Cant You Take A Joke"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.02.06 Holy Smoke Cant You Take A Joke.mp3",
+          "time": "110",
+          "size": "549242"
+        }
+      ]
+    },
+    {
+      "ide": "321589",
+      "date": "1940-02-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ma Hes Making Eyes At Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.02.13 Ma Hes Making Eyes At Me.mp3",
+          "time": "90",
+          "size": "466368"
+        }
+      ]
+    },
+    {
+      "ide": "321590",
+      "date": "1940-02-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Indian Summer"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.02.16 Indian Summer.mp3",
+          "time": "96",
+          "size": "491632"
+        }
+      ]
+    },
+    {
+      "ide": "321591",
+      "date": "1940-02-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Know That You Know"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.02.20 I Know That You Know.mp3",
+          "time": "84",
+          "size": "444103"
+        }
+      ]
+    },
+    {
+      "ide": "321592",
+      "date": "1940-02-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Louisiana Hayride"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.02.27 Louisiana Hayride.mp3",
+          "time": "79",
+          "size": "422886"
+        }
+      ]
+    },
+    {
+      "ide": "321593",
+      "date": "1940-03-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shine"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.03.05 Shine.mp3",
+          "time": "86",
+          "size": "450029"
+        }
+      ]
+    },
+    {
+      "ide": "321594",
+      "date": "1940-03-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jerico"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.03.12 Jerico.mp3",
+          "time": "83",
+          "size": "441254"
+        }
+      ]
+    },
+    {
+      "ide": "321595",
+      "date": "1940-03-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Got Rhythm"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.03.19 I Got Rhythm.mp3",
+          "time": "93",
+          "size": "480659"
+        }
+      ]
+    },
+    {
+      "ide": "321597",
+      "date": "1940-04-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Of Thee I Sing"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.04.23 Of Thee I Sing.mp3",
+          "time": "74",
+          "size": "404803"
+        }
+      ]
+    },
+    {
+      "ide": "321598",
+      "date": "1940-04-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bo Jangles Of Harlem"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.04.30 Unknown Title.mp3",
+          "time": "93",
+          "size": "479407"
+        }
+      ]
+    },
+    {
+      "ide": "321600",
+      "date": "1940-05-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Closing Theme"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.05.08 Closing Theme.mp3",
+          "time": "73",
+          "size": "399159"
+        }
+      ]
+    },
+    {
+      "ide": "321601",
+      "date": "1940-05-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Im Just Wild About Harry"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.05.14 Im Just Wild About Harry.mp3",
+          "time": "82",
+          "size": "437842"
+        }
+      ]
+    },
+    {
+      "ide": "321602",
+      "date": "1940-05-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Liza"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 19xx.xx.xx Liza.mp3",
+          "time": "25",
+          "size": "208134"
+        }
+      ]
+    },
+    {
+      "ide": "321604",
+      "date": "1940-06-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dont Hold Everything"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.06.04 Dont Hold Everything.mp3",
+          "time": "84",
+          "size": "442954"
+        }
+      ]
+    },
+    {
+      "ide": "321605",
+      "date": "1940-06-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do It Again"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.06.18 Do It Again.mp3",
+          "time": "78",
+          "size": "419948"
+        }
+      ]
+    },
+    {
+      "ide": "321606",
+      "date": "1940-10-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blueberry Hill"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.10.15 Blueberry Hill.mp3",
+          "time": "113",
+          "size": "560075"
+        }
+      ]
+    },
+    {
+      "ide": "321607",
+      "date": "1940-10-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.10.18 Unknown Title.mp3",
+          "time": "114",
+          "size": "562581"
+        }
+      ]
+    },
+    {
+      "ide": "321608",
+      "date": "1940-10-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.10.22 Unknown Title.mp3",
+          "time": "111",
+          "size": "552968"
+        }
+      ]
+    },
+    {
+      "ide": "321609",
+      "date": "1940-10-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Medley"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.10.29 Medley.mp3",
+          "time": "117",
+          "size": "577509"
+        }
+      ]
+    },
+    {
+      "ide": "321610",
+      "date": "1940-11-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.11.05 Unknown Title.mp3",
+          "time": "96",
+          "size": "492782"
+        }
+      ]
+    },
+    {
+      "ide": "321611",
+      "date": "1940-11-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Loc Lomand"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.11.12 Loc Lomand.mp3",
+          "time": "100",
+          "size": "506882"
+        }
+      ]
+    },
+    {
+      "ide": "321612",
+      "date": "1940-11-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.11.19 Unknown Title.mp3",
+          "time": "109",
+          "size": "545549"
+        }
+      ]
+    },
+    {
+      "ide": "321613",
+      "date": "1940-12-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.12.03 Unknown Title.mp3",
+          "time": "98",
+          "size": "501454"
+        }
+      ]
+    },
+    {
+      "ide": "321614",
+      "date": "1940-12-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1940.12.10 Unknown Title.mp3",
+          "time": "97",
+          "size": "496439"
+        }
+      ]
+    },
+    {
+      "ide": "321617",
+      "date": "1941-02-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.02.04 Unknown Title.mp3",
+          "time": "100",
+          "size": "506783"
+        }
+      ]
+    },
+    {
+      "ide": "321618",
+      "date": "1941-02-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.02.18 Unknown Title.mp3",
+          "time": "106",
+          "size": "530503"
+        }
+      ]
+    },
+    {
+      "ide": "321619",
+      "date": "1941-03-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.03.11 Unknown Title.mp3",
+          "time": "108",
+          "size": "539489"
+        }
+      ]
+    },
+    {
+      "ide": "321620",
+      "date": "1941-03-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Folk Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.03.18 Folk Song.mp3",
+          "time": "116",
+          "size": "571559"
+        }
+      ]
+    },
+    {
+      "ide": "321621",
+      "date": "1941-03-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carioca"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.03.25 Carioca.mp3",
+          "time": "121",
+          "size": "590572"
+        }
+      ]
+    },
+    {
+      "ide": "321622",
+      "date": "1941-04-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.04.01 Unknown Title.mp3",
+          "time": "103",
+          "size": "518591"
+        }
+      ]
+    },
+    {
+      "ide": "321623",
+      "date": "1941-04-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.04.08 Unknown Title.mp3",
+          "time": "115",
+          "size": "568537"
+        }
+      ]
+    },
+    {
+      "ide": "321624",
+      "date": "1941-04-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.04.15 Unknown Title.mp3",
+          "time": "102",
+          "size": "515769"
+        }
+      ]
+    },
+    {
+      "ide": "321625",
+      "date": "1941-04-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.04.22 Unknown Title.mp3",
+          "time": "107",
+          "size": "536458"
+        }
+      ]
+    },
+    {
+      "ide": "321626",
+      "date": "1941-04-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.04.29 Unknown Title.mp3",
+          "time": "107",
+          "size": "535100"
+        }
+      ]
+    },
+    {
+      "ide": "321627",
+      "date": "1941-05-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.05.06 Unknown Title.mp3",
+          "time": "109",
+          "size": "545549"
+        }
+      ]
+    },
+    {
+      "ide": "321628",
+      "date": "1941-05-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.05.13 Unknown Title.mp3",
+          "time": "113",
+          "size": "560387"
+        }
+      ]
+    },
+    {
+      "ide": "321629",
+      "date": "1941-05-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dark Eyes"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.05.20 Dark Eyes.mp3",
+          "time": "127",
+          "size": "617221"
+        }
+      ]
+    },
+    {
+      "ide": "321630",
+      "date": "1941-05-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Peanut Vendor"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.05.27 Peanut Vendor.mp3",
+          "time": "110",
+          "size": "548161"
+        }
+      ]
+    },
+    {
+      "ide": "321631",
+      "date": "1941-06-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Got To Be This Or That"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.06.10 Unknown Title.mp3",
+          "time": "108",
+          "size": "540325"
+        }
+      ]
+    },
+    {
+      "ide": "321633",
+      "date": "1941-06-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Comin Around The Mountain"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.xx.xx Comin Around The Mountain.mp3",
+          "time": "97",
+          "size": "497299"
+        }
+      ]
+    },
+    {
+      "ide": "321634",
+      "date": "1941-06-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1941.06.24 Unknown Title.mp3",
+          "time": "104",
+          "size": "523188"
+        }
+      ]
+    },
+    {
+      "ide": "321637",
+      "date": "1942-01-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.01.06 Unknown Title.mp3",
+          "time": "95",
+          "size": "488289"
+        }
+      ]
+    },
+    {
+      "ide": "321638",
+      "date": "1942-02-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.02.03 Unknown Title.mp3",
+          "time": "118",
+          "size": "578881"
+        }
+      ]
+    },
+    {
+      "ide": "321639",
+      "date": "1942-02-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Got To Be This Or That"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.02.10 Got To Be This Or That.mp3",
+          "time": "113",
+          "size": "561554"
+        }
+      ]
+    },
+    {
+      "ide": "321640",
+      "date": "1942-02-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Id Love To See You In Pictures"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.02.17 Id Love To See You In Pictures.mp3",
+          "time": "118",
+          "size": "579647"
+        }
+      ]
+    },
+    {
+      "ide": "321641",
+      "date": "1942-02-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blue Skies"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.02.24 Blue Skies.mp3",
+          "time": "115",
+          "size": "569680"
+        }
+      ]
+    },
+    {
+      "ide": "321642",
+      "date": "1942-03-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.03.03 Unknown Title.mp3",
+          "time": "122",
+          "size": "596540"
+        }
+      ]
+    },
+    {
+      "ide": "321643",
+      "date": "1942-03-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Perfidia"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "Camel Caravan 1941.xx.xx Perfidia.mp3",
+          "time": "178",
+          "size": "820331"
+        }
+      ]
+    },
+    {
+      "ide": "321644",
+      "date": "1942-04-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sometimes"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.04.07 Sometimes.mp3",
+          "time": "102",
+          "size": "513985"
+        }
+      ]
+    },
+    {
+      "ide": "321645",
+      "date": "1942-05-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.05.12 Unknown Title.mp3",
+          "time": "110",
+          "size": "546280"
+        }
+      ]
+    },
+    {
+      "ide": "321646",
+      "date": "1942-05-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rio"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.05.19 Rio.mp3",
+          "time": "108",
+          "size": "541767"
+        }
+      ]
+    },
+    {
+      "ide": "321647",
+      "date": "1942-05-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dark Eyes"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.05.25 Dark Eyes.mp3",
+          "time": "126",
+          "size": "610952"
+        }
+      ]
+    },
+    {
+      "ide": "321648",
+      "date": "1942-06-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Patriotic Medley"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.06.16 Patriotic Medley.mp3",
+          "time": "96",
+          "size": "492788"
+        }
+      ]
+    },
+    {
+      "ide": "321649",
+      "date": "1942-06-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fascinating Rhythm"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.06.22 Fascinating Rhythm.mp3",
+          "time": "116",
+          "size": "570428"
+        }
+      ]
+    },
+    {
+      "ide": "321650",
+      "date": "1942-10-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Key To My Heart"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.10.13 Key To My Heart.mp3",
+          "time": "102",
+          "size": "515773"
+        }
+      ]
+    },
+    {
+      "ide": "321651",
+      "date": "1942-10-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pensylvania 6 5000"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.10.20 Pensylvania 6 5000.mp3",
+          "time": "112",
+          "size": "555172"
+        }
+      ]
+    },
+    {
+      "ide": "321652",
+      "date": "1942-11-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.11.03 Unknown Title.mp3",
+          "time": "101",
+          "size": "510232"
+        }
+      ]
+    },
+    {
+      "ide": "321653",
+      "date": "1942-11-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.11.10 Unknown Title.mp3",
+          "time": "104",
+          "size": "524442"
+        }
+      ]
+    },
+    {
+      "ide": "321654",
+      "date": "1942-12-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.12.08 Unknown Title.mp3",
+          "time": "116",
+          "size": "573030"
+        }
+      ]
+    },
+    {
+      "ide": "321655",
+      "date": "1942-12-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chochonia"
+        },
+        {
+          "title": "Night Before Christmas"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1942.12.22 Night Before Christmas.mp3",
+          "time": "360",
+          "size": "1546370"
+        }
+      ]
+    },
+    {
+      "ide": "321657",
+      "date": "1943-12-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1943.12.31 Unknown Title.mp3",
+          "time": "112",
+          "size": "556625"
+        }
+      ]
+    },
+    {
+      "ide": "321659",
+      "date": "1947-12-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Peggy Oneil"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1947.12.09 Peggy Oneil.mp3",
+          "time": "118",
+          "size": "580445"
+        }
+      ]
+    },
+    {
+      "ide": "321660",
+      "date": "1948-01-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Soon"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.01.06 How Soon.mp3",
+          "time": "120",
+          "size": "586098"
+        }
+      ]
+    },
+    {
+      "ide": "321661",
+      "date": "1948-01-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Golden Earrings"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.01.20 Golden Earrings.mp3",
+          "time": "120",
+          "size": "586321"
+        }
+      ]
+    },
+    {
+      "ide": "321662",
+      "date": "1948-01-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Im Looking Over A Four Leaf Clover"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.01.27 Im Looking Over A Four Leaf Clover.mp3",
+          "time": "107",
+          "size": "535159"
+        }
+      ]
+    },
+    {
+      "ide": "321663",
+      "date": "1948-02-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ive Got A Feeling Im Falling"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.02.03 Ive Got A Feeling Im Falling.mp3",
+          "time": "122",
+          "size": "594288"
+        }
+      ]
+    },
+    {
+      "ide": "321664",
+      "date": "1948-02-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All Dressed Up With A Broken Heart"
+        },
+        {
+          "title": "Minyana"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.02.10 Minyana.mp3",
+          "time": "121",
+          "size": "592261"
+        }
+      ]
+    },
+    {
+      "ide": "321666",
+      "date": "1948-02-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Now Is The Hour"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.02.17 Now Is The Hour.mp3",
+          "time": "119",
+          "size": "584231"
+        }
+      ]
+    },
+    {
+      "ide": "321667",
+      "date": "1948-02-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Papa Wont You Dance With Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.02.24 Papa Wont You Dance With Me.mp3",
+          "time": "117",
+          "size": "576732"
+        }
+      ]
+    },
+    {
+      "ide": "321668",
+      "date": "1948-03-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Is So Terrific"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.03.06 Love Is So Terrific.mp3",
+          "time": "122",
+          "size": "594270"
+        }
+      ]
+    },
+    {
+      "ide": "321669",
+      "date": "1948-03-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aint She Pretty"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.03.30 Aint She Pretty.mp3",
+          "time": "120",
+          "size": "586008"
+        }
+      ]
+    },
+    {
+      "ide": "321670",
+      "date": "1948-04-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little White Lies"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "Camel Caravan 1949.xx.xx Little White Lies.mp3",
+          "time": "157",
+          "size": "734250"
+        }
+      ]
+    },
+    {
+      "ide": "321671",
+      "date": "1948-10-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Fellow With An Umbrella"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.10.05 A Fellow With An Umbrella.mp3",
+          "time": "124",
+          "size": "603164"
+        }
+      ]
+    },
+    {
+      "ide": "321672",
+      "date": "1948-11-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Everyday I Love You A Little Bit More"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.11.23 Everyday I Love You A Little Bit More.mp3",
+          "time": "121",
+          "size": "593157"
+        }
+      ]
+    },
+    {
+      "ide": "321673",
+      "date": "1948-11-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On A Slow Boat To China"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.11.30 On A Slow Boat To China.mp3",
+          "time": "116",
+          "size": "572858"
+        }
+      ]
+    },
+    {
+      "ide": "321674",
+      "date": "1948-12-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1948.12.14 Unknown Title.mp3",
+          "time": "121",
+          "size": "592900"
+        }
+      ]
+    },
+    {
+      "ide": "321676",
+      "date": "1949-01-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Point A Lagusta"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.01.04 Point A Lagusta.mp3",
+          "time": "129",
+          "size": "622057"
+        }
+      ]
+    },
+    {
+      "ide": "321677",
+      "date": "1949-01-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lavender Blue"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.01.11 Lavender Blue.mp3",
+          "time": "133",
+          "size": "638980"
+        }
+      ]
+    },
+    {
+      "ide": "321678",
+      "date": "1949-01-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Got My Love To Keep Me Warm"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.01.25 I Got My Love To Keep Me Warm.mp3",
+          "time": "125",
+          "size": "607978"
+        }
+      ]
+    },
+    {
+      "ide": "321679",
+      "date": "1949-02-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Here Ill Stay"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.02.08 Here Ill Stay.mp3",
+          "time": "132",
+          "size": "635323"
+        }
+      ]
+    },
+    {
+      "ide": "321680",
+      "date": "1949-02-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Jack Frost Get Lost"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.02.15 Little Jack Frost Get Lost.mp3",
+          "time": "113",
+          "size": "561161"
+        }
+      ]
+    },
+    {
+      "ide": "321681",
+      "date": "1949-02-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Faw Away Places"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.02.22 Faw Away Places.mp3",
+          "time": "122",
+          "size": "594576"
+        }
+      ]
+    },
+    {
+      "ide": "321682",
+      "date": "1949-02-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Powder Your Face With Sunshine"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.02.25 Powder Your Face With Sunshine.mp3",
+          "time": "118",
+          "size": "581858"
+        }
+      ]
+    },
+    {
+      "ide": "321683",
+      "date": "1949-03-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Someone Like You"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.03.08 Someone Like You.mp3",
+          "time": "138",
+          "size": "661451"
+        }
+      ]
+    },
+    {
+      "ide": "321684",
+      "date": "1949-03-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Roses For A Blue Lady"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.03.15 Red Roses For A Blue Lady.mp3",
+          "time": "139",
+          "size": "663664"
+        }
+      ]
+    },
+    {
+      "ide": "321685",
+      "date": "1949-03-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rose Work Spinnet"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.03.29 Rose Work Spinnet.mp3",
+          "time": "136",
+          "size": "652258"
+        }
+      ]
+    },
+    {
+      "ide": "321686",
+      "date": "1949-04-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Guns"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.04.05 Great Guns.mp3",
+          "time": "131",
+          "size": "633123"
+        }
+      ]
+    },
+    {
+      "ide": "321687",
+      "date": "1949-04-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bally Hai"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.04.19 Bally Hai.mp3",
+          "time": "136",
+          "size": "653809"
+        }
+      ]
+    },
+    {
+      "ide": "321688",
+      "date": "1949-04-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Im Going To Wash That Man Right Out Of My Hair"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.04.26 Im Going To Wash That Man Right Out Of My Hair.mp3",
+          "time": "127",
+          "size": "615431"
+        }
+      ]
+    },
+    {
+      "ide": "321689",
+      "date": "1949-05-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Always True To You In My Fashion"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.05.10 Always True To You In My Fashion.mp3",
+          "time": "134",
+          "size": "645183"
+        }
+      ]
+    },
+    {
+      "ide": "321690",
+      "date": "1949-05-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Some Enchanted Evening"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.05.17 Some Enchanted Evening.mp3",
+          "time": "114",
+          "size": "564915"
+        }
+      ]
+    },
+    {
+      "ide": "321691",
+      "date": "1949-05-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Calidonia"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.05.24 Calidonia.mp3",
+          "time": "108",
+          "size": "538871"
+        }
+      ]
+    },
+    {
+      "ide": "321692",
+      "date": "1949-05-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Five Foot Two"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.05.31 Five Foot Two.mp3",
+          "time": "127",
+          "size": "613902"
+        }
+      ]
+    },
+    {
+      "ide": "321693",
+      "date": "1949-09-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Im In Love Oklahoma"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.09.13 Im In Love Oklahoma.mp3",
+          "time": "130",
+          "size": "629483"
+        }
+      ]
+    },
+    {
+      "ide": "321694",
+      "date": "1949-09-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hucklebuck"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.09.20 Hucklebuck.mp3",
+          "time": "125",
+          "size": "607209"
+        }
+      ]
+    },
+    {
+      "ide": "321695",
+      "date": "1949-09-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fiddle De De"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.09.27 Fiddle De De.mp3",
+          "time": "123",
+          "size": "601257"
+        }
+      ]
+    },
+    {
+      "ide": "321696",
+      "date": "1949-10-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Laurabelle Lee"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.10.11 Laurabelle Lee.mp3",
+          "time": "122",
+          "size": "596751"
+        }
+      ]
+    },
+    {
+      "ide": "321697",
+      "date": "1949-10-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Its A Great Feeling"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.10.18 Its A Great Feeling.mp3",
+          "time": "126",
+          "size": "612452"
+        }
+      ]
+    },
+    {
+      "ide": "321698",
+      "date": "1949-11-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Georgia On My Mind"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 19xx.xx.xx Georgia On My Mind.mp3",
+          "time": "126",
+          "size": "611701"
+        }
+      ]
+    },
+    {
+      "ide": "321699",
+      "date": "1949-11-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dear Hearts And Gentle People"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.11.08 Dear Hearts And Gentle People.mp3",
+          "time": "121",
+          "size": "593141"
+        }
+      ]
+    },
+    {
+      "ide": "321700",
+      "date": "1949-11-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bye Bye Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 19xx.xx.xx Bye Bye Baby.mp3",
+          "time": "135",
+          "size": "645857"
+        }
+      ]
+    },
+    {
+      "ide": "321701",
+      "date": "1949-11-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Now That I Need You"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.11.29 Now That I Need You.mp3",
+          "time": "131",
+          "size": "633767"
+        }
+      ]
+    },
+    {
+      "ide": "321702",
+      "date": "1949-12-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "She Wore A Yellow Ribbon"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.12.06 She Wore A Yellow Ribbon.mp3",
+          "time": "135",
+          "size": "648093"
+        }
+      ]
+    },
+    {
+      "ide": "321703",
+      "date": "1949-12-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Thousand Violins"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1949.12.27 A Thousand Violins.mp3",
+          "time": "141",
+          "size": "670964"
+        }
+      ]
+    },
+    {
+      "ide": "321704",
+      "date": "1950-01-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Envy"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.01.03 Envy.mp3",
+          "time": "141",
+          "size": "671145"
+        }
+      ]
+    },
+    {
+      "ide": "321705",
+      "date": "1950-01-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bippity Boppity Boo"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.01.10 Bippity Boppity Boo.mp3",
+          "time": "119",
+          "size": "581941"
+        }
+      ]
+    },
+    {
+      "ide": "321706",
+      "date": "1950-01-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Charley My Boy"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.01.17 Charley My Boy.mp3",
+          "time": "127",
+          "size": "617666"
+        }
+      ]
+    },
+    {
+      "ide": "321707",
+      "date": "1950-01-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All The Bees Are Buzzin Around My Honey"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.01.31 All The Bees Are Buzzin Around My Honey.mp3",
+          "time": "120",
+          "size": "586787"
+        }
+      ]
+    },
+    {
+      "ide": "321708",
+      "date": "1950-02-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Dream Is A Wish Your Heart Makes"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.02.17 A Dream Is A Wish Your Heart Makes.mp3",
+          "time": "112",
+          "size": "554281"
+        }
+      ]
+    },
+    {
+      "ide": "321709",
+      "date": "1950-02-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Happy Time"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.02.28 Happy Time.mp3",
+          "time": "119",
+          "size": "584221"
+        }
+      ]
+    },
+    {
+      "ide": "321710",
+      "date": "1950-03-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dont Rock The Boat"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.03.03 Dont Rock The Boat.mp3",
+          "time": "122",
+          "size": "595313"
+        }
+      ]
+    },
+    {
+      "ide": "321711",
+      "date": "1950-03-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music Music Music"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.03.07 Music Music Music.mp3",
+          "time": "123",
+          "size": "598864"
+        }
+      ]
+    },
+    {
+      "ide": "321712",
+      "date": "1950-03-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Copper Canyon"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 19xx.xx.xx Copper Canyon.mp3",
+          "time": "128",
+          "size": "619841"
+        }
+      ]
+    },
+    {
+      "ide": "321713",
+      "date": "1950-03-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Hot Canary"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.03.28 A Hot Canary.mp3",
+          "time": "127",
+          "size": "614318"
+        }
+      ]
+    },
+    {
+      "ide": "321714",
+      "date": "1950-04-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "If I Knew You Were Comin Id Have Baked A Cake"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.04.04 If I Knew You Were Comin Id Have Baked A Cake.mp3",
+          "time": "119",
+          "size": "583246"
+        }
+      ]
+    },
+    {
+      "ide": "321715",
+      "date": "1950-05-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Filomina"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.05.02 Filomina.mp3",
+          "time": "134",
+          "size": "644403"
+        }
+      ]
+    },
+    {
+      "ide": "321716",
+      "date": "1950-09-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Love The Guy"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.09.01 I Love The Guy.mp3",
+          "time": "105",
+          "size": "526969"
+        }
+      ]
+    },
+    {
+      "ide": "321717",
+      "date": "1950-09-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sams Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.09.26 Sams Song.mp3",
+          "time": "134",
+          "size": "642107"
+        }
+      ]
+    },
+    {
+      "ide": "321718",
+      "date": "1950-10-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Dont Care If The Sun Dont Shine"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.10.01 I Dont Care If The Sun Dont Shine.mp3",
+          "time": "117",
+          "size": "576013"
+        }
+      ]
+    },
+    {
+      "ide": "321719",
+      "date": "1950-10-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dream A Little Dream Of Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.10.17 Dream A Little Dream Of Me.mp3",
+          "time": "126",
+          "size": "611525"
+        }
+      ]
+    },
+    {
+      "ide": "321720",
+      "date": "1950-10-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All My Love"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.10.24 All My Love.mp3",
+          "time": "122",
+          "size": "595822"
+        }
+      ]
+    },
+    {
+      "ide": "321721",
+      "date": "1950-10-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blue Bliss"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.10.31 Blue Bliss.mp3",
+          "time": "138",
+          "size": "661439"
+        }
+      ]
+    },
+    {
+      "ide": "321722",
+      "date": "1950-11-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Bushel And A Peck"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.11.21 A Bushel And A Peck.mp3",
+          "time": "118",
+          "size": "578283"
+        }
+      ]
+    },
+    {
+      "ide": "321723",
+      "date": "1950-11-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Looks Like A Cold Cold Winter"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.11.28 It Looks Like A Cold Cold Winter.mp3",
+          "time": "123",
+          "size": "599521"
+        }
+      ]
+    },
+    {
+      "ide": "321724",
+      "date": "1950-12-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sleigh Ride"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.12.19 Sleigh Ride.mp3",
+          "time": "125",
+          "size": "606375"
+        }
+      ]
+    },
+    {
+      "ide": "321725",
+      "date": "1950-12-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Its A Marshmallow World"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1950.12.26 Its A Marshmallow World.mp3",
+          "time": "115",
+          "size": "569096"
+        }
+      ]
+    },
+    {
+      "ide": "321726",
+      "date": "1951-01-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ding A Ling A Ling"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.01.06 Ding A Ling A Ling.mp3",
+          "time": "120",
+          "size": "586327"
+        }
+      ]
+    },
+    {
+      "ide": "321727",
+      "date": "1951-01-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ill Get By"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.01.12 Ill Get By.mp3",
+          "time": "128",
+          "size": "620375"
+        }
+      ]
+    },
+    {
+      "ide": "321728",
+      "date": "1951-01-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ragin The Scale"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.01.19 Ragin The Scale.mp3",
+          "time": "129",
+          "size": "624355"
+        }
+      ]
+    },
+    {
+      "ide": "321729",
+      "date": "1951-01-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lullaby Of Broadway"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.01.30 Lullaby Of Broadway.mp3",
+          "time": "114",
+          "size": "564909"
+        }
+      ]
+    },
+    {
+      "ide": "321730",
+      "date": "1951-02-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Heart Cries For You"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.02.16 My Heart Cries For You.mp3",
+          "time": "126",
+          "size": "612458"
+        }
+      ]
+    },
+    {
+      "ide": "321731",
+      "date": "1951-02-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Get Out Those Old Records"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.02.27 Get Out Those Old Records.mp3",
+          "time": "120",
+          "size": "588535"
+        }
+      ]
+    },
+    {
+      "ide": "321732",
+      "date": "1951-03-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Am Love"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.03.16 I Am Love.mp3",
+          "time": "121",
+          "size": "589966"
+        }
+      ]
+    },
+    {
+      "ide": "321733",
+      "date": "1951-03-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "By Heck"
+        },
+        {
+          "title": "Oh What A Face"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.03.20 Oh What A Face.mp3",
+          "time": "122",
+          "size": "595723"
+        }
+      ]
+    },
+    {
+      "ide": "321735",
+      "date": "1951-03-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aba Daba Honeymoon"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.03.27 Aba Daba Honeymoon.mp3",
+          "time": "130",
+          "size": "628436"
+        }
+      ]
+    },
+    {
+      "ide": "321736",
+      "date": "1951-04-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Its A Lovely Day Today"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.04.10 Its A Lovely Day Today.mp3",
+          "time": "134",
+          "size": "642864"
+        }
+      ]
+    },
+    {
+      "ide": "321737",
+      "date": "1951-04-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Whistle A Happy Tune"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.04.24 I Whistle A Happy Tune.mp3",
+          "time": "128",
+          "size": "620503"
+        }
+      ]
+    },
+    {
+      "ide": "321738",
+      "date": "1951-05-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How High The Moon"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "Camel Caravan 19xx.xx.xx How High The Moon.mp3",
+          "time": "176",
+          "size": "812721"
+        }
+      ]
+    },
+    {
+      "ide": "321739",
+      "date": "1951-05-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Children"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.05.22 Children.mp3",
+          "time": "127",
+          "size": "617654"
+        }
+      ]
+    },
+    {
+      "ide": "321740",
+      "date": "1951-05-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dont Talk About Me When Im Gone"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.05.24 Dont Talk About Me When Im Gone.mp3",
+          "time": "125",
+          "size": "609863"
+        }
+      ]
+    },
+    {
+      "ide": "321741",
+      "date": "1951-05-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Top Of Old Smokey"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.05.29 On Top Of Old Smokey.mp3",
+          "time": "119",
+          "size": "583301"
+        }
+      ]
+    },
+    {
+      "ide": "321742",
+      "date": "1951-10-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Because Of You"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.10.09 Because Of You.mp3",
+          "time": "111",
+          "size": "549957"
+        }
+      ]
+    },
+    {
+      "ide": "321743",
+      "date": "1951-10-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Is The Reason"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.10.12 Love Is The Reason.mp3",
+          "time": "116",
+          "size": "573788"
+        }
+      ]
+    },
+    {
+      "ide": "321744",
+      "date": "1951-10-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In The Cool Cool Cool Of The Evening"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.10.23 In The Cool Cool Cool Of The Evening.mp3",
+          "time": "111",
+          "size": "551359"
+        }
+      ]
+    },
+    {
+      "ide": "321745",
+      "date": "1951-11-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Is Here To Stay"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.11.16 Love Is Here To Stay.mp3",
+          "time": "119",
+          "size": "582674"
+        }
+      ]
+    },
+    {
+      "ide": "321746",
+      "date": "1951-11-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Down Yonder"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.11.20 Down Yonder.mp3",
+          "time": "132",
+          "size": "633960"
+        }
+      ]
+    },
+    {
+      "ide": "321747",
+      "date": "1951-11-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Charmaine"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.11.27 Charmaine.mp3",
+          "time": "122",
+          "size": "596027"
+        }
+      ]
+    },
+    {
+      "ide": "321748",
+      "date": "1951-12-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shrimp Boats"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.12.04 Shrimp Boats.mp3",
+          "time": "143",
+          "size": "679833"
+        }
+      ]
+    },
+    {
+      "ide": "321749",
+      "date": "1951-12-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jealousy"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.12.11 Jealousy.mp3",
+          "time": "127",
+          "size": "617654"
+        }
+      ]
+    },
+    {
+      "ide": "321750",
+      "date": "1951-12-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slow Poke"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.12.14 Slow Poke.mp3",
+          "time": "121",
+          "size": "590907"
+        }
+      ]
+    },
+    {
+      "ide": "321751",
+      "date": "1951-12-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unknown Title"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1951.12.18 Unknown Title.mp3",
+          "time": "123",
+          "size": "598124"
+        }
+      ]
+    },
+    {
+      "ide": "321752",
+      "date": "1952-01-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Manhattan"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.01.08 Manhattan.mp3",
+          "time": "117",
+          "size": "575233"
+        }
+      ]
+    },
+    {
+      "ide": "321753",
+      "date": "1952-01-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Soliloquy"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.01.15 Soliloquy.mp3",
+          "time": "149",
+          "size": "704592"
+        }
+      ]
+    },
+    {
+      "ide": "321754",
+      "date": "1952-01-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I Talk To The Thieves"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.01.22 I Talk To The Thieves.mp3",
+          "time": "142",
+          "size": "676299"
+        }
+      ]
+    },
+    {
+      "ide": "321755",
+      "date": "1952-01-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grand Central Station"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.01.29 Grand Central Station.mp3",
+          "time": "122",
+          "size": "595737"
+        }
+      ]
+    },
+    {
+      "ide": "321756",
+      "date": "1952-02-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Always"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.02.05 Always.mp3",
+          "time": "116",
+          "size": "572301"
+        }
+      ]
+    },
+    {
+      "ide": "321757",
+      "date": "1952-02-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Anytime"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.02.12 Anytime.mp3",
+          "time": "132",
+          "size": "635415"
+        }
+      ]
+    },
+    {
+      "ide": "321758",
+      "date": "1952-02-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Heart Cries For You"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.02.23 My Heart Cries For You.mp3",
+          "time": "131",
+          "size": "633251"
+        }
+      ]
+    },
+    {
+      "ide": "321759",
+      "date": "1952-03-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Perfidia"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.03.11 Perfidia.mp3",
+          "time": "114",
+          "size": "562483"
+        }
+      ]
+    },
+    {
+      "ide": "321760",
+      "date": "1952-03-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dardinella"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.03.18 Dardinella.mp3",
+          "time": "124",
+          "size": "605015"
+        }
+      ]
+    },
+    {
+      "ide": "321761",
+      "date": "1952-03-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Be My Lifes Companion"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.03.24 Be My Lifes Companion.mp3",
+          "time": "133",
+          "size": "638473"
+        }
+      ]
+    },
+    {
+      "ide": "321762",
+      "date": "1952-03-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After I Say Im Sorry"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.03.25 After I Say Im Sorry.mp3",
+          "time": "124",
+          "size": "602631"
+        }
+      ]
+    },
+    {
+      "ide": "321763",
+      "date": "1952-04-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Song Of The Bayou"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.04.01 Song Of The Bayou.mp3",
+          "time": "141",
+          "size": "671902"
+        }
+      ]
+    },
+    {
+      "ide": "321764",
+      "date": "1952-04-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mockingbird Hill"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.04.13 Mockingbird Hill.mp3",
+          "time": "114",
+          "size": "563858"
+        }
+      ]
+    },
+    {
+      "ide": "321765",
+      "date": "1952-04-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blue Tango"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.04.22 Blue Tango.mp3",
+          "time": "120",
+          "size": "587774"
+        }
+      ]
+    },
+    {
+      "ide": "321766",
+      "date": "1952-05-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Delicado"
+        },
+        {
+          "title": "Lady Love"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.05.13 Lady Love.mp3",
+          "time": "124",
+          "size": "605744"
+        }
+      ]
+    },
+    {
+      "ide": "321768",
+      "date": "1952-05-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Goody Goody"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Caravan",
+          "name": "Camel Caravan 1936.xx.xx Goody Goody.mp3",
+          "time": "150",
+          "size": "706234"
+        }
+      ]
+    },
+    {
+      "ide": "321769",
+      "date": "1952-05-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ill Walk Alone"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.05.27 Ill Walk Alone.mp3",
+          "time": "113",
+          "size": "561868"
+        }
+      ]
+    },
+    {
+      "ide": "321770",
+      "date": "1952-06-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Popularity"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.06.10 Popularity.mp3",
+          "time": "127",
+          "size": "617554"
+        }
+      ]
+    },
+    {
+      "ide": "321771",
+      "date": "1952-10-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fanecia"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.10.14 Fanecia.mp3",
+          "time": "138",
+          "size": "659239"
+        }
+      ]
+    },
+    {
+      "ide": "321772",
+      "date": "1952-10-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Somebody Loves Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.10.21 Somebody Loves Me.mp3",
+          "time": "114",
+          "size": "564069"
+        }
+      ]
+    },
+    {
+      "ide": "321773",
+      "date": "1952-10-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Meet Mr Callihan"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.10.28 Meet Mr Callihan.mp3",
+          "time": "129",
+          "size": "625089"
+        }
+      ]
+    },
+    {
+      "ide": "321774",
+      "date": "1952-11-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lady Of Spain"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.11.18 Lady Of Spain.mp3",
+          "time": "114",
+          "size": "562598"
+        }
+      ]
+    },
+    {
+      "ide": "321775",
+      "date": "1952-11-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jumbalina"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.11.25 Jumbalina.mp3",
+          "time": "103",
+          "size": "518495"
+        }
+      ]
+    },
+    {
+      "ide": "321776",
+      "date": "1952-12-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hindustan"
+        },
+        {
+          "title": "Reindeer"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.12.16 Reindeer.mp3",
+          "time": "125",
+          "size": "606474"
+        }
+      ]
+    },
+    {
+      "ide": "321778",
+      "date": "1952-12-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Medley"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.12.23 Medley.mp3",
+          "time": "340",
+          "size": "1466090"
+        }
+      ]
+    },
+    {
+      "ide": "321779",
+      "date": "1952-12-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Glow Worm"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Billy Mills Orchestra",
+          "name": "Billy Mills Orchestra 1952.12.30 Glow Worm.mp3",
+          "time": "119",
+          "size": "585682"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Billy Mills Orchestra"
+    }
+  ]
+}

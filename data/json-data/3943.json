@@ -1,0 +1,4991 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323043036-184966b5.jpg",
+      "label": "GI Jive 01",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323043038-353a01b2.jpg",
+      "label": "GI Jive 02",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3943-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logg1043.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/G Series/G I Jive/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "38941",
+      "first": "Martha",
+      "last": "Wilkerson",
+      "f": "Noted Role",
+      "character": "Hostess(G I Jill)"
+    },
+    {
+      "idperson": "2922",
+      "first": "Burl",
+      "last": "Ives",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "31399",
+      "first": "The",
+      "last": "Mills Brothers",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "40",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "156",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "242843",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Benny Goodman - Swing Low Sweet Chariot"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 82-xx-xx (xxxx) Benny Goodman - Swing Low Sweet Chariot.mp3",
+          "time": "898",
+          "size": "14367656"
+        }
+      ]
+    },
+    {
+      "ide": "242844",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Benny Goodman, Peggy Lee - Why Don't You Do Right"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 81-xx-xx (xxxx) Benny Goodman, Peggy Lee - Why Don't You Do Right.mp3",
+          "time": "898",
+          "size": "14365998"
+        }
+      ]
+    },
+    {
+      "ide": "196718",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - American Patrol"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242783",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Backbeat Boogie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242845",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Basie's Basement ( Count Basie)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242785",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Basie's Basement (Count Basie)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Basie's Basement (Count Basie).mp3",
+          "time": "917",
+          "size": "14675810"
+        }
+      ]
+    },
+    {
+      "ide": "242787",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Boogie Woogie (Not 510)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242790",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Cherokee"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Cherokee.mp3",
+          "time": "826",
+          "size": "3305347"
+        }
+      ]
+    },
+    {
+      "ide": "242846",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Cherokee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242793",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Fame"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Fame.mp3",
+          "time": "915",
+          "size": "3664061"
+        }
+      ]
+    },
+    {
+      "ide": "242847",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Fame"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242798",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Get Happy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242848",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - High Society ( Bunny Berrigan)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242799",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - High Society (Bunny Berrigan)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - High Society (Bunny Berrigan).mp3",
+          "time": "822",
+          "size": "3287291"
+        }
+      ]
+    },
+    {
+      "ide": "242849",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Indian Love Call ( Artie Shaw)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242800",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Indian Love Call (Artie Shaw)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Indian Love Call (Artie Shaw).mp3",
+          "time": "819",
+          "size": "3279608"
+        }
+      ]
+    },
+    {
+      "ide": "242850",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - It's Been a Long, Long Time ( Stan Kenton)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - It's Been A Long, Long Time (Stan Kenton).mp3",
+          "time": "912",
+          "size": "14599524"
+        }
+      ]
+    },
+    {
+      "ide": "242802",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - It's Been A Long, Long Time (Stan Kenton)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242851",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Java Junction ( Bob Crosby)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242803",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Java Junction (Bob Crosby)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Java Junction (Bob Crosby).mp3",
+          "time": "804",
+          "size": "3218412"
+        }
+      ]
+    },
+    {
+      "ide": "242805",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jeep Rhythm"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Jeep Rhythm.mp3",
+          "time": "856",
+          "size": "3424884"
+        }
+      ]
+    },
+    {
+      "ide": "242852",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jeep Rhythm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242853",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jivin' ( Bunny Berrigan)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242806",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jivin' (Bunny Berrigan)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Jivin' (Bunny Berrigan).mp3",
+          "time": "833",
+          "size": "3332941"
+        }
+      ]
+    },
+    {
+      "ide": "242807",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jumping At The Woodside (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242854",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Night Ride ( Ambrose)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242810",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Night Ride (Ambrose)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Night Ride (Ambrose).mp3",
+          "time": "823",
+          "size": "3292378"
+        }
+      ]
+    },
+    {
+      "ide": "242813",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Opus One (4)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242855",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rose Room ( Erskine Hawkins)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242814",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rose Room (Erskine Hawkins)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Rose Room (Erskine Hawkins).mp3",
+          "time": "918",
+          "size": "14690819"
+        }
+      ]
+    },
+    {
+      "ide": "242816",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Soldier Jumped At Dawn"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Soldier Jumped At Dawn.mp3",
+          "time": "829",
+          "size": "3315364"
+        }
+      ]
+    },
+    {
+      "ide": "242856",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Soldier Jumped at Dawn"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242819",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Stomp Mr Henry Lee"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Stomp Mr Henry Lee.mp3",
+          "time": "842",
+          "size": "3367880"
+        }
+      ]
+    },
+    {
+      "ide": "242857",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Stomp Mr Henry Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242858",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sugarfoot Stomp ( Benny Goodman)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242821",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sugarfoot Stomp (Benny Goodman)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Sugarfoot Stomp (Benny Goodman).mp3",
+          "time": "821",
+          "size": "3286853"
+        }
+      ]
+    },
+    {
+      "ide": "242822",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Swing Crazy"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Swing Crazy.mp3",
+          "time": "913",
+          "size": "3654448"
+        }
+      ]
+    },
+    {
+      "ide": "242859",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Swing Crazy"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xxxxxx xxx 1st Song - Swing Crazy (128-48)_OTRRPG.mp3",
+          "time": "911",
+          "size": "14654704"
+        }
+      ]
+    },
+    {
+      "ide": "242823",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Swing Low Sweet Chariot (Benny Goodman)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242828",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Trumpet Blues (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242830",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Two O'Clock Jump (Not 756)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242831",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - We'll Get It  (Tommy Dorsey)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - We'll Get It (Tommy Dorsey).mp3",
+          "time": "865",
+          "size": "3462709"
+        }
+      ]
+    },
+    {
+      "ide": "242860",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - We'll Get It ( Tommy Dorsey)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242861",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Who ( Tommy Dorsey)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242833",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Who (Tommy Dorsey)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Who (Tommy Dorsey).mp3",
+          "time": "839",
+          "size": "3358104"
+        }
+      ]
+    },
+    {
+      "ide": "242834",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Why Don't You Do Right (Benny Goodman)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242862",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Woodchopper's Ball ( Woody Herman)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) First Song - Woodchopper's Ball ( Woody Herman).mp3",
+          "time": "878",
+          "size": "3515790"
+        }
+      ]
+    },
+    {
+      "ide": "242835",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Woodchopper's Ball ( Woody Herman)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242837",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "G I Jive - #1129 - a F R S - 1st Muggsy Spanier at the Jazz Band Ball"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive - #1129 - AFRS - 1st Muggsy Spanier At the Jazz Band Ball.mp3",
+          "time": "908",
+          "size": "10890406"
+        }
+      ]
+    },
+    {
+      "ide": "242838",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "G I Jive - #1130 - a F R S - 1st Leave Us Leap"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive - #1130 - AFRS - 1st Leave Us Leap.mp3",
+          "time": "910",
+          "size": "10922645"
+        }
+      ]
+    },
+    {
+      "ide": "242839",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "G I Jive - #1307 - a F R S - 1st Glenn Miller American Patrol"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive - #1307 - AFRS - 1st Glenn Miller American Patrol.mp3",
+          "time": "908",
+          "size": "10895101"
+        }
+      ]
+    },
+    {
+      "ide": "242840",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "G I Jive - #1308 - a F R S - Tommy Dorsey for You, Features Full Sing Sing Sing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242776",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kay Kyser"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "313572",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Spain"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xxxxxx xxx 1st Song - Spain (128-48)_OTRRPG.mp3",
+          "time": "915",
+          "size": "14656504"
+        }
+      ]
+    },
+    {
+      "ide": "328791",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0016b G I Jive - Jane Withers - Bob Chester"
+        }
+      ],
+      "files": [
+        {
+          "path": "s G",
+          "folder": "0",
+          "name": "AFRS Collection 194x.xx.xx 0016b G I Jive - Jane Withers - Bob Chester.mp3",
+          "time": "910",
+          "size": "3747840"
+        }
+      ]
+    },
+    {
+      "ide": "328860",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0386 G I Jive - Will Bradley"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "AFRS Collection 194x.xx.xx 0386 G I Jive - Will Bradley.mp3",
+          "time": "840",
+          "size": "3467264"
+        }
+      ]
+    },
+    {
+      "ide": "328869",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0488 G I Jive - Marjorie Lord"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "AFRS Collection 194x.xx.xx 0488 G I Jive - Marjorie Lord.mp3",
+          "time": "906",
+          "size": "3729408"
+        }
+      ]
+    },
+    {
+      "ide": "328873",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0634 G I Jive - Pied Pipers - Keep On Swingin"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "AFRS Collection 194x.xx.xx 0634 G I Jive - Pied Pipers - Keep On Swingin.mp3",
+          "time": "904",
+          "size": "3725312"
+        }
+      ]
+    },
+    {
+      "ide": "328884",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 1036 G I Jive - Jimmy Dorsey"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "AFRS Collection 194x.xx.xx 1036 G I Jive - Jimmy Dorsey.mp3",
+          "time": "906",
+          "size": "3731456"
+        }
+      ]
+    },
+    {
+      "ide": "329007",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0646 Gi Jive"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "AFRS Collection 19xx.xx.xx 0646 Gi Jive.mp3",
+          "time": "841",
+          "size": "3473408"
+        }
+      ]
+    },
+    {
+      "ide": "195633",
+      "date": "0000-00-00",
+      "epnum": "1024",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Leave Us Leap (3)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195634",
+      "date": "0000-00-00",
+      "epnum": "1031",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The One O'Clock Jump"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195635",
+      "date": "0000-00-00",
+      "epnum": "1032",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Swingtime In The Rockies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195636",
+      "date": "0000-00-00",
+      "epnum": "1033",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Opus One (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195637",
+      "date": "0000-00-00",
+      "epnum": "1034",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jam Session"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195638",
+      "date": "0000-00-00",
+      "epnum": "1035",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Swing Low, Sweet Chariot"
+        },
+        {
+          "title": "1st 'Swing Low, Sweet Chariot' Glenn Miller Band led by Tex Beneke"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1376 4xxxxx 1st; 'Swing Low, Sweet Chariot' Glenn Miller Band led by Tex Beneke (192-44).mp3",
+          "time": "907",
+          "size": "21858700"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (1035) First Song - Swing Low, Sweet Chariot.mp3",
+          "time": "905",
+          "size": "14486501"
+        }
+      ]
+    },
+    {
+      "ide": "195639",
+      "date": "0000-00-00",
+      "epnum": "1036",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Opus One (3)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330493",
+      "date": "0000-00-00",
+      "epnum": "1057",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "330494",
+      "date": "0000-00-00",
+      "epnum": "1058",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "330495",
+      "date": "0000-00-00",
+      "epnum": "1061",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "330496",
+      "date": "0000-00-00",
+      "epnum": "1062",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "195640",
+      "date": "0000-00-00",
+      "epnum": "1063",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Wham"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195641",
+      "date": "0000-00-00",
+      "epnum": "1064",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - South Rampart Street Parade (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195642",
+      "date": "0000-00-00",
+      "epnum": "1077",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Eager Beaver (3)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195643",
+      "date": "0000-00-00",
+      "epnum": "1079",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jack The Bellboy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195645",
+      "date": "0000-00-00",
+      "epnum": "1080",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Number Nineteen (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195646",
+      "date": "0000-00-00",
+      "epnum": "1093",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jumpin' At The Woodside"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195647",
+      "date": "0000-00-00",
+      "epnum": "1094",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Continental"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195648",
+      "date": "0000-00-00",
+      "epnum": "1096",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Night Ride (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195649",
+      "date": "0000-00-00",
+      "epnum": "1109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hawaiian War Chant"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195650",
+      "date": "0000-00-00",
+      "epnum": "1110",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Leave Us Leap (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195651",
+      "date": "0000-00-00",
+      "epnum": "1117",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Russian Lullaby"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "Gi Jive xxxxxx 1117 1st Song - Russian Lullaby_OTRRPG.mp3",
+          "time": "907",
+          "size": "14529560"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (1117) First Tune - Russian Lullaby.mp3",
+          "time": "908",
+          "size": "10896919"
+        }
+      ]
+    },
+    {
+      "ide": "195652",
+      "date": "0000-00-00",
+      "epnum": "1118",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Little Jazz"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "Gi Jive xxxxxx 1118 1st Song - Little Jazz_OTRRPG.mp3",
+          "time": "908",
+          "size": "14530811"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (1118) First Tune - Little Jazz.mp3",
+          "time": "908",
+          "size": "10897545"
+        }
+      ]
+    },
+    {
+      "ide": "330497",
+      "date": "0000-00-00",
+      "epnum": "1139",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "330498",
+      "date": "0000-00-00",
+      "epnum": "1140",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "330499",
+      "date": "0000-00-00",
+      "epnum": "1191",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "330500",
+      "date": "0000-00-00",
+      "epnum": "1192",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "242788",
+      "date": "0000-00-00",
+      "epnum": "1194",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Boy Meets Horn (Benny Goodman)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1194 46xxxx 1st Song - Boy Meets Horn (Benny Goodman) (Test Pressing) (256-44)_OTRRPG.mp3",
+          "time": "914",
+          "size": "29260854"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 46-xx-xx (1194) First Song - Boy Meets Horn (Benny Goodman).mp3",
+          "time": "910",
+          "size": "7278622"
+        }
+      ]
+    },
+    {
+      "ide": "242796",
+      "date": "0000-00-00",
+      "epnum": "1196",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Frankie And Johnnie (Bunny Berrigan)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1196 46xxxx 1st Song - Frankie And Johnny (Bunny Berigan) (Test Pressing) (256-44)_OTRRPG.mp3",
+          "time": "912",
+          "size": "29204848"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 46-xx-xx (1196) First Song - Frankie And Johnnie (Bunny Berrigan).mp3",
+          "time": "908",
+          "size": "7264286"
+        }
+      ]
+    },
+    {
+      "ide": "242792",
+      "date": "0000-00-00",
+      "epnum": "1197",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Eager Beaver (Stan Kenton)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1197 46xxxx 1st Song - Eager Beaver (Stan Kenton) (Test Pressing) (256-44)_OTRRPG.mp3",
+          "time": "916",
+          "size": "29326892"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 46-xx-xx (1197) First Song - Eager Beaver (Stan Kenton).mp3",
+          "time": "912",
+          "size": "7295006"
+        }
+      ]
+    },
+    {
+      "ide": "195653",
+      "date": "0000-00-00",
+      "epnum": "1203",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Your Father's Moustache"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195654",
+      "date": "0000-00-00",
+      "epnum": "1204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Basie Boogie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330501",
+      "date": "0000-00-00",
+      "epnum": "1205",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "330502",
+      "date": "0000-00-00",
+      "epnum": "1206",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "67891",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Pennsylvania Polka"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "329828",
+      "date": "0000-00-00",
+      "epnum": "1303",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Painted Rhythm' Stan Kenton AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0488 4xxxxx 1st; 'What's the Good Word, Bluebird' Les Brown AHO AFRS.mp3",
+          "time": "907",
+          "size": "14583493"
+        }
+      ]
+    },
+    {
+      "ide": "329829",
+      "date": "0000-00-00",
+      "epnum": "1304",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Record Session' Harry James AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1303 4xxxxx 1st; 'Tainted Rhythm' Stan Kenton AHO (H-12-1303) AFRS.mp3",
+          "time": "903",
+          "size": "14517874"
+        }
+      ]
+    },
+    {
+      "ide": "329830",
+      "date": "0000-00-00",
+      "epnum": "1357",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Moonglow' Artie Shaw AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1357 4xxxxx 1st; 'Rika Jika Jack' Stan Kenton AHO AFRS (192-44).mp3",
+          "time": "906",
+          "size": "21823591"
+        }
+      ]
+    },
+    {
+      "ide": "329831",
+      "date": "0000-00-00",
+      "epnum": "1357",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Rika Jika Jack' Stan Kenton AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1304 4xxxxx 1st; 'Record Session' Harry James AHO (H-12-1304) AFRS.mp3",
+          "time": "906",
+          "size": "14567611"
+        }
+      ]
+    },
+    {
+      "ide": "329832",
+      "date": "0000-00-00",
+      "epnum": "1367",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Traffic Jam' Artie Shaw AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1358 4xxxxx 1st; 'Moonglow' Artie Shaw AHO AFRS (192-44).mp3",
+          "time": "907",
+          "size": "21854938"
+        }
+      ]
+    },
+    {
+      "ide": "330165",
+      "date": "0000-00-00",
+      "epnum": "1368",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st; 'Texas Tex' Glenn Miller Band led by Tex Beneke"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1368 4xxxxx 1st; 'Texas Tex' Glenn Miller Band led by Tex Beneke (192-44).mp3",
+          "time": "907",
+          "size": "21843653"
+        }
+      ]
+    },
+    {
+      "ide": "329833",
+      "date": "0000-00-00",
+      "epnum": "1375",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Drumming Man' Gene Krupa AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1367 4xxxxx 1st; 'Traffic Jam' Artie Shaw AHO AFRS (192-44).mp3",
+          "time": "907",
+          "size": "21854938"
+        }
+      ]
+    },
+    {
+      "ide": "330166",
+      "date": "0000-00-00",
+      "epnum": "1379",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st; 'Texas Tex' Glenn Miller Band led by Tex Beneke"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1379 4xxxxx 1st; 'Texas Tex' Glenn Miller Band led by Tex Beneke (192-44).mp3",
+          "time": "906",
+          "size": "21826726"
+        }
+      ]
+    },
+    {
+      "ide": "329834",
+      "date": "0000-00-00",
+      "epnum": "1380",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'What Is This Thing Called Love' Artie Shaw AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1375 4xxxxx 1st; 'Drumming Man' Gene Krupa AHO AFRS (192-44).mp3",
+          "time": "908",
+          "size": "21878762"
+        }
+      ]
+    },
+    {
+      "ide": "329835",
+      "date": "0000-00-00",
+      "epnum": "1382",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Pompton Turnpike' Charlie Barnet AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1380 4xxxxx 1st; 'What Is This Thing Called Love' Artie Shaw AHO AFRS (192-44).mp3",
+          "time": "905",
+          "size": "21799768"
+        }
+      ]
+    },
+    {
+      "ide": "195655",
+      "date": "0000-00-00",
+      "epnum": "1383",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sunny Side Of The Street"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195656",
+      "date": "0000-00-00",
+      "epnum": "1384",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Leave Us Leap"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "329836",
+      "date": "0000-00-00",
+      "epnum": "1389",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Swing High' Tommy Dorsey AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1382 4xxxxx 1st; 'Pompton Turnpike' Charlie Barnet AHO AFRS (192-44).mp3",
+          "time": "905",
+          "size": "21812933"
+        }
+      ]
+    },
+    {
+      "ide": "329837",
+      "date": "0000-00-00",
+      "epnum": "1390",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Carnival of Venice' Harry James AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1389 4xxxxx 1st; 'Swing High' Tommy Dorsey AHO AFRS (192-44).mp3",
+          "time": "907",
+          "size": "21851176"
+        }
+      ]
+    },
+    {
+      "ide": "67862",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Woodchopper's Ball"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242779",
+      "date": "0000-00-00",
+      "epnum": "1419",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - After Hours (Erskine Hawkins)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1419 4xxxxx 1st Song - After Hours (Erskine Hawkins) (256-44)_OTRRPG.mp3",
+          "time": "916",
+          "size": "29336923"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (1419) First Song - After Hours (Erskine Hawkins).mp3",
+          "time": "912",
+          "size": "7299102"
+        }
+      ]
+    },
+    {
+      "ide": "242781",
+      "date": "0000-00-00",
+      "epnum": "1420",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - At Last (Glenn Miller)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1420 4xxxxx 1st Song - At Last (Glenn Miller) (256-44)_OTRRPG.mp3",
+          "time": "913",
+          "size": "29217386"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (1420) First Song - At Last (Glenn Miller).mp3",
+          "time": "908",
+          "size": "7268382"
+        }
+      ]
+    },
+    {
+      "ide": "242789",
+      "date": "0000-00-00",
+      "epnum": "1421",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bugle Call (Benny Goodman)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1421 4xxxxx 1st Song - The Bugle Call Rag (Benny Goodman) (256-44)_OTRRPG.mp3",
+          "time": "909",
+          "size": "29110389"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (1421) First Song - Bugle Call (Benny Goodman).mp3",
+          "time": "905",
+          "size": "7241758"
+        }
+      ]
+    },
+    {
+      "ide": "242780",
+      "date": "0000-00-00",
+      "epnum": "1422",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - After You've Gone (Tommy Dorsey)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1422 4xxxxx 1st Song - After You've Gone (Tommy Dorsey) (256-44)_OTRRPG.mp3",
+          "time": "909",
+          "size": "29100358"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (1422) First Song - After You've Gone (Tommy Dorsey).mp3",
+          "time": "905",
+          "size": "7239710"
+        }
+      ]
+    },
+    {
+      "ide": "242797",
+      "date": "0000-00-00",
+      "epnum": "1423",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Friar Rock (Harry James)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1423 4xxxxx 1st Song - Friar Rock (Harry James) (256-44)_OTRRPG.mp3",
+          "time": "913",
+          "size": "29241628"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (1423) First Song - Friar Rock (Harry James).mp3",
+          "time": "909",
+          "size": "7274526"
+        }
+      ]
+    },
+    {
+      "ide": "242827",
+      "date": "0000-00-00",
+      "epnum": "1424",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Tippin' In (Erskine Hawkins)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1424 4xxxxx 1st Song - Tippin' In (Erskine Hawkins) (256-44)_OTRRPG.mp3",
+          "time": "914",
+          "size": "29272557"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (1424) First Song - Tippin' In (Erskine Hawkins).mp3",
+          "time": "910",
+          "size": "7282718"
+        }
+      ]
+    },
+    {
+      "ide": "242778",
+      "date": "0000-00-00",
+      "epnum": "1429",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - A  String Of Pearls (Glenn Miller)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1429 4xxxxx 1st Song - A String Of Pearls (Glenn Miller) (256-44)_OTRRPG.mp3",
+          "time": "913",
+          "size": "29242464"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI  Jive 4x-xx-xx (1429) First Song - A  String Of Pearls (Glenn Miller).mp3",
+          "time": "909",
+          "size": "7274526"
+        }
+      ]
+    },
+    {
+      "ide": "242824",
+      "date": "0000-00-00",
+      "epnum": "1430",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Texas Tex (Tex Beneke)"
+        },
+        {
+          "title": "1st 'Texas Tex' Glenn Miller Band led by Tex Beneke"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1430 4xxxxx 1st Song - Texas Tex (Tex Beneke) (256-44)_OTRRPG.mp3",
+          "time": "913",
+          "size": "29213207"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (1430) First Song - Texas Tex (Tex Beneke).mp3",
+          "time": "908",
+          "size": "7266334"
+        }
+      ]
+    },
+    {
+      "ide": "242774",
+      "date": "0000-00-00",
+      "epnum": "1448",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Artie Shaw"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive - #1448 - AFRS - songs by Artie Shaw.mp3",
+          "time": "903",
+          "size": "10832130"
+        }
+      ]
+    },
+    {
+      "ide": "242775",
+      "date": "0000-00-00",
+      "epnum": "1449",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bing Crosby"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive - #1449 - AFRS - songs by Bing Crosby.mp3",
+          "time": "905",
+          "size": "10860613"
+        }
+      ]
+    },
+    {
+      "ide": "195657",
+      "date": "0000-00-00",
+      "epnum": "1461",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - My Blue Heaven"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195658",
+      "date": "0000-00-00",
+      "epnum": "1462",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The One O'Clock Jump (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242795",
+      "date": "0000-00-00",
+      "epnum": "1470",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - For You (Tommy Dorsey"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive - #1470 - AFRS - 1st - For You (Tommy Dorsey).mp3",
+          "time": "933",
+          "size": "11198027"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive - #1308 - AFRS - Tommy Dorsey For You, features full Sing Sing Sing.mp3",
+          "time": "909",
+          "size": "10903239"
+        }
+      ]
+    },
+    {
+      "ide": "242801",
+      "date": "0000-00-00",
+      "epnum": "1502",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - It Must Be True (Bing Crosby)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive - #1502 - AFRS - 1st - It Must Be True (Bing Crosby, Gus Arnheim).mp3",
+          "time": "932",
+          "size": "11183003"
+        }
+      ]
+    },
+    {
+      "ide": "329838",
+      "date": "0000-00-00",
+      "epnum": "1513",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Crazy Rhythm' Harry James AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1390 4xxxxx 1st; 'Carnival of Venice' Harry James AHO AFRS (192-44).mp3",
+          "time": "906",
+          "size": "21823591"
+        }
+      ]
+    },
+    {
+      "ide": "329839",
+      "date": "0000-00-00",
+      "epnum": "1514",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'I Got the Sun in the Morning' Artie Shaw AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1513 4xxxxx 1st; 'Crazy Rhythm' Harry James AHO AFRS (192-44).mp3",
+          "time": "937",
+          "size": "22574037"
+        }
+      ]
+    },
+    {
+      "ide": "195659",
+      "date": "0000-00-00",
+      "epnum": "1833",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Caldonia"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195660",
+      "date": "0000-00-00",
+      "epnum": "1834",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Best Things In Life Are Free"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "313570",
+      "date": "0000-00-00",
+      "epnum": "1855",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st; Roll 'Em (Benny Goodman)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xxxxxx 1855 1st; Roll 'Em (Benny Goodman) (256-44).mp3",
+          "time": "933",
+          "size": "30042426"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xxxxxx 1855 1st; Roll 'Em (Benny Goodman) - Cleaned ET.flac",
+          "time": "933",
+          "size": "32891218"
+        }
+      ]
+    },
+    {
+      "ide": "313571",
+      "date": "0000-00-00",
+      "epnum": "1856",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st; St Louis Blues March (Tex Beneke AHO)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xxxxxx 1856 1st; St Louis Blues March (Tex Beneke AHO) (256-44).mp3",
+          "time": "942",
+          "size": "30325840"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xxxxxx 1856 1st; St Louis Blues March (Tex Beneke AHO) - Cleaned ET.flac",
+          "time": "942",
+          "size": "38585964"
+        }
+      ]
+    },
+    {
+      "ide": "242863",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Star - Kay Kyser (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (xxxx) Guest Star - Kay Kyser (2).mp3",
+          "time": "940",
+          "size": "3759906"
+        }
+      ]
+    },
+    {
+      "ide": "67859",
+      "date": "0000-00-00",
+      "epnum": "201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Jersey Bounce"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67858",
+      "date": "0000-00-00",
+      "epnum": "202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Strip Polka"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195661",
+      "date": "0000-00-00",
+      "epnum": "2315",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You're The One"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67857",
+      "date": "0000-00-00",
+      "epnum": "271",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Mandy, Make up Your Mind"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0271) First Song - Mandy, Make up Your Mind.mp3",
+          "time": "899",
+          "size": "5392889"
+        }
+      ]
+    },
+    {
+      "ide": "67856",
+      "date": "0000-00-00",
+      "epnum": "272",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Good Queen Bess"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0272) First Song - Good Queen Bess.mp3",
+          "time": "883",
+          "size": "5301152"
+        }
+      ]
+    },
+    {
+      "ide": "67855",
+      "date": "0000-00-00",
+      "epnum": "277",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Surrender Dear"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67854",
+      "date": "0000-00-00",
+      "epnum": "278",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Route 23"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67861",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Diggin' For Dex"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67853",
+      "date": "0000-00-00",
+      "epnum": "282",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - When Johnny Comes Marching Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67852",
+      "date": "0000-00-00",
+      "epnum": "287",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - At Sundown"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67851",
+      "date": "0000-00-00",
+      "epnum": "288",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Cow Cow Boogie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67850",
+      "date": "0000-00-00",
+      "epnum": "305",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Swingin' On C"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67826",
+      "date": "0000-00-00",
+      "epnum": "306",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Got To Get To Saint Jo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67825",
+      "date": "0000-00-00",
+      "epnum": "309",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - That Old Black Magic"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67824",
+      "date": "0000-00-00",
+      "epnum": "310",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jersey Bounce"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67823",
+      "date": "0000-00-00",
+      "epnum": "321",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Let Me Up"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195523",
+      "date": "0000-00-00",
+      "epnum": "322",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Boogie Woogie Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242841",
+      "date": "0000-00-00",
+      "epnum": "385",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Coast Guard"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0385) Guest - Coast Guard.mp3",
+          "time": "847",
+          "size": "6778900"
+        }
+      ]
+    },
+    {
+      "ide": "242842",
+      "date": "0000-00-00",
+      "epnum": "386",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Navy"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0386) Guest - Navy.mp3",
+          "time": "837",
+          "size": "6692884"
+        }
+      ]
+    },
+    {
+      "ide": "195524",
+      "date": "0000-00-00",
+      "epnum": "387",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Daddy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195525",
+      "date": "0000-00-00",
+      "epnum": "388",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Begin The Beguine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195526",
+      "date": "0000-00-00",
+      "epnum": "389",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Why Don't You Do Right?"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195527",
+      "date": "0000-00-00",
+      "epnum": "390",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - C Jam Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242777",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0004) episode 4.mp3",
+          "time": "826",
+          "size": "3303498"
+        }
+      ]
+    },
+    {
+      "ide": "195528",
+      "date": "0000-00-00",
+      "epnum": "414",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Joe Turner Blues"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0414) First Song - Joe Turner Blues.mp3",
+          "time": "890",
+          "size": "5341713"
+        }
+      ]
+    },
+    {
+      "ide": "195529",
+      "date": "0000-00-00",
+      "epnum": "415",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Are You Ready"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0415) First Song - Are You Ready.mp3",
+          "time": "896",
+          "size": "5376498"
+        }
+      ]
+    },
+    {
+      "ide": "195530",
+      "date": "0000-00-00",
+      "epnum": "416",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Apollo Jump"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0416) First Song - Apollo Jump.mp3",
+          "time": "893",
+          "size": "5359804"
+        }
+      ]
+    },
+    {
+      "ide": "195531",
+      "date": "0000-00-00",
+      "epnum": "417",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Like a Fish out of Water"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0417) First Song - I'm Like a Fish out of Water.mp3",
+          "time": "892",
+          "size": "5353113"
+        }
+      ]
+    },
+    {
+      "ide": "195532",
+      "date": "0000-00-00",
+      "epnum": "449",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Limehouse Blues"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0449) First Song - The Limehouse Blues.mp3",
+          "time": "892",
+          "size": "5355132"
+        }
+      ]
+    },
+    {
+      "ide": "195533",
+      "date": "0000-00-00",
+      "epnum": "450",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jitters"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0450) First Song - Jitters.mp3",
+          "time": "890",
+          "size": "5339208"
+        }
+      ]
+    },
+    {
+      "ide": "195534",
+      "date": "0000-00-00",
+      "epnum": "459",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hallelujah"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0459) First Song - Hallelujah.mp3",
+          "time": "895",
+          "size": "5368539"
+        }
+      ]
+    },
+    {
+      "ide": "67860",
+      "date": "0000-00-00",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Shortnin' Bread (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195535",
+      "date": "0000-00-00",
+      "epnum": "460",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Shortnin' Bread"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0460) First Song - Shortnin' Bread.mp3",
+          "time": "894",
+          "size": "5365424"
+        }
+      ]
+    },
+    {
+      "ide": "195536",
+      "date": "0000-00-00",
+      "epnum": "465",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Let's Dance (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0465) First Song - Let's Dance (2).mp3",
+          "time": "895",
+          "size": "5371820"
+        }
+      ]
+    },
+    {
+      "ide": "195537",
+      "date": "0000-00-00",
+      "epnum": "466",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Back Beat Boogie"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0466) First Song - Back Beat Boogie.mp3",
+          "time": "892",
+          "size": "5352633"
+        }
+      ]
+    },
+    {
+      "ide": "195538",
+      "date": "0000-00-00",
+      "epnum": "467",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Macon Flyer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195539",
+      "date": "0000-00-00",
+      "epnum": "479",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Boogie Woogie Boo Hoo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195540",
+      "date": "0000-00-00",
+      "epnum": "485",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Perdido"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242826",
+      "date": "0000-00-00",
+      "epnum": "486",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - They're Either Too Young Or Too Old (Kay Kyser)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0486 4xxxxx 1st Song - They're Either Too Young or Too Old (Kay Kyser) (256-44)_OTRRPG.mp3",
+          "time": "911",
+          "size": "29168067"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (0486) First Song - They're Either Too Young Or Too Old (Kay Kyser).mp3",
+          "time": "907",
+          "size": "7256094"
+        }
+      ]
+    },
+    {
+      "ide": "242815",
+      "date": "0000-00-00",
+      "epnum": "487",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Shipyard Social Function (Lucky Millinder)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0487 4xxxxx 1st Song - Shipyard Social Function (Lucky Millinder) (256-44)_OTRRPG.mp3",
+          "time": "913",
+          "size": "29220730"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (0487) First Song - Shipyard Social Function (Lucky Millinder).mp3",
+          "time": "908",
+          "size": "7268382"
+        }
+      ]
+    },
+    {
+      "ide": "329827",
+      "date": "0000-00-00",
+      "epnum": "488",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'What's the Good Word, Bluebird' Les Brown AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "George Watson Show",
+          "name": "George Watson Show 570323 Comic DJ Show with Charlie Fu Manchu Spin Returns WBBM-CBS Chicago (64-44).mp3",
+          "time": "958",
+          "size": "7739891"
+        }
+      ]
+    },
+    {
+      "ide": "195541",
+      "date": "0000-00-00",
+      "epnum": "493",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Feet Draggin' Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195542",
+      "date": "0000-00-00",
+      "epnum": "494",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Buckle Down Winsocki (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195543",
+      "date": "0000-00-00",
+      "epnum": "509",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rhumboogie (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0509) First Song - Rhumboogie (2).mp3",
+          "time": "899",
+          "size": "5396467"
+        }
+      ]
+    },
+    {
+      "ide": "195544",
+      "date": "0000-00-00",
+      "epnum": "510",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Boogie Woogie"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0510) First Song - Boogie Woogie.mp3",
+          "time": "899",
+          "size": "5395374"
+        }
+      ]
+    },
+    {
+      "ide": "332866",
+      "date": "0000-00-00",
+      "epnum": "531",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song-Dance of the Gremlins-Count Basie"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive #531 AFRS 1st Song-Dance of the Gremlins-Count Basie.mp3",
+          "time": "900",
+          "size": "27318012"
+        }
+      ]
+    },
+    {
+      "ide": "332867",
+      "date": "0000-00-00",
+      "epnum": "532",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song-James Session-Harry James"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive #532 AFRS 1st Song-James Session-Harry James.mp3",
+          "time": "900",
+          "size": "27168780"
+        }
+      ]
+    },
+    {
+      "ide": "195545",
+      "date": "0000-00-00",
+      "epnum": "601",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Honeysuckle Rose"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0601) First Song - Honeysuckle Rose.mp3",
+          "time": "900",
+          "size": "3599301"
+        }
+      ]
+    },
+    {
+      "ide": "195546",
+      "date": "0000-00-00",
+      "epnum": "602",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Blue Lou (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0602) First Song - Blue Lou (2).mp3",
+          "time": "897",
+          "size": "3588430"
+        }
+      ]
+    },
+    {
+      "ide": "195547",
+      "date": "0000-00-00",
+      "epnum": "609",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rhumboogie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195548",
+      "date": "0000-00-00",
+      "epnum": "617",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rollio Rolling Along"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0617) First Song - Rollio Rolling Along.mp3",
+          "time": "898",
+          "size": "5386177"
+        }
+      ]
+    },
+    {
+      "ide": "195549",
+      "date": "0000-00-00",
+      "epnum": "618",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Riding Along"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0618) First Song - Riding Along.mp3",
+          "time": "894",
+          "size": "5363705"
+        }
+      ]
+    },
+    {
+      "ide": "195550",
+      "date": "0000-00-00",
+      "epnum": "621",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Basic Blues"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0621) First Song - Basic Blues.mp3",
+          "time": "849",
+          "size": "3397538"
+        }
+      ]
+    },
+    {
+      "ide": "195551",
+      "date": "0000-00-00",
+      "epnum": "622",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Chicago"
+        },
+        {
+          "title": "1st 'Chicago' Tommy Dorsey AHO"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 1381 4xxxxx 1st; 'Chicago' Tommy Dorsey AHO AFRS (192-44).mp3",
+          "time": "908",
+          "size": "21863088"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0622) First Song - Chicago.mp3",
+          "time": "849",
+          "size": "3396907"
+        }
+      ]
+    },
+    {
+      "ide": "195552",
+      "date": "0000-00-00",
+      "epnum": "623",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Stompin' at the Savoy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242804",
+      "date": "0000-00-00",
+      "epnum": "633",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jazz Me Blues (Count Basie)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (0633) First Song - Jazz Me Blues (Count Basie).mp3",
+          "time": "897",
+          "size": "14356803"
+        }
+      ]
+    },
+    {
+      "ide": "195553",
+      "date": "0000-00-00",
+      "epnum": "642",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Yes, Indeed (Al Donohue)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0642 xxxxxx 1st Song - Yes, Indeed (128-48)_OTRRPG.mp3",
+          "time": "912",
+          "size": "14676592"
+        }
+      ]
+    },
+    {
+      "ide": "195554",
+      "date": "0000-00-00",
+      "epnum": "645",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hop, Skip, And Jump (Duke Ellington)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0645 xxxxxx 1st Song - Hop, Skip And Jump (128-48)_OTRRPG.mp3",
+          "time": "912",
+          "size": "14664695"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0645) First Song - Hop, Skip, And Jump (Duke Ellington).mp3",
+          "time": "914",
+          "size": "3656956"
+        }
+      ]
+    },
+    {
+      "ide": "242791",
+      "date": "0000-00-00",
+      "epnum": "659",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Do Nothing Till You Hear From Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0659) First Song - Do Nothing Till You Hear From Me.mp3",
+          "time": "892",
+          "size": "14268415"
+        }
+      ]
+    },
+    {
+      "ide": "242811",
+      "date": "0000-00-00",
+      "epnum": "660",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - One O'Clock Jump"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0660) First Song - One O'Clock Jump.mp3",
+          "time": "897",
+          "size": "14355770"
+        }
+      ]
+    },
+    {
+      "ide": "195555",
+      "date": "0000-00-00",
+      "epnum": "661",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Song of India"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242820",
+      "date": "0000-00-00",
+      "epnum": "662",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Stompin' at the Savoy (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195556",
+      "date": "0000-00-00",
+      "epnum": "666",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - South Rampart Street Parade (3)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242809",
+      "date": "0000-00-00",
+      "epnum": "675",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Mission To Moscow (Benny Goodman)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0675 4xxxxx 1st Song - Mission to Moscow (Benny Goodman) NOISY (256-44)_OTRRPG.mp3",
+          "time": "913",
+          "size": "29216550"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (0675) First Song - Mission To Moscow (Benny Goodman).mp3",
+          "time": "908",
+          "size": "7268382"
+        }
+      ]
+    },
+    {
+      "ide": "242808",
+      "date": "0000-00-00",
+      "epnum": "676",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Let's Dance (Benny Goodman)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0676 4xxxxx 1st Song - Let's Dance (Benny Goodman) SCRATCHY (256-44)_OTRRPG.mp3",
+          "time": "911",
+          "size": "29156364"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 4x-xx-xx (0676) First Song - Let's Dance (Benny Goodman).mp3",
+          "time": "906",
+          "size": "7254046"
+        }
+      ]
+    },
+    {
+      "ide": "195557",
+      "date": "0000-00-00",
+      "epnum": "695",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Washington Whirligig"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195558",
+      "date": "0000-00-00",
+      "epnum": "696",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Let's Dance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195559",
+      "date": "0000-00-00",
+      "epnum": "703",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bugle Call Rag"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0703) First Song - Bugle Call Rag.mp3",
+          "time": "898",
+          "size": "3591984"
+        }
+      ]
+    },
+    {
+      "ide": "195560",
+      "date": "0000-00-00",
+      "epnum": "704",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Eager Beaver"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0704) First Song - Eager Beaver.mp3",
+          "time": "898",
+          "size": "3592609"
+        }
+      ]
+    },
+    {
+      "ide": "195561",
+      "date": "0000-00-00",
+      "epnum": "705",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Blue Skies"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0705) First Song - Blue Skies.mp3",
+          "time": "900",
+          "size": "3602220"
+        }
+      ]
+    },
+    {
+      "ide": "195562",
+      "date": "0000-00-00",
+      "epnum": "706",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Blue Lou"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0706) First Song - Blue Lou.mp3",
+          "time": "898",
+          "size": "3591142"
+        }
+      ]
+    },
+    {
+      "ide": "242817",
+      "date": "0000-00-00",
+      "epnum": "711",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Song Of India"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0711 xxxxxx 1st Song - 'Song Of India' Tommy Dorsey and His Orchestra {AFRS}_OTRRPG.mp3",
+          "time": "917",
+          "size": "14685835"
+        }
+      ]
+    },
+    {
+      "ide": "242784",
+      "date": "0000-00-00",
+      "epnum": "712",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Basie Boogie (3)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0712 xxxxxx 1st Song - 'Basie Boogie' Count Basie and His Orchestra {AFRS}_OTRRPG.mp3",
+          "time": "916",
+          "size": "14667863"
+        }
+      ]
+    },
+    {
+      "ide": "242832",
+      "date": "0000-00-00",
+      "epnum": "717",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - We'll Get It (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0717) First Song - We'll Get It (2).mp3",
+          "time": "902",
+          "size": "28876507"
+        }
+      ]
+    },
+    {
+      "ide": "242829",
+      "date": "0000-00-00",
+      "epnum": "718",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Trumpet Blues (3)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0718) First Song - Trumpet Blues (3).mp3",
+          "time": "909",
+          "size": "29091338"
+        }
+      ]
+    },
+    {
+      "ide": "195563",
+      "date": "0000-00-00",
+      "epnum": "721",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sugarfoot Strut"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0721) First Song - Sugarfoot Strut.mp3",
+          "time": "892",
+          "size": "5352944"
+        }
+      ]
+    },
+    {
+      "ide": "195564",
+      "date": "0000-00-00",
+      "epnum": "722",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - For Dancers Only"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0722) First Song - For Dancers Only.mp3",
+          "time": "893",
+          "size": "5360901"
+        }
+      ]
+    },
+    {
+      "ide": "195565",
+      "date": "0000-00-00",
+      "epnum": "731",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Who"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195566",
+      "date": "0000-00-00",
+      "epnum": "739",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jazz Me Blues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195567",
+      "date": "0000-00-00",
+      "epnum": "740",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sugar Foot Stomp (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195568",
+      "date": "0000-00-00",
+      "epnum": "751",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Want To Be Happy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195569",
+      "date": "0000-00-00",
+      "epnum": "755",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Caribbean Clipper"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0755) First Song - Caribbean Clipper.mp3",
+          "time": "895",
+          "size": "3580110"
+        }
+      ]
+    },
+    {
+      "ide": "195570",
+      "date": "0000-00-00",
+      "epnum": "756",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Two O'Clock Jump"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0756) First Song - Two O'Clock Jump.mp3",
+          "time": "896",
+          "size": "3586141"
+        }
+      ]
+    },
+    {
+      "ide": "195571",
+      "date": "0000-00-00",
+      "epnum": "757",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Eager Beaver (4)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195572",
+      "date": "0000-00-00",
+      "epnum": "758",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Alexander's Ragtime Band"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242818",
+      "date": "0000-00-00",
+      "epnum": "761",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - South Rampart Street Parade (4)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0761 xxxxxx 1st Song - 'South Rampart Street Parade' Bob Crosby and His Orchestra {AFRS}_OTRRPG.mp3",
+          "time": "915",
+          "size": "14649891"
+        }
+      ]
+    },
+    {
+      "ide": "242786",
+      "date": "0000-00-00",
+      "epnum": "762",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Birmingham Special"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0762 xxxxxx 1st Song - 'Birmingham Special' Glen Gray and His Casa Loma Orchestra {AFRS}_OTRRPG.mp3",
+          "time": "913",
+          "size": "14619798"
+        }
+      ]
+    },
+    {
+      "ide": "195573",
+      "date": "0000-00-00",
+      "epnum": "763",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Well, Git It!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195574",
+      "date": "0000-00-00",
+      "epnum": "764",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The King Porter Stomp"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0764 xxxxxx 1st Song - 'The King Porter Stomp' Benny Goodman {AFRS}_OTRRPG.mp3",
+          "time": "914",
+          "size": "14638188"
+        }
+      ]
+    },
+    {
+      "ide": "195575",
+      "date": "0000-00-00",
+      "epnum": "769",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Marchita"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195576",
+      "date": "0000-00-00",
+      "epnum": "784",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Woodchopper's Ball"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195577",
+      "date": "0000-00-00",
+      "epnum": "785",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Walk Jenny Walk"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195578",
+      "date": "0000-00-00",
+      "epnum": "789",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - After You've Gone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195579",
+      "date": "0000-00-00",
+      "epnum": "790",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Well, Git It! (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195580",
+      "date": "0000-00-00",
+      "epnum": "793",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Down By The Old Mill Stream"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195581",
+      "date": "0000-00-00",
+      "epnum": "794",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Here We Go Again (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330488",
+      "date": "0000-00-00",
+      "epnum": "801",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "195582",
+      "date": "0000-00-00",
+      "epnum": "802",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Washington Whirligig (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195583",
+      "date": "0000-00-00",
+      "epnum": "803",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Two O'Clock Jump (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195584",
+      "date": "0000-00-00",
+      "epnum": "804",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Caribbean Clipper (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195585",
+      "date": "0000-00-00",
+      "epnum": "811",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Sugarfoot Strut"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195586",
+      "date": "0000-00-00",
+      "epnum": "812",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The One O'Clock Jump (3)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195587",
+      "date": "0000-00-00",
+      "epnum": "819",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Donkey Serenade (Artie Shaw)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0819 xxxxxx 1st Song - The Donkey Serenade (128-48)_OTRRPG.mp3",
+          "time": "916",
+          "size": "14663800"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0819) First Song - The Donkey Serenade (Artie Shaw).mp3",
+          "time": "916",
+          "size": "3667300"
+        }
+      ]
+    },
+    {
+      "ide": "195588",
+      "date": "0000-00-00",
+      "epnum": "820",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Night Special (Harry James)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0820 xxxxxx 1st Song - Night Special (128-48)_OTRRPG.mp3",
+          "time": "921",
+          "size": "14817906"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0820) First Song - The Night Special (Harry James).mp3",
+          "time": "923",
+          "size": "3694363"
+        }
+      ]
+    },
+    {
+      "ide": "195589",
+      "date": "0000-00-00",
+      "epnum": "829",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Margie"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0829) First Song - Margie.mp3",
+          "time": "898",
+          "size": "3591349"
+        }
+      ]
+    },
+    {
+      "ide": "195590",
+      "date": "0000-00-00",
+      "epnum": "830",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Woodchoppers' Ball"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0830) First Song - Woodchoppers' Ball.mp3",
+          "time": "895",
+          "size": "3582375"
+        }
+      ]
+    },
+    {
+      "ide": "195591",
+      "date": "0000-00-00",
+      "epnum": "831",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Dipper Mouth Blues"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0831) First Song - Dipper Mouth Blues.mp3",
+          "time": "912",
+          "size": "3647786"
+        }
+      ]
+    },
+    {
+      "ide": "195592",
+      "date": "0000-00-00",
+      "epnum": "832",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Elks Parade"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0832) First Song - Elks Parade.mp3",
+          "time": "904",
+          "size": "3616641"
+        }
+      ]
+    },
+    {
+      "ide": "195593",
+      "date": "0000-00-00",
+      "epnum": "833",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Changes"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0833) First Song - Changes.mp3",
+          "time": "903",
+          "size": "3613920"
+        }
+      ]
+    },
+    {
+      "ide": "195594",
+      "date": "0000-00-00",
+      "epnum": "834",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Swanee River"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0834) First Song - Swanee River.mp3",
+          "time": "913",
+          "size": "3651332"
+        }
+      ]
+    },
+    {
+      "ide": "195595",
+      "date": "0000-00-00",
+      "epnum": "835",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - We'll Get It"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0835) First Song - We'll Get It.mp3",
+          "time": "933",
+          "size": "3730536"
+        }
+      ]
+    },
+    {
+      "ide": "195596",
+      "date": "0000-00-00",
+      "epnum": "836",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jumping at the Woodside"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0836) First Song - Jumping at the Woodside.mp3",
+          "time": "914",
+          "size": "3655314"
+        }
+      ]
+    },
+    {
+      "ide": "195597",
+      "date": "0000-00-00",
+      "epnum": "837",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Eager Beaver"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0837) First Song - Eager Beaver.mp3",
+          "time": "912",
+          "size": "3649661"
+        }
+      ]
+    },
+    {
+      "ide": "195598",
+      "date": "0000-00-00",
+      "epnum": "838",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Alexander's Ragtime Band (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0838) First Song - Alexander's Ragtime Band (2).mp3",
+          "time": "885",
+          "size": "3541634"
+        }
+      ]
+    },
+    {
+      "ide": "195599",
+      "date": "0000-00-00",
+      "epnum": "839",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Casa Loma Stomp"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0839) First Song - Casa Loma Stomp.mp3",
+          "time": "902",
+          "size": "3607032"
+        }
+      ]
+    },
+    {
+      "ide": "195600",
+      "date": "0000-00-00",
+      "epnum": "840",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Buckle Down Winsocki"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0840) First Song - Buckle Down Winsocki.mp3",
+          "time": "916",
+          "size": "3664297"
+        }
+      ]
+    },
+    {
+      "ide": "195601",
+      "date": "0000-00-00",
+      "epnum": "841",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Night Ride"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0841 xxxxxx 1st Song - The Night Ride (128-48)_OTRRPG.mp3",
+          "time": "916",
+          "size": "14665336"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0841) First Song - The Night Ride.mp3",
+          "time": "899",
+          "size": "3595328"
+        }
+      ]
+    },
+    {
+      "ide": "195602",
+      "date": "0000-00-00",
+      "epnum": "842",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Found a New Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0842 xxxxxx 1st Song - I've Found A New Baby (128-48)_OTRRPG.mp3",
+          "time": "917",
+          "size": "14676088"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0842) First Song - I Found a New Baby.mp3",
+          "time": "906",
+          "size": "3623544"
+        }
+      ]
+    },
+    {
+      "ide": "195603",
+      "date": "0000-00-00",
+      "epnum": "843",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - That Honky Tonk Train"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0843) First Song - That Honky Tonk Train.mp3",
+          "time": "907",
+          "size": "3630235"
+        }
+      ]
+    },
+    {
+      "ide": "195604",
+      "date": "0000-00-00",
+      "epnum": "844",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Sad Sack"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0844) First Song - The Sad Sack.mp3",
+          "time": "908",
+          "size": "3630852"
+        }
+      ]
+    },
+    {
+      "ide": "195605",
+      "date": "0000-00-00",
+      "epnum": "845",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Here We Go Again"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0845) First Song - Here We Go Again.mp3",
+          "time": "917",
+          "size": "14669168"
+        }
+      ]
+    },
+    {
+      "ide": "195606",
+      "date": "0000-00-00",
+      "epnum": "846",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - King Porter Stomp"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0846) First Song - King Porter Stomp.mp3",
+          "time": "914",
+          "size": "14622048"
+        }
+      ]
+    },
+    {
+      "ide": "195607",
+      "date": "0000-00-00",
+      "epnum": "847",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Bugle Call Rag"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0847) First Song - The Bugle Call Rag.mp3",
+          "time": "907",
+          "size": "14514046"
+        }
+      ]
+    },
+    {
+      "ide": "195608",
+      "date": "0000-00-00",
+      "epnum": "848",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Song of India"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0848) First Song - Song of India.mp3",
+          "time": "910",
+          "size": "14564915"
+        }
+      ]
+    },
+    {
+      "ide": "195609",
+      "date": "0000-00-00",
+      "epnum": "849",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Strictly Instrumental"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0849) First Song - Strictly Instrumental.mp3",
+          "time": "531",
+          "size": "2123074"
+        }
+      ]
+    },
+    {
+      "ide": "195610",
+      "date": "0000-00-00",
+      "epnum": "850",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Trumpet Blues"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0850) First Song - Trumpet Blues.mp3",
+          "time": "871",
+          "size": "3486240"
+        }
+      ]
+    },
+    {
+      "ide": "195611",
+      "date": "0000-00-00",
+      "epnum": "851",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Opus Number One"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0851) First Song - Opus Number One.mp3",
+          "time": "873",
+          "size": "3493347"
+        }
+      ]
+    },
+    {
+      "ide": "195612",
+      "date": "0000-00-00",
+      "epnum": "852",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - King Porter Stomp"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0852) First Song - King Porter Stomp.mp3",
+          "time": "867",
+          "size": "3468062"
+        }
+      ]
+    },
+    {
+      "ide": "195613",
+      "date": "0000-00-00",
+      "epnum": "853",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - South Rampart Street Parade"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0853) First Song - South Rampart Street Parade.mp3",
+          "time": "906",
+          "size": "3625852"
+        }
+      ]
+    },
+    {
+      "ide": "195614",
+      "date": "0000-00-00",
+      "epnum": "854",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Carribbean Clipper"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0854) First Song - Carribbean Clipper.mp3",
+          "time": "899",
+          "size": "3598049"
+        }
+      ]
+    },
+    {
+      "ide": "195615",
+      "date": "0000-00-00",
+      "epnum": "855",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - South Eager Beaver"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0855) First Song - South Eager Beaver.mp3",
+          "time": "866",
+          "size": "3465765"
+        }
+      ]
+    },
+    {
+      "ide": "195616",
+      "date": "0000-00-00",
+      "epnum": "856",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Well, Git It! (3)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0856) First Song - Well, Git It! (3).mp3",
+          "time": "873",
+          "size": "3492722"
+        }
+      ]
+    },
+    {
+      "ide": "242825",
+      "date": "0000-00-00",
+      "epnum": "877",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Mole"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0877 4xxxxx 1st Song - 'The Mole' (Harry James) {AFRS#0877}_OTRRPG.mp3",
+          "time": "903",
+          "size": "14865287"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0877) First Song - The Mole.mp3",
+          "time": "899",
+          "size": "7192616"
+        }
+      ]
+    },
+    {
+      "ide": "242782",
+      "date": "0000-00-00",
+      "epnum": "878",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - At The Jazz Ball"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0878 4xxxxx 1st Song - 'At the Jazz Band Ball' (Bob Crosby AHO) {AFRS#0878}_OTRRPG.mp3",
+          "time": "902",
+          "size": "14860843"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0878) First Song - At The Jazz Ball.mp3",
+          "time": "898",
+          "size": "7186472"
+        }
+      ]
+    },
+    {
+      "ide": "195617",
+      "date": "0000-00-00",
+      "epnum": "890",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Moonlight on the Ganges"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0890) First Song - Moonlight on the Ganges.mp3",
+          "time": "814",
+          "size": "3257646"
+        }
+      ]
+    },
+    {
+      "ide": "195618",
+      "date": "0000-00-00",
+      "epnum": "892",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - G I Stomp"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0892) First Song - G I Stomp.mp3",
+          "time": "791",
+          "size": "3163928"
+        }
+      ]
+    },
+    {
+      "ide": "195619",
+      "date": "0000-00-00",
+      "epnum": "901",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Opus One"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0901) First Song - Opus One.mp3",
+          "time": "883",
+          "size": "3536270"
+        }
+      ]
+    },
+    {
+      "ide": "195620",
+      "date": "0000-00-00",
+      "epnum": "904",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Opus One"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195621",
+      "date": "0000-00-00",
+      "epnum": "906",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - King Porter Stomp  (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI  Jive xx-xx-xx (0906) First Song - King Porter Stomp  (2).mp3",
+          "time": "848",
+          "size": "3391493"
+        }
+      ]
+    },
+    {
+      "ide": "195622",
+      "date": "0000-00-00",
+      "epnum": "907",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - 9-20 Special"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195623",
+      "date": "0000-00-00",
+      "epnum": "908",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Changes"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0908) First Song - Changes.mp3",
+          "time": "829",
+          "size": "3317534"
+        }
+      ]
+    },
+    {
+      "ide": "195624",
+      "date": "0000-00-00",
+      "epnum": "913",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jumpin' at the Woodside (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0913) First Song - Jumpin' at the Woodside (2).mp3",
+          "time": "848",
+          "size": "3394582"
+        }
+      ]
+    },
+    {
+      "ide": "195625",
+      "date": "0000-00-00",
+      "epnum": "914",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - 'Deed I Do"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive xx-xx-xx (0914) First Song - 'Deed I Do.mp3",
+          "time": "862",
+          "size": "3450170"
+        }
+      ]
+    },
+    {
+      "ide": "195626",
+      "date": "0000-00-00",
+      "epnum": "920",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The 9-20 Special"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "242812",
+      "date": "0000-00-00",
+      "epnum": "932",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Opus #1 (Tommy Dorsey)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0932 45xxxx 1st Song - Opus One (Tommy Dorsey) (Test Pressing) (256-44)_OTRRPG.mp3",
+          "time": "914",
+          "size": "29266706"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 45-xx-xx (0932) First Song - Opus #1 (Tommy Dorsey).mp3",
+          "time": "910",
+          "size": "7280670"
+        }
+      ]
+    },
+    {
+      "ide": "242794",
+      "date": "0000-00-00",
+      "epnum": "933",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Fankie And Johnny (Bunny Berrigan)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0933 45xxxx 1st Song - Frankie and Johnny (Bunny Berigan) (Test Pressing) (256-44)_OTRRPG.mp3",
+          "time": "916",
+          "size": "29333579"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 45-xx-xx (0933) First Song - Fankie And Johnny (Bunny Berrigan).mp3",
+          "time": "912",
+          "size": "7297054"
+        }
+      ]
+    },
+    {
+      "ide": "242836",
+      "date": "0000-00-00",
+      "epnum": "934",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Woodchopper's Ball (Woody Herman)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 0934 45xxxx 1st Song - Woodchoppers' Ball (Woody Herman) (Test Pressing) (256-44)_OTRRPG.mp3",
+          "time": "909",
+          "size": "29103702"
+        },
+        {
+          "path": "G",
+          "folder": "G I Jive",
+          "name": "GI Jive 45-xx-xx (0934) First Song - Woodchopper's Ball (Woody Herman).mp3",
+          "time": "905",
+          "size": "7239710"
+        }
+      ]
+    },
+    {
+      "ide": "330489",
+      "date": "0000-00-00",
+      "epnum": "951",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "330490",
+      "date": "0000-00-00",
+      "epnum": "952",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "195627",
+      "date": "0000-00-00",
+      "epnum": "957",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Boogie Woogie (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195628",
+      "date": "0000-00-00",
+      "epnum": "958",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Two O'Clock Jump (3)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195629",
+      "date": "0000-00-00",
+      "epnum": "969",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Well, Git It! (4)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195630",
+      "date": "0000-00-00",
+      "epnum": "970",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Eager Beaver (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195631",
+      "date": "0000-00-00",
+      "epnum": "975",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Basie Boogie (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "195632",
+      "date": "0000-00-00",
+      "epnum": "976",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Number Nineteen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330491",
+      "date": "0000-00-00",
+      "epnum": "997",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "330492",
+      "date": "0000-00-00",
+      "epnum": "998",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "GI Jive"
+    },
+    {
+      "title": "G. I. Jive With Jill"
+    }
+  ]
+}

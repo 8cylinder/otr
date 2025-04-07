@@ -1,0 +1,163 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Action Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "246",
+      "first": "Art",
+      "last": "Baker",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2149",
+      "first": "William",
+      "last": "Gargan",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "2149",
+      "first": "William",
+      "last": "Gargan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6490",
+      "first": "Jane",
+      "last": "Wyatt",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "8721",
+      "first": "Irvin",
+      "last": "Atkins",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "23893",
+      "first": "Tom",
+      "last": "Holland",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "28717",
+      "first": "Robert",
+      "last": "Lowery",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "40834",
+      "first": "Ralph",
+      "last": "Sanford",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "41586",
+      "first": "Maxwell",
+      "last": "Shane",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "43444",
+      "first": "Gregory",
+      "last": "Stone",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Grieg's Piano Concerto"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "316308",
+      "date": "1944-01-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "High Explosive"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Action Theater",
+          "name": "Action Theater 44-01-15 High Explosive.mp3",
+          "time": "1992",
+          "size": "7968788"
+        }
+      ]
+    },
+    {
+      "ide": "163948",
+      "date": "1945-01-15",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Inspiration Station, Part 1, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Action"
+    },
+    {
+      "title": "Action Theater"
+    }
+  ]
+}

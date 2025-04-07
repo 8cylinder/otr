@@ -1,0 +1,138 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1630",
+      "first": "Hugh",
+      "last": "Downs",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2121",
+      "first": "Joseph",
+      "last": "Gallicchio",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4498",
+      "first": "Nelson",
+      "last": "Olmsted",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "247088",
+      "date": "1947-06-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story for Tonight - Miracle Man"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story For Tonight",
+          "name": "Story for Tonight 1947.06.27 Miracle Man.mp3",
+          "time": "1751",
+          "size": "7110331"
+        }
+      ]
+    },
+    {
+      "ide": "320291",
+      "date": "1947-07-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nelson Olmstead narrates these semi dramatized stories"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story For Tonight",
+          "name": "Story_for_tonight_070647_Nelson_Olmstead_narrates_these_semi_dramatized_stories.mp3",
+          "time": "1795",
+          "size": "14357337"
+        }
+      ]
+    },
+    {
+      "ide": "320292",
+      "date": "1947-07-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nelson Olmstead narrates these semi dramatized stories (The Soul Trapper)"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story For Tonight",
+          "name": "Story_for_tonight_072747_Nelson_Olmstead_narrates_these_semi_dramatized_stories_(The_Soul_Trapper).mp3",
+          "time": "1791",
+          "size": "14327593"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1947-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Story for Tonight"
+    }
+  ]
+}

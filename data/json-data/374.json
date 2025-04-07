@@ -1,0 +1,118 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185232-5a0c9fba.jpg",
+      "label": "Adventure",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1854",
+      "first": "Douglas",
+      "last": "Fairbanks",
+      "f": "Noted Role",
+      "character": "Monsieur Beaucaire"
+    },
+    {
+      "idperson": "1854",
+      "first": "Douglas",
+      "last": "Fairbanks",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1855",
+      "first": "Douglas",
+      "last": "Fairbanks, Jr.",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5804",
+      "first": "Booth",
+      "last": "Tarkington",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "690",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "2008-04-01",
+      "source": "Illustrated Press/IP_359.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #359 Apr 08",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "163984",
+      "date": "1945-03-12",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wooton Knows Best"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventure The Series",
+          "name": "Adventure The Series 1945.03.12 Monsieur Beaucaire.mp3",
+          "time": "1403",
+          "size": "5718016"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventure"
+    }
+  ]
+}

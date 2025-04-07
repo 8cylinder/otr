@@ -1,0 +1,262 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "257561",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doctor-Patient Relationship"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Medical Milestones",
+          "name": "Medical Milestones 61xxxx 01 Doctor-patient Relationship_OTRRPG.mp3",
+          "time": "286",
+          "size": "4662118"
+        }
+      ]
+    },
+    {
+      "ide": "102868",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blue Baby, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Medical Milestones",
+          "name": "Medical Milestones 61xxxx 10 The Blue Baby_OTRRPG.mp3",
+          "time": "293",
+          "size": "4762413"
+        }
+      ]
+    },
+    {
+      "ide": "102862",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arthritis"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Medical Milestones",
+          "name": "Medical Milestones 61xxxx 02 Arthritis_OTRRPG.mp3",
+          "time": "284",
+          "size": "4628244"
+        }
+      ]
+    },
+    {
+      "ide": "102863",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Breath of Life, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Medical Milestones",
+          "name": "Medical Milestones 61xxxx 03 The Breath of Life_OTRRPG.mp3",
+          "time": "276",
+          "size": "4500359"
+        }
+      ]
+    },
+    {
+      "ide": "102864",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blindness"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Medical Milestones",
+          "name": "Medical Milestones 61xxxx 04 Blindness_OTRRPG.mp3",
+          "time": "280",
+          "size": "4564297"
+        }
+      ]
+    },
+    {
+      "ide": "102865",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alcoholism"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Medical Milestones",
+          "name": "Medical Milestones 61xxxx 05 Alcholism_OTRRPG.mp3",
+          "time": "289",
+          "size": "4710582"
+        }
+      ]
+    },
+    {
+      "ide": "102866",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Automobile Safety"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Medical Milestones",
+          "name": "Medical Milestones 61xxxx 06 Automobile Saftey_OTRRPG.mp3",
+          "time": "286",
+          "size": "4653748"
+        }
+      ]
+    },
+    {
+      "ide": "102860",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Premature Infants"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Medical Milestones",
+          "name": "Medical Milestones 61xxxx 07 Premature Infants_OTRRPG.mp3",
+          "time": "289",
+          "size": "4700141"
+        }
+      ]
+    },
+    {
+      "ide": "102858",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Heart-Lung Machine, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Medical Milestones",
+          "name": "Medical Milestones 61xxxx 08 The Heart-Lung Machine_OTRRPG.mp3",
+          "time": "287",
+          "size": "4678831"
+        }
+      ]
+    },
+    {
+      "ide": "102856",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Physical Rehabilitation"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Medical Milestones",
+          "name": "Medical Milestones 61xxxx 09 Physical Rehabilitation_OTRRPG.mp3",
+          "time": "288",
+          "size": "4680921"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Medical Milestones"
+    }
+  ]
+}

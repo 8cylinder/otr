@@ -1,0 +1,385 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrr.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/J Series/Just For You/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2820",
+      "first": "Eddy",
+      "last": "Howard",
+      "f": "Noted Role",
+      "character": "Emcee, vocalist"
+    },
+    {
+      "idperson": "2820",
+      "first": "Eddy",
+      "last": "Howard",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "280644",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Elaine Castile, the Station's Woman's Director, Tells About Her"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "88964",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Swinging on a Star"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 01 SWINGING ON A STAR.mp3",
+          "time": "863",
+          "size": "6904686"
+        }
+      ]
+    },
+    {
+      "ide": "280640",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Full Moon and Empty Arms"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 10 FULL MOON AND EMPTY ARMS.mp3",
+          "time": "808",
+          "size": "6466038"
+        }
+      ]
+    },
+    {
+      "ide": "280641",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Temptation"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 11 TEMPTATION.mp3",
+          "time": "817",
+          "size": "6538344"
+        }
+      ]
+    },
+    {
+      "ide": "280642",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Had to Be You"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 12 IT HAD TO BE YOU.mp3",
+          "time": "860",
+          "size": "6879399"
+        }
+      ]
+    },
+    {
+      "ide": "280643",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tangerine"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 13 TANGERINE.mp3",
+          "time": "776",
+          "size": "6211709"
+        }
+      ]
+    },
+    {
+      "ide": "280633",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Goodnight, Wherever You Are"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 02 GOODNIGHT WHEREVER YOU ARE.mp3",
+          "time": "820",
+          "size": "6563840"
+        }
+      ]
+    },
+    {
+      "ide": "280634",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Begin the Beguine"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 03 BEGIN THE BEGUINE.mp3",
+          "time": "824",
+          "size": "6596023"
+        }
+      ]
+    },
+    {
+      "ide": "309573",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I'LL GET BY"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 04 I'LL GET BY.MP3",
+          "time": "780",
+          "size": "6241384"
+        }
+      ]
+    },
+    {
+      "ide": "280635",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Swanee River"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "280636",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Many Hearts Have You Broken"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 06 MANY HEARTS HAVE YOU BROKEN.mp3",
+          "time": "818",
+          "size": "6544196"
+        }
+      ]
+    },
+    {
+      "ide": "280637",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "I've Got You Under My Skin"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 07 I'VE GOT YOU UNDER MY SKIN.mp3",
+          "time": "828",
+          "size": "6627370"
+        }
+      ]
+    },
+    {
+      "ide": "280638",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Could Happen to You"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 08 IT COULD HAPPEN TO YOU.mp3",
+          "time": "832",
+          "size": "6657672"
+        }
+      ]
+    },
+    {
+      "ide": "280639",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Way You Look Tonight, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Just For You",
+          "name": "Just For You 1944 09 THE WAY YOU LOOK TONIGHT.mp3",
+          "time": "833",
+          "size": "6664359"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1954-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1954-00-00",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Just for You"
+    }
+  ]
+}

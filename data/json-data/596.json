@@ -1,0 +1,94 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5972",
+      "first": "Les",
+      "last": "Tremayne",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "331600",
+      "date": "1947-05-19",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Castle And The Houseboat"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "AliasRomeoJHMC",
+          "name": "Alias Romeo 470519 #12 The Castle And The Houseboat.mp3",
+          "time": "900",
+          "size": "10925046"
+        }
+      ]
+    },
+    {
+      "ide": "331601",
+      "date": "1947-05-26",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Fiancee And The Maid"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "AliasRomeoJHMC",
+          "name": "Alias Romeo 470526 #13 The Fiancee And The Maid.mp3",
+          "time": "899",
+          "size": "10790102"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Alias Romeo"
+    }
+  ]
+}

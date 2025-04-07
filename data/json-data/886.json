@@ -1,0 +1,127 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19301931eve.html",
+      "label": "Evening Ratings: (1930-1931: #14)",
+      "idtype": "8"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1040",
+      "first": "Mario",
+      "last": "Chamlee",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "1918",
+      "first": "Charles K.",
+      "last": "Field",
+      "f": "Noted Role",
+      "character": "Cheerio"
+    },
+    {
+      "idperson": "48910",
+      "first": "Ludwig",
+      "last": "Laurier",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "3357",
+      "idtype": "4",
+      "page": "35",
+      "article": "",
+      "url": "undefined",
+      "date": "1930-07-01",
+      "source": "Whats On The Air/What's On The Air 3007.pdf",
+      "idpytype2": "4",
+      "title": "Whats On The Air 3007.pdf",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1930-00-00",
+      "dow": "Th",
+      "time": "9:00 PM",
+      "end": "1932-01-12",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Arco Birthday Party"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Masters Of Melody/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "46754",
+      "first": "",
+      "last": "Albert White Orchestra",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314105",
+      "date": "0000-00-00",
+      "epnum": "258",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Masters Of Melody",
+          "name": "Masters of Melody, with Albert White xxxxxx 258 {AFRTS} (128-48)_OTRRPG.mp3",
+          "time": "939",
+          "size": "15032790"
+        },
+        {
+          "path": "M",
+          "folder": "Masters Of Melody",
+          "name": "Masters Of Melody xx-xx-xx (258) (AFRS).mp3",
+          "time": "940",
+          "size": "7517903"
+        }
+      ]
+    },
+    {
+      "ide": "314106",
+      "date": "0000-00-00",
+      "epnum": "259",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Masters Of Melody",
+          "name": "Masters of Melody, with Albert White xxxxxx 259 {AFRTS} (128-48)_OTRRPG.mp3",
+          "time": "923",
+          "size": "14782422"
+        },
+        {
+          "path": "M",
+          "folder": "Masters Of Melody",
+          "name": "Masters Of Melody xx-xx-xx (259) (AFRS).mp3",
+          "time": "923",
+          "size": "7385615"
+        }
+      ]
+    },
+    {
+      "ide": "314107",
+      "date": "0000-00-00",
+      "epnum": "260",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Masters Of Melody",
+          "name": "Masters of Melody, with Albert White xxxxxx 260 {AFRTS} (128-48)_OTRRPG.mp3",
+          "time": "942",
+          "size": "15090006"
+        },
+        {
+          "path": "M",
+          "folder": "Masters Of Melody",
+          "name": "Masters Of Melody xx-xx-xx (260) (AFRS).mp3",
+          "time": "943",
+          "size": "7542255"
+        }
+      ]
+    },
+    {
+      "ide": "314108",
+      "date": "0000-00-00",
+      "epnum": "261",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Masters Of Melody",
+          "name": "Masters of Melody, with Albert White xxxxxx 261 {AFRTS} (128-48)_OTRRPG.mp3",
+          "time": "942",
+          "size": "15084246"
+        },
+        {
+          "path": "M",
+          "folder": "Masters Of Melody",
+          "name": "Masters Of Melody xx-xx-xx (261) (AFRS).mp3",
+          "time": "942",
+          "size": "7536527"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "0000-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "25",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "0000-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1956-00-00",
+      "dow": "Tu,W,Th,F,Su",
+      "time": "7:05 PM",
+      "end": "1956-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "AFRS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Masters of Melody"
+    }
+  ]
+}

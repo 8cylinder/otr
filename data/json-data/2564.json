@@ -1,0 +1,810 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,806952,00.html",
+      "label": "1954-11-22: The Week in Review",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,866226,00.html",
+      "label": "1955-04-18: Kudos",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,890989,00.html",
+      "label": "1954-08-02: The New Shows",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,891543,00.html",
+      "label": "1955-07-25: Moderation",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1853",
+      "first": "Clifton",
+      "last": "Fadiman",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "48274",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How to Waste Time"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "245637",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ideal Teacher, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "48273",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ideas That Have Changed the World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "48276",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love and Hatred"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "245638",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Personality of Charles Dickens, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "48148",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Radio Yesterday and Today"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "48275",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Society with a Small S"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "48146",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Best Sellers Sell Best"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "48316",
+      "date": "1954-10-14",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Episode"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "48317",
+      "date": "1954-10-21",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48318",
+      "date": "1954-10-28",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48319",
+      "date": "1954-11-04",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48320",
+      "date": "1954-11-11",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48321",
+      "date": "1954-11-18",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48322",
+      "date": "1954-11-25",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48323",
+      "date": "1954-12-02",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48324",
+      "date": "1954-12-09",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48325",
+      "date": "1954-12-16",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48326",
+      "date": "1954-12-23",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48327",
+      "date": "1954-12-30",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48328",
+      "date": "1955-01-06",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48329",
+      "date": "1955-01-13",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48330",
+      "date": "1955-01-20",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48331",
+      "date": "1955-01-27",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48332",
+      "date": "1955-02-03",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48333",
+      "date": "1955-02-10",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48334",
+      "date": "1955-02-17",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48335",
+      "date": "1955-02-23",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48336",
+      "date": "1955-03-03",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48337",
+      "date": "1955-03-10",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48338",
+      "date": "1955-03-17",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48339",
+      "date": "1955-03-24",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48340",
+      "date": "1955-03-31",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48341",
+      "date": "1955-04-07",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48342",
+      "date": "1955-04-14",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48343",
+      "date": "1955-04-21",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48344",
+      "date": "1955-04-28",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48345",
+      "date": "1955-05-05",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48346",
+      "date": "1955-05-12",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48347",
+      "date": "1955-05-19",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48348",
+      "date": "1955-05-26",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48349",
+      "date": "1955-06-02",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48350",
+      "date": "1955-06-08",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48351",
+      "date": "1955-06-18",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48352",
+      "date": "1955-12-01",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48353",
+      "date": "1955-12-08",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48354",
+      "date": "1955-12-15",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48355",
+      "date": "1955-12-22",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48356",
+      "date": "1955-12-29",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48357",
+      "date": "1956-01-05",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48358",
+      "date": "1956-01-12",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48359",
+      "date": "1956-01-19",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48360",
+      "date": "1956-01-26",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48361",
+      "date": "1956-02-02",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48362",
+      "date": "1956-02-09",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48363",
+      "date": "1956-02-16",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48364",
+      "date": "1956-02-23",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Genius"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "48365",
+      "date": "1956-03-01",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48366",
+      "date": "1956-03-08",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48367",
+      "date": "1956-03-15",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "311109",
+      "date": "1956-03-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Conversation 56-03-22 Talking with Fred Allen"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Conversation 56-03-22 Talking with Fred Allen.mp3",
+          "time": "1642",
+          "size": "13136247"
+        }
+      ]
+    },
+    {
+      "ide": "48368",
+      "date": "1956-03-22",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How I'd Like to Live My Life over Again"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Conversation",
+          "name": "Conversation 560322 xxx Fred Allen - How I'd Like To Live My Life Over Again_OTRRPG.mp3",
+          "time": "1640",
+          "size": "26315787"
+        }
+      ]
+    },
+    {
+      "ide": "48369",
+      "date": "1956-03-29",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48370",
+      "date": "1956-04-05",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48371",
+      "date": "1956-04-12",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48372",
+      "date": "1956-04-19",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48373",
+      "date": "1956-04-26",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48374",
+      "date": "1956-05-03",
+      "epnum": "59",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48375",
+      "date": "1956-05-10",
+      "epnum": "60",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48376",
+      "date": "1956-05-17",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48377",
+      "date": "1956-05-24",
+      "epnum": "62",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48378",
+      "date": "1956-05-31",
+      "epnum": "63",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48379",
+      "date": "1956-06-07",
+      "epnum": "64",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48380",
+      "date": "1956-06-14",
+      "epnum": "65",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48381",
+      "date": "1956-06-21",
+      "epnum": "66",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48382",
+      "date": "1956-06-28",
+      "epnum": "67",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48383",
+      "date": "1956-07-05",
+      "epnum": "68",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48384",
+      "date": "1956-07-12",
+      "epnum": "69",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "48385",
+      "date": "1956-07-19",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Last Episode"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Conversation"
+    }
+  ]
+}

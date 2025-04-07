@@ -1,0 +1,289 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/Front And Center/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logf1027.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3882-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3361",
+      "first": "Dorothy",
+      "last": "Lamour",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "65007",
+      "date": "1947-07-06",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "65008",
+      "date": "1947-07-13",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Jack Carson, Dick Powell"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front And Center",
+          "name": "Front and Center 47-07-13 (02) Guests - Jack Carson, Dick Powell.mp3",
+          "time": "1769",
+          "size": "7075860"
+        }
+      ]
+    },
+    {
+      "ide": "65009",
+      "date": "1947-07-20",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Van Johnson, Alan Young"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front And Center",
+          "name": "Front and Center 47-07-20 (03) Guest - Van Johnson, Allan Young.mp3",
+          "time": "1762",
+          "size": "7051284"
+        }
+      ]
+    },
+    {
+      "ide": "65010",
+      "date": "1947-07-27",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "65011",
+      "date": "1947-08-03",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "65012",
+      "date": "1947-08-10",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Begin at the End"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front And Center",
+          "name": "Front and Center 47-08-10 (06) Begin at the End.mp3",
+          "time": "1748",
+          "size": "6993940"
+        }
+      ]
+    },
+    {
+      "ide": "65013",
+      "date": "1947-08-17",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Burns & Allen, Ronald Reagan"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front And Center",
+          "name": "Front and Center 47-08-17 (07) Guest - Burns & Allen, Ronald Reagan.mp3",
+          "time": "1745",
+          "size": "6979604"
+        }
+      ]
+    },
+    {
+      "ide": "65014",
+      "date": "1947-08-24",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "65015",
+      "date": "1947-08-31",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "American Sketchbook - Schoolmaster from Connecticut"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front And Center",
+          "name": "Front and Center 47-08-31 (09) American Sketchbook - Schoolmaster from Connecticut.mp3",
+          "time": "1788",
+          "size": "7153684"
+        }
+      ]
+    },
+    {
+      "ide": "65016",
+      "date": "1947-09-07",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "65017",
+      "date": "1947-09-14",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "65018",
+      "date": "1947-09-21",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Amos And Andy"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front And Center",
+          "name": "Front and Center 47-09-21 (12) Guest - Amos And Andy.mp3",
+          "time": "693",
+          "size": "5546029"
+        }
+      ]
+    },
+    {
+      "ide": "65019",
+      "date": "1947-09-28",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Episode"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Front And Center",
+          "name": "Front and Center 47-09-28 (13) Last Episode.mp3",
+          "time": "1783",
+          "size": "7135252"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Front and Center"
+    }
+  ]
+}

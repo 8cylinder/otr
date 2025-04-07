@@ -1,0 +1,103 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Martha White Buscit Time/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "20062",
+      "first": "The",
+      "last": "Foggy Mountain Boys",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314100",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Silver Trumpet"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Martha White Buscit Time",
+          "name": "Martha White Biscuit Time xxxxxx xxx 1st Song - Silver Trumpet_OTRRPG.mp3",
+          "time": "687",
+          "size": "11071066"
+        },
+        {
+          "path": "M",
+          "folder": "Martha White Buscit Time",
+          "name": "Martha White Buscuit Time - First Song - Silver Trumpet.mp3",
+          "time": "691",
+          "size": "5526464"
+        }
+      ]
+    },
+    {
+      "ide": "318993",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Foggy Mountain"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Martha White Buscit Time",
+          "name": "Martha White Biscuit Time xx-xx-xx (02) Foggy Mountain.mp3",
+          "time": "1574",
+          "size": "50363977"
+        }
+      ]
+    },
+    {
+      "ide": "318992",
+      "date": "1953-09-06",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Turkey in the Straw"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Martha White Buscit Time",
+          "name": "Martha White Biscuit Time 53-09-06 (03) Turkey in the Straw.mp3",
+          "time": "1604",
+          "size": "51314416"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Martha White Biscuit Time"
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/D Series/Doctor Fights, The/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-The-Doctor-Fights.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-The-Doctor-Fights.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2985-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Sound effects were by Al Schaffer."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "1174",
+      "first": "Ronald",
+      "last": "Colman",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "1174",
+      "first": "Ronald",
+      "last": "Colman",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1356",
+      "first": "Robert",
+      "last": "Cummings",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "1356",
+      "first": "Robert",
+      "last": "Cummings",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2123",
+      "first": "Frank",
+      "last": "Gallop",
+      "f": "Noted Role",
+      "character": "1st series"
+    },
+    {
+      "idperson": "2123",
+      "first": "Frank",
+      "last": "Gallop",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2336",
+      "first": "Cary",
+      "last": "Grant",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "2336",
+      "first": "Cary",
+      "last": "Grant",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2637",
+      "first": "Van",
+      "last": "Heflin",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "2637",
+      "first": "Van",
+      "last": "Heflin",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3592",
+      "first": "Gene",
+      "last": "Lockhart",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "3592",
+      "first": "Gene",
+      "last": "Lockhart",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3895",
+      "first": "Raymond",
+      "last": "Massey",
+      "f": "Noted Role",
+      "character": "Anthology Roles"
+    },
+    {
+      "idperson": "4216",
+      "first": "Robert",
+      "last": "Montgomery",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "4216",
+      "first": "Robert",
+      "last": "Montgomery",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4637",
+      "first": "Gregory",
+      "last": "Peck",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "4637",
+      "first": "Gregory",
+      "last": "Peck",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5138",
+      "first": "Norman",
+      "last": "Rosten",
+      "f": "Noted Role",
+      "character": "1st series"
+    },
+    {
+      "idperson": "5138",
+      "first": "Norman",
+      "last": "Rosten",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "5344",
+      "first": "Vladimir",
+      "last": "Selinsky",
+      "f": "Noted Role",
+      "character": "1st series"
+    },
+    {
+      "idperson": "5344",
+      "first": "Vladimir",
+      "last": "Selinsky",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5656",
+      "first": "Leith",
+      "last": "Stevens",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "5656",
+      "first": "Leith",
+      "last": "Stevens",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5940",
+      "first": "Franchot",
+      "last": "Tone",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "5940",
+      "first": "Franchot",
+      "last": "Tone",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6525",
+      "first": "Robert",
+      "last": "Young",
+      "f": "Noted Role",
+      "character": "2nds series"
+    },
+    {
+      "idperson": "6525",
+      "first": "Robert",
+      "last": "Young",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6655",
+      "first": "Louis",
+      "last": "Pelletier",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7157",
+      "first": "Devere 'Dee'",
+      "last": "Engelbach",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "7157",
+      "first": "Devere 'Dee'",
+      "last": "Engelbach",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "7478",
+      "first": "Milton",
+      "last": "Geiger",
+      "f": "Noted Role",
+      "character": "1st &amp; 2nd series"
+    },
+    {
+      "idperson": "7478",
+      "first": "Milton",
+      "last": "Geiger",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "15343",
+      "first": "Jacques",
+      "last": "Finke",
+      "f": "Noted Role",
+      "character": "2nd series"
+    },
+    {
+      "idperson": "15343",
+      "first": "Jacques",
+      "last": "Finke",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "28340",
+      "first": "Joseph",
+      "last": "Liss",
+      "f": "Noted Role",
+      "character": "1st series"
+    },
+    {
+      "idperson": "28340",
+      "first": "Joseph",
+      "last": "Liss",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "739",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1996-11-01",
+      "source": "Illustrated Press/IP_242.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#242) - Nov 1996",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2092",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1945-08-05",
+      "source": "Radio Life/Radio Life 450805.pdf",
+      "idpytype2": "4",
+      "title": "Radio Life - August 5, 1945",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "The purpose of The Doctor Fights was twofold: to honor the nation's 180,000 doctors, 60,000 of whom were in the theaters of battle, and to acquaint the public with the new miracle drug, penicillin... - On the Air: The Encyclopedia of Old-Time Radio by John Dunning"
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "52254",
+      "date": "1944-06-06",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Program"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52255",
+      "date": "1944-06-13",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52256",
+      "date": "1944-06-20",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52257",
+      "date": "1944-06-27",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52258",
+      "date": "1944-07-04",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52259",
+      "date": "1944-07-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Preempted]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52260",
+      "date": "1944-07-18",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52261",
+      "date": "1944-07-25",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52262",
+      "date": "1944-08-01",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52263",
+      "date": "1944-08-08",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52264",
+      "date": "1944-08-15",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52265",
+      "date": "1944-08-22",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52266",
+      "date": "1944-08-29",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52267",
+      "date": "1945-06-05",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shingle on Luzon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52268",
+      "date": "1945-06-12",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Picnic At McBurney's Point"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52269",
+      "date": "1945-06-19",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mare Island And Back"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Doctor Fights, The",
+          "name": "The Doctor Fights 45-06-19 Mayer Island And Back.mp3",
+          "time": "1807",
+          "size": "7230424"
+        }
+      ]
+    },
+    {
+      "ide": "52270",
+      "date": "1945-06-26",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rescue On The Moon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52271",
+      "date": "1945-07-03",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Miracle Drug"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52272",
+      "date": "1945-07-10",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52273",
+      "date": "1945-07-17",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Burma Incident"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52274",
+      "date": "1945-07-24",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain Rayme's Story"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52275",
+      "date": "1945-07-31",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lam Ping Miracle, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "52276",
+      "date": "1945-08-07",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "54941",
+      "date": "1945-08-14",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "54942",
+      "date": "1945-08-21",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "54943",
+      "date": "1945-08-28",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Medicine For The Enemy"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Doctor Fights, The",
+          "name": "The Doctor Fights 45-08-28 Medicine For The Enemy.mp3",
+          "time": "1794",
+          "size": "7179015"
+        }
+      ]
+    },
+    {
+      "ide": "52279",
+      "date": "1945-09-04",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52280",
+      "date": "1945-09-11",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man From Missouri, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Episodic Drama"
+    },
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-06-06",
+      "dow": "",
+      "time": "9:30 PM",
+      "end": "1944-08-29",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-06-05",
+      "dow": "Tu",
+      "time": "9:30 PM",
+      "end": "1945-09-11",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Doctor Fights, The"
+    }
+  ]
+}

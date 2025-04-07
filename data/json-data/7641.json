@@ -1,0 +1,556 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324051527-9cb3bb9b.jpg",
+      "label": "Redbook Dramas CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324051542-88d181e2.jpg",
+      "label": "Redbook Dramas CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324051548-dc64b1db.jpg",
+      "label": "Redbook Dramas CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324051550-8dae95c9.jpg",
+      "label": "Redbook Dramas 01",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324051552-d6eb2b28.jpg",
+      "label": "Redbook Dramas 02",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Redbook-Drama.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-7641-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Redbook_Dramas_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "121961",
+      "date": "1932-05-26",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Anything You Want Is Yours"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-05-26_ep01_Anything_You_Want_Is_Yours.mp3",
+          "time": "814",
+          "size": "3254946"
+        }
+      ]
+    },
+    {
+      "ide": "264400",
+      "date": "1932-06-02",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "He Knew Women"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-06-02_ep02_He_Knew_Women.mp3",
+          "time": "792",
+          "size": "3167052"
+        }
+      ]
+    },
+    {
+      "ide": "264406",
+      "date": "1932-06-09",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Man, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-06-09_ep03_The_No_Man.mp3",
+          "time": "839",
+          "size": "3355444"
+        }
+      ]
+    },
+    {
+      "ide": "264408",
+      "date": "1932-06-16",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pass to Pekin, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-06-16_ep04_A_Pass_to_Pekin.mp3",
+          "time": "840",
+          "size": "3361405"
+        }
+      ]
+    },
+    {
+      "ide": "264401",
+      "date": "1932-06-23",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kid, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-06-23_ep05_The_Kid.mp3",
+          "time": "797",
+          "size": "3188780"
+        }
+      ]
+    },
+    {
+      "ide": "264398",
+      "date": "1932-06-30",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Goat of Private Hibbs, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-06-30_ep06_The_Goat_of_Private_Hibbs.mp3",
+          "time": "827",
+          "size": "3308647"
+        }
+      ]
+    },
+    {
+      "ide": "264409",
+      "date": "1932-07-07",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tribal Law"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-07-07_ep07_Tribal_Law.mp3",
+          "time": "860",
+          "size": "3439976"
+        }
+      ]
+    },
+    {
+      "ide": "264412",
+      "date": "1932-07-14",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Zhulie"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-07-14_ep08_Zhulie.mp3",
+          "time": "809",
+          "size": "3235277"
+        }
+      ]
+    },
+    {
+      "ide": "264407",
+      "date": "1932-07-21",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Officer and the Gent, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-07-21_ep09_The_Officer_and_the_Gent.mp3",
+          "time": "831",
+          "size": "3324738"
+        }
+      ]
+    },
+    {
+      "ide": "264402",
+      "date": "1932-07-28",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kiss and Jail"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-07-28_ep10_Kiss_and_Jail.mp3",
+          "time": "844",
+          "size": "3377704"
+        }
+      ]
+    },
+    {
+      "ide": "264410",
+      "date": "1932-08-04",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Under the Midnight Sun"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-08-04_ep11_Under_the_Midnight_Sun.mp3",
+          "time": "877",
+          "size": "3509579"
+        }
+      ]
+    },
+    {
+      "ide": "264397",
+      "date": "1932-08-11",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gent Passes By, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-08-11_ep12_A_Gent_Passes_By.mp3",
+          "time": "819",
+          "size": "3275516"
+        }
+      ]
+    },
+    {
+      "ide": "264411",
+      "date": "1932-08-18",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You Have to Have Something"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-08-18_ep13_You_Have_to_Have_Something.mp3",
+          "time": "881",
+          "size": "3524839"
+        }
+      ]
+    },
+    {
+      "ide": "264399",
+      "date": "1932-08-25",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hate and Twenty Cents"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-08-25_ep14_Hate_and_Twenty_Cents.mp3",
+          "time": "811",
+          "size": "3244906"
+        }
+      ]
+    },
+    {
+      "ide": "264391",
+      "date": "1932-09-01",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "[Episode Not Available]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "264392",
+      "date": "1932-09-08",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Not Available]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "264393",
+      "date": "1932-09-15",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Not Available]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "264394",
+      "date": "1932-09-22",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Not Available]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "264395",
+      "date": "1932-09-29",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Not Available]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "264390",
+      "date": "1932-10-06",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "England Yet Shall Stand"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-10-06_ep20_England_Yet_Shall_Stand.mp3",
+          "time": "827",
+          "size": "3308437"
+        }
+      ]
+    },
+    {
+      "ide": "264405",
+      "date": "1932-10-13",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Night Watch"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-10-13_ep21_Night_Watch.mp3",
+          "time": "795",
+          "size": "3179485"
+        }
+      ]
+    },
+    {
+      "ide": "264404",
+      "date": "1932-10-20",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Minister Wanted"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-10-20_ep22_Minister_Wanted.mp3",
+          "time": "859",
+          "size": "3436638"
+        }
+      ]
+    },
+    {
+      "ide": "264396",
+      "date": "1932-10-27",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ever So Slightly Careless"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-10-27_ep23_Ever_So_Slightly_Careless.mp3",
+          "time": "833",
+          "size": "3333934"
+        }
+      ]
+    },
+    {
+      "ide": "264403",
+      "date": "1932-11-03",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lazy Bones(Last Episode)"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Redbook_Dramas_Singles",
+          "name": "Redbook_Dramas_32-11-03_ep24_Lazy_BonesepLast_Episode.mp3",
+          "time": "820",
+          "size": "4098392"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "Redbook Magazine",
+      "begin": "1932-05-26",
+      "end": "1932-11-03"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Redbook Dramas"
+    }
+  ]
+}

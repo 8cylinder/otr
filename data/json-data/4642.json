@@ -1,0 +1,94 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "49763",
+      "first": "Madge",
+      "last": "Marley",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "50158",
+      "first": "Charlie",
+      "last": "Leland",
+      "f": "Noted Role",
+      "character": "Emcee"
+    },
+    {
+      "idperson": "50159",
+      "first": "Guard Quartet",
+      "last": "The Kings",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "A weekly program of music and song."
+    }
+  ],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1935-03-26",
+      "dow": "",
+      "time": "7:30 PM",
+      "end": "1935-05-21",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1935-05-29",
+      "dow": "W",
+      "time": "10:00 PM",
+      "end": "1935-08-07",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hits and Bits Revue, The"
+    }
+  ]
+}

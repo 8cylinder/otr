@@ -1,0 +1,78 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "45602",
+      "first": "Guy",
+      "last": "Bonham",
+      "f": "Noted Role",
+      "character": "Vigor"
+    },
+    {
+      "idperson": "45603",
+      "first": "Dwight",
+      "last": "Latham",
+      "f": "Noted Role",
+      "character": "Pep"
+    },
+    {
+      "idperson": "45604",
+      "first": "Wamp",
+      "last": "Carlson",
+      "f": "Noted Role",
+      "character": "Vim"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1930-00-00",
+      "dow": "M,W,F",
+      "time": "",
+      "end": "1933-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Tasty Yeast",
+      "begin": "1933-00-00",
+      "end": "1937-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Original Tastyeast Jesters"
+    }
+  ]
+}

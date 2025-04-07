@@ -1,0 +1,128 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "7136",
+      "first": "Rosa",
+      "last": "Rio",
+      "f": "Noted Role",
+      "character": "Organist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Sunrise Serenade"
+    },
+    {
+      "theme": "Sunrise Sunset"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "246952",
+      "date": "1947-07-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rhythm Time With Rosa Rio"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rosa Rio Time",
+          "name": "Rosa Rio Time 1947.07.01 Rhythm Time With Rosa Rio.mp3",
+          "time": "563",
+          "size": "2358142"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-07-02",
+      "dow": "F",
+      "time": "1:45 PM",
+      "end": "1943-11-05",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1945-04-02",
+      "dow": "M,Tu,W,Th,F",
+      "time": "1:15 PM",
+      "end": "1945-05-25",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1949-11-27",
+      "dow": "M",
+      "time": "4:15 PM",
+      "end": "1950-02-12",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1945-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1949-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Rosa Rio Time"
+    },
+    {
+      "title": "Rhythm Time with Rosa Rio"
+    },
+    {
+      "title": "Rhythm Time With Rosa Rio"
+    }
+  ]
+}

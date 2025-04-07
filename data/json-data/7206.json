@@ -1,0 +1,154 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1216",
+      "first": "Joe",
+      "last": "Cook",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3160",
+      "first": "Hal",
+      "last": "Kemp",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3160",
+      "first": "Hal",
+      "last": "Kemp",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "318783",
+      "date": "1934-01-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hal Kemp Orchestra",
+          "name": "Hal Kemp Orchestra 34-xx-02.mp3",
+          "time": "1554",
+          "size": "12434734"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1935-09-00",
+      "dow": "",
+      "time": "",
+      "end": "1935-10-00",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1935-01-02",
+      "dow": "W",
+      "time": "",
+      "end": "1935-07-23",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1941-06-06",
+      "dow": "F",
+      "time": "10:30 PM",
+      "end": "1941-09-26",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1941-10-08",
+      "dow": "Th",
+      "time": "9:30 PM",
+      "end": "1942-12-31",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Eno Salts",
+      "begin": "1935-01-25",
+      "end": "1935-07-24"
+    },
+    {
+      "sponsor": "R. J. Reynolds Camel Cigarettes",
+      "begin": "1941-06-05",
+      "end": "1941-12-31"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Penthouse Party"
+    },
+    {
+      "title": "Penthouse Party with Hal Kemp"
+    }
+  ]
+}

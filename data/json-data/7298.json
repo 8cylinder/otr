@@ -1,0 +1,428 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "PCOE"
+    }
+  ],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "2775",
+      "web": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "source": "Grams Jr., Martin",
+      "idpytype": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324045451-7922fe35.jpg",
+      "label": "Phyl Coe Mysteries CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Phyl-Coe-Mysteries.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/articles/artjf009.html",
+      "label": "Lady Crimefighters by Jack French",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.thrillingdetective.com/coe.html",
+      "label": "Thrilling Detective",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Phyl-Coe-Mysteries.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logp1025.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/P Series/Philco, The Adventures Of/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "39597",
+      "first": "Peggy",
+      "last": "Allenby",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50704",
+      "first": "Bud",
+      "last": "Collyer",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2775",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "2424",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1999-06-01",
+      "source": "Return With Us Now/RWUN V24 11 Jun99.pdf",
+      "idpytype2": "4",
+      "title": "Return With Us Now - Vol 24 #10 Jun 1999",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Procession Of The Sadar"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "323959",
+      "date": "1937-09-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Dead Magician"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 1937.09.07 The Dead Magician.mp3",
+          "time": "880",
+          "size": "3627084"
+        }
+      ]
+    },
+    {
+      "ide": "323960",
+      "date": "1937-09-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missing Masterpiece"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 1937.09.14 Missing Masterpiece.mp3",
+          "time": "880",
+          "size": "3628864"
+        }
+      ]
+    },
+    {
+      "ide": "323961",
+      "date": "1937-09-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery Of The Death Ray Tube"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 1937.09.21 Mystery Of The Death Ray Tube.mp3",
+          "time": "820",
+          "size": "3389707"
+        }
+      ]
+    },
+    {
+      "ide": "323962",
+      "date": "1937-09-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder In The Sky"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 1937.09.28 Murder In The Sky.mp3",
+          "time": "884",
+          "size": "3645265"
+        }
+      ]
+    },
+    {
+      "ide": "323963",
+      "date": "1937-10-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death Boards The Sea Serpent"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 1937.10.05 Death Boards The Sea Serpent.mp3",
+          "time": "861",
+          "size": "3553127"
+        }
+      ]
+    },
+    {
+      "ide": "323964",
+      "date": "1937-10-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double X Mystery"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 1937.10.12 Double X Mystery.mp3",
+          "time": "891",
+          "size": "3673476"
+        }
+      ]
+    },
+    {
+      "ide": "314448",
+      "date": "1937-10-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Will and Testament"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 007 371019 Last Will and Testament 2_OTRRPG.mp3",
+          "time": "870",
+          "size": "13937227"
+        },
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 007 371019 Last Will And Testament_OTRRPG.mp3",
+          "time": "865",
+          "size": "13914690"
+        }
+      ]
+    },
+    {
+      "ide": "314451",
+      "date": "1937-10-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stolen Sables"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Philco, The Adventures Of",
+          "name": "Phyl Coe Mysteries 37-10-26 (08) Stolen Sables.mp3",
+          "time": "876",
+          "size": "7010344"
+        },
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 008 371026 Stolen Sables _OTRRPG.mp3",
+          "time": "859",
+          "size": "13824402"
+        },
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 008 371026 TCOT Stolen Sables_OTRRPG.mp3",
+          "time": "865",
+          "size": "13852799"
+        }
+      ]
+    },
+    {
+      "ide": "323965",
+      "date": "1937-11-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who Murdered Sen Floyd"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 1937.11.02 Who Murdered Sen Floyd.mp3",
+          "time": "859",
+          "size": "3545592"
+        }
+      ]
+    },
+    {
+      "ide": "323966",
+      "date": "1937-11-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Laughing Ghost"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 1937.11.09 Laughing Ghost.mp3",
+          "time": "871",
+          "size": "3593223"
+        }
+      ]
+    },
+    {
+      "ide": "323967",
+      "date": "1937-11-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Fallen Star"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 1937.11.16 The Fallen Star.mp3",
+          "time": "850",
+          "size": "3508171"
+        }
+      ]
+    },
+    {
+      "ide": "323968",
+      "date": "1937-11-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jagged Rock Mystery"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phyl Coe Mysteries",
+          "name": "Phyl Coe Mysteries 1937.11.23 Jagged Rock Mystery.mp3",
+          "time": "841",
+          "size": "3473697"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Private Detective"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-09-07",
+      "dow": "",
+      "time": "",
+      "end": "1937-12-21",
+      "length": "15",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Philco Corporation",
+      "begin": "1937-09-07",
+      "end": "1937-12-21"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Phyl Coe Radio Mysteries"
+    }
+  ]
+}

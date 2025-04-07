@@ -1,0 +1,142 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "439",
+      "first": "Bob",
+      "last": "Becker",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Old Dog Tray"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "312749",
+      "date": "1938-11-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lassie is Dog-napped"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bob Becker's Dog Program",
+          "name": "Bob Becker Show 381127 xxx Lassie is Dog-napped [Last 7m15s of Program, Very Noisy]_OTRRPG.mp3",
+          "time": "432",
+          "size": "6928893"
+        },
+        {
+          "path": "B",
+          "folder": "Bob Burns Show, The",
+          "name": "Bob Becker Show 381127 xxx Lassie is Dog-napped [Last 7m15s .mp3",
+          "time": "432",
+          "size": "6928893"
+        }
+      ]
+    },
+    {
+      "ide": "317830",
+      "date": "1938-11-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lassie The Scotch Terrier"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bob Becker's Dog Program",
+          "name": "Bob Becker's Dog Program 38-11-27 Lassie The Scotch Terrier.mp3",
+          "time": "431",
+          "size": "3450356"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Bob Becker Show, The"
+    },
+    {
+      "title": "Bob Becker Talks About Dogs"
+    },
+    {
+      "title": "Bob Becker's Outdoor Talks"
+    },
+    {
+      "title": "Bob Becker's Chats"
+    }
+  ]
+}

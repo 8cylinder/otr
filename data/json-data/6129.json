@@ -1,0 +1,75 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "15479",
+      "first": "Fred",
+      "last": "Hufsmith",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50459",
+      "first": "Josef",
+      "last": "Stopek",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "50460",
+      "first": "J. Alden",
+      "last": "Edkins",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1932-05-19",
+      "dow": "Th",
+      "time": "11:44 AM",
+      "end": "1932-09-28",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "McKesson and Robbins (tooth powder)",
+      "begin": "1932-05-12",
+      "end": "1932-09-27"
+    }
+  ],
+  "titles": [
+    {
+      "title": "McKesson Musical Novelties"
+    }
+  ]
+}

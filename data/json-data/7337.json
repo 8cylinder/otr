@@ -1,0 +1,97 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/P Series/Play Ball/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2370",
+      "first": "Hank",
+      "last": "Greenberg",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2805",
+      "first": "Rogers",
+      "last": "Hornsby",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "40206",
+      "first": "Mickey",
+      "last": "Vernon",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2247",
+      "first": "Marty",
+      "last": "Glickman",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "319330",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pee Wee Reese"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Play Ball",
+          "name": "Play Ball xx-xx-xx (08) Pee Wee Reese.mp3",
+          "time": "3826",
+          "size": "15304714"
+        }
+      ]
+    },
+    {
+      "ide": "314464",
+      "date": "1947-08-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Babe Ruth"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Play Ball",
+          "name": "Play Ball 470812 xxx Guest - Babe Ruth_OTRRPG.mp3",
+          "time": "882",
+          "size": "14192408"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Play Ball"
+    }
+  ]
+}

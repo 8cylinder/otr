@@ -1,0 +1,119 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "26027",
+      "first": "Billy",
+      "last": "Keaton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "41810",
+      "first": "Leonard",
+      "last": "Sherer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48678",
+      "first": "Phyllis",
+      "last": "Jeanne",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48679",
+      "first": "Jack",
+      "last": "Preston",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48680",
+      "first": "Arch",
+      "last": "Schmidt",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1941-03-03",
+      "dow": "M,Tu,W,Th,F,Sa",
+      "time": "",
+      "end": "1941-12-05",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1942-02-16",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1942-05-01",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "I'll Find My Way"
+    }
+  ]
+}

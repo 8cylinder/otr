@@ -1,0 +1,117 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/Tales From Harlem/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311211",
+      "date": "1938-01-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tales From Harlem 38-01-08 (4) First Song - Jamie, Jamie"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Tales From Harlem 38-01-08 (4) First Song - Jamie, Jamie.mp3",
+          "time": "789",
+          "size": "6315989"
+        }
+      ]
+    },
+    {
+      "ide": "311902",
+      "date": "1938-01-08",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jamie, Jamie"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tales of the Diamond K",
+          "name": "Tales From The Diamond K 51xxxx 04 The Oklahoma Kid_OTRRPG.mp3",
+          "time": "835",
+          "size": "13446798"
+        },
+        {
+          "path": "T",
+          "folder": "Tales From Harlem",
+          "name": "Tales From Harlem 380108 04 1st Song - Jamie, Jamie (64-44)_OTRRPG.mp3",
+          "time": "785",
+          "size": "6359891"
+        },
+        {
+          "path": "T",
+          "folder": "Tales From Harlem",
+          "name": "Tales From Harlem 38-01-08 (04) First Song - Jamie, Jamie.mp3",
+          "time": "789",
+          "size": "6320469"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1937-12-18",
+      "dow": "",
+      "time": "",
+      "end": "1939-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Various"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Tales from (of) Harlem"
+    }
+  ]
+}

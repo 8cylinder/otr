@@ -1,0 +1,668 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "2780",
+      "web": "",
+      "url": "0",
+      "source": "",
+      "idpytype": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323154742-bcf1ddd3.jpg",
+      "label": "Jump Jump And The Ice Queen",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323154752-34bb9e53.jpg",
+      "label": "Jump Jump Jewel Case Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323154802-f6835758.jpg",
+      "label": "Jump Jump Jewel Case Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323154817-2e267d6d.jpg",
+      "label": "Jump Jump CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Jump_Jump_Ice_Queen_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Jump-Jump.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-5360-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Jump-Jump.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Jump_Jump_Ice_Queen_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "23510",
+      "first": "Harry",
+      "last": "Hickox",
+      "f": "Noted Role",
+      "character": "Star"
+    },
+    {
+      "idperson": "23510",
+      "first": "Harry",
+      "last": "Hickox",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "30350",
+      "first": "Mary",
+      "last": "McConnell",
+      "f": "Noted Role",
+      "character": "Star"
+    },
+    {
+      "idperson": "30350",
+      "first": "Mary",
+      "last": "McConnell",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "50236",
+      "first": "Johnny",
+      "last": "McGovern",
+      "f": "Noted Role",
+      "character": "Star"
+    },
+    {
+      "idperson": "50236",
+      "first": "Johnny",
+      "last": "McGovern",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "87303",
+      "date": "1948-11-22",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tim Meets Jump Jump"
+        },
+        {
+          "title": "Tim Meets Jump Jump"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-11-22_ep01_Tim_Meets_Jump_Jump.mp3",
+          "time": "881",
+          "size": "14098442"
+        }
+      ]
+    },
+    {
+      "ide": "87304",
+      "date": "1948-11-23",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sleepy Sim and the Wishing Star"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-11-23_ep02_Sleepy_Sim_and_the_Wishing_Star.mp3",
+          "time": "881",
+          "size": "14092298"
+        }
+      ]
+    },
+    {
+      "ide": "87305",
+      "date": "1948-11-24",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Travelling to the North Pole"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-11-24_ep03_Travelling_to_the_North_Pole.mp3",
+          "time": "878",
+          "size": "14051338"
+        }
+      ]
+    },
+    {
+      "ide": "87306",
+      "date": "1948-11-25",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poet, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-11-25_ep04_The_Poet.mp3",
+          "time": "879",
+          "size": "14063626"
+        }
+      ]
+    },
+    {
+      "ide": "87307",
+      "date": "1948-11-26",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arriving At The North Pole"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-11-26_ep05_Arriving_At_The_North_Pole.mp3",
+          "time": "896",
+          "size": "14331914"
+        }
+      ]
+    },
+    {
+      "ide": "87308",
+      "date": "1948-11-29",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Santa's Reindeer Kidnapped"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-11-29_ep06_Santas_Reindeer_Kidnapped.mp3",
+          "time": "892",
+          "size": "14268426"
+        }
+      ]
+    },
+    {
+      "ide": "87309",
+      "date": "1948-11-30",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tour Of Santa's Workshop, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-11-30_ep07_A_Tour_Of_Santas_Workshop.mp3",
+          "time": "899",
+          "size": "14385162"
+        }
+      ]
+    },
+    {
+      "ide": "87310",
+      "date": "1948-12-01",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doll For Jump Jump, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-01_ep08_A_Doll_For_Jump_Jump.mp3",
+          "time": "894",
+          "size": "14297098"
+        }
+      ]
+    },
+    {
+      "ide": "87311",
+      "date": "1948-12-02",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rescuing the Rescuer"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-02_ep09_Rescuing_the_Rescuer.mp3",
+          "time": "890",
+          "size": "14241802"
+        }
+      ]
+    },
+    {
+      "ide": "87312",
+      "date": "1948-12-03",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jump Jump's Magical Powers"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-03_ep10_Jump_Jumps_Magical_Powers.mp3",
+          "time": "880",
+          "size": "14082058"
+        }
+      ]
+    },
+    {
+      "ide": "87313",
+      "date": "1948-12-06",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Journey to the Ice Queen's Palace"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-06_ep11_Journey_to_the_Ice_Queens_Palace.mp3",
+          "time": "895",
+          "size": "14313482"
+        }
+      ]
+    },
+    {
+      "ide": "87314",
+      "date": "1948-12-07",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adrift on the Ice Floe"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-07_ep12_Adrift_on_the_Ice_Floe.mp3",
+          "time": "893",
+          "size": "14280714"
+        }
+      ]
+    },
+    {
+      "ide": "87315",
+      "date": "1948-12-08",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Tree Forest, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-08_ep13_The_Christmas_Tree_Forest.mp3",
+          "time": "899",
+          "size": "14389258"
+        }
+      ]
+    },
+    {
+      "ide": "87316",
+      "date": "1948-12-09",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frozen Country, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-09_ep14_The_Frozen_Country.mp3",
+          "time": "899",
+          "size": "14376970"
+        }
+      ]
+    },
+    {
+      "ide": "87317",
+      "date": "1948-12-10",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captured by Ice Dwarves"
+        },
+        {
+          "title": "A Jennifer Jump doll from 1948 Captured by Ice Dwarfs"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-10_ep15_Captured_by_Ice_Dwarves.mp3",
+          "time": "891",
+          "size": "14249994"
+        }
+      ]
+    },
+    {
+      "ide": "87318",
+      "date": "1948-12-13",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crack in the Ice, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-13_ep16_A_Crack_in_the_Ice.mp3",
+          "time": "889",
+          "size": "14219274"
+        }
+      ]
+    },
+    {
+      "ide": "87319",
+      "date": "1948-12-14",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Confronted by Wild Animals"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-14_ep17_Confronted_by_Wild_Animals.mp3",
+          "time": "886",
+          "size": "14176266"
+        }
+      ]
+    },
+    {
+      "ide": "87320",
+      "date": "1948-12-15",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Army Of Snowmen, An"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-15_ep18_An_Army_Of_Snowmen.mp3",
+          "time": "894",
+          "size": "14297098"
+        }
+      ]
+    },
+    {
+      "ide": "87321",
+      "date": "1948-12-16",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Palace of The Ice Queen, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-16_ep19_The_Palace_of_The_Ice_Queen.mp3",
+          "time": "890",
+          "size": "14241802"
+        }
+      ]
+    },
+    {
+      "ide": "87322",
+      "date": "1948-12-17",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tricking the Ice Queen"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-17_ep20_Tricking_the_Ice_Queen.mp3",
+          "time": "893",
+          "size": "14293002"
+        }
+      ]
+    },
+    {
+      "ide": "87323",
+      "date": "1948-12-20",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rescuing the Reindeer"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-20_ep21_Rescuing_the_Reindeer.mp3",
+          "time": "894",
+          "size": "14299146"
+        }
+      ]
+    },
+    {
+      "ide": "87324",
+      "date": "1948-12-21",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lost In the Palace"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-21_ep22_Lost_In_the_Palace.mp3",
+          "time": "889",
+          "size": "14221322"
+        }
+      ]
+    },
+    {
+      "ide": "87325",
+      "date": "1948-12-22",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trapped in the Turret"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-22_ep23_Trapped_in_the_Turret.mp3",
+          "time": "896",
+          "size": "14336010"
+        }
+      ]
+    },
+    {
+      "ide": "87326",
+      "date": "1948-12-23",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spirit of Christmas, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-23_ep24_The_Spirit_of_Christmas.mp3",
+          "time": "892",
+          "size": "14272522"
+        }
+      ]
+    },
+    {
+      "ide": "87327",
+      "date": "1948-12-24",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Back Home Again"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Jump_Jump_Ice_Queen_Singles",
+          "name": "Jump_Jump_And_The_Ice_Queen_48-12-24_ep25_Back_Home_Again.mp3",
+          "time": "895",
+          "size": "14319626"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Fantasy"
+    },
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-11-22",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1948-12-24",
+      "length": "30",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jump Jump and the Ice Queen"
+    },
+    {
+      "title": "Jump-Jump and The Ice Queen"
+    }
+  ]
+}

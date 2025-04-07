@@ -1,0 +1,197 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Show Stoppers/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.karloff.com/radio.html",
+      "label": "Radio Programs Featuring Boris Karloff",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8121-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3702",
+      "first": "Jimmy",
+      "last": "Lytell",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "39626",
+      "first": "Jim",
+      "last": "Ameche",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "You Are My Lucky Star"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "320024",
+      "date": "1946-01-01",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Host - Billie Burke"
+        },
+        {
+          "title": "Abbott and Costello"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Show Stoppers",
+          "name": "Show Stoppers 46-xx-xx (08) Host - Billie Burke.mp3",
+          "time": "848",
+          "size": "6783225"
+        }
+      ]
+    },
+    {
+      "ide": "314939",
+      "date": "1946-03-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests Abbott and Costello Discuss How They Met"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Show Stoppers",
+          "name": "Show Stoppers 460324 012 Guests Abbott and Costello Discuss How They Met_OTRRPG.mp3",
+          "time": "863",
+          "size": "13823946"
+        },
+        {
+          "path": "S",
+          "folder": "Show Stoppers",
+          "name": "Show Stoppers 46-xx-xx (12) Host - Abbott And Costello.mp3",
+          "time": "868",
+          "size": "6944425"
+        }
+      ]
+    },
+    {
+      "ide": "314940",
+      "date": "1946-05-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Kay Kyser Tells How He Started in the Band Business"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Show Stoppers",
+          "name": "Show Stoppers 460512 019 Guest Kay Kyser Tells How He Started in the Band Business (128-48)_OTRRPG.mp3",
+          "time": "883",
+          "size": "14138488"
+        },
+        {
+          "path": "S",
+          "folder": "Show Stoppers",
+          "name": "Show Stoppers 46-xx-xx (19) Guest - Kay Kyser.mp3",
+          "time": "883",
+          "size": "7066113"
+        },
+        {
+          "path": "S",
+          "folder": "Show Stoppers",
+          "name": "Show Stoppers xx-xx-xx (19) Guest - Kay Kyser.mp3",
+          "time": "883",
+          "size": "7066113"
+        }
+      ]
+    },
+    {
+      "ide": "314941",
+      "date": "1946-05-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Constance Bennett Explains How She Began in Acting"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Show Stoppers",
+          "name": "Show Stoppers 460519 020 Guest Constance Bennett Explains How She Began in Acting (128-48)_OTRRPG.mp3",
+          "time": "881",
+          "size": "14112376"
+        },
+        {
+          "path": "S",
+          "folder": "Show Stoppers",
+          "name": "Show Stoppers 46-xx-xx (20) Guest - Connie Bennett.mp3",
+          "time": "880",
+          "size": "7044033"
+        },
+        {
+          "path": "S",
+          "folder": "Show Stoppers",
+          "name": "Show Stoppers xx-xx-xx (20) Guest - Connie Bennett.mp3",
+          "time": "880",
+          "size": "7044033"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Show Stoppers"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Music You Like/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "31518",
+      "first": "Antonio",
+      "last": "Modarelli",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "50616",
+      "first": "Ernest",
+      "last": "Neff",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "319007",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Al Jarvis' Original Make Believe Ballroom, 1st - Jealousy (H. James)(HD7 MM-10353)(US Marine Corps)(c)"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music You Like",
+          "name": "Music You Like-19xx-xx-xx_xxxx_Al Jarvis' Original Make Believe Ballroom, 1st - Jealousy (H. James)(HD7 MM-10353)(US Marine Corps)(c).mp3",
+          "time": "865",
+          "size": "6921337"
+        }
+      ]
+    },
+    {
+      "ide": "319008",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Al Jarvis' Original Make Believe Ballroom, 1st - Yours is My Heart Alone (C. Thornhill)(HD7 MM-10352)(US Marine Corps)(c)"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Music You Like",
+          "name": "Music You Like-19xx-xx-xx_xxxx_Al Jarvis' Original Make Believe Ballroom, 1st - Yours is My Heart Alone (C. Thornhill)(HD7 MM-10352)(US Marine Corps)(c).mp3",
+          "time": "863",
+          "size": "6900329"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1936-09-13",
+      "dow": "Su",
+      "time": "2:00 PM",
+      "end": "1936-12-13",
+      "length": "45",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1936-09-13",
+      "dow": "Su",
+      "time": "",
+      "end": "1936-12-13",
+      "length": "45",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Pittsburgh Plate Glass",
+      "begin": "1936-09-13",
+      "end": "1936-12-13"
+    },
+    {
+      "sponsor": "Pittsburgh Plate Glass",
+      "begin": "1936-09-13",
+      "end": "1936-12-13"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Music You Love, The"
+    }
+  ]
+}

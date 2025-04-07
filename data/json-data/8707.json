@@ -1,0 +1,218 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6350",
+      "first": "Dick",
+      "last": "Willard",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "6350",
+      "first": "Dick",
+      "last": "Willard",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "42681",
+      "first": "The",
+      "last": "Song Chefs",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "47221",
+      "first": "Chet",
+      "last": "Miller",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "15721",
+      "first": "Frank",
+      "last": "Novak",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "27308",
+      "first": "The",
+      "last": "Landt Trio",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "In The Evening, By The Moonlight"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "315283",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Echoes From The Hills"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Take It Easy Time",
+          "name": "Take It Easy Time 4xxxxx xxx 1st Song - Echoes From The Hills (128-48)_OTRRPG.mp3",
+          "time": "804",
+          "size": "12875802"
+        },
+        {
+          "path": "T",
+          "folder": "Take It Easy Time",
+          "name": "Take It Easy Time 4xxxxx xxx 1st Song - Echoes From The Hill.mp3",
+          "time": "800",
+          "size": "6402169"
+        }
+      ]
+    },
+    {
+      "ide": "315284",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - When Payday Rolls Around"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Take It Easy Time",
+          "name": "Take It Easy Time 4xxxxx xxx 1st Song - When Payday Rolls Around (128-48)_OTRRPG.mp3",
+          "time": "799",
+          "size": "12796698"
+        },
+        {
+          "path": "T",
+          "folder": "Take It Easy Time",
+          "name": "Take It Easy Time 4xxxxx xxx 1st Song - When Payday Rolls Ar.mp3",
+          "time": "795",
+          "size": "6362857"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-01-29",
+      "dow": "M,W,F",
+      "time": "11:30 AM",
+      "end": "1946-07-26",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1950-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Van Camp Foods",
+      "begin": "1945-01-29",
+      "end": "1946-07-26"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Take It Easy Time"
+    },
+    {
+      "title": "Take It Easy Time With Freddy Martin's Orchestra"
+    }
+  ]
+}

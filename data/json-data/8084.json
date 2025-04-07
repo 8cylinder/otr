@@ -1,0 +1,143 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1029",
+      "first": "Carmen",
+      "last": "Cavallaro",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "50369",
+      "first": "Leo",
+      "last": "Spitalny",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4642",
+      "first": "Vincent",
+      "last": "Pelletier",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5687",
+      "first": "Harold",
+      "last": "Stokes",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5726",
+      "first": "Bob",
+      "last": "Strong",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1932-02-14",
+      "dow": "Su",
+      "time": "4:30 PM",
+      "end": "1932-05-08",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1932-05-15",
+      "dow": "Su",
+      "time": "",
+      "end": "1932-08-20",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1932-08-28",
+      "dow": "Su",
+      "time": "9:45 PM",
+      "end": "1932-11-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sheaffer Pen Company",
+      "begin": "1932-02-14",
+      "end": "1932-12-25"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Sheaffer (Life-Time) Revue, The"
+    }
+  ]
+}

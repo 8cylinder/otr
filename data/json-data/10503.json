@@ -1,0 +1,90 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4553",
+      "first": "Raymond",
+      "last": "Paige",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "11693",
+      "first": "Stuart",
+      "last": "Buchman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "38248",
+      "first": "Betty",
+      "last": "Webb",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1932-10-06",
+      "dow": "Th",
+      "time": "9:30 AM",
+      "end": "1932-12-29",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Diamond Walnuts",
+      "begin": "1932-10-06",
+      "end": "1932-11-29"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Omar Khayyam on the Air"
+    }
+  ]
+}

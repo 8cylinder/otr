@@ -1,0 +1,1915 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "known": "0",
+      "idprint": "2775",
+      "web": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "source": "Grams Jr., Martin",
+      "idpytype": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    }
+  ],
+  "links": [
+    {
+      "type": "web",
+      "url": "archive.org/details/JHOTRLogs/Screen%20Guild%20log%20%28Fred%20Dickey%29/mode/2up",
+      "label": "Screen Guild Log",
+      "idtype": "1 "
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Screen Guild Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Screen-Guild.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Screen-Guild.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logs1010.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Stars In The Air/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Screen-Guild.html#Stars_in_Air",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/starsintheair.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "article",
+      "url": "www.otrr.org/FILES/Articles/Martin_Grams_Jr_Articles/Good_Evening_Alfred_Hitchcock_on_radio.htm",
+      "label": "Good Evening: Alfred Hitchcock on Radio by Charles Huck and Martin Grams, Jr.",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logs1024.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8000-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Jay Hickerson has a log."
+    },
+    {
+      "info": "Jerry Haendiges has a log"
+    },
+    {
+      "info": "According to Dunning, this ';was an extension of the old Screen Guild Theater under a different name.'"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "679",
+      "first": "Truman",
+      "last": "Bradley",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1207",
+      "first": "John",
+      "last": "Conte",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1433",
+      "first": "Delmer",
+      "last": "Daves",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1654",
+      "first": "Ellen",
+      "last": "Drew",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1687",
+      "first": "Douglass",
+      "last": "Dumbrille",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2332",
+      "first": "Stewart",
+      "last": "Granger",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3277",
+      "first": "Fuzzy",
+      "last": "Knight",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3458",
+      "first": "Anna",
+      "last": "Lee",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4569",
+      "first": "Franklin",
+      "last": "Pangborn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5160",
+      "first": "Mike",
+      "last": "Roy",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5596",
+      "first": "Robert",
+      "last": "Stack",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5923",
+      "first": "George",
+      "last": "Tobias",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7798",
+      "first": "Harry",
+      "last": "Ackerman",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "14786",
+      "first": "Harry",
+      "last": "Cronman",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "22415",
+      "first": "Bill",
+      "last": "Hampton",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "2",
+      "first": "Dana",
+      "last": "Andrews",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "503",
+      "first": "Ingrid",
+      "last": "Bergman",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "678",
+      "first": "Oscar",
+      "last": "Bradley",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "925",
+      "first": "Rod",
+      "last": "Cameron",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1323",
+      "first": "Bing",
+      "last": "Crosby",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "1471",
+      "first": "Yvonne",
+      "last": "De Carlo",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2566",
+      "first": "Wilbur",
+      "last": "Hatch",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2690",
+      "first": "Jean",
+      "last": "Hersholt",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2870",
+      "first": "Marsha",
+      "last": "Hunt",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3096",
+      "first": "Boris",
+      "last": "Karloff",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3323",
+      "first": "Jack",
+      "last": "Kruschen",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3352",
+      "first": "Veronica",
+      "last": "Lake",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3384",
+      "first": "Harry",
+      "last": "Lang",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3417",
+      "first": "Charles",
+      "last": "Laughton",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3478",
+      "first": "Richard",
+      "last": "Legrand",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4805",
+      "first": "Roger",
+      "last": "Pryor",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5178",
+      "first": "Wesley",
+      "last": "Ruggles",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5910",
+      "first": "Gene",
+      "last": "Tierney",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6236",
+      "first": "Clifton",
+      "last": "Webb",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "27680",
+      "first": "Nancy",
+      "last": "Leach",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "28414",
+      "first": "George",
+      "last": "Lloyd",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3853",
+      "first": "Herbert",
+      "last": "Marshall",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4068",
+      "first": "Tyler",
+      "last": "McVey",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4079",
+      "first": "Lal Chand",
+      "last": "Mehra",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4268",
+      "first": "Rusty",
+      "last": "Morris",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4310",
+      "first": "George",
+      "last": "Murphy",
+      "f": "Noted Role",
+      "character": "Emcee"
+    },
+    {
+      "idperson": "4482",
+      "first": "Merle",
+      "last": "Oberon",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4666",
+      "first": "Ruth",
+      "last": "Perrott",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4786",
+      "first": "Vincent",
+      "last": "Price",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4870",
+      "first": "Basil",
+      "last": "Rathbone",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4962",
+      "first": "Betty Jane",
+      "last": "Rhodes",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "5085",
+      "first": "Ginger",
+      "last": "Rogers",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5109",
+      "first": "Mickey",
+      "last": "Rooney",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5558",
+      "first": "Ann",
+      "last": "Sothern",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5618",
+      "first": "Barbara",
+      "last": "Stanwyck",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6894",
+      "first": "Mary",
+      "last": "Shipp",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7875",
+      "first": "Basil",
+      "last": "Adlam",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "50717",
+      "first": "Bud",
+      "last": "Hiestand",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3730",
+      "first": "Gilbert 'Gil'",
+      "last": "Mack",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5663",
+      "first": "Margot",
+      "last": "Stevenson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5831",
+      "first": "Robert",
+      "last": "Taylor",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5851",
+      "first": "Shirley",
+      "last": "Temple",
+      "f": "Noted Role",
+      "character": "First radio appearance"
+    },
+    {
+      "idperson": "5851",
+      "first": "Shirley",
+      "last": "Temple",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5949",
+      "first": "Audrey",
+      "last": "Totter",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6110",
+      "first": "Herb",
+      "last": "Vigran",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6522",
+      "first": "Loretta",
+      "last": "Young",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6525",
+      "first": "Robert",
+      "last": "Young",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "50403",
+      "first": "Jimmy",
+      "last": "Stewart",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "609",
+      "first": "Humphrey",
+      "last": "Bogart",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2940",
+      "first": "Johnny",
+      "last": "Jacobs",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1279",
+      "first": "Alexander",
+      "last": "Courage",
+      "f": "Noted Role",
+      "character": "Music"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "207",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "2008-04-01",
+      "source": "AirCheck/Aircheck_V17_05Apr08.pdf",
+      "idpytype2": "4",
+      "title": "Aircheck V17 _05 Apr 2008",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "344",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "1980-10-01",
+      "source": "Collectors Corner/CC_28_Fall_80.pdf",
+      "idpytype2": "4",
+      "title": "Collectors Corner #28 Fall 80",
+      "author": ""
+    },
+    {
+      "idprint": "1100",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1971-01-01",
+      "source": "Misc/Don_Maris_Flyer_(02)_71.pdf",
+      "idpytype2": "4",
+      "title": "Don Maris Flyer (02) 1971",
+      "author": ""
+    },
+    {
+      "idprint": "1101",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "1971-12-01",
+      "source": "Misc/Double_R_Radio_Flyer_(05)_Dec71.pdf",
+      "idpytype2": "4",
+      "title": "Double R Radio Flyer (05) Dec 1971",
+      "author": ""
+    },
+    {
+      "idprint": "1101",
+      "idtype": "4",
+      "page": "18",
+      "article": "",
+      "url": "",
+      "date": "1971-12-01",
+      "source": "Misc/Double_R_Radio_Flyer_(05)_Dec71.pdf",
+      "idpytype2": "4",
+      "title": "Double R Radio Flyer (05) Dec 1971",
+      "author": ""
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "387",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1980-03-01",
+      "source": "Hello Again/HA_V11_(03)_Mar80.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 11 #03 Mar 1980",
+      "author": ""
+    },
+    {
+      "idprint": "390",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1980-06-01",
+      "source": "Hello Again/HA_V11_(06)_Jun80.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 11 #06 Jun 1980",
+      "author": ""
+    },
+    {
+      "idprint": "393",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "1980-09-01",
+      "source": "Hello Again/HA_V11_(09)_Sep80.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 11 #09 Sep 1980",
+      "author": ""
+    },
+    {
+      "idprint": "400",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1981-04-01",
+      "source": "Hello Again/HA_V12_(04)_Apr81.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 12 #04 Apr 1981",
+      "author": ""
+    },
+    {
+      "idprint": "603",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1990-12-01",
+      "source": "Illustrated Press/IP_171.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #171 Dec 90",
+      "author": ""
+    },
+    {
+      "idprint": "616",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "1992-04-01",
+      "source": "Illustrated Press/IP_187.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #187 Apr 92",
+      "author": ""
+    },
+    {
+      "idprint": "628",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1993-04-01",
+      "source": "Illustrated Press/IP_199.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #199 Apr 93",
+      "author": ""
+    },
+    {
+      "idprint": "635",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1993-11-01",
+      "source": "Illustrated Press/IP_206.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #206 Nov 93",
+      "author": ""
+    },
+    {
+      "idprint": "722",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1977-08-01",
+      "source": "Illustrated Press/IP_014.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#14) - Aug 1977",
+      "author": ""
+    },
+    {
+      "idprint": "751",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1997-10-01",
+      "source": "Illustrated Press/IP_253.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#253) - Oct 1997",
+      "author": ""
+    },
+    {
+      "idprint": "764",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1998-12-01",
+      "source": "Illustrated Press/IP_265.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#265) - Dec 1998",
+      "author": ""
+    },
+    {
+      "idprint": "764",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1998-12-01",
+      "source": "Illustrated Press/IP_265.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#265) - Dec 1998",
+      "author": ""
+    },
+    {
+      "idprint": "765",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1999-01-01",
+      "source": "Illustrated Press/IP_266.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#266) - Jan 1999",
+      "author": ""
+    },
+    {
+      "idprint": "815",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1978-12-01",
+      "source": "Illustrated Press/IP_031.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (Extra) - Dec 1978",
+      "author": ""
+    },
+    {
+      "idprint": "1114",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_01.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #1",
+      "author": ""
+    },
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "1229",
+      "idtype": "4",
+      "page": "49",
+      "article": "",
+      "url": "",
+      "date": "2001-01-01",
+      "source": "NARA News/Nara News V29 01 Winter2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 01 Winter2001",
+      "author": ""
+    },
+    {
+      "idprint": "1235",
+      "idtype": "4",
+      "page": "47",
+      "article": "",
+      "url": "",
+      "date": "1979-07-01",
+      "source": "NARA News/NARA News V07 02 Summer79.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - Vol(07-02) Summer 1979",
+      "author": ""
+    },
+    {
+      "idprint": "1408",
+      "idtype": "4",
+      "page": "26",
+      "article": "",
+      "url": "",
+      "date": "1984-10-01",
+      "source": "Nostalgia Digest/NostalgiaDigest_V10_(06)OctNov84.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia Digest",
+      "author": ""
+    },
+    {
+      "idprint": "1410",
+      "idtype": "4",
+      "page": "26",
+      "article": "",
+      "url": "",
+      "date": "1985-02-01",
+      "source": "Nostalgia Digest/NostalgiaDigest_V11_(02)FebMar85.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia Digest",
+      "author": ""
+    },
+    {
+      "idprint": "1415",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "1983-10-01",
+      "source": "Nostalgia Digest/NostalgiaDigest_V09_(06)OctNov83.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia Digest - V09 (06) Oct-Nov83",
+      "author": ""
+    },
+    {
+      "idprint": "1417",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1986-12-01",
+      "source": "Nostalgia Digest/NostalgiaDigest_V12_(01)DecJan86.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia Digest - V12 (01) Dec-Jan86",
+      "author": ""
+    },
+    {
+      "idprint": "1418",
+      "idtype": "4",
+      "page": "26",
+      "article": "",
+      "url": "",
+      "date": "1986-02-01",
+      "source": "Nostalgia Digest/NostalgiaDigest_V12_(02)FebMar86.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia Digest - V12 (02) Feb-Mar86",
+      "author": ""
+    },
+    {
+      "idprint": "1427",
+      "idtype": "4",
+      "page": "18",
+      "article": "",
+      "url": "",
+      "date": "1987-08-01",
+      "source": "Nostalgia Digest/NostalgiaDigest_V13_(05)AugSep87.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia Digest - V13 (05) Aug-Sep87",
+      "author": ""
+    },
+    {
+      "idprint": "1373",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1979-07-01",
+      "source": "Nostalgia Newsletter/NostalgiaNewsLet_V05_(07)Jul79Aug79.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia_Newsletter_V05 (07) Jul79-Aug79",
+      "author": ""
+    },
+    {
+      "idprint": "1393",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1982-02-01",
+      "source": "Nostalgia Newsletter/NostalgiaNewsLet_V08_(02)FebMar82.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia_Newsletter_V08 (02) Feb-Mar82",
+      "author": ""
+    },
+    {
+      "idprint": "1397",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1982-10-01",
+      "source": "Nostalgia Newsletter/NostalgiaNewsLet_V08_(06)OctNov82.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia_Newsletter_V08 (06) Oct-Nov82",
+      "author": ""
+    },
+    {
+      "idprint": "1398",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "1982-12-01",
+      "source": "Nostalgia Newsletter/NostalgiaNewsLet_V09_(01)DecJan83.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia_Newsletter_V09 (01) Dec82-Jan83",
+      "author": ""
+    },
+    {
+      "idprint": "1401",
+      "idtype": "4",
+      "page": "18",
+      "article": "",
+      "url": "",
+      "date": "1983-06-01",
+      "source": "Nostalgia Newsletter/NostalgiaNewsLet_V09_(04)JunJul83.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia_Newsletter_V09 (04) Jun-Jul83",
+      "author": ""
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "25",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1586",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "2005-04-01",
+      "source": "OTR Digest_1990s/OTRDigest_(109)Spring05.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (109) Spring 2005",
+      "author": ""
+    },
+    {
+      "idprint": "1557",
+      "idtype": "4",
+      "page": "42",
+      "article": "",
+      "url": "",
+      "date": "1985-09-01",
+      "source": "OTR Digest_1980s/OTRDigest_(011)SepOct85.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (11) Sep-Oct 1985",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    },
+    {
+      "idprint": "1124",
+      "idtype": "4",
+      "page": "2",
+      "article": "",
+      "url": "",
+      "date": "1981-01-01",
+      "source": "Misc/Sandy_Hook_New_Releases.pdf",
+      "idpytype2": "4",
+      "title": "Sandy Hook New Releases",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "66",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "158",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "1587",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "2005-07-01",
+      "source": "OTR Digest_1990s/OTRDigest_(110)Summer05.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (110) Summer 2005",
+      "author": ""
+    },
+    {
+      "idprint": "2638",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "2008-08-01",
+      "source": "Sperdvac Radiogram/SR V33 11Aug08.pdf",
+      "idpytype2": "4",
+      "title": "SR V33 11Aug08",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "This program was originally a 90-minute variety program called 'The Screen Guild Show', hosted by George Murphy, with music by the Oscar Bradley orchestra, and with John Conte as announcer. Murphy was replaced by Roger Pryor and a 30-minute drama anthology format was adopted , along with the 'Screen Guild Theater' title. The program was sometimes referred to as 'Screen Guild Players', The Gulf Screen Guild Theater', 'The Lady Ester Screen Guild Playhouse', or 'The Lady Esther Screen Guild Players'. During 1942-1947 the show presented radio adaptations of movies, with music by Wilbur Hatch. From 1947-1950 Th program was sponsored by Camel cigarettes and is some times listed as 'The Camel Screen Guild Theater' In 1950 the format was changed to 60 minutes, with music by Basil Adlam and Michael Roy as announcer. (Radio of Old-Time Handbook p.535)"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Moon Love"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "319992",
+      "date": "1944-02-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Jack is not Going to Appear on the Show "
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Screen Guild Theater",
+          "name": "Screen Guild 44-02-27 Why Jack is not Going to Appear on the Show (AFRSFrontLineThea#123 'HamForSale'.mp3",
+          "time": "1702",
+          "size": "13613113"
+        }
+      ]
+    },
+    {
+      "ide": "133911",
+      "date": "1951-12-13",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It's a Wonderful Life"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars In The Air 1951.12.13 Its A Wonderful Life.mp3",
+          "time": "1804",
+          "size": "7324220"
+        }
+      ]
+    },
+    {
+      "ide": "133912",
+      "date": "1951-12-20",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "John Loves Mary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133913",
+      "date": "1951-12-27",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mr and Mrs Smith"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133914",
+      "date": "1952-01-03",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "You Belong to Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133915",
+      "date": "1952-01-10",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Take a Letter Darling"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133916",
+      "date": "1952-01-17",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Trouble with Women, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133917",
+      "date": "1952-01-24",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Enchantment"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars in the Air 52-01-24 (07) Enchantment.mp3",
+          "time": "1752",
+          "size": "28031114"
+        }
+      ]
+    },
+    {
+      "ide": "133918",
+      "date": "1952-01-31",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Started with Eve"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars in the Air 52-01-31 (08) It Started with Eve.mp3",
+          "time": "1799",
+          "size": "7198010"
+        }
+      ]
+    },
+    {
+      "ide": "133919",
+      "date": "1952-02-07",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yearling, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars in the Air 52-02-07 (09) The Yearling.mp3",
+          "time": "1799",
+          "size": "7198003"
+        }
+      ]
+    },
+    {
+      "ide": "133920",
+      "date": "1952-02-14",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Model Wife"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133921",
+      "date": "1952-02-21",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Suddenly It's Spring"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133922",
+      "date": "1952-02-28",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Bride Goes Wild, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133923",
+      "date": "1952-03-06",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paleface, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133924",
+      "date": "1952-03-13",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Good Sam"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133925",
+      "date": "1952-03-20",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Christmas in Connecticut"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133926",
+      "date": "1952-03-27",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Week-End for Three"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133927",
+      "date": "1952-04-03",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hail the Conquering Hero"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars in the Air 52-04-03 (17) Hail the Conquering Hero.mp3",
+          "time": "1730",
+          "size": "27680906"
+        }
+      ]
+    },
+    {
+      "ide": "133928",
+      "date": "1952-04-10",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "On Borrowed Time"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133929",
+      "date": "1952-04-17",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strange Love of Martha Ivers, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars in the Air 52-04-17 (19) The Strange Love of Martha Ivers.mp3",
+          "time": "1755",
+          "size": "28078218"
+        }
+      ]
+    },
+    {
+      "ide": "133930",
+      "date": "1952-04-24",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deep Waters"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars in the Air 52-04-24 (20) Deep Waters.mp3",
+          "time": "1757",
+          "size": "28121098"
+        }
+      ]
+    },
+    {
+      "ide": "133931",
+      "date": "1952-05-03",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House on 92nd Street, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars in the Air 52-05-03 (21) The House on 92nd Street.mp3",
+          "time": "1704",
+          "size": "6817349"
+        },
+        {
+          "path": "S",
+          "folder": "Screen Guild Theater",
+          "name": "Screen Guild Theater 39-05-28 (021) Revue, Guest - Nelson Eddy, Jim and Marian Jordan.mp3",
+          "time": "1735",
+          "size": "6942740"
+        }
+      ]
+    },
+    {
+      "ide": "133932",
+      "date": "1952-05-10",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jezebel"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars in the Air 52-05-10 (22) Jezebel.mp3",
+          "time": "1592",
+          "size": "25471114"
+        }
+      ]
+    },
+    {
+      "ide": "133933",
+      "date": "1952-05-17",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Night Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars In The Air",
+          "name": "Stars in the Air 52-05-17 (23) Night Song.mp3",
+          "time": "1769",
+          "size": "7075530"
+        },
+        {
+          "path": "S",
+          "folder": "Screen Guild Theater",
+          "name": "Screen Guild Theater 39-09-24 (023) Revue, Guest - Judy Garland, Mickey Rooney, Cary Grant (Begin Gulf Screen Theater).mp3",
+          "time": "1656",
+          "size": "6624270"
+        }
+      ]
+    },
+    {
+      "ide": "133934",
+      "date": "1952-05-24",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dark Corner, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133935",
+      "date": "1952-05-31",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Double Indemnity"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133936",
+      "date": "1952-06-07",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Kiss of Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "133937",
+      "date": "1952-06-14",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sun Comes Up, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-10-19",
+      "dow": "M",
+      "time": "10:00 PM",
+      "end": "1947-07-07",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-10-06",
+      "dow": "M",
+      "time": "10:30 AM",
+      "end": "1948-06-28",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1950-09-07",
+      "dow": "F",
+      "time": "8:00 PM",
+      "end": "1951-05-31",
+      "length": "60",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1939-01-08",
+      "dow": "Su",
+      "time": "7:30 PM",
+      "end": "1942-06-04",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1939-09-24",
+      "dow": "Su",
+      "time": "",
+      "end": "1940-04-21",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1940-09-29",
+      "dow": "Su",
+      "time": "",
+      "end": "1941-04-20",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1941-09-28",
+      "dow": "Su",
+      "time": "",
+      "end": "1942-04-19",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1948-10-07",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1949-06-30",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1949-10-06",
+      "dow": "Th",
+      "time": "9:00 PM",
+      "end": "1950-06-29",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1952-03-13",
+      "dow": "Su",
+      "time": "9:00 PM",
+      "end": "1952-06-29",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1951-12-13",
+      "dow": "Th",
+      "time": "9:31 PM",
+      "end": "1952-04-24",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1952-05-03",
+      "dow": "Sa",
+      "time": "10:00 PM",
+      "end": "1952-06-14",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Gulf Oil Corp.",
+      "begin": "1939-01-08",
+      "end": "1942-04-19"
+    },
+    {
+      "sponsor": "Lady Esther Company (cosmetics)",
+      "begin": "1942-10-19",
+      "end": "1947-07-07"
+    },
+    {
+      "sponsor": "R. J. Reynolds Camel Cigarettes",
+      "begin": "1947-10-06",
+      "end": "1950-06-29"
+    },
+    {
+      "sponsor": "Sustained",
+      "begin": "1950-09-07",
+      "end": "1951-05-31"
+    },
+    {
+      "sponsor": "Sustained",
+      "begin": "1951-12-13",
+      "end": "1952-06-04"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Screen Guild Theater"
+    },
+    {
+      "title": "Stars In The Air"
+    },
+    {
+      "title": "Hollywood Soundstage"
+    },
+    {
+      "title": "Screen Guild Show"
+    },
+    {
+      "title": "Gulf Screen Theater"
+    },
+    {
+      "title": "Lady Esther Screen Guild Theater"
+    },
+    {
+      "title": "Camel Screen Guild Players"
+    },
+    {
+      "title": "Gulf Screen Guild Show/Theater"
+    },
+    {
+      "title": "Lady Esther Screen Guild Theater"
+    },
+    {
+      "title": "Stars in the Air"
+    }
+  ]
+}

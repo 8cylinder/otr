@@ -1,0 +1,102 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Morning Matinee/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "246679",
+      "date": "1939-05-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Midmorning Matinee"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Morning Matinee",
+          "name": "Morning Matinee 39-05-31 (Ending clipped).mp3",
+          "time": "1216",
+          "size": "9725909"
+        },
+        {
+          "path": "M",
+          "folder": "Morning Matinee",
+          "name": "Morning Matinee 390531 (Ending Cut)_OTRRPG.mp3",
+          "time": "1211",
+          "size": "19450654"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1936-09-10",
+      "dow": "Th",
+      "time": "9:30 AM",
+      "end": "1937-03-04",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Morning Matinees"
+    }
+  ]
+}

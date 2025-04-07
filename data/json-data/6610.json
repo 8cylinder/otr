@@ -1,0 +1,76 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "49831",
+      "first": "Myra",
+      "last": "Kingsley",
+      "f": "Noted Role",
+      "character": "Astrologer"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Discussion"
+    },
+    {
+      "genre": "Information"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-09-07",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1938-03-03",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "H-O Oats",
+      "begin": "1937-09-07",
+      "end": "1938-03-04"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Myra Kingsley"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "17832",
+      "first": "Russ",
+      "last": "Emery",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "18542",
+      "first": "Nancy",
+      "last": "Evans",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "35",
+      "first": "Alfredo",
+      "last": "Antonini",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6488",
+      "first": "Earl",
+      "last": "Wrightson",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "100660",
+      "date": "1949-12-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Saturday Night in Central Park"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "100661",
+      "date": "1950-03-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brigadoon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "100662",
+      "date": "1950-05-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dream Is a Wish Your Heart Makes, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "100663",
+      "date": "1950-05-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "100664",
+      "date": "1950-06-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Foolish Heart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "100665",
+      "date": "1950-06-25",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dancing in the Dark"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "100666",
+      "date": "1951-07-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It's a Lovely Day Today"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-07-23",
+      "dow": "Su",
+      "time": "",
+      "end": "1950-08-27",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1951-07-29",
+      "dow": "Su",
+      "time": "",
+      "end": "1951-09-02",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1952-06-15",
+      "dow": "Su",
+      "time": "",
+      "end": "1952-08-03",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Main Street Music Hall"
+    }
+  ]
+}

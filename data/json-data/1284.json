@@ -1,0 +1,100 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19441945day.html",
+      "label": "Daytime Ratings: (1944-1945: #15)",
+      "idtype": "7"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1979",
+      "first": "Bernardine",
+      "last": "Flynn",
+      "f": "Noted Role",
+      "character": "[News commentary]"
+    },
+    {
+      "idperson": "1979",
+      "first": "Bernardine",
+      "last": "Flynn",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1979",
+      "first": "Bernardine",
+      "last": "Flynn",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "3247",
+      "first": "Durward",
+      "last": "Kirby",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321463",
+      "date": "1943-11-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Your Daytime Radio Newspaper"
+        }
+      ],
+      "files": [
+        {
+          "path": "Y",
+          "folder": "Your Daytime Radio Newspaper",
+          "name": "Your Daytime Radio Newspaper 1943.11.03 Your Daytime Radio Newspaper.mp3",
+          "time": "904",
+          "size": "3725421"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-09-27",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1945-06-29",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Daytime Radio Newspaper"
+    },
+    {
+      "title": "Bernadine Flynn"
+    },
+    {
+      "title": "Daytime Radio Reporter"
+    },
+    {
+      "title": "Daytime Newspaper"
+    }
+  ]
+}

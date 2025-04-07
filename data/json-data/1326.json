@@ -1,0 +1,74 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4962",
+      "first": "Betty Jane",
+      "last": "Rhodes",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321465",
+      "date": "1939-05-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song What Goes Up Must Come Down"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Betty Jane Rhodes",
+          "name": "Betty Jane Rhodes Show 1939.05.05 First Song What Goes Up Must Come Down.mp3",
+          "time": "883",
+          "size": "3638917"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Betty Jane Rhodes Show"
+    }
+  ]
+}

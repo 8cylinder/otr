@@ -1,0 +1,559 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185004-319873a1.jpg",
+      "label": "Absolute Power Jewel Case Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185005-cc1de803.jpg",
+      "label": "Absolute Power 02",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185006-2d6a9265.jpg",
+      "label": "Absolute Power 03",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Absolute Power - BBC/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2091",
+      "first": "Stephen",
+      "last": "Fry",
+      "f": "Noted Role",
+      "character": "Charles Prentiss"
+    },
+    {
+      "idperson": "2091",
+      "first": "Stephen",
+      "last": "Fry",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45785",
+      "first": "John",
+      "last": "Bird",
+      "f": "Noted Role",
+      "character": "Martin McCabe"
+    },
+    {
+      "idperson": "45785",
+      "first": "John",
+      "last": "Bird",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45947",
+      "first": "Siobhan",
+      "last": "Hayes",
+      "f": "Noted Role",
+      "character": "Sandy"
+    },
+    {
+      "idperson": "45947",
+      "first": "Siobhan",
+      "last": "Hayes",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46038",
+      "first": "Tom",
+      "last": "Mark",
+      "f": "Noted Role",
+      "character": "Clive"
+    },
+    {
+      "idperson": "46038",
+      "first": "Tom",
+      "last": "Mark",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46177",
+      "first": "Mark",
+      "last": "Tavener",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "13174",
+      "date": "2000-01-05",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Conservate Party"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2000-01-05)(s01e01)Conservative Party.mp3",
+          "time": "1656",
+          "size": "26497024"
+        }
+      ]
+    },
+    {
+      "ide": "13175",
+      "date": "2000-01-12",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Relaunch Of The Sun"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2000-01-12)(s01e02)Relaunch Of The Sun.mp3",
+          "time": "1676",
+          "size": "26812416"
+        }
+      ]
+    },
+    {
+      "ide": "13176",
+      "date": "2000-01-19",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mayor Of London"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2000-01-19)(s01e03)Mayor Of London.mp3",
+          "time": "1614",
+          "size": "25829376"
+        }
+      ]
+    },
+    {
+      "ide": "13177",
+      "date": "2000-01-26",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Church Of England, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2000-01-26)(s01e04)The Church Of England.mp3",
+          "time": "1594",
+          "size": "25501696"
+        }
+      ]
+    },
+    {
+      "ide": "13178",
+      "date": "2000-02-02",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Radio 3"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2000-02-02)(s01e05)Radio 3.mp3",
+          "time": "1587",
+          "size": "25399296"
+        }
+      ]
+    },
+    {
+      "ide": "13179",
+      "date": "2000-02-09",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "English Sporting Success"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2000-02-09)(s01e06)English Sporting Success.mp3",
+          "time": "1602",
+          "size": "25628672"
+        }
+      ]
+    },
+    {
+      "ide": "13180",
+      "date": "2001-01-30",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Martin is Bored"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2001-01-30)(s02e01)Martin Is Bored.mp3",
+          "time": "1618",
+          "size": "25887974"
+        }
+      ]
+    },
+    {
+      "ide": "13181",
+      "date": "2001-02-06",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Promoting Philosophy"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2001-02-06)(s02e02)Promoting Philosophy.mp3",
+          "time": "1678",
+          "size": "26849280"
+        }
+      ]
+    },
+    {
+      "ide": "13182",
+      "date": "2001-02-13",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Relaunching a Literary Career"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2001-02-13)(s02e03)RelaunchingALiteraryCareer.mp3",
+          "time": "1671",
+          "size": "26739357"
+        }
+      ]
+    },
+    {
+      "ide": "13183",
+      "date": "2001-02-20",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Elderly Initiative, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2001-02-20)(s02e04)The Elderly Initiative.mp3",
+          "time": "1677",
+          "size": "26835487"
+        }
+      ]
+    },
+    {
+      "ide": "13184",
+      "date": "2001-02-27",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prison Reform"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2001-02-27)(s02e05)Prison Reform.mp3",
+          "time": "1628",
+          "size": "26053486"
+        }
+      ]
+    },
+    {
+      "ide": "13185",
+      "date": "2001-03-06",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gayle Shand"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2001-03-06)(s02e06)Gayle Shand.mp3",
+          "time": "1674",
+          "size": "26783660"
+        }
+      ]
+    },
+    {
+      "ide": "13186",
+      "date": "2002-01-01",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poking The PM"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2002-01-01)(s03e01)Poking The PM.mp3",
+          "time": "1681",
+          "size": "26897721"
+        }
+      ]
+    },
+    {
+      "ide": "13187",
+      "date": "2002-01-08",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Health Service"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2002-01-08)(s03e02)Health Service.mp3",
+          "time": "1678",
+          "size": "26854254"
+        }
+      ]
+    },
+    {
+      "ide": "13188",
+      "date": "2002-01-15",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Brother"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2002-01-15)(s03e03)Big Brother.mp3",
+          "time": "1664",
+          "size": "26626048"
+        }
+      ]
+    },
+    {
+      "ide": "13189",
+      "date": "2002-01-22",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tennis Star, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2002-01-22)(s03e04)A Tennis Star.mp3",
+          "time": "1676",
+          "size": "26820399"
+        }
+      ]
+    },
+    {
+      "ide": "13190",
+      "date": "2002-01-29",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Men"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2002-01-29)(s03e05)Men.mp3",
+          "time": "1667",
+          "size": "26669934"
+        }
+      ]
+    },
+    {
+      "ide": "13191",
+      "date": "2004-02-05",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "BBC, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2004-02-05)(s04e01)The BBC.mp3",
+          "time": "1606",
+          "size": "25694835"
+        }
+      ]
+    },
+    {
+      "ide": "13192",
+      "date": "2004-02-12",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Notion Of Nation, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2004-02-12)(s04e02)Untitled.mp3",
+          "time": "1683",
+          "size": "26934920"
+        }
+      ]
+    },
+    {
+      "ide": "13193",
+      "date": "2004-02-19",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Healthy Eating"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2004-02-19)(s04e03)Untitled.mp3",
+          "time": "1683",
+          "size": "26926561"
+        }
+      ]
+    },
+    {
+      "ide": "13194",
+      "date": "2004-02-26",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "US Presidential Campaign"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Absolute Power - BBC",
+          "name": "Absolute Power (2004-02-26)(s04e04)Untitled.mp3",
+          "time": "1566",
+          "size": "25057865"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Absolute Power"
+    }
+  ]
+}

@@ -1,0 +1,1398 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Story Behind The Song/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Story-Behind-The-Song.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Story-Behind-The-Song.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8517-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6305",
+      "first": "Bob",
+      "last": "White",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "6305",
+      "first": "Bob",
+      "last": "White",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "39625",
+      "first": "Don",
+      "last": "Ameche",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "40321",
+      "first": "Edward",
+      "last": "Vito",
+      "f": "Noted Role",
+      "character": "Harpist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "134812",
+      "date": "1931-05-14",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Star Spangled Banner, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-05-14 (01) The Star Spangled Banner.mp3",
+          "time": "869",
+          "size": "8689812"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-05-14 (01) The Star Spangled Banner.mp3",
+          "time": "869",
+          "size": "8689812"
+        }
+      ]
+    },
+    {
+      "ide": "134813",
+      "date": "1931-05-21",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blest Be The Tie That Binds"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-05-21 (02) Blest Be The Tie That Binds.mp3",
+          "time": "866",
+          "size": "8661140"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-05-21 (02) Blest Be The Tie That Binds.mp3",
+          "time": "866",
+          "size": "8661140"
+        }
+      ]
+    },
+    {
+      "ide": "134814",
+      "date": "1931-05-28",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "La Marseillaise"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-05-28 (03) La Marseillaise.mp3",
+          "time": "868",
+          "size": "8683668"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-05-28 (03) La Marseillaise.mp3",
+          "time": "868",
+          "size": "8683668"
+        }
+      ]
+    },
+    {
+      "ide": "134815",
+      "date": "1931-06-04",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Old Kentucky Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-06-04 (04) My Old Kentucky Home.mp3",
+          "time": "863",
+          "size": "8632468"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-06-04 (04) My Old Kentucky Home.mp3",
+          "time": "863",
+          "size": "8632468"
+        }
+      ]
+    },
+    {
+      "ide": "134816",
+      "date": "1931-06-11",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "There's No Place Like Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-06-11 (05) There's No Place Like Home.mp3",
+          "time": "866",
+          "size": "8663188"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-06-11 (05) There's No Place Like Home.mp3",
+          "time": "866",
+          "size": "8663188"
+        }
+      ]
+    },
+    {
+      "ide": "134817",
+      "date": "1931-06-18",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Maryland My Maryland"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-06-18 (06) Maryland My Maryland.mp3",
+          "time": "869",
+          "size": "8689812"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-06-18 (06) Maryland, My Maryland.mp3",
+          "time": "869",
+          "size": "8689812"
+        }
+      ]
+    },
+    {
+      "ide": "134818",
+      "date": "1931-06-25",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sound Of A Great Amen, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-06-25 (07) The Sound Of A Great Amen.mp3",
+          "time": "871",
+          "size": "8714388"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-06-25 (07) The Sound Of A Great Amen.mp3",
+          "time": "871",
+          "size": "8714388"
+        }
+      ]
+    },
+    {
+      "ide": "134819",
+      "date": "1931-07-02",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Annie Laurie"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-07-02 (08) Annie Laurie.mp3",
+          "time": "868",
+          "size": "8681620"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-07-02 (08) Annie Laurie.mp3",
+          "time": "868",
+          "size": "8681620"
+        }
+      ]
+    },
+    {
+      "ide": "134820",
+      "date": "1931-07-09",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "And I Shall See Him Face To Face"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-07-09 (09) And I Shall See Him Face To Face.mp3",
+          "time": "871",
+          "size": "8710292"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-07-09 (09) And I Shall See Him Face To Face.mp3",
+          "time": "871",
+          "size": "8710292"
+        }
+      ]
+    },
+    {
+      "ide": "134821",
+      "date": "1931-07-16",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missouri Waltz"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-07-16 (10) Missouri Waltz.mp3",
+          "time": "860",
+          "size": "8599700"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-07-16 (10) Missouri Waltz.mp3",
+          "time": "860",
+          "size": "8599700"
+        }
+      ]
+    },
+    {
+      "ide": "134822",
+      "date": "1931-07-23",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Serenady"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-07-23 (11) Serenady.mp3",
+          "time": "870",
+          "size": "8704148"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-07-23 (11) Serenady.mp3",
+          "time": "870",
+          "size": "8704148"
+        }
+      ]
+    },
+    {
+      "ide": "134823",
+      "date": "1931-07-30",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hold The Fort For I Am Coming"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-07-30 (12) Hold The Fort For I Am Coming.mp3",
+          "time": "845",
+          "size": "8454292"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-07-30 (12) Hold The Fort For I Am Coming.mp3",
+          "time": "845",
+          "size": "8454292"
+        }
+      ]
+    },
+    {
+      "ide": "134824",
+      "date": "1931-08-07",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Confusion"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-08-07 (13) Confusion.mp3",
+          "time": "865",
+          "size": "8648852"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-08-07 (13) Confusion.mp3",
+          "time": "865",
+          "size": "8648852"
+        }
+      ]
+    },
+    {
+      "ide": "134825",
+      "date": "1931-08-14",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sweet Adeline"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-08-14 (14) Sweet Adeline.mp3",
+          "time": "868",
+          "size": "8685716"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-08-14 (14) Sweet Adeline.mp3",
+          "time": "868",
+          "size": "8685716"
+        }
+      ]
+    },
+    {
+      "ide": "134826",
+      "date": "1931-08-21",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "124th Psalm"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-08-21 (15) 124th Psalm.mp3",
+          "time": "866",
+          "size": "8663188"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-08-21 (15) 124th Psalm.mp3",
+          "time": "866",
+          "size": "8663188"
+        }
+      ]
+    },
+    {
+      "ide": "134827",
+      "date": "1931-08-28",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Black Joe"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-08-28 (16) Old Black Joe.mp3",
+          "time": "868",
+          "size": "8679572"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-08-28 (16) Old Black Joe.mp3",
+          "time": "868",
+          "size": "8679572"
+        }
+      ]
+    },
+    {
+      "ide": "134828",
+      "date": "1931-09-04",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "By James Lawson"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-09-04 (17) By James Lawson.mp3",
+          "time": "875",
+          "size": "8747156"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-09-04 (17) By James Lawson.mp3",
+          "time": "875",
+          "size": "8747156"
+        }
+      ]
+    },
+    {
+      "ide": "134829",
+      "date": "1931-09-11",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robin O'Dare"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-09-11 (18) Robin O'Dare.mp3",
+          "time": "867",
+          "size": "8669332"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-09-11 (18) Robin O'Dare.mp3",
+          "time": "867",
+          "size": "8669332"
+        }
+      ]
+    },
+    {
+      "ide": "134830",
+      "date": "1931-09-18",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "God Preserve The Emperor"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-09-18 (19) God Preserve The Emperor.mp3",
+          "time": "868",
+          "size": "8677524"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-09-18 (19) God Preserve The Emperor.mp3",
+          "time": "868",
+          "size": "8677524"
+        }
+      ]
+    },
+    {
+      "ide": "134831",
+      "date": "1931-09-25",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Folks At Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-09-25 (20) Old Folks At Home.mp3",
+          "time": "867",
+          "size": "8669332"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-09-25 (20) Old Folks At Home.mp3",
+          "time": "867",
+          "size": "8669332"
+        }
+      ]
+    },
+    {
+      "ide": "134832",
+      "date": "1931-10-02",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Britannia"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-10-02 (21) Britannia.mp3",
+          "time": "864",
+          "size": "8638612"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-10-02 (21) Britannia.mp3",
+          "time": "864",
+          "size": "8638612"
+        }
+      ]
+    },
+    {
+      "ide": "134833",
+      "date": "1931-10-09",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle Hymn of the Republic, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-10-09 (22) The Battle Hymn of the Republic .mp3",
+          "time": "868",
+          "size": "8679572"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-10-09 (22) The Battle Hymn of the Republic (2).mp3",
+          "time": "868",
+          "size": "8679572"
+        }
+      ]
+    },
+    {
+      "ide": "134834",
+      "date": "1931-10-16",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rock Of Ages"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-10-16 (23) Rock Of Ages.mp3",
+          "time": "861",
+          "size": "8614036"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-10-16 (23) Rock Of Ages.mp3",
+          "time": "861",
+          "size": "8614036"
+        }
+      ]
+    },
+    {
+      "ide": "134835",
+      "date": "1931-10-23",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After The Ball"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-10-23 (24) After The Ball.mp3",
+          "time": "868",
+          "size": "8679572"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "The Story Behind The Song 31-10-23 (24) After The Ball.mp3",
+          "time": "868",
+          "size": "8679572"
+        }
+      ]
+    },
+    {
+      "ide": "134836",
+      "date": "1931-10-30",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gentle Annie"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 311030 25 Gentle Annie_OTRRPG.mp3",
+          "time": "878",
+          "size": "14124932"
+        }
+      ]
+    },
+    {
+      "ide": "134837",
+      "date": "1931-11-06",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hail Columbia"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 311106 26 Hail Columbia_OTRRPG.mp3",
+          "time": "863",
+          "size": "13885025"
+        }
+      ]
+    },
+    {
+      "ide": "134838",
+      "date": "1931-11-13",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vacant Chair, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 311113 27 The Vacant Chair_OTRRPG.mp3",
+          "time": "878",
+          "size": "14125354"
+        }
+      ]
+    },
+    {
+      "ide": "134839",
+      "date": "1931-11-20",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Scots Wha Hae Wi' Wallace Bled"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 311120 28 Scots Wha Hae Wi' Wallace Bled_OTRRPG.mp3",
+          "time": "888",
+          "size": "14285029"
+        }
+      ]
+    },
+    {
+      "ide": "134840",
+      "date": "1931-11-27",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "St. Louis Blues, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 311127 29 The St. Louis Blues_OTRRPG.mp3",
+          "time": "878",
+          "size": "14124939"
+        }
+      ]
+    },
+    {
+      "ide": "134841",
+      "date": "1931-12-04",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle Cry Of Freedom"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 311204 30 Battle Cry of Freedom_OTRRPG.mp3",
+          "time": "878",
+          "size": "14124941"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 31-12-04 (30) Battle Cry Of Freedom.mp3",
+          "time": "873",
+          "size": "6987786"
+        },
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind the Song 31-xx-xx (30) Battle Cry of Freedom by George Root - OTRCAT.com.mp3",
+          "time": "873",
+          "size": "6986025"
+        }
+      ]
+    },
+    {
+      "ide": "134842",
+      "date": "1931-12-11",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Grandfather's Clock"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 311211 31 My Grandfather's Clock_OTRRPG.mp3",
+          "time": "878",
+          "size": "14129958"
+        }
+      ]
+    },
+    {
+      "ide": "134843",
+      "date": "1931-12-18",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Girl I Left Behind Me, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 311218 32 The Girl I Left Behind Me_OTRRPG.mp3",
+          "time": "878",
+          "size": "14124945"
+        }
+      ]
+    },
+    {
+      "ide": "134844",
+      "date": "1931-12-25",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Come Where My Love Lies Dreaming"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 311225 33 Come Where My Love Lies Dreaming_OTRRPG.mp3",
+          "time": "878",
+          "size": "14129968"
+        }
+      ]
+    },
+    {
+      "ide": "134845",
+      "date": "1932-01-01",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hot Time in the Old Town"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 320101 34 Hot Time In The Old Town_OTRRPG.mp3",
+          "time": "878",
+          "size": "14127870"
+        }
+      ]
+    },
+    {
+      "ide": "134846",
+      "date": "1932-01-08",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kathleen Mavourneen"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 320108 35 Kathleen Mavourneen_OTRRPG.mp3",
+          "time": "878",
+          "size": "14125357"
+        }
+      ]
+    },
+    {
+      "ide": "134847",
+      "date": "1932-01-15",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Upidee"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Story Behind The Song",
+          "name": "Story Behind The Song 320115 36 Upidee_OTRRPG.mp3",
+          "time": "879",
+          "size": "14140809"
+        }
+      ]
+    },
+    {
+      "ide": "134848",
+      "date": "1932-01-22",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beautiful Dreamer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "134849",
+      "date": "1932-01-29",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wearin' Of The Green, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "134850",
+      "date": "1934-11-19",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Auld Lang Syne"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "134851",
+      "date": "1934-11-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134852",
+      "date": "1934-11-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134853",
+      "date": "1934-11-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134854",
+      "date": "1934-12-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134855",
+      "date": "1934-12-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134856",
+      "date": "1934-12-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134857",
+      "date": "1934-12-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134858",
+      "date": "1934-12-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134859",
+      "date": "1934-12-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134860",
+      "date": "1934-12-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134861",
+      "date": "1934-12-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134862",
+      "date": "1934-12-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134863",
+      "date": "1935-01-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134864",
+      "date": "1935-01-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134865",
+      "date": "1935-01-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134866",
+      "date": "1935-01-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134867",
+      "date": "1935-01-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134868",
+      "date": "1935-01-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134869",
+      "date": "1935-01-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134870",
+      "date": "1935-01-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134871",
+      "date": "1935-01-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134872",
+      "date": "1935-02-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134873",
+      "date": "1935-02-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134874",
+      "date": "1935-02-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134875",
+      "date": "1935-02-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134876",
+      "date": "1935-02-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134877",
+      "date": "1935-02-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134878",
+      "date": "1935-02-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134879",
+      "date": "1935-02-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134880",
+      "date": "1935-03-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134881",
+      "date": "1935-03-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134882",
+      "date": "1935-03-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134883",
+      "date": "1935-03-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134884",
+      "date": "1935-03-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134885",
+      "date": "1935-03-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134886",
+      "date": "1935-03-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134887",
+      "date": "1935-03-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "134888",
+      "date": "1935-04-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1931-05-14",
+      "dow": "Tu",
+      "time": "10:00 PM",
+      "end": "1931-07-30",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1934-11-19",
+      "dow": "M,Th",
+      "time": "1:30 PM",
+      "end": "1935-04-01",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Roque Cheese",
+      "begin": "1934-11-19",
+      "end": "1935-04-01"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Story Behind the Song, The"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "STAG"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Stagestruck/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "brisbin.net/Tracy-Hepburn/radio.html",
+      "label": "Tracy and Hepburn on the Radio",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Thanks to Andrew Steinberg for some additional information and corrections!"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "5657",
+      "first": "Leslie",
+      "last": "Stevens",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6100",
+      "first": "Gwen",
+      "last": "Verdon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6163",
+      "first": "Mike",
+      "last": "Wallace",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "6557",
+      "first": "Noel",
+      "last": "Coward",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6557",
+      "first": "Noel",
+      "last": "Coward",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "2342",
+      "first": "Ben",
+      "last": "Grauer",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Behind the scenes of Broadway."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311204",
+      "date": "1954-03-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stagestruck 54-03-21 The Life and Career Of Florenz Ziegfeld"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Stagestruck 54-03-21 The Life and Career Of Florenz Ziegfeld.mp3",
+          "time": "3597",
+          "size": "57558439"
+        }
+      ]
+    },
+    {
+      "ide": "315110",
+      "date": "1954-04-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Major Studios Anniversary"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stagestruck",
+          "name": "Stage Struck 540418 Major Studios Anniversary (1st Half Only)_OTRRPG.mp3",
+          "time": "1838",
+          "size": "29492042"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1953-10-02",
+      "dow": "F",
+      "time": "8:30 PM",
+      "end": "1953-11-13",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1953-11-13",
+      "dow": "F",
+      "time": "9:00 PM",
+      "end": "1954-01-10",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1954-01-10",
+      "dow": "F,Su",
+      "time": "5:00 PM",
+      "end": "1954-05-02",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Stage Struck"
+    },
+    {
+      "title": "Stagestruck"
+    }
+  ]
+}

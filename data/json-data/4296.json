@@ -1,0 +1,504 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/G Series/Guess Who/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-4296-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1587",
+      "first": "Peter",
+      "last": "Donald",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4469",
+      "first": "Walter",
+      "last": "O'Keefe",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "409",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1992-05-01",
+      "source": "Hello Again/HA_V23_(03)_MayJun92.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 23 #03 May/Jun 1992",
+      "author": ""
+    },
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "279391",
+      "date": "1944-05-20",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Recording - Deanna Durbin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "313695",
+      "date": "1945-05-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Recording Is Al Smith"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 450517 xxx 1st Recording Is Al Smith_OTRRPG.mp3",
+          "time": "1720",
+          "size": "27604716"
+        }
+      ]
+    },
+    {
+      "ide": "313696",
+      "date": "1945-09-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Recording Is Jane Russell"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 450906 xxx 1st Recording Is Jane Russell_OTRRPG.mp3",
+          "time": "1715",
+          "size": "27514022"
+        }
+      ]
+    },
+    {
+      "ide": "308538",
+      "date": "1946-09-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Miss Darcey Rigmy (cleaned)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 460914 - 1st Miss Darcey Rigmy (cleaned).mp3",
+          "time": "1769",
+          "size": "14151001"
+        }
+      ]
+    },
+    {
+      "ide": "308539",
+      "date": "1946-09-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Mrs. Emma Doodey (cleaned)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 460921 - 1st Mrs. Emma Doodey (cleaned).mp3",
+          "time": "1778",
+          "size": "14227961"
+        }
+      ]
+    },
+    {
+      "ide": "308540",
+      "date": "1946-09-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Aaron Kraft (cleaned)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 460928 - 1st Aaron Kraft (cleaned).mp3",
+          "time": "1779",
+          "size": "14230041"
+        }
+      ]
+    },
+    {
+      "ide": "308541",
+      "date": "1946-10-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Phyllis Adams (cleaned)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 461012 - 1st Phyllis Adams (cleaned).mp3",
+          "time": "1764",
+          "size": "14111689"
+        }
+      ]
+    },
+    {
+      "ide": "308542",
+      "date": "1946-10-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Bertha Hoenig (cleaned)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 461019 - 1st Bertha Hoenig (cleaned).mp3",
+          "time": "1778",
+          "size": "14222969"
+        }
+      ]
+    },
+    {
+      "ide": "308543",
+      "date": "1946-10-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st contestant Paul Hicks (cleaned)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 461026 - 1st contestant Paul Hicks (cleaned).mp3",
+          "time": "1774",
+          "size": "14188441"
+        }
+      ]
+    },
+    {
+      "ide": "308544",
+      "date": "1946-11-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st contestant Lydia Mitling (cleaned)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 461102 - 1st contestant Lydia Mitling (cleaned).mp3",
+          "time": "1765",
+          "size": "14120633"
+        }
+      ]
+    },
+    {
+      "ide": "308545",
+      "date": "1946-11-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st contestant Eva Bander (cleaned)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 461109 - 1st contestant Eva Bander (cleaned).mp3",
+          "time": "1766",
+          "size": "14125625"
+        }
+      ]
+    },
+    {
+      "ide": "308546",
+      "date": "1946-11-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Mrs. Mister - Pt. 01 damaged (cleaned)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 461116 - 1st Mrs. Mister - Pt. 01 damaged (cleaned).mp3",
+          "time": "1572",
+          "size": "12573113"
+        }
+      ]
+    },
+    {
+      "ide": "308547",
+      "date": "1946-11-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st contestant Donald Ormascher (cleaned)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 461123 - 1st contestant Donald Ormascher (cleaned).mp3",
+          "time": "1774",
+          "size": "14189481"
+        }
+      ]
+    },
+    {
+      "ide": "279392",
+      "date": "1947-05-17",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Recording - Al Smith"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "279393",
+      "date": "1947-08-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Recording - John Barrymore"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 470823 xxx 1st Recording Is John Barrymore_OTRRPG.mp3",
+          "time": "1644",
+          "size": "26380519"
+        }
+      ]
+    },
+    {
+      "ide": "279394",
+      "date": "1947-08-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Recording - Lucille Ball"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 470830 xxx 1st Recording Is Lucille Ball_OTRRPG.mp3",
+          "time": "1717",
+          "size": "27543697"
+        }
+      ]
+    },
+    {
+      "ide": "279395",
+      "date": "1947-09-06",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Recording - Jane Russell"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "279396",
+      "date": "1947-09-13",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Recording - William Powell"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 470913 xxx 1st Recording Is William Powell_OTRRPG.mp3",
+          "time": "1707",
+          "size": "27396160"
+        }
+      ]
+    },
+    {
+      "ide": "279397",
+      "date": "1947-09-20",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Recording - Skinnay Ennis"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 470920 xxx 1st Recording Is Skinnay Ennis_OTRRPG.mp3",
+          "time": "1707",
+          "size": "27399085"
+        }
+      ]
+    },
+    {
+      "ide": "279398",
+      "date": "1947-10-04",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Recording - Francis Craig"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 471004 xxx 1st Recording Is Frances Craig_OTRRPG.mp3",
+          "time": "1700",
+          "size": "27278294"
+        }
+      ]
+    },
+    {
+      "ide": "279399",
+      "date": "1947-10-11",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Recording - Doris Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Guess Who",
+          "name": "Guess Who 471011 xxx 1st Recording Is Doris Day_OTRRPG.mp3",
+          "time": "1710",
+          "size": "27431681"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1944-04-08",
+      "dow": "Sa",
+      "time": "7:00 PM",
+      "end": "1949-04-30",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Guess Who?"
+    }
+  ]
+}

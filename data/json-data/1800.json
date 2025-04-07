@@ -1,0 +1,98 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.karloff.com/radio.html",
+      "label": "Radio Programs Featuring Boris Karloff",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2503",
+      "first": "Cedric",
+      "last": "Hardwicke",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312790",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Drama about Life in a London Air Raid Shelter, with Wendy Barrie"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bundles For Britain",
+          "name": "Bundles for Britain 40xxxx xxx Drama about Life in a London Air Raid Shelter, with Wendy Barrie_OTRRPG.mp3",
+          "time": "871",
+          "size": "13951168"
+        },
+        {
+          "path": "B",
+          "folder": "Bundles For Britain",
+          "name": "Bundles For Britain 4x-xx-xx Guest - Wendy Barrie.mp3",
+          "time": "871",
+          "size": "13939942"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1940-00-00",
+      "dow": "Su",
+      "time": "3:00 PM",
+      "end": "1941-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Bundles for Britain"
+    }
+  ]
+}

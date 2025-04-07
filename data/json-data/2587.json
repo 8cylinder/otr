@@ -1,0 +1,987 @@
+{
+  "avail": [
+    {
+      "avail": "52",
+      "idprint": "-1",
+      "web": "www.otrr.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [
+    {
+      "code": "CORS"
+    }
+  ],
+  "known": [
+    {
+      "known": "52",
+      "idprint": "-1",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322174618-01f99b46.jpg",
+      "label": "Corsican Brothers CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2587-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Corsican%20Brothers,%20The/",
+      "label": "Library Files",
+      "idtype": "16"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "7928",
+      "first": "Owen",
+      "last": "Ainley",
+      "f": "Noted Role",
+      "character": "Cpt Chateau-Renaud"
+    },
+    {
+      "idperson": "14677",
+      "first": "Howard",
+      "last": "Craven",
+      "f": "Noted Role",
+      "character": "Lucien"
+    },
+    {
+      "idperson": "41300",
+      "first": "Eric",
+      "last": "Scott",
+      "f": "Noted Role",
+      "character": "Pierre"
+    },
+    {
+      "idperson": "49867",
+      "first": "Nell",
+      "last": "Stirling",
+      "f": "Noted Role",
+      "character": "Marianne"
+    },
+    {
+      "idperson": "49904",
+      "first": "Alan",
+      "last": "Cuthbertson",
+      "f": "Noted Role",
+      "character": "Louis"
+    },
+    {
+      "idperson": "49905",
+      "first": "Jean",
+      "last": "Robertson",
+      "f": "Noted Role",
+      "character": "Madam de Franchin"
+    },
+    {
+      "idperson": "49906",
+      "first": "Jessica",
+      "last": "Noad",
+      "f": "Noted Role",
+      "character": "Annette"
+    },
+    {
+      "idperson": "49907",
+      "first": "Mary",
+      "last": "Hosking",
+      "f": "Noted Role",
+      "character": "Aunt  Cecily"
+    },
+    {
+      "idperson": "49908",
+      "first": "Bettie",
+      "last": "Dickson",
+      "f": "Noted Role",
+      "character": "Emilie"
+    },
+    {
+      "idperson": "49909",
+      "first": "Waren",
+      "last": "Barry",
+      "f": "Noted Role",
+      "character": "Dino"
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "317941",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (01) Episode 01.mp3",
+          "time": "791",
+          "size": "3164954"
+        }
+      ]
+    },
+    {
+      "ide": "317950",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (10) Episode 10.mp3",
+          "time": "774",
+          "size": "3097036"
+        }
+      ]
+    },
+    {
+      "ide": "317951",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (11) Episode 11.mp3",
+          "time": "766",
+          "size": "3065689"
+        }
+      ]
+    },
+    {
+      "ide": "317952",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (12) Episode 12.mp3",
+          "time": "769",
+          "size": "3079481"
+        }
+      ]
+    },
+    {
+      "ide": "317953",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (13) Episode 13.mp3",
+          "time": "782",
+          "size": "3129846"
+        }
+      ]
+    },
+    {
+      "ide": "317954",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (14) Episode 14.mp3",
+          "time": "775",
+          "size": "3102678"
+        }
+      ]
+    },
+    {
+      "ide": "317955",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (15) Episode 15.mp3",
+          "time": "767",
+          "size": "3068197"
+        }
+      ]
+    },
+    {
+      "ide": "317956",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (16) Episode 16.mp3",
+          "time": "790",
+          "size": "3163491"
+        }
+      ]
+    },
+    {
+      "ide": "317957",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (17) Episode 17.mp3",
+          "time": "778",
+          "size": "3111873"
+        }
+      ]
+    },
+    {
+      "ide": "317958",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (18) Episode 18.mp3",
+          "time": "750",
+          "size": "3002995"
+        }
+      ]
+    },
+    {
+      "ide": "317959",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (19) Episode 19.mp3",
+          "time": "765",
+          "size": "3062972"
+        }
+      ]
+    },
+    {
+      "ide": "317942",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (02) Episode 02.mp3",
+          "time": "812",
+          "size": "3251472"
+        }
+      ]
+    },
+    {
+      "ide": "317960",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (20) Episode 20.mp3",
+          "time": "792",
+          "size": "3170806"
+        }
+      ]
+    },
+    {
+      "ide": "317961",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (21) Episode 21.mp3",
+          "time": "768",
+          "size": "3074048"
+        }
+      ]
+    },
+    {
+      "ide": "317962",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (22) Episode 22.mp3",
+          "time": "776",
+          "size": "3105186"
+        }
+      ]
+    },
+    {
+      "ide": "317963",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (23) Episode 23.mp3",
+          "time": "773",
+          "size": "3093901"
+        }
+      ]
+    },
+    {
+      "ide": "317964",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (24) Episode 24.mp3",
+          "time": "728",
+          "size": "2914597"
+        }
+      ]
+    },
+    {
+      "ide": "317965",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (25) Episode 25.mp3",
+          "time": "775",
+          "size": "3100379"
+        }
+      ]
+    },
+    {
+      "ide": "317966",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (26) Episode 26.mp3",
+          "time": "791",
+          "size": "3167253"
+        }
+      ]
+    },
+    {
+      "ide": "317967",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (27) Episode 27.mp3",
+          "time": "747",
+          "size": "2989411"
+        }
+      ]
+    },
+    {
+      "ide": "317968",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (28) Episode 28.mp3",
+          "time": "746",
+          "size": "2986695"
+        }
+      ]
+    },
+    {
+      "ide": "317969",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (29) Episode 29.mp3",
+          "time": "776",
+          "size": "3105813"
+        }
+      ]
+    },
+    {
+      "ide": "317943",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (03) Episode 03.mp3",
+          "time": "784",
+          "size": "3135906"
+        }
+      ]
+    },
+    {
+      "ide": "317970",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (30) Episode 30.mp3",
+          "time": "785",
+          "size": "3142384"
+        }
+      ]
+    },
+    {
+      "ide": "317971",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (31) Episode 31.mp3",
+          "time": "777",
+          "size": "3111246"
+        }
+      ]
+    },
+    {
+      "ide": "317972",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (32) Episode 32.mp3",
+          "time": "782",
+          "size": "3131308"
+        }
+      ]
+    },
+    {
+      "ide": "317973",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (33) Episode 33.mp3",
+          "time": "776",
+          "size": "3106649"
+        }
+      ]
+    },
+    {
+      "ide": "317974",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (34) Episode 34.mp3",
+          "time": "747",
+          "size": "2987948"
+        }
+      ]
+    },
+    {
+      "ide": "317975",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (35) Episode 35.mp3",
+          "time": "766",
+          "size": "3065062"
+        }
+      ]
+    },
+    {
+      "ide": "317976",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (36) Episode 36.mp3",
+          "time": "789",
+          "size": "3159103"
+        }
+      ]
+    },
+    {
+      "ide": "317977",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (37) Episode 37.mp3",
+          "time": "764",
+          "size": "3059001"
+        }
+      ]
+    },
+    {
+      "ide": "317978",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (38) Episode 38.mp3",
+          "time": "765",
+          "size": "3062345"
+        }
+      ]
+    },
+    {
+      "ide": "317979",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (39) Episode 39.mp3",
+          "time": "747",
+          "size": "2988784"
+        }
+      ]
+    },
+    {
+      "ide": "317944",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (04) Episode 04.mp3",
+          "time": "815",
+          "size": "3260040"
+        }
+      ]
+    },
+    {
+      "ide": "317980",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (40) Episode 40.mp3",
+          "time": "750",
+          "size": "3001532"
+        }
+      ]
+    },
+    {
+      "ide": "317981",
+      "date": "0000-00-00",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (41) Episode 41.mp3",
+          "time": "780",
+          "size": "3121695"
+        }
+      ]
+    },
+    {
+      "ide": "317982",
+      "date": "0000-00-00",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (42) Episode 42.mp3",
+          "time": "806",
+          "size": "3226185"
+        }
+      ]
+    },
+    {
+      "ide": "317983",
+      "date": "0000-00-00",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (43) Episode 43.mp3",
+          "time": "763",
+          "size": "3055031"
+        }
+      ]
+    },
+    {
+      "ide": "317984",
+      "date": "0000-00-00",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (44) Episode 44.mp3",
+          "time": "781",
+          "size": "3124203"
+        }
+      ]
+    },
+    {
+      "ide": "317985",
+      "date": "0000-00-00",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (45) Episode 45.mp3",
+          "time": "810",
+          "size": "3243112"
+        }
+      ]
+    },
+    {
+      "ide": "317986",
+      "date": "0000-00-00",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (46) Episode 46.mp3",
+          "time": "789",
+          "size": "3156177"
+        }
+      ]
+    },
+    {
+      "ide": "317987",
+      "date": "0000-00-00",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (47) Episode 47.mp3",
+          "time": "786",
+          "size": "3146773"
+        }
+      ]
+    },
+    {
+      "ide": "317988",
+      "date": "0000-00-00",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (48) Episode 48.mp3",
+          "time": "760",
+          "size": "3041656"
+        }
+      ]
+    },
+    {
+      "ide": "317989",
+      "date": "0000-00-00",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (49) Episode 49.mp3",
+          "time": "788",
+          "size": "3151997"
+        }
+      ]
+    },
+    {
+      "ide": "317945",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (05) Episode 05.mp3",
+          "time": "795",
+          "size": "3181046"
+        }
+      ]
+    },
+    {
+      "ide": "317990",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (50) Episode 50.mp3",
+          "time": "782",
+          "size": "3131308"
+        }
+      ]
+    },
+    {
+      "ide": "317991",
+      "date": "0000-00-00",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (51) Episode 51.mp3",
+          "time": "767",
+          "size": "3069241"
+        }
+      ]
+    },
+    {
+      "ide": "317992",
+      "date": "0000-00-00",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (52) Episode 52.mp3",
+          "time": "782",
+          "size": "3130890"
+        }
+      ]
+    },
+    {
+      "ide": "317946",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (06) Episode 06.mp3",
+          "time": "754",
+          "size": "3017832"
+        }
+      ]
+    },
+    {
+      "ide": "317947",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (07) Episode 07.mp3",
+          "time": "822",
+          "size": "3289506"
+        }
+      ]
+    },
+    {
+      "ide": "317948",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (08) Episode 08.mp3",
+          "time": "763",
+          "size": "3053777"
+        }
+      ]
+    },
+    {
+      "ide": "317949",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Corsican Brothers, The",
+          "name": "Corsican Brothers xx-xx-xx (09) Episode 09.mp3",
+          "time": "769",
+          "size": "3076556"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Action"
+    },
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-04-11",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "0",
+      "country": "Australia",
+      "network": "Australian"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Corsican Brothers, The - AU"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "avail": [
+    {
+      "avail": "1",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,793752,00.html",
+      "label": "1947-05-26: Program Preview",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,804367,00.html",
+      "label": "1947-10-20: Program Preview",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,853131,00.html",
+      "label": "1947-04-21: Winners",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,934843,00.html",
+      "label": "1946-12-30: Perfectionist",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "45659",
+      "first": "James",
+      "last": "Fassett",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46834",
+      "first": "Ben",
+      "last": "Hyams",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "47015",
+      "first": "Charles",
+      "last": "Freed",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "440",
+      "first": "Sandy",
+      "last": "Becker",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "50816",
+      "first": "Bernard",
+      "last": "Herrmann",
+      "f": "Noted Role",
+      "character": "Composer"
+    },
+    {
+      "idperson": "50816",
+      "first": "Bernard",
+      "last": "Herrmann",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-04-06",
+      "dow": "Tu",
+      "time": "11:30 PM",
+      "end": "1942-08-10",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1944-02-16",
+      "dow": "W",
+      "time": "11:30 AM",
+      "end": "1947-10-01",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1943-04-06",
+      "end": "1947-10-01"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Invitation to Music"
+    }
+  ]
+}

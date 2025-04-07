@@ -1,0 +1,266 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "CANT"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/cfl.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logc1042.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "7657",
+      "first": "John",
+      "last": "Reed",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7730",
+      "first": "Karl",
+      "last": "Schmidt",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "45798",
+      "first": "Bob",
+      "last": "Budney",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "45826",
+      "first": "Fred",
+      "last": "Coffin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45830",
+      "first": "Carol",
+      "last": "Collins",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "45830",
+      "first": "Carol",
+      "last": "Collins",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "45883",
+      "first": "Greg",
+      "last": "Fish",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "45943",
+      "first": "Bart",
+      "last": "Hartig",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45948",
+      "first": "Bart",
+      "last": "Hayman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46180",
+      "first": "Russell",
+      "last": "Thornton",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "601",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "1990-10-01",
+      "source": "Illustrated Press/IP_169.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #169 Oct 90",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "14161",
+      "date": "1981-10-11",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14162",
+      "date": "1981-10-18",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14163",
+      "date": "1981-10-25",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14164",
+      "date": "1981-11-01",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14165",
+      "date": "1981-11-08",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14166",
+      "date": "1981-11-15",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Episodes 6 and 7"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14167",
+      "date": "1981-11-22",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14168",
+      "date": "1981-11-29",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14169",
+      "date": "1981-12-06",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14170",
+      "date": "1981-12-13",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14171",
+      "date": "1981-12-20",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14172",
+      "date": "1981-12-27",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14173",
+      "date": "1982-01-03",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14174",
+      "date": "1982-01-10",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Canticle for Leibowitz, A"
+    }
+  ]
+}

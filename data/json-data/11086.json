@@ -1,0 +1,118 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Rita Murray Commentary/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Rita Murray Show, The/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "32221",
+      "first": "Rita",
+      "last": "Murray",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314790",
+      "date": "1942-01-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Advise For Wartime Conservation"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Rita Murray Show, The",
+          "name": "Rita Murray Show, The 420120 xxx Advise For Wartime Conservation_OTRRPG.mp3",
+          "time": "834",
+          "size": "13355278"
+        },
+        {
+          "path": "R",
+          "folder": "Rita Murray Commentary",
+          "name": "Rita Murray Commentary 420120 04 Rita Chats About Wartime Co_OTRRPG.mp3",
+          "time": "893",
+          "size": "14368698"
+        },
+        {
+          "path": "R",
+          "folder": "Rita Murray Commentary",
+          "name": "Rita Murray commentary 42-01-20 (04) Rita Chats about Wartime Co.mp3",
+          "time": "895",
+          "size": "14324934"
+        },
+        {
+          "path": "R",
+          "folder": "Rita Murray Show, The",
+          "name": "Rita Murray Show, The 42-01-20 Advise For Conservation.mp3",
+          "time": "832",
+          "size": "6656052"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "Breakfast Club Coffee",
+      "begin": "1942-00-00",
+      "end": "1942-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Rita Murray Show, The"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "45602",
+      "first": "Guy",
+      "last": "Bonham",
+      "f": "Noted Role",
+      "character": "Jester's Trio Member"
+    },
+    {
+      "idperson": "45604",
+      "first": "Wamp",
+      "last": "Carlson",
+      "f": "Noted Role",
+      "character": "Jester's Trio Member"
+    },
+    {
+      "idperson": "48988",
+      "first": "Red",
+      "last": "Latham",
+      "f": "Noted Role",
+      "character": "Jester's Trio Member"
+    },
+    {
+      "idperson": "7342",
+      "first": "Diane",
+      "last": "Courtney",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "85263",
+      "date": "0000-00-00",
+      "epnum": "1027",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "1 the Lady on the Two Cent Stamp 2 We Did It Before 3 When"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "85261",
+      "date": "0000-00-00",
+      "epnum": "1058",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "1 the Girl Friend of the Whirling Dervish 2 Me and Marie 3"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "85260",
+      "date": "0000-00-00",
+      "epnum": "1067",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "1 Ma I Miss Your Apple Pie 2 Better Not Roll Those Blue Blue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "85264",
+      "date": "0000-00-00",
+      "epnum": "993",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "1 Who Threw the Overalls in Mrs Murphy's Chowder 2 I've Been"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "85460",
+      "date": "1942-01-09",
+      "epnum": "1008",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "1 Jesse James 2 Little Red Caboose 3 the Bowery 4 Swing Little"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "85461",
+      "date": "1942-02-27",
+      "epnum": "1021",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "1 Sweet Potatoe Polka 2 Granny's Old Arm Chair 3 Don't You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "85462",
+      "date": "1942-04-14",
+      "epnum": "1052",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Wearin' of the Green"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "85463",
+      "date": "1942-07-28",
+      "epnum": "1075",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "1 I Love a Lassie 2 I Wonder How I Look When I'm Asleep 3 I"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1934-08-22",
+      "dow": "Tu,W",
+      "time": "4:30 PM",
+      "end": "1935-03-27",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1935-01-20",
+      "dow": "Su",
+      "time": "11:00 PM",
+      "end": "1935-04-14",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1938-10-05",
+      "dow": "W,F",
+      "time": "6:30 PM",
+      "end": "1939-04-28",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1942-03-26",
+      "dow": "",
+      "time": "7:45 PM",
+      "end": "1944-09-24",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1942-06-28",
+      "dow": "Su",
+      "time": "9:45 PM",
+      "end": "1942-08-09",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Guldens",
+      "begin": "1938-11-05",
+      "end": "1939-04-28"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Jesters Trio, The"
+    },
+    {
+      "title": "Jester's Trio"
+    }
+  ]
+}

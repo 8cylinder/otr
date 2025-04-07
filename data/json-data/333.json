@@ -1,0 +1,1522 @@
+{
+  "avail": [
+    {
+      "avail": "4",
+      "idprint": "-1",
+      "web": "www.otrr.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "120",
+      "idprint": "-1",
+      "web": "www.otrr.org",
+      "url": "",
+      "source": "",
+      "idpytype": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325184956-64d47af9.jpg",
+      "label": "Abies Irish Rose CD  Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325184957-ba2f31e5.jpg",
+      "label": "Abies Irish Rose CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325184958-05eacfce.jpg",
+      "label": "Abies Irish Rose CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Abie%27s_Irish_Rose",
+      "label": "Wikipedia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrbuffet.blogspot.com/2010/12/abies-irish-rose.html",
+      "label": "Meet Mama and Papa of Abie",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-333-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,774528,00.html",
+      "label": "1943-05-03: So Rich the Rose",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,932323,00.html",
+      "label": "1942-01-26: Listenable Events",
+      "idtype": "11"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Abby's Irish Rose/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "42",
+      "first": "Anna",
+      "last": "Appel",
+      "f": "Noted Role",
+      "character": "Mrs. Cohen"
+    },
+    {
+      "idperson": "939",
+      "first": "Charles 'Charlie'",
+      "last": "Cantor",
+      "f": "Noted Role",
+      "character": "Solomon Levy"
+    },
+    {
+      "idperson": "1173",
+      "first": "Clayton 'Bud'",
+      "last": "Collyer",
+      "f": "Noted Role",
+      "character": "Abie Livy"
+    },
+    {
+      "idperson": "1212",
+      "first": "Richard 'Dick'",
+      "last": "Coogan",
+      "f": "Noted Role",
+      "character": "Abie Levy"
+    },
+    {
+      "idperson": "1728",
+      "first": "Carl",
+      "last": "Eastman",
+      "f": "Noted Role",
+      "character": "David Lerner"
+    },
+    {
+      "idperson": "2068",
+      "first": "Florence",
+      "last": "Freeman",
+      "f": "Noted Role",
+      "character": "Mrs. Brown"
+    },
+    {
+      "idperson": "3243",
+      "first": "Walter",
+      "last": "Kinsella",
+      "f": "Noted Role",
+      "character": "Pat Murphy"
+    },
+    {
+      "idperson": "3959",
+      "first": "Mercedes",
+      "last": "McCambridge",
+      "f": "Noted Role",
+      "character": "Rosemary Levy"
+    },
+    {
+      "idperson": "4395",
+      "first": "Anne",
+      "last": "Nichols",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "4681",
+      "first": "Howard",
+      "last": "Petrie",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4858",
+      "first": "Amanda",
+      "last": "Randolph",
+      "f": "Noted Role",
+      "character": "The maid"
+    },
+    {
+      "idperson": "5006",
+      "first": "Joe",
+      "last": "Rines",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "5426",
+      "first": "Marion",
+      "last": "Shockley",
+      "f": "Noted Role",
+      "character": "Rosemary Levy"
+    },
+    {
+      "idperson": "5485",
+      "first": "Menasha",
+      "last": "Skulnik",
+      "f": "Noted Role",
+      "character": "Mr. Cohen"
+    },
+    {
+      "idperson": "5531",
+      "first": "Sydney",
+      "last": "Smith",
+      "f": "Noted Role",
+      "character": "Abie Levy"
+    },
+    {
+      "idperson": "5654",
+      "first": "Julie",
+      "last": "Stevens",
+      "f": "Noted Role",
+      "character": "Rosemary Levy"
+    },
+    {
+      "idperson": "5749",
+      "first": "Fred",
+      "last": "Sullivan",
+      "f": "Noted Role",
+      "character": "Dr. Mueller"
+    },
+    {
+      "idperson": "5871",
+      "first": "Ann",
+      "last": "Thomas",
+      "f": "Noted Role",
+      "character": "Casey"
+    },
+    {
+      "idperson": "6302",
+      "first": "Alfred",
+      "last": "White",
+      "f": "Noted Role",
+      "character": "Solomon Levy"
+    },
+    {
+      "idperson": "6409",
+      "first": "Betty",
+      "last": "Winkler",
+      "f": "Noted Role",
+      "character": "Rosemary Levy"
+    },
+    {
+      "idperson": "6958",
+      "first": "Dolores",
+      "last": "Gillen",
+      "f": "Noted Role",
+      "character": "The twins"
+    },
+    {
+      "idperson": "19894",
+      "first": "Morton",
+      "last": "Friedman",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "39579",
+      "first": "Charme",
+      "last": "Allen",
+      "f": "Noted Role",
+      "character": "Mrs. Mueller"
+    },
+    {
+      "idperson": "45245",
+      "first": "Richard",
+      "last": "Bond",
+      "f": "Noted Role",
+      "character": "Abie Levy"
+    },
+    {
+      "idperson": "7424",
+      "first": "Bill",
+      "last": "Adams",
+      "f": "Noted Role",
+      "character": "Father Whelan"
+    },
+    {
+      "idperson": "1618",
+      "first": "Paul",
+      "last": "Douglas",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7195",
+      "first": "Axel",
+      "last": "Gruenberg",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "38006",
+      "first": "John",
+      "last": "Ward",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "47914",
+      "first": "Rip",
+      "last": "Van Runkle",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "50322",
+      "first": "Richard",
+      "last": "Stark",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4915",
+      "first": "Alan",
+      "last": "Reed (aka Teddy Bergman)",
+      "f": "Noted Role",
+      "character": "Solomon Levy"
+    },
+    {
+      "idperson": "50459",
+      "first": "Josef",
+      "last": "Stopek",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "778",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1978-12-01",
+      "source": "Illustrated Press/IP_030.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#30) - Dec 1978",
+      "author": ""
+    },
+    {
+      "idprint": "1230",
+      "idtype": "4",
+      "page": "46",
+      "article": "",
+      "url": "",
+      "date": "2001-05-01",
+      "source": "NARA News/Nara News V29 02 Spring2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 02 Spring2001",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2176",
+      "idtype": "4",
+      "page": "32",
+      "article": "Abie's Irish Rose",
+      "url": "",
+      "date": "1943-03-01",
+      "source": "Radio Mirror/Radio Mirror 4303.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4303",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2688",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1943-08-01",
+      "source": "Tune In/Tune In 4308.pdf",
+      "idpytype2": "4",
+      "title": "Tune In - Aug 1943",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "My Wild Irish Rose"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "330225",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "W E B O Interview"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321567",
+      "date": "1941-01-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Abies Irish Rose"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Abie's Irish Rose",
+          "name": "Abies Irish Rose 1941.01.13 Abies Irish Rose.mp3",
+          "time": "1679",
+          "size": "6821888"
+        }
+      ]
+    },
+    {
+      "ide": "14059",
+      "date": "1942-01-24",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14060",
+      "date": "1942-01-31",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14061",
+      "date": "1942-02-07",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14062",
+      "date": "1942-02-14",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14063",
+      "date": "1942-02-21",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14064",
+      "date": "1942-02-28",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14065",
+      "date": "1942-03-07",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14066",
+      "date": "1942-03-14",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14067",
+      "date": "1942-03-21",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14068",
+      "date": "1942-03-28",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14058",
+      "date": "1942-04-04",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14057",
+      "date": "1942-04-11",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14056",
+      "date": "1942-04-18",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14055",
+      "date": "1942-04-25",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14054",
+      "date": "1942-05-02",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14053",
+      "date": "1942-05-09",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14052",
+      "date": "1942-05-16",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14051",
+      "date": "1942-05-23",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14050",
+      "date": "1942-05-30",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14049",
+      "date": "1942-06-06",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14048",
+      "date": "1942-06-13",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14047",
+      "date": "1942-06-20",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14046",
+      "date": "1942-06-27",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14045",
+      "date": "1942-09-12",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14044",
+      "date": "1942-09-19",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14043",
+      "date": "1942-09-26",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14042",
+      "date": "1942-10-03",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14069",
+      "date": "1942-10-10",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14070",
+      "date": "1942-10-17",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14071",
+      "date": "1942-10-24",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14072",
+      "date": "1942-10-31",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14073",
+      "date": "1942-11-07",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14074",
+      "date": "1942-11-14",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14075",
+      "date": "1942-11-21",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14076",
+      "date": "1942-11-28",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14077",
+      "date": "1942-12-05",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14078",
+      "date": "1942-12-12",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14079",
+      "date": "1942-12-19",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14080",
+      "date": "1942-12-26",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14081",
+      "date": "1943-01-02",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Year's Resolutions"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Abie's Irish Rose",
+          "name": "Abie's Irish Rose 43-01-02 (040) New Year's Resolutions.mp3",
+          "time": "1679",
+          "size": "6718598"
+        }
+      ]
+    },
+    {
+      "ide": "14082",
+      "date": "1943-01-09",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "312174",
+      "date": "1943-01-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Meeting with Flanigan and Rosenberg"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Abie's Irish Rose",
+          "name": "Abies Irish Rose 1943-01-13.mp3",
+          "time": "1624",
+          "size": "6497398"
+        }
+      ]
+    },
+    {
+      "ide": "14083",
+      "date": "1943-01-16",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14084",
+      "date": "1943-01-23",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14085",
+      "date": "1943-01-30",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14086",
+      "date": "1943-02-06",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14087",
+      "date": "1943-02-13",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14088",
+      "date": "1943-02-20",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14089",
+      "date": "1943-02-27",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14090",
+      "date": "1943-03-06",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14091",
+      "date": "1943-03-13",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14092",
+      "date": "1943-03-20",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14093",
+      "date": "1943-03-27",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14094",
+      "date": "1943-04-03",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14095",
+      "date": "1943-04-10",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14096",
+      "date": "1943-04-17",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14097",
+      "date": "1943-04-24",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14098",
+      "date": "1943-05-01",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14099",
+      "date": "1943-05-08",
+      "epnum": "58",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14100",
+      "date": "1943-05-15",
+      "epnum": "59",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14101",
+      "date": "1943-05-22",
+      "epnum": "60",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14102",
+      "date": "1943-05-29",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14103",
+      "date": "1943-06-05",
+      "epnum": "62",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14104",
+      "date": "1943-06-12",
+      "epnum": "63",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14105",
+      "date": "1943-06-19",
+      "epnum": "64",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14106",
+      "date": "1943-06-26",
+      "epnum": "65",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14107",
+      "date": "1943-08-28",
+      "epnum": "66",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14108",
+      "date": "1943-09-04",
+      "epnum": "67",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14109",
+      "date": "1943-09-11",
+      "epnum": "68",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14110",
+      "date": "1943-09-18",
+      "epnum": "69",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14111",
+      "date": "1943-09-25",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14112",
+      "date": "1943-10-02",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14113",
+      "date": "1943-10-09",
+      "epnum": "72",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14114",
+      "date": "1943-10-16",
+      "epnum": "73",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14115",
+      "date": "1943-10-23",
+      "epnum": "74",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14116",
+      "date": "1943-10-30",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14117",
+      "date": "1943-11-06",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14118",
+      "date": "1943-11-13",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14119",
+      "date": "1943-11-20",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14120",
+      "date": "1943-11-27",
+      "epnum": "79",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14121",
+      "date": "1943-12-04",
+      "epnum": "80",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14122",
+      "date": "1943-12-11",
+      "epnum": "81",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14123",
+      "date": "1943-12-18",
+      "epnum": "82",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14124",
+      "date": "1943-12-25",
+      "epnum": "83",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14125",
+      "date": "1944-01-01",
+      "epnum": "84",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14126",
+      "date": "1944-01-08",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Levy's Department Store"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Abie's Irish Rose",
+          "name": "Abie's Irish Rose 44-01-08 (085) Levy's Department Store.mp3",
+          "time": "1763",
+          "size": "10577415"
+        }
+      ]
+    },
+    {
+      "ide": "14127",
+      "date": "1944-01-15",
+      "epnum": "86",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14128",
+      "date": "1944-01-22",
+      "epnum": "87",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14129",
+      "date": "1944-01-29",
+      "epnum": "88",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14130",
+      "date": "1944-02-05",
+      "epnum": "89",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14131",
+      "date": "1944-02-12",
+      "epnum": "90",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14132",
+      "date": "1944-02-19",
+      "epnum": "91",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14133",
+      "date": "1944-02-26",
+      "epnum": "92",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14134",
+      "date": "1944-03-04",
+      "epnum": "93",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14135",
+      "date": "1944-03-11",
+      "epnum": "94",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14136",
+      "date": "1944-03-18",
+      "epnum": "95",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14137",
+      "date": "1944-03-25",
+      "epnum": "96",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14138",
+      "date": "1944-04-01",
+      "epnum": "97",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14139",
+      "date": "1944-04-08",
+      "epnum": "98",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14140",
+      "date": "1944-04-15",
+      "epnum": "99",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14141",
+      "date": "1944-04-22",
+      "epnum": "100",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14142",
+      "date": "1944-04-29",
+      "epnum": "101",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14143",
+      "date": "1944-05-06",
+      "epnum": "102",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14144",
+      "date": "1944-05-13",
+      "epnum": "103",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14145",
+      "date": "1944-05-20",
+      "epnum": "104",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14146",
+      "date": "1944-05-27",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Solomon and Patrick In Jail"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "14147",
+      "date": "1944-06-03",
+      "epnum": "106",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14148",
+      "date": "1944-06-10",
+      "epnum": "107",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14149",
+      "date": "1944-06-17",
+      "epnum": "108",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Summer Hotel Owners"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Abie's Irish Rose",
+          "name": "Abie's Irish Rose 44-06-17 (108) Summer Hotel Owners.mp3",
+          "time": "1761",
+          "size": "10565858"
+        }
+      ]
+    },
+    {
+      "ide": "14150",
+      "date": "1944-06-24",
+      "epnum": "109",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14151",
+      "date": "1944-07-01",
+      "epnum": "110",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14152",
+      "date": "1944-07-08",
+      "epnum": "111",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14153",
+      "date": "1944-07-15",
+      "epnum": "112",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14154",
+      "date": "1944-07-22",
+      "epnum": "113",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14155",
+      "date": "1944-07-29",
+      "epnum": "114",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14156",
+      "date": "1944-08-05",
+      "epnum": "115",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14157",
+      "date": "1944-08-12",
+      "epnum": "116",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14158",
+      "date": "1944-08-19",
+      "epnum": "117",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14159",
+      "date": "1944-08-26",
+      "epnum": "118",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "14160",
+      "date": "1944-09-02",
+      "epnum": "119",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-01-24",
+      "dow": "Sa",
+      "time": "8:00 PM",
+      "end": "1944-09-02",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Abie's Irish Rose"
+    }
+  ]
+}

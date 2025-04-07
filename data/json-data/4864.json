@@ -1,0 +1,100 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4785",
+      "first": "Roger",
+      "last": "Price",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "How to cope with zany problems such as how to get an eight year old to take a bath."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "323044",
+      "date": "1951-11-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Art Linkletter"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Smokey the Bear and the Sons of the Pioneers",
+          "name": "Smokey The Bear 1959.xx.xx Guest Art Linkletter.mp3",
+          "time": "294",
+          "size": "1281949"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1951-10-07",
+      "dow": "Su",
+      "time": "5:30 PM",
+      "end": "1951-12-02",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "How To"
+    }
+  ]
+}

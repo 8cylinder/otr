@@ -1,0 +1,183 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4774",
+      "first": "Allen",
+      "last": "Prescott",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5629",
+      "first": "Ted",
+      "last": "Steele",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "307246",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st The Night Was Made For Love"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Time Out With Allen Prescott",
+          "name": "Time Out With Allen Prescott - #001 - MS 043737 - 1st The Night Was Made For Love.mp3",
+          "time": "884",
+          "size": "10605285"
+        }
+      ]
+    },
+    {
+      "ide": "307247",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st The Night Shall Be Filled With Music"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Time Out With Allen Prescott",
+          "name": "Time Out With Allen Prescott - #002 - MS 043736 - 1st The Night Shall Be Filled With Music.mp3",
+          "time": "880",
+          "size": "10556457"
+        }
+      ]
+    },
+    {
+      "ide": "312387",
+      "date": "1946-04-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Statue of Liberty"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Allen Prescott",
+          "name": "Allen Prescott And Jean Colbert 460420 xxx Statue of Liberty_OTRRPG.mp3",
+          "time": "1493",
+          "size": "23970190"
+        }
+      ]
+    },
+    {
+      "ide": "312386",
+      "date": "1946-06-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What To Do This Weekend"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Allen Prescott",
+          "name": "Allen Prescott 460621 xxx What To Do This Weekend_OTRRPG.mp3",
+          "time": "849",
+          "size": "13588608"
+        },
+        {
+          "path": "A",
+          "folder": "Allen Prescott",
+          "name": "Alan Prescott 46-06-21 What To Do This Weekend.mp3",
+          "time": "849",
+          "size": "6798358"
+        },
+        {
+          "path": "A",
+          "folder": "Allen Prescott Show",
+          "name": "Allen Prescott Show 46-06-21 What To Do This Weekend.mp3",
+          "time": "887",
+          "size": "3577856"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1946-07-07",
+      "dow": "Su",
+      "time": "5:00 PM",
+      "end": "1946-09-29",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Allen Prescott's Party"
+    },
+    {
+      "title": "Wife Saver, The"
+    },
+    {
+      "title": "Allen Prescott"
+    }
+  ]
+}

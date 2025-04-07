@@ -1,0 +1,148 @@
+{
+  "avail": [
+    {
+      "avail": "5",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "76",
+      "first": "Robert",
+      "last": "Armbruster",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "36696",
+      "first": "Smokey",
+      "last": "Rogers",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "39092",
+      "first": "Tex",
+      "last": "Williams",
+      "f": "Noted Role",
+      "character": "Star"
+    },
+    {
+      "idperson": "42888",
+      "first": "Deuce",
+      "last": "Spriggins",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "317994",
+      "date": "1954-01-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune - Anything Can Happen"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Country & Western Caravan",
+          "name": "Country & Western Caravan 54-xx-xx First Tune - Anything Can Happen.mp3",
+          "time": "1907",
+          "size": "15252932"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-07-25",
+      "dow": "Su",
+      "time": "6:30 PM",
+      "end": "1950-09-15",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Western Caravan"
+    }
+  ]
+}

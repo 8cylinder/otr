@@ -1,0 +1,139 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "57",
+      "first": "Victor",
+      "last": "Arden",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6812",
+      "first": "Morton",
+      "last": "Bowe",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "16913",
+      "first": "Muriel",
+      "last": "Dickson",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "45409",
+      "first": "The",
+      "last": "Cavaliers Quartet",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "50318",
+      "first": "William",
+      "last": "Farren",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1936-01-12",
+      "dow": "Su",
+      "time": "2:00 PM",
+      "end": "1936-03-15",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1936-11-15",
+      "dow": "Su",
+      "time": "1:30 PM",
+      "end": "1937-03-28",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Smith Brothers",
+      "begin": "1936-01-12",
+      "end": "1936-03-15"
+    },
+    {
+      "sponsor": "Smith Brothers",
+      "begin": "1936-11-15",
+      "end": "1937-03-27"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Melody Matinee"
+    }
+  ]
+}

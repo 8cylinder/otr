@@ -1,0 +1,121 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "45633",
+      "first": "Sagi",
+      "last": "Vela",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45634",
+      "first": "Don",
+      "last": "Arres",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1939-04-08",
+      "dow": "Sa",
+      "time": "8:00 PM",
+      "end": "1939-10-21",
+      "length": "0",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1940-10-19",
+      "dow": "Sa",
+      "time": "",
+      "end": "1941-02-15",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1941-05-10",
+      "dow": "Sa",
+      "time": "8:45 PM",
+      "end": "1941-07-12",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1941-12-19",
+      "dow": "F",
+      "time": "8:30 PM",
+      "end": "1942-01-09",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1942-07-03",
+      "dow": "Sa",
+      "time": "10:15 PM",
+      "end": "1942-09-12",
+      "length": "45",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Don Arres"
+    },
+    {
+      "title": "Tropical Serenade"
+    }
+  ]
+}

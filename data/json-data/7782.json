@@ -1,0 +1,95 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19301931eve.html",
+      "label": "Evening Ratings: (1930-1931: #16)",
+      "idtype": "8"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1929-00-00",
+      "dow": "M",
+      "time": "",
+      "end": "1931-07-13",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1933-10-16",
+      "dow": "M,Tu,W",
+      "time": "",
+      "end": "1942-04-13",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1947-01-07",
+      "dow": "Tu",
+      "time": "11:30 PM",
+      "end": "1947-03-25",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1933-10-17",
+      "end": "1942-04-13"
+    },
+    {
+      "sponsor": "Stromberg-Carlsen",
+      "begin": "1929-00-00",
+      "end": "1931-07-13"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Rochester Civic Orchestra"
+    }
+  ]
+}

@@ -1,0 +1,3233 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrrlibrary.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/L Series/Let's Go To Town/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-5659-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2681",
+      "first": "Woody",
+      "last": "Herman",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2681",
+      "first": "Woody",
+      "last": "Herman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2952",
+      "first": "Harry",
+      "last": "James",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2952",
+      "first": "Harry",
+      "last": "James",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4029",
+      "first": "Hal",
+      "last": "McIntyre",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4029",
+      "first": "Hal",
+      "last": "McIntyre",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4600",
+      "first": "Tony",
+      "last": "Pastor",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4600",
+      "first": "Tony",
+      "last": "Pastor",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "264032",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Tenderly"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx xxx 1st Song - Tenderly (64-44)_OTRRPG.mp3",
+          "time": "689",
+          "size": "5593337"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (xxx) First Song - Tenderly.mp3",
+          "time": "694",
+          "size": "2777017"
+        }
+      ]
+    },
+    {
+      "ide": "264056",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You Old Son of a Gun"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "263968",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Delicado"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 001 1st Song - Delicado_OTRRPG.mp3",
+          "time": "868",
+          "size": "13894562"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (001) First Song - Delicado.mp3",
+          "time": "865",
+          "size": "6922250"
+        }
+      ]
+    },
+    {
+      "ide": "263959",
+      "date": "0000-00-00",
+      "epnum": "100",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Boo Hoo"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 100 1st Song - Boo Hoo_OTRRPG.mp3",
+          "time": "873",
+          "size": "13973556"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (100) First Song - Boo Hoo.mp3",
+          "time": "870",
+          "size": "6959114"
+        }
+      ]
+    },
+    {
+      "ide": "264004",
+      "date": "0000-00-00",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Love Me Or Leave Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 101 1st Song - Love Me Or Leave Me_OTRRPG.mp3",
+          "time": "870",
+          "size": "13933444"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (101) First Song - Love Me Or Leave Me.mp3",
+          "time": "868",
+          "size": "6944778"
+        }
+      ]
+    },
+    {
+      "ide": "264020",
+      "date": "0000-00-00",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rollin' Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 102 1st Song - Rollin' Home_OTRRPG.mp3",
+          "time": "867",
+          "size": "13878266"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (102) First Song - Rollin' Home.mp3",
+          "time": "864",
+          "size": "6912010"
+        }
+      ]
+    },
+    {
+      "ide": "264028",
+      "date": "0000-00-00",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Sweet And Gentle"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 103 1st Song - Sweet And Gentle_OTRRPG.mp3",
+          "time": "888",
+          "size": "14221833"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (103) First Song - Sweet And Gentle.mp3",
+          "time": "885",
+          "size": "7081994"
+        }
+      ]
+    },
+    {
+      "ide": "263972",
+      "date": "0000-00-00",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Drivin'"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (104) First Song - Drivin'.mp3",
+          "time": "866",
+          "size": "6928394"
+        }
+      ]
+    },
+    {
+      "ide": "263982",
+      "date": "0000-00-00",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hummingbird"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 105 1st Song - Hummingbird_OTRRPG.mp3",
+          "time": "877",
+          "size": "14040433"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (105) First Song - Hummingbird.mp3",
+          "time": "874",
+          "size": "6991882"
+        }
+      ]
+    },
+    {
+      "ide": "264019",
+      "date": "0000-00-00",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rhythm And No Blues"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 106 1st Song - Rhythm And No Blues_OTRRPG.mp3",
+          "time": "877",
+          "size": "14048383"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (106) First Song - Rhythm And No Blues.mp3",
+          "time": "874",
+          "size": "6995978"
+        }
+      ]
+    },
+    {
+      "ide": "264023",
+      "date": "0000-00-00",
+      "epnum": "107",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Song In Blue (5)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 107 1st Song - Song In Blue_OTRRPG.mp3",
+          "time": "890",
+          "size": "14256101"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (107) First Song - Song In Blue (5).mp3",
+          "time": "887",
+          "size": "7100426"
+        }
+      ]
+    },
+    {
+      "ide": "264043",
+      "date": "0000-00-00",
+      "epnum": "108",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Trumpet Soliloquy"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 108 1st Song - Trumpet Soliloquy_OTRRPG.mp3",
+          "time": "867",
+          "size": "13884123"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (108) First Song - Trumpet Soliloquy.mp3",
+          "time": "864",
+          "size": "6914058"
+        }
+      ]
+    },
+    {
+      "ide": "264033",
+      "date": "0000-00-00",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Fish"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 109 1st Song - The Fish_OTRRPG.mp3",
+          "time": "857",
+          "size": "13729469"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (109) First Song - The Fish.mp3",
+          "time": "854",
+          "size": "6836234"
+        }
+      ]
+    },
+    {
+      "ide": "263958",
+      "date": "0000-00-00",
+      "epnum": "110",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Beat Boop"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 110 1st Song - Beat Boop_OTRRPG.mp3",
+          "time": "849",
+          "size": "13593215"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (110) First Song - Beat Boop.mp3",
+          "time": "846",
+          "size": "6768650"
+        }
+      ]
+    },
+    {
+      "ide": "263977",
+      "date": "0000-00-00",
+      "epnum": "111",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hold Me Tight"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 111 1st Song - Hold Me Tight_OTRRPG.mp3",
+          "time": "863",
+          "size": "13821007"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (111) First Song - Hold Me Tight.mp3",
+          "time": "861",
+          "size": "6891530"
+        }
+      ]
+    },
+    {
+      "ide": "264015",
+      "date": "0000-00-00",
+      "epnum": "112",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - On The Beat"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 112 1st Song - On The Beat_OTRRPG.mp3",
+          "time": "865",
+          "size": "13856531"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (112) First Song - On The Beat.mp3",
+          "time": "863",
+          "size": "6907914"
+        }
+      ]
+    },
+    {
+      "ide": "263987",
+      "date": "0000-00-00",
+      "epnum": "121",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Hear You A'Knockin'"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (121) First Song - I Hear You A'Knockin'.mp3",
+          "time": "865",
+          "size": "6924298"
+        }
+      ]
+    },
+    {
+      "ide": "263991",
+      "date": "0000-00-00",
+      "epnum": "122",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Indian Love Call"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 122 1st Song - Indian Love Call_OTRRPG.mp3",
+          "time": "868",
+          "size": "13900422"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (122) First Song - Indian Love Call.mp3",
+          "time": "866",
+          "size": "6932490"
+        }
+      ]
+    },
+    {
+      "ide": "264021",
+      "date": "0000-00-00",
+      "epnum": "123",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Something's Gotta Give"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 123 1st Song - Something's Gotta Give_OTRRPG.mp3",
+          "time": "867",
+          "size": "13887889"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (123) First Song - Something's Gotta Give.mp3",
+          "time": "864",
+          "size": "6914058"
+        }
+      ]
+    },
+    {
+      "ide": "263994",
+      "date": "0000-00-00",
+      "epnum": "124",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jazz Me Blues"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 124 1st Song - Jazz Me Blues_OTRRPG.mp3",
+          "time": "859",
+          "size": "13752044"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (124) First Song - Jazz Me Blues.mp3",
+          "time": "856",
+          "size": "6846474"
+        }
+      ]
+    },
+    {
+      "ide": "91054",
+      "date": "0000-00-00",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - It's A Good Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go to Town 195xxx 0129 1st Song - It's a Good Day, by Perry Como_OTRRPG.mp3",
+          "time": "887",
+          "size": "14196729"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 129 1st Song - It's A Good Day_OTRRPG.mp3",
+          "time": "881",
+          "size": "14106893"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (129) First Song - It's A Good Day.mp3",
+          "time": "878",
+          "size": "7024650"
+        }
+      ]
+    },
+    {
+      "ide": "264057",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You're Driving Me Crazy"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 013 1st Song - You're Driving Me Crazy_OTRRPG.mp3",
+          "time": "853",
+          "size": "13657594"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (013) First Song - You're Driving Me Crazy.mp3",
+          "time": "851",
+          "size": "6811658"
+        }
+      ]
+    },
+    {
+      "ide": "263998",
+      "date": "0000-00-00",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Juke Box Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 130 1st Song - Juke Box Baby_OTRRPG.mp3",
+          "time": "861",
+          "size": "13792168"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 130 1st Song - Jukebox Baby_OTRRPG.mp3",
+          "time": "868",
+          "size": "13897888"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (130) First Song - Juke Box Baby.mp3",
+          "time": "858",
+          "size": "6869002"
+        }
+      ]
+    },
+    {
+      "ide": "264051",
+      "date": "0000-00-00",
+      "epnum": "131",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Whoop-De-Do"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 131 1st Song - Whoop-De-Do_OTRRPG.mp3",
+          "time": "890",
+          "size": "14251503"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (131) First Song - Whoop-De-Do.mp3",
+          "time": "887",
+          "size": "7096330"
+        }
+      ]
+    },
+    {
+      "ide": "263986",
+      "date": "0000-00-00",
+      "epnum": "132",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Found A Million Dollar Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 132 1st Song - I Found A Million Dollar Baby_OTRRPG.mp3",
+          "time": "866",
+          "size": "13861565"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (132) First Song - I Found A Million Dollar Baby.mp3",
+          "time": "863",
+          "size": "6901770"
+        }
+      ]
+    },
+    {
+      "ide": "264017",
+      "date": "0000-00-00",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Penthouse Serenade"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 133 1st Song - Penthouse Serenade_OTRRPG.mp3",
+          "time": "865",
+          "size": "13847343"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (133) First Song - Penthouse Serenade.mp3",
+          "time": "862",
+          "size": "6899722"
+        }
+      ]
+    },
+    {
+      "ide": "264047",
+      "date": "0000-00-00",
+      "epnum": "134",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - What's New"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 134 1st Song - What's New_OTRRPG.mp3",
+          "time": "882",
+          "size": "14129876"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (134) First Song - What's New.mp3",
+          "time": "880",
+          "size": "7041034"
+        }
+      ]
+    },
+    {
+      "ide": "264012",
+      "date": "0000-00-00",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - My Hero"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 135 1st Song - My Hero_OTRRPG.mp3",
+          "time": "861",
+          "size": "13787564"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (135) First Song - My Hero.mp3",
+          "time": "858",
+          "size": "6864906"
+        }
+      ]
+    },
+    {
+      "ide": "263979",
+      "date": "0000-00-00",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hot Toddy (3)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 136 1st Song - Hot Toddy_OTRRPG.mp3",
+          "time": "869",
+          "size": "13920059"
+        }
+      ]
+    },
+    {
+      "ide": "263983",
+      "date": "0000-00-00",
+      "epnum": "137",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Can't Believe That You're In Love With Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 137 1st Song - I Can't Believe That You're In Love With Me_OTRRPG.mp3",
+          "time": "882",
+          "size": "14124893"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (137) First Song - I Can't Believe That You're In Love With Me.mp3",
+          "time": "880",
+          "size": "7043082"
+        }
+      ]
+    },
+    {
+      "ide": "264024",
+      "date": "0000-00-00",
+      "epnum": "138",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Song In Blue (6)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 138 1st Song - Song In Blue_OTRRPG.mp3",
+          "time": "879",
+          "size": "14081394"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (138) First Song - Song In Blue (6).mp3",
+          "time": "877",
+          "size": "7016458"
+        }
+      ]
+    },
+    {
+      "ide": "263973",
+      "date": "0000-00-00",
+      "epnum": "139",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Dry Bones"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 139 1st Song - Dry Bones_OTRRPG.mp3",
+          "time": "877",
+          "size": "14035834"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (139) First Song - Dry Bones.mp3",
+          "time": "874",
+          "size": "6989834"
+        }
+      ]
+    },
+    {
+      "ide": "263952",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - All of Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 014 1st Song - All of Me_OTRRPG.mp3",
+          "time": "857",
+          "size": "13725289"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (014) First Song - All of Me.mp3",
+          "time": "854",
+          "size": "6834186"
+        }
+      ]
+    },
+    {
+      "ide": "263995",
+      "date": "0000-00-00",
+      "epnum": "140",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Johnny Is The Boy For Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 140 1st Song - Johnny Is The Boy For Me_OTRRPG.mp3",
+          "time": "879",
+          "size": "14071375"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (140) First Song - Johnny Is The Boy For Me.mp3",
+          "time": "876",
+          "size": "7008266"
+        }
+      ]
+    },
+    {
+      "ide": "264010",
+      "date": "0000-00-00",
+      "epnum": "141",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Manhattan"
+        },
+        {
+          "title": "The Dorsey Brothers and Mindy Carson"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 56xxxx 141 1st Song - Manhattan (96-44)_OTRRPG.mp3",
+          "time": "881",
+          "size": "10578079"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 141 1st Song - Manhattan_OTRRPG.mp3",
+          "time": "869",
+          "size": "13910447"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (141) First Song - Manhattan.mp3",
+          "time": "866",
+          "size": "6926346"
+        }
+      ]
+    },
+    {
+      "ide": "91053",
+      "date": "0000-00-00",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - September Song"
+        },
+        {
+          "title": "The Dorsey Brothers and Mindy Carson"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 56xxxx 142 1st Song - September Song (96-44)_OTRRPG.mp3",
+          "time": "893",
+          "size": "10725502"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 142 1st Song - September Song_OTRRPG.mp3",
+          "time": "882",
+          "size": "14114833"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (142) First Song - September Song.mp3",
+          "time": "880",
+          "size": "7038986"
+        }
+      ]
+    },
+    {
+      "ide": "263985",
+      "date": "0000-00-00",
+      "epnum": "143",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Dream Of You"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 56xxxx 143 1st Song - I Dream of You (96-44)_OTRRPG.mp3",
+          "time": "880",
+          "size": "10568063"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 143 1st Song - I Dream of You_OTRRPG.mp3",
+          "time": "868",
+          "size": "13903346"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (143) First Song - I Dream Of You.mp3",
+          "time": "866",
+          "size": "6930442"
+        }
+      ]
+    },
+    {
+      "ide": "264016",
+      "date": "0000-00-00",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Once In A While"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 56xxxx 144 1st Song - Once In A While (96-44)_OTRRPG.mp3",
+          "time": "889",
+          "size": "10675109"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 144 1st Song - Once In A While_OTRRPG.mp3",
+          "time": "880",
+          "size": "14091846"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (144) First Song - Once In A While.mp3",
+          "time": "877",
+          "size": "7018506"
+        }
+      ]
+    },
+    {
+      "ide": "263950",
+      "date": "0000-00-00",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - After You've Gone"
+        },
+        {
+          "title": "Russ Morgan and Rosemary Clooney"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 145 1st Song - After You've Gone_OTRRPG.mp3",
+          "time": "876",
+          "size": "14026229"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (145) First Song - After You've Gone.mp3",
+          "time": "873",
+          "size": "6985738"
+        }
+      ]
+    },
+    {
+      "ide": "263955",
+      "date": "0000-00-00",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - April in Paris"
+        },
+        {
+          "title": "Russ Morgan and Rosemary Clooney"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 146 1st Song - April In Paris_OTRRPG.mp3",
+          "time": "870",
+          "size": "13926334"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (146) First Song - April in Paris.mp3",
+          "time": "867",
+          "size": "6940682"
+        }
+      ]
+    },
+    {
+      "ide": "264002",
+      "date": "0000-00-00",
+      "epnum": "147",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Love Is A Feeling"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 147 1st Song - Love Is A Feeling_OTRRPG.mp3",
+          "time": "879",
+          "size": "14067607"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (147) First Song - Love Is A Feeling.mp3",
+          "time": "876",
+          "size": "7006218"
+        }
+      ]
+    },
+    {
+      "ide": "263970",
+      "date": "0000-00-00",
+      "epnum": "148",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Doll Dance"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 148 1st Song - Doll Dance_OTRRPG.mp3",
+          "time": "892",
+          "size": "14279087"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (148) First Song - Doll Dance.mp3",
+          "time": "889",
+          "size": "7110666"
+        }
+      ]
+    },
+    {
+      "ide": "264050",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - When Your Lover Is Gone"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (015) First Song - When Your Lover Is Gone.mp3",
+          "time": "854",
+          "size": "6832138"
+        }
+      ]
+    },
+    {
+      "ide": "263953",
+      "date": "0000-00-00",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - American Patrol"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 153 1st Song - American Patrol_OTRRPG.mp3",
+          "time": "844",
+          "size": "13519660"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (153) First Song - American Patrol.mp3",
+          "time": "843",
+          "size": "6744074"
+        }
+      ]
+    },
+    {
+      "ide": "263951",
+      "date": "0000-00-00",
+      "epnum": "154",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Ain't That A Shame"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 154 1st Song - Ain't That A Shame_OTRRPG.mp3",
+          "time": "843",
+          "size": "13501691"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (154) First Song - Ain't That A Shame.mp3",
+          "time": "841",
+          "size": "6731786"
+        }
+      ]
+    },
+    {
+      "ide": "264000",
+      "date": "0000-00-00",
+      "epnum": "155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Little Brown Jug"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 155 1st Song - Little Brown Jug_OTRRPG.mp3",
+          "time": "863",
+          "size": "13823518"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (155) First Song - Little Brown Jug.mp3",
+          "time": "862",
+          "size": "6895626"
+        }
+      ]
+    },
+    {
+      "ide": "264052",
+      "date": "0000-00-00",
+      "epnum": "156",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Why, Baby, Why"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 156 1st Song - Why, Baby, Why_OTRRPG.mp3",
+          "time": "882",
+          "size": "14118177"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (156) First Song - Why, Baby, Why.mp3",
+          "time": "878",
+          "size": "7028746"
+        }
+      ]
+    },
+    {
+      "ide": "264005",
+      "date": "0000-00-00",
+      "epnum": "157",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Love Me To Pieces"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 157 1st Song - Love Me To Pieces_OTRRPG.mp3",
+          "time": "857",
+          "size": "13719447"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (157) First Song - Love Me To Pieces.mp3",
+          "time": "855",
+          "size": "6840330"
+        }
+      ]
+    },
+    {
+      "ide": "263988",
+      "date": "0000-00-00",
+      "epnum": "158",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Love My Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 158 1st Song - I Love My Baby_OTRRPG.mp3",
+          "time": "859",
+          "size": "13762076"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (158) First Song - I Love My Baby.mp3",
+          "time": "857",
+          "size": "6860810"
+        }
+      ]
+    },
+    {
+      "ide": "264018",
+      "date": "0000-00-00",
+      "epnum": "159",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Please Don't Talk About Me When I'm Gone"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 159 1st Song - Please Don't Talk About Me When I'm Gone_OTRRPG.mp3",
+          "time": "863",
+          "size": "13826049"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (159) First Song - Please Don't Talk About Me When I'm Gone.mp3",
+          "time": "862",
+          "size": "6897674"
+        }
+      ]
+    },
+    {
+      "ide": "264049",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - When My Sugar Walks Down The Street"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 016 1st Song - When My Sugar Walks Down The Street_OTRRPG.mp3",
+          "time": "857",
+          "size": "13721136"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx xxx 1st Song - When My Sugar Walks Down The Street (64-44)_OTRRPG.mp3",
+          "time": "850",
+          "size": "6880260"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (016) First Song - When My Sugar Walks Down The Street.mp3",
+          "time": "854",
+          "size": "6832138"
+        }
+      ]
+    },
+    {
+      "ide": "264038",
+      "date": "0000-00-00",
+      "epnum": "160",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Trolley Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 160 1st Song - The Trolley Song_OTRRPG.mp3",
+          "time": "859",
+          "size": "13747449"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (160) First Song - The Trolley Song.mp3",
+          "time": "857",
+          "size": "6854666"
+        }
+      ]
+    },
+    {
+      "ide": "263980",
+      "date": "0000-00-00",
+      "epnum": "161",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - How High The Moon"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 161 1st Song - How High The Moon_OTRRPG.mp3",
+          "time": "886",
+          "size": "14187979"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (161) First Song - How High The Moon.mp3",
+          "time": "883",
+          "size": "7065610"
+        }
+      ]
+    },
+    {
+      "ide": "264039",
+      "date": "0000-00-00",
+      "epnum": "162",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The World Is Waiting For The Sunrise"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 162 1st Song - The World Is Waiting For The Sunrise_OTRRPG.mp3",
+          "time": "870",
+          "size": "13927191"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (162) First Song - The World Is Waiting For The Sunrise.mp3",
+          "time": "867",
+          "size": "6934538"
+        }
+      ]
+    },
+    {
+      "ide": "264044",
+      "date": "0000-00-00",
+      "epnum": "163",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Via Con Dios"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 163 1st Song - Via Con Deos_OTRRPG.mp3",
+          "time": "899",
+          "size": "14396954"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (163) First Song - Via Con Dios.mp3",
+          "time": "897",
+          "size": "7178250"
+        }
+      ]
+    },
+    {
+      "ide": "264025",
+      "date": "0000-00-00",
+      "epnum": "164",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Song In Blue (7)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 164 1st Song - Song In Blue_OTRRPG.mp3",
+          "time": "900",
+          "size": "14403641"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (164) First Song - Song In Blue (7).mp3",
+          "time": "896",
+          "size": "7172106"
+        }
+      ]
+    },
+    {
+      "ide": "263964",
+      "date": "0000-00-00",
+      "epnum": "165",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Crying Over You"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 165 1st Song - Crying Over You_OTRRPG.mp3",
+          "time": "861",
+          "size": "13785064"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (165) First Song - Crying Over You.mp3",
+          "time": "858",
+          "size": "6864906"
+        }
+      ]
+    },
+    {
+      "ide": "263971",
+      "date": "0000-00-00",
+      "epnum": "166",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Don't Get Around Much Anymore"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 166 1st Song - Don't Get Around Much Anymore_OTRRPG.mp3",
+          "time": "867",
+          "size": "13883299"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (166) First Song - Don't Get Around Much Anymore.mp3",
+          "time": "864",
+          "size": "6914058"
+        }
+      ]
+    },
+    {
+      "ide": "263956",
+      "date": "0000-00-00",
+      "epnum": "167",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Ask Me How Do I Feel"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 167 1st Song - Ask Me How Do I Feel_OTRRPG.mp3",
+          "time": "866",
+          "size": "13866989"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (167) First Song - Ask Me How Do I Feel.mp3",
+          "time": "863",
+          "size": "6905866"
+        }
+      ]
+    },
+    {
+      "ide": "264048",
+      "date": "0000-00-00",
+      "epnum": "168",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - What's New (3)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 168 1st Song - What's New_OTRRPG.mp3",
+          "time": "853",
+          "size": "13656746"
+        }
+      ]
+    },
+    {
+      "ide": "264055",
+      "date": "0000-00-00",
+      "epnum": "169",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You Make Me Feel So Young"
+        },
+        {
+          "title": "Helen O'Connell, the Glenn Miller Orchestra Under Ray McKinley"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 169 1st Song - You Make Me Feel So Young_OTRRPG.mp3",
+          "time": "883",
+          "size": "14139086"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (169) First Song - You Make Me Feel So Young.mp3",
+          "time": "880",
+          "size": "7041034"
+        }
+      ]
+    },
+    {
+      "ide": "264036",
+      "date": "0000-00-00",
+      "epnum": "170",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Man On The Street"
+        },
+        {
+          "title": "Helen O'Connell, the Glenn Miller Orchestra Under Ray McKinley"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 170 1st Song - The Man On The Street_OTRRPG.mp3",
+          "time": "865",
+          "size": "13843167"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (170) First Song - The Man On The Street.mp3",
+          "time": "862",
+          "size": "6899722"
+        }
+      ]
+    },
+    {
+      "ide": "264014",
+      "date": "0000-00-00",
+      "epnum": "171",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - No More Tears To Cry"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 171 1st Song - No More Tears To Cry_OTRRPG.mp3",
+          "time": "886",
+          "size": "14181295"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (171) First Song - No More Tears To Cry.mp3",
+          "time": "883",
+          "size": "7067658"
+        }
+      ]
+    },
+    {
+      "ide": "264008",
+      "date": "0000-00-00",
+      "epnum": "172",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Lullaby Of Birdland"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 172 1st Song - Lullaby of Birdland_OTRRPG.mp3",
+          "time": "866",
+          "size": "13861137"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (172) First Song - Lullaby Of Birdland.mp3",
+          "time": "863",
+          "size": "6901770"
+        }
+      ]
+    },
+    {
+      "ide": "264035",
+      "date": "0000-00-00",
+      "epnum": "173",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Lady Is A Tramp"
+        },
+        {
+          "title": "Tony Pastor Orchestra With Patti Page"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 173 1st Song - The Lady Is A Tramp_OTRRPG.mp3",
+          "time": "888",
+          "size": "14220582"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (173) First Song - The Lady Is A Tramp.mp3",
+          "time": "886",
+          "size": "7086090"
+        }
+      ]
+    },
+    {
+      "ide": "264031",
+      "date": "0000-00-00",
+      "epnum": "174",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Taking A Chance On Love"
+        },
+        {
+          "title": "Tony Pastor Orchestra With Patti Page"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 174 1st Song - Taking A Chance On Love_OTRRPG.mp3",
+          "time": "860",
+          "size": "13772116"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (174) First Song - Taking A Chance On Love.mp3",
+          "time": "858",
+          "size": "6864906"
+        }
+      ]
+    },
+    {
+      "ide": "263949",
+      "date": "0000-00-00",
+      "epnum": "175",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - A Foggy Day In London Town"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 175 1st Song - A Foggy Day In London Town_OTRRPG.mp3",
+          "time": "886",
+          "size": "14187570"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (175) First Song - A Foggy Day In London Town.mp3",
+          "time": "883",
+          "size": "7069706"
+        }
+      ]
+    },
+    {
+      "ide": "264041",
+      "date": "0000-00-00",
+      "epnum": "176",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - This Is My Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 176 1st Song - This Is My Song_OTRRPG.mp3",
+          "time": "893",
+          "size": "14301244"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (176) First Song - This Is My Song.mp3",
+          "time": "890",
+          "size": "7120906"
+        }
+      ]
+    },
+    {
+      "ide": "263992",
+      "date": "0000-00-00",
+      "epnum": "177",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Its A Big Wide Wonderful Love"
+        },
+        {
+          "title": "Ray Conniff Orchestra With Rosemary Clooney"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 177 1st Song - Its A Big Wide Wonderful Love_OTRRPG.mp3",
+          "time": "886",
+          "size": "14181722"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (177) First Song - Its A Big Wide Wonderful Love.mp3",
+          "time": "883",
+          "size": "7065610"
+        }
+      ]
+    },
+    {
+      "ide": "264001",
+      "date": "0000-00-00",
+      "epnum": "178",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Love and Affection"
+        },
+        {
+          "title": "Ray Conniff Orchestra With Rosemary Clooney"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 178 1st Song - Love and Affection_OTRRPG.mp3",
+          "time": "885",
+          "size": "14176277"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (178) First Song - Love and Affection.mp3",
+          "time": "883",
+          "size": "7063562"
+        }
+      ]
+    },
+    {
+      "ide": "264013",
+      "date": "0000-00-00",
+      "epnum": "179",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - New Sun In The Sky"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 179 1st Song - New Sun In The Sky_OTRRPG.mp3",
+          "time": "888",
+          "size": "14216401"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (179) First Song - New Sun In The Sky.mp3",
+          "time": "885",
+          "size": "7084042"
+        }
+      ]
+    },
+    {
+      "ide": "263990",
+      "date": "0000-00-00",
+      "epnum": "180",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Independent And On My Own"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 180 1st Song - I'm Independent And On My Own_OTRRPG.mp3",
+          "time": "887",
+          "size": "14207217"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (180) First Song - I'm Independent And On My Own.mp3",
+          "time": "884",
+          "size": "7075850"
+        }
+      ]
+    },
+    {
+      "ide": "263954",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - An American In Paris"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 002 1st Song - An American In Paris_OTRRPG.mp3",
+          "time": "866",
+          "size": "13870332"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (002) First Song - An American In Paris.mp3",
+          "time": "863",
+          "size": "6909962"
+        }
+      ]
+    },
+    {
+      "ide": "263976",
+      "date": "0000-00-00",
+      "epnum": "213",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - G'won Train"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "264009",
+      "date": "0000-00-00",
+      "epnum": "214",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Mam'selle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "263960",
+      "date": "0000-00-00",
+      "epnum": "215",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Boom!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "264003",
+      "date": "0000-00-00",
+      "epnum": "216",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Love Is Here To Stay"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "263981",
+      "date": "0000-00-00",
+      "epnum": "221",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - How High The Moon (3)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 221 1st Song - How High The Moon_OTRRPG.mp3",
+          "time": "883",
+          "size": "14142421"
+        }
+      ]
+    },
+    {
+      "ide": "264040",
+      "date": "0000-00-00",
+      "epnum": "222",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The World Is Waiting For The Sunrise (3)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 222 1st Song - The World Is Waiting For The Sunrise_OTRRPG.mp3",
+          "time": "880",
+          "size": "14093121"
+        }
+      ]
+    },
+    {
+      "ide": "263975",
+      "date": "0000-00-00",
+      "epnum": "223",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Fantasy"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 223 1st Song - Fantasy_OTRRPG.mp3",
+          "time": "882",
+          "size": "14119006"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (223) First Song - Fantasy.mp3",
+          "time": "880",
+          "size": "7038986"
+        }
+      ]
+    },
+    {
+      "ide": "263996",
+      "date": "0000-00-00",
+      "epnum": "224",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Johnny Is The Boy For Me (3)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 224 1st Song - Johnny Is The Boy For Me_OTRRPG.mp3",
+          "time": "878",
+          "size": "14057165"
+        }
+      ]
+    },
+    {
+      "ide": "263999",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Let's Go To Town"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 003 1st Song - Let's Go To Town_OTRRPG.mp3",
+          "time": "854",
+          "size": "13678485"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (003) First Song - Let's Go To Town.mp3",
+          "time": "852",
+          "size": "6815754"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (084) First Song - Take Everything But You (3).mp3",
+          "time": "883",
+          "size": "7063562"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (136) First Song - Hot Toddy (3).mp3",
+          "time": "866",
+          "size": "6932490"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (168) First Song - What's New (3).mp3",
+          "time": "851",
+          "size": "6809610"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (221) First Song - How High The Moon (3).mp3",
+          "time": "881",
+          "size": "7049226"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (222) First Song - The World Is Waiting For The Sunrise (3).mp3",
+          "time": "877",
+          "size": "7018506"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (224) First Song - Johnny Is The Boy For Me (3).mp3",
+          "time": "875",
+          "size": "7000074"
+        }
+      ]
+    },
+    {
+      "ide": "264034",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Jersey Bounce"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 037 1st Song - The Jersey Bounce_OTRRPG.mp3",
+          "time": "868",
+          "size": "13894571"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (037) First Song - The Jersey Bounce.mp3",
+          "time": "865",
+          "size": "6924298"
+        }
+      ]
+    },
+    {
+      "ide": "263966",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Dancing In The Dark"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 038 1st Song - Dancing In The Dark_OTRRPG.mp3",
+          "time": "858",
+          "size": "13745361"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (038) First Song - Dancing In The Dark.mp3",
+          "time": "856",
+          "size": "6846474"
+        }
+      ]
+    },
+    {
+      "ide": "264042",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Thunderbird"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 039 1st Song - Thunderbird_OTRRPG.mp3",
+          "time": "865",
+          "size": "13849843"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (039) First Song - Thunderbird.mp3",
+          "time": "863",
+          "size": "6905866"
+        }
+      ]
+    },
+    {
+      "ide": "263997",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Joshua"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 004 1st Song - Joshua_OTRRPG.mp3",
+          "time": "868",
+          "size": "13894560"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (004) First Song - Joshua.mp3",
+          "time": "865",
+          "size": "6922250"
+        }
+      ]
+    },
+    {
+      "ide": "263989",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Idaho"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 040 1st Song - Idaho_OTRRPG.mp3",
+          "time": "869",
+          "size": "13907933"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (040) First Song - Idaho.mp3",
+          "time": "868",
+          "size": "6942730"
+        }
+      ]
+    },
+    {
+      "ide": "264037",
+      "date": "0000-00-00",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Song Is You"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 049 1st Song - The Song Is You_OTRRPG.mp3",
+          "time": "878",
+          "size": "14055065"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (049) First Song - The Song Is You.mp3",
+          "time": "875",
+          "size": "7000074"
+        }
+      ]
+    },
+    {
+      "ide": "264054",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - You Do Something To Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 050 1st Song - You Do Something To Me_OTRRPG.mp3",
+          "time": "871",
+          "size": "13951418"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (050) First Song - You Do Something To Me.mp3",
+          "time": "868",
+          "size": "6946826"
+        }
+      ]
+    },
+    {
+      "ide": "263974",
+      "date": "0000-00-00",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Dutch Treat"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 051 1st Song - Dutch Treat_OTRRPG.mp3",
+          "time": "865",
+          "size": "13856112"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (051) First Song - Dutch Treat.mp3",
+          "time": "862",
+          "size": "6899722"
+        }
+      ]
+    },
+    {
+      "ide": "263969",
+      "date": "0000-00-00",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Do You Ever Think Of Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 052 1st Song - Do You Ever Think of Me_OTRRPG.mp3",
+          "time": "876",
+          "size": "14029577"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (052) First Song - Do You Ever Think Of Me.mp3",
+          "time": "874",
+          "size": "6995978"
+        }
+      ]
+    },
+    {
+      "ide": "313959",
+      "date": "0000-00-00",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Granada"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 54xxxx 061 1st Song - Granada (96-44)_OTRRPG.mp3",
+          "time": "872",
+          "size": "10471033"
+        }
+      ]
+    },
+    {
+      "ide": "313960",
+      "date": "0000-00-00",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Down By The Riverside"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 54xxxx 062 1st Song - Down By The Riverside (96-44)_OTRRPG.mp3",
+          "time": "873",
+          "size": "10490439"
+        }
+      ]
+    },
+    {
+      "ide": "329870",
+      "date": "0000-00-00",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Lullaby of Broadway'. With Jimmy Dorsey and Mindy Carson"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Korn Kobblers",
+          "name": "Korn Kobblers 41xxxx 160 1st; 'Horsey, Keep Your Tail Up'. Ziv Production.mp3",
+          "time": "873",
+          "size": "14042234"
+        }
+      ]
+    },
+    {
+      "ide": "329871",
+      "date": "0000-00-00",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Out of Nowhere' Guest - Mindy Carson"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go to Town 063 54xxxx 1st; 'Lullaby of Broadway'. With Jimmy Dorsey and Mindy Carson (64-44).mp3",
+          "time": "865",
+          "size": "6993916"
+        }
+      ]
+    },
+    {
+      "ide": "264026",
+      "date": "0000-00-00",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Song of India"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 54xxxx 069 1st Song - Song of India (96-44)_OTRRPG.mp3",
+          "time": "879",
+          "size": "10554917"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (069) First Song - Song of India.mp3",
+          "time": "917",
+          "size": "3670927"
+        }
+      ]
+    },
+    {
+      "ide": "264046",
+      "date": "0000-00-00",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - What a Dream"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 54xxxx 070 1st Song - What A Dream (96-44)_OTRRPG.mp3",
+          "time": "896",
+          "size": "10761497"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (070) First Song - What a Dream.mp3",
+          "time": "941",
+          "size": "3768103"
+        }
+      ]
+    },
+    {
+      "ide": "263963",
+      "date": "0000-00-00",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Cross over the Bridge"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 54xxxx 071 1st Song - Cross Over The Bridge (96-44)_OTRRPG.mp3",
+          "time": "899",
+          "size": "10801561"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (071) First Song - Cross over the Bridge.mp3",
+          "time": "940",
+          "size": "3762878"
+        }
+      ]
+    },
+    {
+      "ide": "263993",
+      "date": "0000-00-00",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - It's a Wonderful World"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 54xxxx 072 1st Song - It's A Wonderful World (96-44)_OTRRPG.mp3",
+          "time": "877",
+          "size": "10528625"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (072) First Song - It's a Wonderful World.mp3",
+          "time": "917",
+          "size": "3669464"
+        }
+      ]
+    },
+    {
+      "ide": "264007",
+      "date": "0000-00-00",
+      "epnum": "73",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Lucky in Love"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (073) First Song - Lucky in Love.mp3",
+          "time": "904",
+          "size": "3618682"
+        }
+      ]
+    },
+    {
+      "ide": "263965",
+      "date": "0000-00-00",
+      "epnum": "74",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Dance My Heart"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (074) First Song - Dance My Heart.mp3",
+          "time": "902",
+          "size": "3610741"
+        }
+      ]
+    },
+    {
+      "ide": "263962",
+      "date": "0000-00-00",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Cat Dancing"
+        },
+        {
+          "title": "Mindy Carson & Ray Anthony and His Orchestra"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (075) First Song - Cat Dancing.mp3",
+          "time": "916",
+          "size": "3665703"
+        }
+      ]
+    },
+    {
+      "ide": "264027",
+      "date": "0000-00-00",
+      "epnum": "76",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Steam Heat"
+        },
+        {
+          "title": "Mindy Carson & Ray Anthony and His Orchestra"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (076) First Song - Steam Heat.mp3",
+          "time": "901",
+          "size": "3605935"
+        }
+      ]
+    },
+    {
+      "ide": "264045",
+      "date": "0000-00-00",
+      "epnum": "77",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Wait for Me, Darling"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (077) First Song - Wait for Me, Darling.mp3",
+          "time": "896",
+          "size": "3587544"
+        }
+      ]
+    },
+    {
+      "ide": "263978",
+      "date": "0000-00-00",
+      "epnum": "78",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hot Toddy"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (078) First Song - Hot Toddy.mp3",
+          "time": "875",
+          "size": "3501445"
+        }
+      ]
+    },
+    {
+      "ide": "264029",
+      "date": "0000-00-00",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Take Everything But You"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 081 1st Song - Take Everything But You_OTRRPG.mp3",
+          "time": "887",
+          "size": "14195089"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (081) First Song - Take Everything But You.mp3",
+          "time": "884",
+          "size": "7069706"
+        }
+      ]
+    },
+    {
+      "ide": "264058",
+      "date": "0000-00-00",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Zing Went The Strings Of My Heart"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 082 1st Song - Zing Went The Strings of My Heart_OTRRPG.mp3",
+          "time": "861",
+          "size": "13779230"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (082) First Song - Zing Went The Strings Of My Heart.mp3",
+          "time": "858",
+          "size": "6862858"
+        }
+      ]
+    },
+    {
+      "ide": "263984",
+      "date": "0000-00-00",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Can't Give You Anything But Love"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 083 1st Song - I Can't Give You Anything But Love_OTRRPG.mp3",
+          "time": "870",
+          "size": "13935966"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (083) First Song - I Can't Give You Anything But Love.mp3",
+          "time": "867",
+          "size": "6938634"
+        }
+      ]
+    },
+    {
+      "ide": "264030",
+      "date": "0000-00-00",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Take Everything But You (3)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 084 1st Song - Take Everything But You repeat of #81_OTRRPG.mp3",
+          "time": "886",
+          "size": "14185492"
+        }
+      ]
+    },
+    {
+      "ide": "263967",
+      "date": "0000-00-00",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Deed I Do"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 085 1st Song - Deed I Do_OTRRPG.mp3",
+          "time": "875",
+          "size": "14006994"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (085) First Song - Deed I Do.mp3",
+          "time": "872",
+          "size": "6975498"
+        }
+      ]
+    },
+    {
+      "ide": "264006",
+      "date": "0000-00-00",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Lover Come Back To Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 086 1st Song - Lover Come Back To Me_OTRRPG.mp3",
+          "time": "885",
+          "size": "14173771"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (086) First Song - Lover Come Back To Me.mp3",
+          "time": "882",
+          "size": "7059466"
+        }
+      ]
+    },
+    {
+      "ide": "264011",
+      "date": "0000-00-00",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Miserlou"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 087 1st Song - Miserlou_OTRRPG.mp3",
+          "time": "872",
+          "size": "13965615"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 087 1st Song - Misterloo_OTRRPG.mp3",
+          "time": "841",
+          "size": "13540788"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (087) First Song - Miserlou.mp3",
+          "time": "869",
+          "size": "6955018"
+        }
+      ]
+    },
+    {
+      "ide": "264053",
+      "date": "0000-00-00",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Yankee Doodle Town"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 088 1st Song - Yankee Doodle Town_OTRRPG.mp3",
+          "time": "888",
+          "size": "14224341"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (088) First Song - Yankee Doodle Town.mp3",
+          "time": "887",
+          "size": "7100426"
+        }
+      ]
+    },
+    {
+      "ide": "264022",
+      "date": "0000-00-00",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Song In Blue"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 097 1st Song - Song In Blue_OTRRPG.mp3",
+          "time": "862",
+          "size": "13798435"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (097) First Song - Song In Blue.mp3",
+          "time": "859",
+          "size": "6871050"
+        }
+      ]
+    },
+    {
+      "ide": "263961",
+      "date": "0000-00-00",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Buck Dance"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 098 1st Song - Buck Dance_OTRRPG.mp3",
+          "time": "871",
+          "size": "13940539"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (098) First Song - Buck Dance.mp3",
+          "time": "868",
+          "size": "6940682"
+        }
+      ]
+    },
+    {
+      "ide": "263957",
+      "date": "0000-00-00",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Auctioneer"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town xxxxxx 099 1st Song - Auctioneer_OTRRPG.mp3",
+          "time": "868",
+          "size": "13903341"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go To Town",
+          "name": "Let's Go To Town 5x-xx-xx (099) First Song - Auctioneer.mp3",
+          "time": "865",
+          "size": "6922250"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "0000-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "AFRS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "National Guard recruiting",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Let's Go To Town"
+    }
+  ]
+}

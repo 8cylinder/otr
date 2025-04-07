@@ -1,0 +1,140 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "48321",
+      "first": "John",
+      "last": "Stanton",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "48322",
+      "first": "Andrew",
+      "last": "Gainey",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "48323",
+      "first": "Gil",
+      "last": "Berkley",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "48324",
+      "first": "Milton",
+      "last": "Sherdnick",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "43196",
+      "first": "Nora",
+      "last": "Sterling",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Gossip"
+    },
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-11-10",
+      "dow": "Su",
+      "time": "10:30 PM",
+      "end": "1941-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1944-01-24",
+      "dow": "M,Tu,W,Th,F",
+      "time": "6:15 PM",
+      "end": "1943-06-13",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Chamberlain Sales Corp. (hand lotion)",
+      "begin": "1944-01-24",
+      "end": "1944-06-13"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Serenade to Loveliness"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "FICH"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,883066,00.html",
+      "label": "1938-07-25: Honeymoon Ended",
+      "idtype": "11"
+    }
+  ],
+  "infos": [
+    {
+      "info": "By Hickerson, the show was ';irregularly broadcast.'"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "5113",
+      "first": "Franklin Delano",
+      "last": "Roosevelt",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5988",
+      "first": "Robert",
+      "last": "Trout",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "46935",
+      "first": "Granville",
+      "last": "Klink",
+      "f": "Noted Role",
+      "character": "Technician"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "62395",
+      "date": "1933-03-12",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Bank Crisis"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62396",
+      "date": "1933-05-07",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Outlining the New Deal Program"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62397",
+      "date": "1933-07-24",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "On the Purposes and Foundations of the Recovery Program"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62398",
+      "date": "1933-10-22",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "On the Currency Situation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62399",
+      "date": "1934-06-28",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Review of the Seventy-Third Congress"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62400",
+      "date": "1934-09-30",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Moving Forward to Greater Freedom and Security"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62401",
+      "date": "1935-04-28",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Works Relief Program"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62402",
+      "date": "1936-09-06",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Drought Conditions"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62403",
+      "date": "1937-03-09",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Reorganization of the Judiciary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62404",
+      "date": "1937-10-12",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Legislation to Be Recommended to Congress"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62405",
+      "date": "1937-11-14",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Unemployment Census"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62406",
+      "date": "1938-04-14",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Economic Conditions"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62407",
+      "date": "1938-06-24",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Party Primaries"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62408",
+      "date": "1939-09-03",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the European War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62409",
+      "date": "1940-05-26",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On National Defence"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62410",
+      "date": "1940-09-29",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On National Security"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62411",
+      "date": "1941-05-27",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Announcing Unlimited National Emergency"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62412",
+      "date": "1941-09-11",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Maintaining Freedom of the Seas"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62413",
+      "date": "1941-12-09",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Declaration of War with Japan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62414",
+      "date": "1942-02-23",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Progress of the War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62415",
+      "date": "1942-04-28",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Our National Economic Policy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62416",
+      "date": "1942-09-07",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Inflation and Progress of the War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62417",
+      "date": "1942-10-12",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Report on the Home Front"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62418",
+      "date": "1943-05-02",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Coal Crisis"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62419",
+      "date": "1943-07-28",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Progress of War and Plans for Peace"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Franklin D. Roosevelt",
+          "name": "FDR Fireside Chat 430728 25 On Progress of War And Plans For Peace_OTRRPG.mp3",
+          "time": "1753",
+          "size": "28128458"
+        }
+      ]
+    },
+    {
+      "ide": "62420",
+      "date": "1943-09-08",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Opening Third War Loan Drive"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62421",
+      "date": "1943-12-24",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Tehran and Cairo Conferences"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62422",
+      "date": "1944-01-11",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "State of the Union Address"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62423",
+      "date": "1944-06-05",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Fall of Rome"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "62424",
+      "date": "1944-06-12",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Opening Fifth War Loan Drive"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Fireside Chats"
+    }
+  ]
+}

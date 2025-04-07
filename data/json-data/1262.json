@@ -1,0 +1,132 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2949",
+      "first": "Dean",
+      "last": "Jagger",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4275",
+      "first": "Carlton E.",
+      "last": "Morse",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "307507",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "EQ"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bennetts, The",
+          "name": "Bennetts, The 46xxxx xx_OTRRPG.mp3",
+          "time": "1630",
+          "size": "26152114"
+        },
+        {
+          "path": "B",
+          "folder": "Bennetts, The",
+          "name": "Bennetts, The 46-xx-xx EQ.mp3",
+          "time": "1624",
+          "size": "12992649"
+        }
+      ]
+    },
+    {
+      "ide": "312722",
+      "date": "1945-11-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Audition show written by Carlton E. Morse"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bennetts, The",
+          "name": "Bennetts, The 451120 04 _OTRRPG.mp3",
+          "time": "1630",
+          "size": "26153554"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Bennetts, The"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322163845-23ccb834.jpg",
+      "label": "Battle Stations CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322163900-54b41534.jpg",
+      "label": "Battle Stations CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322163905-3a5458eb.jpg",
+      "label": "Battle Stations CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Battle-Stations.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-1178-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Battle-Stations.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logb1011.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Battle Stations/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1268",
+      "first": "Jack",
+      "last": "Costello",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "7560",
+      "first": "Joseph 'Joe'",
+      "last": "Mansfield",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "28946",
+      "first": "Charles J.",
+      "last": "Gussman",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "46831",
+      "first": "Leo",
+      "last": "Campeski",
+      "f": "Noted Role",
+      "character": "Music Composer"
+    },
+    {
+      "idperson": "50459",
+      "first": "Josef",
+      "last": "Stopek",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "26719",
+      "date": "1943-08-05",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle of the Atlantic, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Battle Stations",
+          "name": "Battle Stations 43-08-05 (1) The Battle of the Atlantic.mp3",
+          "time": "1770",
+          "size": "7082004"
+        }
+      ]
+    },
+    {
+      "ide": "26720",
+      "date": "1943-08-12",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eastern Sea Frontier, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Battle Stations",
+          "name": "Battle Stations 43-08-12 (2) The Eastern Sea Frontier.mp3",
+          "time": "1744",
+          "size": "6975508"
+        }
+      ]
+    },
+    {
+      "ide": "26721",
+      "date": "1943-08-19",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Navy's Air Arm, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Battle Stations",
+          "name": "Battle Stations 43-08-19 (3) The Navy's Air Arm.mp3",
+          "time": "1766",
+          "size": "7065620"
+        }
+      ]
+    },
+    {
+      "ide": "26722",
+      "date": "1943-08-25",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Air Arm in World War I, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Battle Stations",
+          "name": "Battle Stations 43-08-25 (4) The Air Arm in World War I.mp3",
+          "time": "1783",
+          "size": "7133204"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Battle Stations"
+    }
+  ]
+}

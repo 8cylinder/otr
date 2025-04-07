@@ -1,0 +1,610 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185554-04fbafcf.jpg",
+      "label": "American Adventure CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185555-5b6cd060.jpg",
+      "label": "American Adventure CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185556-4b891c47.jpg",
+      "label": "American Adventure CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-American-Adventure.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-723-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-American-Adventure.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loga1033.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/American Adventure/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "22766",
+      "date": "1955-07-28",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "King with a Crown, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-07-28 (01) A King with a Crown.mp3",
+          "time": "1740",
+          "size": "6961947"
+        }
+      ]
+    },
+    {
+      "ide": "22767",
+      "date": "1955-08-04",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hearth Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-08-04 (02) Hearth Fire.mp3",
+          "time": "1761",
+          "size": "7046053"
+        }
+      ]
+    },
+    {
+      "ide": "22768",
+      "date": "1955-08-11",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Builders on the River"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-08-11 (03) Builders on the River.mp3",
+          "time": "1769",
+          "size": "7075738"
+        }
+      ]
+    },
+    {
+      "ide": "22769",
+      "date": "1955-08-18",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eccentric, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22770",
+      "date": "1955-08-25",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of a Poet, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-08-25 (05) The Story of a Poet.mp3",
+          "time": "1752",
+          "size": "7009698"
+        }
+      ]
+    },
+    {
+      "ide": "22771",
+      "date": "1955-09-01",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grandfather Jefferson"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-09-01 (06) Grandfather Jefferson.mp3",
+          "time": "1736",
+          "size": "6944499"
+        }
+      ]
+    },
+    {
+      "ide": "22772",
+      "date": "1955-09-08",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Grenade"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-09-08 (07) Grenade.mp3",
+          "time": "1732",
+          "size": "6929752"
+        }
+      ]
+    },
+    {
+      "ide": "22773",
+      "date": "1955-09-15",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Judas Tree, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22774",
+      "date": "1955-09-22",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rat on Lincoln Avenue, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-09-22 (09) The Rat on Lincoln Avenue.mp3",
+          "time": "1762",
+          "size": "7047530"
+        }
+      ]
+    },
+    {
+      "ide": "22775",
+      "date": "1955-09-29",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Appointment at Fords"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-09-29 (10) Appointment at Fords.mp3",
+          "time": "1699",
+          "size": "6796541"
+        }
+      ]
+    },
+    {
+      "ide": "22776",
+      "date": "1955-10-06",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dial Emergency"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-10-06 (11) Dial Emergency.mp3",
+          "time": "1718",
+          "size": "6871246"
+        }
+      ]
+    },
+    {
+      "ide": "22777",
+      "date": "1955-10-13",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Leader of a Dream"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22778",
+      "date": "1955-10-20",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonny Appleseed"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-10-20 (13) Jonny Appleseed.mp3",
+          "time": "1710",
+          "size": "6839691"
+        }
+      ]
+    },
+    {
+      "ide": "22779",
+      "date": "1955-10-27",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-10-27 (14) The Battle.mp3",
+          "time": "1734",
+          "size": "6937070"
+        }
+      ]
+    },
+    {
+      "ide": "22780",
+      "date": "1955-11-03",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yankee Loves a Lady, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-11-03 (15) The Yankee Loves a Lady.mp3",
+          "time": "1757",
+          "size": "7028825"
+        }
+      ]
+    },
+    {
+      "ide": "22781",
+      "date": "1955-11-10",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Orchid, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "22782",
+      "date": "1955-11-17",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Federal Lion"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-11-17 (17) Federal Lion.mp3",
+          "time": "1543",
+          "size": "6171057"
+        }
+      ]
+    },
+    {
+      "ide": "22783",
+      "date": "1955-11-24",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "George Washington Carver"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-11-24 (18) George Washington Carver.mp3",
+          "time": "1440",
+          "size": "5762096"
+        }
+      ]
+    },
+    {
+      "ide": "22784",
+      "date": "1955-12-01",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Zenger Trial, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-12-01 (19) The Zemper Trail.mp3",
+          "time": "1472",
+          "size": "5886640"
+        }
+      ]
+    },
+    {
+      "ide": "22785",
+      "date": "1955-12-08",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thomas Wolfe and Unsound Door"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-12-08 (20) Thomas Wolfe and Unsound Door.mp3",
+          "time": "1491",
+          "size": "5964812"
+        }
+      ]
+    },
+    {
+      "ide": "22786",
+      "date": "1955-12-15",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of Cyrus Fields, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-12-15 (21) The Story of Cyrus Fields.mp3",
+          "time": "1434",
+          "size": "5734721"
+        }
+      ]
+    },
+    {
+      "ide": "22787",
+      "date": "1955-12-29",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pierre L'Entant; Paint the Big Canvas"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 55-12-29 (22) Pierre L'Entant; Paint the Big Canvas.mp3",
+          "time": "1496",
+          "size": "5985509"
+        }
+      ]
+    },
+    {
+      "ide": "22788",
+      "date": "1956-01-05",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Joe Palmer; the Free Man"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 56-01-05 (23) Joe Palmer; the Free Man.mp3",
+          "time": "1457",
+          "size": "5826776"
+        }
+      ]
+    },
+    {
+      "ide": "22789",
+      "date": "1956-01-12",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "John Williams; Runaway Justice"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 56-01-12 (24) John Williams; Runaway Justice.mp3",
+          "time": "1484",
+          "size": "5937018"
+        }
+      ]
+    },
+    {
+      "ide": "22790",
+      "date": "1956-01-26",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Demagogue, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 56-01-26 (25) The Demagogue.mp3",
+          "time": "1438",
+          "size": "5753204"
+        }
+      ]
+    },
+    {
+      "ide": "22791",
+      "date": "1956-02-02",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pioneer Call; Eli Lige - A Pioneer, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 56-02-02 (26) The Pioneer Call; Eli Lige - A Pioneer.mp3",
+          "time": "1451",
+          "size": "5804847"
+        }
+      ]
+    },
+    {
+      "ide": "22792",
+      "date": "1956-02-09",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ezra Lee; Man of Iron"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Adventure",
+          "name": "American Adventure 56-02-09 (27) Ezra Lee; Man of Iron.mp3",
+          "time": "1478",
+          "size": "5912036"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    },
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "American Adventure Series, The"
+    }
+  ]
+}

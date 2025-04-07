@@ -1,0 +1,858 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2751",
+      "first": "Jane",
+      "last": "Hoffman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "43749",
+      "first": "Dolores",
+      "last": "Sutton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48176",
+      "first": "Richard",
+      "last": "Cox",
+      "f": "Noted Role",
+      "character": "Creator"
+    },
+    {
+      "idperson": "48176",
+      "first": "Richard",
+      "last": "Cox",
+      "f": "Producer",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312501",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Becky And Gordon Bide In The Little Cottage"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair xxxxxx xxx Becky And Gordon Bide In The Little Cottage_OTRRPG.mp3",
+          "time": "659",
+          "size": "10628304"
+        }
+      ]
+    },
+    {
+      "ide": "312502",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Becky Greets Miss Wicket"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair xxxxxx xxx Becky Greets Miss Wicket_OTRRPG.mp3",
+          "time": "668",
+          "size": "10704680"
+        }
+      ]
+    },
+    {
+      "ide": "312503",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Becky Is In The Garret Where She Once Lived"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair xxxxxx xxx Becky Is In The Garret Where She Once Lived_OTRRPG.mp3",
+          "time": "735",
+          "size": "11840804"
+        }
+      ]
+    },
+    {
+      "ide": "312504",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Becky's Leaving Is Delayed By The Arrival of Emily"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair xxxxxx xxx Becky's Leaving Is Delayed By The Arrival of Emily_OTRRPG.mp3",
+          "time": "643",
+          "size": "10364579"
+        }
+      ]
+    },
+    {
+      "ide": "312505",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captain Gordon Sits Alone Without Becky"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair xxxxxx xxx Captain Gordon Sits Alone Without Becky_OTRRPG.mp3",
+          "time": "652",
+          "size": "10514197"
+        }
+      ]
+    },
+    {
+      "ide": "312506",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captian George Osborn Tries On His New Uniform"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair xxxxxx xxx Captian George Osborn Tries On His New Uniform_OTRRPG.mp3",
+          "time": "721",
+          "size": "11554809"
+        }
+      ]
+    },
+    {
+      "ide": "312507",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Coaches Pass On The Highway"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair xxxxxx xxx Two Coaches Pass On The Highway_OTRRPG.mp3",
+          "time": "729",
+          "size": "11750543"
+        }
+      ]
+    },
+    {
+      "ide": "25159",
+      "date": "1975-08-04",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25160",
+      "date": "1975-08-05",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25161",
+      "date": "1975-08-06",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25162",
+      "date": "1975-08-07",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25163",
+      "date": "1975-08-08",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25164",
+      "date": "1975-08-11",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25165",
+      "date": "1975-08-12",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25166",
+      "date": "1975-08-13",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25167",
+      "date": "1975-08-14",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25168",
+      "date": "1975-08-15",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25169",
+      "date": "1975-08-18",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25170",
+      "date": "1975-08-19",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25171",
+      "date": "1975-08-20",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25172",
+      "date": "1975-08-21",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25173",
+      "date": "1975-08-22",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25174",
+      "date": "1975-08-25",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25175",
+      "date": "1975-08-26",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25176",
+      "date": "1975-08-27",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25177",
+      "date": "1975-08-28",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25178",
+      "date": "1975-08-29",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25179",
+      "date": "1975-09-01",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25180",
+      "date": "1975-09-02",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25181",
+      "date": "1975-09-03",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25182",
+      "date": "1975-09-04",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25183",
+      "date": "1975-09-05",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25184",
+      "date": "1975-09-08",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25185",
+      "date": "1975-09-09",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25186",
+      "date": "1975-09-10",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25187",
+      "date": "1975-09-11",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25188",
+      "date": "1975-09-12",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25189",
+      "date": "1975-09-15",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25190",
+      "date": "1975-09-16",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25191",
+      "date": "1975-09-17",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25192",
+      "date": "1975-09-18",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25193",
+      "date": "1975-09-19",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25194",
+      "date": "1975-09-22",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25195",
+      "date": "1975-09-23",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25196",
+      "date": "1975-09-24",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25197",
+      "date": "1975-09-25",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25198",
+      "date": "1975-09-26",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25199",
+      "date": "1975-09-29",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25200",
+      "date": "1975-09-30",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25201",
+      "date": "1975-10-01",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25202",
+      "date": "1975-10-02",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25203",
+      "date": "1975-10-03",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25204",
+      "date": "1975-10-06",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25205",
+      "date": "1975-10-07",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25206",
+      "date": "1975-10-08",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25207",
+      "date": "1975-10-09",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25208",
+      "date": "1975-10-10",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25209",
+      "date": "1975-10-13",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25210",
+      "date": "1975-10-14",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25211",
+      "date": "1975-10-15",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25212",
+      "date": "1975-10-16",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25213",
+      "date": "1975-10-17",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25214",
+      "date": "1975-10-20",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25215",
+      "date": "1975-10-21",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25216",
+      "date": "1975-10-22",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25217",
+      "date": "1975-10-23",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25218",
+      "date": "1975-10-24",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25219",
+      "date": "1975-10-27",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25220",
+      "date": "1975-10-28",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25221",
+      "date": "1975-10-29",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25222",
+      "date": "1975-10-30",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25223",
+      "date": "1975-10-31",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25224",
+      "date": "1975-11-03",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25225",
+      "date": "1975-11-04",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "25226",
+      "date": "1975-11-05",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "312495",
+      "date": "1976-02-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Darling, Dearest"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair 760202 131 Darling, Dearest_OTRRPG.mp3",
+          "time": "724",
+          "size": "11663156"
+        }
+      ]
+    },
+    {
+      "ide": "312496",
+      "date": "1976-02-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dearest, How Does It Sound So Far"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair 760203 132 Dearest, How Does It Sound So Far _OTRRPG.mp3",
+          "time": "734",
+          "size": "11821162"
+        }
+      ]
+    },
+    {
+      "ide": "312497",
+      "date": "1976-02-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Dear Matilda"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair 760204 133 My Dear Matilda_OTRRPG.mp3",
+          "time": "695",
+          "size": "11200892"
+        }
+      ]
+    },
+    {
+      "ide": "312498",
+      "date": "1976-02-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Another Sausage My Dear"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair 760209 136 Another Sausage My Dear _OTRRPG.mp3",
+          "time": "728",
+          "size": "11733169"
+        }
+      ]
+    },
+    {
+      "ide": "312499",
+      "date": "1976-02-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "uthor's Studio - Vanity Fair 760210 137 Miss Becky"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair 760210 137 Miss Becky_OTRRPG.mp3",
+          "time": "728",
+          "size": "11733367"
+        }
+      ]
+    },
+    {
+      "ide": "312500",
+      "date": "1976-02-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "She's Not Happy"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Author's Studio",
+          "name": "Author's Studio - Vanity Fair 760211 138 She's Not Happy _OTRRPG.mp3",
+          "time": "729",
+          "size": "11748838"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Author's Studio"
+    }
+  ]
+}

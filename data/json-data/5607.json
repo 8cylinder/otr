@@ -1,0 +1,884 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/L Series/Leave It To The Girls/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,776963,00.html",
+      "label": "1946-07-29: Know-How Woman",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-5607-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Hickerson reports that the sponsorship by Continental Parmac. Co was from 9/10/48 to 12/3/48. - Dunning, in the Enclyclopedia of Old Time Radio, lists Paula Stone as moderator in the east, and when the show moved to Hollywood in 1948, George Brent in the west. Ted Malone is listed as host. - Other panelists listed by Dunning: Jinx Falkenburg, Ilka Chase, Madge Evans, Edyth Gwynn, Silvia Sidney. Additional guests listed: George Jessel, Henry Morgan. - Dunning shows the Friday broadcasts at 8:30 pm."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "272",
+      "first": "Lucille",
+      "last": "Ball",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "345",
+      "first": "Binnie",
+      "last": "Barnes",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "398",
+      "first": "Andre",
+      "last": "Baruch",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "478",
+      "first": "Constance",
+      "last": "Bennett",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "507",
+      "first": "Milton",
+      "last": "Berle",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "715",
+      "first": "George",
+      "last": "Brent",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "785",
+      "first": "Vanessa",
+      "last": "Brown",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "2033",
+      "first": "Arlene",
+      "last": "Francis",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "3205",
+      "first": "Dorothy",
+      "last": "Kilgallen",
+      "f": "Noted Role",
+      "character": "Panelist, moderator"
+    },
+    {
+      "idperson": "3513",
+      "first": "Oscar",
+      "last": "Levant",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4005",
+      "first": "Eloise",
+      "last": "McElhone",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "4058",
+      "first": "Maggi",
+      "last": "McNellis",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "5146",
+      "first": "Martha",
+      "last": "Rountree",
+      "f": "Noted Role",
+      "character": "Creator"
+    },
+    {
+      "idperson": "5146",
+      "first": "Martha",
+      "last": "Rountree",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "13189",
+      "first": "Robin",
+      "last": "Chandler",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "39582",
+      "first": "Fred",
+      "last": "Allen",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "39874",
+      "first": "Jean",
+      "last": "Wright",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "46680",
+      "first": "Florence",
+      "last": "Pritchett",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "46681",
+      "first": "Joan",
+      "last": "Sinclaire",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "107",
+      "first": "Jack",
+      "last": "Arthur",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1061",
+      "first": "Ilka",
+      "last": "Chase",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "1837",
+      "first": "Madge",
+      "last": "Evans",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "2800",
+      "first": "Hedda",
+      "last": "Hopper",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "2989",
+      "first": "George",
+      "last": "Jessel",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "3363",
+      "first": "Burt",
+      "last": "Lancaster",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "3368",
+      "first": "Elissa",
+      "last": "Landi",
+      "f": "Noted Role",
+      "character": "Moderator"
+    },
+    {
+      "idperson": "3776",
+      "first": "Ted",
+      "last": "Malone",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "4249",
+      "first": "Henry",
+      "last": "Morgan",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "4469",
+      "first": "Walter",
+      "last": "O'Keefe",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "5437",
+      "first": "Sylvia",
+      "last": "Sidney",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "5701",
+      "first": "Paula",
+      "last": "Stone",
+      "f": "Noted Role",
+      "character": "Moderator"
+    },
+    {
+      "idperson": "6047",
+      "first": "Rudy",
+      "last": "Vallee",
+      "f": "Noted Role",
+      "character": "Moderator"
+    },
+    {
+      "idperson": "21983",
+      "first": "Edith",
+      "last": "Gwynn",
+      "f": "Noted Role",
+      "character": "Panelist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "21",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2180",
+      "idtype": "4",
+      "page": "24",
+      "article": "",
+      "url": "",
+      "date": "1946-01-01",
+      "source": "Radio Mirror/Radio Mirror 4601.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4601",
+      "author": ""
+    },
+    {
+      "idprint": "2182",
+      "idtype": "4",
+      "page": "42",
+      "article": "Have You Forgotten?",
+      "url": "",
+      "date": "1946-03-01",
+      "source": "Radio Mirror/Radio Mirror 4603.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4603",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "4936",
+      "idtype": "4",
+      "page": "28",
+      "article": "",
+      "url": "undefined",
+      "date": "1946-03-01",
+      "source": "Radio Row/Radio Row 1946 Spring.pdf",
+      "idpytype2": "4",
+      "title": "Radio Row 1946 Spring",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Originally conceived as a serious panel discussion show with 4 career women discussing problems submitted by listeners, the program evolved into a semi-comedy with many of the problems bordering on the humorous or ridiculous. - (Handbook of Old-Time Radio p.413)"
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "284042",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who Enjoys The Best Position In Life, Men or Women"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave It To The Girls 49-xx-xx Who's in the Best Position.mp3",
+          "time": "1602",
+          "size": "6410430"
+        }
+      ]
+    },
+    {
+      "ide": "284020",
+      "date": "1945-09-28",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "James Stuart Gordon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284034",
+      "date": "1945-12-08",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Girls Answer Questions Sent by Listeners, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave It To The Girls 45-12-08 The Girls Answer Questions Sent by Listeners.mp3",
+          "time": "1823",
+          "size": "18229165"
+        }
+      ]
+    },
+    {
+      "ide": "284035",
+      "date": "1946-05-11",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do Girls Like To Be Pushed Around"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave It To The Girls 1946.05.11 With William Bradford Huey.mp3",
+          "time": "1830",
+          "size": "7426554"
+        }
+      ]
+    },
+    {
+      "ide": "284036",
+      "date": "1946-06-01",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle of the Sexes Continues, AFRS #14, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave It To The Girls 1946.06.01 With Ted Maloy.mp3",
+          "time": "1839",
+          "size": "7463623"
+        }
+      ]
+    },
+    {
+      "ide": "284037",
+      "date": "1946-06-15",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Husband Doesn't Understand Me, AFRS #2"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave It To The Girls 1946.06.15 With Morey Amsterdam.mp3",
+          "time": "1849",
+          "size": "7502715"
+        }
+      ]
+    },
+    {
+      "ide": "284038",
+      "date": "1946-07-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Engagement Ring Turns Out To Be Glass"
+        },
+        {
+          "title": "Does A Glass Engagement Ring Foretell of A Future Bad Relationship"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave It To The Girls 460726 xxx Does A Glass Engagement Ring Foretell of A Future Bad Relationship_OTRRPG.mp3",
+          "time": "1775",
+          "size": "28403470"
+        },
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave It To The Girls 46-07-26.mp3",
+          "time": "1770",
+          "size": "14162148"
+        }
+      ]
+    },
+    {
+      "ide": "284021",
+      "date": "1946-11-02",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Nan Iverson Green"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284039",
+      "date": "1946-11-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Woman Wants to Tell Her Mother She Is Engaged, AFRS #21, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave It To The Girls 46-11-09 (21) The First Problem.mp3",
+          "time": "1645",
+          "size": "6582283"
+        }
+      ]
+    },
+    {
+      "ide": "284040",
+      "date": "1946-11-16",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Woman Whose Ex-fiance's New Wife Wants Her Ring, A"
+        },
+        {
+          "title": "Ex-fiance?'s New Wife Wants Old Engagement Ring Back"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave it to The Girls 461116 xxx Ex-fianc%e9's New Wife Wants Old Engagement Ring Back_OTRRPG.mp3",
+          "time": "1771",
+          "size": "28339669"
+        },
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave It To The Girls 46-11-16 The First Topic Is About a Woman Whose Ex-fiance's New Wife Wants.mp3",
+          "time": "1800",
+          "size": "5400724"
+        }
+      ]
+    },
+    {
+      "ide": "284022",
+      "date": "1947-02-28",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Victor Borge"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284023",
+      "date": "1947-03-14",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ezra Stone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284024",
+      "date": "1947-03-21",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Victor Jory"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284025",
+      "date": "1947-04-04",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Billy Gaxton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284026",
+      "date": "1947-04-25",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Joe Laurie, Jr"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284027",
+      "date": "1947-06-13",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dick Kolmar, Dorothy Kilgallen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284028",
+      "date": "1947-12-12",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "George Allen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284029",
+      "date": "1948-01-09",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Al Capp"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284041",
+      "date": "1948-02-06",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Which Does a Girl Really Prefer, a Man Whose Word Is Final"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Leave It To The Girls",
+          "name": "Leave It To The Girls 1948.02.06 With William Bradford Huey.mp3",
+          "time": "1504",
+          "size": "6123566"
+        }
+      ]
+    },
+    {
+      "ide": "284030",
+      "date": "1948-04-30",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Charles Korvin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284031",
+      "date": "1948-06-18",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "J Carroll Naish"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284032",
+      "date": "1948-07-02",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gene Raymond"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "284033",
+      "date": "1948-12-03",
+      "epnum": "    ",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rudy Vallee"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-10-06",
+      "dow": "Sa",
+      "time": "9:00 PM",
+      "end": "1946-09-07",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1946-09-14",
+      "dow": "Sa",
+      "time": "9:30 PM",
+      "end": "1947-02-15",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1947-03-07",
+      "dow": "F",
+      "time": "",
+      "end": "1949-01-21",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1945-10-06",
+      "end": "1948-09-03"
+    },
+    {
+      "sponsor": "Continental Parmac. Company",
+      "begin": "1948-09-10",
+      "end": "1948-12-03"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Leave It to the Girls"
+    }
+  ]
+}

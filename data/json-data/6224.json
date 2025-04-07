@@ -1,0 +1,507 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mercury Summer Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/mst.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3829",
+      "first": "Fletcher",
+      "last": "Markle",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "3915",
+      "first": "Grace",
+      "last": "Matthews",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3959",
+      "first": "Mercedes",
+      "last": "McCambridge",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6267",
+      "first": "Orson",
+      "last": "Welles",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "17366",
+      "first": "John",
+      "last": "Drainie",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2251",
+      "first": "Lud",
+      "last": "Gluskin",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4238",
+      "first": "Lucien",
+      "last": "Moraweck",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Noted Role",
+      "character": "For episodes 9-15"
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "39626",
+      "first": "Jim",
+      "last": "Ameche",
+      "f": "Noted Role",
+      "character": "For episodes 5-8"
+    },
+    {
+      "idperson": "39626",
+      "first": "Jim",
+      "last": "Ameche",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5038",
+      "first": "Ken",
+      "last": "Roberts",
+      "f": "Noted Role",
+      "character": "For the first four episodes"
+    },
+    {
+      "idperson": "5038",
+      "first": "Ken",
+      "last": "Roberts",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1630",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "1996-09-01",
+      "source": "OTR Digest_1990s/OTRDigest_(077)SepOct96.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (77) Sep-Oct 1996",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "104677",
+      "date": "1946-06-07",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Around The World In Eighty Days"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-06-07 (01) Around The World In Eighty Days.mp3",
+          "time": "1798",
+          "size": "7192908"
+        }
+      ]
+    },
+    {
+      "ide": "104678",
+      "date": "1946-06-14",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Count Of Monte Cristo, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-06-14 (02) The Count Of Monte Cristo.mp3",
+          "time": "1432",
+          "size": "5729418"
+        }
+      ]
+    },
+    {
+      "ide": "104679",
+      "date": "1946-06-21",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hitchhiker, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theatre 460621 03 The Hitch-hiker (32-22)_OTRRPG.mp3",
+          "time": "1565",
+          "size": "6340566"
+        },
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theatre 460621 03 The Hitch-hiker_OTRRPG.mp3",
+          "time": "1756",
+          "size": "28174409"
+        },
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-06-21 (03) The Hitchhiker.Mp3",
+          "time": "1779",
+          "size": "7114590"
+        }
+      ]
+    },
+    {
+      "ide": "104680",
+      "date": "1946-06-28",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jane Eyre"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-06-28 (04) Jane Eyre.Mp3",
+          "time": "1728",
+          "size": "13827980"
+        }
+      ]
+    },
+    {
+      "ide": "104681",
+      "date": "1946-07-05",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Passenger To Bali, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-07-05 (05) A Passenger To Bali.Mp3",
+          "time": "1759",
+          "size": "14075446"
+        }
+      ]
+    },
+    {
+      "ide": "104682",
+      "date": "1946-07-12",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Search For Henri Lefevre, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-07-12 (06) The Search For Henri Lefevre.Mp3",
+          "time": "1758",
+          "size": "5275668"
+        }
+      ]
+    },
+    {
+      "ide": "104683",
+      "date": "1946-07-19",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life With Adam"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-07-19 (07) Life With Adam.mp3",
+          "time": "1773",
+          "size": "5320967"
+        }
+      ]
+    },
+    {
+      "ide": "104684",
+      "date": "1946-07-26",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moat Farm Murder, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-07-26 (08) The Moat Farm Murder.Mp3",
+          "time": "1768",
+          "size": "7073910"
+        }
+      ]
+    },
+    {
+      "ide": "104685",
+      "date": "1946-08-02",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Golden Honeymoon, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-08-02 (09) The Golden Honeymoon.Mp3",
+          "time": "1801",
+          "size": "7203126"
+        }
+      ]
+    },
+    {
+      "ide": "104686",
+      "date": "1946-08-09",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hell On Ice"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-08-11 (10) Hell On Ice.Mp3",
+          "time": "1819",
+          "size": "7274592"
+        }
+      ]
+    },
+    {
+      "ide": "104687",
+      "date": "1946-08-16",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Abednego, The Slave"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-08-16 (11) Abednego, The Slave.Mp3",
+          "time": "1798",
+          "size": "7193814"
+        }
+      ]
+    },
+    {
+      "ide": "104688",
+      "date": "1946-08-23",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Stories - Heart of Darkness/Life With Father"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-08-23 (12) Two Stories.mp3",
+          "time": "1831",
+          "size": "7323711"
+        }
+      ]
+    },
+    {
+      "ide": "104689",
+      "date": "1946-08-30",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moby Dick"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-08-30 (13) Moby Dick.mp3",
+          "time": "1823",
+          "size": "7292938"
+        }
+      ]
+    },
+    {
+      "ide": "104690",
+      "date": "1946-09-06",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Apple Tree, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theatre 460906 14 The Apple Tree_OTRRPG.mp3",
+          "time": "1738",
+          "size": "27883353"
+        },
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-09-06 (14) The Apple Tree.mp3",
+          "time": "1759",
+          "size": "10557588"
+        }
+      ]
+    },
+    {
+      "ide": "104691",
+      "date": "1946-09-13",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "King Lear"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercury Summer Theater",
+          "name": "Mercury Summer Theater 46-09-13 (15) King Lear.mp3",
+          "time": "1694",
+          "size": "3389450"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-06-07",
+      "dow": "F",
+      "time": "10:00 PM",
+      "end": "1946-09-13",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Pabst Blue Ribbon Beer",
+      "begin": "1946-06-07",
+      "end": "1946-09-13"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Mercury Summer Theater"
+    },
+    {
+      "title": "Mercury Summer Theatre, The"
+    }
+  ]
+}

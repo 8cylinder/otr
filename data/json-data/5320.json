@@ -1,0 +1,241 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrrlibrary.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/J Series/Jolly Bill And Jane/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Heard on NBC red and blue networks at various times. Many timeslots, often 15m, sometimes 25m. Frequently in the 7-to-8 am hour. (Dunning)"
+    },
+    {
+      "info": "Lots of conflicting information about this series between Hickerson and others."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "5636",
+      "first": "William 'Bill'",
+      "last": "Steinke",
+      "f": "Noted Role",
+      "character": "Jolly Bill"
+    },
+    {
+      "idperson": "5636",
+      "first": "William 'Bill'",
+      "last": "Steinke",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "37421",
+      "first": "Peggy",
+      "last": "Zinke",
+      "f": "Noted Role",
+      "character": "Jane, 1935-38"
+    },
+    {
+      "idperson": "37421",
+      "first": "Peggy",
+      "last": "Zinke",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46486",
+      "first": "Muriel",
+      "last": "Harbater",
+      "f": "Noted Role",
+      "character": "Jane"
+    },
+    {
+      "idperson": "46486",
+      "first": "Muriel",
+      "last": "Harbater",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "109",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1928-02-26",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "LISTENING--IN ON THE RADIO",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "30-minute daily children's program featuring music by a number of unusual characters, including Fritzie the Fiddler, The Bugle Man, and The Three-Legged Piano Man. (Handbook of Old-Time Radio p.399)"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Whistle While You Work"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "329509",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trip to Tuttletown"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "jollybilljanejhmc",
+          "name": "Jolly Bill & Jane 47mmdd Trip to Tuttletown KFO aircheck.mp3",
+          "time": "868",
+          "size": "9807538"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "jollybilljanejhmc",
+          "name": "Jolly Bill &amp; Jane 47mmdd Trip to Tuttletown KFO aircheck.mp3",
+          "time": "868",
+          "size": "9807538"
+        }
+      ]
+    },
+    {
+      "ide": "309435",
+      "date": "1938-06-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jolly Bill And Jane",
+          "name": "Jolly Bill & Jane 380605_OTRRPG.mp3",
+          "time": "869",
+          "size": "13979584"
+        },
+        {
+          "path": "J",
+          "folder": "Jolly Bill And Jane",
+          "name": "Jolly Bill & Jane 38-06-05.mp3",
+          "time": "873",
+          "size": "6983679"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1928-00-00",
+      "dow": "M,Tu,W,Th,F,Sa",
+      "time": "",
+      "end": "1935-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Cream Of Wheat",
+      "begin": "1928-04-00",
+      "end": "1935-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Jolly Bill and Jane"
+    }
+  ]
+}

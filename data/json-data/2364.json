@@ -1,0 +1,171 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,795775,00.html",
+      "label": "1942-04-27: Basin Street Blues",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,854582,00.html",
+      "label": "1947-02-10: The Great Salesman",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,934078,00.html",
+      "label": "1946-10-14: High Art",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2282",
+      "first": "Eugene",
+      "last": "Goosens",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5077",
+      "first": "Artur",
+      "last": "Rodzinski",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313000",
+      "date": "1946-03-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st; Overture from Wagner's Tannhauser"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cleveland Symphony",
+          "name": "Cleveland Symphony 460303 xxxx 1st; Overture from Wagner's Tannhauser (AFRS #42) (256-44).mp3",
+          "time": "3264",
+          "size": "104728003"
+        },
+        {
+          "path": "C",
+          "folder": "Cleveland Symphony",
+          "name": "Cleveland Symphony 460303 xxxx 1st; Overture from Wagner's Tannhauser (AFRS #42) - Cleaned ET.flac",
+          "time": "3264",
+          "size": "117082394"
+        }
+      ]
+    },
+    {
+      "ide": "313001",
+      "date": "1946-05-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st; Entr'acte from Schubert's Rosamunde"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cleveland Symphony",
+          "name": "Cleveland Symphony 460523 xxxx 1st; Entr'acte from Schubert's Rosamunde (AFRS #45) (256-44).mp3",
+          "time": "3212",
+          "size": "103057688"
+        }
+      ]
+    },
+    {
+      "ide": "313002",
+      "date": "1959-07-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st; Rossini's Overture to La Scala di Seta"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cleveland Symphony",
+          "name": "Cleveland Symphony 590717 xxxx 1st; Rossini's Overture to La Scala di Seta (AFRTS #41) (256-44).mp3",
+          "time": "3302",
+          "size": "105948812"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Cleveland Symphony Orchestra"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "35",
+      "first": "Alfredo",
+      "last": "Antonini",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "23929",
+      "first": "Vera",
+      "last": "Holly",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "45246",
+      "first": "Nestor",
+      "last": "Chayres",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "47067",
+      "first": "",
+      "last": "Celso Vega Quintet",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    },
+    {
+      "idperson": "47119",
+      "first": "Edmund",
+      "last": "Chester",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "47119",
+      "first": "Edmund",
+      "last": "Chester",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "47205",
+      "first": "Wendell",
+      "last": "Adams",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "31446",
+      "first": "Elsa",
+      "last": "Miranda",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-00-00",
+      "dow": "Th",
+      "time": "10:30 PM",
+      "end": "1944-12-23",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-07-07",
+      "dow": "Sa",
+      "time": "8:30 PM",
+      "end": "1945-10-06",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-11-09",
+      "dow": "F",
+      "time": "11:30 PM",
+      "end": "1946-04-12",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-06-16",
+      "dow": "Su",
+      "time": "6:30 PM",
+      "end": "1946-08-25",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Viva America"
+    }
+  ]
+}

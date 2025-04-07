@@ -1,0 +1,117 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,852245,00.html",
+      "label": "1945-05-21: Primer for Civilians",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/road_mg.html",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Jay HIckerson has a log."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "3338",
+      "first": "Fiorello",
+      "last": "LaGuardia",
+      "f": "Noted Role",
+      "character": "Emcee"
+    },
+    {
+      "idperson": "4959",
+      "first": "Quentin",
+      "last": "Reynolds",
+      "f": "Noted Role",
+      "character": "Emcee"
+    },
+    {
+      "idperson": "7195",
+      "first": "Axel",
+      "last": "Gruenberg",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "1853",
+      "first": "Clifton",
+      "last": "Fadiman",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Program is about hospitalized servicemen"
+    }
+  ],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1945-05-02",
+      "dow": "W",
+      "time": "9:00 PM",
+      "end": "1945-06-13",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Road Ahead, The"
+    }
+  ]
+}

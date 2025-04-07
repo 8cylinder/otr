@@ -1,0 +1,258 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Melody Puzzles/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2719",
+      "first": "Richard",
+      "last": "Himber",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2193",
+      "first": "Georgia",
+      "last": "Gibbs",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "50346",
+      "first": "Richard",
+      "last": "Keith",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1102",
+      "first": "Buddy",
+      "last": "Clark",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "2677",
+      "first": "Ed",
+      "last": "Herlihy",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5204",
+      "first": "Basil",
+      "last": "Ruysdael",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5230",
+      "first": "Harry",
+      "last": "Salter",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5490",
+      "first": "Tom",
+      "last": "Slater",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6038",
+      "first": "Fred",
+      "last": "Uttal",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "39594",
+      "first": "Stuart",
+      "last": "Allen",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "409",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1992-05-01",
+      "source": "Hello Again/HA_V23_(03)_MayJun92.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 23 #03 May/Jun 1992",
+      "author": ""
+    },
+    {
+      "idprint": "750",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1997-09-01",
+      "source": "Illustrated Press/IP_252.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#252) - Sep 1997",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Happy Days Are Here Again"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "314126",
+      "date": "1938-02-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Musical Quiz Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Melody Puzzles",
+          "name": "Melody Puzzles 380221 xxx Musical Quiz Show_OTRRPG.mp3",
+          "time": "1704",
+          "size": "27347698"
+        },
+        {
+          "path": "M",
+          "folder": "Melody Puzzles",
+          "name": "Melody Puzzles 38-02-21 Musical Quiz Show.mp3",
+          "time": "1706",
+          "size": "13652217"
+        }
+      ]
+    },
+    {
+      "ide": "323557",
+      "date": "1938-12-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Melody Puzzles"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Melody Puzzles",
+          "name": "Melody Puzzles 1938.12.21 Melody Puzzles.mp3",
+          "time": "1706",
+          "size": "6931947"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Game Show"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-11-02",
+      "dow": "Tu",
+      "time": "8:00 PM",
+      "end": "1938-01-25",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1938-01-10",
+      "dow": "M",
+      "time": "8:00 PM",
+      "end": "1938-04-04",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Lucky Strike",
+      "begin": "1937-11-02",
+      "end": "1938-04-04"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Melody Puzzlers"
+    },
+    {
+      "title": "Melody Puzzles"
+    }
+  ]
+}

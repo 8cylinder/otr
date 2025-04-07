@@ -1,0 +1,105 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Roller Derby/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314801",
+      "date": "1938-09-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Roller Derby",
+          "name": "Roller Derby 380923 01 (64-44)_OTRRPG.mp3",
+          "time": "817",
+          "size": "6612934"
+        },
+        {
+          "path": "R",
+          "folder": "Roller Derby",
+          "name": "Roller Derby 38-xx-xx (1).mp3",
+          "time": "821",
+          "size": "6569063"
+        }
+      ]
+    },
+    {
+      "ide": "314802",
+      "date": "1938-09-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "oller Derby 380924 02"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Roller Derby",
+          "name": "Roller Derby 380924 02 (64-44)_OTRRPG.mp3",
+          "time": "809",
+          "size": "6485299"
+        },
+        {
+          "path": "R",
+          "folder": "Roller Derby",
+          "name": "Roller Derby 38-xx-xx (2).mp3",
+          "time": "809",
+          "size": "6474813"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sports"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-11-21",
+      "dow": "M",
+      "time": "10:30 PM",
+      "end": "1949-12-19",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Roller Derby"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4029",
+      "first": "Hal",
+      "last": "McIntyre",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4029",
+      "first": "Hal",
+      "last": "McIntyre",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "32767",
+      "first": "Al",
+      "last": "Noble",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45033",
+      "first": "Johnny",
+      "last": "Turnbull",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48077",
+      "first": "Ruth",
+      "last": "Gaynor",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Moon Mist, Ecstasy, When Buddha Smiles"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-01-16",
+      "dow": "Sa",
+      "time": "2:00 PM",
+      "end": "1944-01-08",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1945-01-02",
+      "dow": "Tu",
+      "time": "10:30 PM",
+      "end": "1945-01-30",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hal McIntyre Show"
+    }
+  ]
+}

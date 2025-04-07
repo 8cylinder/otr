@@ -1,0 +1,81 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3775",
+      "first": "Pick",
+      "last": "Malone",
+      "f": "Noted Role",
+      "character": "Pick"
+    },
+    {
+      "idperson": "31737",
+      "first": "Pat",
+      "last": "Moran",
+      "f": "Noted Role",
+      "character": "Pat"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Alabamy Bound"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Discussion"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-08-17",
+      "dow": "Tu,W,Th,F,Sa",
+      "time": "9:55 PM",
+      "end": "1942-10-09",
+      "length": "5",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Molasses and January"
+    }
+  ]
+}

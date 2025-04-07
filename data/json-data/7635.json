@@ -1,0 +1,161 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Red River Dave/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "39324",
+      "first": "Kay",
+      "last": "Winters",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "50807",
+      "first": "Red River Dave",
+      "last": "McEnery",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314726",
+      "date": "1944-03-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - The Old Chisholm Trail"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red River Dave",
+          "name": "Red River Dave 440311 xxx 1st Song - The Old Chisholm Trail_OTRRPG.mp3",
+          "time": "870",
+          "size": "13995160"
+        },
+        {
+          "path": "R",
+          "folder": "Red River Dave",
+          "name": "Red River Dave 440311 xxx 1st Song - The Old Chisholm Trail (2)_OTRRPG.mp3",
+          "time": "855",
+          "size": "13757776"
+        },
+        {
+          "path": "R",
+          "folder": "Red River Dave",
+          "name": "Red River Dave 44-03-11 First Song - The Old Chisholm Trail.mp3",
+          "time": "857",
+          "size": "6857246"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-12-20",
+      "dow": "Tu",
+      "time": "12:00 PM",
+      "end": "1938-11-06",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1939-06-05",
+      "dow": "Tu,Th",
+      "time": "8:15 AM",
+      "end": "1940-07-01",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1939-11-14",
+      "dow": "Tu,Th",
+      "time": "",
+      "end": "1939-05-14",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1940-00-00",
+      "dow": "Sa",
+      "time": "",
+      "end": "1941-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1943-10-30",
+      "dow": "Sa",
+      "time": "9:30 AM",
+      "end": "1944-04-15",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Bell And Co.",
+      "begin": "1939-11-14",
+      "end": "1940-05-14"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Red River Dave"
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,823837,00.html",
+      "label": "1955-06-27: The Week in Review",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,861466,00.html",
+      "label": "1955-05-09: The State of Radio",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-04.html",
+      "label": "The Golden Age of Radio: Program 4 - July, 1970 - Peg Lynch and Margaret Hamilton",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.monitorbeacon.net/",
+      "label": "NBC Radio Monitor",
+      "idtype": "1"
+    },
+    {
+      "type": "article",
+      "url": "www.otrr.org/FILES/Articles/Martin_Grams_Jr_Articles/DuffysTavern.htm",
+      "label": "Duffy's Tavern - compiled and written by Martin Grams, Jr.",
+      "idtype": "1"
+    },
+    {
+      "type": "article",
+      "url": "www.otrr.org/FILES/Articles/Martin_Grams_Jr_Articles/Good_Evening_Alfred_Hitchcock_on_radio.htm",
+      "label": "GOOD EVENING: Alfred Hitchcock on Radio by Charles Huck and Martin Grams, Jr.",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "907",
+      "first": "Sammy",
+      "last": "Cahn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1853",
+      "first": "Clifton",
+      "last": "Fadiman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2048",
+      "first": "Jack",
+      "last": "Fraser",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2123",
+      "first": "Frank",
+      "last": "Gallop",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2143",
+      "first": "Ed",
+      "last": "Gardner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2162",
+      "first": "Dave",
+      "last": "Garroway",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2312",
+      "first": "Ray",
+      "last": "Goulding",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3231",
+      "first": "Martin Luther",
+      "last": "King",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "3303",
+      "first": "Ernie",
+      "last": "Kovacs",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "9328",
+      "first": "Buzzy",
+      "last": "Bavasi",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "28014",
+      "first": "Irving R.",
+      "last": "Levine",
+      "f": "Noted Role",
+      "character": "Reporter and commentator"
+    },
+    {
+      "idperson": "1774",
+      "first": "Bob",
+      "last": "Elliott",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "430",
+      "first": "Morgan",
+      "last": "Beatty",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "570",
+      "first": "Frank",
+      "last": "Blair",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "944",
+      "first": "Al",
+      "last": "Capp",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1042",
+      "first": "John",
+      "last": "Chancellor",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1630",
+      "first": "Hugh",
+      "last": "Downs",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2033",
+      "first": "Arlene",
+      "last": "Francis",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2659",
+      "first": "Skitch",
+      "last": "Henderson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2774",
+      "first": "Judy",
+      "last": "Holliday",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2794",
+      "first": "Bob",
+      "last": "Hope",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2879",
+      "first": "Chet",
+      "last": "Huntley",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3047",
+      "first": "Jim",
+      "last": "Jordan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3048",
+      "first": "Marian",
+      "last": "Jordan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3201",
+      "first": "Walter",
+      "last": "Kiernan",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3247",
+      "first": "Durward",
+      "last": "Kirby",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3864",
+      "first": "Mary",
+      "last": "Martin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4044",
+      "first": "Ed",
+      "last": "McMahon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4247",
+      "first": "Harry (Henry)",
+      "last": "Morgan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4360",
+      "first": "Barry",
+      "last": "Nelson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4369",
+      "first": "Lindsey",
+      "last": "Nelson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4469",
+      "first": "Walter",
+      "last": "O'Keefe",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4887",
+      "first": "Gene",
+      "last": "Rayburn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5769",
+      "first": "John Cameron",
+      "last": "Swayze",
+      "f": "Noted Role",
+      "character": "News commentator"
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6181",
+      "first": "Barbara",
+      "last": "Walters",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6420",
+      "first": "Jonathan",
+      "last": "Winters",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7255",
+      "first": "Lorna",
+      "last": "Lynn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "19282",
+      "first": "Jim",
+      "last": "Fleming",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "34209",
+      "first": "Leon",
+      "last": "Pearson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "44591",
+      "first": "Tedi",
+      "last": "Thurman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48353",
+      "first": "Ray",
+      "last": "Shaerer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48354",
+      "first": "Ted",
+      "last": "Webbe",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48355",
+      "first": "The",
+      "last": "Art Van Damme Quartet",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "776",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "2001-04-01",
+      "source": "Illustrated Press/IP_289.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#289) - Apr 2001",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "23",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "1120",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "2008-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01Rev)_79.pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01Rev) 1979",
+      "author": ""
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "10",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    },
+    {
+      "idprint": "2448",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "2001-06-01",
+      "source": "Return With Us Now/RWUN V26 11 Jun01.pdf",
+      "idpytype2": "4",
+      "title": "Return With Us Now - Vol 26 #11 Jun 2001",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "79",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "155",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Night Flight to Madrid"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "314164",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Connie Francis"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monitor",
+          "name": "Monitor 6608xx xxx Connie Francis_OTRRPG.mp3",
+          "time": "1519",
+          "size": "24375966"
+        }
+      ]
+    },
+    {
+      "ide": "323582",
+      "date": "1956-01-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Shall We Pay For Medical Care"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monitor",
+          "name": "Monitor 1956.01.29 How Shall We Pay For Medical Care.mp3",
+          "time": "1283",
+          "size": "5241644"
+        }
+      ]
+    },
+    {
+      "ide": "323583",
+      "date": "1959-09-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hospitals Of Tomorrow"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Monitor",
+          "name": "Monitor 1959.09.23 Hospitals Of Tomorrow.mp3",
+          "time": "1270",
+          "size": "5186880"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Audience Participation"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1955-06-12",
+      "dow": "Sa,Su",
+      "time": "",
+      "end": "1975-01-26",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Monitor"
+    }
+  ]
+}

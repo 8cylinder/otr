@@ -1,0 +1,83 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50563",
+      "first": "John",
+      "last": "Speer",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "50564",
+      "first": "Lincoln",
+      "last": "Diamond",
+      "f": "Noted Role",
+      "character": "Sound Effects"
+    },
+    {
+      "idperson": "50565",
+      "first": "Gordon",
+      "last": "Hubbel",
+      "f": "Director",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324916",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story 11 - A Day At The Dentist"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "House Of Horror",
+          "name": "House Of Horror 19xx.xx.xx Story 11 - A Day At The Dentist.mp3",
+          "time": "1704",
+          "size": "6923023"
+        }
+      ]
+    },
+    {
+      "ide": "324917",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story 12 - Specialty Of The House"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "House Of Horror",
+          "name": "House Of Horror 19xx.xx.xx Story 12 - Specialty Of The House.mp3",
+          "time": "1709",
+          "size": "6943594"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "House of Horror"
+    }
+  ]
+}

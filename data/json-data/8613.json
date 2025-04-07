@@ -1,0 +1,102 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173639-4049f05d.jpg",
+      "label": "CBC Sunday Matinee",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Sunday Matinee - CBC/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6253",
+      "first": "Ted",
+      "last": "Weems",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "320317",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sherlock Holmes and The Adventure of The Left-Handed Corps"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sunday Matinee - CBC",
+          "name": "CBC Sunday Matinee - Sherlock Holmes and The Adventure of The Left-Handed Corps.mp3",
+          "time": "3456",
+          "size": "27648835"
+        }
+      ]
+    },
+    {
+      "ide": "320318",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Scales Of Justice - The Boxer"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sunday Matinee - CBC",
+          "name": "CBC Sunday Matinee - The Scales Of Justice - The Boxer.mp3",
+          "time": "3228",
+          "size": "25825280"
+        }
+      ]
+    },
+    {
+      "ide": "320319",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Scales Of Justice - Til Death Do Us Part"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sunday Matinee - CBC",
+          "name": "CBC Sunday Matinee - The Scales Of Justice - Til Death Do Us Part.mp3",
+          "time": "3143",
+          "size": "25140244"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Sunday Matinee"
+    }
+  ]
+}

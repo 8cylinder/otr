@@ -1,0 +1,91 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [
+    {
+      "info": "Archives of the Airways says the series began in the spring of 1937."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "3435",
+      "first": "Jerry",
+      "last": "Lawrence",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1657",
+      "first": "Dave",
+      "last": "Driscoll",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "16179",
+      "first": "Jerry",
+      "last": "Danzig",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Interview"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-12-14",
+      "dow": "W",
+      "time": "8:30 PM",
+      "end": "1938-05-11",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1937-12-14",
+      "end": "1938-05-11"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Let's Visit"
+    }
+  ]
+}

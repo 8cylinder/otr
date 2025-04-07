@@ -1,0 +1,430 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "HELA"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050639-247199f0.jpg",
+      "label": "Hello Americans CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Hello_Americans_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Mercury-Theatre.html#HelloAmericans",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-4528-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Mercury-Theatre.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/ha_.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logh1015.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,766669,00.html",
+      "label": "1942-11-30: Orson at War",
+      "idtype": "11"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Hello_Americans_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    },
+    {
+      "type": "art",
+      "url": "www.otrr.org/4img/data/media/15/Hello_Americans_CD_Back.jpg",
+      "label": "Hello Americans CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "www.otrr.org/4img/data/media/15/Hello_Americans_CD_Front.jpg",
+      "label": "Hello Americans CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "www.otrr.org/4img/data/media/15/HelloAmericansCD.jpg",
+      "label": "Hello Americans",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6267",
+      "first": "Orson",
+      "last": "Welles",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "74967",
+      "date": "1942-11-15",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brazil"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 42-11-15 (01) Brazil.mp3",
+          "time": "1731",
+          "size": "6924504"
+        }
+      ]
+    },
+    {
+      "ide": "74968",
+      "date": "1942-11-22",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Andes"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 42-11-22 (02) Andes.mp3",
+          "time": "1735",
+          "size": "6940856"
+        }
+      ]
+    },
+    {
+      "ide": "74969",
+      "date": "1942-11-29",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Islands, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 42-11-29 (03) The Islands.mp3",
+          "time": "1686",
+          "size": "6744280"
+        }
+      ]
+    },
+    {
+      "ide": "74970",
+      "date": "1942-12-06",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alphabet 'A to C'"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 42-12-06 (04) The Alphabet - A to C.mp3",
+          "time": "1745",
+          "size": "6981816"
+        }
+      ]
+    },
+    {
+      "ide": "74971",
+      "date": "1942-12-13",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alphabet 'C to S'"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 42-12-13 (05) The Alphabet - C to S.mp3",
+          "time": "1750",
+          "size": "7002328"
+        }
+      ]
+    },
+    {
+      "ide": "74972",
+      "date": "1942-12-20",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Abednego"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 42-12-20 (06) The Alphabet - Slavery (Abednego) to End.mp3",
+          "time": "1761",
+          "size": "7047352"
+        }
+      ]
+    },
+    {
+      "ide": "74973",
+      "date": "1942-12-27",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bad Will Ambassador, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 42-12-27 (07) The Bad-Will Ambassador.mp3",
+          "time": "1747",
+          "size": "6992088"
+        }
+      ]
+    },
+    {
+      "ide": "74974",
+      "date": "1943-01-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Latin Music (Special Program)"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 43-01-03 (xx) Ritmos de las Americas No. 1.mp3",
+          "time": "1765",
+          "size": "7061720"
+        }
+      ]
+    },
+    {
+      "ide": "74975",
+      "date": "1943-01-10",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mexico"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 43-01-10 (08) Mexico.mp3",
+          "time": "1735",
+          "size": "6940856"
+        }
+      ]
+    },
+    {
+      "ide": "74976",
+      "date": "1943-01-17",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Feed The World"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 43-01-17 (09) Feed The World.mp3",
+          "time": "1582",
+          "size": "6328504"
+        }
+      ]
+    },
+    {
+      "ide": "74977",
+      "date": "1943-01-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ritmos de las Americas (Special Program)"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 43-01-24 (xx) Ritmos de las Americas No. 2.mp3",
+          "time": "1761",
+          "size": "7043288"
+        }
+      ]
+    },
+    {
+      "ide": "74978",
+      "date": "1943-01-31",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bolivar's Idea"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Hello_Americans_Singles",
+          "name": "Hello Americans 43-01-31 (10) Bolivar's Idea.mp3",
+          "time": "1751",
+          "size": "7006392"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-11-15",
+      "dow": "Su",
+      "time": "8:00 PM",
+      "end": "1943-01-31",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "C. I. A.",
+      "begin": "1942-11-15",
+      "end": "1943-01-31"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Hello Americans"
+    },
+    {
+      "title": "Orson Welles Theater"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logr1024.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50787",
+      "first": "Don",
+      "last": "Federick",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7672",
+      "first": "Jimmy",
+      "last": "Shields",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "1122",
+      "idtype": "4",
+      "page": "68",
+      "article": "",
+      "url": "",
+      "date": "1971-01-01",
+      "source": "Misc/Radio_Yesteryear_Catalog_71.pdf",
+      "idpytype2": "4",
+      "title": "Radio Yesteryear Catalog -71",
+      "author": ""
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Ramona"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "323994",
+      "date": "1945-01-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Blue Skies"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Ramona And Her Mighty Miniature Minstrels",
+          "name": "Ramona And Her Mighty Miniature Minstrels 1945.01.21 First Tune Blue Skies.mp3",
+          "time": "873",
+          "size": "3600364"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-01-21",
+      "dow": "Su",
+      "time": "10:15 PM",
+      "end": "1945-02-18",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1940-04-04",
+      "dow": "Su",
+      "time": "5:30 PM",
+      "end": "1940-06-30",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1940-07-20",
+      "dow": "Su",
+      "time": "7:00 PM",
+      "end": "1940-10-27",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1940-11-10",
+      "dow": "Su",
+      "time": "1:15 PM",
+      "end": "1941-06-01",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1941-06-01",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1942-07-31",
+      "length": "0",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Pepsi-Cola",
+      "begin": "1941-06-02",
+      "end": "1942-07-30"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Ramona and Her Mighty Minstrels"
+    },
+    {
+      "title": "Ramona and the Tune Twisters"
+    },
+    {
+      "title": "Rendevous With Ramona"
+    },
+    {
+      "title": "Ramona And Her Mighty Minstrels"
+    }
+  ]
+}

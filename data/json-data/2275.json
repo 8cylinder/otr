@@ -1,0 +1,128 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Chiquita/",
+      "label": "Library Files",
+      "idtype": "16"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312939",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st; El Cumbancero (Esy Morales AAF Orchestra)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330394",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Program"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "312940",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - El Cumbancero (Esy Morales & The AAF Orchestra)"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Chiquita",
+          "name": "Chiquita 46xxxx 003x 1st; El Cumbancero (Esy Morales AAF Orchestra) (256-44).mp3",
+          "time": "1821",
+          "size": "58566591"
+        },
+        {
+          "path": "C",
+          "folder": "Chiquita",
+          "name": "Chiquita 46xxxx 003x 1st; El Cumbancero (Esy Morales AAF Orchestra) - Cleaned ET.flac",
+          "time": "1821",
+          "size": "80368496"
+        },
+        {
+          "path": "C",
+          "folder": "Chiquita",
+          "name": "Chiquita 4xxxxx 003X 1st Song - El Cumbancero (Esy Morales & the AAF Orchestra) {AFRS#003}_OTRRPG.mp3",
+          "time": "1786",
+          "size": "29285190"
+        }
+      ]
+    },
+    {
+      "ide": "317905",
+      "date": "0000-00-00",
+      "epnum": "328",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Chiquita",
+          "name": "Chiquita 55-xx-xx (328).mp3",
+          "time": "921",
+          "size": "14737139"
+        }
+      ]
+    },
+    {
+      "ide": "317906",
+      "date": "0000-00-00",
+      "epnum": "329",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Chiquita",
+          "name": "Chiquita 55-xx-xx (329).mp3",
+          "time": "916",
+          "size": "14661070"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1945-04-28",
+      "dow": "",
+      "time": "",
+      "end": "1955-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "AFRS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Chiquita"
+    }
+  ]
+}

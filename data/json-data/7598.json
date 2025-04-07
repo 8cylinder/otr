@@ -1,0 +1,133 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "76",
+      "first": "Robert",
+      "last": "Armbruster",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "426",
+      "first": "Billy",
+      "last": "Beard",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "510",
+      "first": "Al",
+      "last": "Bernard",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5131",
+      "first": "Lanny",
+      "last": "Ross",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "6521",
+      "first": "John S.",
+      "last": "Young",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "48383",
+      "first": "Dave",
+      "last": "Grupp",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "50825",
+      "first": "Sam",
+      "last": "Herman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "50830",
+      "first": "Jim",
+      "last": "Whelan",
+      "f": "Noted Role",
+      "character": "vocals"
+    },
+    {
+      "idperson": "50831",
+      "first": "Lou",
+      "last": "Noll",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "50832",
+      "first": "Charlie",
+      "last": "Kenny",
+      "f": "Noted Role",
+      "character": "Music"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1929-00-00",
+      "dow": "F",
+      "time": "7:30 AM",
+      "end": "1930-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1928-00-00",
+      "dow": "F",
+      "time": "6:30 PM",
+      "end": "1929-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Raybestos",
+      "begin": "1928-00-00",
+      "end": "1930-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Raybestos Twins"
+    }
+  ]
+}

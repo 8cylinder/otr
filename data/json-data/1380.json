@@ -1,0 +1,161 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "208",
+      "first": "James Gilmore",
+      "last": "Backus",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "208",
+      "first": "James Gilmore",
+      "last": "Backus",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "823",
+      "first": "Emerson",
+      "last": "Buckley",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "783",
+      "first": "Ted",
+      "last": "Brown",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3225",
+      "first": "John Reed",
+      "last": "King",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312731",
+      "date": "1948-04-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winner - Billy Hinds"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Great Talent Hunt",
+          "name": "Great Talent Hunt 480406 xxx Winner - Billy Hinds_OTRRPG.mp3",
+          "time": "1430",
+          "size": "22961200"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-03-25",
+      "dow": "Th",
+      "time": "8:30 PM",
+      "end": "1948-10-28",
+      "length": "25",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Big Talent Hunt, The"
+    },
+    {
+      "title": "Talent Hunt"
+    },
+    {
+      "title": "Talent Jackpot"
+    },
+    {
+      "title": "Great Talent Hunt, The"
+    }
+  ]
+}

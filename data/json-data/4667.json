@@ -1,0 +1,206 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/H Series/Hollywood Byline/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-4667-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5571",
+      "first": "Bill",
+      "last": "Spargrove",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "7688",
+      "first": "Hank",
+      "last": "Weaver",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "279814",
+      "date": "1949-12-10",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Georgie Jessel"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Byline",
+          "name": "Hollywood Byline 49-12-10 (01) Guest - George Jessel.mp3",
+          "time": "1778",
+          "size": "14227665"
+        }
+      ]
+    },
+    {
+      "ide": "279811",
+      "date": "1949-12-17",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "279815",
+      "date": "1949-12-24",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "279816",
+      "date": "1950-01-14",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Lucille Ball"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Byline",
+          "name": "Hollywood Byline 50-01-14 (04) Guest - Lucille Ball.mp3",
+          "time": "3052",
+          "size": "24414791"
+        }
+      ]
+    },
+    {
+      "ide": "279812",
+      "date": "1950-01-21",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "279813",
+      "date": "1950-01-28",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "279817",
+      "date": "1950-02-08",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - David Niven"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Byline",
+          "name": "Hollywood Byline 50-02-08 (08) Guest - David Niven.mp3",
+          "time": "2365",
+          "size": "18918627"
+        }
+      ]
+    },
+    {
+      "ide": "279818",
+      "date": "1950-03-22",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Celeste Holm"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Byline",
+          "name": "Hollywood Byline 50-03-22 (14) Guest - Celeste Holm.mp3",
+          "time": "2868",
+          "size": "22942113"
+        }
+      ]
+    },
+    {
+      "ide": "279819",
+      "date": "1950-04-27",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Betty Hutton"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Byline",
+          "name": "Hollywood Byline 50-04-27 (19) Guest - Betty Hutton.mp3",
+          "time": "2634",
+          "size": "21069238"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hollywood Byline"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "FRPE"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/Freedom's People/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,766182,00.html",
+      "label": "1941-09-29: For Native Sons",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3855-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3637",
+      "first": "Joe",
+      "last": "Louis (The Brown Bomber)",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5045",
+      "first": "Paul",
+      "last": "Robeson",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "5045",
+      "first": "Paul",
+      "last": "Robeson",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "America"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "64999",
+      "date": "1941-09-21",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contributions to Music"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom's People",
+          "name": "Freedom's People 41-09-xx Music (Opening Broadcast).mp3",
+          "time": "333",
+          "size": "1337287"
+        }
+      ]
+    },
+    {
+      "ide": "65000",
+      "date": "1941-10-19",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Science and Discovery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65001",
+      "date": "1941-11-23",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contributions to Sports"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65002",
+      "date": "1941-12-21",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contributions to Military Service"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65003",
+      "date": "1942-01-19",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contributions to Industry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65004",
+      "date": "1942-02-15",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contributions to Education"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65005",
+      "date": "1942-03-15",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contributions to the Arts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65006",
+      "date": "1942-04-19",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Negro And Democracy"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Freedom's People",
+          "name": "Freedom's People 1942.04.19 The Negro And Christian Democracy.mp3",
+          "time": "1750",
+          "size": "7109208"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-00-00",
+      "dow": "Su",
+      "time": "12:30 PM",
+      "end": "1942-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Freedom's People"
+    }
+  ]
+}

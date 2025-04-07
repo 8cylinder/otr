@@ -1,0 +1,1424 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185153-43dc81d4.jpg",
+      "label": "Adventures of Sonny and Buddy CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185155-f90434c8.jpg",
+      "label": "Adventures of Sonny and Buddy CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185156-3865ec07.jpg",
+      "label": "Adventures of Sonny and Buddy CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logs1052.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Adventures of Sonny And Buddy/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1588",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "2006-02-01",
+      "source": "OTR Digest_1990s/OTRDigest_(112)Winter06.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (112) Winter 2006",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "259083",
+      "date": "1935-01-06",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Medicine Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-01-06 (001) Medicine Show.mp3",
+          "time": "688",
+          "size": "5501304"
+        }
+      ]
+    },
+    {
+      "ide": "259073",
+      "date": "1935-01-13",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Five Miles To Laredo"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-01-13 (002) Five Miles To Laredo.mp3",
+          "time": "747",
+          "size": "5972978"
+        }
+      ]
+    },
+    {
+      "ide": "259103",
+      "date": "1935-01-20",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Thousand Dollar Bond"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-01-20 (003) $2,000 Bond.mp3",
+          "time": "791",
+          "size": "6331578"
+        },
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-01-20 Two Thousand Dollar Bond.mp3",
+          "time": "791",
+          "size": "6332446"
+        }
+      ]
+    },
+    {
+      "ide": "259063",
+      "date": "1935-01-27",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Betty Kidnapped"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-01-27 (004) Betty Kidnapped.mp3",
+          "time": "731",
+          "size": "5846959"
+        }
+      ]
+    },
+    {
+      "ide": "259099",
+      "date": "1935-02-03",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To Pay Ransom"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-02-03 (005) To Pay Ransom.mp3",
+          "time": "669",
+          "size": "5349794"
+        }
+      ]
+    },
+    {
+      "ide": "259072",
+      "date": "1935-02-10",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Face At The Window, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-02-10 (006) The Face At The Window.mp3",
+          "time": "782",
+          "size": "6254267"
+        }
+      ]
+    },
+    {
+      "ide": "259070",
+      "date": "1935-02-17",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crossing The Rio Grande"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-02-17 (007) Crossing The Rio Grande.mp3",
+          "time": "684",
+          "size": "5470803"
+        }
+      ]
+    },
+    {
+      "ide": "259090",
+      "date": "1935-02-24",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reaching The Other Side"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-02-24 (008) Reaching The Other Side.mp3",
+          "time": "699",
+          "size": "5590549"
+        }
+      ]
+    },
+    {
+      "ide": "259101",
+      "date": "1935-03-03",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Treed"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-03-03 (009) Treed.mp3",
+          "time": "675",
+          "size": "5402867"
+        }
+      ]
+    },
+    {
+      "ide": "259075",
+      "date": "1935-03-10",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Getting Away From Doc"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-03-10 (010) Getting Away From Doc.mp3",
+          "time": "731",
+          "size": "5851145"
+        }
+      ]
+    },
+    {
+      "ide": "259009",
+      "date": "1935-03-17",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259010",
+      "date": "1935-03-24",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259011",
+      "date": "1935-03-31",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259012",
+      "date": "1935-04-07",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259013",
+      "date": "1935-04-14",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259014",
+      "date": "1935-04-21",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259015",
+      "date": "1935-04-28",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259016",
+      "date": "1935-05-05",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259017",
+      "date": "1935-05-12",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259018",
+      "date": "1935-05-19",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259019",
+      "date": "1935-05-26",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259020",
+      "date": "1935-06-02",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259021",
+      "date": "1935-06-09",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259022",
+      "date": "1935-06-16",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259023",
+      "date": "1935-06-23",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259024",
+      "date": "1935-06-30",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259025",
+      "date": "1935-07-07",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259026",
+      "date": "1935-07-14",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259027",
+      "date": "1935-07-21",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259028",
+      "date": "1935-08-19",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259029",
+      "date": "1935-08-26",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259031",
+      "date": "1935-09-15",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259030",
+      "date": "1935-09-22",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259032",
+      "date": "1935-09-29",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259033",
+      "date": "1935-10-06",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259034",
+      "date": "1935-10-13",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259035",
+      "date": "1935-10-20",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259036",
+      "date": "1935-10-27",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259037",
+      "date": "1935-11-03",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259038",
+      "date": "1935-11-10",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259039",
+      "date": "1935-11-17",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259040",
+      "date": "1935-11-24",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259041",
+      "date": "1935-12-01",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259098",
+      "date": "1935-12-08",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Suspects In Jim's Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-12-08 (049) Suspect's In Jim's Murder.mp3",
+          "time": "717",
+          "size": "5739136"
+        }
+      ]
+    },
+    {
+      "ide": "259095",
+      "date": "1935-12-15",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sheriff Is A Suspect, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 35-12-15 (050) The Sheriff Is A Suspect.mp3",
+          "time": "713",
+          "size": "5706952"
+        }
+      ]
+    },
+    {
+      "ide": "259042",
+      "date": "1935-12-22",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259043",
+      "date": "1935-12-29",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259044",
+      "date": "1936-01-05",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259045",
+      "date": "1936-01-12",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259071",
+      "date": "1936-01-19",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Explosion"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-01-19 (055) Explosion.mp3",
+          "time": "774",
+          "size": "6196367"
+        }
+      ]
+    },
+    {
+      "ide": "259058",
+      "date": "1936-01-26",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All Are Against The Sheriff"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-01-26 (056) All Are Against The Sheriff.mp3",
+          "time": "712",
+          "size": "5695879"
+        }
+      ]
+    },
+    {
+      "ide": "259093",
+      "date": "1936-02-02",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "She Did It!"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-02-02 (057) She Did It!.mp3",
+          "time": "707",
+          "size": "5655321"
+        }
+      ]
+    },
+    {
+      "ide": "259085",
+      "date": "1936-02-09",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Money Is Lost, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-02-09 (058) The Money Is Lost.mp3",
+          "time": "719",
+          "size": "5753548"
+        }
+      ]
+    },
+    {
+      "ide": "259068",
+      "date": "1936-02-16",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chasing Checkered Suit"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-02-16 (059) Chasing Checkered Suit.mp3",
+          "time": "717",
+          "size": "5734536"
+        }
+      ]
+    },
+    {
+      "ide": "259086",
+      "date": "1936-02-23",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Money Recovered"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-02-23 (060) Money Recovered.mp3",
+          "time": "738",
+          "size": "5904220"
+        }
+      ]
+    },
+    {
+      "ide": "259087",
+      "date": "1936-03-01",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mortgage Paid Off"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-03-01 (061) Mortage Paid Off.mp3",
+          "time": "629",
+          "size": "5034239"
+        }
+      ]
+    },
+    {
+      "ide": "259079",
+      "date": "1936-03-08",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House Car Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-03-08 (062) House Car Fire.mp3",
+          "time": "709",
+          "size": "5669953"
+        }
+      ]
+    },
+    {
+      "ide": "259046",
+      "date": "1936-03-15",
+      "epnum": "63",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259047",
+      "date": "1936-03-22",
+      "epnum": "64",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259048",
+      "date": "1936-03-29",
+      "epnum": "65",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259049",
+      "date": "1936-04-05",
+      "epnum": "66",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259094",
+      "date": "1936-04-12",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sheriff Gets The Drop"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-04-12 (067) Sheriff Gets The Drop.mp3",
+          "time": "730",
+          "size": "5838188"
+        }
+      ]
+    },
+    {
+      "ide": "259069",
+      "date": "1936-04-19",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cornered"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-04-19 (068) Cornered.mp3",
+          "time": "678",
+          "size": "5425650"
+        }
+      ]
+    },
+    {
+      "ide": "259074",
+      "date": "1936-04-26",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Full Of Rocks"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-04-26 (069) Full Of Rocks.mp3",
+          "time": "731",
+          "size": "5845077"
+        }
+      ]
+    },
+    {
+      "ide": "259097",
+      "date": "1936-05-03",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Suitcase With Treasure"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-05-03 (070) Suitcase With Treasure.mp3",
+          "time": "778",
+          "size": "6223339"
+        }
+      ]
+    },
+    {
+      "ide": "259061",
+      "date": "1936-05-10",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Betty Has Left"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-05-10 (071) Betty Has Left.mp3",
+          "time": "678",
+          "size": "5422312"
+        }
+      ]
+    },
+    {
+      "ide": "259062",
+      "date": "1936-05-17",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Betty Is An Heiress"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-05-17 (072) Betty Is An Heiress.mp3",
+          "time": "738",
+          "size": "5904851"
+        }
+      ]
+    },
+    {
+      "ide": "259091",
+      "date": "1936-05-24",
+      "epnum": "73",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Refurbished House Car"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-05-24 (073) Refurbished House Car.mp3",
+          "time": "788",
+          "size": "6307348"
+        }
+      ]
+    },
+    {
+      "ide": "259102",
+      "date": "1936-05-31",
+      "epnum": "74",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Hats"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-05-31 (074) Two Hats.mp3",
+          "time": "701",
+          "size": "5607880"
+        }
+      ]
+    },
+    {
+      "ide": "259050",
+      "date": "1936-06-07",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259051",
+      "date": "1936-06-13",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259052",
+      "date": "1936-06-20",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259053",
+      "date": "1936-06-27",
+      "epnum": "78",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259064",
+      "date": "1936-07-05",
+      "epnum": "79",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Betty Turned Out"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-07-05 (079) Betty Turned Out.mp3",
+          "time": "824",
+          "size": "6592600"
+        }
+      ]
+    },
+    {
+      "ide": "259065",
+      "date": "1936-07-12",
+      "epnum": "80",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Buys Animals"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-07-12 (080) Buys Animals.mp3",
+          "time": "850",
+          "size": "6798023"
+        }
+      ]
+    },
+    {
+      "ide": "259088",
+      "date": "1936-07-19",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On The Way To Lumpkin"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-07-19 (081) On The Way To Lumpkin.mp3",
+          "time": "765",
+          "size": "6116967"
+        }
+      ]
+    },
+    {
+      "ide": "259060",
+      "date": "1936-07-26",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Betty Found"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-07-26 (082) Betty Found.mp3",
+          "time": "750",
+          "size": "6003481"
+        }
+      ]
+    },
+    {
+      "ide": "259082",
+      "date": "1936-08-02",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lion Is Loose"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-08-02 (083) Lion Is Loose.mp3",
+          "time": "791",
+          "size": "6331999"
+        }
+      ]
+    },
+    {
+      "ide": "259081",
+      "date": "1936-08-09",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lion Is Captured"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-08-09 (084) Lion Is Captured.mp3",
+          "time": "783",
+          "size": "6265965"
+        }
+      ]
+    },
+    {
+      "ide": "259100",
+      "date": "1936-08-16",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To Trust A Lawyer"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-08-16 (085) To Trust A Lawyer.mp3",
+          "time": "774",
+          "size": "6193868"
+        }
+      ]
+    },
+    {
+      "ide": "259076",
+      "date": "1936-08-23",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House Boat"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-08-23 (086) House Boat.mp3",
+          "time": "657",
+          "size": "5259304"
+        }
+      ]
+    },
+    {
+      "ide": "259078",
+      "date": "1936-08-30",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House Boat Is In Torrent"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-08-30 (087) House Boat Is In Torrent.mp3",
+          "time": "715",
+          "size": "5719282"
+        }
+      ]
+    },
+    {
+      "ide": "259092",
+      "date": "1936-09-06",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Saved From The Water"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-09-06 (088) Saved From The Water.mp3",
+          "time": "791",
+          "size": "6327200"
+        }
+      ]
+    },
+    {
+      "ide": "259077",
+      "date": "1936-09-13",
+      "epnum": "89",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House Boat Is Gone"
+        },
+        {
+          "title": "Counterfeiters Grab Sonny and Buddy"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-09-13 (089) House Boat Is Gone.mp3",
+          "time": "728",
+          "size": "5821467"
+        }
+      ]
+    },
+    {
+      "ide": "259067",
+      "date": "1936-09-20",
+      "epnum": "90",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Charcoal To The Rescue"
+        },
+        {
+          "title": "Charcoal Rescues Sonny and Buddy"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-09-20 (090) Charcoal To The Rescue.mp3",
+          "time": "730",
+          "size": "5838398"
+        }
+      ]
+    },
+    {
+      "ide": "259084",
+      "date": "1936-09-27",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Message From Lawyer"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-09-27 (091) Message From Lawyer.mp3",
+          "time": "772",
+          "size": "6175688"
+        }
+      ]
+    },
+    {
+      "ide": "259054",
+      "date": "1936-10-04",
+      "epnum": "92",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259066",
+      "date": "1936-10-11",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Catching A Snake"
+        },
+        {
+          "title": "Snake Escapes, Plane Lands in Field"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-10-11 (093) Catching A Snake.mp3",
+          "time": "762",
+          "size": "6098572"
+        }
+      ]
+    },
+    {
+      "ide": "259055",
+      "date": "1936-10-17",
+      "epnum": "94",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259056",
+      "date": "1936-10-24",
+      "epnum": "95",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259057",
+      "date": "1936-11-02",
+      "epnum": "96",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "259089",
+      "date": "1936-11-09",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Papers Are Legal"
+        },
+        {
+          "title": "The Sheriff Returns"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-11-09 (097) Papers Are Legal.mp3",
+          "time": "754",
+          "size": "6034624"
+        }
+      ]
+    },
+    {
+      "ide": "259096",
+      "date": "1936-11-16",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stranded In The Desert"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-11-16 (098) Stranded In The Desert.mp3",
+          "time": "793",
+          "size": "6341621"
+        }
+      ]
+    },
+    {
+      "ide": "259080",
+      "date": "1936-11-23",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In El Centro"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-11-23 (099) In El Centro.mp3",
+          "time": "808",
+          "size": "6463028"
+        }
+      ]
+    },
+    {
+      "ide": "259059",
+      "date": "1936-11-30",
+      "epnum": "100",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Back At The Ranch"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Adventures Of Sonny And Buddy",
+          "name": "The Adventures Of Sonny And Buddy 36-11-30 (100) Back At The Ranch.mp3",
+          "time": "780",
+          "size": "6236710"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventures Of Sonny And Buddy, The"
+    }
+  ]
+}

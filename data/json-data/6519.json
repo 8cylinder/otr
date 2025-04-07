@@ -1,0 +1,621 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4117",
+      "first": "Nan",
+      "last": "Merriman",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "555",
+      "first": "Frank",
+      "last": "Black",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "555",
+      "first": "Frank",
+      "last": "Black",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "107990",
+      "date": "1942-10-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Program Features a Selection Illustrating the Spirit of Aztec, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107991",
+      "date": "1943-01-07",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Not Auditioned"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107992",
+      "date": "1943-01-14",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music of the American Revolution"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107993",
+      "date": "1943-01-21",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Struggle for Freedom of the Peoples of South America, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107994",
+      "date": "1943-04-29",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Salute to the Past"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107995",
+      "date": "1943-05-06",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Modern Orchestra, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107996",
+      "date": "1943-05-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Indian Influence on American Music, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107997",
+      "date": "1943-05-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Band Music"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107998",
+      "date": "1943-06-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music of Canada, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107999",
+      "date": "1943-06-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Operettas and Musical Comedies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108000",
+      "date": "1943-06-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Present Day Music in Latin America"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108001",
+      "date": "1943-07-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Modern Americana"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108002",
+      "date": "1943-07-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music at War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108003",
+      "date": "1943-10-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Caribbean Crossroads - the Music of Cuba"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108004",
+      "date": "1943-10-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brazil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108005",
+      "date": "1943-11-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ecuador and Peru"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108006",
+      "date": "1943-11-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music of the 'forty-Niners"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108007",
+      "date": "1943-12-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music of the Changing Frontiers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108008",
+      "date": "1943-12-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lands of the Vanished - the Maya Empire"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108009",
+      "date": "1943-12-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music of Brazil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108010",
+      "date": "1943-12-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Folkways"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108011",
+      "date": "1944-01-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rivers of America, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108012",
+      "date": "1944-01-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Streets and Marketplaces"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108013",
+      "date": "1944-01-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Whalers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108014",
+      "date": "1944-03-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Campground, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108015",
+      "date": "1944-03-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Appalachian Highland"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108016",
+      "date": "1944-04-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New England"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108017",
+      "date": "1944-04-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Canada"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108018",
+      "date": "1944-06-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ballot and Ballad"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108019",
+      "date": "1944-07-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Early Americana"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108020",
+      "date": "1944-07-27",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Folksongs of the Americas"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108021",
+      "date": "1944-08-04",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Toward the Twentieth Century"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108022",
+      "date": "1944-08-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Canadian Music in Wartime"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108023",
+      "date": "1944-08-24",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Canadian Music in Wartime"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108024",
+      "date": "1944-08-31",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Canadian Music in Wartime"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108025",
+      "date": "1944-09-07",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Canadian Music in Wartime"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108026",
+      "date": "1944-09-14",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Canadian Music in Wartime"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108027",
+      "date": "1944-09-21",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Canadian Music in Wartime"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108028",
+      "date": "1944-10-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music in Williamsburg, the Colonial Capitol of Virginia"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108029",
+      "date": "1944-11-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music of Old Boston"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108030",
+      "date": "1944-11-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music in the Early Years of New York"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108031",
+      "date": "1944-12-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rio De Janeiro"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108032",
+      "date": "1944-12-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music in Early Philadelphia"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "108033",
+      "date": "1944-12-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Holiday Music of the Americas"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-10-15",
+      "dow": "Th",
+      "time": "11:30 PM",
+      "end": "1945-07-05",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Music of the New World"
+    }
+  ]
+}

@@ -1,0 +1,4263 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [
+    {
+      "code": "SOOD"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324055232-8e291f8b.jpg",
+      "label": "The Sounds of Darkness",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324055236-8e2dc5e6.jpg",
+      "label": "Sounds of Darkness Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Sounds Of Darkness/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "25632",
+      "first": "Tony",
+      "last": "Jay",
+      "f": "Noted Role",
+      "character": "Lee Masters"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "637",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1994-01-01",
+      "source": "Illustrated Press/IP_208.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #208 Jan 94",
+      "author": ""
+    },
+    {
+      "idprint": "2207",
+      "idtype": "4",
+      "page": "48",
+      "article": "",
+      "url": "",
+      "date": "1977-01-01",
+      "source": "Radio Nostalgia/Radio_Nostalgia_(05).pdf",
+      "idpytype2": "4",
+      "title": "Radio Nostalgia (05)",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "107",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "144",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "161",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "132499",
+      "date": "1967-07-07",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Traitor Beware (First Episode, 1st Season)"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-07-07 (001) Traitor Beware (First Episode, 1st Season).mp3",
+          "time": "1651",
+          "size": "6604896"
+        }
+      ]
+    },
+    {
+      "ide": "132500",
+      "date": "1967-07-14",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Neiman Principle, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 670714 002 The Neiman Principle_OTRRPG.mp3",
+          "time": "1597",
+          "size": "25635142"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-07-14 (002) The Neiman Principle.mp3",
+          "time": "1601",
+          "size": "12808872"
+        }
+      ]
+    },
+    {
+      "ide": "132501",
+      "date": "1967-07-21",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Round, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-07-21 (003) The Last Round.mp3",
+          "time": "1641",
+          "size": "6568011"
+        }
+      ]
+    },
+    {
+      "ide": "132502",
+      "date": "1967-07-28",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Killers, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-07-28 (004) The Killers.mp3",
+          "time": "1643",
+          "size": "3286643"
+        }
+      ]
+    },
+    {
+      "ide": "132503",
+      "date": "1967-08-04",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Learning the Hard Way"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-08-04 (005) Learning the Hard Way.mp3",
+          "time": "1581",
+          "size": "6326221"
+        }
+      ]
+    },
+    {
+      "ide": "132504",
+      "date": "1967-08-11",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Georgia on her Mind"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-08-11 (006) Georgia on her Mind.mp3",
+          "time": "1415",
+          "size": "9909935"
+        }
+      ]
+    },
+    {
+      "ide": "132505",
+      "date": "1967-08-18",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Two Pins"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-08-18 (007) For Two Pins.mp3",
+          "time": "1580",
+          "size": "6323296"
+        }
+      ]
+    },
+    {
+      "ide": "132506",
+      "date": "1967-08-25",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pressure Point"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-08-25 (008) Pressure Point.mp3",
+          "time": "1659",
+          "size": "6636765"
+        }
+      ]
+    },
+    {
+      "ide": "132507",
+      "date": "1967-09-01",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder Make Up"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-09-01 (009) Murder Make Up.mp3",
+          "time": "1633",
+          "size": "6532693"
+        }
+      ]
+    },
+    {
+      "ide": "132508",
+      "date": "1967-09-08",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Smell of Death, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-09-08 (010) The Smell of Death.mp3",
+          "time": "1655",
+          "size": "6621928"
+        }
+      ]
+    },
+    {
+      "ide": "132509",
+      "date": "1967-09-15",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Power Spells Danger"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-09-15 (011) Power Spells Danger.mp3",
+          "time": "1642",
+          "size": "3283621"
+        }
+      ]
+    },
+    {
+      "ide": "132510",
+      "date": "1967-09-22",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Perplexed Pilot, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-09-22 (012) The Perplexed Pilot.mp3",
+          "time": "1580",
+          "size": "3160637"
+        }
+      ]
+    },
+    {
+      "ide": "132511",
+      "date": "1967-09-29",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brush with death, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-09-29 (013) A Brush with death.mp3",
+          "time": "1375",
+          "size": "11004762"
+        }
+      ]
+    },
+    {
+      "ide": "132512",
+      "date": "1967-10-06",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Cross"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 671006 014 Double Cross_OTRRPG.mp3",
+          "time": "1591",
+          "size": "25527719"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-10-06 (014) Double Cross.mp3",
+          "time": "1593",
+          "size": "12743018"
+        }
+      ]
+    },
+    {
+      "ide": "132513",
+      "date": "1967-10-13",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Say it with Music"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 671013 015 Say It With Music_OTRRPG.mp3",
+          "time": "1491",
+          "size": "23935717"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-10-13 (015) Say it with Music.mp3",
+          "time": "1493",
+          "size": "10454666"
+        }
+      ]
+    },
+    {
+      "ide": "132514",
+      "date": "1967-10-20",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blind Lead Blind"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 671020 016 Blind Lead Blind_OTRRPG.mp3",
+          "time": "1388",
+          "size": "22285195"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-10-20 (016) Blind Lead Blind.mp3",
+          "time": "1416",
+          "size": "11327416"
+        }
+      ]
+    },
+    {
+      "ide": "132515",
+      "date": "1967-10-27",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kidnappers Killed"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132516",
+      "date": "1967-11-03",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cry Fake"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-11-03 (018) Cry Fake.mp3",
+          "time": "1460",
+          "size": "10224449"
+        }
+      ]
+    },
+    {
+      "ide": "132517",
+      "date": "1967-11-10",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Call me Lucky"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132518",
+      "date": "1967-11-17",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fire Down Below"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-11-17 (020) Fire Down Below.mp3",
+          "time": "1354",
+          "size": "9480018"
+        }
+      ]
+    },
+    {
+      "ide": "132519",
+      "date": "1967-12-01",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Birds for Sale"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-12-01 (021) Birds for Sale   .mp3",
+          "time": "1801",
+          "size": "14411328"
+        }
+      ]
+    },
+    {
+      "ide": "132520",
+      "date": "1967-12-08",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blind man's Bluff"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-12-08 (022) Blind man's Bluff.mp3",
+          "time": "1409",
+          "size": "9867146"
+        }
+      ]
+    },
+    {
+      "ide": "132521",
+      "date": "1967-12-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Broadcast - Special Transmission"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132522",
+      "date": "1967-12-24",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You never know with Women"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-12-24 (023) You never know with Women.mp3",
+          "time": "1480",
+          "size": "10362410"
+        }
+      ]
+    },
+    {
+      "ide": "132523",
+      "date": "1967-12-29",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "East Side Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 67-12-29 (024) East Side Story.mp3",
+          "time": "1474",
+          "size": "10316882"
+        }
+      ]
+    },
+    {
+      "ide": "132524",
+      "date": "1968-01-05",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Playing with Fire"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 68-01-05 (025) Playing with Fire.mp3",
+          "time": "1509",
+          "size": "24151907"
+        }
+      ]
+    },
+    {
+      "ide": "132525",
+      "date": "1968-01-12",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snow White and Seven Accidents"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 68-01-12 (026) Snow White and Seven Accidents.mp3",
+          "time": "1369",
+          "size": "21898856"
+        }
+      ]
+    },
+    {
+      "ide": "132526",
+      "date": "1968-01-19",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lights out for Lee"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 68-01-19 (027) Lights out for Lee.mp3",
+          "time": "1462",
+          "size": "23400890"
+        }
+      ]
+    },
+    {
+      "ide": "132527",
+      "date": "1968-01-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Broadcast - Special Transmission"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132528",
+      "date": "1968-02-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Broadcast - Special Transmission"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132529",
+      "date": "1968-02-09",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gambit (Final Episode, 1st Season)"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 68-02-09 (028) Gambit (Final Episode, 1st Season).mp3",
+          "time": "1461",
+          "size": "23382542"
+        }
+      ]
+    },
+    {
+      "ide": "132530",
+      "date": "1969-11-25",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Painted in Red (First Episode, 2nd Season)"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 691125 029 Painted In Red_OTRRPG.mp3",
+          "time": "1594",
+          "size": "25579130"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 69-11-25 (029) Painted in Red (First Episode, 2nd Season).mp3",
+          "time": "1596",
+          "size": "11174391"
+        }
+      ]
+    },
+    {
+      "ide": "132531",
+      "date": "1969-12-02",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doomsday Man"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 691202 030 Doomsday Man_OTRRPG.mp3",
+          "time": "1536",
+          "size": "24658782"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 69-12-02 (030) Doomsday Man.mp3",
+          "time": "1534",
+          "size": "12275018"
+        }
+      ]
+    },
+    {
+      "ide": "132532",
+      "date": "1969-12-09",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bugged for Speed"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132533",
+      "date": "1969-12-16",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Birds for Sale (Remake of B/C 01/12/1967)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132534",
+      "date": "1969-12-23",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kill Lee Masters"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132535",
+      "date": "1969-12-30",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beefsteak, Texas Style"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 691230 035 Beefsteak, Texas Style_OTRRPG.mp3",
+          "time": "1682",
+          "size": "26988496"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 69-12-30 (035) Beefsteak, Texas Style.mp3",
+          "time": "1684",
+          "size": "11788426"
+        }
+      ]
+    },
+    {
+      "ide": "132536",
+      "date": "1970-01-06",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Child High"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700106 036 Child High_OTRRPG.mp3",
+          "time": "1517",
+          "size": "24351998"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-01-06 (036) Child High.mp3",
+          "time": "1510",
+          "size": "12079914"
+        }
+      ]
+    },
+    {
+      "ide": "132537",
+      "date": "1970-01-13",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Call Crazy"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-01-13 (037) Call Crazy.mp3",
+          "time": "1507",
+          "size": "12057866"
+        }
+      ]
+    },
+    {
+      "ide": "132538",
+      "date": "1970-01-20",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tick-Tock Death"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700120 038 Tick-Tock Death_OTRRPG.mp3",
+          "time": "1548",
+          "size": "24851046"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-01-20 (038) Tick-Tock Death.mp3",
+          "time": "1550",
+          "size": "12403274"
+        }
+      ]
+    },
+    {
+      "ide": "132539",
+      "date": "1970-01-27",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fish that Flew, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700127 039 The Fish That Flew_OTRRPG.mp3",
+          "time": "1507",
+          "size": "24196525"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-01-27 (039) The Fish that Flew.mp3",
+          "time": "1510",
+          "size": "12082250"
+        }
+      ]
+    },
+    {
+      "ide": "132540",
+      "date": "1970-02-03",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Smiler, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-02-03 (040) The Smiler.mp3",
+          "time": "1464",
+          "size": "11714954"
+        }
+      ]
+    },
+    {
+      "ide": "132541",
+      "date": "1970-02-10",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Day in Winter, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-02-10 (041) A Day in Winter.mp3",
+          "time": "1474",
+          "size": "23586038"
+        }
+      ]
+    },
+    {
+      "ide": "132542",
+      "date": "1970-02-17",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "S.F.for a Soviet"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700217 042 S.F. For A Soviet_OTRRPG.mp3",
+          "time": "1601",
+          "size": "25694490"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-02-17 (042) S.F.for a Soviet.mp3",
+          "time": "1604",
+          "size": "12832202"
+        }
+      ]
+    },
+    {
+      "ide": "132543",
+      "date": "1970-02-24",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lace-up for Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132544",
+      "date": "1970-03-03",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Trouble"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-03-03 (044) Double Trouble.mp3",
+          "time": "1487",
+          "size": "11901065"
+        }
+      ]
+    },
+    {
+      "ide": "132545",
+      "date": "1970-03-10",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ink for a Fink"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132546",
+      "date": "1970-03-17",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reardon Virus, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-03-17 (046) The Reardon Virus.mp3",
+          "time": "1637",
+          "size": "3273693"
+        }
+      ]
+    },
+    {
+      "ide": "132547",
+      "date": "1970-03-24",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Face of Death, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700324 047 The Face of Death_OTRRPG.mp3",
+          "time": "1578",
+          "size": "25319998"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-03-24 (047) The Face of Death.mp3",
+          "time": "1579",
+          "size": "12630986"
+        }
+      ]
+    },
+    {
+      "ide": "132548",
+      "date": "1970-03-31",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tequipa Bay"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132549",
+      "date": "1970-04-07",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Star for Sale"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132550",
+      "date": "1970-04-14",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Life Merchants, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132551",
+      "date": "1970-04-21",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Find Otto Kallmann"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132552",
+      "date": "1970-04-28",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vacation - Stockade Style"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132553",
+      "date": "1970-05-05",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two for the 222"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132554",
+      "date": "1970-05-12",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Date for a Bashful Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132555",
+      "date": "1970-05-19",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Limp for Linton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132556",
+      "date": "1970-05-26",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sam"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132557",
+      "date": "1970-06-02",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blind Man's Bluff (Remake of B/C 08/12/1967)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132558",
+      "date": "1970-06-09",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fool Injection"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132559",
+      "date": "1970-06-16",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harem for Ben Haram"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132560",
+      "date": "1970-06-23",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death at Four Feet Six"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132561",
+      "date": "1970-06-30",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Code for a Commie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132562",
+      "date": "1970-07-07",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Mourning for this Bird"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132563",
+      "date": "1970-07-14",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pix for Pally"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132564",
+      "date": "1970-07-21",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brush with death (Remake of B/C 29/09/1967), A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132565",
+      "date": "1970-07-28",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deadline for Nuro"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132566",
+      "date": "1970-08-04",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Once Bitten"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132567",
+      "date": "1970-08-11",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Showdown for a Soldier"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-08-11 (067) Showdown for a Soldier.mp3",
+          "time": "1504",
+          "size": "12036442"
+        }
+      ]
+    },
+    {
+      "ide": "132568",
+      "date": "1970-08-18",
+      "epnum": "68",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Track"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700818 068 Big Track_OTRRPG.mp3",
+          "time": "1490",
+          "size": "23922753"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-08-18 (068) Big Track.mp3",
+          "time": "1493",
+          "size": "11943818"
+        }
+      ]
+    },
+    {
+      "ide": "132569",
+      "date": "1970-08-25",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flame-out FBI"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700825 069 Flameout Fbi_OTRRPG.mp3",
+          "time": "1531",
+          "size": "24582713"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-08-25 (069) Flame-out FBI.mp3",
+          "time": "1534",
+          "size": "12277322"
+        }
+      ]
+    },
+    {
+      "ide": "132570",
+      "date": "1970-09-01",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Postman Knocks Death, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700901 070 The Postman Knocks Death_OTRRPG.mp3",
+          "time": "1503",
+          "size": "24134255"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-09-01 (070) The Postman Knocks Death.mp3",
+          "time": "1511",
+          "size": "6045980"
+        }
+      ]
+    },
+    {
+      "ide": "132571",
+      "date": "1970-09-08",
+      "epnum": "71",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Leap for the Latin"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700908 071 Leap For The Latin_OTRRPG.mp3",
+          "time": "1537",
+          "size": "24669237"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-09-08 (071) Leap for the Latin.mp3",
+          "time": "1539",
+          "size": "12314570"
+        }
+      ]
+    },
+    {
+      "ide": "132572",
+      "date": "1970-09-15",
+      "epnum": "72",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Louisiana Hayride"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700915 072 Louisiana Hayride_OTRRPG.mp3",
+          "time": "1510",
+          "size": "24234140"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-09-15 (072) Louisiana Hayride.mp3",
+          "time": "1516",
+          "size": "12131594"
+        }
+      ]
+    },
+    {
+      "ide": "132573",
+      "date": "1970-09-22",
+      "epnum": "73",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Checkers"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 700922 073 Red Checkers_OTRRPG.mp3",
+          "time": "1514",
+          "size": "24306442"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-09-22 (073) Red Checkers.mp3",
+          "time": "1516",
+          "size": "12129290"
+        }
+      ]
+    },
+    {
+      "ide": "132574",
+      "date": "1970-09-29",
+      "epnum": "74",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Go West, Young Man"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-09-29 (074) Go West, Young Man.mp3",
+          "time": "1440",
+          "size": "11520842"
+        }
+      ]
+    },
+    {
+      "ide": "132575",
+      "date": "1970-10-06",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Travelers West"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-10-06 (075) Travelers West.mp3",
+          "time": "1469",
+          "size": "11752062"
+        }
+      ]
+    },
+    {
+      "ide": "132576",
+      "date": "1970-10-13",
+      "epnum": "76",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tommy's Gun"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-10-13 (076) Tommy's Gun.mp3",
+          "time": "1469",
+          "size": "11750808"
+        }
+      ]
+    },
+    {
+      "ide": "132577",
+      "date": "1970-10-20",
+      "epnum": "77",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curtains for a Kirton"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-10-20 (077) Curtains for a Kirton.mp3",
+          "time": "1445",
+          "size": "11562936"
+        }
+      ]
+    },
+    {
+      "ide": "132578",
+      "date": "1970-10-27",
+      "epnum": "78",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Train of Events"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-10-27 (078) Train of Events.mp3",
+          "time": "1444",
+          "size": "11554576"
+        }
+      ]
+    },
+    {
+      "ide": "132579",
+      "date": "1970-11-03",
+      "epnum": "79",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Trouble (Remake of B/C 03/03/1970)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132580",
+      "date": "1970-11-10",
+      "epnum": "80",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Talk Turkey"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-11-10 (080) Talk Turkey.mp3",
+          "time": "1443",
+          "size": "11546008"
+        }
+      ]
+    },
+    {
+      "ide": "132581",
+      "date": "1970-11-17",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One that got Away, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-11-17 (081) The One that got Away.mp3",
+          "time": "1561",
+          "size": "10927535"
+        }
+      ]
+    },
+    {
+      "ide": "132582",
+      "date": "1970-11-24",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Costa Fame, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-11-24 (082) The Costa Fame.mp3",
+          "time": "1530",
+          "size": "12242955"
+        }
+      ]
+    },
+    {
+      "ide": "132583",
+      "date": "1970-12-01",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Bait"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-12-01 (083) Red Bait.mp3",
+          "time": "1487",
+          "size": "11896885"
+        }
+      ]
+    },
+    {
+      "ide": "132584",
+      "date": "1970-12-08",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trip to Tangiers"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-12-08 (084) Trip to Tangiers.mp3",
+          "time": "1479",
+          "size": "10354094"
+        }
+      ]
+    },
+    {
+      "ide": "132585",
+      "date": "1970-12-15",
+      "epnum": "85",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curly talks Straight"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-12-15 (085) Curly talks Straight.mp3",
+          "time": "1491",
+          "size": "10437660"
+        }
+      ]
+    },
+    {
+      "ide": "132586",
+      "date": "1970-12-22",
+      "epnum": "86",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luiz draws a Blank"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-12-22 (086) Luiz draws a Blank.mp3",
+          "time": "1568",
+          "size": "10976541"
+        }
+      ]
+    },
+    {
+      "ide": "132587",
+      "date": "1970-12-29",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deadline One"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 70-12-29 (087) Deadline One.mp3",
+          "time": "1499",
+          "size": "10498369"
+        }
+      ]
+    },
+    {
+      "ide": "132588",
+      "date": "1971-01-05",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It's a Gas"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-01-05 (088) It's a Gas.mp3",
+          "time": "1325",
+          "size": "9280175"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-01-05 (088) It's a Gas.mp3",
+          "time": "1325",
+          "size": "9280175"
+        }
+      ]
+    },
+    {
+      "ide": "132589",
+      "date": "1971-01-13",
+      "epnum": "89",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One-Two-Three"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-01-13 (089) One-Two-Three.mp3",
+          "time": "1500",
+          "size": "10502026"
+        }
+      ]
+    },
+    {
+      "ide": "132590",
+      "date": "1971-01-19",
+      "epnum": "90",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Take your Pick"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-01-19 (090) Take your Pick.mp3",
+          "time": "1452",
+          "size": "10163191"
+        }
+      ]
+    },
+    {
+      "ide": "132591",
+      "date": "1971-01-26",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lady said 'No', The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-01-26 (091) The Lady said 'No'.mp3",
+          "time": "1429",
+          "size": "10005020"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-01-26 (091) The Lady said 'No'.mp3",
+          "time": "1429",
+          "size": "10005020"
+        }
+      ]
+    },
+    {
+      "ide": "132592",
+      "date": "1971-02-02",
+      "epnum": "92",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Katie Going East"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-02-02 (092) Katie - Going East.mp3",
+          "time": "1362",
+          "size": "9535444"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-02-02 (092) Katie Ã¢ÂÂ Going East.mp3",
+          "time": "1362",
+          "size": "9535444"
+        }
+      ]
+    },
+    {
+      "ide": "132593",
+      "date": "1971-02-09",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Taint a Painter"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-02-09 (093) Taint a Painter.mp3",
+          "time": "1443",
+          "size": "10105043"
+        }
+      ]
+    },
+    {
+      "ide": "132594",
+      "date": "1971-02-16",
+      "epnum": "94",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Luke for a Silver Lining"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-02-16 (094) Luke for a Silver Lining.mp3",
+          "time": "1369",
+          "size": "9585180"
+        }
+      ]
+    },
+    {
+      "ide": "132595",
+      "date": "1971-02-23",
+      "epnum": "95",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plot and Carry One"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-02-23 (095) Plot and Carry One.mp3",
+          "time": "1387",
+          "size": "9713546"
+        }
+      ]
+    },
+    {
+      "ide": "132596",
+      "date": "1971-03-02",
+      "epnum": "96",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Birds, if one"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132597",
+      "date": "1971-03-09",
+      "epnum": "97",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Silent Death"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 710309 097 Silent Death (16-11)_OTRRPG.mp3",
+          "time": "1622",
+          "size": "3323612"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-03-09 (097) Silent Death.mp3",
+          "time": "1640",
+          "size": "6561741"
+        }
+      ]
+    },
+    {
+      "ide": "132598",
+      "date": "1971-03-16",
+      "epnum": "98",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Friend of Uncle Sam, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 710316 098 A Friend of Uncle Sam_OTRRPG.mp3",
+          "time": "1621",
+          "size": "26017576"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-03-16 (098) A Friend of Uncle Sam.mp3",
+          "time": "1616",
+          "size": "11312576"
+        }
+      ]
+    },
+    {
+      "ide": "132599",
+      "date": "1971-03-23",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shadows for Sean"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132600",
+      "date": "1971-03-30",
+      "epnum": "100",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wheeler Bridge"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132601",
+      "date": "1971-04-06",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Skeleton Coast"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 710406 101 Skeleton Coast (16-11)_OTRRPG.mp3",
+          "time": "1558",
+          "size": "3195395"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 71-04-06 (101) Skeleton Coast.mp3",
+          "time": "1576",
+          "size": "6305323"
+        }
+      ]
+    },
+    {
+      "ide": "132602",
+      "date": "1971-04-13",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bust up for Badagsi"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132603",
+      "date": "1971-04-20",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gone for a Burton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132604",
+      "date": "1971-04-27",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You Wanna Sue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132605",
+      "date": "1971-05-04",
+      "epnum": "105",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Finish for a Finn"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132606",
+      "date": "1971-05-11",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thread of Evidence, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132607",
+      "date": "1971-05-18",
+      "epnum": "107",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bullet for a Bullet"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132608",
+      "date": "1971-05-25",
+      "epnum": "108",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Quits, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132609",
+      "date": "1971-06-01",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music hath Chorus"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132610",
+      "date": "1971-06-08",
+      "epnum": "110",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Put out a General Call"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132611",
+      "date": "1971-06-15",
+      "epnum": "111",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cliffhanger"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132612",
+      "date": "1971-06-22",
+      "epnum": "112",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Discount for All"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132613",
+      "date": "1971-06-29",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snap"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132614",
+      "date": "1971-07-06",
+      "epnum": "114",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tanner, A Tin, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132615",
+      "date": "1971-07-13",
+      "epnum": "115",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Drop Dead"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132616",
+      "date": "1971-07-20",
+      "epnum": "116",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "24 Hours - One Revolution"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132617",
+      "date": "1971-07-27",
+      "epnum": "117",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tell us, Nellus"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132618",
+      "date": "1971-08-03",
+      "epnum": "118",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "French-Canadian Leave"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132619",
+      "date": "1971-08-10",
+      "epnum": "119",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Defective Defector"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132620",
+      "date": "1971-08-17",
+      "epnum": "120",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frutti Ferago, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132621",
+      "date": "1971-08-24",
+      "epnum": "121",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Potluck in Mohara"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132622",
+      "date": "1971-09-07",
+      "epnum": "122",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Seek Miss Soames"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132623",
+      "date": "1971-09-14",
+      "epnum": "123",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Some Plants are Animal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132624",
+      "date": "1971-09-21",
+      "epnum": "124",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rob Peters to Pay all"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132625",
+      "date": "1971-09-28",
+      "epnum": "125",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Smell of Almonds"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132626",
+      "date": "1971-10-05",
+      "epnum": "126",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Germ of an Idea"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132627",
+      "date": "1971-10-12",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sound in Mind"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132628",
+      "date": "1971-10-19",
+      "epnum": "128",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Justice, Sicilian Style"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132629",
+      "date": "1971-10-26",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Touch and Go"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132630",
+      "date": "1971-11-02",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Of Negative Value"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132631",
+      "date": "1971-11-09",
+      "epnum": "131",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snatch"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132632",
+      "date": "1971-11-16",
+      "epnum": "132",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curtains of Kirton (Remake of B/C 20/10/1970)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132633",
+      "date": "1971-11-23",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man in Her Mind, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132634",
+      "date": "1971-12-07",
+      "epnum": "134",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snow in Tangiers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132635",
+      "date": "1971-12-14",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Parcel for you, Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132636",
+      "date": "1971-12-21",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beggar's Beat"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132637",
+      "date": "1971-12-28",
+      "epnum": "137",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Germ of an Idea (Remake of B/C 05/10/1971)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132638",
+      "date": "1972-01-04",
+      "epnum": "138",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mexican Bait"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132639",
+      "date": "1972-01-11",
+      "epnum": "139",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oh, Brother"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132640",
+      "date": "1972-01-18",
+      "epnum": "140",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Framed Like Crazy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132641",
+      "date": "1972-01-25",
+      "epnum": "141",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Plot in Romania, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132642",
+      "date": "1972-02-01",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Drugs for Mugs"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132643",
+      "date": "1972-02-08",
+      "epnum": "143",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Touch that takes the Fingers, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132644",
+      "date": "1972-02-15",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hot Trail, a Little Chile"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132645",
+      "date": "1972-02-22",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carol for a Song, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132646",
+      "date": "1972-02-29",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who's for the High Jump"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132647",
+      "date": "1972-03-07",
+      "epnum": "147",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death Minus Two"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132648",
+      "date": "1972-03-14",
+      "epnum": "148",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What's Your Poison"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132649",
+      "date": "1972-03-21",
+      "epnum": "149",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chinese Puzzle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132650",
+      "date": "1972-03-28",
+      "epnum": "150",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deserted"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132651",
+      "date": "1972-04-04",
+      "epnum": "151",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Accent on Accent"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132652",
+      "date": "1972-04-11",
+      "epnum": "152",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blood Counts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132653",
+      "date": "1972-04-18",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You may get it in the Neck"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132654",
+      "date": "1972-04-25",
+      "epnum": "154",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Curtains for Kord"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132655",
+      "date": "1972-05-02",
+      "epnum": "155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Holiday for Halliday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132656",
+      "date": "1972-05-09",
+      "epnum": "156",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Come the Revolution"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132657",
+      "date": "1972-05-16",
+      "epnum": "157",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chinese Approach, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132658",
+      "date": "1972-05-23",
+      "epnum": "158",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Right on the Button"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132659",
+      "date": "1972-05-30",
+      "epnum": "159",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132660",
+      "date": "1972-06-06",
+      "epnum": "160",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Counterfoiled"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132661",
+      "date": "1972-06-13",
+      "epnum": "161",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Make a Note"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132662",
+      "date": "1972-06-20",
+      "epnum": "162",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mug's Game, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132663",
+      "date": "1972-06-27",
+      "epnum": "163",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bad Luck, You Fallows"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132664",
+      "date": "1972-07-04",
+      "epnum": "164",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ring-a-Ring-a-Druggie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132665",
+      "date": "1972-07-11",
+      "epnum": "165",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Lee - a Rattling Good Time"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132666",
+      "date": "1972-07-18",
+      "epnum": "166",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knife for a Life"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132667",
+      "date": "1972-07-25",
+      "epnum": "167",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lee's Got it Taped"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132668",
+      "date": "1972-08-01",
+      "epnum": "168",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Heroine Without a Hero"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132669",
+      "date": "1972-08-08",
+      "epnum": "169",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cape Double Cross"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132670",
+      "date": "1972-08-15",
+      "epnum": "170",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Johnny, a Glassburger"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132671",
+      "date": "1972-08-22",
+      "epnum": "171",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One Leak Leads to Another"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132672",
+      "date": "1972-08-29",
+      "epnum": "172",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Kidding"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132673",
+      "date": "1972-09-05",
+      "epnum": "173",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fraud Ring"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132674",
+      "date": "1972-09-12",
+      "epnum": "174",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Feet First"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132675",
+      "date": "1972-09-19",
+      "epnum": "175",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shark with a Secret"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132676",
+      "date": "1972-09-22",
+      "epnum": "176",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Hook for the Book"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132677",
+      "date": "1972-10-03",
+      "epnum": "177",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Single File"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132678",
+      "date": "1972-10-10",
+      "epnum": "178",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "His Heart was in It"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132679",
+      "date": "1972-10-17",
+      "epnum": "179",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Figures for Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132680",
+      "date": "1972-10-24",
+      "epnum": "180",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Explosive Situation, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132681",
+      "date": "1972-10-31",
+      "epnum": "181",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132682",
+      "date": "1972-11-07",
+      "epnum": "182",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Not Fair, Sabena"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132683",
+      "date": "1972-11-14",
+      "epnum": "183",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three-way Stretch"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132684",
+      "date": "1972-11-21",
+      "epnum": "184",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crossed Lines can Kill"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132685",
+      "date": "1972-11-28",
+      "epnum": "185",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Garbo, Japanese Style"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132686",
+      "date": "1972-12-05",
+      "epnum": "186",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132687",
+      "date": "1972-12-12",
+      "epnum": "187",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Foresight for Assassination"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132688",
+      "date": "1972-12-19",
+      "epnum": "188",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Johnny Belinda"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132689",
+      "date": "1972-12-26",
+      "epnum": "189",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guys and Dolls"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132690",
+      "date": "1973-01-02",
+      "epnum": "190",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boot Hill for Baker"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132691",
+      "date": "1973-01-09",
+      "epnum": "191",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rockabye for Rickaby"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132692",
+      "date": "1973-01-16",
+      "epnum": "192",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One-way Ticket"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132693",
+      "date": "1973-01-23",
+      "epnum": "193",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Incident in Calabria"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132694",
+      "date": "1973-01-30",
+      "epnum": "194",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gypsy Rose Lee reads the Cards"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132695",
+      "date": "1973-02-06",
+      "epnum": "195",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snowbound for Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132696",
+      "date": "1973-02-13",
+      "epnum": "196",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blind Lead for Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132697",
+      "date": "1973-02-20",
+      "epnum": "197",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lone Star Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132698",
+      "date": "1973-02-27",
+      "epnum": "198",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frame without a Picture"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132699",
+      "date": "1973-03-06",
+      "epnum": "199",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lee takes the Mickey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132700",
+      "date": "1973-03-13",
+      "epnum": "200",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lucky Horse-shoe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132701",
+      "date": "1973-03-27",
+      "epnum": "202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Some Cranes Can't Fly"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132702",
+      "date": "1973-03-30",
+      "epnum": "201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Red Flag to a Bull"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132703",
+      "date": "1973-04-03",
+      "epnum": "203",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Sugars for Sweet Revenge"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132704",
+      "date": "1973-04-10",
+      "epnum": "204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dragons for Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132705",
+      "date": "1973-04-17",
+      "epnum": "205",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Teddy Bear's Picnic"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132706",
+      "date": "1973-04-24",
+      "epnum": "206",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Right on the Button, Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132707",
+      "date": "1973-05-01",
+      "epnum": "207",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hoodoo Whodunnit"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132708",
+      "date": "1973-05-08",
+      "epnum": "208",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One Will Die"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132709",
+      "date": "1973-05-15",
+      "epnum": "209",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "If the Cap fits"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132710",
+      "date": "1973-05-22",
+      "epnum": "210",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead March"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds of Darkness [SA] 730522 210 Dead March_OTRRPG.mp3",
+          "time": "1468",
+          "size": "23565398"
+        },
+        {
+          "path": "S",
+          "folder": "Sounds Of Darkness",
+          "name": "Sounds Of Darkness - SA 73-05-22 (210) Dead March.mp3",
+          "time": "1470",
+          "size": "5881931"
+        }
+      ]
+    },
+    {
+      "ide": "132711",
+      "date": "1973-05-29",
+      "epnum": "211",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death is 'Bitte'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132712",
+      "date": "1973-06-05",
+      "epnum": "212",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Dock for Doc"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132713",
+      "date": "1973-06-12",
+      "epnum": "213",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frame is a Frame is a Frame, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132714",
+      "date": "1973-06-19",
+      "epnum": "214",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "They get the Needle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132715",
+      "date": "1973-06-23",
+      "epnum": "215",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132716",
+      "date": "1973-07-03",
+      "epnum": "216",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132717",
+      "date": "1973-07-10",
+      "epnum": "217",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gold, King"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132718",
+      "date": "1973-07-17",
+      "epnum": "218",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132719",
+      "date": "1973-07-24",
+      "epnum": "219",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132720",
+      "date": "1973-07-31",
+      "epnum": "220",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Well Heeled, Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132721",
+      "date": "1973-08-07",
+      "epnum": "221",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This will Kill You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132722",
+      "date": "1973-08-14",
+      "epnum": "222",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aloe, Lee"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132723",
+      "date": "1973-08-21",
+      "epnum": "223",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lee Pins it Down"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132724",
+      "date": "1973-08-28",
+      "epnum": "224",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mug's Game, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132725",
+      "date": "1973-09-04",
+      "epnum": "225",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Powder for Africa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132726",
+      "date": "1973-09-10",
+      "epnum": "226",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Masters, Masters old Masters"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132727",
+      "date": "1973-09-18",
+      "epnum": "227",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Matter of Wills, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132728",
+      "date": "1973-09-25",
+      "epnum": "228",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Acid Test"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132729",
+      "date": "1973-10-02",
+      "epnum": "229",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead Man's Bluff"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132730",
+      "date": "1973-10-09",
+      "epnum": "230",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jade is a Jade"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132731",
+      "date": "1973-10-16",
+      "epnum": "231",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Horseplay"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132732",
+      "date": "1973-10-23",
+      "epnum": "232",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sunday Service"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132733",
+      "date": "1973-10-30",
+      "epnum": "233",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Single File, Times Four"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132734",
+      "date": "1973-11-06",
+      "epnum": "234",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132735",
+      "date": "1973-11-13",
+      "epnum": "235",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Point to the Blade"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132736",
+      "date": "1973-11-20",
+      "epnum": "236",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wall of Death, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132737",
+      "date": "1973-11-27",
+      "epnum": "237",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Just for Kicks"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132738",
+      "date": "1973-12-04",
+      "epnum": "238",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quiet Beefing, Colonel"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132739",
+      "date": "1973-12-11",
+      "epnum": "239",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Georgia on her Mind (Remake of B/C 11/08/1967)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132740",
+      "date": "1973-12-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Episode Broadcast - Special Christmas Broadcast"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132741",
+      "date": "1973-12-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Episode Broadcast - Special Christmas Broadcast"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132742",
+      "date": "1974-01-01",
+      "epnum": "240",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder, Boots and All"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132743",
+      "date": "1974-01-08",
+      "epnum": "241",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tell Me, Mr Porter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132744",
+      "date": "1974-01-15",
+      "epnum": "242",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Written in the Dust"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132745",
+      "date": "1974-01-22",
+      "epnum": "243",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sweet and Sour"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132746",
+      "date": "1974-01-29",
+      "epnum": "244",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blind for Hawk Eye, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132747",
+      "date": "1974-02-05",
+      "epnum": "245",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vice in Camera"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132748",
+      "date": "1974-02-12",
+      "epnum": "246",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wrong Track, Johnny"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132749",
+      "date": "1974-02-19",
+      "epnum": "247",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Just Desserts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132750",
+      "date": "1974-02-26",
+      "epnum": "248",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strung Up"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132751",
+      "date": "1974-03-05",
+      "epnum": "249",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Taps"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132752",
+      "date": "1974-03-12",
+      "epnum": "250",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stuck for a Clue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132753",
+      "date": "1974-03-19",
+      "epnum": "251",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132754",
+      "date": "1974-03-26",
+      "epnum": "252",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Powder Blue it"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132755",
+      "date": "1974-04-02",
+      "epnum": "253",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "With the Gloves off"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132756",
+      "date": "1974-04-09",
+      "epnum": "254",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Something Fishy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132757",
+      "date": "1974-04-16",
+      "epnum": "255",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Carpet"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132758",
+      "date": "1974-04-23",
+      "epnum": "256",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Words, Words, Words"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132759",
+      "date": "1974-04-30",
+      "epnum": "257",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Country and Western"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132760",
+      "date": "1974-05-07",
+      "epnum": "258",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132761",
+      "date": "1974-05-14",
+      "epnum": "259",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132762",
+      "date": "1974-05-21",
+      "epnum": "260",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Barking up the wrong Tree"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132763",
+      "date": "1974-05-28",
+      "epnum": "261",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rose by any other Name, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132764",
+      "date": "1974-06-04",
+      "epnum": "262",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Question of Honour, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132765",
+      "date": "1974-06-11",
+      "epnum": "263",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132766",
+      "date": "1974-06-18",
+      "epnum": "264",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cliff-Hanger"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132767",
+      "date": "1974-06-25",
+      "epnum": "265",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rest in Silence, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132768",
+      "date": "1974-07-02",
+      "epnum": "266",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blumen-That Story, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132769",
+      "date": "1974-07-09",
+      "epnum": "267",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Good Looker"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132770",
+      "date": "1974-07-16",
+      "epnum": "268",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stones-Throw Away"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132771",
+      "date": "1974-07-23",
+      "epnum": "269",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132772",
+      "date": "1974-07-30",
+      "epnum": "270",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "High Life"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132773",
+      "date": "1974-08-06",
+      "epnum": "271",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Episode Missing]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132774",
+      "date": "1974-08-13",
+      "epnum": "272",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Masters in Kerr's Displeasure"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132775",
+      "date": "1974-08-20",
+      "epnum": "273",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Butcher, Baker"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132776",
+      "date": "1974-08-27",
+      "epnum": "274",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Bill for Brewer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132777",
+      "date": "1974-09-03",
+      "epnum": "275",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two for the Price of One"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "132778",
+      "date": "1974-09-10",
+      "epnum": "276",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Up Brad, Down Dale (Final Episode, 2nd Season)"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Private Detective"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1967-07-07",
+      "dow": "",
+      "time": "",
+      "end": "1968-02-09",
+      "length": "30",
+      "country": "South Africa",
+      "network": "Springbok"
+    },
+    {
+      "begin": "1969-11-25",
+      "dow": "",
+      "time": "",
+      "end": "1974-10-08",
+      "length": "30",
+      "country": "South Africa",
+      "network": "Springbok"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Sounds of Darkness, The"
+    }
+  ]
+}

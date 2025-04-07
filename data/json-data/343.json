@@ -1,0 +1,367 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "WARN"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/W Series/Warner Brothers Academy Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Warner-Academy-Theater.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Warner-Academy-Theater.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3370",
+      "first": "Carole",
+      "last": "Landis",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1589",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "2006-04-01",
+      "source": "OTR Digest_1990s/OTRDigest_(113)Spring06.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (113) Spring 2006",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "124887",
+      "date": "1938-04-03",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One Way Passage"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theater 38-04-03 One Way Passage.mp3",
+          "time": "1898",
+          "size": "15190140"
+        }
+      ]
+    },
+    {
+      "ide": "124888",
+      "date": "1938-04-10",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "King And The Chorus Girl, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124889",
+      "date": "1938-04-17",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "124890",
+      "date": "1938-04-24",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secret Agent"
+        },
+        {
+          "title": "Speical Agent"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theatre 380424 04 Special Agent_OTRRPG.mp3",
+          "time": "1698",
+          "size": "27249063"
+        },
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theater 38-04-24 Special Agent.mp3",
+          "time": "1700",
+          "size": "13602689"
+        }
+      ]
+    },
+    {
+      "ide": "124891",
+      "date": "1938-05-01",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "124892",
+      "date": "1938-05-08",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "That Certain Woman - Part 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theatre 380508 06 That Certain Woman Pt 1_OTRRPG.mp3",
+          "time": "1739",
+          "size": "27909449"
+        },
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theater 38-05-08 That Certain Woman - Pt 1.mp3",
+          "time": "1742",
+          "size": "13932877"
+        }
+      ]
+    },
+    {
+      "ide": "124893",
+      "date": "1938-05-15",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "That Certain Woman - Part 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theatre 380515 07 That Certain Woman Pt 2_OTRRPG.mp3",
+          "time": "1738",
+          "size": "27889805"
+        },
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theater 38-05-15 That Certain Woman - Pt 2.mp3",
+          "time": "1740",
+          "size": "13923055"
+        }
+      ]
+    },
+    {
+      "ide": "124894",
+      "date": "1938-05-22",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Don't Bet On Blondes"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theatre 380522 08 Don't Bet On Blondes_OTRRPG.mp3",
+          "time": "1755",
+          "size": "28159385"
+        },
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theater 38-05-22 Don't Bet On Blondes.mp3",
+          "time": "1757",
+          "size": "14058056"
+        }
+      ]
+    },
+    {
+      "ide": "124895",
+      "date": "1938-05-29",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Her Husband's Secretary"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124896",
+      "date": "1938-06-05",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crowd Roars, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theatre 380605 10 The Crowd Roars_OTRRPG.mp3",
+          "time": "1733",
+          "size": "27802861"
+        },
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theater 38-06-05 The Crowd Roars.mp3",
+          "time": "1735",
+          "size": "13879587"
+        }
+      ]
+    },
+    {
+      "ide": "124897",
+      "date": "1938-06-12",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Desirable"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124898",
+      "date": "1938-06-19",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snowed Under"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124899",
+      "date": "1938-06-26",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "House On 56th Street"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theatre 380626 13 The House On 56th Street_OTRRPG.mp3",
+          "time": "1750",
+          "size": "28084157"
+        },
+        {
+          "path": "W",
+          "folder": "Warner Brothers Academy Theater",
+          "name": "Warner Brothers Academy Theater 38-06-26 The House On 56th Street.mp3",
+          "time": "1752",
+          "size": "14020230"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-04-03",
+      "dow": "",
+      "time": "",
+      "end": "1938-06-26",
+      "length": "30",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Academy Theater"
+    },
+    {
+      "title": "Warner Brothers Academy Theater"
+    }
+  ]
+}

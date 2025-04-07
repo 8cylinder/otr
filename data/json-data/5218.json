@@ -1,0 +1,132 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/J Series/Jim Reeves/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50219",
+      "first": "Jim",
+      "last": "Reeves",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "50903",
+      "first": "The Jordonaires",
+      "last": "",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313854",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'Everywhere You Go'. American Cancer Society Fund Appeal"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jim Reeves",
+          "name": "Jim Reeves Show 58xxxx 1st Song - 'Everywhere You Go'. American Cancer Society Fund Appeal (128-44)_OTRRPG.mp3",
+          "time": "873",
+          "size": "14002925"
+        },
+        {
+          "path": "J",
+          "folder": "Jim Reeves",
+          "name": "Jim Reeves Show 58xxxx 1st Song - 'Everywhere You Go'. American Cancer Society Fund Appeal (128-44).mp3",
+          "time": "871",
+          "size": "6965014"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1957-10-07",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1957-12-27",
+      "length": "5",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1958-01-06",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1958-02-28",
+      "length": "5",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Heinz Foods",
+      "begin": "1957-10-07",
+      "end": "1957-12-27"
+    },
+    {
+      "sponsor": "Multi",
+      "begin": "1958-01-06",
+      "end": "1958-02-28"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Jim Reeves Show"
+    }
+  ]
+}

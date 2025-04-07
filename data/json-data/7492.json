@@ -1,0 +1,174 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/Q Series/Quiz Of Two Cities/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/21/20210321200843-7133ba96.jpg",
+      "label": "Cast of Quiz of two Cities",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2280",
+      "first": "Mark",
+      "last": "Goodson",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3208",
+      "first": "Reid",
+      "last": "Kilpatrick",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314523",
+      "date": "1944-11-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chicago vs New York"
+        }
+      ],
+      "files": [
+        {
+          "path": "Q",
+          "folder": "Quiz Of Two Cities",
+          "name": "Quiz of Two Cities 441105 xxx Chicago vs New York_OTRRPG.mp3",
+          "time": "1822",
+          "size": "29225585"
+        },
+        {
+          "path": "Q",
+          "folder": "Quiz Of Two Cities",
+          "name": "Quiz Of Two Cities 44-11-05 Chicago Vs New York.mp3",
+          "time": "1824",
+          "size": "29182080"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Quiz"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-09-24",
+      "dow": "Su",
+      "time": "3:30 PM",
+      "end": "1947-04-06",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Lambert Pharmacal Company (Listerine)",
+      "begin": "1944-09-17",
+      "end": "1947-04-06"
+    },
+    {
+      "sponsor": "Noxzema Chemical Company (skin and shaving cream)",
+      "begin": "1940-00-00",
+      "end": "1944-09-17"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Quiz of Two Cities, The"
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Stars On Parade/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.karloff.com/radio.html",
+      "label": "Radio Programs Featuring Boris Karloff",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8467-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2149",
+      "first": "William",
+      "last": "Gargan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4187",
+      "first": "Guy",
+      "last": "Mitchell",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "404",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "1981-09-01",
+      "source": "Hello Again/HA_V12_(09)_Sep81.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 12 #09 Sep 1981",
+      "author": ""
+    },
+    {
+      "idprint": "710",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "1976-10-01",
+      "source": "Illustrated Press/IP_005.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#005) - Oct 1976",
+      "author": ""
+    },
+    {
+      "idprint": "2312",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "1951-10-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 5110.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 5110",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "155220",
+      "date": "0000-00-00",
+      "epnum": "528",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mickey And The Judge"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 501117 528 Mickey And The Judge (128-48)_OTRRPG.mp3",
+          "time": "900",
+          "size": "14408440"
+        },
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 50-xx-xx (528) Mickey And The Judge.mp3",
+          "time": "900",
+          "size": "7200705"
+        }
+      ]
+    },
+    {
+      "ide": "263438",
+      "date": "0000-00-00",
+      "epnum": "536",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Rosary"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 510112 536 1st Song - My Rosary (128-48)_OTRRPG.mp3",
+          "time": "910",
+          "size": "14570488"
+        },
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 50-xx-xx (536) First Song - My Rosary.mp3",
+          "time": "910",
+          "size": "7281345"
+        },
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 50-xx-xx (536) My Rosary.mp3",
+          "time": "910",
+          "size": "7281345"
+        }
+      ]
+    },
+    {
+      "ide": "263435",
+      "date": "0000-00-00",
+      "epnum": "587",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Aba Daba Honeymoon"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 511111 587 1st Song - Abba Dabba Honeymoon (128-48)_OTRRPG.mp3",
+          "time": "895",
+          "size": "14331256"
+        },
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade xx-xx-xx (587) First Song - Aba Daba Honeymoon.mp3",
+          "time": "895",
+          "size": "7163073"
+        },
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade xx-xx-xx (587) First Song - An Aba-Daba Honeymoon.mp3",
+          "time": "895",
+          "size": "7163073"
+        }
+      ]
+    },
+    {
+      "ide": "263436",
+      "date": "0000-00-00",
+      "epnum": "588",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Happily Ever After"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 511118 588 Happily Ever After (128-48)_OTRRPG.mp3",
+          "time": "886",
+          "size": "14193400"
+        },
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade xx-xx-xx (588) Happily Ever After.mp3",
+          "time": "886",
+          "size": "7090305"
+        }
+      ]
+    },
+    {
+      "ide": "315161",
+      "date": "1950-11-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - A Good Time Was Had By All"
+        },
+        {
+          "title": "Rosemary Clooney"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 501124 529 Rosemary Clooney - 1st Song - A Good Time Was Had By All_OTRRPG.mp3",
+          "time": "863",
+          "size": "13888831"
+        }
+      ]
+    },
+    {
+      "ide": "315162",
+      "date": "1950-12-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deforest Kelly - The Snow Queen"
+        },
+        {
+          "title": "The Snow Queen With DeForest Kelly"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 501201 530 Deforest Kelly - The Snow Queen_OTRRPG.mp3",
+          "time": "879",
+          "size": "14150864"
+        },
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade (AFRS) xx-xx-xx (530) Snow Queen-DeForest Kelley.mp3",
+          "time": "876",
+          "size": "21273421"
+        }
+      ]
+    },
+    {
+      "ide": "155214",
+      "date": "1950-12-09",
+      "epnum": "592",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Evelyn Knight"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "315163",
+      "date": "1951-04-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guy Lombardo 1st Song - Get Out Those Old Records"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 510413 549 Guy Lombardo 1st Song - Get Out Those Old Records_OTRRPG.mp3",
+          "time": "888",
+          "size": "14280438"
+        }
+      ]
+    },
+    {
+      "ide": "315164",
+      "date": "1951-04-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Lukas - Our Love Tchaikovsky's Great Romance"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 510420 550 Paul Lukas - Our Love Tchaikovsky's Great Romance_OTRRPG.mp3",
+          "time": "894",
+          "size": "14389106"
+        }
+      ]
+    },
+    {
+      "ide": "315165",
+      "date": "1951-04-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rosemary Clooney 1st Song - An Old Fashioned Idea"
+        },
+        {
+          "title": "Rosemary Clooney and Guy Mitchell"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 510427 551 Rosemary Clooney 1st Song - An Old Fashioned Idea_OTRRPG.mp3",
+          "time": "893",
+          "size": "14374075"
+        }
+      ]
+    },
+    {
+      "ide": "315166",
+      "date": "1951-05-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boris Karloff - The Big Man"
+        },
+        {
+          "title": "Big Man With Boris Karloff"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 510504 552 Boris Karloff - The Big Man_OTRRPG.mp3",
+          "time": "895",
+          "size": "14395366"
+        }
+      ]
+    },
+    {
+      "ide": "263437",
+      "date": "1951-08-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It Pays To Advertise"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 51-08-17 (xxx) It Pays To Advertise.mp3",
+          "time": "869",
+          "size": "2608918"
+        },
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade xx-xx-xx It Pays to Adventise.mp3",
+          "time": "869",
+          "size": "2608918"
+        }
+      ]
+    },
+    {
+      "ide": "263434",
+      "date": "1951-08-26",
+      "epnum": "576",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Davy Crockett"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 51-08-26 (576) Davy Crockett.mp3",
+          "time": "870",
+          "size": "6958744"
+        }
+      ]
+    },
+    {
+      "ide": "320281",
+      "date": "1951-10-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "W Count Basie Orchestra"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 51-10-xx (xxx) W Count Basie Orchestra.mp3",
+          "time": "735",
+          "size": "5879257"
+        },
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 51-10-xx w Count Basie Orchestra.mp3",
+          "time": "735",
+          "size": "5879257"
+        }
+      ]
+    },
+    {
+      "ide": "263439",
+      "date": "1951-11-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Royal Rhythm"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "315167",
+      "date": "1951-12-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Herbie Fields 1st Song - I Love You"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 511209 591 Herbie Fields 1st Song - I Love You_OTRRPG.mp3",
+          "time": "895",
+          "size": "14395363"
+        }
+      ]
+    },
+    {
+      "ide": "263433",
+      "date": "1951-12-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crime On Her Hands"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Stars On Parade",
+          "name": "Stars On Parade 511216 592 Gloria De Haven - Crime On Her Hands_OTRRPG.mp3",
+          "time": "881",
+          "size": "14168410"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1952-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Army and Air Force recruiting",
+      "begin": "1950-00-00",
+      "end": "1952-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Stars on Parade"
+    }
+  ]
+}

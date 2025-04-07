@@ -1,0 +1,616 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323171945-c8a1ec43.jpg",
+      "label": "Mr. Moto CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6437-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mr I A Moto/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3404",
+      "first": "John",
+      "last": "Larkin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3838",
+      "first": "John P.",
+      "last": "Marquand",
+      "f": "Noted Role",
+      "character": "Based on his novels"
+    },
+    {
+      "idperson": "4204",
+      "first": "James",
+      "last": "Monks",
+      "f": "Noted Role",
+      "character": "Mr. Moto"
+    },
+    {
+      "idperson": "1169",
+      "first": "Fred",
+      "last": "Collins",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2289",
+      "first": "Gavin",
+      "last": "Gordon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "44267",
+      "first": "Scott",
+      "last": "Tennyson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50338",
+      "first": "Peter",
+      "last": "Kappel",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "615",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1992-03-01",
+      "source": "Illustrated Press/IP_186.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #186 Mar 92",
+      "author": ""
+    },
+    {
+      "idprint": "617",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "1992-05-01",
+      "source": "Illustrated Press/IP_188.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #188 May 92",
+      "author": ""
+    },
+    {
+      "idprint": "764",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1998-12-01",
+      "source": "Illustrated Press/IP_265.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#265) - Dec 1998",
+      "author": ""
+    },
+    {
+      "idprint": "1549",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "1984-05-01",
+      "source": "OTR Digest_1980s/OTRDigest_(003)MayJun84.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (03) May-Jun 1984",
+      "author": ""
+    },
+    {
+      "idprint": "1567",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "1987-05-01",
+      "source": "OTR Digest_1980s/OTRDigest_(021)MayJun87.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (21) May-Jun 1987",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "107155",
+      "date": "1951-05-20",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Force Called X07, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto - 1951-05-20 - A Force Called X-07.mp3",
+          "time": "1712",
+          "size": "41101389"
+        }
+      ]
+    },
+    {
+      "ide": "107156",
+      "date": "1951-05-27",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Smoke Screen, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto - 1951-05-27 - The Smoke Screen.mp3",
+          "time": "1781",
+          "size": "42741455"
+        }
+      ]
+    },
+    {
+      "ide": "107157",
+      "date": "1951-06-03",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blackmail"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto - 1951-06-03 - Blackmail.mp3",
+          "time": "1770",
+          "size": "42476873"
+        }
+      ]
+    },
+    {
+      "ide": "107158",
+      "date": "1951-06-10",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead Land, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto 51-06-10 (04) The Dead Land.mp3",
+          "time": "1857",
+          "size": "9286774"
+        }
+      ]
+    },
+    {
+      "ide": "107159",
+      "date": "1951-06-13",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kuriloff Papers [West Coast], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto 51-06-13 (05) The Kuriloff Papers [West Coast].mp3",
+          "time": "1848",
+          "size": "7394223"
+        }
+      ]
+    },
+    {
+      "ide": "107160",
+      "date": "1951-06-17",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bazaloff Papers, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto 51-06-17 (05) The Bazaloff Papers.mp3",
+          "time": "1725",
+          "size": "8623047"
+        }
+      ]
+    },
+    {
+      "ide": "107161",
+      "date": "1951-06-24",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Victim, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto - 1951-06-24 - The Victim.mp3",
+          "time": "1789",
+          "size": "42927017"
+        }
+      ]
+    },
+    {
+      "ide": "107162",
+      "date": "1951-07-01",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Project 77"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr Moto 1951-07-01 The Victim.mp3",
+          "time": "1768",
+          "size": "14147465"
+        },
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto 51-07-01 (07) Project 77.mp3",
+          "time": "1758",
+          "size": "7033255"
+        }
+      ]
+    },
+    {
+      "ide": "107163",
+      "date": "1951-07-08",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sabotage"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto 51-07-08 (08) Sabotage.mp3",
+          "time": "1761",
+          "size": "14092308"
+        }
+      ]
+    },
+    {
+      "ide": "107164",
+      "date": "1951-07-15",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Escape"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr Moto 510715 09 Escape_OTRRPG.mp3",
+          "time": "1804",
+          "size": "28941135"
+        },
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto 51-07-15 (09) Escape.mp3",
+          "time": "1806",
+          "size": "14449579"
+        }
+      ]
+    },
+    {
+      "ide": "107165",
+      "date": "1951-07-22",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wheel of Life, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107166",
+      "date": "1951-07-29",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Yellow Robe or the Lama's Amah, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107167",
+      "date": "1951-08-05",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Voronzoff Necklace, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107168",
+      "date": "1951-08-12",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Waltzing Matilda"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107169",
+      "date": "1951-08-19",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Beauty and the Avenger, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107170",
+      "date": "1951-08-26",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Shen Tsung Fan, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107171",
+      "date": "1951-09-02",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Three Numbers, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107172",
+      "date": "1951-09-09",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Unhappy Firebug, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107173",
+      "date": "1951-09-16",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Blue Cigarettes, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107174",
+      "date": "1951-09-23",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Kants of Kailuaneohe, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "107175",
+      "date": "1951-10-01",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Schraum Method, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr Moto 511001 20 The Schraum Method_OTRRPG.mp3",
+          "time": "1805",
+          "size": "28951596"
+        },
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto 51-10-01 (20) The Schraum Method.mp3",
+          "time": "1807",
+          "size": "14454827"
+        }
+      ]
+    },
+    {
+      "ide": "107176",
+      "date": "1951-10-07",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crooked Log, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto 51-10-07 (21) The Crooked Log.mp3",
+          "time": "1797",
+          "size": "7190244"
+        }
+      ]
+    },
+    {
+      "ide": "107177",
+      "date": "1951-10-13",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strange Elopement of Professor Sloane, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto - 1951-10-13 - The Strange Elopement of Professor Sloan.mp3",
+          "time": "1830",
+          "size": "43930882"
+        }
+      ]
+    },
+    {
+      "ide": "107178",
+      "date": "1951-10-20",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dry Martini, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mr I A Moto",
+          "name": "Mr. Moto - 1951-10-20 - The Case of the Dry Martini.mp3",
+          "time": "1782",
+          "size": "42776034"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Private Detective"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1951-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1951-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1951-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Mr. Moto"
+    }
+  ]
+}

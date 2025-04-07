@@ -1,0 +1,174 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5095",
+      "first": "Benjamin Albert 'B. A'.",
+      "last": "Rolfe",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6310",
+      "first": "Lew",
+      "last": "White",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "30",
+      "first": "Ray",
+      "last": "Anthony",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "954",
+      "first": "Frankie",
+      "last": "Carle",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1605",
+      "first": "Jimmy",
+      "last": "Dorsey",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5896",
+      "first": "Claude",
+      "last": "Thornhill",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2354",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1934-01-01",
+      "source": "Radio Log and Lore/Radio_Log_And_Lore_34_01.pdf",
+      "idpytype2": "4",
+      "title": "Radio Log And Lore 1934 01",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "152",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "247339",
+      "date": "1950-08-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Your Saturday Dance Date"
+        }
+      ],
+      "files": [
+        {
+          "path": "Y",
+          "folder": "Your Saturday Dance Date",
+          "name": "Your Saturday Dance Date 1950.08.12 First Tune Lets Do It.mp3",
+          "time": "1706",
+          "size": "6932196"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-07-01",
+      "dow": "Sa",
+      "time": "",
+      "end": "1950-09-16",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1952-11-22",
+      "dow": "Sa",
+      "time": "",
+      "end": "1952-12-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Benrus",
+      "begin": "1952-00-00",
+      "end": "1952-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Saturday Night Dancing Party"
+    },
+    {
+      "title": "Saturday Night Dance Date"
+    },
+    {
+      "title": "Saturday Night Dance Party"
+    }
+  ]
+}

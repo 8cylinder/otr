@@ -1,0 +1,242 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185422-cf4c2dfa.jpg",
+      "label": "AFRS 1",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185425-cb4d7692.jpg",
+      "label": "Armed Forces Radio Theater",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Armed Forces Radio Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "24105",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shadow Of A Doubt"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "245790",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Armed Forces Radio Theater - Johnny Cartwright's Camera"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Armed Forces Radio Theater",
+          "name": "Armed Forces Radio Theater 19xx.xx.xx Johnny Cartwrights Camera.mp3",
+          "time": "1770",
+          "size": "7186432"
+        }
+      ]
+    },
+    {
+      "ide": "316426",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Johnny Cartwright's Camera"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Armed Forces Radio Theater",
+          "name": "Armed Forces Radio Theater xx-xx-xx Johnny Cartwright's Camera.mp3",
+          "time": "1770",
+          "size": "28320462"
+        }
+      ]
+    },
+    {
+      "ide": "24106",
+      "date": "1945-08-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "It HappenedTomorrow"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Armed Forces Radio Theater",
+          "name": "Armed Forces Radio Theater 45-08-25 Return To Tomorrow.mp3",
+          "time": "1770",
+          "size": "28323391"
+        }
+      ]
+    },
+    {
+      "ide": "24109",
+      "date": "1946-05-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Greater Love Hath No Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24108",
+      "date": "1946-06-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arise My Love"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24107",
+      "date": "1946-06-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ruggles Of Redgap"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "258844",
+      "date": "1946-08-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Private Eye, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Armed Forces Radio Theater",
+          "name": "Armed Forces Radio Theater 460812 The Private Eye {AFRS#379}_OTRRPG.mp3",
+          "time": "1501",
+          "size": "28792290"
+        },
+        {
+          "path": "A",
+          "folder": "Armed Forces Radio Theater",
+          "name": "Armed Forces Radio Theater 46-08-12 The Private Eye {AFRS#379}.mp3",
+          "time": "1494",
+          "size": "11954105"
+        }
+      ]
+    },
+    {
+      "ide": "307334",
+      "date": "1946-10-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Devil & Miss Jones"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Armed Forces Radio Theater",
+          "name": "Armed Forces Radio Theater 46-10-23 The Devil & Miss Jones.mp3",
+          "time": "1516",
+          "size": "24260903"
+        }
+      ]
+    },
+    {
+      "ide": "312446",
+      "date": "1948-09-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fifth Avenue Girl"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Armed Forces Radio Theater",
+          "name": "Armed Forces Radio Theater 480926 xxx Fifth Avenue Girl {AFRS}_OTRRPG.mp3",
+          "time": "1531",
+          "size": "24508549"
+        },
+        {
+          "path": "A",
+          "folder": "Armed Forces Radio Theater",
+          "name": "Armed Forces Radio Theater 48-09-26 Fifth Avenue Girl.mp3",
+          "time": "1531",
+          "size": "12253561"
+        }
+      ]
+    },
+    {
+      "ide": "321299",
+      "date": "1968-11-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Anniversary Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Armed Forces Radio Theater",
+          "name": "Armed Forces Radio Theater 1968.11.11 Anniversary Show.mp3",
+          "time": "3360",
+          "size": "13547520"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Armed Forces Radio Theater"
+    }
+  ]
+}

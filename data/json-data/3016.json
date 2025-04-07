@@ -1,0 +1,924 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322183229-c1723d7a.jpg",
+      "label": "The Drene Show",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322183236-656f059b.jpg",
+      "label": "Drene Show",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324044704-a2ffb782.jpg",
+      "label": "Old Gold Show, The",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324044710-c6c7121c.jpg",
+      "label": "Old Gold Show, The",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logn1009.htm#gold",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1349",
+      "first": "Xavier",
+      "last": "Cugat",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6047",
+      "first": "Rudy",
+      "last": "Vallee",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "6047",
+      "first": "Rudy",
+      "last": "Vallee",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "208",
+      "first": "James Gilmore",
+      "last": "Backus",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "679",
+      "first": "Truman",
+      "last": "Bradley",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3387",
+      "first": "Frances",
+      "last": "Langford",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "3450",
+      "first": "Ann",
+      "last": "Leaf",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "3531",
+      "first": "Cathy",
+      "last": "Lewis",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4615",
+      "first": "Les",
+      "last": "Paul",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4583",
+      "first": "Franklin 'Frank'",
+      "last": "Parker",
+      "f": "Noted Role",
+      "character": "vocals"
+    },
+    {
+      "idperson": "6050",
+      "first": "Lyle",
+      "last": "Van",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "954",
+      "first": "Frankie",
+      "last": "Carle",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1635",
+      "first": "Carmen",
+      "last": "Dragon",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3024",
+      "first": "Allan",
+      "last": "Jones",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "3116",
+      "first": "Sammy",
+      "last": "Kaye",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3185",
+      "first": "Alan",
+      "last": "Kent",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3387",
+      "first": "Frances",
+      "last": "Langford",
+      "f": "Noted Role",
+      "character": "Blanche Bickerson"
+    },
+    {
+      "idperson": "3853",
+      "first": "Herbert",
+      "last": "Marshall",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4154",
+      "first": "Marvin",
+      "last": "Miller",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4154",
+      "first": "Marvin",
+      "last": "Miller",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4245",
+      "first": "Frank",
+      "last": "Morgan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4756",
+      "first": "Dick",
+      "last": "Powell",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "5370",
+      "first": "Artie",
+      "last": "Shaw",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5972",
+      "first": "Les",
+      "last": "Tremayne",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6196",
+      "first": "Fred",
+      "last": "Waring",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6527",
+      "first": "Victor",
+      "last": "Young",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "15345",
+      "first": "Ted",
+      "last": "Fio Rito",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "31100",
+      "first": "The",
+      "last": "Merry Macs",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "39625",
+      "first": "Don",
+      "last": "Ameche",
+      "f": "Noted Role",
+      "character": "John Bickerson"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "84",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT--",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1700",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "1945-05-01",
+      "source": "Radio Row/Radio Row 4505.pdf",
+      "idpytype2": "4",
+      "title": "Radio Row 1945 05",
+      "author": ""
+    },
+    {
+      "idprint": "1586",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "2005-04-01",
+      "source": "OTR Digest_1990s/OTRDigest_(109)Spring05.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (109) Spring 2005",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2822",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Radio Programs, 1924-1984. A Catalog of Over 1800 Shows",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Anyone Can Dream"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "113789",
+      "date": "1942-04-29",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ivory Mission"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113790",
+      "date": "1942-05-06",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lion Alegro"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113791",
+      "date": "1942-05-13",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "S.O.S.Rhino"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113792",
+      "date": "1942-05-20",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Tree of Death, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113793",
+      "date": "1942-05-27",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Picture, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113794",
+      "date": "1942-06-03",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Search for Robert Salford, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113795",
+      "date": "1942-06-10",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Expedition Kalahari"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113796",
+      "date": "1942-06-17",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man with 604 Grand Children, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113797",
+      "date": "1942-06-24",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Orgobi"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113798",
+      "date": "1942-07-01",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lion Fighters Never Grow Old"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113799",
+      "date": "1942-07-08",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Beads, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113800",
+      "date": "1942-07-15",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Kind of Justice, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113801",
+      "date": "1942-07-22",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Six Stars over the Zoutpansberg"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113802",
+      "date": "1942-07-29",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Programme Broadcast  -  Special Transmission "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113803",
+      "date": "1942-08-05",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Programme Broadcast  -  Special Transmission "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113804",
+      "date": "1942-08-12",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Tembile's Trail"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113805",
+      "date": "1942-08-19",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Programme Broadcast  -  Special Transmission "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113806",
+      "date": "1942-08-26",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Programme Broadcast  -  Special Transmission "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113807",
+      "date": "1942-09-02",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Visitors on a Late Sierra Afternoon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113808",
+      "date": "1942-09-09",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Theatre Sister, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113809",
+      "date": "1942-09-16",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Road to Gobabeb, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113810",
+      "date": "1942-09-23",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "More than Ivory"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113811",
+      "date": "1942-09-30",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Obsession"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113812",
+      "date": "1942-10-07",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mudimu and the Leopard"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113813",
+      "date": "1942-10-14",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Spike's Reef"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113814",
+      "date": "1942-10-21",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Jump, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113815",
+      "date": "1942-10-28",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Of Seals and Men"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113816",
+      "date": "1942-11-04",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curse of Nkala, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113817",
+      "date": "1942-11-11",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dead Man's Gold"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113818",
+      "date": "1942-11-18",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113819",
+      "date": "1942-11-25",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Flight of the Eagle"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113820",
+      "date": "1942-12-02",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dreamful of Leopard"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113821",
+      "date": "1942-12-09",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Kichese"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113822",
+      "date": "1942-12-16",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mantisa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113823",
+      "date": "1942-12-23",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "To Climb a Mountain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113824",
+      "date": "1942-12-30",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Girl at Ketegua, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113825",
+      "date": "1943-01-06",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rogue, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113826",
+      "date": "1943-01-13",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Special Republic Day Broadcast  -  No Episode B/C"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113827",
+      "date": "1943-01-20",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "1820 Settlers Series: They Came to South Africa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "314364",
+      "date": "1946-06-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Love Is Sweeping The Nation"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Don Ameche Show",
+          "name": "Don Ameche Show 460624 1st Song - Love Is Sweeping The Nation_OTRRPG.mp3",
+          "time": "1694",
+          "size": "27181569"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1934-02-07",
+      "dow": "W",
+      "time": "10:00 PM",
+      "end": "1934-05-03",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1936-09-09",
+      "dow": "",
+      "time": "",
+      "end": "1937-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Old Gold Show, The"
+    },
+    {
+      "title": "Don Ameche Show"
+    },
+    {
+      "title": "Drene Show Review"
+    },
+    {
+      "title": "Don Ameche Show, The"
+    },
+    {
+      "title": "Don Ameche Variety Show, The"
+    }
+  ]
+}

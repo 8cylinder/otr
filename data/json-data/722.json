@@ -1,0 +1,103 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/American Ace Coffee Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Many sources including Hickerson's book calls this program American Ace Coffee Time. Andrew Steinberg points out there is currently only one show that is circulating and, in this recording, that the announcer refers to the American Ace Coffee Show in the introduction."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "39479",
+      "first": "Roy",
+      "last": "Acuff",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6012",
+      "first": "Grant",
+      "last": "Turner",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312389",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Songbirds Are Singing In Heaven"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "American Ace Coffee Show",
+          "name": "American Ace Coffee Show 48xxxx 1st Song - Songbirds Are Singing In Heaven _OTRRPG.mp3",
+          "time": "1787",
+          "size": "28670536"
+        },
+        {
+          "path": "A",
+          "folder": "American Ace Coffee Show",
+          "name": "American Ace Coffee Show 48-xx-xx First Song - Songbirds Are Singing In Heaven.mp3",
+          "time": "1789",
+          "size": "14311548"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "American Ace Coffee Show"
+    }
+  ]
+}

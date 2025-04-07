@@ -1,0 +1,327 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "994",
+      "first": "Jack",
+      "last": "Carson",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "307854",
+      "date": "1938-06-28",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Benny Goodman - Camel Caravan - First Song - Beautiful Changes"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Comedy Caravan, The",
+          "name": "1938-06-28 (053) - Benny Goodman - Camel Caravan - First Song - Beautiful Changes.mp3",
+          "time": "1773",
+          "size": "28361368"
+        }
+      ]
+    },
+    {
+      "ide": "328639",
+      "date": "1944-03-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0038 Comedy Caravan"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Comedy Caravan",
+          "name": "AFRS Collection 1944.03.10 0038 Comedy Caravan.mp3",
+          "time": "1745",
+          "size": "7088128"
+        }
+      ]
+    },
+    {
+      "ide": "307856",
+      "date": "1944-03-24",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Garry's Own Academy Awards."
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Comedy Caravan, The",
+          "name": "Camel Comedy Caravan 440324 039 Garry's Own Academy Awards. Ode to an Oyster. On Air for 52 Weeks {AFRS}_OTRRPG.mp3",
+          "time": "1775",
+          "size": "28397203"
+        },
+        {
+          "path": "C",
+          "folder": "Camel Comedy Caravan, The",
+          "name": "Camel Comedy Caravan 440324 039 Garry's Own Academy Awards. .mp3",
+          "time": "1772",
+          "size": "21265076"
+        }
+      ]
+    },
+    {
+      "ide": "307857",
+      "date": "1944-03-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Shine On Harvest Moon"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Comedy Caravan, The",
+          "name": "Camel Comedy Caravan 440331 Garry Moore's Culture Corner {AFRS}_OTRRPG.mp3",
+          "time": "1769",
+          "size": "28380709"
+        },
+        {
+          "path": "C",
+          "folder": "Camel Comedy Caravan, The",
+          "name": "Camel Comedy Caravan 44-03-31 First Song - Shine On Harvest Moon.mp3",
+          "time": "1775",
+          "size": "14197664"
+        }
+      ]
+    },
+    {
+      "ide": "307858",
+      "date": "1944-04-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Garry Does A Take Off Of The Academy Awards"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "California Caravan",
+          "name": "Camel Comedy Caravan 440421 xx Garry Does A Take Off of The Academy Awards.mp3",
+          "time": "1774",
+          "size": "28465622"
+        },
+        {
+          "path": "C",
+          "folder": "Camel Comedy Caravan, The",
+          "name": "Camel Comedy Caravan 44-04-21 Garry Does A Take Off Of The Academy Awards.mp3",
+          "time": "1775",
+          "size": "14198048"
+        }
+      ]
+    },
+    {
+      "ide": "328654",
+      "date": "1944-09-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0062 Comedy Caravan - Georgia Gibbs"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Comedy Caravan",
+          "name": "AFRS Collection 1944.09.01 0062 Comedy Caravan - Georgia Gibbs.mp3",
+          "time": "1826",
+          "size": "7413760"
+        }
+      ]
+    },
+    {
+      "ide": "328691",
+      "date": "1945-02-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0086 Comedy Caravan"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Comedy Caravan",
+          "name": "AFRS Collection 1945.02.16 0086 Comedy Caravan.mp3",
+          "time": "1852",
+          "size": "7514112"
+        }
+      ]
+    },
+    {
+      "ide": "307855",
+      "date": "1945-04-27",
+      "epnum": "96",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of Balboa Flingeblister"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Camel Comedy Caravan, The",
+          "name": "Camel Comedy Caravan - 450427 - AFRS #096 - story of Balboa Flingeblister.mp3",
+          "time": "1839",
+          "size": "29422580"
+        }
+      ]
+    },
+    {
+      "ide": "328725",
+      "date": "1945-06-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs 0102 Comedy Caravan"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Comedy Caravan",
+          "name": "AFRS Collection 1945.06.08 0102 Comedy Caravan.mp3",
+          "time": "1819",
+          "size": "7383040"
+        }
+      ]
+    },
+    {
+      "ide": "328744",
+      "date": "1945-12-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afrs Comedy Caravan - Christmas Program 19"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Comedy Caravan",
+          "name": "AFRS Collection 1945.12.21 Comedy Caravan - Christmas Program 19.mp3",
+          "time": "1808",
+          "size": "7340032"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Camel Comedy Caravan with Jack Carson, The"
+    },
+    {
+      "title": "Camel Comedy Caravan, The"
+    },
+    {
+      "title": "Jimmy Durante Show, The"
+    },
+    {
+      "title": "Durante And Moore Show"
+    }
+  ]
+}

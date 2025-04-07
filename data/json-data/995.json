@@ -1,0 +1,1370 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/E Series/Eddie Cantor - Ask Eddie Cantor/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,761671,00.html",
+      "label": "1939-07-10: Vacationers",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,765108,00.html",
+      "label": "1940-12-23: Jell-O's Dollface",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,765593,00.html",
+      "label": "1941-05-19: All Hail to Jack Benny!",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,773935,00.html",
+      "label": "1942-11-23: McCarthy's Rival?",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,793533,00.html",
+      "label": "1947-03-31: Guests",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,793591,00.html",
+      "label": "1947-04-28: The Open-End Game",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,801387,00.html",
+      "label": "1942-03-16: Radio and Bataan",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,802056,00.html",
+      "label": "1940-10-07: Perennial Comic",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,849258,00.html",
+      "label": "1940-05-20: Percentage of Box Office",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,850119,00.html",
+      "label": "1942-10-19: DYNAMIC DINAH",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,855761,00.html",
+      "label": "1947-06-16: Her Nibs",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,931744-1,00.html",
+      "label": "1938-09-19: Money for Minutes",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.jewishvirtuallibrary.org/jsource/biography/Cantor.html",
+      "label": "Jewish Virtual Library : Eddie Cantor (1882-1964)",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.karloff.com/radio.html",
+      "label": "Radio Programs Featuring Boris Karloff",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.marx-brothers.org/listening/radio.htm",
+      "label": "The Marx Brothers - Radio shows and guest appearances",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19311932eve.html",
+      "label": "Evening Ratings: (1931-1932: #2)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19321933eve.html",
+      "label": "Evening Ratings: (1932-1933: #1)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19331934eve.html",
+      "label": "Evening Ratings: (1933-1934: #1)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19351936eve.html",
+      "label": "Evening Ratings: (1935-1936: #14)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19361937eve.html",
+      "label": "Evening Ratings: (1936-1937: #1)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19371938eve.html",
+      "label": "Evening Ratings: (1937-1938: #6)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19381939eve.html",
+      "label": "Evening Ratings: (1938-1939: #11)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19411942eve.html",
+      "label": "Evening Ratings: (1941-1942: #10)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19421943eve.html",
+      "label": "Evening Ratings: (1942-1943: #16)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19431944eve.html",
+      "label": "Evening Ratings: (1943-1944: #18)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19441945eve.html",
+      "label": "Evening Ratings: (1944-1945: #10)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19451946eve.html",
+      "label": "Evening Ratings: (1945-1946: #12)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19461947eve.html",
+      "label": "Evening Ratings: (1946-1947: #18)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.otr.com/comedy.shtml",
+      "label": "Comedy Central by James F. Widner",
+      "idtype": "1"
+    },
+    {
+      "type": "article",
+      "url": "www.otrr.org/FILES/Articles/Martin_Grams_Jr_Articles/DuffysTavern.htm",
+      "label": "Duffy's Tavern compiled and written by Martin Grams, Jr.",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loge1005.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321329",
+      "date": "1952-12-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Special"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 1952.12.24 Christmas Special.mp3",
+          "time": "1517",
+          "size": "6174720"
+        }
+      ]
+    },
+    {
+      "ide": "275436",
+      "date": "1961-06-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Did Eddie Ever Perform With Al Jolson?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-06-05 Ever Appear On Stage With Al Jolson.mp3",
+          "time": "235",
+          "size": "1883532"
+        }
+      ]
+    },
+    {
+      "ide": "318048",
+      "date": "1961-06-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Beatrice Lillie Really Lady Peale"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-06-06 Is Beatrice Lillie Really Lady Peale.mp3",
+          "time": "238",
+          "size": "1907355"
+        }
+      ]
+    },
+    {
+      "ide": "318049",
+      "date": "1961-06-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Do Performers Earn So Much"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-06-07 Why Do Performers Earn So Much.mp3",
+          "time": "226",
+          "size": "1804746"
+        }
+      ]
+    },
+    {
+      "ide": "318050",
+      "date": "1961-06-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Cant Motorists Be More Careful"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-06-08 Why Cant Motorists Be More Careful.mp3",
+          "time": "219",
+          "size": "1755845"
+        }
+      ]
+    },
+    {
+      "ide": "318051",
+      "date": "1961-06-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Compliment My Daughter-in-law"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-06-09 Why Compliment My Daughter-in-law.mp3",
+          "time": "225",
+          "size": "1797432"
+        }
+      ]
+    },
+    {
+      "ide": "275437",
+      "date": "1961-06-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where Are All The Funny Women in Showbiz?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-06-12 Where's All the Funny Women in Show Business.mp3",
+          "time": "231",
+          "size": "1846542"
+        }
+      ]
+    },
+    {
+      "ide": "318052",
+      "date": "1961-06-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What's All the Hype with Missile Talk"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-06-13 What's All the Hype with Missile Talk.mp3",
+          "time": "230",
+          "size": "1837556"
+        }
+      ]
+    },
+    {
+      "ide": "318053",
+      "date": "1961-06-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Don Drysdale the Best-looking Dodger"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-06-14 Is Don Drysdale the Best-looking Dodger.mp3",
+          "time": "232",
+          "size": "1855319"
+        }
+      ]
+    },
+    {
+      "ide": "318054",
+      "date": "1961-06-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Are You Healthy - You Don't Look Well"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-06-15 Are You Healthy - You Don't Look Well.mp3",
+          "time": "225",
+          "size": "1800358"
+        }
+      ]
+    },
+    {
+      "ide": "318055",
+      "date": "1961-06-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Well Did You Know John Barrymore"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-06-16 How Well Did You Know John Barrymore.mp3",
+          "time": "246",
+          "size": "1968377"
+        }
+      ]
+    },
+    {
+      "ide": "275438",
+      "date": "1961-07-03",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can Cantor be a Flop When He Does His Own Applauding?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-03 How Can Cantor Be A Flop Doing His Own Applauding.mp3",
+          "time": "235",
+          "size": "1877680"
+        }
+      ]
+    },
+    {
+      "ide": "318056",
+      "date": "1961-07-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Kind Of A Pupil Was Mickey Rooney"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-04 What Kind Of A Pupil Was Mickey Rooney.mp3",
+          "time": "227",
+          "size": "1818121"
+        }
+      ]
+    },
+    {
+      "ide": "318057",
+      "date": "1961-07-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Kind Of A Man Was Enrico Caruso"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-05 What Kind Of A Man Was Enrico Caruso.mp3",
+          "time": "229",
+          "size": "1831496"
+        }
+      ]
+    },
+    {
+      "ide": "318058",
+      "date": "1961-07-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Compare Performers Of Past To Present"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-06 Compare Performers Of Past To Present.mp3",
+          "time": "223",
+          "size": "1786983"
+        }
+      ]
+    },
+    {
+      "ide": "275439",
+      "date": "1961-07-10",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What About Etiquette?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-10 Please Give Me Your Tips On Etiquette.mp3",
+          "time": "224",
+          "size": "1791372"
+        }
+      ]
+    },
+    {
+      "ide": "318059",
+      "date": "1961-07-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Does One Break Into Show Business"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-11 How Does One Break Into Show Business.mp3",
+          "time": "231",
+          "size": "1850931"
+        }
+      ]
+    },
+    {
+      "ide": "318060",
+      "date": "1961-07-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Fred Astaire Americas Greatest Dancer"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-12 Is Fred Astaire Americas Greatest Dancer.mp3",
+          "time": "229",
+          "size": "1831496"
+        }
+      ]
+    },
+    {
+      "ide": "318061",
+      "date": "1961-07-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can I Make My Wife Stop Buying Bargains"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-13 How Can I Make My Wife Stop Buying Bargains.mp3",
+          "time": "241",
+          "size": "1926790"
+        }
+      ]
+    },
+    {
+      "ide": "318062",
+      "date": "1961-07-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Compare Mort Sahl To Will Rogers"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-14 Compare Mort Sahl To Will Rogers.mp3",
+          "time": "228",
+          "size": "1827107"
+        }
+      ]
+    },
+    {
+      "ide": "275440",
+      "date": "1961-07-17",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Was Zigfeld Extravagant?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-17 Give Us More Showbusiness Stories.mp3",
+          "time": "237",
+          "size": "1896906"
+        }
+      ]
+    },
+    {
+      "ide": "318063",
+      "date": "1961-07-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Has Ed Sullivan's Show Lasted So Long"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-18 Why Has Ed Sullivan's Show Lasted So Long.mp3",
+          "time": "223",
+          "size": "1786983"
+        }
+      ]
+    },
+    {
+      "ide": "318064",
+      "date": "1961-07-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Do Songwriters Have Bad Voices"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-21 Why Do Songwriters Have Bad Voices.mp3",
+          "time": "235",
+          "size": "1876217"
+        }
+      ]
+    },
+    {
+      "ide": "24640",
+      "date": "1961-07-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Do You Think About Benefits?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-24 What Do You Think About Benefits.mp3",
+          "time": "235",
+          "size": "1883532"
+        }
+      ]
+    },
+    {
+      "ide": "318065",
+      "date": "1961-07-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Benefit Groups Have You Appeared For"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-25 What Benefit Groups Have You Appeared For.mp3",
+          "time": "229",
+          "size": "1830033"
+        }
+      ]
+    },
+    {
+      "ide": "318066",
+      "date": "1961-07-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do You Believe In Luck"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-26 Do You Believe In Luck.mp3",
+          "time": "224",
+          "size": "1794506"
+        }
+      ]
+    },
+    {
+      "ide": "318067",
+      "date": "1961-07-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Many Grandchildren Do You Have"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-27 How Many Grandchildren Do You Have.mp3",
+          "time": "240",
+          "size": "1920730"
+        }
+      ]
+    },
+    {
+      "ide": "275441",
+      "date": "1961-07-31",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Are You a Pal of George Cohen and Harris?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-07-31 Are You A Close Friend Of George Cohen.mp3",
+          "time": "239",
+          "size": "1913416"
+        }
+      ]
+    },
+    {
+      "ide": "318068",
+      "date": "1961-08-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "At What Age Should A Boy Be Taught To Be A Gentlemen"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-08-01 At What Age Should A Boy Be Taught To Be A Gentlemen.mp3",
+          "time": "210",
+          "size": "1678523"
+        }
+      ]
+    },
+    {
+      "ide": "318069",
+      "date": "1961-08-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Lucy And Desi's Divorce Irreconcilable"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-08-02 Is Lucy And Desi's Divorce Irreconcilable.mp3",
+          "time": "226",
+          "size": "1809344"
+        }
+      ]
+    },
+    {
+      "ide": "318070",
+      "date": "1961-08-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Was the Jolson-Cantor Duet Recording Released"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-08-03 Was the Jolson-Cantor Duet Recording Released.mp3",
+          "time": "270",
+          "size": "2158549"
+        }
+      ]
+    },
+    {
+      "ide": "318071",
+      "date": "1961-08-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "May I Send You My Book For Review"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-08-04 May I Send You My Book For Review.mp3",
+          "time": "260",
+          "size": "2078301"
+        }
+      ]
+    },
+    {
+      "ide": "275442",
+      "date": "1961-08-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What's the Funniest Sign You've Ever Seen?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-08-07 What's Up With Pointed Shoes.mp3",
+          "time": "243",
+          "size": "1943091"
+        }
+      ]
+    },
+    {
+      "ide": "318072",
+      "date": "1961-08-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Tallulah Bankhead Really Sarcastic"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-08-08 Is Tallulah Bankhead Really Sarcastic.mp3",
+          "time": "249",
+          "size": "1993664"
+        }
+      ]
+    },
+    {
+      "ide": "318073",
+      "date": "1961-08-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where Can I Vacation Close To Home"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-08-09 Where Can I Vacation Close To Home.mp3",
+          "time": "242",
+          "size": "1932642"
+        }
+      ]
+    },
+    {
+      "ide": "318074",
+      "date": "1961-08-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fannie Brice's Remarks On Ester Williams"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-08-10 Fannie Brice's Remarks On Ester Williams.mp3",
+          "time": "250",
+          "size": "1996590"
+        }
+      ]
+    },
+    {
+      "ide": "318075",
+      "date": "1961-08-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Was Song Susie From A Broadway Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-08-11 Was Song Susie From A Broadway Show.mp3",
+          "time": "240",
+          "size": "1923656"
+        }
+      ]
+    },
+    {
+      "ide": "275443",
+      "date": "1961-09-25",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is a Six Month Suspended License Too Severe?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-09-25 Should Leo Durocher Be A Mere Coach.mp3",
+          "time": "223",
+          "size": "1784057"
+        }
+      ]
+    },
+    {
+      "ide": "318076",
+      "date": "1961-09-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should My Husband Be A Critic At Home & Work"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-09-26 Should My Husband Be A Critic At Home & Work.mp3",
+          "time": "240",
+          "size": "1917804"
+        }
+      ]
+    },
+    {
+      "ide": "318077",
+      "date": "1961-09-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doris Day Voted Most Popular Actress"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-09-27 Doris Day Voted Most Popular Actress.mp3",
+          "time": "222",
+          "size": "1776534"
+        }
+      ]
+    },
+    {
+      "ide": "318078",
+      "date": "1961-09-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Entertaining At Hollywood Canteens During WW II"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-09-28 Entertaining At Hollywood Canteens During WW II.mp3",
+          "time": "224",
+          "size": "1795969"
+        }
+      ]
+    },
+    {
+      "ide": "275444",
+      "date": "1961-10-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Comedians Just Stick to Being Funny?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-02 What Would You Do With Dull Speakers.mp3",
+          "time": "241",
+          "size": "1925119"
+        }
+      ]
+    },
+    {
+      "ide": "318079",
+      "date": "1961-10-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Isn't Ed Wynn On More Programs"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-03 Why Isn't Ed Wynn On More Programs.mp3",
+          "time": "218",
+          "size": "1746859"
+        }
+      ]
+    },
+    {
+      "ide": "318080",
+      "date": "1961-10-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Brother-in-law Loses On Ponies"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-04 My Brother-in-law Loses On Ponies.mp3",
+          "time": "221",
+          "size": "1764622"
+        }
+      ]
+    },
+    {
+      "ide": "318081",
+      "date": "1961-10-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Harpo Marx Really Deaf & Dumb"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-05 Is Harpo Marx Really Deaf & Dumb.mp3",
+          "time": "228",
+          "size": "1824181"
+        }
+      ]
+    },
+    {
+      "ide": "318082",
+      "date": "1961-10-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Has Happened To Cole Porter"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-06 What Has Happened To Cole Porter.mp3",
+          "time": "219",
+          "size": "1755845"
+        }
+      ]
+    },
+    {
+      "ide": "275445",
+      "date": "1961-10-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What do You Think of Puns?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-09 Is George Jessel Always On the Move.mp3",
+          "time": "224",
+          "size": "1794506"
+        }
+      ]
+    },
+    {
+      "ide": "318083",
+      "date": "1961-10-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Was Most Impressive About Will Rogers"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-10 What Was Most Impressive About Will Rogers.mp3",
+          "time": "223",
+          "size": "1781132"
+        }
+      ]
+    },
+    {
+      "ide": "318084",
+      "date": "1961-10-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Are Hollywood Awards Phony"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-11 Are Hollywood Awards Phony.mp3",
+          "time": "237",
+          "size": "1892518"
+        }
+      ]
+    },
+    {
+      "ide": "318085",
+      "date": "1961-10-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do You Believe In Prayer"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-12 Do You Believe In Prayer.mp3",
+          "time": "222",
+          "size": "1772145"
+        }
+      ]
+    },
+    {
+      "ide": "275446",
+      "date": "1961-10-16",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is it Wrong to Buy Christmas Presents Ahead?"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-16 What's the Basis Of Comedy.mp3",
+          "time": "219",
+          "size": "1755845"
+        }
+      ]
+    },
+    {
+      "ide": "318086",
+      "date": "1961-10-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Do I Stop Hubby's Inventions"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-17 How Do I Stop Hubby's Inventions.mp3",
+          "time": "226",
+          "size": "1806418"
+        }
+      ]
+    },
+    {
+      "ide": "318087",
+      "date": "1961-10-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Much Does Sophie Tucker Weigh"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eddie Cantor - Ask Eddie Cantor",
+          "name": "Ask Eddie Cantor 61-10-18 How Much Does Sophie Tucker Weigh.mp3",
+          "time": "235",
+          "size": "1879143"
+        }
+      ]
+    },
+    {
+      "ide": "275447",
+      "date": "1961-10-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275448",
+      "date": "1961-10-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275449",
+      "date": "1961-11-06",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275450",
+      "date": "1961-11-13",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275451",
+      "date": "1962-09-24",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275452",
+      "date": "1962-10-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275453",
+      "date": "1962-10-31",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275454",
+      "date": "1962-11-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275455",
+      "date": "1962-12-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275456",
+      "date": "1962-12-18",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275457",
+      "date": "1963-01-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "275458",
+      "date": "1963-01-14",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Ask Eddie Cantor"
+    }
+  ]
+}

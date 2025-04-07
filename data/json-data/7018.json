@@ -1,0 +1,197 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "ORZE"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/ooz.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logo1010.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "115215",
+      "date": "1961-04-21",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unseeing Eye, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Orbit One Zero",
+          "name": "Orbit One Zero 1961.04.21 The Unseeing Eye.mp3",
+          "time": "1760",
+          "size": "7146076"
+        }
+      ]
+    },
+    {
+      "ide": "115216",
+      "date": "1961-04-28",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cylinder, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Orbit One Zero",
+          "name": "Orbit One Zero 1961.04.28 The Cylinder.mp3",
+          "time": "1772",
+          "size": "7197059"
+        }
+      ]
+    },
+    {
+      "ide": "115217",
+      "date": "1961-05-05",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Power, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Orbit One Zero",
+          "name": "Orbit One Zero 1961.05.05 The Power.mp3",
+          "time": "1694",
+          "size": "6883479"
+        }
+      ]
+    },
+    {
+      "ide": "115218",
+      "date": "1961-05-12",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Voices, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Orbit One Zero",
+          "name": "Orbit One Zero 1961.05.12 The Voices.mp3",
+          "time": "1760",
+          "size": "7149408"
+        }
+      ]
+    },
+    {
+      "ide": "115219",
+      "date": "1961-05-19",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frozen World, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Orbit One Zero",
+          "name": "Orbit One Zero 1961.05.19 The Frozen World.mp3",
+          "time": "1725",
+          "size": "7009612"
+        }
+      ]
+    },
+    {
+      "ide": "115220",
+      "date": "1961-05-26",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unseen, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Orbit One Zero",
+          "name": "Orbit One Zero 1961.05.26 The Unseen.mp3",
+          "time": "1782",
+          "size": "7236970"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1961-04-21",
+      "dow": "",
+      "time": "",
+      "end": "1961-05-26",
+      "length": "60",
+      "country": "United Kingdom",
+      "network": "BBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Orbit One Zero"
+    }
+  ]
+}

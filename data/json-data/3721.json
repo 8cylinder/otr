@@ -1,0 +1,206 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/For Your Approval/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3725",
+      "first": "Jock",
+      "last": "MacGregor",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "63737",
+      "date": "1946-11-30",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Episode"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "63738",
+      "date": "1946-12-07",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Title Unknown"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "63739",
+      "date": "1946-12-14",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Title Unknown"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "63740",
+      "date": "1946-12-21",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Did Justice Triumph"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "63741",
+      "date": "1946-12-28",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Obsession"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "63742",
+      "date": "1947-01-04",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Billy Gilbert Show, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "63743",
+      "date": "1947-01-11",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Title Unknown"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "63744",
+      "date": "1947-01-18",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This Is Jazz"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "For Your Approval",
+          "name": "For Your Approval 47-01-18 This Is Jazz.mp3",
+          "time": "1732",
+          "size": "17318036"
+        }
+      ]
+    },
+    {
+      "ide": "63745",
+      "date": "1947-06-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Last Episode"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "63746",
+      "date": "1947-12-28",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Obsession"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-11-30",
+      "dow": "Sa",
+      "time": "5:00 PM",
+      "end": "1947-06-28",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "For Your Approval"
+    }
+  ]
+}

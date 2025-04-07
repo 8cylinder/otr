@@ -1,0 +1,106 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "43310",
+      "first": "Reginald",
+      "last": "Steward",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-07-06",
+      "dow": "Th",
+      "time": "9:00 PM",
+      "end": "1939-09-28",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1938-05-12",
+      "dow": "Th",
+      "time": "9:00 PM",
+      "end": "1938-06-30",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1938-07-07",
+      "dow": "Th",
+      "time": "9:00 PM",
+      "end": "1938-10-06",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1941-06-05",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1941-10-02",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Promenade Symphony Of Toronto"
+    }
+  ]
+}

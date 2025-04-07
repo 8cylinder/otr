@@ -1,0 +1,863 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "HOWE"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/H Series/Horizon's West/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Horizons-West.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Horizons-West.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/hw_sw.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    }
+  ],
+  "infos": [
+    {
+      "info": "The cast was taken from Stewart Wright's log."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "388",
+      "first": "Harry",
+      "last": "Bartell",
+      "f": "Noted Role",
+      "character": "Capt. Meriwether Lewis"
+    },
+    {
+      "idperson": "388",
+      "first": "Harry",
+      "last": "Bartell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "896",
+      "first": "Sebastian",
+      "last": "Cabot",
+      "f": "Noted Role",
+      "character": "Toussaint Charbonneau"
+    },
+    {
+      "idperson": "896",
+      "first": "Sebastian",
+      "last": "Cabot",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1227",
+      "first": "Ben",
+      "last": "Cooper",
+      "f": "Noted Role",
+      "character": "Pvt. Alexander Hamilton Willard"
+    },
+    {
+      "idperson": "1227",
+      "first": "Ben",
+      "last": "Cooper",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1353",
+      "first": "Howard",
+      "last": "Culver",
+      "f": "Noted Role",
+      "character": "Kakawissassa, White Bear"
+    },
+    {
+      "idperson": "1353",
+      "first": "Howard",
+      "last": "Culver",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1543",
+      "first": "Don",
+      "last": "Diamond",
+      "f": "Noted Role",
+      "character": "Pvt. Pierre Cruzatte"
+    },
+    {
+      "idperson": "1543",
+      "first": "Don",
+      "last": "Diamond",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1752",
+      "first": "Sam",
+      "last": "Edwards",
+      "f": "Noted Role",
+      "character": "Private Reed"
+    },
+    {
+      "idperson": "1752",
+      "first": "Sam",
+      "last": "Edwards",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1783",
+      "first": "Herb",
+      "last": "Ellis",
+      "f": "Noted Role",
+      "character": "Pvt. Silas Goodrich"
+    },
+    {
+      "idperson": "1783",
+      "first": "Herb",
+      "last": "Ellis",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1938",
+      "first": "Eddie",
+      "last": "Firestone, Jr.",
+      "f": "Noted Role",
+      "character": "Sgt. John Ordway"
+    },
+    {
+      "idperson": "1938",
+      "first": "Eddie",
+      "last": "Firestone, Jr.",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2190",
+      "first": "Frank",
+      "last": "Gerstle",
+      "f": "Noted Role",
+      "character": "Sgt. Nathaniel Pryor"
+    },
+    {
+      "idperson": "2190",
+      "first": "Frank",
+      "last": "Gerstle",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3323",
+      "first": "Jack",
+      "last": "Kruschen",
+      "f": "Noted Role",
+      "character": "Pierre Dorion"
+    },
+    {
+      "idperson": "3323",
+      "first": "Jack",
+      "last": "Kruschen",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3353",
+      "first": "William",
+      "last": "Lally",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "4068",
+      "first": "Tyler",
+      "last": "McVey",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4435",
+      "first": "Jay",
+      "last": "Novello",
+      "f": "Noted Role",
+      "character": "Side Hill Calf"
+    },
+    {
+      "idperson": "4435",
+      "first": "Jay",
+      "last": "Novello",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4826",
+      "first": "William 'Bill'",
+      "last": "Quinn",
+      "f": "Noted Role",
+      "character": "Sgt. Patrick Gass"
+    },
+    {
+      "idperson": "4826",
+      "first": "William 'Bill'",
+      "last": "Quinn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5774",
+      "first": "Karl",
+      "last": "Swenson",
+      "f": "Noted Role",
+      "character": "George Drouillard"
+    },
+    {
+      "idperson": "5774",
+      "first": "Karl",
+      "last": "Swenson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5972",
+      "first": "Les",
+      "last": "Tremayne",
+      "f": "Noted Role",
+      "character": "Capt. Bissell"
+    },
+    {
+      "idperson": "5972",
+      "first": "Les",
+      "last": "Tremayne",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6481",
+      "first": "Ben",
+      "last": "Wright",
+      "f": "Noted Role",
+      "character": "Dr. Socgran"
+    },
+    {
+      "idperson": "6481",
+      "first": "Ben",
+      "last": "Wright",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7022",
+      "first": "Helen",
+      "last": "Gerald",
+      "f": "Noted Role",
+      "character": "Sacagawea"
+    },
+    {
+      "idperson": "7022",
+      "first": "Helen",
+      "last": "Gerald",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7023",
+      "first": "Dan",
+      "last": "Barton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7024",
+      "first": "Steven",
+      "last": "Bell",
+      "f": "Noted Role",
+      "character": "Pvt. Richard Windsor"
+    },
+    {
+      "idperson": "7024",
+      "first": "Steven",
+      "last": "Bell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7025",
+      "first": "Jim",
+      "last": "Bowles",
+      "f": "Noted Role",
+      "character": "Pvt. John Shields, Sgt. Patrick Gass"
+    },
+    {
+      "idperson": "7025",
+      "first": "Jim",
+      "last": "Bowles",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7026",
+      "first": "John",
+      "last": "Cedar",
+      "f": "Noted Role",
+      "character": "John Newman"
+    },
+    {
+      "idperson": "7026",
+      "first": "John",
+      "last": "Cedar",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7027",
+      "first": "Gary",
+      "last": "Collins",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7028",
+      "first": "Paul",
+      "last": "Conrad",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7029",
+      "first": "Jack",
+      "last": "Edwards",
+      "f": "Noted Role",
+      "character": "Sgt. Charles Floyd"
+    },
+    {
+      "idperson": "7029",
+      "first": "Jack",
+      "last": "Edwards",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7030",
+      "first": "Clark",
+      "last": "Gordon",
+      "f": "Noted Role",
+      "character": "Pvt. William Bratton"
+    },
+    {
+      "idperson": "7030",
+      "first": "Clark",
+      "last": "Gordon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7031",
+      "first": "Cliff",
+      "last": "Holland",
+      "f": "Noted Role",
+      "character": "York"
+    },
+    {
+      "idperson": "7031",
+      "first": "Cliff",
+      "last": "Holland",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7032",
+      "first": "Bill",
+      "last": "Irwin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7033",
+      "first": "Dal",
+      "last": "McKennon",
+      "f": "Noted Role",
+      "character": "Scannon, Sgt. Nathaniel Pryor, and others"
+    },
+    {
+      "idperson": "7033",
+      "first": "Dal",
+      "last": "McKennon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7034",
+      "first": "Don",
+      "last": "Messig",
+      "f": "Noted Role",
+      "character": "James Aird"
+    },
+    {
+      "idperson": "7034",
+      "first": "Don",
+      "last": "Messig",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7035",
+      "first": "Richard",
+      "last": "Peel",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7036",
+      "first": "Dan",
+      "last": "Randolph",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7037",
+      "first": "Don",
+      "last": "Spruance",
+      "f": "Noted Role",
+      "character": "Pvt. George Shannon"
+    },
+    {
+      "idperson": "7037",
+      "first": "Don",
+      "last": "Spruance",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7038",
+      "first": "John",
+      "last": "Stephenson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7039",
+      "first": "William",
+      "last": "Tunberg",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7312",
+      "first": "Bill",
+      "last": "Keene",
+      "f": "Noted Role",
+      "character": "Francois Larocque"
+    },
+    {
+      "idperson": "7312",
+      "first": "Bill",
+      "last": "Keene",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7377",
+      "first": "Michael",
+      "last": "Rye",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "39650",
+      "first": "John",
+      "last": "Anderson",
+      "f": "Noted Role",
+      "character": "Capt. William Clark"
+    },
+    {
+      "idperson": "39650",
+      "first": "John",
+      "last": "Anderson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45878",
+      "first": "Stan",
+      "last": "Farrar",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46194",
+      "first": "Karl A.",
+      "last": "Tunberg",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7040",
+      "first": "Gene",
+      "last": "Twombly",
+      "f": "Noted Role",
+      "character": "sound man"
+    },
+    {
+      "idperson": "7040",
+      "first": "Gene",
+      "last": "Twombly",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "78288",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Jeffersons Dream (Log originally by Stewart Wright)"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (01) Mr Jeffersons Dream.mp3",
+          "time": "1838",
+          "size": "7354378"
+        }
+      ]
+    },
+    {
+      "ide": "152681",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Decision at Travelers Rest"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (10) Decision at Travelers Rest.mp3",
+          "time": "1828",
+          "size": "7313418"
+        }
+      ]
+    },
+    {
+      "ide": "152680",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clark & the Horse Thieves"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (11) Clark & the Horse Thieves.mp3",
+          "time": "1831",
+          "size": "7323658"
+        }
+      ]
+    },
+    {
+      "ide": "152679",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lewis & the Blackfeet"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (12) Lewis & the Blackfeet.mp3",
+          "time": "1834",
+          "size": "7335946"
+        }
+      ]
+    },
+    {
+      "ide": "152678",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Down the Missouri to St Louis"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (13) Down the Missouri to St Louis.mp3",
+          "time": "1840",
+          "size": "7360522"
+        }
+      ]
+    },
+    {
+      "ide": "78287",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Confrontation, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (02) The Confrontation.mp3",
+          "time": "1842",
+          "size": "7370762"
+        }
+      ]
+    },
+    {
+      "ide": "78286",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dakota Winter"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (03) Dakota Winter.mp3",
+          "time": "1844",
+          "size": "7376906"
+        }
+      ]
+    },
+    {
+      "ide": "77956",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Into the Unknown"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (04) Into the Unknown.mp3",
+          "time": "1843",
+          "size": "7374858"
+        }
+      ]
+    },
+    {
+      "ide": "77955",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Falls, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (05) The Great Falls.mp3",
+          "time": "1851",
+          "size": "7405578"
+        }
+      ]
+    },
+    {
+      "ide": "77954",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shoshone Country"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (06) Shoshone Country.mp3",
+          "time": "1842",
+          "size": "7370762"
+        }
+      ]
+    },
+    {
+      "ide": "152684",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "To the Pacific"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (07) To the Pacific.mp3",
+          "time": "1826",
+          "size": "7305226"
+        }
+      ]
+    },
+    {
+      "ide": "152683",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fort on the Columbia"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (08) Fort on the Columbia.mp3",
+          "time": "1827",
+          "size": "7311370"
+        }
+      ]
+    },
+    {
+      "ide": "152682",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Homeward Bound"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Horizon's West",
+          "name": "Horizons West xx-xx-xx (09) Homeward Bound.mp3",
+          "time": "1834",
+          "size": "7335946"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Episodic Drama"
+    },
+    {
+      "genre": "Western"
+    },
+    {
+      "genre": "Nonfiction"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Horizons West"
+    },
+    {
+      "title": "American West"
+    }
+  ]
+}

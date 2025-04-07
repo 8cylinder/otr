@@ -1,0 +1,377 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "DIZZ"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/D Series/Dizzy Dean/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/D Series/Don Gray, Marine Investigator/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2961-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1099",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1970-01-01",
+      "source": "Misc/Don_Maris_Flyer_(01)_70.pdf",
+      "idpytype2": "4",
+      "title": "Don Maris Flyer (01) 1970",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "52164",
+      "date": "1948-07-03",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lefty Gomez"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean Show 480703 01 Lefty Gomez_OTRRPG.mp3",
+          "time": "887",
+          "size": "14279348"
+        },
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-07-03 (01) Lefty Gomez.mp3",
+          "time": "890",
+          "size": "7118373"
+        }
+      ]
+    },
+    {
+      "ide": "52165",
+      "date": "1948-07-10",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jose Gomez"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean Show 480710 02 Jose Gomez_OTRRPG.mp3",
+          "time": "875",
+          "size": "14084996"
+        },
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-07-10 (02) Jose Gomez.mp3",
+          "time": "878",
+          "size": "7020988"
+        }
+      ]
+    },
+    {
+      "ide": "52166",
+      "date": "1948-07-17",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Results of the All-Star Game"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-07-17 (03) Results of the All-Star Game.mp3",
+          "time": "881",
+          "size": "4407444"
+        }
+      ]
+    },
+    {
+      "ide": "52167",
+      "date": "1948-07-24",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bucky Walters"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-07-24 (04) Bucky Walters.mp3",
+          "time": "880",
+          "size": "4401300"
+        }
+      ]
+    },
+    {
+      "ide": "52168",
+      "date": "1948-07-31",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Charlie Grimm"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-07-31 (05) Charlie Grim.mp3",
+          "time": "890",
+          "size": "4452500"
+        }
+      ]
+    },
+    {
+      "ide": "52169",
+      "date": "1948-08-07",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Frankie Frisch"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-08-07 (06) Frankie Frisch.mp3",
+          "time": "893",
+          "size": "4466836"
+        }
+      ]
+    },
+    {
+      "ide": "52170",
+      "date": "1948-08-14",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Country Baseball Diamond"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-08-14 (07) Country Baseball Diamond.mp3",
+          "time": "901",
+          "size": "4505748"
+        }
+      ]
+    },
+    {
+      "ide": "52171",
+      "date": "1948-08-21",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dizzy's Fast Ball"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean Show 480821 08 Dizzy's Fast Ball_OTRRPG.mp3",
+          "time": "880",
+          "size": "14161071"
+        },
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-08-21 (08) Dizzy's Fast Ball.mp3",
+          "time": "882",
+          "size": "7059238"
+        }
+      ]
+    },
+    {
+      "ide": "52172",
+      "date": "1948-08-28",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Football Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean Show 480828 09 Football Story_OTRRPG.mp3",
+          "time": "861",
+          "size": "13856794"
+        },
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-08-28 (09) Football Story.mp3",
+          "time": "863",
+          "size": "6906889"
+        }
+      ]
+    },
+    {
+      "ide": "52173",
+      "date": "1948-09-04",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "High Batting Average"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-09-04 (10) High Batting Average.mp3",
+          "time": "931",
+          "size": "4655252"
+        }
+      ]
+    },
+    {
+      "ide": "52174",
+      "date": "1948-09-11",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ewell Blackwell"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-09-11 (11) Ewell Blackwell.mp3",
+          "time": "925",
+          "size": "4626580"
+        }
+      ]
+    },
+    {
+      "ide": "52175",
+      "date": "1948-09-18",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dizzy's All-Star Lineup"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Dizzy Dean",
+          "name": "Dizzy Dean 48-09-18 (12) Dizzy's All-Star Lineup.mp3",
+          "time": "926",
+          "size": "4630676"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sports"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Dizzy Dean Baseball Club"
+    }
+  ]
+}

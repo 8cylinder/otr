@@ -1,0 +1,625 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "MNSE"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Men At Sea/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Men-At-Sea.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Men-At-Sea.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6212-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Program was broadcast during the summer months of 1943-45."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "3167",
+      "first": "Merle",
+      "last": "Kendrick",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Seagoing Stories"
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "104343",
+      "date": "1943-07-04",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Episode"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104344",
+      "date": "1943-07-11",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story Of A Convoy"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 430711 02 Story of A Convoy_OTRRPG.mp3",
+          "time": "1725",
+          "size": "27678188"
+        },
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 43-07-11 (2) Story Of A Convoy.mp3",
+          "time": "1732",
+          "size": "13854663"
+        }
+      ]
+    },
+    {
+      "ide": "104345",
+      "date": "1943-07-18",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Land Locked Shipyards"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 430718 03 Land Locked Shipyards_OTRRPG.mp3",
+          "time": "1776",
+          "size": "28490283"
+        },
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 43-07-18 (3) Landlocked Shipyards.mp3",
+          "time": "1771",
+          "size": "14169163"
+        }
+      ]
+    },
+    {
+      "ide": "104346",
+      "date": "1943-07-25",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104347",
+      "date": "1943-08-01",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Pacific Lifeline"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 43-08-01 (5) The Pacific Lifeline.mp3",
+          "time": "1739",
+          "size": "27824465"
+        }
+      ]
+    },
+    {
+      "ide": "104348",
+      "date": "1943-08-08",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104349",
+      "date": "1943-08-15",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Surviving Attacks At Sea"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 43-08-15 (7) Surviving Attacks At Sea.mp3",
+          "time": "1802",
+          "size": "28836344"
+        }
+      ]
+    },
+    {
+      "ide": "104350",
+      "date": "1943-08-22",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cargo"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 43-08-22 (8) Cargo.mp3",
+          "time": "1771",
+          "size": "28340227"
+        }
+      ]
+    },
+    {
+      "ide": "104351",
+      "date": "1944-07-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104352",
+      "date": "1944-07-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Liberty's Invade"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 44-07-16 The Libertys Invade.mp3",
+          "time": "1774",
+          "size": "28388292"
+        }
+      ]
+    },
+    {
+      "ide": "104353",
+      "date": "1944-07-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "D-Day"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104354",
+      "date": "1944-07-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Skipper Returns To Sea, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 44-07-23 (x) The Skipper Returns To Sea.mp3",
+          "time": "1757",
+          "size": "14057617"
+        }
+      ]
+    },
+    {
+      "ide": "104355",
+      "date": "1944-07-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nick Pappas"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104356",
+      "date": "1944-08-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nor Death Dismay"
+        },
+        {
+          "title": "Able-Bodied Cook"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 44-08-06 (x) Nor Death Dismay.mp3",
+          "time": "1752",
+          "size": "14015559"
+        }
+      ]
+    },
+    {
+      "ide": "104357",
+      "date": "1944-08-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pacific Lifeline, The"
+        },
+        {
+          "title": "Nor Death Dismay"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 1944.08.13 Able-Bodied Cooks.mp3",
+          "time": "1684",
+          "size": "6844507"
+        }
+      ]
+    },
+    {
+      "ide": "104358",
+      "date": "1944-08-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Report of the Captain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104359",
+      "date": "1944-08-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hiring Hall"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104360",
+      "date": "1944-09-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Message Received"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104361",
+      "date": "1944-09-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104362",
+      "date": "1944-09-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104363",
+      "date": "1944-09-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104364",
+      "date": "1944-09-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104365",
+      "date": "1945-07-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104366",
+      "date": "1945-07-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Long Haul, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 45-07-08 (x) The Long Haul.mp3",
+          "time": "1734",
+          "size": "13875396"
+        }
+      ]
+    },
+    {
+      "ide": "104367",
+      "date": "1945-07-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mike Bailey"
+        },
+        {
+          "title": "Nice Girl, That Ella"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104368",
+      "date": "1945-07-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bringing Home The Bacon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104369",
+      "date": "1945-07-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mariner Come Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104370",
+      "date": "1945-08-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beans, Bullets, & Oil"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 45-08-05 (x) Beans, Bullets, and Oil.mp3",
+          "time": "1745",
+          "size": "13963532"
+        }
+      ]
+    },
+    {
+      "ide": "104371",
+      "date": "1945-08-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Stubborn Butcher"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104372",
+      "date": "1945-08-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bid Was Four Hearts, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men At Sea",
+          "name": "Men At Sea 45-08-19 (x) The Bid Was Four Hearts.mp3",
+          "time": "1776",
+          "size": "14206996"
+        }
+      ]
+    },
+    {
+      "ide": "104373",
+      "date": "1945-08-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Voyage to Kingspoint"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Action"
+    },
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-07-04",
+      "dow": "Su",
+      "time": "6:30 PM",
+      "end": "1943-08-21",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1944-06-16",
+      "dow": "Su",
+      "time": "5:30 PM",
+      "end": "1944-08-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1945-06-08",
+      "dow": "Su",
+      "time": "6:29 PM",
+      "end": "1945-08-26",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Kraft",
+      "begin": "1943-07-04",
+      "end": "1943-08-21"
+    },
+    {
+      "sponsor": "Kraft",
+      "begin": "1944-06-06",
+      "end": "1944-08-27"
+    },
+    {
+      "sponsor": "Kraft",
+      "begin": "1945-06-08",
+      "end": "1945-07-26"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Men at Sea"
+    }
+  ]
+}

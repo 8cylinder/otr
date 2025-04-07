@@ -1,0 +1,311 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/N Series/New Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-New-Theater.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-New-Theater.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6789-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Partial summer replacement for Phil Harris and Tales of the Texas Rangers"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "5292",
+      "first": "Budd",
+      "last": "Schulberg",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "3446",
+      "first": "Eva",
+      "last": "Le Gallienne",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "151096",
+      "date": "1951-06-10",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Short Happy Life of Frances Macomber"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "151097",
+      "date": "1951-06-17",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Young Man With a Horn"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "New Theater",
+          "name": "The New Theater 51-06-17 (02) Young Man With a Horn.mp3",
+          "time": "3307",
+          "size": "16631066"
+        }
+      ]
+    },
+    {
+      "ide": "151098",
+      "date": "1951-06-24",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Daisy Kenyon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "151099",
+      "date": "1951-07-01",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Noon Wine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "151100",
+      "date": "1951-07-08",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Willow Cabin, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "New Theater",
+          "name": "The New Theater 51-07-08 (05) The Willow Cabin.mp3",
+          "time": "3563",
+          "size": "57009954"
+        }
+      ]
+    },
+    {
+      "ide": "151101",
+      "date": "1951-07-15",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time of Man, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "New Theater",
+          "name": "The New Theater 51-07-15 (06) The Time of Man.mp3",
+          "time": "3481",
+          "size": "55696307"
+        }
+      ]
+    },
+    {
+      "ide": "151102",
+      "date": "1951-07-22",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Disenchanted, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "151103",
+      "date": "1951-07-29",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After Many a Summer Dies The Swan"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "New Theater",
+          "name": "The New Theater 51-07-29 (08) After Many a Summer Dies The Swan.mp3",
+          "time": "3797",
+          "size": "15187562"
+        }
+      ]
+    },
+    {
+      "ide": "151104",
+      "date": "1951-08-05",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rebecca"
+        },
+        {
+          "title": "After Many a Summer Dies the Swan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "151105",
+      "date": "1951-08-12",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Camille"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "151106",
+      "date": "1951-08-19",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Passage to India, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "151107",
+      "date": "1951-08-26",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Informer, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "151108",
+      "date": "1951-09-02",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Corn is Green, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "151109",
+      "date": "1951-09-09",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "151110",
+      "date": "1951-09-16",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lottery, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "151111",
+      "date": "1951-09-23",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Twelve Pound Look, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1951-06-10",
+      "dow": "Su",
+      "time": "7:30 PM",
+      "end": "1951-09-23",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "New Theatre, The"
+    }
+  ]
+}

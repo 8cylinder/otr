@@ -1,0 +1,124 @@
+{
+  "avail": [
+    {
+      "avail": "1",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "802",
+      "first": "George",
+      "last": "Bryan",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4321",
+      "first": "Edward R.",
+      "last": "Murrow",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313819",
+      "date": "1947-06-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shorts Skirts Or Long Skirts"
+        }
+      ],
+      "files": [
+        {
+          "path": "I",
+          "folder": "In My Opinion",
+          "name": "In My Opinion 470626 - Shorts Skirts Or Long Skirts_OTRRPG.mp3",
+          "time": "912",
+          "size": "14671002"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1946-04-01",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:15 PM",
+      "end": "1946-06-06",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-07-09",
+      "dow": "M,Th",
+      "time": "6:15 PM",
+      "end": "1948-10-25",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "In My Opinion"
+    }
+  ]
+}

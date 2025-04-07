@@ -1,0 +1,134 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2730",
+      "first": "Bob",
+      "last": "Hite",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "28174",
+      "first": "Norman",
+      "last": "Leyden",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "50332",
+      "first": "Kathy",
+      "last": "Godfrey",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50332",
+      "first": "Kathy",
+      "last": "Godfrey",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Musical variety and interviews"
+    }
+  ],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1955-06-05",
+      "dow": "Su",
+      "time": "2:05 PM",
+      "end": "1955-10-09",
+      "length": "25",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1955-12-17",
+      "dow": "Sa",
+      "time": "1:30 PM",
+      "end": "1956-05-26",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1956-05-28",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1956-09-20",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Kathy Godfrey Show, The"
+    }
+  ]
+}

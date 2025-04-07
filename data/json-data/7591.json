@@ -1,0 +1,98 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3241",
+      "first": "Ray",
+      "last": "Kinney",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Across The Sea"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "246921",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ray Kinney and his Native Hawaiians - Live from the Hawaiian Room (38-11-20)"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Ray Kinney And His Native Hawaiians",
+          "name": "Ray Kinney And His Native Hawaiians 1938.11.20 Ray Kinney And His Native Hawaiians.mp3",
+          "time": "1694",
+          "size": "6884808"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-05-04",
+      "dow": "Sa",
+      "time": "1:30 PM",
+      "end": "1939-11-04",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1939-10-16",
+      "dow": "M",
+      "time": "7:30 PM",
+      "end": "1940-01-22",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1941-05-24",
+      "dow": "Sa",
+      "time": "2:30 PM",
+      "end": "1941-09-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Ray Kinney Orchestra"
+    }
+  ]
+}

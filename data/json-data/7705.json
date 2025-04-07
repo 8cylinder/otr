@@ -1,0 +1,232 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/RFD America/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,794051,00.html",
+      "label": "1948-01-05: The Farmer Takes a Mike",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "9719",
+      "first": "Ed",
+      "last": "Bottcher",
+      "f": "Noted Role",
+      "character": "Country Editor (Quizmaster), 1948"
+    },
+    {
+      "idperson": "3151",
+      "first": "Joe",
+      "last": "Kelly",
+      "f": "Noted Role",
+      "character": "Quizmaster"
+    },
+    {
+      "idperson": "14290",
+      "first": "Ed",
+      "last": "Cooper",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1587",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "2005-07-01",
+      "source": "OTR Digest_1990s/OTRDigest_(110)Summer05.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (110) Summer 2005",
+      "author": ""
+    },
+    {
+      "idprint": "3174",
+      "idtype": "4",
+      "page": "32",
+      "article": "",
+      "url": "undefined",
+      "date": "1948-02-01",
+      "source": "Radio Mirror/Radio Mirror 4812.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4812.pdf",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311196",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "RFD America 48-xx-xx Guest - Elizabeth Steavamer"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "RFD America 48-xx-xx Guest - Elizabeth Steavamer.mp3",
+          "time": "1767",
+          "size": "14136214"
+        }
+      ]
+    },
+    {
+      "ide": "314782",
+      "date": "1948-02-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Question - Why Does A Hog Need To Be Lubricated"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "RFD America",
+          "name": "RFD America 480226 xxx 1st Question - Why Does A Hog Need To Be Lubricated_OTRRPG.mp3",
+          "time": "1765",
+          "size": "28315706"
+        },
+        {
+          "path": "R",
+          "folder": "RFD America",
+          "name": "RFD America 48-02-26 First Question - Why does a hog need to.mp3",
+          "time": "1767",
+          "size": "28272768"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Talk Show"
+    },
+    {
+      "genre": "Quiz"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-01-08",
+      "dow": "Su",
+      "time": "8:30 PM",
+      "end": "1949-09-24",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1947-10-29",
+      "dow": "W",
+      "time": "9:30 PM",
+      "end": "1947-11-26",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1947-12-04",
+      "dow": "Th",
+      "time": "9:30 PM",
+      "end": "1948-04-22",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1948-07-06",
+      "dow": "Su",
+      "time": "8:30 PM",
+      "end": "1948-09-26",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "RFD America"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "avail": [
+    {
+      "avail": "4",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50678",
+      "first": "Jack",
+      "last": "Hilty",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324584",
+      "date": "1947-01-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Audition"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Once Upon Our Time",
+          "name": "Once Upon Our Time 1947.01.11 Audition.mp3",
+          "time": "899",
+          "size": "3704695"
+        }
+      ]
+    },
+    {
+      "ide": "324585",
+      "date": "1947-02-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Show"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Once Upon Our Time",
+          "name": "Once Upon Our Time 1947.02.22 First Show.mp3",
+          "time": "979",
+          "size": "4024647"
+        }
+      ]
+    },
+    {
+      "ide": "314371",
+      "date": "1947-08-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Musical Biography of Ann Rutledge Lincoln"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Once Upon Our Time",
+          "name": "Once Upon Our Time 470825 A Musical Biography of Ann Rutledge Lincoln_OTRRPG.mp3",
+          "time": "867",
+          "size": "13883722"
+        }
+      ]
+    },
+    {
+      "ide": "314372",
+      "date": "1947-08-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Anne Rutledge"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "Once Upon Our Time",
+          "name": "Once Upon Our Time 470825 xxx Anne Rutledge_OTRRPG.mp3",
+          "time": "865",
+          "size": "13917199"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1947-02-02",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Once Upon Our Time"
+    }
+  ]
+}

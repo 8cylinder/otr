@@ -1,0 +1,1520 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "HAHR"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050506-3fbec773.gif",
+      "label": "Haunting Hour 02",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050508-cf4768de.jpg",
+      "label": "Haunting Hour Cover v1",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050512-f510a83d.jpg",
+      "label": "Haunting Hour CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Haunting-Hour.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.radiohorrorhosts.com/haunting.html",
+      "label": "RadioHorrorHosts.com",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-4445-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Haunting-Hour.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/haunthr_dj.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/H Series/Haunting Hour/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Disc Label Info was used to determine program episode number and thus the chronological order. Any other titles assigned to episodes are not valid."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "46427",
+      "first": "Charles 'Charlie'",
+      "last": "Sinclair",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "1101",
+      "idtype": "4",
+      "page": "19",
+      "article": "",
+      "url": "",
+      "date": "1971-12-01",
+      "source": "Misc/Double_R_Radio_Flyer_(05)_Dec71.pdf",
+      "idpytype2": "4",
+      "title": "Double R Radio Flyer (05) Dec 1971",
+      "author": ""
+    },
+    {
+      "idprint": "375",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1979-02-01",
+      "source": "Hello Again/HA_V10_(02)_Feb79.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 10 #02 Feb 1979",
+      "author": ""
+    },
+    {
+      "idprint": "400",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1981-04-01",
+      "source": "Hello Again/HA_V12_(04)_Apr81.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 12 #04 Apr 1981",
+      "author": ""
+    },
+    {
+      "idprint": "584",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1989-05-01",
+      "source": "Illustrated Press/IP_152.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #152 May 89",
+      "author": ""
+    },
+    {
+      "idprint": "596",
+      "idtype": "4",
+      "page": "14",
+      "article": "",
+      "url": "",
+      "date": "1990-05-01",
+      "source": "Illustrated Press/IP_164.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #164 May 90",
+      "author": ""
+    },
+    {
+      "idprint": "616",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "1992-04-01",
+      "source": "Illustrated Press/IP_187.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #187 Apr 92",
+      "author": ""
+    },
+    {
+      "idprint": "635",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1993-11-01",
+      "source": "Illustrated Press/IP_206.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #206 Nov 93",
+      "author": ""
+    },
+    {
+      "idprint": "1230",
+      "idtype": "4",
+      "page": "48",
+      "article": "",
+      "url": "",
+      "date": "2001-05-01",
+      "source": "NARA News/Nara News V29 02 Spring2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 02 Spring2001",
+      "author": ""
+    },
+    {
+      "idprint": "1120",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "2008-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01Rev)_79.pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01Rev) 1979",
+      "author": ""
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "10",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "1575",
+      "idtype": "4",
+      "page": "26",
+      "article": "",
+      "url": "",
+      "date": "1988-09-01",
+      "source": "OTR Digest_1980s/OTRDigest_(029)SepOct88.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (29) Sep-Oct 1988",
+      "author": ""
+    },
+    {
+      "idprint": "2206",
+      "idtype": "4",
+      "page": "18",
+      "article": "",
+      "url": "",
+      "date": "1976-01-01",
+      "source": "Radio Nostalgia/Radio_Nostalgia_(04).pdf",
+      "idpytype2": "4",
+      "title": "Radio Nostalgia (04)",
+      "author": ""
+    },
+    {
+      "idprint": "2207",
+      "idtype": "4",
+      "page": "46",
+      "article": "",
+      "url": "",
+      "date": "1977-01-01",
+      "source": "Radio Nostalgia/Radio_Nostalgia_(05).pdf",
+      "idpytype2": "4",
+      "title": "Radio Nostalgia (05)",
+      "author": ""
+    },
+    {
+      "idprint": "2207",
+      "idtype": "4",
+      "page": "47",
+      "article": "",
+      "url": "",
+      "date": "1977-01-01",
+      "source": "Radio Nostalgia/Radio_Nostalgia_(05).pdf",
+      "idpytype2": "4",
+      "title": "Radio Nostalgia (05)",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "50",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "160",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "167",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "21",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Produced in the familiar format of scary murder mysteries, The Haunting Hour joined the parade of dark and eerie fog shrouded shows."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "72145",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death of Jonathon"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour xx-xx-xx (xx) Death of Jonathon.mp3",
+          "time": "1860",
+          "size": "7442591"
+        }
+      ]
+    },
+    {
+      "ide": "72144",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Threat"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour xx-xx-xx (xx) Double Threat.mp3",
+          "time": "1860",
+          "size": "7442591"
+        }
+      ]
+    },
+    {
+      "ide": "72142",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lonesome Heart"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "72152",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sinister Estate"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 48-12-xx (xx) Sinister Estate.mp3",
+          "time": "1860",
+          "size": "7440525"
+        }
+      ]
+    },
+    {
+      "ide": "73399",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sixth Button, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-xx-xx (32) The Sixth Button.mp3",
+          "time": "1526",
+          "size": "4579206"
+        }
+      ]
+    },
+    {
+      "ide": "72149",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Threat (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "312315",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Reprieve to Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248035",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Likely Murder Story, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 46-xx-xx (xx) A Likely Murder Story.mp3",
+          "time": "1417",
+          "size": "5667295"
+        }
+      ]
+    },
+    {
+      "ide": "312316",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Bird of Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "72150",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pale Hands That Kill (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "72141",
+      "date": "0000-00-00",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Perfect Crime"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour xxxxxx xx The Perfect Crime_OTRRPG.mp3",
+          "time": "1606",
+          "size": "25774460"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour xxxxxx xx Perfect Crime.mp3",
+          "time": "1608",
+          "size": "12865674"
+        }
+      ]
+    },
+    {
+      "ide": "72143",
+      "date": "0000-00-00",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dressed To Kill"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "72156",
+      "date": "0000-00-00",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Key To A Murder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248032",
+      "date": "0000-00-00",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Briefcase, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "312317",
+      "date": "0000-00-00",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "The Labyrinth"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "312318",
+      "date": "0000-00-00",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Hiding Place"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248033",
+      "date": "0000-00-00",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead Strike Back, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "312319",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Stand-In for Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "72148",
+      "date": "0000-00-00",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Till Murder Do Us Part"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour xxxxxx 51 Till Murder Do Us Part_OTRRPG.mp3",
+          "time": "1713",
+          "size": "27493361"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour xx-xx-xx (xx) Till Murder Do Us Part.mp3",
+          "time": "1860",
+          "size": "7442591"
+        }
+      ]
+    },
+    {
+      "ide": "72147",
+      "date": "0000-00-00",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dark Tower"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour xxxxxx 52 Dark Tower_OTRRPG.mp3",
+          "time": "1741",
+          "size": "27943073"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour xx-xx-xx (xx) Dark Tower.mp3",
+          "time": "1860",
+          "size": "7442591"
+        }
+      ]
+    },
+    {
+      "ide": "73681",
+      "date": "1945-03-24",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder Wears a Strange Mask"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-03-24 (01) Murder Wears a Strange Mask.mp3",
+          "time": "1500",
+          "size": "6001259"
+        }
+      ]
+    },
+    {
+      "ide": "73682",
+      "date": "1945-03-31",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Best Laid Plans, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-03-31 (02) Bird of Death.mp3",
+          "time": "1500",
+          "size": "6001886"
+        }
+      ]
+    },
+    {
+      "ide": "73683",
+      "date": "1945-04-07",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Old Man, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-04-07 (03) The Old Old Man.mp3",
+          "time": "1500",
+          "size": "6003786"
+        }
+      ]
+    },
+    {
+      "ide": "73684",
+      "date": "1945-04-14",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ptolemy's Grave"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-04-14 (04) Ptolomey's Grave.mp3",
+          "time": "1500",
+          "size": "6001677"
+        }
+      ]
+    },
+    {
+      "ide": "73685",
+      "date": "1945-04-21",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Corpse There Was, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-04-21 (05) A Corpse There Was.mp3",
+          "time": "1500",
+          "size": "6001677"
+        }
+      ]
+    },
+    {
+      "ide": "73686",
+      "date": "1945-04-28",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "If the Shoe Fits"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-04-28 (06) If the Shoe Fits.mp3",
+          "time": "1500",
+          "size": "6002095"
+        }
+      ]
+    },
+    {
+      "ide": "73687",
+      "date": "1945-05-05",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Breakdown"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-05-05 (07) Breakdown.mp3",
+          "time": "1500",
+          "size": "6001856"
+        }
+      ]
+    },
+    {
+      "ide": "73688",
+      "date": "1945-06-14",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Case of the Lonesome Corpse"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-06-14 (08) Case of the Lonesome Corpse.mp3",
+          "time": "1500",
+          "size": "6002483"
+        }
+      ]
+    },
+    {
+      "ide": "73689",
+      "date": "1945-06-23",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hands of Mr Smith"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 450623 09 The Hands of Mr Smith_OTRRPG.mp3",
+          "time": "1427",
+          "size": "22914804"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-06-23 (09) Hands of Mr Smith.mp3",
+          "time": "1500",
+          "size": "6001886"
+        }
+      ]
+    },
+    {
+      "ide": "73690",
+      "date": "1945-06-30",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Homicide House"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-06-30 (10) Homicide House.mp3",
+          "time": "1500",
+          "size": "6001050"
+        }
+      ]
+    },
+    {
+      "ide": "73691",
+      "date": "1945-07-07",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Date With Destiny, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 450707 11 Date In The Dark_OTRRPG.mp3",
+          "time": "1701",
+          "size": "27295255"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-07-07 (11) Date in the Dark.mp3",
+          "time": "1500",
+          "size": "6002095"
+        }
+      ]
+    },
+    {
+      "ide": "73692",
+      "date": "1945-07-13",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thought, The"
+        },
+        {
+          "title": "Mento"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 450713 12 The Thought aka Mento_OTRRPG.mp3",
+          "time": "1744",
+          "size": "27999939"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-07-13 (12) The Thought aka Mento.mp3",
+          "time": "1500",
+          "size": "6001886"
+        }
+      ]
+    },
+    {
+      "ide": "73693",
+      "date": "1945-07-21",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Uptown Express"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-07-21 (13) Uptown Express.mp3",
+          "time": "1500",
+          "size": "6001886"
+        }
+      ]
+    },
+    {
+      "ide": "73694",
+      "date": "1945-07-28",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unidentified Body"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-07-28 (14) Unidentified Body.mp3",
+          "time": "1500",
+          "size": "6001886"
+        }
+      ]
+    },
+    {
+      "ide": "73695",
+      "date": "1945-08-04",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Second Chance"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 450804 15 Second Chance_OTRRPG.mp3",
+          "time": "1729",
+          "size": "27747902"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-08-04 (15) Second Chance.mp3",
+          "time": "1500",
+          "size": "6001050"
+        }
+      ]
+    },
+    {
+      "ide": "73696",
+      "date": "1945-08-11",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Revenge"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 450811 16 Revenge_OTRRPG.mp3",
+          "time": "1738",
+          "size": "27895017"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-08-11 (16) Revenge.mp3",
+          "time": "1500",
+          "size": "6001259"
+        }
+      ]
+    },
+    {
+      "ide": "73697",
+      "date": "1945-08-18",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "People in the House"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 450818 17 People In The House (2)_OTRRPG.mp3",
+          "time": "1743",
+          "size": "27972774"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 450818 17 People In The House_OTRRPG.mp3",
+          "time": "1688",
+          "size": "27081018"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-08-18 (17) People in the House.mp3",
+          "time": "1500",
+          "size": "6001458"
+        }
+      ]
+    },
+    {
+      "ide": "73698",
+      "date": "1945-08-25",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Occupation Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 450825 18 Occupation Murder_OTRRPG.mp3",
+          "time": "1728",
+          "size": "27726590"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-08-25 (18) Occupation Murder.mp3",
+          "time": "1500",
+          "size": "6002513"
+        }
+      ]
+    },
+    {
+      "ide": "73699",
+      "date": "1945-09-01",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Escape"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-09-01 (19) No Escape.mp3",
+          "time": "1500",
+          "size": "6002304"
+        }
+      ]
+    },
+    {
+      "ide": "73700",
+      "date": "1945-09-08",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death by Request"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-09-08 (20) Death by Request.mp3",
+          "time": "1500",
+          "size": "6001259"
+        }
+      ]
+    },
+    {
+      "ide": "73701",
+      "date": "1945-09-15",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nocturne"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-09-15 (21) Nocturne.mp3",
+          "time": "1500",
+          "size": "6001886"
+        }
+      ]
+    },
+    {
+      "ide": "73702",
+      "date": "1945-09-22",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Skyscraper Mystery"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 450922 22 The Skyscraper Mystery_OTRRPG.mp3",
+          "time": "1769",
+          "size": "28384217"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-09-22 (22) Skyscraper Mystery.mp3",
+          "time": "1500",
+          "size": "6001677"
+        }
+      ]
+    },
+    {
+      "ide": "73703",
+      "date": "1945-09-29",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery of the Southern Star"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-09-29 (23) Mystery of the Southern Star.mp3",
+          "time": "1500",
+          "size": "6002513"
+        }
+      ]
+    },
+    {
+      "ide": "73704",
+      "date": "1945-10-06",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder is my Business"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-10-06 (24) Murder is my Business.mp3",
+          "time": "1500",
+          "size": "6002304"
+        }
+      ]
+    },
+    {
+      "ide": "73705",
+      "date": "1945-10-13",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cat Man, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-10-13 (25) The Cat Man.mp3",
+          "time": "1500",
+          "size": "6002095"
+        }
+      ]
+    },
+    {
+      "ide": "73706",
+      "date": "1945-10-20",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Devil's Deep, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 451020 26 The Devil's Deep_OTRRPG.mp3",
+          "time": "1713",
+          "size": "27488107"
+        },
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-10-20 (26) The Devil's Deep.mp3",
+          "time": "1500",
+          "size": "6002304"
+        }
+      ]
+    },
+    {
+      "ide": "73707",
+      "date": "1945-10-27",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tale of Darkness"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 45-10-27 (27) Tale of Darkness.mp3",
+          "time": "1602",
+          "size": "4806686"
+        }
+      ]
+    },
+    {
+      "ide": "73711",
+      "date": "1946-02-02",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Destination Unknown"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 46-02-02 (41) Destination Unknown.mp3",
+          "time": "1378",
+          "size": "4136980"
+        }
+      ]
+    },
+    {
+      "ide": "73712",
+      "date": "1946-02-09",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Mr Brants, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 46-02-09 (31) The Two Mr Brants.mp3",
+          "time": "1367",
+          "size": "4102164"
+        }
+      ]
+    },
+    {
+      "ide": "73713",
+      "date": "1947-12-23",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ecclesiastes First Chapter, Second Verse"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73714",
+      "date": "1947-12-30",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Way Of The Transgressor, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73715",
+      "date": "1948-03-08",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out of the Night"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73716",
+      "date": "1948-05-19",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder Is My Business"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73717",
+      "date": "1948-05-26",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery Southern Star"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73718",
+      "date": "1948-06-04",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Revenge"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73719",
+      "date": "1948-08-09",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Second Chance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73720",
+      "date": "1948-11-01",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Escape"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "73722",
+      "date": "1949-05-23",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Assignment Death"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 49-05-23 (39) Assignment Death.mp3",
+          "time": "1860",
+          "size": "7442611"
+        }
+      ]
+    },
+    {
+      "ide": "73723",
+      "date": "1949-05-30",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pale Hands That Kill"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 49-05-30 (35) Pale Hands That Kill.mp3",
+          "time": "1860",
+          "size": "7442611"
+        }
+      ]
+    },
+    {
+      "ide": "73724",
+      "date": "1949-06-20",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tapping on the Window"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Haunting Hour",
+          "name": "Haunting Hour 49-06-20 (43) Tapping on the Window.mp3",
+          "time": "1860",
+          "size": "7442611"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Horror"
+    },
+    {
+      "genre": "Mystery"
+    },
+    {
+      "genre": "Suspense"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Haunting Hour, The"
+    },
+    {
+      "title": "The Haunting Hour"
+    }
+  ]
+}

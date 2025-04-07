@@ -1,0 +1,88 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3532",
+      "first": "Elliott",
+      "last": "Lewis",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6237",
+      "first": "Jack",
+      "last": "Webb",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6504",
+      "first": "Barton",
+      "last": "Yarborough",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324380",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Roundhouse Rosie Audition"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Three For Adventure",
+          "name": "Three For Adventure 19xx.xx.xx Roundhouse Rosie Audition.mp3",
+          "time": "1890",
+          "size": "7666048"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Three For Adventure"
+    }
+  ]
+}

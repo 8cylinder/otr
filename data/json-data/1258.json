@@ -1,0 +1,138 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "15857",
+      "first": "Ben",
+      "last": "Selvin",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321448",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Broadway Melody"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Ben Selvin And His Orchestra",
+          "name": "Ben Selvin And His Orchestra 1928.xx.xx Broadway Melody.mp3",
+          "time": "152",
+          "size": "714892"
+        }
+      ]
+    },
+    {
+      "ide": "321449",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Man From Carolina"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Ben Selvin And His Orchestra",
+          "name": "Ben Selvin And His Orchestra 1930.xx.xx My Man From Carolina.mp3",
+          "time": "173",
+          "size": "799538"
+        }
+      ]
+    },
+    {
+      "ide": "321450",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When The Moon Comes Over The Mountain"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Ben Selvin And His Orchestra",
+          "name": "Ben Selvin And His Orchestra 1931.xx.xx When The Moon Comes Over The Mountain.mp3",
+          "time": "190",
+          "size": "869267"
+        }
+      ]
+    },
+    {
+      "ide": "321451",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dinner At Eight"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Ben Selvin And His Orchestra",
+          "name": "Ben Selvin And His Orchestra 1933.xx.xx Dinner At Eight.mp3",
+          "time": "174",
+          "size": "805484"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Ben Selvin"
+    }
+  ]
+}

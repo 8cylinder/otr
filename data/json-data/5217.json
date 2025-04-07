@@ -1,0 +1,146 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/21/20210321203623-b2c4de65.png",
+      "label": "Jim Hawthorne's Member badge",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4148",
+      "first": "Bill",
+      "last": "Miller",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1100",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1971-01-01",
+      "source": "Misc/Don_Maris_Flyer_(02)_71.pdf",
+      "idpytype2": "4",
+      "title": "Don Maris Flyer (02) 1971",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312322",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Dennis Day"
+        },
+        {
+          "title": "Guest - Dennis Day. 1st Song ' Slow Boat To China'"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hawthornes Adventure",
+          "name": "Hawthorne's Adventures 49xxxx Guest - Dennis Day_OTRRPG.mp3",
+          "time": "1782",
+          "size": "28598662"
+        },
+        {
+          "path": "H",
+          "folder": "Hawthornes Adventure",
+          "name": "Hawthorne's Adventures 49-xx-xx Guest - Dennis Day.mp3",
+          "time": "1777",
+          "size": "14214980"
+        }
+      ]
+    },
+    {
+      "ide": "323311",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Hogan Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hawthornes Adventure",
+          "name": "Hawthorne's Adventures 1951.xx.xx The Hogan Song.mp3",
+          "time": "865",
+          "size": "3567658"
+        }
+      ]
+    },
+    {
+      "ide": "313852",
+      "date": "1953-04-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Nick Lucas"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hawthornes Adventure",
+          "name": "Jim Hawthorne Show 530430 xxx Guest - Nick Lucas_OTRRPG.mp3",
+          "time": "2804",
+          "size": "44940445"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jim Hawthorne Show"
+    },
+    {
+      "title": "Hawthorne's Adventures"
+    }
+  ]
+}

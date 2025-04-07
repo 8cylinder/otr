@@ -1,0 +1,196 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5187",
+      "first": "Bob",
+      "last": "Russell",
+      "f": "Noted Role",
+      "character": "Helped create the show"
+    },
+    {
+      "idperson": "2834",
+      "first": "Wayne",
+      "last": "Howell",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5230",
+      "first": "Harry",
+      "last": "Salter",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "487",
+      "first": "Al",
+      "last": "Benson",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "15959",
+      "first": "June",
+      "last": "Valli",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "310128",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Name That Tune",
+          "name": "_78_name-that-tune_columbia_gbia0000437a_01_0.7-e_eq.mp3",
+          "time": "1248",
+          "size": "40038912"
+        }
+      ]
+    },
+    {
+      "ide": "310129",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Name That Tune",
+          "name": "_78_name-that-tune_columbia_gbia0000437a_02_1.0-e_eq.mp3",
+          "time": "1010",
+          "size": "40495104"
+        }
+      ]
+    },
+    {
+      "ide": "310130",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Name That Tune",
+          "name": "_78_name-that-tune_columbia_gbia0000437a_03_1.0-et_eq.mp3",
+          "time": "1001",
+          "size": "40133632"
+        }
+      ]
+    },
+    {
+      "ide": "310131",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Name That Tune",
+          "name": "_78_name-that-tune_columbia_gbia0000437a_04_1.5-ct_eq.mp3",
+          "time": "985",
+          "size": "39508480"
+        }
+      ]
+    },
+    {
+      "ide": "330779",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Tune Dixie"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Game Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1952-12-20",
+      "dow": "Sa",
+      "time": "8:30 PM",
+      "end": "1953-04-09",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Name That Tune"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "DEAM"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322180836-14efb1f1.jpg",
+      "label": "Democracy In America CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322180841-9fcf1627.jpg",
+      "label": "Democracy In America CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322180846-982cdf27.jpg",
+      "label": "Democracy In America CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Democracy_In_America_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2862-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logd1025.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Democracy_In_America_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322181358-3e04a2c2.jpg",
+      "label": "Democracy in America",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6674",
+      "first": "Barry",
+      "last": "Morse",
+      "f": "Noted Role",
+      "character": "Alexis De Tocqueville"
+    },
+    {
+      "idperson": "26489",
+      "first": "Alan",
+      "last": "King",
+      "f": "Noted Role",
+      "character": "Gustave de Beaumont"
+    },
+    {
+      "idperson": "46718",
+      "first": "Alexis",
+      "last": "De Tocqueville",
+      "f": "Noted Role",
+      "character": "Series based on his books"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "51669",
+      "date": "1962-01-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Preview Show 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Democracy in America",
+          "name": "Democracy In America 1962.01.10 Preview Show 1.mp3",
+          "time": "1746",
+          "size": "7091318"
+        }
+      ]
+    },
+    {
+      "ide": "51670",
+      "date": "1962-01-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Preview Show 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Democracy in America",
+          "name": "Democracy In America 1962.01.16 Preview Show 2.mp3",
+          "time": "1745",
+          "size": "7088393"
+        }
+      ]
+    },
+    {
+      "ide": "51671",
+      "date": "1962-01-17",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where Could I Be Better Off"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-01-17_01_Where_Could_I_Be_Better_Off.mp3",
+          "time": "1728",
+          "size": "13824612"
+        }
+      ]
+    },
+    {
+      "ide": "51672",
+      "date": "1962-01-24",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Governor in the Boarding House, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-01-24_02_The_Governor_in_the_Boarding_House.mp3",
+          "time": "1754",
+          "size": "14035897"
+        }
+      ]
+    },
+    {
+      "ide": "51673",
+      "date": "1962-01-31",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "4th of July in Albany 1831, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-01-31_03_The_4th_of_July_in_Albany_1831.mp3",
+          "time": "1703",
+          "size": "13620860"
+        }
+      ]
+    },
+    {
+      "ide": "51674",
+      "date": "1962-02-07",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arc of Civilization, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-02-07_04_The_Arc_of_Civilization.mp3",
+          "time": "1726",
+          "size": "13807054"
+        }
+      ]
+    },
+    {
+      "ide": "51675",
+      "date": "1962-02-14",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Any Woman Is a Lady"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-02-14_05_Any_Woman_Is_a_Lady.mp3",
+          "time": "1717",
+          "size": "13737460"
+        }
+      ]
+    },
+    {
+      "ide": "51676",
+      "date": "1962-02-21",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cement of Democracy, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-02-21_06_The_Cement_of_Democracy.mp3",
+          "time": "1748",
+          "size": "13981761"
+        }
+      ]
+    },
+    {
+      "ide": "51677",
+      "date": "1962-02-28",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cold Water Army, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-02-28_07_The_Cold_Water_Army.mp3",
+          "time": "1744",
+          "size": "13951455"
+        }
+      ]
+    },
+    {
+      "ide": "51678",
+      "date": "1962-03-07",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Heavenly Prison, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-03-07_08_The_Heavenly_Prison.mp3",
+          "time": "1750",
+          "size": "13997639"
+        }
+      ]
+    },
+    {
+      "ide": "51679",
+      "date": "1962-03-14",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tyranny of the Majority, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-03-14_09_The_Tyranny_of_the_Majority.mp3",
+          "time": "1719",
+          "size": "13752305"
+        }
+      ]
+    },
+    {
+      "ide": "51680",
+      "date": "1962-03-21",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Common Sense and Moonshine"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-03-21_10_Common_Sense_and_Moonshine.mp3",
+          "time": "1747",
+          "size": "20959783"
+        }
+      ]
+    },
+    {
+      "ide": "51681",
+      "date": "1962-03-28",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chief Instrument of Freedom, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-03-28_11_The_Chief_Instrument_of_Freedom.mp3",
+          "time": "1688",
+          "size": "13505296"
+        }
+      ]
+    },
+    {
+      "ide": "51682",
+      "date": "1962-04-04",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aristocrats of Freedom, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-04-04_12_The_Aristocrats_of_Freedom.mp3",
+          "time": "1741",
+          "size": "13929311"
+        }
+      ]
+    },
+    {
+      "ide": "51683",
+      "date": "1962-04-11",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Happy Republic, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-04-11_13_The_Happy_Republic.mp3",
+          "time": "1702",
+          "size": "13614997"
+        }
+      ]
+    },
+    {
+      "ide": "51684",
+      "date": "1962-04-18",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "These Precious Premises"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Democracy_In_America_Singles",
+          "name": "DiA_62-04-18_14_These_Precious_Premises.mp3",
+          "time": "1697",
+          "size": "13579476"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Democracy in America"
+    }
+  ]
+}

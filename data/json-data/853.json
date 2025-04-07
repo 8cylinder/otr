@@ -1,0 +1,1687 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185622-b2eb1e4e.jpg",
+      "label": "Ann of the Airlines CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Ann_of_the_Airlanes",
+      "label": "Wikipedia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-853-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/loga1019.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Anne Of The Airlanes/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1586",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "2005-04-01",
+      "source": "OTR Digest_1990s/OTRDigest_(109)Spring05.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (109) Spring 2005",
+      "author": ""
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "56671",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56662",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doc Heads A Smuggling Ring"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (10) Doc Heads A Smuggling Ring.mp3",
+          "time": "845",
+          "size": "6763443"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "010 Jack Gets Through.flac",
+          "time": "897",
+          "size": "37150183"
+        }
+      ]
+    },
+    {
+      "ide": "56661",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Just Before The Hurricane"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (11) Just Before The Hurricane.mp3",
+          "time": "849",
+          "size": "6791522"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "011 Gas Supply.flac",
+          "time": "895",
+          "size": "38673717"
+        }
+      ]
+    },
+    {
+      "ide": "56660",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hurricane Hits, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (12) The Hurricane Hits.mp3",
+          "time": "853",
+          "size": "6827083"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "012 Gas Transferred.flac",
+          "time": "892",
+          "size": "40874588"
+        }
+      ]
+    },
+    {
+      "ide": "56659",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Jack Working For The Secret Service?"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (13) Is Jack Working For The Secret Service.mp3",
+          "time": "839",
+          "size": "6716032"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "013 Safe Landings.flac",
+          "time": "895",
+          "size": "38778789"
+        }
+      ]
+    },
+    {
+      "ide": "56658",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack Needs The Secret Radio Frequency"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (14) Jack Needs The Secret Radio Frequency.mp3",
+          "time": "844",
+          "size": "6751598"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "014 Ten Percent Offer.flac",
+          "time": "895",
+          "size": "39363793"
+        }
+      ]
+    },
+    {
+      "ide": "56657",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Secret Runway In The Everglades, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (15) The Secret Runway In The Everglades.mp3",
+          "time": "847",
+          "size": "6778220"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "015 Parachuting Out.flac",
+          "time": "892",
+          "size": "38333855"
+        }
+      ]
+    },
+    {
+      "ide": "56656",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann Meets Up With Jack"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (16) Ann Meets Up With Jack.mp3",
+          "time": "840",
+          "size": "6717471"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "016 Ann Finds Jack.flac",
+          "time": "892",
+          "size": "39615890"
+        }
+      ]
+    },
+    {
+      "ide": "56655",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pete Takes Off"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (17) Pete Takes Off.mp3",
+          "time": "849",
+          "size": "6792551"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "017 Ann Sneaks Away.flac",
+          "time": "894",
+          "size": "38525946"
+        }
+      ]
+    },
+    {
+      "ide": "56654",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann Is Lost In The Everglades"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (18) Ann Is Lost In The Everglades.mp3",
+          "time": "850",
+          "size": "6803382"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "018 The Name Zeb.flac",
+          "time": "894",
+          "size": "38591690"
+        }
+      ]
+    },
+    {
+      "ide": "56653",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Zeb Makes  A Parachute Jump"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (19) Zeb Makes A Parachute Jump.mp3",
+          "time": "850",
+          "size": "6797348"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "019 Zeb Owns Mine.flac",
+          "time": "897",
+          "size": "39022206"
+        }
+      ]
+    },
+    {
+      "ide": "56670",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56652",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack Wonders Who Was In The Parachute"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (20) Jack Wonders Who Was In The Parachute.mp3",
+          "time": "835",
+          "size": "6677550"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "020 Ann Hides In Plane.flac",
+          "time": "889",
+          "size": "39428887"
+        }
+      ]
+    },
+    {
+      "ide": "56651",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann Hides In The Plane"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (21) Ann Hides In The Plane.mp3",
+          "time": "846",
+          "size": "6772175"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "021 Search For Clues.flac",
+          "time": "890",
+          "size": "37171219"
+        }
+      ]
+    },
+    {
+      "ide": "56650",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pete Suspects Doc"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (22) Pete Suspects Doc.mp3",
+          "time": "840",
+          "size": "6722458"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "022 Receiver On.flac",
+          "time": "888",
+          "size": "37990377"
+        }
+      ]
+    },
+    {
+      "ide": "56649",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Foreigner Who Walks With A Limp, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (23) The Foreigner Who Walks With A Limp.mp3",
+          "time": "849",
+          "size": "6794444"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "023 Investigating.flac",
+          "time": "891",
+          "size": "38689819"
+        }
+      ]
+    },
+    {
+      "ide": "56648",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Overhearing A Message"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (24) Overhearing A Message.mp3",
+          "time": "853",
+          "size": "6825630"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "024 Smoke In Plane.flac",
+          "time": "897",
+          "size": "39027529"
+        }
+      ]
+    },
+    {
+      "ide": "56647",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann Is Discovered"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (25) Ann Is Discovered.mp3",
+          "time": "690",
+          "size": "5523068"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "025 Ann Is Found.flac",
+          "time": "893",
+          "size": "38963620"
+        }
+      ]
+    },
+    {
+      "ide": "165949",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann And Jack Prisoners"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (26) Ann And Jack Prisoners.mp3",
+          "time": "441",
+          "size": "3524360"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "026 Radio Contact.flac",
+          "time": "895",
+          "size": "39881200"
+        }
+      ]
+    },
+    {
+      "ide": "165950",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Piece Of Paper, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (27) The Piece Of Paper.mp3",
+          "time": "105",
+          "size": "843864"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "027 Note In Car.flac",
+          "time": "885",
+          "size": "38402640"
+        }
+      ]
+    },
+    {
+      "ide": "165951",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Doc Really The Head Of The Smuggling Ring?"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (28) Is Doc Really The Head Of The Smugglers.mp3",
+          "time": "848",
+          "size": "6788006"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "028 Glued Gear.flac",
+          "time": "897",
+          "size": "39777605"
+        }
+      ]
+    },
+    {
+      "ide": "165952",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack Lands The Plane"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (29) Who's In Charge - Jack Or Vic.mp3",
+          "time": "895",
+          "size": "14325408"
+        },
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (29) Jack Lands The Plane.mp3",
+          "time": "848",
+          "size": "6784861"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "029 Water Cans Drained.flac",
+          "time": "893",
+          "size": "37901240"
+        }
+      ]
+    },
+    {
+      "ide": "56669",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann and Jack Search for the Hoodlums"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of The Airlines xxxxxx 003 (96-44)_OTRRPG.mp3",
+          "time": "763",
+          "size": "9164503"
+        },
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (03) A Look Through The Rogues Gallery.mp3",
+          "time": "885",
+          "size": "21250058"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "003 Car Spotted.flac",
+          "time": "891",
+          "size": "40558119"
+        }
+      ]
+    },
+    {
+      "ide": "165953",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Carp In The Ocean"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (30) Carp In The Ocean.mp3",
+          "time": "850",
+          "size": "6797962"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "030 Fresh Water Found.flac",
+          "time": "890",
+          "size": "38343024"
+        }
+      ]
+    },
+    {
+      "ide": "165954",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack And Ann Stranded On A Small Island"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (31) The Secret Of The Cardozas.mp3",
+          "time": "897",
+          "size": "14359677"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "031 Cardoza Revived.flac",
+          "time": "894",
+          "size": "35145750"
+        }
+      ]
+    },
+    {
+      "ide": "165955",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Diamond Smugglers"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (32) Stampede.mp3",
+          "time": "896",
+          "size": "14333746"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "032 Horseman.flac",
+          "time": "887",
+          "size": "37357463"
+        }
+      ]
+    },
+    {
+      "ide": "165956",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flying Through The Fog!"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (33) Flying Through The Fog.mp3",
+          "time": "897",
+          "size": "14358838"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "033 Fog Bank.flac",
+          "time": "892",
+          "size": "36673290"
+        }
+      ]
+    },
+    {
+      "ide": "165957",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Scuttling The Aircat Plane"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (34) Pete Explains The New Altimeter.mp3",
+          "time": "897",
+          "size": "14352577"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "034 Aircraft Follows.flac",
+          "time": "887",
+          "size": "36507799"
+        }
+      ]
+    },
+    {
+      "ide": "165958",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "165959",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "165960",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "165961",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "165962",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56668",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann and Jack Takeoff in the Aircat"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (04) Vic & Joe Frame Jack.mp3",
+          "time": "896",
+          "size": "21499914"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "004 Fly To Miami.flac",
+          "time": "892",
+          "size": "40541980"
+        }
+      ]
+    },
+    {
+      "ide": "165963",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "165964",
+      "date": "0000-00-00",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann Captured By Natives"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (41) Has Pete Landed Nearby.mp3",
+          "time": "893",
+          "size": "14292800"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "041 Black Diamonds.flac",
+          "time": "894",
+          "size": "36561872"
+        }
+      ]
+    },
+    {
+      "ide": "165965",
+      "date": "0000-00-00",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hidden Airfield, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (42) Joe Introduces Hank Tuttle.mp3",
+          "time": "900",
+          "size": "14398965"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "042 Aircraft Lands.flac",
+          "time": "884",
+          "size": "37019562"
+        }
+      ]
+    },
+    {
+      "ide": "165966",
+      "date": "0000-00-00",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Their Way To Africa"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (43) Dr Tyler Says Too Much.mp3",
+          "time": "891",
+          "size": "14261035"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "043 In Bermuda.flac",
+          "time": "885",
+          "size": "35182914"
+        }
+      ]
+    },
+    {
+      "ide": "165967",
+      "date": "0000-00-00",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Flying In The Aircat"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (44) Zeb Explains What Really Happened With Chief Abtak.mp3",
+          "time": "896",
+          "size": "14340057"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "044 Signal Finder.flac",
+          "time": "890",
+          "size": "37410571"
+        }
+      ]
+    },
+    {
+      "ide": "165968",
+      "date": "0000-00-00",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Landing In Trinidad"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (45) Pete Lands In Trinidad.mp3",
+          "time": "896",
+          "size": "14342537"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "045 Rudder Spotted.flac",
+          "time": "884",
+          "size": "36160110"
+        }
+      ]
+    },
+    {
+      "ide": "165969",
+      "date": "0000-00-00",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deserted Transport Ship, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (46) The Deserted Transport Ship.mp3",
+          "time": "895",
+          "size": "14319972"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "046 Smuggling Ring.flac",
+          "time": "883",
+          "size": "38004419"
+        }
+      ]
+    },
+    {
+      "ide": "165970",
+      "date": "0000-00-00",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Landing On Inaccessible Island"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (47) Landing On Inaccessible Island.mp3",
+          "time": "898",
+          "size": "14360935"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "047 Volcano Pit.flac",
+          "time": "884",
+          "size": "36101816"
+        }
+      ]
+    },
+    {
+      "ide": "165971",
+      "date": "0000-00-00",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bottomless Volcano PIt, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (48) The Bottomless Volcano PIt.mp3",
+          "time": "897",
+          "size": "14344631"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "048 Cave Discovered.flac",
+          "time": "885",
+          "size": "36296485"
+        }
+      ]
+    },
+    {
+      "ide": "165972",
+      "date": "0000-00-00",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Zeb Gets The Gasoline"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (49) Pete's Clever Idea.mp3",
+          "time": "895",
+          "size": "14325815"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "049 Getting Supplies.flac",
+          "time": "891",
+          "size": "43413454"
+        }
+      ]
+    },
+    {
+      "ide": "56667",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "165973",
+      "date": "0000-00-00",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Capetown, South Africa"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (50) Heading For Capetown .mp3",
+          "time": "899",
+          "size": "14378480"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "050 Taking Off.flac",
+          "time": "887",
+          "size": "44724174"
+        }
+      ]
+    },
+    {
+      "ide": "165974",
+      "date": "0000-00-00",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doc Goes To East Angola"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (51) Jack & Ann Learn About Kobu.mp3",
+          "time": "896",
+          "size": "21495818"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "051 Coast Of Africa.flac",
+          "time": "889",
+          "size": "46900800"
+        }
+      ]
+    },
+    {
+      "ide": "165975",
+      "date": "0000-00-00",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Talking Drums, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (52) The White Angel.mp3",
+          "time": "900",
+          "size": "14407690"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "052 Kobul Worships Ann.flac",
+          "time": "891",
+          "size": "45750004"
+        }
+      ]
+    },
+    {
+      "ide": "165976",
+      "date": "0000-00-00",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Making Kobu Talk Again"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (53) Ann Must Cure Kobu Or Die.mp3",
+          "time": "899",
+          "size": "14376813"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "053 White Goddess.flac",
+          "time": "895",
+          "size": "35209712"
+        }
+      ]
+    },
+    {
+      "ide": "165977",
+      "date": "0000-00-00",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann Diagnoses Kobus Problem"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (54) White Angel's Magic.mp3",
+          "time": "899",
+          "size": "14378060"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "054 Voice Restored.flac",
+          "time": "893",
+          "size": "37218540"
+        }
+      ]
+    },
+    {
+      "ide": "165978",
+      "date": "0000-00-00",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arriving In East Angloa"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (55) Aunt Hattie & Bobby Arrive In Angola.mp3",
+          "time": "895",
+          "size": "14327086"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "055 Dr. Tyler Lands.flac",
+          "time": "894",
+          "size": "36463056"
+        }
+      ]
+    },
+    {
+      "ide": "165979",
+      "date": "0000-00-00",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bobby Disappears"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (56) Bobby Disappears.mp3",
+          "time": "897",
+          "size": "14355488"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "056 Bobby Is Lost.flac",
+          "time": "895",
+          "size": "37844344"
+        }
+      ]
+    },
+    {
+      "ide": "165980",
+      "date": "0000-00-00",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bobby Is With Swanga"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (57) Bobby Meets Sawonga.mp3",
+          "time": "895",
+          "size": "14312859"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "057 Bobby & Suwanka.flac",
+          "time": "889",
+          "size": "36178380"
+        }
+      ]
+    },
+    {
+      "ide": "165981",
+      "date": "0000-00-00",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bobby And Swanga Trapped"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (58) Bobby And Sawonga Are Trapped In A Lion Pit.mp3",
+          "time": "896",
+          "size": "14335453"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "058 In Lion Pit.flac",
+          "time": "892",
+          "size": "37800215"
+        }
+      ]
+    },
+    {
+      "ide": "165982",
+      "date": "0000-00-00",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rescued From The Lion Pit"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (59) Rescued By George Ross.mp3",
+          "time": "897",
+          "size": "14347552"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "059 Rescue By George.flac",
+          "time": "894",
+          "size": "37096634"
+        }
+      ]
+    },
+    {
+      "ide": "56666",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "165983",
+      "date": "0000-00-00",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bobby Is Reunited With Friends"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (60) Bobby Is Reunited With Friends.mp3",
+          "time": "900",
+          "size": "14393954"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "060 Reunion.flac",
+          "time": "891",
+          "size": "37775786"
+        }
+      ]
+    },
+    {
+      "ide": "165984",
+      "date": "0000-00-00",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Dr. Tyler Ã¢ÂÂThe DocÃ¢ÂÂ"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (61) Sawonga Confronts Dr Tyler.mp3",
+          "time": "897",
+          "size": "14349646"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "061 Two Doctors.flac",
+          "time": "892",
+          "size": "37273305"
+        }
+      ]
+    },
+    {
+      "ide": "165985",
+      "date": "0000-00-00",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Finding Kay, Pete, and Zeb"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (62) Sugar Loaf Hill.mp3",
+          "time": "899",
+          "size": "14386834"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "062 Sugar Loat Hill.flac",
+          "time": "886",
+          "size": "38123725"
+        }
+      ]
+    },
+    {
+      "ide": "165986",
+      "date": "0000-00-00",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Finding George"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (63) Ancient Temple Spotted.mp3",
+          "time": "899",
+          "size": "14388095"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "063 Temple Spotted.flac",
+          "time": "885",
+          "size": "39220779"
+        }
+      ]
+    },
+    {
+      "ide": "165987",
+      "date": "0000-00-00",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Searching the African Temple"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (64) Dr Tyler Captured.mp3",
+          "time": "899",
+          "size": "14378894"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "064 Dr. Tyler Captured.flac",
+          "time": "890",
+          "size": "37072184"
+        }
+      ]
+    },
+    {
+      "ide": "165988",
+      "date": "0000-00-00",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Captured by Hanz"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann Of The Airlanes 1935-xx-xx (65) Ann's Telegram.mp3",
+          "time": "897",
+          "size": "14353396"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "065 Ann's Telegram.flac",
+          "time": "888",
+          "size": "37241390"
+        }
+      ]
+    },
+    {
+      "ide": "56665",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann Wants To Be An Air Hostess"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (07) Ann Wants To Be An Air Hostess.mp3",
+          "time": "844",
+          "size": "6748470"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "007 The Stowaway.flac",
+          "time": "894",
+          "size": "36512178"
+        }
+      ]
+    },
+    {
+      "ide": "56664",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aunt Hattie Stows Away"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (08) Aunt Hattie Stows Away.mp3",
+          "time": "850",
+          "size": "6801294"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "008 Radio Room.flac",
+          "time": "894",
+          "size": "35042108"
+        }
+      ]
+    },
+    {
+      "ide": "56663",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jack's Brother Tries To Help"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Ann Of The Airlanes",
+          "name": "Ann of the Airlanes 35-xx-xx (09) Jack's Brother Tries To Help.mp3",
+          "time": "850",
+          "size": "6798596"
+        },
+        {
+          "path": "Curated",
+          "folder": "annAirlanes",
+          "name": "009 Room Is Gone.flac",
+          "time": "898",
+          "size": "35244288"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Action"
+    },
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Ann Of The Airlanes"
+    }
+  ]
+}

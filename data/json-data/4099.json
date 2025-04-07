@@ -1,0 +1,216 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3592",
+      "first": "Gene",
+      "last": "Lockhart",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3594",
+      "first": "Kathleen",
+      "last": "Lockhart",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "324",
+      "first": "John",
+      "last": "Barclay",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2545",
+      "first": "Charles",
+      "last": "Harrison",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4779",
+      "first": "Walter",
+      "last": "Preston",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7076",
+      "first": "Rhoda",
+      "last": "Arnold",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7077",
+      "first": "Crane",
+      "last": "Calder",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7318",
+      "first": "Mary",
+      "last": "McCoy",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7389",
+      "first": "Mary",
+      "last": "Hopple",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "41313",
+      "first": "Ivy",
+      "last": "Scott",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "45155",
+      "first": "Channon",
+      "last": "Collinge",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "49414",
+      "first": "Harold",
+      "last": "Branch",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50412",
+      "first": "Theo",
+      "last": "Karle",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50413",
+      "first": "Barbara",
+      "last": "Maurel",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50414",
+      "first": "Charles",
+      "last": "Pearson",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "322893",
+      "date": "1944-09-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yeomen Of The Guard"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gilbert and Sullivan",
+          "name": "Gilbert and Sullivan 1944.09.06 Yeomen Of The Guard.mp3",
+          "time": "3524",
+          "size": "14202166"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1931-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1933-00-00",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Caswell Coffee",
+      "begin": "1931-00-00",
+      "end": "1933-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Gilbert And Sullivan Opera"
+    },
+    {
+      "title": "Gilbert and Sullivan Breakfast Hour"
+    },
+    {
+      "title": "Gilbert and Sullivan Gems"
+    },
+    {
+      "title": "Light Opera Gems"
+    }
+  ]
+}

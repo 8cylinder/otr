@@ -1,0 +1,117 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,885948,00.html",
+      "label": "1942-03-09: News and Newscasts",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2853",
+      "first": "John B.",
+      "last": "Hughes",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "174631",
+      "date": "1941-07-14",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Topic - Irish Wit"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "174632",
+      "date": "1943-10-10",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "First Topic - Jail"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1941-07-14",
+      "dow": "",
+      "time": "",
+      "end": "1943-10-10",
+      "length": "0",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Aspertine",
+      "begin": "1941-07-14",
+      "end": "1943-10-10"
+    }
+  ],
+  "titles": [
+    {
+      "title": "John B. Hughes"
+    }
+  ]
+}

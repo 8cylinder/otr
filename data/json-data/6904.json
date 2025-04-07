@@ -1,0 +1,582 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/O Series/O'Hara/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/ohara_sw.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logo1013.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.thrillingdetective.com/eyes/ohara.html",
+      "label": "Thrilling Detective - Bob O'Hara",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "West coast only."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "2544",
+      "first": "Stacy",
+      "last": "Harris",
+      "f": "Noted Role",
+      "character": "Bob O'Hara (Second Run)"
+    },
+    {
+      "idperson": "4292",
+      "first": "Jack",
+      "last": "Moyles",
+      "f": "Noted Role",
+      "character": "Bob O'Hara"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "584",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1989-05-01",
+      "source": "Illustrated Press/IP_152.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #152 May 89",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2822",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Radio Programs, 1924-1984. A Catalog of Over 1800 Shows",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "84",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT--",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "A newspaper man in the Far East."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "251646",
+      "date": "1951-04-07",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Kowloon Hijack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113738",
+      "date": "1951-04-14",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marked Man, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113739",
+      "date": "1951-04-21",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "See Paris and Die"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113740",
+      "date": "1951-04-28",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Train for Sinkiang"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113741",
+      "date": "1951-05-05",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Snow White Cobra"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113742",
+      "date": "1951-05-12",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Flight into Fear"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113743",
+      "date": "1951-05-19",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Strange Cargo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113744",
+      "date": "1951-05-26",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dragon's Kill, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113745",
+      "date": "1951-06-02",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Forbidden Passport"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113746",
+      "date": "1951-06-09",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "China Fury"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113747",
+      "date": "1951-06-16",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Kai Tak Crossroads"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "113748",
+      "date": "1951-06-23",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lost Boy, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "O'Hara",
+          "name": "O'Hara 56-10-29 (12) The Lost Boy.mp3",
+          "time": "1761",
+          "size": "8806699"
+        }
+      ]
+    },
+    {
+      "ide": "251643",
+      "date": "1951-06-30",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "His Majesty's Traitor"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251650",
+      "date": "1951-07-08",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Search for the Syrian"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251647",
+      "date": "1951-07-15",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Passage of the Molly-Q"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251645",
+      "date": "1951-07-22",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Judas Face, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "O",
+          "folder": "O'Hara",
+          "name": "O'Hara 51-07-22 Judas Face (Audition).mp3",
+          "time": "1687",
+          "size": "6749641"
+        }
+      ]
+    },
+    {
+      "ide": "251640",
+      "date": "1951-07-29",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Bombs along Yu Yan Road"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251642",
+      "date": "1951-08-05",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Fate of the Frisco Coolie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251653",
+      "date": "1951-08-12",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Wish of Y. Chat Key, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251651",
+      "date": "1951-08-19",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Square of Silk, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251639",
+      "date": "1951-08-26",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Assignment Assassination"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251652",
+      "date": "1951-09-02",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Terror Orientale"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251649",
+      "date": "1951-09-09",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Return of Sun Wah Kee, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251644",
+      "date": "1951-09-16",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Honey Blonde Pirate, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251648",
+      "date": "1951-09-23",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Passport to Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251641",
+      "date": "1951-09-30",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death for the Dollar"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "251635",
+      "date": "1951-10-07",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "251636",
+      "date": "1951-10-14",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "251637",
+      "date": "1951-10-21",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "251638",
+      "date": "1951-10-28",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "113737",
+      "date": "1956-05-20",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Visa Vice Versa"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1951-04-06",
+      "dow": "Sa",
+      "time": "9:35 PM",
+      "end": "1951-06-30",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1951-07-08",
+      "dow": "Su",
+      "time": "8:30 PM",
+      "end": "1951-09-16",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1951-09-23",
+      "dow": "Su",
+      "time": "7:00 PM",
+      "end": "1951-09-30",
+      "length": "25",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1956-05-20",
+      "dow": "Su",
+      "time": "6:04 PM",
+      "end": "1956-07-01",
+      "length": "25",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1956-10-01",
+      "dow": "M",
+      "time": "8:30 PM",
+      "end": "1956-10-29",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1951-04-07",
+      "end": "1955-10-29"
+    }
+  ],
+  "titles": [
+    {
+      "title": "O'Hara"
+    }
+  ]
+}

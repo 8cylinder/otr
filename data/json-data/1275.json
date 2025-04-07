@@ -1,0 +1,174 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2709",
+      "first": "Benny",
+      "last": "Hill",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "321461",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pick Of The Week"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321456",
+      "date": "1964-02-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Woman On The Street Interview"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Hill Time",
+          "name": "Benny Hill Time 1964.02.23 Woman On The Street Interview.mp3",
+          "time": "1551",
+          "size": "6313404"
+        }
+      ]
+    },
+    {
+      "ide": "321457",
+      "date": "1964-03-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Series 1 Episode 4"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Hill Time",
+          "name": "Benny Hill Time 1964.03.15 Series 1 Episode 4.mp3",
+          "time": "1248",
+          "size": "5100151"
+        }
+      ]
+    },
+    {
+      "ide": "321458",
+      "date": "1964-03-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Business Tycoon"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Hill Time",
+          "name": "Benny Hill Time 1964.03.16 Big Business Tycoon.mp3",
+          "time": "1783",
+          "size": "7241253"
+        }
+      ]
+    },
+    {
+      "ide": "321459",
+      "date": "1964-03-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Series 1 Episode 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Benny Hill Time",
+          "name": "Benny Hill Time 1964.03.22 Series 1 Episode 5.mp3",
+          "time": "1777",
+          "size": "7216383"
+        }
+      ]
+    },
+    {
+      "ide": "321460",
+      "date": "1964-04-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Series 1 Episode 7"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "321462",
+      "date": "1965-03-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Series 2 Episode 4"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Benny Hill Time"
+    }
+  ]
+}

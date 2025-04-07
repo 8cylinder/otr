@@ -1,0 +1,102 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2317",
+      "first": "Billy",
+      "last": "Graham",
+      "f": "Noted Role",
+      "character": "Preacher"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1647",
+      "idtype": "4",
+      "page": "18",
+      "article": "",
+      "url": "",
+      "date": "2000-07-01",
+      "source": "OTR Digest_1990s/OTRDigest_(094)Summer00.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (94) Summer 2000",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1950-00-00",
+      "dow": "Su",
+      "time": "2:00 PM",
+      "end": "1950-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1951-00-00",
+      "dow": "Su",
+      "time": "3:30 PM",
+      "end": "1956-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1954-00-00",
+      "dow": "Su",
+      "time": "10:00 PM",
+      "end": "1956-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1960-00-00",
+      "dow": "Su",
+      "time": "",
+      "end": "1960-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hour of Decision"
+    }
+  ]
+}

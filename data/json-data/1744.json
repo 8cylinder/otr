@@ -1,0 +1,554 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Brownstone Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Brownstone-Theater.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-1744-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "437",
+      "first": "Jackson",
+      "last": "Beck",
+      "f": "Noted Role",
+      "character": "Leading roles"
+    },
+    {
+      "idperson": "2466",
+      "first": "Clayton",
+      "last": "Hamilton",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "3517",
+      "first": "Sylvan",
+      "last": "Levin",
+      "f": "Noted Role",
+      "character": "Musical director"
+    },
+    {
+      "idperson": "6199",
+      "first": "Gertrude",
+      "last": "Warner",
+      "f": "Noted Role",
+      "character": "Leading roles"
+    },
+    {
+      "idperson": "3725",
+      "first": "Jock",
+      "last": "MacGregor",
+      "f": "Director",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "33239",
+      "date": "1945-02-21",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lion and the Mouse, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Brownstone Theater",
+          "name": "Brownstone Theater 45-02-21 (01) The Lion and the Mouse.mp3",
+          "time": "1635",
+          "size": "6543380"
+        }
+      ]
+    },
+    {
+      "ide": "33240",
+      "date": "1945-02-28",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Witching Hour, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33241",
+      "date": "1945-03-07",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "David Garrick"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33242",
+      "date": "1945-03-14",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cinderella Man, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Brownstone Theater",
+          "name": "Brownstone Theater 45-03-14 (04) The Cinderella Man.mp3",
+          "time": "1744",
+          "size": "13951175"
+        }
+      ]
+    },
+    {
+      "ide": "33243",
+      "date": "1945-03-21",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Doll's House, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33244",
+      "date": "1945-03-28",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Polly at the Circus"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Brownstone Theater",
+          "name": "Brownstone Theater 45-03-28 (06) Polly at the Circus.mp3",
+          "time": "1886",
+          "size": "15086363"
+        }
+      ]
+    },
+    {
+      "ide": "33245",
+      "date": "1945-04-04",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "If I Were King"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33246",
+      "date": "1945-04-11",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "If I Were King"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33247",
+      "date": "1945-04-18",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Madame X"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33248",
+      "date": "1945-04-25",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Scrap of Paper, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33249",
+      "date": "1945-05-02",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mrs Dane's Defense"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33250",
+      "date": "1945-05-09",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boomerang, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33251",
+      "date": "1945-05-16",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prisoner of Zenda, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Brownstone Theater",
+          "name": "Brownstone Theater 45-05-16 (13) The Prisoner of Zenda.mp3",
+          "time": "1843",
+          "size": "11056092"
+        }
+      ]
+    },
+    {
+      "ide": "33252",
+      "date": "1945-05-23",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Daddy Long Legs"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33253",
+      "date": "1945-05-30",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Without a Country"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33254",
+      "date": "1945-06-06",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fortune Hunter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33255",
+      "date": "1945-06-13",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cyrano de Bergerac"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Brownstone Theater",
+          "name": "Brownstone Theater 45-06-13 (17) Cyrano de Bergerac.mp3",
+          "time": "1783",
+          "size": "7134168"
+        }
+      ]
+    },
+    {
+      "ide": "33256",
+      "date": "1945-07-08",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cappy Ricks"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33257",
+      "date": "1945-07-15",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curtain Rises"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33258",
+      "date": "1945-07-22",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rainbow, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33259",
+      "date": "1945-07-29",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Curtain Rises"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33260",
+      "date": "1945-08-05",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cinderella Man, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33261",
+      "date": "1945-08-12",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Only Way, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33262",
+      "date": "1945-08-19",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gay Nineties Revival, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33263",
+      "date": "1945-08-26",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "33264",
+      "date": "1945-09-02",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death Takes A Holiday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "33265",
+      "date": "1945-09-09",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "33266",
+      "date": "1945-09-16",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "33267",
+      "date": "1945-09-23",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Last Episode"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-02-21",
+      "dow": "W",
+      "time": "9:30 PM",
+      "end": "1945-06-13",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1945-07-08",
+      "dow": "W",
+      "time": "9:30 AM",
+      "end": "1945-09-23",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Brownstone Theatre"
+    },
+    {
+      "title": "Brownstone Theatre, The"
+    }
+  ]
+}

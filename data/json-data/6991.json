@@ -1,0 +1,152 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5349",
+      "first": "Lisa",
+      "last": "Sergio",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "7770",
+      "first": "Bill",
+      "last": "Abernathy",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "47138",
+      "first": "Deric",
+      "last": "Leighton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3446",
+      "first": "Eva",
+      "last": "Le Gallienne",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5349",
+      "first": "Lisa",
+      "last": "Sergio",
+      "f": "Noted Role",
+      "character": "Emcee"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Talk Show"
+    },
+    {
+      "genre": "Discussion"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-10-30",
+      "dow": "M",
+      "time": "10:45 AM",
+      "end": "1946-04-22",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1940-10-30",
+      "dow": "M",
+      "time": "10:45 AM",
+      "end": "1942-04-22",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Botany",
+      "begin": "1944-10-30",
+      "end": "1946-04-22"
+    }
+  ],
+  "titles": [
+    {
+      "title": "One Woman's Opinion"
+    },
+    {
+      "title": "Lisa Sergio"
+    }
+  ]
+}

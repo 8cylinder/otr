@@ -1,0 +1,894 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/K Series/Komedy Kingdom/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Komedy-Kingdom.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Komedy-Kingdom.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "39606",
+      "first": "Elvia",
+      "last": "Allman",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "248987",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Royalty"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37xxxx 001 Royalty_OTRRPG.mp3",
+          "time": "882",
+          "size": "14188229"
+        },
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (01) Royalty.mp3",
+          "time": "884",
+          "size": "7072495"
+        }
+      ]
+    },
+    {
+      "ide": "89726",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "History"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (10) History .mp3",
+          "time": "867",
+          "size": "6934887"
+        }
+      ]
+    },
+    {
+      "ide": "89725",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gay Nineties, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (11) The Gay Nineties .mp3",
+          "time": "867",
+          "size": "6933016"
+        }
+      ]
+    },
+    {
+      "ide": "89724",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Singing"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (12) Singing .mp3",
+          "time": "864",
+          "size": "6916288"
+        }
+      ]
+    },
+    {
+      "ide": "89723",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "89722",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Weather"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (14) Weather .mp3",
+          "time": "861",
+          "size": "6886822"
+        }
+      ]
+    },
+    {
+      "ide": "89721",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (16) Love .mp3",
+          "time": "863",
+          "size": "6906045"
+        }
+      ]
+    },
+    {
+      "ide": "89720",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "School Days"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (17) School Days .mp3",
+          "time": "863",
+          "size": "6906261"
+        }
+      ]
+    },
+    {
+      "ide": "89719",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vacations"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (18) Vacations .mp3",
+          "time": "859",
+          "size": "6875330"
+        }
+      ]
+    },
+    {
+      "ide": "89718",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sailors"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (19) Sailors .mp3",
+          "time": "856",
+          "size": "6845444"
+        }
+      ]
+    },
+    {
+      "ide": "89734",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marriage"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37xxxx 002 Marriage_OTRRPG.mp3",
+          "time": "896",
+          "size": "14421451"
+        },
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (02) Marriage.mp3",
+          "time": "899",
+          "size": "7189105"
+        }
+      ]
+    },
+    {
+      "ide": "89716",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pets"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (20) Pets .mp3",
+          "time": "860",
+          "size": "6883475"
+        }
+      ]
+    },
+    {
+      "ide": "89717",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fashion"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (21) Fashion.mp3",
+          "time": "870",
+          "size": "6964143"
+        }
+      ]
+    },
+    {
+      "ide": "89715",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gardens"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (22) Gardens .mp3",
+          "time": "875",
+          "size": "7002597"
+        }
+      ]
+    },
+    {
+      "ide": "89714",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Afternoons"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (23) Afternoons .mp3",
+          "time": "883",
+          "size": "7064040"
+        }
+      ]
+    },
+    {
+      "ide": "89713",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hobbies"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (24) Hobbies .mp3",
+          "time": "864",
+          "size": "6912318"
+        }
+      ]
+    },
+    {
+      "ide": "89712",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Personality"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 370510 025 Personality (128-48)_OTRRPG.mp3",
+          "time": "878",
+          "size": "14130173"
+        },
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (25) Personality .mp3",
+          "time": "859",
+          "size": "6872197"
+        }
+      ]
+    },
+    {
+      "ide": "89711",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Orient, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 370512 026 The Orient (128-48)_OTRRPG.mp3",
+          "time": "870",
+          "size": "13991164"
+        },
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (26) The Orient .mp3",
+          "time": "850",
+          "size": "6804487"
+        }
+      ]
+    },
+    {
+      "ide": "89710",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Explorers"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 370514 027 Explorers (128-48)_OTRRPG.mp3",
+          "time": "888",
+          "size": "14279163"
+        },
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (27) Explorers .mp3",
+          "time": "868",
+          "size": "6948473"
+        }
+      ]
+    },
+    {
+      "ide": "89709",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hecklers"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 370517 028 Hecklers (128-48)_OTRRPG.mp3",
+          "time": "891",
+          "size": "14339066"
+        },
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (28) Hecklers .mp3",
+          "time": "871",
+          "size": "6970624"
+        },
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom xx-xx-xx (28) Hecklers.mp3",
+          "time": "894",
+          "size": "7148847"
+        }
+      ]
+    },
+    {
+      "ide": "89708",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beauty"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (29) Beauty .mp3",
+          "time": "869",
+          "size": "8687764"
+        }
+      ]
+    },
+    {
+      "ide": "89733",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sports"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (03) Sports .mp3",
+          "time": "860",
+          "size": "6878670"
+        }
+      ]
+    },
+    {
+      "ide": "89707",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Moods"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (30) Moods .mp3",
+          "time": "887",
+          "size": "8876180"
+        }
+      ]
+    },
+    {
+      "ide": "89706",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hitch Hikers"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (31) Hitch Hikers .mp3",
+          "time": "852",
+          "size": "6815356"
+        }
+      ]
+    },
+    {
+      "ide": "89705",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reducing"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (32) Reducing .mp3",
+          "time": "875",
+          "size": "7003016"
+        }
+      ]
+    },
+    {
+      "ide": "89704",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Money"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (33) Money .mp3",
+          "time": "861",
+          "size": "6889746"
+        }
+      ]
+    },
+    {
+      "ide": "89703",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Broadcasting"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (34) Broadcasting .mp3",
+          "time": "876",
+          "size": "7006572"
+        }
+      ]
+    },
+    {
+      "ide": "89702",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Farmers"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (35) Farmers .mp3",
+          "time": "876",
+          "size": "7005731"
+        }
+      ]
+    },
+    {
+      "ide": "89701",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Seasons, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (36) The Seasons .mp3",
+          "time": "855",
+          "size": "6837089"
+        }
+      ]
+    },
+    {
+      "ide": "89700",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Travel Bureaus"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (37) Travel Bureaus .mp3",
+          "time": "874",
+          "size": "6994662"
+        }
+      ]
+    },
+    {
+      "ide": "89699",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sweethearts"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (38) Sweethearts .mp3",
+          "time": "850",
+          "size": "6799473"
+        }
+      ]
+    },
+    {
+      "ide": "89698",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ghosts"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (39) Ghosts .mp3",
+          "time": "864",
+          "size": "6914615"
+        }
+      ]
+    },
+    {
+      "ide": "89732",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (04) Music .mp3",
+          "time": "851",
+          "size": "6805108"
+        }
+      ]
+    },
+    {
+      "ide": "89730",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Movies"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (05) Movies .mp3",
+          "time": "873",
+          "size": "6981697"
+        }
+      ]
+    },
+    {
+      "ide": "89731",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Geography"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (06) Geography .mp3",
+          "time": "853",
+          "size": "6823920"
+        }
+      ]
+    },
+    {
+      "ide": "89729",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Etiquette"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 370329 007 Etiquette (128-48)_OTRRPG.mp3",
+          "time": "877",
+          "size": "14114043"
+        },
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (07) Etiquette.mp3",
+          "time": "853",
+          "size": "6828099"
+        }
+      ]
+    },
+    {
+      "ide": "89728",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dancing"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 370331 008 Dancing (128-48)_OTRRPG.mp3",
+          "time": "890",
+          "size": "14318329"
+        },
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (08) Dancing .mp3",
+          "time": "865",
+          "size": "6922139"
+        }
+      ]
+    },
+    {
+      "ide": "89727",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Restaurants"
+        }
+      ],
+      "files": [
+        {
+          "path": "K",
+          "folder": "Komedy Kingdom",
+          "name": "Komedy Kingdom 37-xx-xx (09) Restaurants.mp3",
+          "time": "861",
+          "size": "6892257"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "Campbell Soups",
+      "begin": "1937-03-15",
+      "end": "1937-06-11"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Komedy Kingdom"
+    }
+  ]
+}

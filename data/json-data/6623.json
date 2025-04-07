@@ -1,0 +1,356 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "2775",
+      "web": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "source": "Grams Jr., Martin",
+      "idpytype": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mystery In The Air (1947)/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Mystery-In-The-Air.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Broadcast while 'Abbott and Costello' was on haitus."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "3634",
+      "first": "Peter",
+      "last": "Lorre",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4249",
+      "first": "Henry",
+      "last": "Morgan",
+      "f": "Noted Role",
+      "character": "Voice of Mystery"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2775",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "This series presented a different tale of horror each week."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "286496",
+      "date": "1947-07-03",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Tell-Tell Heart (anthology series starring and hosted by Peter Lorre), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286497",
+      "date": "1947-07-10",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Leiningen Versus The Ants"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286498",
+      "date": "1947-07-17",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Touch Of Your Hand, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286499",
+      "date": "1947-07-24",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Interruption, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286500",
+      "date": "1947-07-31",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No-Body Loves Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286501",
+      "date": "1947-08-07",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Barrastro, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery in the Air 47-08-07 (06) The Marvelous Barastro.mp3",
+          "time": "1704",
+          "size": "27272759"
+        }
+      ]
+    },
+    {
+      "ide": "286502",
+      "date": "1947-08-14",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lodger, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery In The Air 470814 002 The Lodger (C).mp3",
+          "time": "1784",
+          "size": "57140468"
+        },
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery In The Air 470814 002 The Lodger (C).mp3",
+          "time": "1784",
+          "size": "57140468"
+        }
+      ]
+    },
+    {
+      "ide": "286503",
+      "date": "1947-08-21",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Horla, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery In The Air 470821 03 The Horla_OTRRPG.mp3",
+          "time": "1828",
+          "size": "29252873"
+        },
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery in the Air 47-08-21 (08) The Horla.mp3",
+          "time": "1682",
+          "size": "26919175"
+        }
+      ]
+    },
+    {
+      "ide": "286504",
+      "date": "1947-08-28",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beyond Good and Evil"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery In The Air 470828 04 Beyond Good And Evil_OTRRPG.mp3",
+          "time": "1823",
+          "size": "29170535"
+        },
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery in the Air 47-08-28 (09) Beyond Good and Evil.mp3",
+          "time": "1777",
+          "size": "28430934"
+        }
+      ]
+    },
+    {
+      "ide": "286505",
+      "date": "1947-09-04",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mask of Medusa, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery In The Air 470904 10 The Mask of Medusa_OTRRPG.mp3",
+          "time": "1741",
+          "size": "27933266"
+        },
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery in the Air 47-09-04 (10) The Mask of Medusa.mp3",
+          "time": "1771",
+          "size": "28336706"
+        }
+      ]
+    },
+    {
+      "ide": "286506",
+      "date": "1947-09-11",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Queen of Spades, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery in the Air 47-09-11 (11) The Queen of Spades.mp3",
+          "time": "1779",
+          "size": "28457079"
+        }
+      ]
+    },
+    {
+      "ide": "286507",
+      "date": "1947-09-18",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Black Cat, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery In The Air 470918 12 The Black Cat_OTRRPG.mp3",
+          "time": "1736",
+          "size": "27852419"
+        },
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery in the Air 47-09-18 (12) The Black Cat.mp3",
+          "time": "1719",
+          "size": "27505380"
+        }
+      ]
+    },
+    {
+      "ide": "286508",
+      "date": "1947-09-25",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crime and Punishment"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mystery In The Air (1947)",
+          "name": "Mystery in the Air 47-09-25 (13) Crime and Punishment.mp3",
+          "time": "1754",
+          "size": "28064384"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Horror"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-07-03",
+      "dow": "Th",
+      "time": "10:30 PM",
+      "end": "1947-09-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "R. J. Reynolds Camel Cigarettes",
+      "begin": "1947-06-03",
+      "end": "1947-09-25"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Mystery in the Air - 1947"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Cloud%20Nine/",
+      "label": "Library Files",
+      "idtype": "16"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "317917",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A man looking for love visits Cloud Nine"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cloud Nine",
+          "name": "Cloud Nine 50-07-07 A man looking for love visits Cloud Nine.mp3",
+          "time": "2080",
+          "size": "16638761"
+        }
+      ]
+    },
+    {
+      "ide": "313008",
+      "date": "1950-03-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paris"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cloud Nine",
+          "name": "Cloud Nine 500314 xxx Paris_OTRRPG.mp3",
+          "time": "1798",
+          "size": "28852736"
+        },
+        {
+          "path": "C",
+          "folder": "Cloud Nine",
+          "name": "Cloud Nine 50-03-14 Paris.mp3",
+          "time": "1801",
+          "size": "14408768"
+        }
+      ]
+    },
+    {
+      "ide": "313009",
+      "date": "1950-03-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arizona"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cloud Nine",
+          "name": "Cloud Nine 500328 xxx Arizona_OTRRPG.mp3",
+          "time": "1830",
+          "size": "29280384"
+        },
+        {
+          "path": "C",
+          "folder": "Cloud Nine",
+          "name": "Cloud Nine 50-03-28 Arizona.mp3",
+          "time": "1830",
+          "size": "14639855"
+        }
+      ]
+    },
+    {
+      "ide": "322309",
+      "date": "1950-07-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Man Visits A Ghost Town On Cloud Nine"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cloud Nine",
+          "name": "Cloud Nine 1950.07.14 A Man Visits A Ghost Town On Cloud Nine.mp3",
+          "time": "1780",
+          "size": "7229578"
+        }
+      ]
+    },
+    {
+      "ide": "308315",
+      "date": "1950-07-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A man visits famous radio detectives  on Cloud Nine"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Cloud Nine",
+          "name": "Cloud Nine 50-07-21 A man visits famous radio detectives  on Cloud Nine.mp3",
+          "time": "2162",
+          "size": "17296937"
+        },
+        {
+          "path": "C",
+          "folder": "Cloud Nine",
+          "name": "Cloud Nine 50-07-14 A man visits a ghost town on Cloud Nine.mp3",
+          "time": "1441",
+          "size": "17292521"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1950-07-07",
+      "dow": "F",
+      "time": "8:00 AM",
+      "end": "1950-07-21",
+      "length": "0",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Cloud Nine"
+    }
+  ]
+}

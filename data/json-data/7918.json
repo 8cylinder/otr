@@ -1,0 +1,179 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Sammy Kaye Chrysler Showroom/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Sammy-Kaye-Showroom.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-7918-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3116",
+      "first": "Sammy",
+      "last": "Kaye",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "319983",
+      "date": "1958-09-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Steel Pier, Atlantic City, NJ"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sammy Kaye Chrysler Showroom",
+          "name": "Sammy Kaye 58-09-00 Steel Pier, Atlantic City, NJ.mp3",
+          "time": "870",
+          "size": "6962013"
+        }
+      ]
+    },
+    {
+      "ide": "319984",
+      "date": "1959-11-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Steel Pier, Atlantic City, NJ"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sammy Kaye Chrysler Showroom",
+          "name": "Sammy Kaye 59-11-00 Steel Pier, Atlantic City, NJ.mp3",
+          "time": "870",
+          "size": "6962650"
+        }
+      ]
+    },
+    {
+      "ide": "319985",
+      "date": "1960-05-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Shows In One"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sammy Kaye Chrysler Showroom",
+          "name": "Sammy Kaye 60-05-00 - 60-06-00 Two Shows In One.mp3",
+          "time": "1531",
+          "size": "12251500"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-05-16",
+      "dow": "M,W,F",
+      "time": "",
+      "end": "1949-11-09",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Chrysler Corporation",
+      "begin": "1949-05-16",
+      "end": "1949-11-09"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Sammy Kaye's Showroom"
+    }
+  ]
+}

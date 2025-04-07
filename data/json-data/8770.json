@@ -1,0 +1,145 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otr.com/teddrake.shtml",
+      "label": "Ted Drake, Guardian Of The Big Top",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "22555",
+      "first": "Vince",
+      "last": "Harding",
+      "f": "Noted Role",
+      "character": "Ted Drake"
+    },
+    {
+      "idperson": "27456",
+      "first": "Bob",
+      "last": "Larrimore",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "35512",
+      "first": "Fred",
+      "last": "Rains",
+      "f": "Noted Role",
+      "character": "Ted Drake's sidekick"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "763",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1998-11-01",
+      "source": "Illustrated Press/IP_264.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#264) - Nov 1998",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "247120",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ted Drake - Case Of The Invisible Thief"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Ted Drake Guardian Of The Big Top",
+          "name": "Ted Drake Guardian Of The Big Top 19xx.xx.xx The Case Of The Invisible Thief.mp3",
+          "time": "1806",
+          "size": "7333166"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-06-27",
+      "dow": "M,W,F",
+      "time": "5:00 PM",
+      "end": "1949-09-16",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Ted Drake, Guardian of the Big Top"
+    }
+  ]
+}

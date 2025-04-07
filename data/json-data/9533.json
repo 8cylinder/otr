@@ -1,0 +1,217 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/W Series/White Fires Of Inspiration/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4519",
+      "first": "Theodore 'Ted'",
+      "last": "Osborne",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6016",
+      "first": "Lurene",
+      "last": "Tuttle",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2226",
+      "first": "Art",
+      "last": "Gilmore",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2318",
+      "first": "Frank",
+      "last": "Graham",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2566",
+      "first": "Wilbur",
+      "last": "Hatch",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "320953",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alice in Wonderland"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "White Fires Of Inspiration",
+          "name": "White Fires Of Inspiration 37-xx-xx Alice in Wonderland.mp3",
+          "time": "1804",
+          "size": "7221856"
+        }
+      ]
+    },
+    {
+      "ide": "320954",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mary Ann Evans"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "White Fires Of Inspiration",
+          "name": "White Fires Of Inspiration 37-xx-xx Mary Ann Evans.mp3",
+          "time": "1730",
+          "size": "6925105"
+        }
+      ]
+    },
+    {
+      "ide": "320955",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Life of Stephen Foster"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "White Fires Of Inspiration",
+          "name": "White Fires Of Inspiration 38-10-10 The Life of Stephen Foster.mp3",
+          "time": "1805",
+          "size": "7224573"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-00-00",
+      "dow": "M",
+      "time": "",
+      "end": "1938-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1937-00-00",
+      "end": "1938-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "White Fires of Inspiration"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Appointment With Fear/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.britishdrama.org.uk/mib.html",
+      "label": "The Man in Black by Tony Lang",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.whirligig-tv.co.uk/radio/maninblack.htm",
+      "label": "1950's British Radio Nostalgia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-874-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "1229",
+      "idtype": "4",
+      "page": "46",
+      "article": "",
+      "url": "",
+      "date": "2001-01-01",
+      "source": "NARA News/Nara News V29 01 Winter2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 01 Winter2001",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Suspense Theme"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "267419",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Into Thin Air"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "267420",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Morning Glory"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "267421",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Markham, Antique Dealer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "267422",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Fate Cries Out"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "267424",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pit and the Pendulum, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "267423",
+      "date": "1944-05-18",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clock Strikes Eight, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Appointment With Fear",
+          "name": "Appointment With Fear 44-05-18 #xxx The Clock Strikes Eight.mp3",
+          "time": "1728",
+          "size": "8639899"
+        }
+      ]
+    },
+    {
+      "ide": "267418",
+      "date": "1945-11-20",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "And the Deep Shuddered"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Appointment With Fear",
+          "name": "Appointment With Fear 45-11-20 And The Deep Shuddered.mp3",
+          "time": "1540",
+          "size": "6162452"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Mystery"
+    },
+    {
+      "genre": "Science Fiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1943-09-11",
+      "dow": "",
+      "time": "",
+      "end": "1955-00-00",
+      "length": "0",
+      "country": "United Kingdom",
+      "network": "BBC"
+    },
+    {
+      "begin": "1976-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1977-00-00",
+      "length": "0",
+      "country": "United Kingdom",
+      "network": "BBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Appointment With Fear"
+    }
+  ]
+}

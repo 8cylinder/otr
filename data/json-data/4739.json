@@ -1,0 +1,112 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312327",
+      "date": "1947-03-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Mrs Larry Graves, Mrs Curtis Jackson"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Tour",
+          "name": "Hollywood Tour 470311 xxx Guest - Andy Russell (2)_OTRRPG.mp3",
+          "time": "861",
+          "size": "13852195"
+        },
+        {
+          "path": "H",
+          "folder": "Hollywood Tour",
+          "name": "Hollywood Tour 470311_OTRRPG.mp3",
+          "time": "807",
+          "size": "12924920"
+        },
+        {
+          "path": "H",
+          "folder": "Hollywood Tour",
+          "name": "Hollywood Tour 47-03-11 Guests - Mrs Larry Graves, Mrs Curtis Jackson.mp3",
+          "time": "869",
+          "size": "6953908"
+        }
+      ]
+    },
+    {
+      "ide": "312328",
+      "date": "1947-03-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guests - Ethel and Betty Duncan"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Tour",
+          "name": "Hollywood Tour 47-03-12 Guests - Ethel and Betty Duncan.mp3",
+          "time": "867",
+          "size": "6932692"
+        }
+      ]
+    },
+    {
+      "ide": "330508",
+      "date": "1947-04-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hollywood Tour"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hollywood Tour"
+    }
+  ]
+}

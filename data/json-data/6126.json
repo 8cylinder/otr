@@ -1,0 +1,153 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.thrillingdetective.com/mccoy_m.html",
+      "label": "Thrilling Detective",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1675",
+      "first": "Howard",
+      "last": "Duff",
+      "f": "Noted Role",
+      "character": "Mike McCoy"
+    },
+    {
+      "idperson": "3502",
+      "first": "Sheldon",
+      "last": "Leonard",
+      "f": "Noted Role",
+      "character": "Police Lieutenant"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "584",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1989-05-01",
+      "source": "Illustrated Press/IP_152.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #152 May 89",
+      "author": ""
+    },
+    {
+      "idprint": "764",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1998-12-01",
+      "source": "Illustrated Press/IP_265.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#265) - Dec 1998",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314113",
+      "date": "1951-04-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three Wayward Girls"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "McCoy",
+          "name": "McCoy 510424 Three Wayward Girls (oversat)_OTRRPG.mp3",
+          "time": "1705",
+          "size": "27351682"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1951-00-00",
+      "length": "25",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "McCoy, The"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "398",
+      "first": "Andre",
+      "last": "Baruch",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "20018",
+      "first": "Wilfred",
+      "last": "Funk",
+      "f": "Noted Role",
+      "character": "Narrator"
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314992",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Egyptian Inventor of Unbreakable Glass (Audition)"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "So You Think Its New",
+          "name": "So You Think Its New 38xxxx xxx Egyptian Inventor of Unbreakable Glass (Audition) (128-48)_OTRRPG.mp3",
+          "time": "897",
+          "size": "14366490"
+        },
+        {
+          "path": "S",
+          "folder": "So You Think Its New",
+          "name": "So You Think Its New 38xxxx xxx Egyptian Inventor of Unbreak.mp3",
+          "time": "893",
+          "size": "7144105"
+        }
+      ]
+    },
+    {
+      "ide": "330067",
+      "date": "1939-05-11",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Antique Collectors in Ancient Rome"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "So You Think Its New",
+          "name": "So You Think It's New 390511 001 Antique Collectors in Ancient Rome. TransAmerican Syndication (192-44).mp3",
+          "time": "895",
+          "size": "21559664"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1939-05-11",
+      "dow": "",
+      "time": "",
+      "end": "1939-07-27",
+      "length": "15",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Gruen Watch Company",
+      "begin": "1939-05-11",
+      "end": "1939-06-27"
+    }
+  ],
+  "titles": [
+    {
+      "title": "So You Think It's New"
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,764030,00.html",
+      "label": "1940-06-10: Script Queen",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,886119,00.html",
+      "label": "1942-12-28: The Great Malarkey",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19371938day.html",
+      "label": "Daytime Ratings: (1937-1938: #3)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19381939day.html",
+      "label": "Daytime Ratings: (1938-1939: #5)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19391940day.html",
+      "label": "Daytime Ratings: (1939-1940: #9)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19401941day.html",
+      "label": "Daytime Ratings: (1940-1941: #2)",
+      "idtype": "7"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1703",
+      "first": "Violet",
+      "last": "Dunn",
+      "f": "Noted Role",
+      "character": "Peggy O'Neill"
+    },
+    {
+      "idperson": "4403",
+      "first": "Claire",
+      "last": "Niesen",
+      "f": "Noted Role",
+      "character": "Peggy O'Neill"
+    },
+    {
+      "idperson": "302",
+      "first": "Joan",
+      "last": "Banks",
+      "f": "Noted Role",
+      "character": "Peggy"
+    },
+    {
+      "idperson": "557",
+      "first": "Arline",
+      "last": "Blackburn",
+      "f": "Noted Role",
+      "character": "Eileen Turner"
+    },
+    {
+      "idperson": "1097",
+      "first": "Helen",
+      "last": "Claire",
+      "f": "Noted Role",
+      "character": "Sally Scott O'Neill"
+    },
+    {
+      "idperson": "1845",
+      "first": "Ethel",
+      "last": "Everett",
+      "f": "Noted Role",
+      "character": "Mayme Gordon"
+    },
+    {
+      "idperson": "2306",
+      "first": "David",
+      "last": "Gothard",
+      "f": "Noted Role",
+      "character": "Dr Kingsley"
+    },
+    {
+      "idperson": "2859",
+      "first": "Josephine",
+      "last": "Hull",
+      "f": "Noted Role",
+      "character": "Mrs. Kayden"
+    },
+    {
+      "idperson": "47645",
+      "first": "Jessie",
+      "last": "Fordyce",
+      "f": "Noted Role",
+      "character": "Ginger Raymond"
+    },
+    {
+      "idperson": "38540",
+      "first": "Jane",
+      "last": "West",
+      "f": "Noted Role",
+      "character": "Trudy Bailey"
+    },
+    {
+      "idperson": "38540",
+      "first": "Jane",
+      "last": "West",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "1458",
+      "first": "Nick",
+      "last": "Dawson",
+      "f": "Noted Role",
+      "character": "Eddie Collins"
+    },
+    {
+      "idperson": "2136",
+      "first": "Betty",
+      "last": "Garde",
+      "f": "Noted Role",
+      "character": "Peggy O'Neill"
+    },
+    {
+      "idperson": "2205",
+      "first": "Janice",
+      "last": "Gilbert",
+      "f": "Noted Role",
+      "character": "Janice Collins"
+    },
+    {
+      "idperson": "2677",
+      "first": "Ed",
+      "last": "Herlihy",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2695",
+      "first": "Alan",
+      "last": "Hewitt",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3185",
+      "first": "Alan",
+      "last": "Kent",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "3309",
+      "first": "Wright",
+      "last": "Kramer",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3499",
+      "first": "Bernard",
+      "last": "Lenrow",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3982",
+      "first": "Kate",
+      "last": "McComb",
+      "f": "Noted Role",
+      "character": "Mrs O'Neill"
+    },
+    {
+      "idperson": "4003",
+      "first": "Craig",
+      "last": "McDonnell",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4564",
+      "first": "Effie",
+      "last": "Palmer",
+      "f": "Noted Role",
+      "character": "Mrs. Turner"
+    },
+    {
+      "idperson": "5171",
+      "first": "Jack",
+      "last": "Rubin",
+      "f": "Noted Role",
+      "character": "Morris Levy"
+    },
+    {
+      "idperson": "5171",
+      "first": "Jack",
+      "last": "Rubin",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "5716",
+      "first": "Chester",
+      "last": "Stratton",
+      "f": "Noted Role",
+      "character": "Monte Kayden"
+    },
+    {
+      "idperson": "6409",
+      "first": "Betty",
+      "last": "Winkler",
+      "f": "Noted Role",
+      "character": "Peggy O'Neill Kayden"
+    },
+    {
+      "idperson": "7362",
+      "first": "Luise",
+      "last": "Barclay",
+      "f": "Noted Role",
+      "character": "Mrs. O'Neill"
+    },
+    {
+      "idperson": "7511",
+      "first": "Eunice",
+      "last": "Howard",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "28367",
+      "first": "Herbert",
+      "last": "Little",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "44086",
+      "first": "Jimmy",
+      "last": "Tansey",
+      "f": "Noted Role",
+      "character": "Danny Collins"
+    },
+    {
+      "idperson": "45720",
+      "first": "James 'Jimmy'",
+      "last": "Donnelly",
+      "f": "Noted Role",
+      "character": "Eddie Collins"
+    },
+    {
+      "idperson": "45974",
+      "first": "Jack 'Jackie'",
+      "last": "Jordan",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50321",
+      "first": "Joe",
+      "last": "Julian",
+      "f": "Noted Role",
+      "character": "Mr. Coleman"
+    },
+    {
+      "idperson": "7310",
+      "first": "Mitzi",
+      "last": "Gould",
+      "f": "Noted Role",
+      "character": "Millie"
+    },
+    {
+      "idperson": "7310",
+      "first": "Mitzi",
+      "last": "Gould",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "12368",
+      "first": "Betty",
+      "last": "Caine",
+      "f": "Noted Role",
+      "character": "Peggy O'Neill"
+    },
+    {
+      "idperson": "3641",
+      "first": "Frank",
+      "last": "Lovejoy",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3890",
+      "first": "Sydney",
+      "last": "Mason",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4380",
+      "first": "Harry",
+      "last": "Neville",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4416",
+      "first": "Julian",
+      "last": "Noa",
+      "f": "Noted Role",
+      "character": "Judge Scott"
+    },
+    {
+      "idperson": "4489",
+      "first": "Vivia",
+      "last": "Ogden",
+      "f": "Noted Role",
+      "character": "Mrs. Mitchell"
+    },
+    {
+      "idperson": "4513",
+      "first": "Santos",
+      "last": "Ortega",
+      "f": "Noted Role",
+      "character": "Mr. Collins"
+    },
+    {
+      "idperson": "4612",
+      "first": "Mary",
+      "last": "Patton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4681",
+      "first": "Howard",
+      "last": "Petrie",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4915",
+      "first": "Alan",
+      "last": "Reed (aka Teddy Bergman)",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4937",
+      "first": "Alice",
+      "last": "Reinheart",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5164",
+      "first": "Selena",
+      "last": "Royle",
+      "f": "Noted Role",
+      "character": "Joan"
+    },
+    {
+      "idperson": "5416",
+      "first": "Helen",
+      "last": "Shields",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5531",
+      "first": "Sydney",
+      "last": "Smith",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7634",
+      "first": "John",
+      "last": "Moore",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "20153",
+      "first": "Don",
+      "last": "MacLaughlin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50392",
+      "first": "Florence",
+      "last": "Schilling",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50547",
+      "first": "Bill",
+      "last": "Meeder",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "7231",
+      "first": "Ronald",
+      "last": "Liss",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5630",
+      "first": "Edgar",
+      "last": "Stehli",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6006",
+      "first": "Tom",
+      "last": "Tully",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6199",
+      "first": "Gertrude",
+      "last": "Warner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6262",
+      "first": "Dwight",
+      "last": "Weist",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6409",
+      "first": "Betty",
+      "last": "Winkler",
+      "f": "Noted Role",
+      "character": "Peggy O'Neil Kayden"
+    },
+    {
+      "idperson": "6462",
+      "first": "Frances",
+      "last": "Woodbury",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6517",
+      "first": "Carleton G.",
+      "last": "Young",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6538",
+      "first": "Lawson",
+      "last": "Zerbe",
+      "f": "Noted Role",
+      "character": "Skip Martin"
+    },
+    {
+      "idperson": "7269",
+      "first": "Renee",
+      "last": "Terry",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7681",
+      "first": "Joy",
+      "last": "Terry",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "17749",
+      "first": "James Van",
+      "last": "Dyk",
+      "f": "Noted Role",
+      "character": "Lester Lewis"
+    },
+    {
+      "idperson": "5773",
+      "first": "Alfred",
+      "last": "Swenson",
+      "f": "Noted Role",
+      "character": "Mr. Turner"
+    },
+    {
+      "idperson": "7684",
+      "first": "Betty Jane",
+      "last": "Tyler",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "1291",
+      "idtype": "4",
+      "page": "19",
+      "article": "",
+      "url": "",
+      "date": "1979-10-01",
+      "source": "National Radio Trader/NRT_V04_(02)_Fall79.pdf",
+      "idpytype2": "4",
+      "title": "NRT Vol (04 - #2 ) Fall 79",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2253",
+      "idtype": "4",
+      "page": "18",
+      "article": "",
+      "url": "",
+      "date": "1940-07-01",
+      "source": "Radio TV Mirror/Radio and Television Mirror 4007.pdf",
+      "idpytype2": "4",
+      "title": "Radio and Television Mirror 4007",
+      "author": ""
+    },
+    {
+      "idprint": "1990",
+      "idtype": "4",
+      "page": "18",
+      "article": "",
+      "url": "",
+      "date": "1936-07-25",
+      "source": "Radio Guide/Radio Guide 36-07-25.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 36-07-25",
+      "author": ""
+    },
+    {
+      "idprint": "2066",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1939-03-18",
+      "source": "Radio Guide/Radio Guide 39-03-18.pdf",
+      "idpytype2": "4",
+      "title": "Radio Guide 39-03-18",
+      "author": ""
+    },
+    {
+      "idprint": "2174",
+      "idtype": "4",
+      "page": "19",
+      "article": "The O'Neills - In Living Portrait",
+      "url": "",
+      "date": "1943-01-01",
+      "source": "Radio Mirror/Radio Mirror 4301.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4301",
+      "author": ""
+    },
+    {
+      "idprint": "3179",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "undefined",
+      "date": "1941-05-01",
+      "source": "Radio Parade/Radio Parade 4105.pdf",
+      "idpytype2": "4",
+      "title": "Radio Parade 4105.pdf",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2822",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Radio Programs, 1924-1984. A Catalog of Over 1800 Shows",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "84",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT--",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Londonderry Air"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1934-06-11",
+      "dow": "M,W,F",
+      "time": "7:30 PM",
+      "end": "1934-12-07",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1946-09-03",
+      "dow": "W",
+      "time": "9:30 PM",
+      "end": "1946-09-25",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1946-10-22",
+      "dow": "Tu",
+      "time": "8:30 PM",
+      "end": "1947-01-17",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1934-12-10",
+      "dow": "M,W,F",
+      "time": "",
+      "end": "1935-06-17",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1935-10-01",
+      "dow": "M,Tu,W,Th,F",
+      "time": "3:45 PM",
+      "end": "1937-12-31",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1938-01-03",
+      "dow": "M,Tu,W,Th,F",
+      "time": "12:15 PM",
+      "end": "1941-12-26",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1942-10-05",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:15 AM",
+      "end": "1943-06-18",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1940-10-21",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1942-03-27",
+      "length": "15",
+      "country": "USA",
+      "network": "CBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Gold Dust (scouring) Powder",
+      "begin": "1934-12-10",
+      "end": "1935-06-17"
+    },
+    {
+      "sponsor": "Ivory Soap",
+      "begin": "1935-10-01",
+      "end": "1941-03-27"
+    },
+    {
+      "sponsor": "Standard Brands",
+      "begin": "1942-10-05",
+      "end": "1943-06-18"
+    }
+  ],
+  "titles": [
+    {
+      "title": "O'Neills, The"
+    }
+  ]
+}

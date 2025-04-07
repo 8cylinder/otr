@@ -1,0 +1,88 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Buffalo Bill Cody/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "317868",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adventures on the Overland Road"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Buffalo Bill Cody",
+          "name": "Buffalo Bill Cody xx-xx-xx (01) Adventures on the Overland Road.mp3",
+          "time": "1780",
+          "size": "14238800"
+        }
+      ]
+    },
+    {
+      "ide": "317869",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fast Drivin"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Buffalo Bill Cody",
+          "name": "Buffalo Bill Cody xx-xx-xx (02) Fast Drivin.mp3",
+          "time": "500",
+          "size": "3998128"
+        }
+      ]
+    },
+    {
+      "ide": "317870",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Questionable Proceedings"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Buffalo Bill Cody",
+          "name": "Buffalo Bill Cody xx-xx-xx (03) Questionable Proceedings.mp3",
+          "time": "760",
+          "size": "6077920"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Buffalo Bill Cody"
+    }
+  ]
+}

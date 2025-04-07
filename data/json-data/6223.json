@@ -1,0 +1,178 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324163504-d61ef50d.jpg",
+      "label": "Mercer Mcleod",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "30741",
+      "first": "Mercer",
+      "last": "McLeod",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "104650",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of Ecco, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104305",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Won't You Believe Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104671",
+      "date": "1947-06-05",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Birthday Present, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104672",
+      "date": "1947-08-20",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jungle Speaks, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104673",
+      "date": "1948-05-04",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music Box from Hades, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercer McLeod",
+          "name": "Mercer McLeod 480504 xxx The Music Box From Hades_OTRRPG.mp3",
+          "time": "877",
+          "size": "14116149"
+        }
+      ]
+    },
+    {
+      "ide": "104674",
+      "date": "1948-05-13",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mysterious Drawing, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mercer McLeod",
+          "name": "Mercer McLeod 480513 xxx The Mysterious Drawing_OTRRPG.mp3",
+          "time": "890",
+          "size": "14312587"
+        }
+      ]
+    },
+    {
+      "ide": "104675",
+      "date": "1948-08-10",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Two Extra Passengers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104676",
+      "date": "1948-11-09",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bluestones, The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Mystery"
+    },
+    {
+      "genre": "Suspense"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1948-11-09",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mercer McLeod, the Man with the Story"
+    }
+  ]
+}

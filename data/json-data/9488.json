@@ -1,0 +1,200 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/W Series/What Are We Fighting For/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9488-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "125209",
+      "date": "1942-04-02",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Road To War, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "What Are We Fighting For",
+          "name": "What Are We Fighting For 42-04-02 (1) The Road To War.mp3",
+          "time": "853",
+          "size": "6827072"
+        }
+      ]
+    },
+    {
+      "ide": "125210",
+      "date": "1942-04-09",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Pearl Harbor Means To Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "What Are We Fighting For",
+          "name": "What Are We Fighting For 42-04-09 (2) What Pearl Harbor Means To Me.mp3",
+          "time": "939",
+          "size": "7510853"
+        }
+      ]
+    },
+    {
+      "ide": "125211",
+      "date": "1942-04-16",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Your Enemies, The Fascists"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "What Are We Fighting For",
+          "name": "What Are We Fighting For 42-04-16 (3) Your Enemies, The Fascists.mp3",
+          "time": "709",
+          "size": "5675385"
+        }
+      ]
+    },
+    {
+      "ide": "125212",
+      "date": "1942-04-23",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Russians Are Our Kind Of People, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "What Are We Fighting For",
+          "name": "What Are We Fighting For 42-04-23 (4) The Russians Are Our Kind Of People.mp3",
+          "time": "860",
+          "size": "6879526"
+        }
+      ]
+    },
+    {
+      "ide": "125213",
+      "date": "1942-04-30",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What We Fight For"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "What Are We Fighting For",
+          "name": "What Are We Fighting For 42-04-30 (5) What We Fight For.mp3",
+          "time": "880",
+          "size": "7042321"
+        }
+      ]
+    },
+    {
+      "ide": "125214",
+      "date": "1942-05-08",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sergeant York"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "What Are We Fighting For",
+          "name": "What Are We Fighting For 42-05-08 (6) Sergeant York.mp3",
+          "time": "870",
+          "size": "6961864"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1944-04-02",
+      "dow": "",
+      "time": "",
+      "end": "1944-05-08",
+      "length": "30",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "What Are We Fighting For?"
+    }
+  ]
+}

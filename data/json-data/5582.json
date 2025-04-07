@@ -1,0 +1,562 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/L Series/Laurel And Hardy/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.laurelandhardy.org/radio.htm",
+      "label": "The Laurel and Hardy Radio Show Reviewed",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "584",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1989-05-01",
+      "source": "Illustrated Press/IP_152.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #152 May 89",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "21",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Unaired audition. The boys were to take on different jobs each week and foul them up in normal Laurel and Hardy fashion. The audition episode has them goofing up at a chicken farm."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "332873",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stan elopes with Patsy Kelly"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy 300000 Stan elopes with Patsy Kelly.mp3",
+          "time": "546",
+          "size": "2188053"
+        }
+      ]
+    },
+    {
+      "ide": "323382",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Slaters Poultry Market"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel And Hardy 19xx.xx.xx Mr Slaters Poultry Market.mp3",
+          "time": "1558",
+          "size": "18810273"
+        },
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Mr Slater's poultry market 1944.mp3",
+          "time": "1558",
+          "size": "6235719"
+        }
+      ]
+    },
+    {
+      "ide": "332896",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This is Music Hall 1955"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy This is Music Hall 1955.mp3",
+          "time": "99",
+          "size": "396647"
+        }
+      ]
+    },
+    {
+      "ide": "332895",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Trail of the lonesome Pine"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy The Trail of the lonesome Pine.mp3",
+          "time": "129",
+          "size": "519637"
+        }
+      ]
+    },
+    {
+      "ide": "332894",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Cuckoo waltz"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy The Cuckoo waltz.mp3",
+          "time": "46",
+          "size": "184809"
+        }
+      ]
+    },
+    {
+      "ide": "332893",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stan and Ollie The Roots Of Comedy"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Stan and Ollie The Roots Of Comedy.mp3",
+          "time": "840",
+          "size": "3362345"
+        }
+      ]
+    },
+    {
+      "ide": "332892",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stan and Ollie a BBC documentary"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Stan and Ollie a BBC documentary.mp3",
+          "time": "3420",
+          "size": "13680661"
+        }
+      ]
+    },
+    {
+      "ide": "332891",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shine On Harvest Moon"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Shine On Harvest Moon.mp3",
+          "time": "84",
+          "size": "338323"
+        }
+      ]
+    },
+    {
+      "ide": "332890",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Me and my pal 2"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Me and my pal 2.mp3",
+          "time": "1660",
+          "size": "6641623"
+        }
+      ]
+    },
+    {
+      "ide": "332889",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Me and my pal 1"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Me and my pal 1.mp3",
+          "time": "1670",
+          "size": "6681655"
+        }
+      ]
+    },
+    {
+      "ide": "332888",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lazy Moon"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Lazy Moon.mp3",
+          "time": "181",
+          "size": "727675"
+        }
+      ]
+    },
+    {
+      "ide": "332887",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Introduction to Another fine mess 1930"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Introduction to Another fine mess 1930.mp3",
+          "time": "39",
+          "size": "157781"
+        }
+      ]
+    },
+    {
+      "ide": "332886",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In The Good Old Summertime"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy In The Good Old Summertime.mp3",
+          "time": "61",
+          "size": "247037"
+        }
+      ]
+    },
+    {
+      "ide": "332885",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Honolulu Baby"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Honolulu Baby.mp3",
+          "time": "161",
+          "size": "647043"
+        }
+      ]
+    },
+    {
+      "ide": "332884",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Excerpts Interview Laural Marries Patsy Kelly"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Excerpts Interview Laural Marries Patsy Kelly.mp3",
+          "time": "1766",
+          "size": "7065619"
+        }
+      ]
+    },
+    {
+      "ide": "332883",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Documentary"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Documentary.mp3",
+          "time": "3420",
+          "size": "13680623"
+        }
+      ]
+    },
+    {
+      "ide": "332882",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Commence To Dancin'"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Commence To Dancin'.mp3",
+          "time": "179",
+          "size": "716607"
+        }
+      ]
+    },
+    {
+      "ide": "332881",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "British Record 1932"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy British Record 1932.mp3",
+          "time": "506",
+          "size": "2027295"
+        }
+      ]
+    },
+    {
+      "ide": "332880",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Beau Hunks, Bells"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Beau Hunks,Bells.mp3",
+          "time": "81",
+          "size": "324921"
+        }
+      ]
+    },
+    {
+      "ide": "332878",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "At The Ball, That's All"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy At The Ball, That's All.mp3",
+          "time": "139",
+          "size": "557351"
+        }
+      ]
+    },
+    {
+      "ide": "332877",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arthur Fiedler March Of The Wooden Toy Soldiers"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Arthur Fiedler March Of The Wooden Toy Soldiers.mp3",
+          "time": "231",
+          "size": "926903"
+        }
+      ]
+    },
+    {
+      "ide": "332876",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Dog Bit Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy A Dog Bit Me.mp3",
+          "time": "212",
+          "size": "851377"
+        }
+      ]
+    },
+    {
+      "ide": "332874",
+      "date": "1932-08-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hal Roach and MGM Present (LP)"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy 320800 Hal Roach & MGM Present (LP).mp3",
+          "time": "505",
+          "size": "2021301"
+        }
+      ]
+    },
+    {
+      "ide": "332879",
+      "date": "1932-08-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy Aug 1932.mp3",
+          "time": "371",
+          "size": "1484825"
+        }
+      ]
+    },
+    {
+      "ide": "332875",
+      "date": "1932-08-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Laurel And Hardy",
+          "name": "Laurel Hardy 320800.mp3",
+          "time": "504",
+          "size": "2019991"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Laurel and Hardy"
+    }
+  ]
+}

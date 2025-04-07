@@ -1,0 +1,97 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "49995",
+      "first": "Jim",
+      "last": "Backus",
+      "f": "Noted Role",
+      "character": "Narrator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "247160",
+      "date": "1942-08-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This Nation At War - Victory Ships"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "This Nation At War",
+          "name": "This Nation At War 1942.08.03 Victory Ships.mp3",
+          "time": "1120",
+          "size": "4587447"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Documentary"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-05-26",
+      "dow": "Tu",
+      "time": "9:30 PM",
+      "end": "1942-09-22",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1942-12-08",
+      "dow": "Tu",
+      "time": "10:30 PM",
+      "end": "1943-11-16",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "This Nation at War"
+    }
+  ]
+}

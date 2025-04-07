@@ -1,0 +1,112 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [
+    {
+      "info": "Hickerson references the Pond's Program for the dates 5/29/31-32 and references Johnny Presents for 1/9/34-2/9/37."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "4940",
+      "first": "Leo",
+      "last": "Reisman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1674",
+      "first": "Phil",
+      "last": "Duey",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "What Is This Thing Called Love'; 'Hour of Parting'"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1931-05-29",
+      "dow": "F",
+      "time": "9:30 PM",
+      "end": "1932-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1934-01-09",
+      "dow": "",
+      "time": "",
+      "end": "1937-02-09",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Philip Morris and Company (Cigarettes)",
+      "begin": "1934-01-09",
+      "end": "1937-02-09"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Leo Reisman Orchestra"
+    },
+    {
+      "title": "Leo Reisman Show , The"
+    }
+  ]
+}

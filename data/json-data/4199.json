@@ -1,0 +1,106 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313660",
+      "date": "1947-07-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spelling Contest"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Good Word",
+          "name": "Good Word 470725 02 Spelling Contest_OTRRPG.mp3",
+          "time": "1707",
+          "size": "27394053"
+        }
+      ]
+    },
+    {
+      "ide": "313661",
+      "date": "1947-09-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spelling Contest"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Good Word",
+          "name": "Good Word 470903 07 Spelling Contest_OTRRPG.mp3",
+          "time": "1756",
+          "size": "28171875"
+        }
+      ]
+    },
+    {
+      "ide": "313662",
+      "date": "1947-09-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Oakland vs San Francisco Spelling Contest"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Good Word",
+          "name": "Good Word 470924 10 Oakland vs San Francisco Spelling Contest_OTRRPG.mp3",
+          "time": "1741",
+          "size": "27941618"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Good Word, The"
+    }
+  ]
+}

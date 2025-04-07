@@ -1,0 +1,1131 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [
+    {
+      "known": "52",
+      "idprint": "2780",
+      "web": "",
+      "url": "0",
+      "source": "",
+      "idpytype": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Man In The Iron Mask/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "7068",
+      "first": "Michael",
+      "last": "Pate",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "7127",
+      "first": "Peter",
+      "last": "Barry",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "10897",
+      "first": "Lyndall",
+      "last": "Barbour",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "12007",
+      "first": "Warren",
+      "last": "Barry",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "18738",
+      "first": "Tom",
+      "last": "Farley",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "41300",
+      "first": "Eric",
+      "last": "Scott",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "49861",
+      "first": "Moray",
+      "last": "Powell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "49867",
+      "first": "Nell",
+      "last": "Stirling",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "49896",
+      "first": "Dinah",
+      "last": "Shearing",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "49905",
+      "first": "Jean",
+      "last": "Robertson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "49920",
+      "first": "Lorna",
+      "last": "Bingham",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "49950",
+      "first": "John",
+      "last": "Buschelle",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "49955",
+      "first": "Brenda",
+      "last": "Dunrich",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "49975",
+      "first": "John",
+      "last": "Cazabon",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50040",
+      "first": "Athol",
+      "last": "Fleming",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "101493",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of Lieutenant Colonel Ellis, Who Predicted the Japanese, The"
+        },
+        {
+          "title": "Locked In The Room of Man In The Iron Mask"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 01 Locked In The Room of Man In The Iron Mask (2)_OTRRPG.mp3",
+          "time": "756",
+          "size": "12171859"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 01 Locked In The Room of Man In The Iron Mask (64-44)_OTRRPG.mp3",
+          "time": "756",
+          "size": "6123375"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 01 Locked In The Room of Man In The Iron Mask_OTRRPG.mp3",
+          "time": "758",
+          "size": "12202376"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (01).mp3",
+          "time": "768",
+          "size": "1535803"
+        }
+      ]
+    },
+    {
+      "ide": "101486",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Last Will and Testament"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (10).mp3",
+          "time": "760",
+          "size": "1520549"
+        }
+      ]
+    },
+    {
+      "ide": "101485",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stolen Sables"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (11).mp3",
+          "time": "709",
+          "size": "1418671"
+        }
+      ]
+    },
+    {
+      "ide": "101484",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who Murdered Sen Floyd"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (12).mp3",
+          "time": "762",
+          "size": "1525251"
+        }
+      ]
+    },
+    {
+      "ide": "101483",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Laughing Ghost"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (13).mp3",
+          "time": "755",
+          "size": "1510831"
+        }
+      ]
+    },
+    {
+      "ide": "101482",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fallen Star, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (14).mp3",
+          "time": "748",
+          "size": "1495576"
+        }
+      ]
+    },
+    {
+      "ide": "101481",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jagged Rock Mystery"
+        },
+        {
+          "title": "Plans Are Made For A Royal Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 15 Plans Are Made For A Royal Murder (64-44)_OTRRPG.mp3",
+          "time": "758",
+          "size": "6140711"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 15 Plans Are Made For A Royal Murder_OTRRPG.mp3",
+          "time": "760",
+          "size": "12236639"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (15).mp3",
+          "time": "762",
+          "size": "1524624"
+        }
+      ]
+    },
+    {
+      "ide": "101480",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Plan For A Mask Evolves"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 16 The Plan For A Mask Evolves (64-44)_OTRRPG.mp3",
+          "time": "746",
+          "size": "6044157"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 16 The Plan For A Mask Evolves _OTRRPG.mp3",
+          "time": "748",
+          "size": "12043955"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (16).mp3",
+          "time": "751",
+          "size": "1502472"
+        }
+      ]
+    },
+    {
+      "ide": "101479",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The King's Twin Learns of His Fate"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 17 The King's Twin Learns of His Fate (64-44)_OTRRPG.mp3",
+          "time": "753",
+          "size": "6104141"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 17 The King's Twin Learns of His Fate _OTRRPG.mp3",
+          "time": "755",
+          "size": "12163498"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (17).mp3",
+          "time": "763",
+          "size": "1525460"
+        }
+      ]
+    },
+    {
+      "ide": "318950",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (18).mp3",
+          "time": "755",
+          "size": "1510414"
+        }
+      ]
+    },
+    {
+      "ide": "318951",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (19).mp3",
+          "time": "764",
+          "size": "1527654"
+        }
+      ]
+    },
+    {
+      "ide": "101494",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of Captain Gillespie in Old California, The"
+        },
+        {
+          "title": "Michael Dent Mysteriously Reappears After Vanishing"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 02 Michael Dent Mysteriously Reappears After Vanishing (3)_OTRRPG.mp3",
+          "time": "748",
+          "size": "12043555"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 02 Michael Dent Mysteriously Reappears After Vanishing (64-44)_OTRRPG.mp3",
+          "time": "745",
+          "size": "6034985"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask [AUS] 47xxxx 02 Michael Dent Mysteriously Reappears After Vanishing_OTRRPG.mp3",
+          "time": "747",
+          "size": "12025592"
+        },
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (02).mp3",
+          "time": "762",
+          "size": "1523473"
+        }
+      ]
+    },
+    {
+      "ide": "318952",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (20).mp3",
+          "time": "759",
+          "size": "1517414"
+        }
+      ]
+    },
+    {
+      "ide": "318953",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (21).mp3",
+          "time": "757",
+          "size": "1515325"
+        }
+      ]
+    },
+    {
+      "ide": "318954",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (22).mp3",
+          "time": "762",
+          "size": "1523684"
+        }
+      ]
+    },
+    {
+      "ide": "318955",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (23).mp3",
+          "time": "784",
+          "size": "1567987"
+        }
+      ]
+    },
+    {
+      "ide": "318956",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (24).mp3",
+          "time": "759",
+          "size": "1519191"
+        }
+      ]
+    },
+    {
+      "ide": "318957",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (25).mp3",
+          "time": "776",
+          "size": "1551791"
+        }
+      ]
+    },
+    {
+      "ide": "318958",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (26).mp3",
+          "time": "761",
+          "size": "1521907"
+        }
+      ]
+    },
+    {
+      "ide": "318959",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (27).mp3",
+          "time": "762",
+          "size": "1523893"
+        }
+      ]
+    },
+    {
+      "ide": "318960",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (28).mp3",
+          "time": "768",
+          "size": "1536536"
+        }
+      ]
+    },
+    {
+      "ide": "318961",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (29).mp3",
+          "time": "752",
+          "size": "1504876"
+        }
+      ]
+    },
+    {
+      "ide": "101495",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When Roger White Boarded The Train"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (03).mp3",
+          "time": "780",
+          "size": "1559940"
+        }
+      ]
+    },
+    {
+      "ide": "318962",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (30).mp3",
+          "time": "747",
+          "size": "1493800"
+        }
+      ]
+    },
+    {
+      "ide": "318963",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (31).mp3",
+          "time": "760",
+          "size": "1520131"
+        }
+      ]
+    },
+    {
+      "ide": "318964",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (32).mp3",
+          "time": "765",
+          "size": "1530476"
+        }
+      ]
+    },
+    {
+      "ide": "318965",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (33).mp3",
+          "time": "757",
+          "size": "1514071"
+        }
+      ]
+    },
+    {
+      "ide": "318966",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (34).mp3",
+          "time": "756",
+          "size": "1511772"
+        }
+      ]
+    },
+    {
+      "ide": "318967",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (35).mp3",
+          "time": "759",
+          "size": "1517414"
+        }
+      ]
+    },
+    {
+      "ide": "318968",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (36).mp3",
+          "time": "760",
+          "size": "1520758"
+        }
+      ]
+    },
+    {
+      "ide": "318969",
+      "date": "0000-00-00",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (37).mp3",
+          "time": "766",
+          "size": "1531520"
+        }
+      ]
+    },
+    {
+      "ide": "318970",
+      "date": "0000-00-00",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (38).mp3",
+          "time": "738",
+          "size": "1475827"
+        }
+      ]
+    },
+    {
+      "ide": "318971",
+      "date": "0000-00-00",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (39).mp3",
+          "time": "758",
+          "size": "1515638"
+        }
+      ]
+    },
+    {
+      "ide": "101492",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead Magician, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (04).mp3",
+          "time": "768",
+          "size": "1537161"
+        }
+      ]
+    },
+    {
+      "ide": "318972",
+      "date": "0000-00-00",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (40).mp3",
+          "time": "758",
+          "size": "1515847"
+        }
+      ]
+    },
+    {
+      "ide": "318973",
+      "date": "0000-00-00",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (41).mp3",
+          "time": "753",
+          "size": "1506547"
+        }
+      ]
+    },
+    {
+      "ide": "318974",
+      "date": "0000-00-00",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (42).mp3",
+          "time": "713",
+          "size": "1426717"
+        }
+      ]
+    },
+    {
+      "ide": "318975",
+      "date": "0000-00-00",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (43).mp3",
+          "time": "815",
+          "size": "1631204"
+        }
+      ]
+    },
+    {
+      "ide": "318976",
+      "date": "0000-00-00",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (44).mp3",
+          "time": "759",
+          "size": "1517623"
+        }
+      ]
+    },
+    {
+      "ide": "318977",
+      "date": "0000-00-00",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (45).mp3",
+          "time": "758",
+          "size": "1517101"
+        }
+      ]
+    },
+    {
+      "ide": "318978",
+      "date": "0000-00-00",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (46).mp3",
+          "time": "742",
+          "size": "1484500"
+        }
+      ]
+    },
+    {
+      "ide": "318979",
+      "date": "0000-00-00",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (47).mp3",
+          "time": "723",
+          "size": "1447197"
+        }
+      ]
+    },
+    {
+      "ide": "318980",
+      "date": "0000-00-00",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (48).mp3",
+          "time": "815",
+          "size": "1630786"
+        }
+      ]
+    },
+    {
+      "ide": "318981",
+      "date": "0000-00-00",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (49).mp3",
+          "time": "753",
+          "size": "1506443"
+        }
+      ]
+    },
+    {
+      "ide": "101491",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missing Masterpiece"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (05).mp3",
+          "time": "762",
+          "size": "1525040"
+        }
+      ]
+    },
+    {
+      "ide": "318982",
+      "date": "0000-00-00",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (51).mp3",
+          "time": "850",
+          "size": "1701316"
+        }
+      ]
+    },
+    {
+      "ide": "318983",
+      "date": "0000-00-00",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (52).mp3",
+          "time": "770",
+          "size": "1541238"
+        }
+      ]
+    },
+    {
+      "ide": "101490",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery Of The Death Ray Tube"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (06).mp3",
+          "time": "740",
+          "size": "1479378"
+        }
+      ]
+    },
+    {
+      "ide": "101489",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder In The Sky"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "101488",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death Boards The Sea Serpent"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "101487",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double X Mystery"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Man In The Iron Mask",
+          "name": "Man In The Iron Mask xx-xx-xx (09).mp3",
+          "time": "757",
+          "size": "1514382"
+        }
+      ]
+    },
+    {
+      "ide": "333574",
+      "date": "1948-01-01",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Action"
+    },
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-10-24",
+      "dow": "Su",
+      "time": "7:08 PM",
+      "end": "0000-00-00",
+      "length": "15",
+      "country": "Australia",
+      "network": "Australian"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Man in the Iron Mask - AU"
+    }
+  ]
+}

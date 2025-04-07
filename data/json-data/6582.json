@@ -1,0 +1,110 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5470",
+      "first": "Frank",
+      "last": "Singiser",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "310126",
+      "date": "1950-01-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Winston Churchill Cuts Short Vacation. Mutual-Don Lee Network"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mutual News At Noon",
+          "name": "Mutual News at Noon 500112 xxx Winston Churchill Cuts Short Vacation. Mutual-Don Lee Network_OTRRPG.mp3",
+          "time": "850",
+          "size": "13610425"
+        },
+        {
+          "path": "M",
+          "folder": "Mutual News At Noon",
+          "name": "Mutual News at Noon 500112 xxx Winston Churchill Cuts Short .mp3",
+          "time": "848",
+          "size": "6783935"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "7:44 AM",
+      "end": "1954-00-00",
+      "length": "10",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mutual News"
+    },
+    {
+      "title": "Mutual Newsreel"
+    }
+  ]
+}

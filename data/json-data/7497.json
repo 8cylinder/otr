@@ -1,0 +1,129 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.lib.umd.edu/LAB/SCRIPTS/cabquiz.html",
+      "label": "Library of American Broadcasting: Cab Calloway's Quizzicale (1941-1942)",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.thehidehoblog.com/index.php?sujet_id=1568",
+      "label": "The Hi De Ho Blog: Quizzicale : l'??mission radio de Cab",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Hickerson has the dates 7/6/41-10/5/41 Mutual and 8/11/42-6/24/42 NBC Blue. He also has the show at 9:30pm 7/6/41-7/20/41. [We list the schedule from the synopsis which is also sunstantiated by the webpage from the Library of American Broadcasting which contains a log of the program.]"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "916",
+      "first": "Cab",
+      "last": "Calloway",
+      "f": "Noted Role",
+      "character": "Professor Calloway"
+    },
+    {
+      "idperson": "2725",
+      "first": "Milt",
+      "last": "Hinton",
+      "f": "Noted Role",
+      "character": "Brother Sixty-Two Jones"
+    },
+    {
+      "idperson": "9727",
+      "first": "Eddie",
+      "last": "Barefield",
+      "f": "Noted Role",
+      "character": "Brother Treadway"
+    },
+    {
+      "idperson": "2754",
+      "first": "George",
+      "last": "Hogan",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Game Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1941-07-06",
+      "dow": "Su",
+      "time": "10:30 PM",
+      "end": "1941-09-28",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1942-02-18",
+      "dow": "W",
+      "time": "9:30 PM",
+      "end": "1942-08-18",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Quizzicale"
+    }
+  ]
+}

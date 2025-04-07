@@ -1,0 +1,85 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "8157",
+      "first": "Shannon",
+      "last": "Allen",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Education In The News"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "313385",
+      "date": "1936-03-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Little Red Schoolhouses"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Education In The News",
+          "name": "Education In The News 360309 xxx Little Red Schoolhouses_OTRRPG.mp3",
+          "time": "820",
+          "size": "13201457"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Education in the News 36-03-09.mp3",
+          "time": "822",
+          "size": "6579094"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Education In The News"
+    }
+  ]
+}

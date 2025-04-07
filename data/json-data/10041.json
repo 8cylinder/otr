@@ -1,0 +1,91 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5204",
+      "first": "Basil",
+      "last": "Ruysdael",
+      "f": "Noted Role",
+      "character": "Narrator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312025",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Story of Canning"
+        }
+      ],
+      "files": [
+        {
+          "path": "V",
+          "folder": "Voice Of Industry",
+          "name": "Voice of Industry 37xxxx 02 The Story of Canning_OTRRPG.mp3",
+          "time": "805",
+          "size": "12887798"
+        },
+        {
+          "path": "V",
+          "folder": "Voice Of Industry",
+          "name": "Voice of Industry 37xxxx 02 The Story of Canning.mp3",
+          "time": "803",
+          "size": "6423177"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1937-06-15",
+      "dow": "",
+      "time": "",
+      "end": "1937-09-21",
+      "length": "30",
+      "country": "USA",
+      "network": "Syndicated"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Voice of Industry, The"
+    }
+  ]
+}

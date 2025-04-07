@@ -1,0 +1,170 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1396",
+      "first": "John Charles",
+      "last": "Daly",
+      "f": "Noted Role",
+      "character": "Reporter"
+    },
+    {
+      "idperson": "3813",
+      "first": "Harry",
+      "last": "Marble",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4321",
+      "first": "Edward R.",
+      "last": "Murrow",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2831",
+      "first": "Quincy",
+      "last": "Howe",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    },
+    {
+      "idperson": "7607",
+      "first": "Warren",
+      "last": "Sweeney",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "1188",
+      "idtype": "4",
+      "page": "35",
+      "article": "",
+      "url": "",
+      "date": "1941-06-14",
+      "source": "Movie Radio Guide/MRG_41-06-14.pdf",
+      "idpytype2": "4",
+      "title": "MRG 41-06-14",
+      "author": ""
+    },
+    {
+      "idprint": "2704",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "1944-03-01",
+      "source": "Tune In/Tune In 4403.pdf",
+      "idpytype2": "4",
+      "title": "Tune In - Mar 1944",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "316173",
+      "date": "1940-11-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Berlin And Moscow Claim Victory"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "World Today",
+          "name": "World Today 401117 Berlin And Moscow Claim Victory_OTRRPG.mp3",
+          "time": "882",
+          "size": "14183879"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-04-03",
+      "dow": "",
+      "time": "",
+      "end": "1946-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sinclair Refining Company",
+      "begin": "1940-04-03",
+      "end": "1946-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "World Today, The"
+    }
+  ]
+}

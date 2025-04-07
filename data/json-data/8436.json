@@ -1,0 +1,555 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Standard School Broadcast/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Hickerson reports that this program was broadcast on the NBC West network."
+    }
+  ],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "This Hour is Yours"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "324289",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hawaii And Samoa"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast 19xx.xx.xx Hawaii And Samoa.mp3",
+          "time": "1738",
+          "size": "7061030"
+        }
+      ]
+    },
+    {
+      "ide": "324290",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music Map Of America"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast 19xx.xx.xx Music Map Of America.mp3",
+          "time": "1739",
+          "size": "7065218"
+        }
+      ]
+    },
+    {
+      "ide": "324291",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Neighbor Nations Of The Western Hemisphere"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast 19xx.xx.xx Neighbor Nations Of The Western Hemisphere.mp3",
+          "time": "1722",
+          "size": "6994522"
+        }
+      ]
+    },
+    {
+      "ide": "315127",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Civil War Music"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 011 Civil War Music_OTRRPG.mp3",
+          "time": "1729",
+          "size": "27742230"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (11) The Civil War.mp3",
+          "time": "1731",
+          "size": "13849823"
+        }
+      ]
+    },
+    {
+      "ide": "315128",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music From Alaska"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 012 Music From Alaska_OTRRPG.mp3",
+          "time": "1716",
+          "size": "27528655"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (12) Alaska.mp3",
+          "time": "1718",
+          "size": "13742818"
+        }
+      ]
+    },
+    {
+      "ide": "315129",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music From The Islands"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 013 Music From The Islands_OTRRPG.mp3",
+          "time": "1737",
+          "size": "27864281"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (13) Hawaii and Samoa.mp3",
+          "time": "1739",
+          "size": "13910639"
+        }
+      ]
+    },
+    {
+      "ide": "315130",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music From Canada, South America, And West Indies"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 014 Music From Canada, South America, And West Indies_OTRRPG.mp3",
+          "time": "1720",
+          "size": "27597650"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (14) Neighbor Nations Of The Western Hemisphere.mp3",
+          "time": "1722",
+          "size": "13777545"
+        }
+      ]
+    },
+    {
+      "ide": "315131",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music of Time"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 018 Music of Time_OTRRPG.mp3",
+          "time": "1756",
+          "size": "28170636"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (18) Music Of Time.mp3",
+          "time": "1758",
+          "size": "14063818"
+        }
+      ]
+    },
+    {
+      "ide": "315132",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music From The South"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 019 Music From The South_OTRRPG.mp3",
+          "time": "1738",
+          "size": "27880580"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (19) Music Map Of America.mp3",
+          "time": "1740",
+          "size": "13919002"
+        }
+      ]
+    },
+    {
+      "ide": "315133",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music From Chicago"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 020 Music From Chicago_OTRRPG.mp3",
+          "time": "1736",
+          "size": "27857172"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (20) Chicago.mp3",
+          "time": "1738",
+          "size": "13907286"
+        }
+      ]
+    },
+    {
+      "ide": "315134",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music From New York"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 021 Music From New York_OTRRPG.mp3",
+          "time": "1752",
+          "size": "28105023"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (21) New York.mp3",
+          "time": "1754",
+          "size": "14031003"
+        }
+      ]
+    },
+    {
+      "ide": "315135",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music From Hollywood"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 022 Music From Hollywood_OTRRPG.mp3",
+          "time": "1746",
+          "size": "28017670"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (22) Hollywood.mp3",
+          "time": "1748",
+          "size": "13987328"
+        }
+      ]
+    },
+    {
+      "ide": "315136",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music From San Francisco"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 023 Music From San Francisco_OTRRPG.mp3",
+          "time": "1745",
+          "size": "27999702"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (23) San Francisco.mp3",
+          "time": "1747",
+          "size": "13978345"
+        }
+      ]
+    },
+    {
+      "ide": "315123",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music of George M Cohan"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 006 Music of George M Cohan_OTRRPG.mp3",
+          "time": "1761",
+          "size": "28247969"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (06) Music By George M. Cohan.mp3",
+          "time": "1763",
+          "size": "14102489"
+        }
+      ]
+    },
+    {
+      "ide": "315124",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thomas Edison"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 007 Thomas Edison_OTRRPG.mp3",
+          "time": "1744",
+          "size": "27987152"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (07) Thomas Alva Edison.mp3",
+          "time": "1746",
+          "size": "13972080"
+        }
+      ]
+    },
+    {
+      "ide": "315125",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "James Fennimore Cooper"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 008 James Fennimore Cooper_OTRRPG.mp3",
+          "time": "1733",
+          "size": "27814126"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (08) James Fennimore Cooper.mp3",
+          "time": "1736",
+          "size": "13885567"
+        }
+      ]
+    },
+    {
+      "ide": "315126",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lowell Mason"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xxxxxx 009 Lowell Mason_OTRRPG.mp3",
+          "time": "1750",
+          "size": "28085372"
+        },
+        {
+          "path": "S",
+          "folder": "Standard School Broadcast",
+          "name": "Standard School Broadcast xx-xx-xx (09) Lowell Mason.mp3",
+          "time": "1753",
+          "size": "14021393"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1928-10-01",
+      "dow": "Th",
+      "time": "",
+      "end": "1948-00-00",
+      "length": "45",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Standard Oil",
+      "begin": "1928-10-01",
+      "end": "1948-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Standard School Broadcast"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2243",
+      "first": "Irma",
+      "last": "Glen",
+      "f": "Noted Role",
+      "character": "Organist"
+    },
+    {
+      "idperson": "3259",
+      "first": "Jess",
+      "last": "Kirkpatrick",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "19998",
+      "first": "Peggy",
+      "last": "Fuller",
+      "f": "Noted Role",
+      "character": "Assistant"
+    },
+    {
+      "idperson": "38556",
+      "first": "Helen",
+      "last": "Westbrook",
+      "f": "Noted Role",
+      "character": "Assistant"
+    },
+    {
+      "idperson": "39477",
+      "first": "Chuck",
+      "last": "Acree",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "39477",
+      "first": "Chuck",
+      "last": "Acree",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Audience Participation"
+    },
+    {
+      "genre": "Quiz"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-02-25",
+      "dow": "Su",
+      "time": "4:00 PM",
+      "end": "1939-04-16",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1939-10-22",
+      "dow": "",
+      "time": "",
+      "end": "1940-03-31",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Farina",
+      "begin": "1939-02-25",
+      "end": "1939-04-16"
+    },
+    {
+      "sponsor": "Quaker Oats Company",
+      "begin": "1939-10-21",
+      "end": "1940-03-31"
+    }
+  ],
+  "titles": [
+    {
+      "title": "We, the Wives"
+    }
+  ]
+}

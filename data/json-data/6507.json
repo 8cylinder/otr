@@ -1,0 +1,719 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2561",
+      "first": "Jack",
+      "last": "Haskell",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "23430",
+      "first": "Anne",
+      "last": "Hershey",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "23996",
+      "first": "John",
+      "last": "Holtman",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "50566",
+      "first": "Joseph",
+      "last": "Gollicchio",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "286350",
+      "date": "1947-11-25",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Favorites to Listen to While Having a Falstaff Beer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286351",
+      "date": "1948-02-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'When Hearts Are Young' by Sigmund Romberg, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286352",
+      "date": "1948-02-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Stout Hearted Men', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286353",
+      "date": "1948-03-04",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Oklahoma', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286354",
+      "date": "1948-03-11",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Song of the Vagabond', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286355",
+      "date": "1948-03-25",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Rise and Shine', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286356",
+      "date": "1948-04-08",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Hallelujah', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286357",
+      "date": "1948-04-15",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Marching Along Together', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286358",
+      "date": "1948-04-22",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Selection Is, 'I Know That You Know', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286359",
+      "date": "1948-05-13",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Good News', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286360",
+      "date": "1948-06-10",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Say It with Music', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286361",
+      "date": "1948-07-22",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Swanee', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286362",
+      "date": "1948-08-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Valencia', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286363",
+      "date": "1948-08-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Great Day', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286364",
+      "date": "1948-09-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'It's a Good Day', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286365",
+      "date": "1948-09-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Hallelujah', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286366",
+      "date": "1948-09-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Fine and Dandy', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286367",
+      "date": "1948-09-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Jericho', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286368",
+      "date": "1948-10-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'I'm Just Wild About Harry', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286369",
+      "date": "1948-10-14",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Alabamy Bound', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286370",
+      "date": "1948-11-11",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Zip-a-dee-doo-dah', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286371",
+      "date": "1948-11-18",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'This Is My Lucky Day', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286372",
+      "date": "1948-12-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Rise and Shine', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286373",
+      "date": "1948-12-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'The Big Back Yard', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286374",
+      "date": "1948-12-16",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'The Ranger Song', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286375",
+      "date": "1948-12-23",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Heigh Ho,' from 'Snow White', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286376",
+      "date": "1948-12-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'I Know That You Know', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286377",
+      "date": "1949-01-06",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'The Song of the Vagabond', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286378",
+      "date": "1949-01-13",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Smiles', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286379",
+      "date": "1949-01-27",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'When You Wore a Tulip', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286380",
+      "date": "1949-02-03",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonelle James Replaces Ann Hershey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286381",
+      "date": "1949-02-10",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Stout Hearted Men', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286382",
+      "date": "1949-02-17",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'The Best Things in Life Are Free', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286383",
+      "date": "1949-02-24",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Lucky in Love', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286384",
+      "date": "1949-03-03",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Swanee', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286385",
+      "date": "1949-03-10",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Three Little Words', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286386",
+      "date": "1949-03-24",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Who Cares', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286387",
+      "date": "1949-04-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'I'm Sitting on Top of the World', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286388",
+      "date": "1949-04-21",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Marching Along Together', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286389",
+      "date": "1949-04-29",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ann Hershey Replaces Jonelle James"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286390",
+      "date": "1949-05-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'I Love a Parade', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286391",
+      "date": "1949-05-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jonelle James Replaces Ann Hershey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286392",
+      "date": "1949-06-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Circus Day', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286393",
+      "date": "1949-06-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Give Me a June Night', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286394",
+      "date": "1949-06-16",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'You're a Grand Old Flag', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286395",
+      "date": "1949-06-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Highways Are Happy Ways', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286396",
+      "date": "1949-07-14",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Who', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286397",
+      "date": "1949-07-21",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Of Thee I Sing', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286398",
+      "date": "1949-07-28",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Californ-i-a', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "286399",
+      "date": "1949-09-08",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Tune Is, 'Swanee', The"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1948-02-05",
+      "dow": "",
+      "time": "",
+      "end": "1949-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Falstaff Beer",
+      "begin": "1948-02-05",
+      "end": "1949-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Music from the Heart of America"
+    }
+  ]
+}

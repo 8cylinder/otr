@@ -1,0 +1,3096 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "WAKE"
+    }
+  ],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3410",
+      "first": "Jack",
+      "last": "Latham",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "46504",
+      "first": "Ralph",
+      "last": "Hetzel",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5877",
+      "first": "Lowell",
+      "last": "Thomas",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "13572",
+      "first": "Fred G.",
+      "last": "Clark",
+      "f": "Noted Role",
+      "character": "Moderator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "124569",
+      "date": "1941-09-28",
+      "epnum": "91",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Economic Consequences Of Our Participation In The War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124570",
+      "date": "1941-10-05",
+      "epnum": "92",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Social Planning Vs. Individual Initiative Under Free Enterprise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124571",
+      "date": "1941-10-12",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can Democracy Survive Under Present Economic Conditions"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124572",
+      "date": "1941-10-19",
+      "epnum": "94",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would A Mediated Peace Be Desirable"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124573",
+      "date": "1941-10-26",
+      "epnum": "95",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Labor Unions Be Regulated By The Federal Government"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124574",
+      "date": "1941-11-02",
+      "epnum": "96",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Would Inflation Mean To You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124575",
+      "date": "1941-11-23",
+      "epnum": "99",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can and Should Monetary Inflation Be Avoided"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124576",
+      "date": "1941-11-30",
+      "epnum": "100",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Labor Have The Right To Strike During The Emergency"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124577",
+      "date": "1941-12-07",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can There Be A Reduction In Non-Defense Expenditures"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124578",
+      "date": "1941-12-21",
+      "epnum": "103",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What America Is Fighting For"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124579",
+      "date": "1942-01-04",
+      "epnum": "104",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Just What Is Democracy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124580",
+      "date": "1942-01-18",
+      "epnum": "106",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Women's Role In The War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124581",
+      "date": "1942-01-25",
+      "epnum": "107",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can Wars Be Ended Under Private Capitalism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124582",
+      "date": "1942-02-01",
+      "epnum": "108",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Much Economic Equality Is Attainable"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124583",
+      "date": "1942-02-08",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "After The War, What"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124584",
+      "date": "1942-02-15",
+      "epnum": "110",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is The Closed Shop A Democratic Institution"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124585",
+      "date": "1942-02-22",
+      "epnum": "111",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Social Justice and Economic Reconstruction"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124586",
+      "date": "1942-03-01",
+      "epnum": "112",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Has The Profit System Handicapped America's War Production"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124587",
+      "date": "1942-03-08",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Industry Making Too Much Money Out Of This War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124588",
+      "date": "1942-03-15",
+      "epnum": "114",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who Will Pay The Cost Of This War...and How"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124589",
+      "date": "1942-03-22",
+      "epnum": "115",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Would Socialism Mean To America"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124590",
+      "date": "1942-03-29",
+      "epnum": "116",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Has America Gone Soft"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124591",
+      "date": "1942-04-05",
+      "epnum": "117",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "South America, Frontier Of The Future"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124592",
+      "date": "1942-04-12",
+      "epnum": "118",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can The War Effort Be Improved"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124593",
+      "date": "1942-04-19",
+      "epnum": "119",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Is Japan Fighting"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124594",
+      "date": "1942-04-26",
+      "epnum": "120",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Revolution Possible In Occupied Europe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124595",
+      "date": "1942-05-03",
+      "epnum": "121",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "President Roosevelt's Seven Point Anti-Inflation Program"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124596",
+      "date": "1942-05-10",
+      "epnum": "122",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does Youth Have An Opportunity Under Our System Of Enterprise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124597",
+      "date": "1942-05-17",
+      "epnum": "123",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Road We Are Traveling, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124598",
+      "date": "1942-05-24",
+      "epnum": "124",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Can Be Done To Improve War Morale"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124599",
+      "date": "1942-05-31",
+      "epnum": "125",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Maintenance Of Membership Provision In Labor Contracts, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124600",
+      "date": "1942-06-07",
+      "epnum": "126",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Democratic Socialism Possible"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124601",
+      "date": "1942-06-14",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would A Sales Tax Benefit The War Effort"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124602",
+      "date": "1942-06-21",
+      "epnum": "128",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is The War Destroying The American System Of Free Enterprise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124603",
+      "date": "1942-06-28",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Post-War Problems In The Western Hemisphere"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124604",
+      "date": "1942-07-05",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should A Congressman Be Defeated Because Of His Attitude"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124605",
+      "date": "1942-07-12",
+      "epnum": "131",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Problems Of Lasting Peace, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124606",
+      "date": "1942-08-30",
+      "epnum": "131",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Your Next Year's Taxes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124607",
+      "date": "1942-09-06",
+      "epnum": "132",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Are The Four Freedoms Enough"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124608",
+      "date": "1942-09-13",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News, Censorship and Morale"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124609",
+      "date": "1942-09-20",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should The People Have More Voice In The Conduct Of The War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124610",
+      "date": "1942-09-27",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Best Way To Solve Our Manpower Shortage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124611",
+      "date": "1942-10-11",
+      "epnum": "137",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would A Supreme Command For The United Nations Be Desirable"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124612",
+      "date": "1942-10-18",
+      "epnum": "138",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is A Second Front Practical At This Time"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124613",
+      "date": "1942-10-25",
+      "epnum": "139",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would A Planned Economy Destroy Our Two Party System"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124614",
+      "date": "1942-11-01",
+      "epnum": "141",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Kind Of America Are We Fighting For"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124615",
+      "date": "1942-11-08",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Our Silver Policy Sound"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124616",
+      "date": "1942-11-15",
+      "epnum": "143",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should The Gov't Assume Responsibility For Full Employment"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124617",
+      "date": "1942-11-22",
+      "epnum": "144",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would Immediate Freedom For India Hasten Or Retard Victory"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124618",
+      "date": "1942-11-29",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is The Twenty-Five Thousand Dollar Salary Limitation Justifiable"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124619",
+      "date": "1942-12-06",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Congress Assume More Responsibility Planning For Peace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124620",
+      "date": "1942-12-13",
+      "epnum": "147",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Washington Over-Regulating War Industry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124621",
+      "date": "1942-12-20",
+      "epnum": "148",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The War Doing To Our Colleges"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124622",
+      "date": "1942-12-27",
+      "epnum": "149",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Must Civilians Be Drafted For War Work"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124623",
+      "date": "1943-01-03",
+      "epnum": "150",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can The People Have A Voice In Rationing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124624",
+      "date": "1943-01-10",
+      "epnum": "151",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can We Solve The Shipping Crisis"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124625",
+      "date": "1943-01-17",
+      "epnum": "152",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would Freedom From Want Create A Better World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124626",
+      "date": "1943-01-24",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should We Do With Conquered Germany"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124627",
+      "date": "1943-01-31",
+      "epnum": "154",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should We Do With Conquered Japan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124628",
+      "date": "1943-02-07",
+      "epnum": "155",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does The Profit System Penalize The Worker"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124629",
+      "date": "1943-02-14",
+      "epnum": "156",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Free Enterprise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124630",
+      "date": "1943-02-21",
+      "epnum": "157",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should The Present Draft Laws Be Revised"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124631",
+      "date": "1943-02-28",
+      "epnum": "158",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Business Making Too Much Money Out Of The War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124632",
+      "date": "1943-03-07",
+      "epnum": "159",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should Be Done About Last Year's Income Tax Assessments"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124633",
+      "date": "1943-03-14",
+      "epnum": "160",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can Free Enterprise Carry The Post-War Load"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124634",
+      "date": "1943-03-28",
+      "epnum": "162",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Kind Of America Are We Fighting For"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124635",
+      "date": "1943-04-04",
+      "epnum": "163",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Would Jefferson Do Today"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124636",
+      "date": "1943-04-11",
+      "epnum": "164",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should American Youth Support Competitive Enterprise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124637",
+      "date": "1943-04-18",
+      "epnum": "165",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "From The Cradle To The Grave"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124638",
+      "date": "1943-04-25",
+      "epnum": "166",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will There Be Enough Food"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124639",
+      "date": "1943-05-02",
+      "epnum": "167",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Collective Bargaining Include Factory Foremen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124640",
+      "date": "1943-05-09",
+      "epnum": "168",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Canada and The United States In The Post-War World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124641",
+      "date": "1943-05-16",
+      "epnum": "169",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Stands In The Way Of High Wages"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124642",
+      "date": "1943-05-23",
+      "epnum": "170",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can We Hope For Effective Revolt In Occupied Europe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124643",
+      "date": "1943-05-30",
+      "epnum": "171",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Place Of Government Planning In Post-War Properity, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124644",
+      "date": "1943-06-06",
+      "epnum": "172",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Time On Japan's Side"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124645",
+      "date": "1943-06-13",
+      "epnum": "173",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can We Head Off Serious Inflation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124646",
+      "date": "1943-09-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Our Foreign Policy Winning Friends Abroad"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124647",
+      "date": "1943-09-19",
+      "epnum": "179",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would A Military Alliance With Great Britain Contribute To A More Lasting Peace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124648",
+      "date": "1943-10-17",
+      "epnum": "183",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can The Liberal Arts College Be Revitalized"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124649",
+      "date": "1943-10-31",
+      "epnum": "185",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Kind Of America Do The Boys Want To Come Home To"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124650",
+      "date": "1943-11-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is This Thing Called Capitalism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124651",
+      "date": "1943-11-14",
+      "epnum": "187",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does Congress' Desire For Re-election Penalize Good Government"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124652",
+      "date": "1943-11-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Economic Advantages Can America Expect From The War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124653",
+      "date": "1943-12-12",
+      "epnum": "191",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where Is The Money Coming From For Postwar Rehabilitation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124654",
+      "date": "1944-01-16",
+      "epnum": "197",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do We Need An Economic Bill Of Rights"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124655",
+      "date": "1944-01-23",
+      "epnum": "198",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does Private Capitalism Breed Monopoly"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124656",
+      "date": "1944-01-30",
+      "epnum": "199",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Are We Doing On The Diplomatic Front"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124657",
+      "date": "1944-02-06",
+      "epnum": "200",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Price Social Security"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124658",
+      "date": "1944-02-13",
+      "epnum": "201",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is America Foming Toward Fascism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124659",
+      "date": "1944-02-20",
+      "epnum": "202",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Role Of Russia In The Post-War World, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124660",
+      "date": "1944-02-27",
+      "epnum": "203",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is American Democracy Threatened From Within"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124661",
+      "date": "1944-03-05",
+      "epnum": "204",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should Be Done With Defeated Germany"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124662",
+      "date": "1944-03-12",
+      "epnum": "205",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Long Will The War Last"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124663",
+      "date": "1944-03-26",
+      "epnum": "207",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should Be America's Post-War Military Policy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124664",
+      "date": "1944-04-02",
+      "epnum": "208",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will Limitations Of Business Profit Handicap Post-War Jobs"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124665",
+      "date": "1944-04-09",
+      "epnum": "209",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Fascism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124666",
+      "date": "1944-04-16",
+      "epnum": "210",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should America Re-examine Its Faith"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124667",
+      "date": "1944-04-23",
+      "epnum": "211",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is There Any Substitute For Military Alliances"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124668",
+      "date": "1944-04-30",
+      "epnum": "212",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Freedoms For Which We Fight, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124669",
+      "date": "1944-05-07",
+      "epnum": "213",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Kind Of Post-War America Does Young America Want"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124670",
+      "date": "1944-05-14",
+      "epnum": "214",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mobilizing For Abundance In The Post-War World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124671",
+      "date": "1944-05-21",
+      "epnum": "215",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Has America An Economic Future In The Orient"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124672",
+      "date": "1944-05-28",
+      "epnum": "216",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should White Collar Wages Be Allowed To Rise"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124673",
+      "date": "1944-06-04",
+      "epnum": "217",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Much Help Can Invasion Forces Expect From Fortress Europe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124674",
+      "date": "1944-06-11",
+      "epnum": "218",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Federal Social Security Be Abolished"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124675",
+      "date": "1944-06-18",
+      "epnum": "219",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can German Morale Withstand Another Major Defeat"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124676",
+      "date": "1944-06-25",
+      "epnum": "220",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will The Wagner Act Help Or Hinder Post-War Employment"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124677",
+      "date": "1944-07-02",
+      "epnum": "221",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will The Corporation Tax Handicap Post-War Employment"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124678",
+      "date": "1944-07-09",
+      "epnum": "222",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Voice Should Labor Have In Management"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124679",
+      "date": "1944-07-16",
+      "epnum": "223",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would The Continuation Of Present Income Tax Handicap Recovery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124680",
+      "date": "1944-07-23",
+      "epnum": "224",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Organized Labor Take Sides Politically"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124681",
+      "date": "1944-07-30",
+      "epnum": "225",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is The Fourth Term A Major Campaign Issue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124682",
+      "date": "1944-08-06",
+      "epnum": "227",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Bureaucracy A Menace To Democracy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124683",
+      "date": "1944-08-13",
+      "epnum": "228",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Are We Making Friends Abroad"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124684",
+      "date": "1944-08-20",
+      "epnum": "229",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Congress Ratify The Bretton Woods Conference Agreement"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124685",
+      "date": "1944-08-27",
+      "epnum": "230",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can We Guard Against Post-War Depression"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124686",
+      "date": "1944-09-03",
+      "epnum": "231",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Are Our Political Parties Becoming Class Conscious"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124687",
+      "date": "1944-09-10",
+      "epnum": "232",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can Small Nations Have An Effective Voice In The Peace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124688",
+      "date": "1944-09-17",
+      "epnum": "233",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Congress Assuming Its Reconversion Responsibilties"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124689",
+      "date": "1944-09-24",
+      "epnum": "234",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Would A Change In Administration Affect The War Effort"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124690",
+      "date": "1944-10-01",
+      "epnum": "235",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Will Our Votes Mean This November"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124691",
+      "date": "1944-10-08",
+      "epnum": "236",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can The Peace Be Won Without Roosevelt"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124692",
+      "date": "1944-10-15",
+      "epnum": "237",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Are Communism and Fascism Campaign Issues"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124693",
+      "date": "1944-10-22",
+      "epnum": "238",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Roosevelt Or Dewey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124694",
+      "date": "1944-10-24",
+      "epnum": "184",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does Any National Emergency Justify A Fourth Term"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124695",
+      "date": "1944-10-29",
+      "epnum": "239",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will Germany Crack Before Spring"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124696",
+      "date": "1944-11-05",
+      "epnum": "240",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does Internationalism Mean Imperialism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124697",
+      "date": "1944-11-12",
+      "epnum": "241",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Foreign Trade and Full Employment"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124698",
+      "date": "1944-11-19",
+      "epnum": "242",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Full Employment"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124699",
+      "date": "1944-11-26",
+      "epnum": "243",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will Russia Fight Japan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124700",
+      "date": "1944-12-03",
+      "epnum": "244",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should America Have Compulsory Military Training After The War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124701",
+      "date": "1944-12-10",
+      "epnum": "245",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should The United States Change Its Basis Of Treaty Ratification"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124702",
+      "date": "1944-12-17",
+      "epnum": "246",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Do We Mean By Democracy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124703",
+      "date": "1944-12-24",
+      "epnum": "247",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "World Of Tomorrow, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124704",
+      "date": "1944-12-31",
+      "epnum": "248",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is British Policy In The Mediterranean"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124705",
+      "date": "1945-01-07",
+      "epnum": "249",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is America Still The Land Of Opportunity"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124706",
+      "date": "1945-01-14",
+      "epnum": "250",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Future Of Social Security"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124707",
+      "date": "1945-01-21",
+      "epnum": "251",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Dumbarton Oaks Our Best Chance For Peace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124708",
+      "date": "1945-01-28",
+      "epnum": "252",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would Wage Incentives Help Us Solve The Manpower Crisis"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124709",
+      "date": "1945-02-04",
+      "epnum": "253",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Government Guarantee Sixty Million Jobs"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124710",
+      "date": "1945-02-11",
+      "epnum": "254",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does Congress Need Modernization"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124712",
+      "date": "1945-02-17",
+      "epnum": "255",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Place Of Foreign Trade In American Prosperity"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124713",
+      "date": "1945-02-24",
+      "epnum": "256",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do Pressure Groups Threaten American Democracy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124714",
+      "date": "1945-03-04",
+      "epnum": "257",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will Monopolies Create Post-War Problems"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124715",
+      "date": "1945-03-11",
+      "epnum": "258",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can Government Best Help Business"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124716",
+      "date": "1945-03-18",
+      "epnum": "259",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Labor's Part In Post-War Adjustments"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124717",
+      "date": "1945-03-25",
+      "epnum": "260",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Management's Part In Post-War Adjustment"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124718",
+      "date": "1945-04-01",
+      "epnum": "261",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Economic Claim Has The Individual Upon Society"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124719",
+      "date": "1945-04-08",
+      "epnum": "262",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can Peace Be Assured In Asia"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124720",
+      "date": "1945-04-15",
+      "epnum": "263",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Foreign Trade and Domestic Prosperity"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124721",
+      "date": "1945-04-22",
+      "epnum": "264",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Meaning Of Bretton Woods"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124722",
+      "date": "1945-04-29",
+      "epnum": "265",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Are The Problems Of A Guaranteed Annual Wage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124723",
+      "date": "1945-05-06",
+      "epnum": "266",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Foremen Be Unionized"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124724",
+      "date": "1945-05-13",
+      "epnum": "267",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Let's Examine The Post-War Slogans"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124725",
+      "date": "1945-05-20",
+      "epnum": "268",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Will Happen To Post-War Wages"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124726",
+      "date": "1945-05-27",
+      "epnum": "269",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does The Wagner Act Threaten Post-War Prosperity"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124727",
+      "date": "1945-06-03",
+      "epnum": "270",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Future Of The New Deal"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124728",
+      "date": "1945-06-10",
+      "epnum": "271",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Behind The British Election"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124729",
+      "date": "1945-06-17",
+      "epnum": "272",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Has The American Form Of Government Outlived Its Usefulness"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124730",
+      "date": "1945-06-24",
+      "epnum": "273",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should The Little Steel Formula Be Scrapped Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124731",
+      "date": "1945-07-01",
+      "epnum": "274",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can China Unite"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124732",
+      "date": "1945-07-08",
+      "epnum": "275",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does Economic Security Endanger Personal Liberty"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124733",
+      "date": "1945-07-15",
+      "epnum": "276",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is America's Role In World Economic Stabilization"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124734",
+      "date": "1945-07-22",
+      "epnum": "277",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can We Realize Full Employment"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124735",
+      "date": "1945-07-29",
+      "epnum": "278",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Government Economic Planning Compatible With Democracy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124736",
+      "date": "1945-08-05",
+      "epnum": "279",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Future Of Labor Unions In Post-War America"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124737",
+      "date": "1945-08-12",
+      "epnum": "280",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should America Adopt Compulsory Military Training"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124738",
+      "date": "1945-08-19",
+      "epnum": "281",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Has The American Educational System Been A Success"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124739",
+      "date": "1945-08-26",
+      "epnum": "282",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Could Civilization Survive Another World War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124740",
+      "date": "1945-09-02",
+      "epnum": "283",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Are The Possibilities For Democracy In Japan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124741",
+      "date": "1945-09-09",
+      "epnum": "284",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Does The British Labor Victory Mean To America"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124742",
+      "date": "1945-09-16",
+      "epnum": "285",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Much Bureaucracy Must We Have"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124743",
+      "date": "1945-09-23",
+      "epnum": "286",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Congress Adopt The Murray Full Employment Bill"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124744",
+      "date": "1945-09-30",
+      "epnum": "287",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would Increased Wages Mean Increased Prices"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124745",
+      "date": "1945-10-07",
+      "epnum": "288",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Price Ceilings Be Maintained"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124746",
+      "date": "1945-10-14",
+      "epnum": "289",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Industry-Wide Collective Bargaining In The Public Interest"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124747",
+      "date": "1945-10-21",
+      "epnum": "290",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Wrong With Our Labor-Management Relations"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124748",
+      "date": "1945-10-28",
+      "epnum": "291",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would Free Trade Increase Our Domestic Prosperity"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124749",
+      "date": "1945-11-04",
+      "epnum": "292",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Has Victory Advanced The Cause Of World Democracy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124750",
+      "date": "1945-11-11",
+      "epnum": "293",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Congress' Role In Establishing A Labor Policy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124751",
+      "date": "1945-11-18",
+      "epnum": "294",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Congress Pass The 65 Cents An Hour Minimum Wage Law"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124752",
+      "date": "1945-11-25",
+      "epnum": "295",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should The United States Subsidize British Socialism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124753",
+      "date": "1945-12-02",
+      "epnum": "296",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Would A 30% Wage Increase Affect The Public Interest"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124754",
+      "date": "1945-12-09",
+      "epnum": "297",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Which Way America"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124755",
+      "date": "1945-12-16",
+      "epnum": "298",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Labor's Stake In Profits"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124756",
+      "date": "1945-12-23",
+      "epnum": "299",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will Victory Create A Better World"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124757",
+      "date": "1945-12-30",
+      "epnum": "300",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do Cartels Threaten International Trade"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124758",
+      "date": "1946-01-06",
+      "epnum": "301",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does Price Control Mean Fewer Jobs"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124759",
+      "date": "1946-01-13",
+      "epnum": "302",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Crime An Economic Problem"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124760",
+      "date": "1946-01-20",
+      "epnum": "303",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Has Gone Wrong With Collective Bargaining"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124761",
+      "date": "1946-01-27",
+      "epnum": "304",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Are The Rights Of Labor"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124762",
+      "date": "1946-02-03",
+      "epnum": "305",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Are The Rights Of Management"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124763",
+      "date": "1946-02-10",
+      "epnum": "306",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Are The Rights Of The Public In Wage Disputes"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124764",
+      "date": "1946-02-17",
+      "epnum": "307",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will Socialism Solve Britain's Economic Crisis"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124765",
+      "date": "1946-02-24",
+      "epnum": "308",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can We Avoid Serious Inflation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124766",
+      "date": "1946-03-03",
+      "epnum": "309",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does Economic Security Contradict Individual Freedom"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124767",
+      "date": "1946-03-10",
+      "epnum": "310",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Significance Of The Minimum Wage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124768",
+      "date": "1946-03-17",
+      "epnum": "311",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Monopoly Still An Economic Problem"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124769",
+      "date": "1946-03-24",
+      "epnum": "312",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does The Right To Strike Infringe The Right To Work"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124770",
+      "date": "1946-03-31",
+      "epnum": "313",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Big Business Too Big"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124771",
+      "date": "1946-04-07",
+      "epnum": "314",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Does Russia Want Iranian Oil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124772",
+      "date": "1946-04-14",
+      "epnum": "315",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Role Of The Liberal Tradition In Human Progress"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124773",
+      "date": "1946-04-21",
+      "epnum": "316",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Foremen Join Labor Unions"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124774",
+      "date": "1946-04-28",
+      "epnum": "317",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should Price Control Be Continued"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124775",
+      "date": "1946-05-05",
+      "epnum": "318",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Russia Moving Toward Political Democracy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124776",
+      "date": "1946-05-12",
+      "epnum": "319",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Has The War Strengthened American Democracy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124777",
+      "date": "1946-05-19",
+      "epnum": "320",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Does The South Require Increased Unionization Of Labor"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124778",
+      "date": "1946-05-26",
+      "epnum": "321",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Have Post-War Strikes Been Against The Public Interest"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124779",
+      "date": "1946-06-02",
+      "epnum": "322",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should We Have National Compulsory Health Insurance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124780",
+      "date": "1946-06-09",
+      "epnum": "323",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should We Extend The Draft"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124781",
+      "date": "1946-06-16",
+      "epnum": "324",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should The Wagner Act Be Amended"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124782",
+      "date": "1946-06-23",
+      "epnum": "325",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is The Franco Regime A Threat To Peace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124783",
+      "date": "1946-06-30",
+      "epnum": "326",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Russia A Threat To Peace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124784",
+      "date": "1946-07-07",
+      "epnum": "327",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Socialism Working In England"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124785",
+      "date": "1946-07-14",
+      "epnum": "328",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would Wage Incentives Promote Industrial Peace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124786",
+      "date": "1946-07-21",
+      "epnum": "329",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should Be Our National Labor Policy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124787",
+      "date": "1946-07-28",
+      "epnum": "330",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should Be Our National Labor Policy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124788",
+      "date": "1946-08-04",
+      "epnum": "331",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Holding Up Production"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124789",
+      "date": "1946-08-11",
+      "epnum": "332",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can We Maintain A High Level Of Employment"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124790",
+      "date": "1946-08-18",
+      "epnum": "333",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can Competition Hold Prices In Line"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124791",
+      "date": "1946-08-25",
+      "epnum": "334",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Answer To The Housing Shortage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124792",
+      "date": "1946-09-01",
+      "epnum": "335",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Holding Up New Housing"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124793",
+      "date": "1946-09-08",
+      "epnum": "336",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Collective Bargaining Out Of Balance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124794",
+      "date": "1946-09-15",
+      "epnum": "337",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Must We Have Boom and Bust"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124795",
+      "date": "1946-09-22",
+      "epnum": "338",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can Industry Offer A Guaranteed Annual Wage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124796",
+      "date": "1946-10-20",
+      "epnum": "341",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is There A Threat To Freedom Of Speech On The Air"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124797",
+      "date": "1946-10-27",
+      "epnum": "342",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Do We Mean By Un-American Activities"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124798",
+      "date": "1946-11-03",
+      "epnum": "343",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will 1947 Bring Industrial Peace"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124799",
+      "date": "1946-11-10",
+      "epnum": "344",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would Socialism Benefit Canada"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124800",
+      "date": "1946-11-17",
+      "epnum": "345",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can Labor Get Higher Real Wages"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124801",
+      "date": "1946-11-24",
+      "epnum": "346",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should The Closed Shop Be Outlawed"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124802",
+      "date": "1946-12-01",
+      "epnum": "347",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should Be Done About Rent Ceilings"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124803",
+      "date": "1946-12-08",
+      "epnum": "348",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Future Of Trade Unionism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124804",
+      "date": "1946-12-15",
+      "epnum": "349",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Are High Personal Taxes A Threat To Our National Welfare"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124805",
+      "date": "1946-12-22",
+      "epnum": "350",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Would A General Wage Increase Now Benefit The Country"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124806",
+      "date": "1946-12-29",
+      "epnum": "351",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do Present Profits Justify A Wage Increase"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124807",
+      "date": "1947-01-05",
+      "epnum": "352",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Farm Prices and Prosperity"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124808",
+      "date": "1947-01-12",
+      "epnum": "353",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is Our Economic Policy Sound In The Far East"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124809",
+      "date": "1947-01-19",
+      "epnum": "354",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Labor's Stake In Capitalism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124810",
+      "date": "1947-01-26",
+      "epnum": "355",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Capitalism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124811",
+      "date": "1947-02-02",
+      "epnum": "356",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Are The Issues Of Portal-To-Portal Pay"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124812",
+      "date": "1947-02-09",
+      "epnum": "357",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Do We Need New Labor Legislation"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124813",
+      "date": "1947-02-16",
+      "epnum": "358",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Are High Personal Income Taxes Handicapping Prosperity"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124814",
+      "date": "1947-02-23",
+      "epnum": "359",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is Liberalism"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "124815",
+      "date": "1947-03-02",
+      "epnum": "360",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Can Capitalism Better Serve The Worker"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    },
+    {
+      "genre": "Information"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-09-02",
+      "dow": "",
+      "time": "9:00 PM",
+      "end": "1941-05-26",
+      "length": "60",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1941-09-28",
+      "dow": "Su",
+      "time": "9:00 PM",
+      "end": "1943-07-11",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1943-08-29",
+      "dow": "Su",
+      "time": "",
+      "end": "1943-12-19",
+      "length": "45",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1941-09-28",
+      "end": "1943-12-18"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Wake Up America"
+    }
+  ]
+}

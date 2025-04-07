@@ -1,0 +1,337 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "ONUP"
+    }
+  ],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logo1002.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "16186",
+      "first": "Ray",
+      "last": "Darby",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "18632",
+      "first": "Morris",
+      "last": "Surdin",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2431",
+      "idtype": "4",
+      "page": "1",
+      "article": "",
+      "url": "",
+      "date": "1999-01-01",
+      "source": "Return With Us Now/RWUN V24 06 Jan99.pdf",
+      "idpytype2": "4",
+      "title": "Return With Us Now - Vol 24 #6 Jan 1999",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "114129",
+      "date": "1947-01-05",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B078C02 More Plans For A Belated Honeymoon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114130",
+      "date": "1947-01-12",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C03 Father Barbour Talks To Jack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114131",
+      "date": "1947-01-19",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C04 Betty and Her Fifteen Day Diet"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114132",
+      "date": "1947-02-01",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C05 Teddy Goes To See Paul"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114133",
+      "date": "1947-02-08",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C06 Nicolette Consoles Betty"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114134",
+      "date": "1947-02-15",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C07 Betty's Long Vigil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114135",
+      "date": "1947-02-22",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C08 Jack Plans A Trip"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114136",
+      "date": "1947-03-01",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C09 Paul Goes To See Nicolette"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114137",
+      "date": "1947-03-08",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C10 Jack Reports On His Trip"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114138",
+      "date": "1947-03-15",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C11 Pinky's Status At Stanford Gets Shaky"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114139",
+      "date": "1947-03-22",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C12 Pinky's Troubles Begin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114140",
+      "date": "1947-03-29",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C13 Pinky Calls On His Uncle Paul"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114141",
+      "date": "1947-04-05",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C14 Pinky Appeals To His Brother Hank"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114142",
+      "date": "1947-04-12",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B079C15 The Girl With The Big Automobile"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114143",
+      "date": "1947-04-19",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B080C01 Pinky Faces The Music "
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "114144",
+      "date": "1947-04-26",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "B080C02 Henry Confronts His Grandson"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-01-05",
+      "dow": "Su",
+      "time": "2:30 PM",
+      "end": "1947-01-19",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-02-01",
+      "dow": "Sa",
+      "time": "6:15 PM",
+      "end": "1947-04-26",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Once Upon a Tune"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "MEVI"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Men Of Vision/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Men-of-Vision.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6219-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2710",
+      "first": "Edwin C.",
+      "last": "Hill",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "3874",
+      "first": "Tony",
+      "last": "Marvin",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5684",
+      "first": "William",
+      "last": "Stoess",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "285937",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Andrew Guinand"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285938",
+      "date": "0000-00-00",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Antonio Van Leeuwenheok"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285922",
+      "date": "1937-04-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gutenberg"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285923",
+      "date": "1937-04-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Isaac Newton"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285924",
+      "date": "1937-04-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marco Polo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285925",
+      "date": "1937-04-30",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nero"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285926",
+      "date": "1937-05-05",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Roger Bacon"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men Of Vision",
+          "name": "Men Of Vision 37-05-05 Roger Bacon.mp3",
+          "time": "826",
+          "size": "6608783"
+        }
+      ]
+    },
+    {
+      "ide": "285927",
+      "date": "1937-05-09",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Galileo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285928",
+      "date": "1937-07-04",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "C. Francis Jenkins"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285929",
+      "date": "1937-07-18",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Theodore Roosevelt"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285930",
+      "date": "1937-07-26",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thomas Young"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men Of Vision",
+          "name": "Men Of Vision 37-07-26 Thomas Young.mp3",
+          "time": "839",
+          "size": "6714318"
+        }
+      ]
+    },
+    {
+      "ide": "285931",
+      "date": "1937-08-02",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Benjamin Franklin"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men Of Vision",
+          "name": "Men Of Vision 37-08-02 Benjamin Franklin.mp3",
+          "time": "878",
+          "size": "7025071"
+        }
+      ]
+    },
+    {
+      "ide": "285932",
+      "date": "1937-08-15",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Roger Bacon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285933",
+      "date": "1937-08-22",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Galileo"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Men Of Vision",
+          "name": "Men Of Vision 37-08-22 Gallileo.mp3",
+          "time": "839",
+          "size": "6712019"
+        }
+      ]
+    },
+    {
+      "ide": "285934",
+      "date": "1938-05-12",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "David Brewster"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285935",
+      "date": "1938-05-19",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Leonardo De Vinci"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "285936",
+      "date": "1938-11-07",
+      "epnum": "    ",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "David Brewster"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    },
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-06-17",
+      "dow": "Su",
+      "time": "7:00 PM",
+      "end": "1945-09-09",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sanka Coffee",
+      "begin": "1945-06-17",
+      "end": "1945-09-09"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Men of Vision"
+    }
+  ]
+}

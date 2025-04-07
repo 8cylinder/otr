@@ -1,0 +1,140 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/Talk Back/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1896",
+      "first": "Happy",
+      "last": "Felton",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "315292",
+      "date": "1950-10-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Goodnight Irene"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Talk Back",
+          "name": "Talk Back 501016 xxx Goodnight Irene_OTRRPG.mp3",
+          "time": "813",
+          "size": "13089412"
+        },
+        {
+          "path": "T",
+          "folder": "Talk Back",
+          "name": "Talk Back 50-10-16 Goodnight Irene.mp3",
+          "time": "815",
+          "size": "6527312"
+        }
+      ]
+    },
+    {
+      "ide": "315293",
+      "date": "1950-12-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lending Money"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Talk Back",
+          "name": "Talk Back 501221 xxx Lending Money_OTRRPG.mp3",
+          "time": "844",
+          "size": "13585110"
+        },
+        {
+          "path": "T",
+          "folder": "Talk Back",
+          "name": "Talk Back 50-12-21 Lending Money.mp3",
+          "time": "846",
+          "size": "6775161"
+        }
+      ]
+    },
+    {
+      "ide": "315294",
+      "date": "1951-01-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Army Chow"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Talk Back",
+          "name": "Talk Back 510122 xxx Army Chow_OTRRPG.mp3",
+          "time": "719",
+          "size": "11585589"
+        },
+        {
+          "path": "T",
+          "folder": "Talk Back",
+          "name": "Talk Back 51-01-22 Army Chow.mp3",
+          "time": "721",
+          "size": "5775194"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1950-10-02",
+      "dow": "M,Tu,W,Th,F",
+      "time": "3:45 PM",
+      "end": "1951-05-11",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Talk Back"
+    }
+  ]
+}

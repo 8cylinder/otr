@@ -1,0 +1,805 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [
+    {
+      "code": "CHEK"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322174103-f19d09e3.jpg",
+      "label": "Checkboard Fun Fest",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2195-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Checkerboard%20Fun%20Fest/",
+      "label": "Library Files",
+      "idtype": "16"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "43479",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Don't Say Goodbye If You Love Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Checkerboard Fun Fest",
+          "name": "Checkerboard Fun Fest xx-xx-xx (xxx) First Song - Don't Say Goodbye If You Love Me.mp3",
+          "time": "730",
+          "size": "2919805"
+        }
+      ]
+    },
+    {
+      "ide": "43480",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - My Honeymoon Bridge Broke Down"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Checkerboard Fun Fest",
+          "name": "Checkerboard Fun Fest xx-xx-xx (xxx) First Song - My Honeymoon Bridge Broke Down.mp3",
+          "time": "714",
+          "size": "2857423"
+        }
+      ]
+    },
+    {
+      "ide": "43481",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Open Up Them Pearly Gates"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Checkerboard Fun Fest",
+          "name": "Checkerboard Fun Fest 4xxxxx 1st Song - Open Up Them Pearly Gates_OTRRPG.mp3",
+          "time": "701",
+          "size": "11295386"
+        },
+        {
+          "path": "C",
+          "folder": "Checkerboard Fun Fest",
+          "name": "Checkerboard Fun Fest xx-xx-xx (xxx) First Song - Open Up Them Pearly Gates.mp3",
+          "time": "683",
+          "size": "2732866"
+        }
+      ]
+    },
+    {
+      "ide": "43482",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - When You Wore A Tulip"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Checkerboard Fun Fest",
+          "name": "Checkerboard Fun Fest xx-xx-xx (xxx) First Song - When You Wore A Tulip.mp3",
+          "time": "711",
+          "size": "2843830"
+        }
+      ]
+    },
+    {
+      "ide": "43472",
+      "date": "0000-00-00",
+      "epnum": "101",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'll Be Around Somewhere"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43473",
+      "date": "0000-00-00",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Corrine, Corrine (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43474",
+      "date": "0000-00-00",
+      "epnum": "109",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - How My Yodeling Days Began"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43475",
+      "date": "0000-00-00",
+      "epnum": "110",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Meet Me In Saint Louis"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43476",
+      "date": "0000-00-00",
+      "epnum": "113",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Don't You Cry Over Me"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43477",
+      "date": "0000-00-00",
+      "epnum": "114",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Wonder Where You Are Tonight"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43478",
+      "date": "0000-00-00",
+      "epnum": "117",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - There's A Tavern In The Town"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Checkerboard Fun Fest",
+          "name": "Checkerboard Fun Fest 45-xx-xx (117) First Song - There's A Tavern In The Town.mp3",
+          "time": "714",
+          "size": "2857735"
+        }
+      ]
+    },
+    {
+      "ide": "43439",
+      "date": "0000-00-00",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - No Foolin'"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43440",
+      "date": "0000-00-00",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Harmonica Selection"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43441",
+      "date": "0000-00-00",
+      "epnum": "53",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Love To Yodel In The Mountains"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43442",
+      "date": "0000-00-00",
+      "epnum": "54",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Little Green Valley"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43443",
+      "date": "0000-00-00",
+      "epnum": "55",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bigger N'You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43444",
+      "date": "0000-00-00",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Got A Home Way Down In Dixie"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43445",
+      "date": "0000-00-00",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Black Mountain Rag"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43446",
+      "date": "0000-00-00",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Smile And Drive Your Blues Away"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43447",
+      "date": "0000-00-00",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Raise A Ruckus Tonight"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43448",
+      "date": "0000-00-00",
+      "epnum": "62",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Ridin' Down That Texas Trail"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43449",
+      "date": "0000-00-00",
+      "epnum": "63",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Waiting For The Letter"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43450",
+      "date": "0000-00-00",
+      "epnum": "64",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jimmy The Kid"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43451",
+      "date": "0000-00-00",
+      "epnum": "65",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Dead Turner's Girl"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43452",
+      "date": "0000-00-00",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Live And Let Live"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43453",
+      "date": "0000-00-00",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Arkansas Chief"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43454",
+      "date": "0000-00-00",
+      "epnum": "70",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Barnyard Rag"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43455",
+      "date": "0000-00-00",
+      "epnum": "75",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Don't You Believe It"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43456",
+      "date": "0000-00-00",
+      "epnum": "76",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Corrine, Corrine"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43457",
+      "date": "0000-00-00",
+      "epnum": "77",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Just One Little Kiss"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43458",
+      "date": "0000-00-00",
+      "epnum": "78",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Memories Of You"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43459",
+      "date": "0000-00-00",
+      "epnum": "79",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Listen To The Mockingbird"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43460",
+      "date": "0000-00-00",
+      "epnum": "80",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - This World Is Not My Home"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43461",
+      "date": "0000-00-00",
+      "epnum": "81",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Just Come On Back"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43462",
+      "date": "0000-00-00",
+      "epnum": "82",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Alabama Jamboree"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43463",
+      "date": "0000-00-00",
+      "epnum": "83",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I Wondered Why You Said Good-bye"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43464",
+      "date": "0000-00-00",
+      "epnum": "84",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Skip To My Lou"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43465",
+      "date": "0000-00-00",
+      "epnum": "87",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Listen To The Mockingbird (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43466",
+      "date": "0000-00-00",
+      "epnum": "88",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - They Cut Down The Old Pine Tree"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43467",
+      "date": "0000-00-00",
+      "epnum": "89",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hear Them Bells"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Checkerboard Fun Fest",
+          "name": "Checkerboard Fun Fest 45-xx-xx (089) First Song - Hear Them Bells.mp3",
+          "time": "785",
+          "size": "3139034"
+        }
+      ]
+    },
+    {
+      "ide": "43468",
+      "date": "0000-00-00",
+      "epnum": "90",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hillbilly Bill"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Checkerboard Fun Fest",
+          "name": "Checkerboard Fun Fest 45-xx-xx (090) First Song - Hillbilly Bill.mp3",
+          "time": "782",
+          "size": "3128166"
+        }
+      ]
+    },
+    {
+      "ide": "43469",
+      "date": "0000-00-00",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Take Me Back To Tulsa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43470",
+      "date": "0000-00-00",
+      "epnum": "94",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Waitin' For The Train"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "43471",
+      "date": "0000-00-00",
+      "epnum": "95",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - How Was I To Know"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "334039",
+      "date": "1945-01-01",
+      "epnum": "118",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334040",
+      "date": "1945-01-01",
+      "epnum": "119",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334041",
+      "date": "1945-01-01",
+      "epnum": "120",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334042",
+      "date": "1945-01-01",
+      "epnum": "121",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334043",
+      "date": "1945-01-01",
+      "epnum": "122",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334044",
+      "date": "1945-01-01",
+      "epnum": "125",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334045",
+      "date": "1945-01-01",
+      "epnum": "126",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334046",
+      "date": "1945-01-01",
+      "epnum": "127",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334047",
+      "date": "1945-01-01",
+      "epnum": "128",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334048",
+      "date": "1945-01-01",
+      "epnum": "129",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334049",
+      "date": "1945-01-01",
+      "epnum": "130",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334050",
+      "date": "1945-01-01",
+      "epnum": "135",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334051",
+      "date": "1945-01-01",
+      "epnum": "136",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334052",
+      "date": "1945-01-01",
+      "epnum": "141",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "334053",
+      "date": "1945-01-01",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "Ralston Purina Company",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Checkerboard Fun Fest, The"
+    }
+  ]
+}

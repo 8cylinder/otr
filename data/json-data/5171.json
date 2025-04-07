@@ -1,0 +1,211 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/J Series/Jazz Band Ball/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "20621",
+      "first": "George",
+      "last": "Gerard",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "200132",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Fidgety Feet"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jazz Band Ball",
+          "name": "Jazz Band Ball xx-xx-xx (2) First Song - Figitedy Feet.mp3",
+          "time": "1492",
+          "size": "14925992"
+        },
+        {
+          "path": "J",
+          "folder": "Jazz Band Ball",
+          "name": "Jazz Band Ball xx-xx-xx (2) First Song - Figitedy Feet.mp3",
+          "time": "1492",
+          "size": "14925992"
+        }
+      ]
+    },
+    {
+      "ide": "200133",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - At Sundown"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jazz Band Ball",
+          "name": "Jazz Band Ball xx-xx-xx (3) First Song - At Sundown.mp3",
+          "time": "1494",
+          "size": "14938280"
+        }
+      ]
+    },
+    {
+      "ide": "200134",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Little Coquette"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jazz Band Ball",
+          "name": "Jazz Band Ball xx-xx-xx (4) First Song - Little Coquette.mp3",
+          "time": "1492",
+          "size": "14925992"
+        }
+      ]
+    },
+    {
+      "ide": "200135",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - I'm Sitting On Top Of The World"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jazz Band Ball",
+          "name": "Jazz Band Ball xx-xx-xx (5) First Song - I'm Sitting On Top Of The World.mp3",
+          "time": "1529",
+          "size": "15290536"
+        }
+      ]
+    },
+    {
+      "ide": "200136",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - High Society"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jazz Band Ball",
+          "name": "Jazz Band Ball xx-xx-xx (6) First Song - High Society.mp3",
+          "time": "1531",
+          "size": "15306920"
+        }
+      ]
+    },
+    {
+      "ide": "200137",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Alice Blue Gown"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jazz Band Ball",
+          "name": "Jazz Band Ball xx-xx-xx (7) First Song - Alice Blue Gown.mp3",
+          "time": "1543",
+          "size": "15429790"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1956-01-14",
+      "dow": "Sa",
+      "time": "6:05 PM",
+      "end": "1956-02-04",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1955-07-09",
+      "dow": "Sa",
+      "time": "7:00 PM",
+      "end": "1955-09-22",
+      "length": "10",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jazz Band Ball"
+    }
+  ]
+}

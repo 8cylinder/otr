@@ -1,0 +1,126 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "28493",
+      "first": "Alan",
+      "last": "Lomax",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "307372",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cheynne, Wyoming"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Ballard Hunter",
+          "name": "Ballad Hunter 41xxxx 01 Cheyenne, Wyoming (32-22)_OTRRPG.mp3",
+          "time": "867",
+          "size": "3548038"
+        },
+        {
+          "path": "B",
+          "folder": "Ballard Hunter",
+          "name": "Ballad Hunter 41xxxx 01 Cheyenne, Wyoming_OTRRPG.mp3",
+          "time": "850",
+          "size": "13686081"
+        },
+        {
+          "path": "B",
+          "folder": "Ballard Hunter",
+          "name": "Ballad Hunter 41-XX-XX (01) Cheynne, Wyoming.mp3",
+          "time": "849",
+          "size": "6788841"
+        }
+      ]
+    },
+    {
+      "ide": "307373",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blues and Hollers"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Ballard Hunter",
+          "name": "Ballad Hunter 41xxxx 02 Blues And Hollers (32-22)_OTRRPG.mp3",
+          "time": "852",
+          "size": "3420505"
+        },
+        {
+          "path": "B",
+          "folder": "Ballard Hunter",
+          "name": "Ballad Hunter 41xxxx 02 Blues And Hollers_OTRRPG.mp3",
+          "time": "873",
+          "size": "14044272"
+        },
+        {
+          "path": "B",
+          "folder": "Ballard Hunter",
+          "name": "Ballad Hunter 41-XX-XX (02) Blues and Hollers.mp3",
+          "time": "871",
+          "size": "6967097"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Ballad Hunter, The"
+    }
+  ]
+}

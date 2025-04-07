@@ -1,0 +1,111 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,856820,00.html",
+      "label": "1951-05-07: Under the Gun",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "29897",
+      "first": "Maxwell",
+      "last": "Marvin",
+      "f": "Noted Role",
+      "character": "Defense Reporter"
+    },
+    {
+      "idperson": "51107",
+      "first": "William",
+      "last": "Frye",
+      "f": "Noted Role",
+      "character": "host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Documentary"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-10-25",
+      "dow": "Tu",
+      "time": "10:00 PM",
+      "end": "1950-09-26",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1950-10-03",
+      "dow": "Tu",
+      "time": "8:30 PM",
+      "end": "1950-11-21",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1950-11-30",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1951-03-28",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1951-04-03",
+      "dow": "Tu",
+      "time": "10:00 PM",
+      "end": "1951-10-02",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Time for Defense"
+    }
+  ]
+}

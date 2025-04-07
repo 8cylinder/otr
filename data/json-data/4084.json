@@ -1,0 +1,686 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323043026-d8b5b9fe.jpg",
+      "label": "GHOST CORPS",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323043030-4b582ea0.jpg",
+      "label": "Ghost Corps CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-4084-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/G Series/Ghost Corps/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "The Lou R. Winston Radio Transcriptions was the syndicator."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "4298",
+      "first": "Talbot",
+      "last": "Mundy",
+      "f": "Writer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "1230",
+      "idtype": "4",
+      "page": "48",
+      "article": "",
+      "url": "",
+      "date": "2001-05-01",
+      "source": "NARA News/Nara News V29 02 Spring2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 02 Spring2001",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "250798",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Possible missing episode between episodes 024 and 025.  Slight skip in story line.]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "67864",
+      "date": "1938-04-18",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (01/13) - Ordered To Aswan, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 380418 Knives of El Malique 01 Ordered To Aswan_OTRRPG.mp3",
+          "time": "783",
+          "size": "12614909"
+        },
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-04-18 (01) Ordered To Aswan.mp3",
+          "time": "855",
+          "size": "3420180"
+        }
+      ]
+    },
+    {
+      "ide": "67865",
+      "date": "1938-04-19",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (02/13) - Finding All, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 380419 Knives of El Malique 02 Finding All_OTRRPG.mp3",
+          "time": "794",
+          "size": "12782511"
+        },
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-04-19 (02) Finding All.mp3",
+          "time": "869",
+          "size": "3477524"
+        }
+      ]
+    },
+    {
+      "ide": "67866",
+      "date": "1938-04-20",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (03/13) - Princess Ameira, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 380420 Knives of El Malique 03 Princess Ameira_OTRRPG.mp3",
+          "time": "810",
+          "size": "13044153"
+        },
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-04-20 (03) Princess Ameria.mp3",
+          "time": "881",
+          "size": "3524628"
+        }
+      ]
+    },
+    {
+      "ide": "67867",
+      "date": "1938-04-21",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (04/13) - A Killing, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 380421 Knives of El Malique 04 In The Den of El Malique_OTRRPG.mp3",
+          "time": "753",
+          "size": "12064529"
+        },
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-04-21 (04) A Killing.mp3",
+          "time": "845",
+          "size": "3381268"
+        }
+      ]
+    },
+    {
+      "ide": "67868",
+      "date": "1938-04-22",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (05/13) - Both Captured, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-04-22 (05) Both Captured.mp3",
+          "time": "875",
+          "size": "3502100"
+        }
+      ]
+    },
+    {
+      "ide": "67869",
+      "date": "1938-04-25",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (06/13) - Both Freed, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-04-25 (06) Both Freed.mp3",
+          "time": "903",
+          "size": "3610644"
+        }
+      ]
+    },
+    {
+      "ide": "67870",
+      "date": "1938-04-26",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (07/13) - Recaptured, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-04-26 (07) Recaptured.mp3",
+          "time": "871",
+          "size": "3485716"
+        }
+      ]
+    },
+    {
+      "ide": "67871",
+      "date": "1938-04-27",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (08/13) - Guns Discovered, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-04-27 (08) Guns Discovered.mp3",
+          "time": "886",
+          "size": "3547156"
+        }
+      ]
+    },
+    {
+      "ide": "67872",
+      "date": "1938-04-28",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (09/13) - Ameira Freed, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-04-28 (09) Ameria Freed.mp3",
+          "time": "867",
+          "size": "3471380"
+        }
+      ]
+    },
+    {
+      "ide": "67873",
+      "date": "1938-04-29",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (10/13) - River Crossing, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-04-29 (09) River Crossing.mp3",
+          "time": "877",
+          "size": "3510292"
+        }
+      ]
+    },
+    {
+      "ide": "67874",
+      "date": "1938-05-02",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (11/13) - Room Trap, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-02 (10) Room Trap.mp3",
+          "time": "870",
+          "size": "3483668"
+        }
+      ]
+    },
+    {
+      "ide": "67875",
+      "date": "1938-05-03",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (12/13) - Main Chamber, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-03 (11) Main Chamber.mp3",
+          "time": "872",
+          "size": "3489812"
+        }
+      ]
+    },
+    {
+      "ide": "67876",
+      "date": "1938-05-04",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Knives Of El Malique (13/13) - Tomb Blown Up, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-04 (12) Tomb Blown Up.mp3",
+          "time": "877",
+          "size": "3508244"
+        }
+      ]
+    },
+    {
+      "ide": "67877",
+      "date": "1938-05-05",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (01/13) - Rug Bought, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-05 (13) Rug Bought.mp3",
+          "time": "725",
+          "size": "2904084"
+        }
+      ]
+    },
+    {
+      "ide": "67878",
+      "date": "1938-05-06",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (02/13) - Wine Drugged, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-06 (14) Wine Drugged.mp3",
+          "time": "730",
+          "size": "2922516"
+        }
+      ]
+    },
+    {
+      "ide": "67879",
+      "date": "1938-05-09",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (03/13) - To Karachi, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-09 (15) To Karachi.mp3",
+          "time": "718",
+          "size": "2871316"
+        }
+      ]
+    },
+    {
+      "ide": "67880",
+      "date": "1938-05-10",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (04/13) - To Hydrabad, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-10 (16) To Hyderabad.mp3",
+          "time": "717",
+          "size": "2869268"
+        }
+      ]
+    },
+    {
+      "ide": "67881",
+      "date": "1938-05-11",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (05/13) - In Nepal, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-11 (17) In Nepal.mp3",
+          "time": "751",
+          "size": "3004436"
+        }
+      ]
+    },
+    {
+      "ide": "67882",
+      "date": "1938-05-12",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (06/13) - Captured, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-12 (18) Captured.mp3",
+          "time": "733",
+          "size": "2932756"
+        }
+      ]
+    },
+    {
+      "ide": "67883",
+      "date": "1938-05-13",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (07/13) - A Bargain, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-13 (19) A Bargain.mp3",
+          "time": "751",
+          "size": "3004436"
+        }
+      ]
+    },
+    {
+      "ide": "67884",
+      "date": "1938-05-16",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (08/13) - Poison Wine, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-16 (20) Poison Wine.mp3",
+          "time": "726",
+          "size": "2906132"
+        }
+      ]
+    },
+    {
+      "ide": "67885",
+      "date": "1938-05-17",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (09/13) - The Cave, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-17 (21) The Cave.mp3",
+          "time": "744",
+          "size": "2979860"
+        }
+      ]
+    },
+    {
+      "ide": "67886",
+      "date": "1938-05-18",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (10/13) - Combat, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-18 (22) Combat.mp3",
+          "time": "718",
+          "size": "2873364"
+        }
+      ]
+    },
+    {
+      "ide": "67887",
+      "date": "1938-05-19",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (11/13) - Rani Captured, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-19 (23) Rani Captured.mp3",
+          "time": "724",
+          "size": "2899988"
+        }
+      ]
+    },
+    {
+      "ide": "67888",
+      "date": "1938-05-20",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (12/13) - Captured, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-20 (24) Captives.mp3",
+          "time": "728",
+          "size": "2912276"
+        }
+      ]
+    },
+    {
+      "ide": "67889",
+      "date": "1938-05-23",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prayer Rug Of Nana Sahib (13/13) - Ram Dass is Killed, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Ghost Corps",
+          "name": "Ghost Corps 38-05-23 (25) Ramdas Killed.mp3",
+          "time": "733",
+          "size": "2934804"
+        }
+      ]
+    },
+    {
+      "ide": "67890",
+      "date": "1938-05-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "[Play date is listed in LA Times]"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Mystery"
+    },
+    {
+      "genre": "Suspense"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Ghost Corps"
+    }
+  ]
+}

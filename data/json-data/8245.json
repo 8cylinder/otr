@@ -1,0 +1,89 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "50891",
+      "first": "Charles",
+      "last": "Finan",
+      "f": "Noted Role",
+      "character": "Snoop"
+    },
+    {
+      "idperson": "50892",
+      "first": "Paul",
+      "last": "Winkopp",
+      "f": "Noted Role",
+      "character": "Peep"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Crime"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1931-05-12",
+      "dow": "Tu",
+      "time": "11:00 PM",
+      "end": "1931-08-04",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1931-08-12",
+      "dow": "W",
+      "time": "7:00 PM",
+      "end": "1931-08-26",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1931-09-02",
+      "dow": "W",
+      "time": "8:15 PM",
+      "end": "1931-10-07",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1931-10-14",
+      "dow": "W",
+      "time": "8:15 PM",
+      "end": "1931-11-25",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Snoop and Peep"
+    }
+  ]
+}

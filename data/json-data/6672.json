@@ -1,0 +1,571 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "47051",
+      "first": "Leo",
+      "last": "Kempinski",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "153258",
+      "date": "1945-11-18",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Food"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 451118 01 Food_OTRRPG.mp3",
+          "time": "1616",
+          "size": "25938622"
+        }
+      ]
+    },
+    {
+      "ide": "153259",
+      "date": "1945-11-25",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Housing Problem, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "153260",
+      "date": "1945-12-02",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153261",
+      "date": "1945-12-09",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153262",
+      "date": "1945-12-16",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153263",
+      "date": "1945-12-23",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153264",
+      "date": "1945-12-30",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Predictions For 1946"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 451230 07 Predictions For 1946_OTRRPG.mp3",
+          "time": "1629",
+          "size": "26150109"
+        }
+      ]
+    },
+    {
+      "ide": "153265",
+      "date": "1946-01-06",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Avation In Peacetime"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 460106 08 Aviation In Peace Time_OTRRPG.mp3",
+          "time": "1606",
+          "size": "25779379"
+        }
+      ]
+    },
+    {
+      "ide": "153266",
+      "date": "1946-01-13",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Struggle For Brotherhood"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 460113 09 Struggle For Brotherhood_OTRRPG.mp3",
+          "time": "1603",
+          "size": "25720447"
+        }
+      ]
+    },
+    {
+      "ide": "153267",
+      "date": "1946-01-20",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Peace Time Problems"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 460120 10 Peace Time Problems_OTRRPG.mp3",
+          "time": "1590",
+          "size": "25517737"
+        }
+      ]
+    },
+    {
+      "ide": "153268",
+      "date": "1946-01-27",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fight To Protect The Money"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 460127 11 Fight To Protect The Money_OTRRPG.mp3",
+          "time": "1608",
+          "size": "25809890"
+        }
+      ]
+    },
+    {
+      "ide": "153269",
+      "date": "1946-02-03",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Is The Future Of Plastics"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 460203 12 What Is The Future of Plastics_OTRRPG.mp3",
+          "time": "1564",
+          "size": "25108555"
+        }
+      ]
+    },
+    {
+      "ide": "153270",
+      "date": "1946-02-10",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "War Against Inflation, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 460210 13 The War Against Inflation_OTRRPG.mp3",
+          "time": "1584",
+          "size": "25429548"
+        }
+      ]
+    },
+    {
+      "ide": "153271",
+      "date": "1946-02-17",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Now For The Marine Corps"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 460217 14 What Now For The Marine Corps_OTRRPG.mp3",
+          "time": "1614",
+          "size": "25906439"
+        }
+      ]
+    },
+    {
+      "ide": "153272",
+      "date": "1946-02-24",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Railroads Of America, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 460224 15 The Railroads of America_OTRRPG.mp3",
+          "time": "1586",
+          "size": "25453371"
+        }
+      ]
+    },
+    {
+      "ide": "153273",
+      "date": "1946-03-03",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Streamlining Of The Congress"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 460303 16 Streamlining of The Congress_OTRRPG.mp3",
+          "time": "1605",
+          "size": "25755138"
+        }
+      ]
+    },
+    {
+      "ide": "153274",
+      "date": "1946-03-10",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Youth At The Crossroads"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "National Hour",
+          "name": "National Hour 460310 17 Youth At The Crossroads_OTRRPG.mp3",
+          "time": "1595",
+          "size": "25605508"
+        }
+      ]
+    },
+    {
+      "ide": "153275",
+      "date": "1946-03-17",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Little Man In Business, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "153276",
+      "date": "1946-03-24",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153277",
+      "date": "1946-03-31",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153278",
+      "date": "1946-04-07",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153279",
+      "date": "1946-04-14",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153280",
+      "date": "1946-04-21",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153281",
+      "date": "1946-04-28",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153282",
+      "date": "1946-05-05",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153283",
+      "date": "1946-05-12",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153284",
+      "date": "1946-05-19",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153285",
+      "date": "1946-05-26",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153286",
+      "date": "1946-06-02",
+      "epnum": "29",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153287",
+      "date": "1946-06-09",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153288",
+      "date": "1946-06-16",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153289",
+      "date": "1946-06-23",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153290",
+      "date": "1946-06-30",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153291",
+      "date": "1946-07-04",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153292",
+      "date": "1946-07-14",
+      "epnum": "35",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153293",
+      "date": "1946-07-21",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153294",
+      "date": "1946-07-28",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153295",
+      "date": "1946-08-04",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153296",
+      "date": "1946-08-11",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153297",
+      "date": "1946-08-18",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153298",
+      "date": "1946-08-25",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "153299",
+      "date": "1946-09-01",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Discussion"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1945-11-18",
+      "dow": "Su",
+      "time": "4:00 PM",
+      "end": "1946-09-22",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "National Hour, The"
+    }
+  ]
+}

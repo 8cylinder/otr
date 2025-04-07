@@ -1,0 +1,90 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "28148",
+      "first": "Ray",
+      "last": "Lewis",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "316199",
+      "date": "1944-12-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Aaron Lieberger Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "Y",
+          "folder": "Yellow Cab Storyteller",
+          "name": "Yellow Cab Storyteller 441209 Aaron Lieberger Story_OTRRPG.mp3",
+          "time": "863",
+          "size": "13823985"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1944-12-09",
+      "dow": "",
+      "time": "",
+      "end": "1946-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Yellow Cab Company",
+      "begin": "1944-12-09",
+      "end": "1946-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Yellow Cab Storyteller"
+    }
+  ]
+}

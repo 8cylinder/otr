@@ -1,0 +1,160 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Marx Brothers/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.marx-brothers.org/listening/radio.htm",
+      "label": "The Marx Brothers - Radio shows and guest appearances",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3875",
+      "first": "Chico",
+      "last": "Marx",
+      "f": "Noted Role",
+      "character": "Co-host"
+    },
+    {
+      "idperson": "3876",
+      "first": "Groucho",
+      "last": "Marx",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3878",
+      "first": "Harpo",
+      "last": "Marx",
+      "f": "Noted Role",
+      "character": "Co-host"
+    },
+    {
+      "idperson": "8913",
+      "first": "The",
+      "last": "King's Men",
+      "f": "Noted Role",
+      "character": "Vocalists"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "23",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "309792",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hollywood Agents and Time Marxes On"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Marx Brothers",
+          "name": "Marx Brothers 35-xx-xx Hollywood Agents and Time Marxes On.mp3",
+          "time": "1604",
+          "size": "6427880"
+        }
+      ]
+    },
+    {
+      "ide": "309793",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Attorney-at-Law with Bing Crosby"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Marx Brothers",
+          "name": "Marx Brothers xx-xx-xx Attorney-at-Law with Bing Crosby.mp3",
+          "time": "420",
+          "size": "1681868"
+        }
+      ]
+    },
+    {
+      "ide": "309794",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chico Marx"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Marx Brothers",
+          "name": "Marx Brothers xx-xx-xx Chico Marx.mp3",
+          "time": "1733",
+          "size": "6931539"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Marx Brothers Esso Show, The"
+    }
+  ]
+}

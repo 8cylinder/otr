@@ -1,0 +1,3561 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/N Series/Night Editor/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6841-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "839",
+      "first": "Hal",
+      "last": "Burdick",
+      "f": "Noted Role",
+      "character": "Newsman, storyteller"
+    },
+    {
+      "idperson": "839",
+      "first": "Hal",
+      "last": "Burdick",
+      "f": "Noted Role",
+      "character": "Played all the roles"
+    },
+    {
+      "idperson": "3125",
+      "first": "Larry",
+      "last": "Keating",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4292",
+      "first": "Jack",
+      "last": "Moyles",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "14781",
+      "first": "Lee",
+      "last": "Cronigan",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "18345",
+      "first": "Cliff",
+      "last": "Engle",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "50664",
+      "first": "Molly",
+      "last": "Brown",
+      "f": "Noted Role",
+      "character": "product plugger"
+    },
+    {
+      "idperson": "50665",
+      "first": "Floyd",
+      "last": "Farr",
+      "f": "Noted Role",
+      "character": "Product plugger"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "265656",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[intermittant broadcasts 1947, 1948 and 1949 as 'Nite Editor']"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265677",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265696",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Stone Unturned"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor 45-xx-xx (10) No Stone Unturned.mp3",
+          "time": "826",
+          "size": "6613297"
+        }
+      ]
+    },
+    {
+      "ide": "265700",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Point of Honor"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor 45-xx-xx (11) Point of Honor.mp3",
+          "time": "830",
+          "size": "6641137"
+        }
+      ]
+    },
+    {
+      "ide": "265693",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lucky Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (12) Lucky Day.mp3",
+          "time": "838",
+          "size": "6708145"
+        }
+      ]
+    },
+    {
+      "ide": "265714",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yesterday's Glory"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (13) Yesterday's Glory.mp3",
+          "time": "836",
+          "size": "6688369"
+        }
+      ]
+    },
+    {
+      "ide": "265678",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265679",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265676",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Desert Justice"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (16) Desert Justice.mp3",
+          "time": "831",
+          "size": "6654001"
+        }
+      ]
+    },
+    {
+      "ide": "265680",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265681",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265682",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265692",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lightning Strikes Twice"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor 45-xx-xx (02) Lightning Strikes Twice.mp3",
+          "time": "853",
+          "size": "6829297"
+        }
+      ]
+    },
+    {
+      "ide": "265683",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265684",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265673",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Care of Postmistress Clara"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (22) Care of Postmistress Clara.mp3",
+          "time": "813",
+          "size": "4065428"
+        }
+      ]
+    },
+    {
+      "ide": "265691",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Law's Delay, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (23) The Law's Delay.mp3",
+          "time": "824",
+          "size": "4124820"
+        }
+      ]
+    },
+    {
+      "ide": "265711",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Time Saver"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (24) Time Saver.mp3",
+          "time": "809",
+          "size": "4046996"
+        }
+      ]
+    },
+    {
+      "ide": "265666",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adrian Sets a Trap"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (25) Adrian Sets a Trap.mp3",
+          "time": "813",
+          "size": "4065428"
+        }
+      ]
+    },
+    {
+      "ide": "265703",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reflection"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (26) Reflection.mp3",
+          "time": "812",
+          "size": "4061332"
+        }
+      ]
+    },
+    {
+      "ide": "265707",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Smoke Rings"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (27) Smoke Rings.mp3",
+          "time": "822",
+          "size": "4108436"
+        }
+      ]
+    },
+    {
+      "ide": "265668",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Autumn Fever"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (28) Autumn Fever.mp3",
+          "time": "809",
+          "size": "4049044"
+        }
+      ]
+    },
+    {
+      "ide": "265686",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "For Later Delivery"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (29) For Later Delivery.mp3",
+          "time": "821",
+          "size": "4104340"
+        }
+      ]
+    },
+    {
+      "ide": "265685",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265672",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Boomerangs Do Come Back"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (30) Boomerangs Do Come Back.mp3",
+          "time": "828",
+          "size": "4141204"
+        }
+      ]
+    },
+    {
+      "ide": "265687",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Homecoming for Two"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (31) Homecoming for Two.mp3",
+          "time": "803",
+          "size": "4014228"
+        }
+      ]
+    },
+    {
+      "ide": "265709",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strange Judgement"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (32) Strange Judgement.mp3",
+          "time": "824",
+          "size": "4122772"
+        }
+      ]
+    },
+    {
+      "ide": "265689",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In a Manner of Speaking"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (33) In a Manner of Speaking.mp3",
+          "time": "817",
+          "size": "4087956"
+        }
+      ]
+    },
+    {
+      "ide": "265675",
+      "date": "0000-00-00",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deep Roots"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (34) Deep Roots.mp3",
+          "time": "843",
+          "size": "4214932"
+        }
+      ]
+    },
+    {
+      "ide": "265698",
+      "date": "0000-00-00",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "One in a Thousand"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor xx-xx-xx (35) One in a Thousand.mp3",
+          "time": "832",
+          "size": "4161684"
+        }
+      ]
+    },
+    {
+      "ide": "265690",
+      "date": "0000-00-00",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Last Mission"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265688",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Important Trifle"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor 45-xx-xx (04) Important Trifle.mp3",
+          "time": "830",
+          "size": "6641713"
+        }
+      ]
+    },
+    {
+      "ide": "265667",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Appointment with Mr. Big"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor 45-xx-xx (05) Appointment with Mr. Big.mp3",
+          "time": "838",
+          "size": "6702769"
+        }
+      ]
+    },
+    {
+      "ide": "265699",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pass the Peanuts"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor 45-xx-xx (06) Pass the Peanuts.mp3",
+          "time": "840",
+          "size": "6726001"
+        }
+      ]
+    },
+    {
+      "ide": "265706",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Schedule Subject to Change"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor 45-xx-xx (07) Schedule Subject to Change.mp3",
+          "time": "845",
+          "size": "6759985"
+        }
+      ]
+    },
+    {
+      "ide": "265671",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Big Day Tomorrow"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor 45-xx-xx (08) Big Day Tomorrow.mp3",
+          "time": "838",
+          "size": "6702577"
+        }
+      ]
+    },
+    {
+      "ide": "265697",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On the Dotted Line"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Night Editor",
+          "name": "Night Editor 45-xx-xx (09) On the Dotted Line.mp3",
+          "time": "817",
+          "size": "6535537"
+        }
+      ]
+    },
+    {
+      "ide": "265715",
+      "date": "1934-09-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265716",
+      "date": "1934-09-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265717",
+      "date": "1934-09-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265718",
+      "date": "1934-09-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265719",
+      "date": "1934-10-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265720",
+      "date": "1934-10-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265721",
+      "date": "1934-10-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265722",
+      "date": "1934-10-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265723",
+      "date": "1934-11-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265724",
+      "date": "1934-11-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265725",
+      "date": "1934-11-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265726",
+      "date": "1934-11-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265727",
+      "date": "1934-11-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265728",
+      "date": "1934-12-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265729",
+      "date": "1934-12-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265730",
+      "date": "1935-01-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265731",
+      "date": "1935-01-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265732",
+      "date": "1935-01-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265733",
+      "date": "1935-01-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265734",
+      "date": "1935-01-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265735",
+      "date": "1935-02-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265736",
+      "date": "1935-02-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265737",
+      "date": "1935-02-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265738",
+      "date": "1935-02-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265739",
+      "date": "1935-03-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265740",
+      "date": "1935-03-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265741",
+      "date": "1935-03-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265742",
+      "date": "1935-03-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265743",
+      "date": "1935-04-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265744",
+      "date": "1935-04-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265745",
+      "date": "1935-04-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265746",
+      "date": "1935-04-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265747",
+      "date": "1935-05-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265748",
+      "date": "1935-05-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265749",
+      "date": "1935-05-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265750",
+      "date": "1935-05-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265751",
+      "date": "1935-05-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265752",
+      "date": "1935-06-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265753",
+      "date": "1935-06-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265754",
+      "date": "1935-06-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265755",
+      "date": "1935-10-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265756",
+      "date": "1935-10-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265713",
+      "date": "1935-10-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Uncle Billy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265704",
+      "date": "1935-10-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rendezvous at the Water Tank"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265701",
+      "date": "1935-10-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[PRE-EMPTED (Mobilization for Human Needs)]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265757",
+      "date": "1935-11-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265702",
+      "date": "1935-11-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[PRE-EMPTED (Mobilization for Human Needs)]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265705",
+      "date": "1935-11-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rub-a-Dub"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265712",
+      "date": "1935-11-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Turkey and ---!"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265670",
+      "date": "1935-12-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ballyhoo in Reverse"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265669",
+      "date": "1935-12-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Baker's Dozen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265694",
+      "date": "1935-12-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Matter of Timing, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265674",
+      "date": "1935-12-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Christmas Comes to Santy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265695",
+      "date": "1935-12-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "New Year's Greetings"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265758",
+      "date": "1936-01-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265759",
+      "date": "1936-01-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265760",
+      "date": "1936-01-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265761",
+      "date": "1936-01-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265762",
+      "date": "1936-02-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265763",
+      "date": "1936-02-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265764",
+      "date": "1936-02-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265765",
+      "date": "1936-02-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265766",
+      "date": "1936-03-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265767",
+      "date": "1936-03-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265768",
+      "date": "1936-03-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265769",
+      "date": "1936-03-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265770",
+      "date": "1936-03-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265771",
+      "date": "1936-04-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265772",
+      "date": "1936-04-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265773",
+      "date": "1936-04-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265659",
+      "date": "1936-05-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Moves to Wednesdays]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265774",
+      "date": "1936-05-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265775",
+      "date": "1936-05-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265776",
+      "date": "1936-05-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265777",
+      "date": "1936-06-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265778",
+      "date": "1936-06-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265779",
+      "date": "1936-06-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265780",
+      "date": "1936-06-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265657",
+      "date": "1936-09-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[moves to Sundays]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265781",
+      "date": "1936-09-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265782",
+      "date": "1936-09-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265783",
+      "date": "1936-09-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265784",
+      "date": "1936-10-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265785",
+      "date": "1936-10-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265786",
+      "date": "1936-10-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265787",
+      "date": "1936-10-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265788",
+      "date": "1936-11-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265789",
+      "date": "1936-11-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265790",
+      "date": "1936-11-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265791",
+      "date": "1936-11-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265792",
+      "date": "1936-11-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265793",
+      "date": "1936-12-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265794",
+      "date": "1936-12-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265795",
+      "date": "1936-12-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265796",
+      "date": "1936-12-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265797",
+      "date": "1937-01-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265798",
+      "date": "1937-01-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265799",
+      "date": "1937-01-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265800",
+      "date": "1937-01-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265801",
+      "date": "1937-01-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265802",
+      "date": "1937-02-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265803",
+      "date": "1937-02-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265804",
+      "date": "1937-02-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265805",
+      "date": "1937-02-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265806",
+      "date": "1937-03-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265807",
+      "date": "1937-03-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265808",
+      "date": "1937-03-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265809",
+      "date": "1937-03-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265810",
+      "date": "1937-04-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265811",
+      "date": "1937-04-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265812",
+      "date": "1937-04-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265813",
+      "date": "1937-04-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265814",
+      "date": "1937-05-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265815",
+      "date": "1937-05-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265816",
+      "date": "1937-05-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265817",
+      "date": "1937-05-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265818",
+      "date": "1937-05-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265819",
+      "date": "1937-06-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265820",
+      "date": "1937-06-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265821",
+      "date": "1937-06-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265822",
+      "date": "1937-06-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265823",
+      "date": "1937-07-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265824",
+      "date": "1937-07-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265825",
+      "date": "1937-07-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265826",
+      "date": "1937-07-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265827",
+      "date": "1937-08-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265828",
+      "date": "1937-08-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265829",
+      "date": "1937-08-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265830",
+      "date": "1937-08-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265831",
+      "date": "1937-08-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265832",
+      "date": "1937-09-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265833",
+      "date": "1937-09-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "112585",
+      "date": "1937-09-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Doctor Pulls Stunt <---[NOT A THURSDAY]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265835",
+      "date": "1937-09-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265836",
+      "date": "1937-10-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265837",
+      "date": "1937-10-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265838",
+      "date": "1937-10-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265839",
+      "date": "1937-10-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265840",
+      "date": "1937-10-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265841",
+      "date": "1937-11-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265842",
+      "date": "1937-11-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265843",
+      "date": "1937-11-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265844",
+      "date": "1937-11-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265845",
+      "date": "1937-12-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265846",
+      "date": "1937-12-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265847",
+      "date": "1937-12-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265848",
+      "date": "1937-12-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265849",
+      "date": "1938-01-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265850",
+      "date": "1938-01-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265851",
+      "date": "1938-01-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265852",
+      "date": "1938-01-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265853",
+      "date": "1938-01-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265854",
+      "date": "1938-02-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265855",
+      "date": "1938-02-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265856",
+      "date": "1938-02-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265857",
+      "date": "1938-02-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265858",
+      "date": "1938-03-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265859",
+      "date": "1938-03-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265860",
+      "date": "1938-03-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265861",
+      "date": "1938-03-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265862",
+      "date": "1938-04-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265863",
+      "date": "1938-04-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265864",
+      "date": "1938-04-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265865",
+      "date": "1938-04-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265866",
+      "date": "1938-05-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265867",
+      "date": "1938-05-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265868",
+      "date": "1938-05-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265869",
+      "date": "1938-05-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265870",
+      "date": "1938-05-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265872",
+      "date": "1938-06-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265873",
+      "date": "1938-06-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265874",
+      "date": "1938-06-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265875",
+      "date": "1938-06-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265876",
+      "date": "1938-07-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265877",
+      "date": "1938-07-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265878",
+      "date": "1938-07-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265879",
+      "date": "1938-07-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265880",
+      "date": "1938-07-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265881",
+      "date": "1938-08-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265882",
+      "date": "1938-08-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265883",
+      "date": "1938-08-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265884",
+      "date": "1938-08-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265885",
+      "date": "1938-09-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265886",
+      "date": "1938-09-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265887",
+      "date": "1938-09-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265888",
+      "date": "1938-09-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265889",
+      "date": "1938-10-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265890",
+      "date": "1938-10-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265891",
+      "date": "1938-10-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265665",
+      "date": "1938-10-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Switch to CBS network]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265892",
+      "date": "1938-10-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265893",
+      "date": "1938-11-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265894",
+      "date": "1938-11-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265895",
+      "date": "1938-11-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265896",
+      "date": "1938-11-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265897",
+      "date": "1938-12-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265898",
+      "date": "1938-12-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265899",
+      "date": "1938-12-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265660",
+      "date": "1938-12-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[programming PRE-EMPTED for Christmas]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265664",
+      "date": "1939-01-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Switch back to NBC network on Tuesdays]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265900",
+      "date": "1939-02-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265901",
+      "date": "1939-02-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265902",
+      "date": "1939-02-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265903",
+      "date": "1939-02-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265904",
+      "date": "1939-03-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265905",
+      "date": "1939-03-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265906",
+      "date": "1939-03-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265907",
+      "date": "1939-03-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265908",
+      "date": "1939-04-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265909",
+      "date": "1939-04-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265910",
+      "date": "1939-04-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265911",
+      "date": "1939-04-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265658",
+      "date": "1939-04-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Moves to Sundays]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265912",
+      "date": "1939-05-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265913",
+      "date": "1939-05-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265914",
+      "date": "1939-05-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265915",
+      "date": "1939-05-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265916",
+      "date": "1939-06-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265917",
+      "date": "1939-06-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265918",
+      "date": "1939-06-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265919",
+      "date": "1939-06-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265920",
+      "date": "1939-07-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265921",
+      "date": "1939-07-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265922",
+      "date": "1939-07-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265923",
+      "date": "1939-07-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265924",
+      "date": "1939-07-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265926",
+      "date": "1939-08-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265927",
+      "date": "1939-08-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265928",
+      "date": "1939-08-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265929",
+      "date": "1939-08-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265930",
+      "date": "1939-09-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265931",
+      "date": "1939-09-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265932",
+      "date": "1939-09-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265933",
+      "date": "1939-09-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265934",
+      "date": "1939-10-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265935",
+      "date": "1939-10-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265936",
+      "date": "1939-10-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265937",
+      "date": "1939-10-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265938",
+      "date": "1939-10-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265939",
+      "date": "1939-11-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265940",
+      "date": "1939-11-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265941",
+      "date": "1939-11-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265942",
+      "date": "1939-11-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265943",
+      "date": "1939-12-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265944",
+      "date": "1939-12-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265945",
+      "date": "1939-12-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265946",
+      "date": "1939-12-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265947",
+      "date": "1939-12-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265948",
+      "date": "1940-01-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265949",
+      "date": "1940-01-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265950",
+      "date": "1940-01-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265951",
+      "date": "1940-01-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265952",
+      "date": "1940-02-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265953",
+      "date": "1940-02-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265954",
+      "date": "1940-02-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265955",
+      "date": "1940-02-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265956",
+      "date": "1940-03-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265957",
+      "date": "1940-03-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265958",
+      "date": "1940-03-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265959",
+      "date": "1940-03-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265960",
+      "date": "1940-03-31",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265961",
+      "date": "1940-04-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265962",
+      "date": "1940-04-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265963",
+      "date": "1940-04-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265964",
+      "date": "1940-04-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265965",
+      "date": "1940-05-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265966",
+      "date": "1940-05-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265967",
+      "date": "1940-05-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265968",
+      "date": "1940-05-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265969",
+      "date": "1940-06-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265970",
+      "date": "1940-06-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265971",
+      "date": "1940-06-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265972",
+      "date": "1940-06-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265973",
+      "date": "1940-06-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265974",
+      "date": "1940-07-07",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265975",
+      "date": "1940-07-14",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265976",
+      "date": "1940-07-21",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265977",
+      "date": "1940-07-28",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265978",
+      "date": "1940-08-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265979",
+      "date": "1940-08-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265980",
+      "date": "1940-08-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265981",
+      "date": "1940-08-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265982",
+      "date": "1940-09-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265983",
+      "date": "1940-09-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265984",
+      "date": "1940-09-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265985",
+      "date": "1940-09-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265986",
+      "date": "1940-09-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265987",
+      "date": "1940-10-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265988",
+      "date": "1940-10-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265989",
+      "date": "1940-10-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265990",
+      "date": "1940-10-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265991",
+      "date": "1940-11-03",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265992",
+      "date": "1940-11-10",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265993",
+      "date": "1940-11-17",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265994",
+      "date": "1940-11-24",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265995",
+      "date": "1940-12-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265996",
+      "date": "1940-12-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265997",
+      "date": "1940-12-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265998",
+      "date": "1940-12-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265999",
+      "date": "1940-12-29",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266000",
+      "date": "1941-01-05",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266001",
+      "date": "1941-01-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266002",
+      "date": "1941-01-19",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266003",
+      "date": "1941-01-26",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266004",
+      "date": "1941-02-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266005",
+      "date": "1941-02-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266006",
+      "date": "1941-02-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266007",
+      "date": "1941-02-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266008",
+      "date": "1941-03-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266009",
+      "date": "1941-03-09",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266010",
+      "date": "1941-03-16",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266011",
+      "date": "1941-03-23",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266012",
+      "date": "1941-03-30",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266013",
+      "date": "1941-04-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266014",
+      "date": "1941-04-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266015",
+      "date": "1941-04-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266016",
+      "date": "1941-04-27",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266017",
+      "date": "1941-05-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266018",
+      "date": "1941-05-11",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266019",
+      "date": "1941-05-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266020",
+      "date": "1941-05-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266021",
+      "date": "1941-06-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266022",
+      "date": "1941-06-08",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266023",
+      "date": "1941-06-15",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266024",
+      "date": "1941-06-22",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265708",
+      "date": "1941-06-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Story of Dave Cameron, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "266025",
+      "date": "1941-07-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266026",
+      "date": "1941-07-13",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "266027",
+      "date": "1941-07-20",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "265662",
+      "date": "1942-10-01",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Returns - Thurdays on NBC thru 44/06/01]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265710",
+      "date": "1943-09-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Summer Interlude <--- [NOT A THURSDAY]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265663",
+      "date": "1944-07-06",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[Returns - Thurdays on NBC thru 44/12/21]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "265661",
+      "date": "1945-05-04",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "[returns - Fridays on NBC thru 46/09/27]"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Episodic Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1950-00-00",
+      "dow": "",
+      "time": "",
+      "end": "0000-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1934-09-12",
+      "dow": "",
+      "time": "",
+      "end": "1946-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Cardinet Candy Company",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    },
+    {
+      "sponsor": "Swans Down Cake Flour",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    },
+    {
+      "sponsor": "Teem (Tea + Mate)",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    },
+    {
+      "sponsor": "Post Bran Flakes",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    },
+    {
+      "sponsor": "Safeway Grocers",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Night Editor"
+    }
+  ]
+}

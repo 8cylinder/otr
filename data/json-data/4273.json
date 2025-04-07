@@ -1,0 +1,674 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "GRVL"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323043806-4b049b83.jpg",
+      "label": "Green Valley Line CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-4273-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/gvl.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logg1003.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/G Series/Green Valley Line/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "882",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fortuna Mine, The"
+        },
+        {
+          "title": "The New Fireman, Rufus Porter"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (23) The Fortuna Mine.mp3",
+          "time": "813",
+          "size": "6505500"
+        }
+      ]
+    },
+    {
+      "ide": "784",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Lost"
+        },
+        {
+          "title": "Plans Sabotaged to Trick the C.K. and W. Railroad"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (24) Love Lost.mp3",
+          "time": "768",
+          "size": "6146691"
+        }
+      ]
+    },
+    {
+      "ide": "783",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Found"
+        },
+        {
+          "title": "The Mortgage Is Made"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (25) Love Found.mp3",
+          "time": "780",
+          "size": "6239780"
+        }
+      ]
+    },
+    {
+      "ide": "782",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Beginning, A"
+        },
+        {
+          "title": "Secret Wedding Plans Are Known"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (26) A New Beginning.mp3",
+          "time": "760",
+          "size": "6077229"
+        }
+      ]
+    },
+    {
+      "ide": "1080",
+      "date": "1939-11-13",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spider and the Stranger"
+        },
+        {
+          "title": "The Green Valley Line May Be Sold"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (01) Spider and the Stranger.mp3",
+          "time": "768",
+          "size": "6146608"
+        }
+      ]
+    },
+    {
+      "ide": "903",
+      "date": "1939-11-14",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pop's New Assistant"
+        },
+        {
+          "title": "War for Possession of the Railroad"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (02) Pop's New Assistant.mp3",
+          "time": "739",
+          "size": "5908860"
+        }
+      ]
+    },
+    {
+      "ide": "902",
+      "date": "1939-11-16",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mail Contract, The"
+        },
+        {
+          "title": "Trial Run for the Mail Contract"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (03) The Mail Contract.mp3",
+          "time": "727",
+          "size": "5816590"
+        }
+      ]
+    },
+    {
+      "ide": "901",
+      "date": "1939-11-17",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ol' 1010 Rolls Again, The"
+        },
+        {
+          "title": "Planning for the Mail Race"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (04) The Ol' 1010 Rolls Again.mp3",
+          "time": "697",
+          "size": "5573777"
+        }
+      ]
+    },
+    {
+      "ide": "900",
+      "date": "1939-11-20",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dinner Party, The"
+        },
+        {
+          "title": "An Offer From the C.K. and W. to Buy the Green Valley Line"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (05) The Dinner Party.mp3",
+          "time": "757",
+          "size": "6055497"
+        }
+      ]
+    },
+    {
+      "ide": "899",
+      "date": "1939-11-21",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Race for the Mail"
+        },
+        {
+          "title": "The Race Begins, but Sabotage Is Possible"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (06) Race for the Mail.mp3",
+          "time": "742",
+          "size": "5936412"
+        }
+      ]
+    },
+    {
+      "ide": "898",
+      "date": "1939-11-24",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Treachery on the Rails"
+        },
+        {
+          "title": "The Mail Arrives Ahead of Schedule"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (07) Treachery on the Rails.mp3",
+          "time": "731",
+          "size": "5851969"
+        }
+      ]
+    },
+    {
+      "ide": "897",
+      "date": "1939-11-27",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Victory"
+        },
+        {
+          "title": "The Green Valley Line Wins the Race"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (08) Victory.mp3",
+          "time": "758",
+          "size": "6060480"
+        }
+      ]
+    },
+    {
+      "ide": "896",
+      "date": "1939-11-28",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Victory Celebration"
+        },
+        {
+          "title": "A Celebration Dance Is Held"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (09) Victory Celebration.mp3",
+          "time": "751",
+          "size": "6010876"
+        }
+      ]
+    },
+    {
+      "ide": "895",
+      "date": "1939-11-30",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tragedy Strikes"
+        },
+        {
+          "title": "Green Valley Line Workers Are Quitting"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (10) Tragedy Strikes.mp3",
+          "time": "800",
+          "size": "6400037"
+        }
+      ]
+    },
+    {
+      "ide": "894",
+      "date": "1939-12-01",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Family Matters"
+        },
+        {
+          "title": "Carrie Graham Goes to Work for the Green Valley Line"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (11) Family Matters.mp3",
+          "time": "761",
+          "size": "6089400"
+        }
+      ]
+    },
+    {
+      "ide": "893",
+      "date": "1939-12-04",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Foul Play"
+        },
+        {
+          "title": "Lost Time and a New Engineer"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (12) Foul Play.mp3",
+          "time": "726",
+          "size": "5810767"
+        }
+      ]
+    },
+    {
+      "ide": "892",
+      "date": "1939-12-05",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spider's Story"
+        },
+        {
+          "title": "The Dispatcher's Office Is Wrecked"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (13) Spider's Story.mp3",
+          "time": "755",
+          "size": "6044154"
+        }
+      ]
+    },
+    {
+      "ide": "890",
+      "date": "1939-12-08",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shareholders's Showdown"
+        },
+        {
+          "title": "Intrigue at the Stockholders Meeting"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (15) Shareholders's Showdown.mp3",
+          "time": "800",
+          "size": "6399329"
+        }
+      ]
+    },
+    {
+      "ide": "891",
+      "date": "1939-12-09",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Hope, A"
+        },
+        {
+          "title": "Possible Take Over and a Stock Holders Meeting"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (14) A New Hope.mp3",
+          "time": "747",
+          "size": "5972500"
+        }
+      ]
+    },
+    {
+      "ide": "889",
+      "date": "1939-12-11",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Short Vacation To Danger, A"
+        },
+        {
+          "title": "An Attempt to Get Into the Railroad Safe"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (16) A Short Vacation To Danger.mp3",
+          "time": "777",
+          "size": "6220344"
+        }
+      ]
+    },
+    {
+      "ide": "888",
+      "date": "1939-12-12",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Escape"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (17) Escape.mp3",
+          "time": "776",
+          "size": "6206590"
+        }
+      ]
+    },
+    {
+      "ide": "887",
+      "date": "1939-12-15",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trouble in Town"
+        },
+        {
+          "title": "A Near Rioty Line"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (18) Trouble in Town.mp3",
+          "time": "823",
+          "size": "6584957"
+        }
+      ]
+    },
+    {
+      "ide": "886",
+      "date": "1939-12-18",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cupid Strikes"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (19) Cupid Strikes.mp3",
+          "time": "753",
+          "size": "6020851"
+        }
+      ]
+    },
+    {
+      "ide": "885",
+      "date": "1939-12-19",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Deal, A"
+        },
+        {
+          "title": "Problems With the $70,000 Mortgage Payment"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (20) A New Deal.mp3",
+          "time": "697",
+          "size": "5579686"
+        }
+      ]
+    },
+    {
+      "ide": "884",
+      "date": "1939-12-22",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coded Message"
+        },
+        {
+          "title": "A Gold Mine Sale to Raise the Mortgage Payment"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (21) Coded Message.mp3",
+          "time": "782",
+          "size": "6253403"
+        }
+      ]
+    },
+    {
+      "ide": "883",
+      "date": "1939-12-26",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Surprise Visit"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Green Valley Line",
+          "name": "Green Valley Line 34-xx-xx (22) Surprise Visit.mp3",
+          "time": "806",
+          "size": "6450588"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Green Valley Line"
+    }
+  ]
+}

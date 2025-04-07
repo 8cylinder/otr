@@ -1,0 +1,91 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4940",
+      "first": "Leo",
+      "last": "Reisman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5111",
+      "first": "Eleanor",
+      "last": "Roosevelt",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "6349",
+      "first": "Lee",
+      "last": "Wiley",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314185",
+      "date": "1941-12-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Cpl James Cannon"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eleanor Roosevelt",
+          "name": "Eleanor Roosevelt 411207 Guest - Cpl James Cannon_OTRRPG.mp3",
+          "time": "868",
+          "size": "13973396"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mrs. Eleanor Roosevelt"
+    },
+    {
+      "title": "Mrs Eleanor Roosevelts Own Program"
+    }
+  ]
+}

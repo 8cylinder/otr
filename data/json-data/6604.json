@@ -1,0 +1,128 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4175",
+      "first": "Jan",
+      "last": "Miner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5357",
+      "first": "Anne",
+      "last": "Seymour",
+      "f": "Noted Role",
+      "character": "Hostess, narrator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "246739",
+      "date": "1954-02-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Secret Story - Phoney Hillbilly Singers Fall In Love"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Secret Story",
+          "name": "My Secret Story 1954.02.20 Phoney Hillbilly Singers Fall In Love.mp3",
+          "time": "1743",
+          "size": "7078092"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1951-06-02",
+      "dow": "Sa",
+      "time": "11:30 PM",
+      "end": "1951-10-20",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1952-01-26",
+      "dow": "Sa",
+      "time": "",
+      "end": "1952-02-02",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "My Secret Story"
+    }
+  ]
+}

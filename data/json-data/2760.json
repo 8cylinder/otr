@@ -1,0 +1,792 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "DANG"
+    }
+  ],
+  "known": [
+    {
+      "known": "52",
+      "idprint": "2780",
+      "web": "",
+      "url": "0",
+      "source": "",
+      "idpytype": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322180039-24020eb6.jpg",
+      "label": "Danger With Grainger",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322180042-cb26a779.jpg",
+      "label": "Danger With Grainger",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.thrillingdetective.com/granger.html",
+      "label": "Thrilling Detective",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2760-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/D Series/Danger With Grainger/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "361",
+      "first": "Ray",
+      "last": "Barrett",
+      "f": "Noted Role",
+      "character": "Steve Grainger"
+    },
+    {
+      "idperson": "10540",
+      "first": "John",
+      "last": "Barnes",
+      "f": "Noted Role",
+      "character": "Steve Grainger"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "1120",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "2008-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01Rev)_79.pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01Rev) 1979",
+      "author": ""
+    },
+    {
+      "idprint": "1583",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "2003-02-01",
+      "source": "OTR Digest_1990s/OTRDigest_(100)Winter03.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (100) Winter 2003",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "144",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "51380",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vic Sully Is Murdered"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "249038",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "FBI And The Scientist, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (01) The FBI And The Scientist.mp3",
+          "time": "1411",
+          "size": "11288616"
+        }
+      ]
+    },
+    {
+      "ide": "51450",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Invented Husband, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (10) The Invented Husband.mp3",
+          "time": "1723",
+          "size": "6893608"
+        }
+      ]
+    },
+    {
+      "ide": "51449",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lady Alibi"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (11) Lady Alibi.mp3",
+          "time": "1511",
+          "size": "12085744"
+        }
+      ]
+    },
+    {
+      "ide": "51411",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Innocent, Innocent"
+        },
+        {
+          "title": "Murder By Hypnosis"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (12) Innocent, Innocent aka Murder By Hypnosis.mp3",
+          "time": "1514",
+          "size": "12116018"
+        }
+      ]
+    },
+    {
+      "ide": "51410",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phony Photographer Case"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (13) Phony Photographer Case.mp3",
+          "time": "1342",
+          "size": "10739752"
+        }
+      ]
+    },
+    {
+      "ide": "51445",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wandering Weapon Case"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (14) Wandering Weapon Case.mp3",
+          "time": "1348",
+          "size": "10782760"
+        }
+      ]
+    },
+    {
+      "ide": "51405",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Clever Criminologist"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (15) Clever Criminologist.mp3",
+          "time": "1398",
+          "size": "11188264"
+        }
+      ]
+    },
+    {
+      "ide": "51443",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Seafarer Mystery"
+        },
+        {
+          "title": "Stiff Spouse"
+        },
+        {
+          "title": "Incident In Long Island"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (16) Seafarer Mystery aka Stiff Spouse aka Incident In Long Island.mp3",
+          "time": "1449",
+          "size": "11591720"
+        }
+      ]
+    },
+    {
+      "ide": "51440",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Skip Lantry's Revenge"
+        },
+        {
+          "title": "The Triangle Affair"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (17) Skip Lantry's Revenge aka The Triangle Affair.mp3",
+          "time": "1456",
+          "size": "11647026"
+        }
+      ]
+    },
+    {
+      "ide": "51438",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Counterfeit Plates"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (18) Counterfeit Plates.mp3",
+          "time": "1464",
+          "size": "11714600"
+        }
+      ]
+    },
+    {
+      "ide": "51437",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Triple X Killer (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (19) Chase to Salvador.mp3",
+          "time": "1509",
+          "size": "12075048"
+        }
+      ]
+    },
+    {
+      "ide": "51422",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hired Help"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (02) Hired Help.mp3",
+          "time": "1462",
+          "size": "11700264"
+        }
+      ]
+    },
+    {
+      "ide": "51435",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paula Crane Is Threatened"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (20) Paula Crane Is Threatened.mp3",
+          "time": "1457",
+          "size": "11657256"
+        }
+      ]
+    },
+    {
+      "ide": "51433",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sheila Randolph Is Sane"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (21) Sheila Randolph Is Sane.mp3",
+          "time": "1459",
+          "size": "11673640"
+        }
+      ]
+    },
+    {
+      "ide": "51395",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Innocent, Inncent"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (22) Vic Sully Is Murdered.mp3",
+          "time": "1500",
+          "size": "6000680"
+        }
+      ]
+    },
+    {
+      "ide": "51430",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Larry Simmons Case"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (23) Larry Simmons Case.mp3",
+          "time": "1553",
+          "size": "6215407"
+        }
+      ]
+    },
+    {
+      "ide": "51428",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missing Necklace (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (24) Out of Jail for Christmas.mp3",
+          "time": "794",
+          "size": "6354984"
+        }
+      ]
+    },
+    {
+      "ide": "51390",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Amorous Amnesiac (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (25) Insanity Was Just An Act.mp3",
+          "time": "1405",
+          "size": "11241512"
+        }
+      ]
+    },
+    {
+      "ide": "51389",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blackmailed Babe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51425",
+      "date": "0000-00-00",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out of Jail for Christmas"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51424",
+      "date": "0000-00-00",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Triple X Killer (3)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51385",
+      "date": "0000-00-00",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stiff Spouse"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51421",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rainy Night Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (03) Rainy Night Murder.mp3",
+          "time": "1439",
+          "size": "11515944"
+        }
+      ]
+    },
+    {
+      "ide": "51384",
+      "date": "0000-00-00",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marriage Minder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51383",
+      "date": "0000-00-00",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Invented Husband (2), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51382",
+      "date": "0000-00-00",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out Of Jail For Christmas (2)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51381",
+      "date": "0000-00-00",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Insanity Was Just An Act"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51459",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Amorous Amnesiac"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (04) Amourous Amnesiac.mp3",
+          "time": "1434",
+          "size": "11474984"
+        }
+      ]
+    },
+    {
+      "ide": "51419",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Triple X Killer"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (05) Triple X Murder.mp3",
+          "time": "1361",
+          "size": "10887208"
+        }
+      ]
+    },
+    {
+      "ide": "51418",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Missing Necklace"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (06) Missing Necklace.mp3",
+          "time": "1353",
+          "size": "10821672"
+        }
+      ]
+    },
+    {
+      "ide": "51416",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coincidental Cartoon"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (07) Coincidental Cartoon.mp3",
+          "time": "1514",
+          "size": "12111912"
+        }
+      ]
+    },
+    {
+      "ide": "51415",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marriage Minded Girl, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (08) A Marriage Minded Girl.mp3",
+          "time": "1509",
+          "size": "12075048"
+        }
+      ]
+    },
+    {
+      "ide": "51414",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arnie Lessick Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danger With Grainger",
+          "name": "Danger With Grainger xx-xx-xx (09) Arnie Lessick Story.mp3",
+          "time": "1413",
+          "size": "11307048"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Private Detective"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1956-09-22",
+      "dow": "Sa",
+      "time": "7:00 PM",
+      "end": "0000-00-00",
+      "length": "30",
+      "country": "Australia",
+      "network": "Australian"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Danger with Granger"
+    },
+    {
+      "title": "Danger with Granger - AU"
+    }
+  ]
+}

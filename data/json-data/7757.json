@@ -1,0 +1,206 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4110",
+      "first": "Ethel",
+      "last": "Merman",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "637",
+      "first": "Irene",
+      "last": "Bordoni",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "4053",
+      "first": "Graham",
+      "last": "McNamee",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4053",
+      "first": "Graham",
+      "last": "McNamee",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4940",
+      "first": "Leo",
+      "last": "Reisman",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5012",
+      "first": "Robert L.",
+      "last": "Ripley",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50856",
+      "first": "Milton",
+      "last": "Schwartzwald",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "1100",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1971-01-01",
+      "source": "Misc/Don_Maris_Flyer_(02)_71.pdf",
+      "idpytype2": "4",
+      "title": "Don Maris Flyer (02) 1971",
+      "author": ""
+    },
+    {
+      "idprint": "1508",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "2000-02-01",
+      "source": "Nostalgia Digest/NostalgiaDigest_V26_(02)FebMar00.pdf",
+      "idpytype2": "4",
+      "title": "NostalgiaDigest V26 (02)FebMar00",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Hello, Hello, The Voice of RKO"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "324172",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death Takes A Holiday"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Theater Of The Air",
+          "name": "Theater Of The Air 19xx.xx.xx Death Takes A Holiday.mp3",
+          "time": "1750",
+          "size": "7109291"
+        }
+      ]
+    },
+    {
+      "ide": "324173",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "This Happy Breed"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Theater Of The Air",
+          "name": "Theater Of The Air 19xx.xx.xx This Happy Breed.mp3",
+          "time": "1729",
+          "size": "7022032"
+        }
+      ]
+    },
+    {
+      "ide": "255347",
+      "date": "1950-01-08",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Scarlet Pimpernel, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Theater Of The Air",
+          "name": "Theater Of The Air 1951.xx.xx The Scarlet Pimpernel.mp3",
+          "time": "1756",
+          "size": "7129980"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1929-00-00",
+      "dow": "Tu",
+      "time": "10:30 PM",
+      "end": "1930-00-00",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "RKO",
+      "begin": "1929-00-00",
+      "end": "1930-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "RKO Hour, The"
+    },
+    {
+      "title": "Theater Of The Air"
+    },
+    {
+      "title": "Theater of the Air"
+    }
+  ]
+}

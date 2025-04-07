@@ -1,0 +1,152 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "HOBB"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "http://tolkiengateway.net/wiki/The_Hobbit_(1968_radio_series)",
+      "label": "Tolkien Gateway - The Hobbit (1968 radio series)",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/hob.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logh1009.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "46468",
+      "first": "Wolfe",
+      "last": "Morris",
+      "f": "Noted Role",
+      "character": "Gollum - 1968"
+    }
+  ],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "76405",
+      "date": "1968-08-29",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Unexpected Party, An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76406",
+      "date": "1968-09-06",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out of the Frying Pan, into the Fire"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76407",
+      "date": "1968-09-13",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Riddles in the Dark"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76408",
+      "date": "1968-09-20",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Strange Lodgings"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76409",
+      "date": "1968-09-27",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Barrels out of Bond"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76410",
+      "date": "1968-10-03",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Warm Welcome, A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76411",
+      "date": "1968-10-10",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gathering of Clouds, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76412",
+      "date": "1968-10-17",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Final Chapter"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Fantasy"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hobbit, The"
+    }
+  ]
+}

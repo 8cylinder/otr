@@ -1,0 +1,974 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Something For The Girls/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2310",
+      "first": "Morton",
+      "last": "Gould",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2602",
+      "first": "Helen",
+      "last": "Hayes",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "50214",
+      "first": "Jean",
+      "last": "Colbert",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Anchors Aweigh (for some)"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "311281",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Lily Pons, Andre Kostalanetz"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (01) - Guest - Lily Pons, Andre Kostalanetz.mp3",
+          "time": "887",
+          "size": "7093145"
+        }
+      ]
+    },
+    {
+      "ide": "311290",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Ginny Simms"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (10) - Guest - Ginny Simms.mp3",
+          "time": "888",
+          "size": "7104585"
+        }
+      ]
+    },
+    {
+      "ide": "311277",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest -Russell Bennett, Carol Thurston"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 1 - 1944-xx-xx (11) - Guest -Russell Bennett, Carol Thurston.mp3",
+          "time": "895",
+          "size": "7163657"
+        }
+      ]
+    },
+    {
+      "ide": "311291",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Nelson Eddy"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (11) - Guest - Nelson Eddy.mp3",
+          "time": "885",
+          "size": "7082121"
+        }
+      ]
+    },
+    {
+      "ide": "311278",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest -Fred Waring"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 1 - 1944-xx-xx (12) - Guest -Fred Waring.mp3",
+          "time": "880",
+          "size": "7041977"
+        }
+      ]
+    },
+    {
+      "ide": "311292",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Johnny Mercer, Jo Stafford"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (12) - Guest - Johnny Mercer, Jo Stafford.mp3",
+          "time": "888",
+          "size": "7105417"
+        }
+      ]
+    },
+    {
+      "ide": "311279",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest -Benny Goodman, Raymond Scott, Ed Sullivan"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 1 - 1944-xx-xx (13) - Guest -Benny Goodman, Raymond Scott, Ed Sullivan.mp3",
+          "time": "881",
+          "size": "7044681"
+        }
+      ]
+    },
+    {
+      "ide": "311280",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest -Joan Edwards, Mark Warnow"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 1 - 1944-xx-xx (14) - Guest -Joan Edwards, Mark Warnow.mp3",
+          "time": "867",
+          "size": "6937353"
+        }
+      ]
+    },
+    {
+      "ide": "311282",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Phil Spitalny's All-Girl Orchestra"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (02) - Guest - Phil Spitalny's All-Girl Orchestra.mp3",
+          "time": "890",
+          "size": "7122889"
+        }
+      ]
+    },
+    {
+      "ide": "311271",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Alec Templeton, Morton Gould"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 1 - 1944-xx-xx (03) - Guest - Alec Templeton, Morton Gould.mp3",
+          "time": "898",
+          "size": "7186121"
+        }
+      ]
+    },
+    {
+      "ide": "311283",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Sammy Kaye"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (03) - Guest - Sammy Kaye.mp3",
+          "time": "870",
+          "size": "6960857"
+        }
+      ]
+    },
+    {
+      "ide": "311272",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Helen Hayes, Richard Widmark"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 1 - 1944-xx-xx (04) - Guest - Helen Hayes, Richard Widmark.mp3",
+          "time": "852",
+          "size": "6818793"
+        }
+      ]
+    },
+    {
+      "ide": "311284",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Frank Munn, Margaret Daum"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (04) - Guest - Frank Munn, Margaret Daum.mp3",
+          "time": "896",
+          "size": "7170313"
+        }
+      ]
+    },
+    {
+      "ide": "311273",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Kate Smith"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 1 - 1944-xx-xx (05) - Guest - Kate Smith.mp3",
+          "time": "881",
+          "size": "7044473"
+        }
+      ]
+    },
+    {
+      "ide": "311285",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Mary Martin, James Melton, Alec Templeton"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (05) - Guest - Mary Martin, James Melton, Alec Templeton.mp3",
+          "time": "885",
+          "size": "7078377"
+        }
+      ]
+    },
+    {
+      "ide": "311274",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jim Ameche, Jeanne Cagney"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 1 - 1944-xx-xx (06) - Guest - Jim Ameche, Jeanne Cagney.mp3",
+          "time": "889",
+          "size": "7114569"
+        }
+      ]
+    },
+    {
+      "ide": "311286",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jane Froman, Celeste Holm"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (06) - Guest - Jane Froman, Celeste Holm.mp3",
+          "time": "905",
+          "size": "7238121"
+        }
+      ]
+    },
+    {
+      "ide": "311275",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest -Barry Wood, Al Goodman"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 1 - 1944-xx-xx (07) - Guest -Barry Wood, Al Goodman.mp3",
+          "time": "877",
+          "size": "7017017"
+        }
+      ]
+    },
+    {
+      "ide": "311287",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - John Charles Thomas"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (07) - Guest - John Charles Thomas.mp3",
+          "time": "890",
+          "size": "7120601"
+        }
+      ]
+    },
+    {
+      "ide": "311276",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest -Eddie Cantor, Harry Von Zell"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 1 - 1944-xx-xx (08) - Guest -Eddie Cantor, Harry Von Zell.mp3",
+          "time": "883",
+          "size": "7063401"
+        }
+      ]
+    },
+    {
+      "ide": "311288",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Dick Haymes, Bob Burns, Helen Forrest"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (08) - Guest - Dick Haymes, Bob Burns, Helen Forrest.mp3",
+          "time": "885",
+          "size": "7080457"
+        }
+      ]
+    },
+    {
+      "ide": "311289",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Ronald Colman, Meredith Willson"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something for the Girls, Series 2 - 1944-xx-xx (09) - Guest - Ronald Colman, Meredith Willson.mp3",
+          "time": "899",
+          "size": "7193817"
+        }
+      ]
+    },
+    {
+      "ide": "314996",
+      "date": "1944-01-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'Rosalie'. Guests, Alec Templeton, Morton Gould [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440122 003 (Series 1) 1st Song - 'Rosalie'. Guests, Alec Templeton, Morton Gould {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "903",
+          "size": "21955813"
+        }
+      ]
+    },
+    {
+      "ide": "314998",
+      "date": "1944-01-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Play; 'This Lonely Year', with Helen Hayes, Richard Widmark [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440129 004 (Series 1) Play; 'This Lonely Year', with Helen Hayes, Richard Widmark {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "856",
+          "size": "20845876"
+        }
+      ]
+    },
+    {
+      "ide": "315000",
+      "date": "1944-02-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kate Smith Opens with 'Long Ago and Far Away' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440205 005 (Series 1) Kate Smith Opens with 'Long Ago and Far Away' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "885",
+          "size": "21545240"
+        }
+      ]
+    },
+    {
+      "ide": "315002",
+      "date": "1944-02-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Harry Cool Opens with 'Swinging on a Star' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440212 006 (Series 1) Harry Cool Opens with 'Swinging on a Star' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "894",
+          "size": "21752263"
+        }
+      ]
+    },
+    {
+      "ide": "315004",
+      "date": "1944-02-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Barry Wood Opens with 'No Love, No Nothing' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440219 007 (Series 1) Barry Wood Opens with 'No Love, No Nothing' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "881",
+          "size": "21464542"
+        }
+      ]
+    },
+    {
+      "ide": "315006",
+      "date": "1944-02-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'Long Ago and Far Away'. Host, Eddie Cantor [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440226 008 (Series 1) 1st Song - 'Long Ago and Far Away'. Host, Eddie Cantor {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "876",
+          "size": "21344066"
+        },
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440226 008 1st Song - 'Long Ago and Far Away'. Host, Eddie Cantor {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "887",
+          "size": "21605999"
+        }
+      ]
+    },
+    {
+      "ide": "315008",
+      "date": "1944-03-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Opens with 'Betty Wave Symphonette' Guest - Russell Bennett, Carol Thurston [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440318 011 (Series 1) Opens with 'Betty Wave Symphonette' Guest - Russell Bennett, Carol Thurston {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "900",
+          "size": "21907514"
+        }
+      ]
+    },
+    {
+      "ide": "315010",
+      "date": "1944-03-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'Holiday for Strings', by Fred Waring & the Pennsylvanians [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440325 012 (Series 1) 1st Song - 'Holiday for Strings', by Fred Waring & the Pennsylvanians {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "884",
+          "size": "21545056"
+        }
+      ]
+    },
+    {
+      "ide": "315012",
+      "date": "1944-04-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'Toto', by Raymond Scott AHO [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440401 013 (Series 1) 1st Song - 'Toto', by Raymond Scott AHO {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "885",
+          "size": "21535740"
+        }
+      ]
+    },
+    {
+      "ide": "315014",
+      "date": "1944-04-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'Just One of Those Days', by Mark Warnow AHO [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440408 014 (Series 1) 1st Song - 'Just One of Those Days', by Mark Warnow AHO {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "871",
+          "size": "21212440"
+        }
+      ]
+    },
+    {
+      "ide": "315016",
+      "date": "1944-05-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lily Pons, Andre Kostelanetz AHO Open with 'Estrellita' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440506 001 (Series 2) Lily Pons, Andre Kostelanetz AHO Open with 'Estrellita' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "891",
+          "size": "21687720"
+        }
+      ]
+    },
+    {
+      "ide": "315019",
+      "date": "1944-05-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'There's A Great Day Coming, Manana', by Phil Spitalny's All-Girl Orchestra [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440513 002 (Series 2) 1st; Song 'There's A Great Day Coming, Ma%f1ana', by Phil Spitalny's All-Girl Orchestra {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "895",
+          "size": "21785319"
+        }
+      ]
+    },
+    {
+      "ide": "315020",
+      "date": "1944-05-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'I'm Making Believe', by Sammy Kaye's Serenade (voc. Nancy Norman) [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440520 003 (Series 2) 1st Song - 'I'm Making Believe', by Sammy Kaye's Serenade (voc. Nancy Norman) {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "874",
+          "size": "21285553"
+        }
+      ]
+    },
+    {
+      "ide": "315022",
+      "date": "1944-05-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - 'A Pretty Girl is Like a Melody, by Frank Munn [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440527 004 (Series 2) 1st Song - 'A Pretty Girl is Like a Melody, by Frank Munn {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "901",
+          "size": "21938827"
+        }
+      ]
+    },
+    {
+      "ide": "315024",
+      "date": "1944-06-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "James Melton Opens with 'Love' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440603 005 (Series 2) James Melton Opens with 'Love' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "889",
+          "size": "21668621"
+        }
+      ]
+    },
+    {
+      "ide": "315026",
+      "date": "1944-06-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song is a Medley from 'Oklahoma' (Ray Paige AHO) [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440610 006 (Series 2) 1st Song is a Medley from 'Oklahoma' (Ray Paige AHO) {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "909",
+          "size": "22132327"
+        }
+      ]
+    },
+    {
+      "ide": "315028",
+      "date": "1944-06-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "John Charles Thomas Opens with 'Invictus' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440617 007 (Series 2) John Charles Thomas Opens with 'Invictus' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "894",
+          "size": "21771755"
+        }
+      ]
+    },
+    {
+      "ide": "315029",
+      "date": "1944-06-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "John Charles Thomas Opens with 'Home on the Range' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440617 007 John Charles Thomas Opens with 'Home on the Range' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "894",
+          "size": "21771755"
+        }
+      ]
+    },
+    {
+      "ide": "315030",
+      "date": "1944-06-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dick Haymes Opens with 'How Many Hearts Have You Broken' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440624 008 (Series 2) Dick Haymes Opens with 'How Many Hearts Have You Broken' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "889",
+          "size": "21662311"
+        }
+      ]
+    },
+    {
+      "ide": "315032",
+      "date": "1944-07-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Play; 'A Sprig of Laurel Laid Upon the Crypt of a Deed' (Ronald Colman) [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440701 009 (Series 2) Play; 'A Sprig of Laurel Laid Upon the Crypt of a Deed' (Ronald Colman) {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "903",
+          "size": "22001595"
+        }
+      ]
+    },
+    {
+      "ide": "315034",
+      "date": "1944-07-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ginny Simms Opens With 'Is You Is, Or Is You Ain't My Baby' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440708 010 (Series 2) Ginny Simms Opens With 'Is You Is, Or Is You Ain't My Baby' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "892",
+          "size": "21730129"
+        }
+      ]
+    },
+    {
+      "ide": "315036",
+      "date": "1944-07-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nelson Eddy Opens with 'There's Going to be a Great Day' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440715 011 (Series 2) Nelson Eddy Opens with 'There's Going to be a Great Day' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "889",
+          "size": "21664162"
+        }
+      ]
+    },
+    {
+      "ide": "315038",
+      "date": "1944-07-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Johnny Mercer Opens with 'The Patty-Cake Man' [O.W.I]"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Something For The Girls",
+          "name": "Something For The Girls 440722 012 (Series 2) Johnny Mercer Opens with 'The Patty-Cake Man' {O.W.I} (192-44)_OTRRPG.mp3",
+          "time": "892",
+          "size": "21740760"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Something for the Girls"
+    }
+  ]
+}

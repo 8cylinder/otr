@@ -1,0 +1,423 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Second Chance/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logs1055.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8020-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "48641",
+      "first": "Johnny",
+      "last": "Olsen",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "About second chances."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "128579",
+      "date": "1953-06-22",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Miliam"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 53-06-22 (01) Miliam.mp3",
+          "time": "1043",
+          "size": "10436301"
+        }
+      ]
+    },
+    {
+      "ide": "128580",
+      "date": "1953-08-23",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jane Cromwell"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 53-08-23 (02) Jane Cromwell.mp3",
+          "time": "883",
+          "size": "8832352"
+        }
+      ]
+    },
+    {
+      "ide": "128581",
+      "date": "1953-08-25",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mike Morgan"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 53-08-25 (03) Mike Morgan.mp3",
+          "time": "896",
+          "size": "8964301"
+        }
+      ]
+    },
+    {
+      "ide": "128582",
+      "date": "1953-08-31",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Johnson"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 53-08-31 (04) Mrs Johnson.mp3",
+          "time": "1084",
+          "size": "10845285"
+        }
+      ]
+    },
+    {
+      "ide": "128583",
+      "date": "1954-12-03",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Claire"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 54-12-03 (05) Claire.mp3",
+          "time": "878",
+          "size": "8786000"
+        }
+      ]
+    },
+    {
+      "ide": "128584",
+      "date": "1955-01-13",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mae Walters"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-01-13 (06) Mae Walters.mp3",
+          "time": "880",
+          "size": "8804265"
+        }
+      ]
+    },
+    {
+      "ide": "128585",
+      "date": "1955-01-14",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Claire Warren"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-01-14 (07) Claire Warren.mp3",
+          "time": "878",
+          "size": "8785415"
+        }
+      ]
+    },
+    {
+      "ide": "128586",
+      "date": "1955-07-06",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Betty Walker"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-07-06 (08) Betty Walker.mp3",
+          "time": "1474",
+          "size": "14740091"
+        }
+      ]
+    },
+    {
+      "ide": "128587",
+      "date": "1955-07-11",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "21 American P O Ws Defect"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-07-11 (09) 21 American P O Ws Defect.mp3",
+          "time": "1484",
+          "size": "14838101"
+        },
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-07-11 (09) American POWs Defect.mp3",
+          "time": "1484",
+          "size": "14838091"
+        }
+      ]
+    },
+    {
+      "ide": "128588",
+      "date": "1955-07-14",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hildy"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-07-14 (10) Hildy.mp3",
+          "time": "1348",
+          "size": "13477854"
+        }
+      ]
+    },
+    {
+      "ide": "128589",
+      "date": "1955-07-26",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Black"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-07-26 (11) Mrs Black .mp3",
+          "time": "1485",
+          "size": "14854046"
+        },
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-07-26 (11) Mrs Black.mp3",
+          "time": "1485",
+          "size": "14854046"
+        }
+      ]
+    },
+    {
+      "ide": "128590",
+      "date": "1955-07-29",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mrs Angie"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-07-29 (12) Mrs Angie.mp3",
+          "time": "1497",
+          "size": "14966794"
+        }
+      ]
+    },
+    {
+      "ide": "128591",
+      "date": "1955-08-01",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three American Turncoats"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-08-01 (13) Three American Turncoats.mp3",
+          "time": "1471",
+          "size": "14713309"
+        }
+      ]
+    },
+    {
+      "ide": "128592",
+      "date": "1955-08-03",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mr Marx"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-08-03 (14) Mr Marx.mp3",
+          "time": "1472",
+          "size": "14720258"
+        }
+      ]
+    },
+    {
+      "ide": "128593",
+      "date": "1955-08-04",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mary Burns"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Second Chance",
+          "name": "Second Chance 55-08-04 (15) Mary Burns.mp3",
+          "time": "1469",
+          "size": "14691889"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Game Show"
+    },
+    {
+      "genre": "Interview"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1954-01-25",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:45 AM",
+      "end": "1955-07-01",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1955-07-04",
+      "dow": "M,Tu,W,Th,F",
+      "time": "10:30 AM",
+      "end": "1955-11-04",
+      "length": "25",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Multi",
+      "begin": "1954-01-25",
+      "end": "1955-11-04"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Second Chance"
+    }
+  ]
+}

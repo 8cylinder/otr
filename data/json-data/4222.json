@@ -1,0 +1,273 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/G Series/Gracie Fields Show/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,822157,00.html",
+      "label": "1952-02-18: Pirouette",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,884649,00.html",
+      "label": "1942-11-09: Grycie'",
+      "idtype": "11"
+    },
+    {
+      "type": "article",
+      "url": "www.otrr.org/FILES/Articles/Martin_Grams_Jr_Articles/Edgar_Bergen_And_Charlie_McCarthy_Show.htm",
+      "label": "The Edgar Bergen and Charlie McCarthy Show: An Episode Guide and Brief History by Martin Grams, Jr.",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logg1031.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [
+    {
+      "info": "October 1943 - January 1944 show on Mutual called: The Gracie Fields Victory Show."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "1925",
+      "first": "Gracie",
+      "last": "Fields",
+      "f": "Noted Role",
+      "character": "Hostess"
+    },
+    {
+      "idperson": "24791",
+      "first": "The",
+      "last": "Sportsmen Quartet",
+      "f": "Noted Role",
+      "character": "Vocals"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "69001",
+      "date": "1944-06-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "69002",
+      "date": "1944-06-18",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "69003",
+      "date": "1944-06-25",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "69004",
+      "date": "1944-07-02",
+      "epnum": "",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "69005",
+      "date": "1944-07-09",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jack Carson"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gracie Fields Show",
+          "name": "Gracie Fields 440709 05 Guest - Jack Carson {AFRS} (2)_OTRRPG.mp3",
+          "time": "1820",
+          "size": "29191578"
+        },
+        {
+          "path": "G",
+          "folder": "Gracie Fields Show",
+          "name": "Gracie Fields 440709 05 Guest - Jack Carson {AFRS}_OTRRPG.mp3",
+          "time": "1811",
+          "size": "29047333"
+        },
+        {
+          "path": "G",
+          "folder": "Gracie Fields Show",
+          "name": "The Gracie Fields Show 44-07-09 Guest Jack Carson.mp3",
+          "time": "1813",
+          "size": "29003809"
+        }
+      ]
+    },
+    {
+      "ide": "69006",
+      "date": "1944-07-16",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "69007",
+      "date": "1944-07-23",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Feudin', Fightin', Fussin' (syndicated version)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gracie Fields Show",
+          "name": "The Gracie Fields Show 44-07-23 Feudin', Fightin' Fussin' .mp3",
+          "time": "1569",
+          "size": "9412743"
+        }
+      ]
+    },
+    {
+      "ide": "69008",
+      "date": "1944-07-30",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Play a Simple Melody (syndicated version)"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Gracie Fields Show",
+          "name": "The Gracie Fields Show 44-07-30 Play a Simple Melody .mp3",
+          "time": "1755",
+          "size": "10531196"
+        }
+      ]
+    },
+    {
+      "ide": "69009",
+      "date": "1944-08-06",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Roy Rogers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "69010",
+      "date": "1944-08-13",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Orson Welles"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "69011",
+      "date": "1944-08-20",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "69012",
+      "date": "1944-08-27",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You Only Want It When You Can't Have It"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Comedy"
+    },
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Gracie Fields"
+    },
+    {
+      "title": "Gracie Fields Show"
+    },
+    {
+      "title": "Gracie Fields Victory Show, The"
+    },
+    {
+      "title": "Gracie Fields Show, The"
+    }
+  ]
+}

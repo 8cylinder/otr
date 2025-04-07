@@ -1,0 +1,213 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,800861,00.html",
+      "label": "1949-10-03: The Embellished Waltz",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3160",
+      "first": "Hal",
+      "last": "Kemp",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3236",
+      "first": "Wayne",
+      "last": "King",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3615",
+      "first": "Guy",
+      "last": "Lombardo",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "3860",
+      "first": "Freddy",
+      "last": "Martin",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6251",
+      "first": "Anson",
+      "last": "Weeks",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "15906",
+      "first": "Phil",
+      "last": "Stewart",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "47313",
+      "first": "Lee",
+      "last": "Gillette",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2123",
+      "first": "Frank",
+      "last": "Gallop",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "2999",
+      "first": "Bess",
+      "last": "Johnson",
+      "f": "Noted Role",
+      "character": "Lady Esther spokeswoman"
+    },
+    {
+      "idperson": "3236",
+      "first": "Wayne",
+      "last": "King",
+      "f": "Noted Role",
+      "character": "Until Oct 38"
+    },
+    {
+      "idperson": "3615",
+      "first": "Guy",
+      "last": "Lombardo",
+      "f": "Noted Role",
+      "character": "Beginning Oct 38"
+    },
+    {
+      "idperson": "4408",
+      "first": "Wendell",
+      "last": "Niles",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5038",
+      "first": "Ken",
+      "last": "Roberts",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4407",
+      "first": "Ken",
+      "last": "Niles",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "20",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313934",
+      "date": "1942-02-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Freddie Martin"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Lady Esther Serenade",
+          "name": "Lady Esther Serenade 420209 W Freddie Martin_OTRRPG.mp3",
+          "time": "1746",
+          "size": "28013732"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1931-09-27",
+      "dow": "",
+      "time": "",
+      "end": "1940-01-26",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    },
+    {
+      "begin": "1940-01-26",
+      "dow": "",
+      "time": "",
+      "end": "1941-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Lady Esther Company (cosmetics)",
+      "begin": "1931-09-27",
+      "end": "1941-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Lady Esther Serenade"
+    }
+  ]
+}

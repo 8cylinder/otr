@@ -1,0 +1,225 @@
+{
+  "avail": [
+    {
+      "avail": "10",
+      "idprint": "-1",
+      "web": "",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "39",
+      "idprint": "2854",
+      "web": "",
+      "url": "0",
+      "source": "The Old Radio Times",
+      "idpytype": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Buck Jones In Hoofbeats/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-1753-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3027",
+      "first": "Buck",
+      "last": "Jones",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "815",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1978-12-01",
+      "source": "Illustrated Press/IP_031.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (Extra) - Dec 1978",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "34480",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Buck Jones In Hoofbeats",
+          "name": "Buck Jones in Hoofbeats 36-xx-xx (01).mp3",
+          "time": "861",
+          "size": "6887729"
+        }
+      ]
+    },
+    {
+      "ide": "34471",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "34479",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Buck Jones In Hoofbeats",
+          "name": "Buck Jones in Hoofbeats 36-xx-xx (02).mp3",
+          "time": "842",
+          "size": "6737759"
+        }
+      ]
+    },
+    {
+      "ide": "34478",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Buck Jones In Hoofbeats",
+          "name": "Buck Jones in Hoofbeats 36-xx-xx (03).mp3",
+          "time": "869",
+          "size": "6948671"
+        }
+      ]
+    },
+    {
+      "ide": "34477",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "34476",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "34475",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "34474",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "34473",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "34472",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Western"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "Post Grape-Nuts Flakes",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Buck Jones"
+    },
+    {
+      "title": "Buck Jones In Hoofbeats"
+    },
+    {
+      "title": "Hoofbeats"
+    },
+    {
+      "title": "Hoofbeats"
+    }
+  ]
+}

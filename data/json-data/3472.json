@@ -1,0 +1,110 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3472-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "65156",
+      "date": "1952-11-22",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Black Cat, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65157",
+      "date": "1953-01-17",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lightning Rod Man, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65158",
+      "date": "1953-01-24",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Pit and the Pendulum, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65159",
+      "date": "1953-01-31",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cone, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "65160",
+      "date": "1953-03-07",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Masque of Red Death, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Faces In The Window",
+          "name": "Faces In The Window 530307 xxx Masque of The Red Dead_OTRRPG.mp3",
+          "time": "1197",
+          "size": "19165687"
+        },
+        {
+          "path": "F",
+          "folder": "Faces In The Window",
+          "name": "Faces In The Window 53-03-07 Masque Of The Red Dead.mp3",
+          "time": "1198",
+          "size": "14376976"
+        },
+        {
+          "path": "F",
+          "folder": "Faces In The Window",
+          "name": "Faces In The Window 530307 xxx Masque of The Red Dead.mp3",
+          "time": "1198",
+          "size": "14378008"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Faces in the Window"
+    }
+  ]
+}

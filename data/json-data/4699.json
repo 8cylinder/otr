@@ -1,0 +1,535 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "HOLP"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/H Series/Hollywood Players/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Hollywood-Players.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Hollywood-Players.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "article",
+      "url": "www.otrr.org/FILES/Articles/Martin_Grams_Jr_Articles/Good_Evening_Alfred_Hitchcock_on_radio.htm",
+      "label": "Good Evening: Alfred Hitchcock on Radio by Charles Huck and Martin Grams, Jr.",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logh1019.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-4699-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3148",
+      "first": "Gene",
+      "last": "Kelly",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "49066",
+      "first": "Joseph",
+      "last": "Cotton",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "37",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-11-24",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "THE MICROPHONE WILL PRESENT",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2775",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "76747",
+      "date": "1946-09-03",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Small Servant, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76748",
+      "date": "1946-09-10",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Fallen Sparrow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76749",
+      "date": "1946-09-17",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Skylark"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76750",
+      "date": "1946-09-24",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Pride of the Yankees"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76751",
+      "date": "1946-10-01",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rebecca"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Players",
+          "name": "Hollywood Players 46-10-01 (05) Rebecca.mp3",
+          "time": "1837",
+          "size": "7348986"
+        }
+      ]
+    },
+    {
+      "ide": "76752",
+      "date": "1946-10-08",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Golden Boy"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Players",
+          "name": "Hollywood Players 46-10-08 (06) Golden Boy.mp3",
+          "time": "1839",
+          "size": "7358184"
+        }
+      ]
+    },
+    {
+      "ide": "76753",
+      "date": "1946-10-15",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Elizabeth the Queen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76754",
+      "date": "1946-10-22",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sullivan's Travels"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76755",
+      "date": "1946-10-29",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Nothing Scared"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76756",
+      "date": "1946-11-05",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Kitty"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76757",
+      "date": "1946-11-12",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Heaven Can Wait"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76758",
+      "date": "1946-11-19",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Affairs of Susan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76759",
+      "date": "1946-11-26",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Glass Key, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76760",
+      "date": "1946-12-03",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Standing Room Only"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76761",
+      "date": "1946-12-10",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "NoTime For Comedy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76762",
+      "date": "1946-12-17",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Constant Nymph"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76746",
+      "date": "1946-12-25",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "All Through the House"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Players",
+          "name": "Hollywood Players 46-12-25 (17) All Through the House.mp3",
+          "time": "1801",
+          "size": "7206663"
+        }
+      ]
+    },
+    {
+      "ide": "76764",
+      "date": "1947-01-01",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Fifth Avenue Girl"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76765",
+      "date": "1947-01-08",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Pal Joey"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76766",
+      "date": "1947-01-15",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Woman in the Window"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Hollywood Players",
+          "name": "Hollywood Players 47-01-15 (20) Woman in the Window.mp3",
+          "time": "1763",
+          "size": "28202551"
+        }
+      ]
+    },
+    {
+      "ide": "76767",
+      "date": "1947-01-22",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Random Harvest"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76768",
+      "date": "1947-01-29",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dark Victory"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76769",
+      "date": "1947-02-05",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "And Now Tomorrow"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76770",
+      "date": "1947-02-12",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Diary of a Chambermaid"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76771",
+      "date": "1947-02-19",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Major and the Minor, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76772",
+      "date": "1947-02-26",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Vivacious Lady"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76773",
+      "date": "1947-03-05",
+      "epnum": "27",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eagle's Brood, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "76774",
+      "date": "1947-03-12",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Woman's Privilege, A"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-09-03",
+      "dow": "",
+      "time": "9:30 PM",
+      "end": "1947-02-26",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Hollywood Players"
+    },
+    {
+      "title": "Cresta Blanca"
+    }
+  ]
+}

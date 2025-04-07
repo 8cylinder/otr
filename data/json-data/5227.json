@@ -1,0 +1,964 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323161946-f1312067.jpg",
+      "label": "Jimmy Durante Show, The",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.goldenage-wtic.org/gaor-01.html",
+      "label": "The Golden Age of Radio: Program 1 - April, 1970 - Stanley Quinn",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.karloff.com/radio.html",
+      "label": "Radio Programs Featuring Boris Karloff",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otr.com/comedy.shtml",
+      "label": "Comedy Central by James F. Widner",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-5227-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logj1003.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logj1004.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,803060-1,00.html",
+      "label": "1944-01-24: Jimmy, That Well-Dressed Man",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,804191,00.html",
+      "label": "1947-09-08: More of the Same",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,855761,00.html",
+      "label": "1947-06-16: Her Nibs",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,887705,00.html",
+      "label": "1947-11-17: The RAP",
+      "idtype": "11"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/J Series/Jimmy Durante/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "1933 and 1934 show aka The Chase and Sanborn Hour, substituting for Eddie Cantor. - 1935-36 show aka The Jumbo Fire Chief Program. - 1943 NBC show aka The Durante-Moore Show, or The Camel Caravan, replacing The Abbott and Costello Show. - 1943-47 CBS shows aka The Durante-Moore Show."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "331",
+      "first": "Roy",
+      "last": "Bargy",
+      "f": "Noted Role",
+      "character": "1943-50 shows"
+    },
+    {
+      "idperson": "331",
+      "first": "Roy",
+      "last": "Bargy",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "514",
+      "first": "Sara",
+      "last": "Berner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "934",
+      "first": "Candy",
+      "last": "Candido",
+      "f": "Noted Role",
+      "character": "1947-48 show"
+    },
+    {
+      "idperson": "1117",
+      "first": "Lou",
+      "last": "Clayton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "1349",
+      "first": "Xavier",
+      "last": "Cugat",
+      "f": "Noted Role",
+      "character": "1943 show"
+    },
+    {
+      "idperson": "1349",
+      "first": "Xavier",
+      "last": "Cugat",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1716",
+      "first": "Jimmy",
+      "last": "Durante",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "1797",
+      "first": "Hope",
+      "last": "Emerson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2193",
+      "first": "Georgia",
+      "last": "Gibbs",
+      "f": "Noted Role",
+      "character": "Vocalist 1943-45 show"
+    },
+    {
+      "idperson": "2463",
+      "first": "Florence",
+      "last": "Halop",
+      "f": "Noted Role",
+      "character": "Hotlips  Houlihan"
+    },
+    {
+      "idperson": "3124",
+      "first": "Joseph",
+      "last": "Kearns",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3469",
+      "first": "Peggy",
+      "last": "Lee",
+      "f": "Noted Role",
+      "character": "Vocalist 1947-48 show"
+    },
+    {
+      "idperson": "4224",
+      "first": "Garry",
+      "last": "Moore",
+      "f": "Noted Role",
+      "character": "Co-star"
+    },
+    {
+      "idperson": "4224",
+      "first": "Garry",
+      "last": "Moore",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4232",
+      "first": "Victor",
+      "last": "Moore",
+      "f": "Noted Role",
+      "character": "1947-48  show"
+    },
+    {
+      "idperson": "4232",
+      "first": "Victor",
+      "last": "Moore",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4681",
+      "first": "Howard",
+      "last": "Petrie",
+      "f": "Noted Role",
+      "character": "1943-50 shows"
+    },
+    {
+      "idperson": "4681",
+      "first": "Howard",
+      "last": "Petrie",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5172",
+      "first": "David 'Dave'",
+      "last": "Rubinoff",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5550",
+      "first": "Jay",
+      "last": "Sommers",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "5966",
+      "first": "Arthur",
+      "last": "Treacher",
+      "f": "Noted Role",
+      "character": "1947-48 show"
+    },
+    {
+      "idperson": "5966",
+      "first": "Arthur",
+      "last": "Treacher",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6040",
+      "first": "Vera",
+      "last": "Vague",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6168",
+      "first": "Jimmy",
+      "last": "Wallington",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6989",
+      "first": "Jeri",
+      "last": "Sullivan",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "7140",
+      "first": "Jack",
+      "last": "Robinson",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7416",
+      "first": "Stanley",
+      "last": "Davis",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "7416",
+      "first": "Stanley",
+      "last": "Davis",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "13837",
+      "first": "Phil",
+      "last": "Cohan",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "13837",
+      "first": "Phil",
+      "last": "Cohan",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "28938",
+      "first": "Sid",
+      "last": "Zelinka",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "35998",
+      "first": "Sid",
+      "last": "Reznick",
+      "f": "Noted Role",
+      "character": "1943-45 show"
+    },
+    {
+      "idperson": "35998",
+      "first": "Sid",
+      "last": "Reznick",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "39606",
+      "first": "Elvia",
+      "last": "Allman",
+      "f": "Noted Role",
+      "character": "Secretary (1943-45 show), Cuddles Bongschnook"
+    },
+    {
+      "idperson": "39625",
+      "first": "Don",
+      "last": "Ameche",
+      "f": "Noted Role",
+      "character": "Co-star April 1949-50"
+    },
+    {
+      "idperson": "39625",
+      "first": "Don",
+      "last": "Ameche",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "47696",
+      "first": "Tommy",
+      "last": "Halloran",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "42652",
+      "first": "Leo",
+      "last": "Solomon",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "6515",
+      "first": "Alan",
+      "last": "Young",
+      "f": "Noted Role",
+      "character": "Co-star 1948-April 1949"
+    },
+    {
+      "idperson": "5431",
+      "first": "Herb",
+      "last": "Shriner",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "18242",
+      "first": "Suzanne",
+      "last": "Ellis",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3933",
+      "first": "Marilyn 'Marvel'",
+      "last": "Maxwell",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "5961",
+      "first": "Helen",
+      "last": "Traubel",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "5961",
+      "first": "Helen",
+      "last": "Traubel",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5992",
+      "first": "Margaret",
+      "last": "Truman",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "207",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "2008-04-01",
+      "source": "AirCheck/Aircheck_V17_05Apr08.pdf",
+      "idpytype2": "4",
+      "title": "Aircheck V17 _05 Apr 2008",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "344",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1980-10-01",
+      "source": "Collectors Corner/CC_28_Fall_80.pdf",
+      "idpytype2": "4",
+      "title": "Collectors Corner #28 Fall 80",
+      "author": ""
+    },
+    {
+      "idprint": "349",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "1982-02-01",
+      "source": "Collectors Corner/CC_33_Winter_Spring_82.pdf",
+      "idpytype2": "4",
+      "title": "Collectors Corner #33 Winter Spring 82",
+      "author": ""
+    },
+    {
+      "idprint": "1099",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1970-01-01",
+      "source": "Misc/Don_Maris_Flyer_(01)_70.pdf",
+      "idpytype2": "4",
+      "title": "Don Maris Flyer (01) 1970",
+      "author": ""
+    },
+    {
+      "idprint": "2788",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "Encyclopedia of American Radio, The",
+      "author": "Lackmann, Ron"
+    },
+    {
+      "idprint": "393",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "1980-09-01",
+      "source": "Hello Again/HA_V11_(09)_Sep80.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 11 #09 Sep 1980",
+      "author": ""
+    },
+    {
+      "idprint": "539",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1977-03-01",
+      "source": "Hello Again/HA_V08_(03)_Mar77.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 8 #03 Mar 1977",
+      "author": ""
+    },
+    {
+      "idprint": "875",
+      "idtype": "4",
+      "page": "10",
+      "article": "",
+      "url": "",
+      "date": "1984-10-01",
+      "source": "Illustrated Press/IP_096.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press - #96 Oct 84",
+      "author": ""
+    },
+    {
+      "idprint": "605",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1991-02-01",
+      "source": "Illustrated Press/IP_173.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #173 Feb 91",
+      "author": ""
+    },
+    {
+      "idprint": "608",
+      "idtype": "4",
+      "page": "15",
+      "article": "",
+      "url": "",
+      "date": "1991-07-01",
+      "source": "Illustrated Press/IP_178.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #178/9 Jul/Aug 91",
+      "author": ""
+    },
+    {
+      "idprint": "638",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1994-02-01",
+      "source": "Illustrated Press/IP_209.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #209 Feb 94",
+      "author": ""
+    },
+    {
+      "idprint": "722",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1977-08-01",
+      "source": "Illustrated Press/IP_014.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#14) - Aug 1977",
+      "author": ""
+    },
+    {
+      "idprint": "765",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1999-01-01",
+      "source": "Illustrated Press/IP_266.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#266) - Jan 1999",
+      "author": ""
+    },
+    {
+      "idprint": "815",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1978-12-01",
+      "source": "Illustrated Press/IP_031.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (Extra) - Dec 1978",
+      "author": ""
+    },
+    {
+      "idprint": "908",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "2002-06-01",
+      "source": "Illustrated Press/IP_301.pdf",
+      "idpytype2": "4",
+      "title": "IP 02 06 301",
+      "author": ""
+    },
+    {
+      "idprint": "1116",
+      "idtype": "4",
+      "page": "19",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_03.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #3",
+      "author": ""
+    },
+    {
+      "idprint": "1120",
+      "idtype": "4",
+      "page": "24",
+      "article": "",
+      "url": "",
+      "date": "2008-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01Rev)_79.pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01Rev) 1979",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1557",
+      "idtype": "4",
+      "page": "42",
+      "article": "",
+      "url": "",
+      "date": "1985-09-01",
+      "source": "OTR Digest_1980s/OTRDigest_(011)SepOct85.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (11) Sep-Oct 1985",
+      "author": ""
+    },
+    {
+      "idprint": "1647",
+      "idtype": "4",
+      "page": "18",
+      "article": "",
+      "url": "",
+      "date": "2000-07-01",
+      "source": "OTR Digest_1990s/OTRDigest_(094)Summer00.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (94) Summer 2000",
+      "author": ""
+    },
+    {
+      "idprint": "2206",
+      "idtype": "4",
+      "page": "38",
+      "article": "",
+      "url": "",
+      "date": "1976-01-01",
+      "source": "Radio Nostalgia/Radio_Nostalgia_(04).pdf",
+      "idpytype2": "4",
+      "title": "Radio Nostalgia (04)",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "50",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1930-02-23",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "You gotta start out each day with a song; Inka Dinka Doo"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "318855",
+      "date": "1947-12-10",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Boris Karloff"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jimmy Durante",
+          "name": "The Jimmy Durante Show 47-12-10 (11) Guest - Boris Karloff.mp3",
+          "time": "1782",
+          "size": "28520488"
+        }
+      ]
+    },
+    {
+      "ide": "318856",
+      "date": "1947-12-17",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Victor Moore"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jimmy Durante",
+          "name": "The Jimmy Durante Show 47-12-17 (12) Guest - Victor Moore.mp3",
+          "time": "1697",
+          "size": "27156520"
+        }
+      ]
+    },
+    {
+      "ide": "318857",
+      "date": "1948-04-21",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Lou Clayton and Eddie Jackson"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jimmy Durante",
+          "name": "The Jimmy Durante Show 48-04-21 (29) Guest - Lou Clayton and Eddie Jackson.mp3",
+          "time": "1583",
+          "size": "25331732"
+        }
+      ]
+    },
+    {
+      "ide": "318854",
+      "date": "1948-04-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jimmy Durante 1948-04-28 Guest Lucille Ball"
+        }
+      ],
+      "files": [
+        {
+          "path": "J",
+          "folder": "Jimmy Durante",
+          "name": "Jimmy Durante 1948-04-28 Guest Lucille Ball.mp3",
+          "time": "1782",
+          "size": "14254793"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1933-09-10",
+      "dow": "Su",
+      "time": "8:00 PM",
+      "end": "1933-11-12",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1934-04-22",
+      "dow": "Su",
+      "time": "8:00 PM",
+      "end": "1934-09-30",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1935-10-29",
+      "dow": "",
+      "time": "9:30 PM",
+      "end": "1936-02-26",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1943-03-25",
+      "dow": "Th",
+      "time": "10:00 PM",
+      "end": "1943-10-28",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1943-10-08",
+      "dow": "F",
+      "time": "10:00 PM",
+      "end": "1945-03-30",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-04-06",
+      "dow": "F",
+      "time": "10:00 PM",
+      "end": "1946-07-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-07-00",
+      "dow": "F",
+      "time": "9:30 PM",
+      "end": "1947-06-27",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-10-01",
+      "dow": "W",
+      "time": "10:30 PM",
+      "end": "1948-06-23",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1948-10-08",
+      "dow": "F",
+      "time": "8:30 PM",
+      "end": "1949-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1949-00-00",
+      "dow": "F",
+      "time": "9:30 PM",
+      "end": "1950-06-30",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Jimmy Durante Show, The"
+    }
+  ]
+}

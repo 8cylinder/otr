@@ -1,0 +1,54 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185015-fa3995ac.jpg",
+      "label": "ABC Theater",
+      "idtype": "12"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/ABC Theater/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "245921",
+      "date": "1951-09-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Black Night - Guest - Dan Dowd"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "ABC Theater",
+          "name": "ABC Theater 51-09-25 - Black Night.mp3",
+          "time": "1758",
+          "size": "7033417"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "ABC Theater"
+    }
+  ]
+}

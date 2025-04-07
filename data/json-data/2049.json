@@ -1,0 +1,493 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "CADI"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173322-ba96ecce.jpg",
+      "label": "Case Dismissed CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173336-9466b2e0.jpg",
+      "label": "Case Dismissed CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173356-81fa14f2.jpg",
+      "label": "Case Dismissed CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173404-649c525b.jpg",
+      "label": "Case Dismissed CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322173459-679858ce.jpg",
+      "label": "Case Dismissed",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Case_Dismissed_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Case-Dismissed.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2049-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Case-Dismissed.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Case_Dismissed_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2775",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#grams",
+      "date": "0000-00-00",
+      "source": "Grams Jr., Martin",
+      "idpytype2": "5",
+      "title": "Radio Drama - A Comprehensive Chronicle of American Network Programs, 1932-1962",
+      "author": "Grams Jr., Martin"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "The Comedian"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "307867",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Audio Brief"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "1Case Dismissed Audio Brief.mp3",
+          "time": "61",
+          "size": "970707"
+        }
+      ]
+    },
+    {
+      "ide": "317134",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Introduction To The Old Time Radio Researchers Group"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "0IntroductionToTheOldTimeRadioResearchersGroup.mp3",
+          "time": "292",
+          "size": "4667556"
+        }
+      ]
+    },
+    {
+      "ide": "37895",
+      "date": "1954-01-30",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Criminal Liability"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-01-30__01__Criminal_Liability.mp3",
+          "time": "1631",
+          "size": "6523277"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-01-30 (01) Criminal Liability.mp3",
+          "time": "1631",
+          "size": "6523277"
+        }
+      ]
+    },
+    {
+      "ide": "37896",
+      "date": "1954-02-06",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pitfalls Of Buying A House"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-02-06__02__Legal_Wills.mp3",
+          "time": "1644",
+          "size": "6576654"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-02-06 (02) Legal Wills.mp3",
+          "time": "1644",
+          "size": "6576654"
+        }
+      ]
+    },
+    {
+      "ide": "37897",
+      "date": "1954-02-13",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Necessity Of A Legal Will"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-02-13__03__Pitfalls_of_Buying_a_Home.mp3",
+          "time": "1642",
+          "size": "6569920"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-02-13 (03) Pitfalls of Buying a Home.mp3",
+          "time": "1642",
+          "size": "6569920"
+        }
+      ]
+    },
+    {
+      "ide": "37898",
+      "date": "1954-02-20",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Child Support"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-02-20__04__Child_Support.mp3",
+          "time": "1631",
+          "size": "6525500"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-02-20 (04) Child Support.mp3",
+          "time": "1631",
+          "size": "6525500"
+        }
+      ]
+    },
+    {
+      "ide": "37899",
+      "date": "1954-02-27",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Installment Buying"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-02-27__05__Installment_Buying.mp3",
+          "time": "1658",
+          "size": "6632313"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-02-27 (05) Installment Buying.mp3",
+          "time": "1658",
+          "size": "6632313"
+        }
+      ]
+    },
+    {
+      "ide": "37900",
+      "date": "1954-03-06",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adoption"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-03-06__06__Adoption.mp3",
+          "time": "1642",
+          "size": "6566263"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-03-06 (06) Adoption.mp3",
+          "time": "1641",
+          "size": "6566263"
+        }
+      ]
+    },
+    {
+      "ide": "37901",
+      "date": "1954-03-13",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Landlord and Tenant"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-03-13__07__Landlord_and_Tenant.mp3",
+          "time": "1656",
+          "size": "6625290"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-03-13 (07) Landlord and Tenant.mp3",
+          "time": "1656",
+          "size": "6625290"
+        }
+      ]
+    },
+    {
+      "ide": "37902",
+      "date": "1954-03-20",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rights When Arrested"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-03-20__08__Rights_When_Arrested.mp3",
+          "time": "1655",
+          "size": "6619146"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-03-20 (08) Rights When Arrested.mp3",
+          "time": "1655",
+          "size": "6619146"
+        }
+      ]
+    },
+    {
+      "ide": "37903",
+      "date": "1954-03-27",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Liability for Minors"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-03-27__09__Liability_for_Minors.mp3",
+          "time": "1716",
+          "size": "6864906"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-03-27 (09) Liability for Minors.mp3",
+          "time": "1716",
+          "size": "6864906"
+        }
+      ]
+    },
+    {
+      "ide": "37904",
+      "date": "1954-04-03",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eye Witness"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-04-03__10__Responsibilities_of_Eye_Witnesses.mp3",
+          "time": "1641",
+          "size": "6565898"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-04-03 (10) Responsibilities of Eye Witnesses.mp3",
+          "time": "1641",
+          "size": "6565898"
+        }
+      ]
+    },
+    {
+      "ide": "37905",
+      "date": "1954-04-10",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Operating A Small Business"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "37906",
+      "date": "1954-04-17",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Libel and Slander"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-04-17__12__Libel_and_Slander.mp3",
+          "time": "1648",
+          "size": "6592522"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-04-17 (12) Libel and Slander.mp3",
+          "time": "1648",
+          "size": "6592522"
+        }
+      ]
+    },
+    {
+      "ide": "37907",
+      "date": "1954-04-24",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Juvenile Delinquency"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Case_Dismissed_Singles",
+          "name": "CD_54-04-24__13__Juvenile_Delinquency.mp3",
+          "time": "1606",
+          "size": "6422538"
+        },
+        {
+          "path": "C",
+          "folder": "Case Dismissed",
+          "name": "Case Dismissed 54-04-24 (13) Juvenile Delinquency.mp3",
+          "time": "1605",
+          "size": "6422538"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1954-01-30",
+      "dow": "Sa",
+      "time": "",
+      "end": "1954-04-24",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Case Dismissed"
+    }
+  ]
+}

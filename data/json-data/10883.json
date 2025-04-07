@@ -1,0 +1,90 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2251",
+      "first": "Lud",
+      "last": "Gluskin",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5751",
+      "first": "Maxine",
+      "last": "Sullivan",
+      "f": "Noted Role",
+      "character": "Hostess"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Loch Lomond"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "324889",
+      "date": "1938-05-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Maxine Sullivan"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Recital In Swing Time",
+          "name": "Recital In Swing Time 1938.05.31 Maxine Sullivan.mp3",
+          "time": "920",
+          "size": "3789456"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-04-26",
+      "dow": "Tu",
+      "time": "6:45 PM",
+      "end": "1938-06-14",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Maxine Sullivan (Recital In Swingtime)"
+    }
+  ]
+}

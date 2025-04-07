@@ -1,0 +1,143 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,772351,00.html",
+      "label": "1940-01-15: Confidentially Yours",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4153",
+      "first": "Jack",
+      "last": "Miller",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "7467",
+      "first": "Bob",
+      "last": "Warren",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "46534",
+      "first": "Jack",
+      "last": "Lait",
+      "f": "Noted Role",
+      "character": "Narrator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313158",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Arthur Hale War News"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confidentially Yours",
+          "name": "Confidentially Yours 4xxxxx xxx Arthur Hale War News_OTRRPG.mp3",
+          "time": "827",
+          "size": "13303849"
+        }
+      ]
+    },
+    {
+      "ide": "322502",
+      "date": "1941-04-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Confidentially Yours"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confidentially Yours",
+          "name": "Confidentially Yours 1941.04.24 Confidentially Yours.mp3",
+          "time": "828",
+          "size": "3421028"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Anthology"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Confidentially Yours"
+    }
+  ]
+}

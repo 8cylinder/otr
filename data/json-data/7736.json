@@ -1,0 +1,394 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/R Series/Riding High/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logr1018.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-7736-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [
+    {
+      "info": "aka Ridin' High"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "5464",
+      "first": "Ray",
+      "last": "Sinatra",
+      "f": "Noted Role",
+      "character": "Orchestra Leader"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Ridin' High"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "122455",
+      "date": "1937-04-01",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Frank Parker"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-04-01 (01) Guest - Frank Parker.mp3",
+          "time": "896",
+          "size": "28676500"
+        }
+      ]
+    },
+    {
+      "ide": "122456",
+      "date": "1937-04-08",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Ruth Etting"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-04-08 (02) Guest - Ruth Etting.mp3",
+          "time": "896",
+          "size": "28661453"
+        }
+      ]
+    },
+    {
+      "ide": "122457",
+      "date": "1937-04-15",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Fibber McGee and Molly"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "122458",
+      "date": "1937-04-22",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Hildegarde"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-04-22 (04) Guest - Hildegarde.mp3",
+          "time": "900",
+          "size": "28785168"
+        }
+      ]
+    },
+    {
+      "ide": "122459",
+      "date": "1937-04-29",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Gene Ellington"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-04-29 (05) Guest - Gene Ellington.mp3",
+          "time": "899",
+          "size": "28775141"
+        }
+      ]
+    },
+    {
+      "ide": "122460",
+      "date": "1937-05-06",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Mary Small"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-05-06 (06) Guest - Mary Small.mp3",
+          "time": "901",
+          "size": "28818604"
+        }
+      ]
+    },
+    {
+      "ide": "122461",
+      "date": "1937-05-13",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - The Landt Trio"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-05-13 (07) Guest - The Landt Trio.mp3",
+          "time": "900",
+          "size": "28796874"
+        }
+      ]
+    },
+    {
+      "ide": "122462",
+      "date": "1937-05-20",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Martin Bowe"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-05-20 (08) Guest - Martin Bowe.mp3",
+          "time": "890",
+          "size": "28486746"
+        }
+      ]
+    },
+    {
+      "ide": "122463",
+      "date": "1937-05-27",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jane Pickens"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-05-27 (09) Guest - Jane Pickens.mp3",
+          "time": "897",
+          "size": "28720804"
+        }
+      ]
+    },
+    {
+      "ide": "122464",
+      "date": "1937-06-03",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jean Sablon"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-06-03 (10) Guest - Jean Sablon.mp3",
+          "time": "892",
+          "size": "28538839"
+        }
+      ]
+    },
+    {
+      "ide": "122465",
+      "date": "1937-06-10",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Jane Froman"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-06-10 (11) Guest - Jane Froman.mp3",
+          "time": "889",
+          "size": "28439365"
+        }
+      ]
+    },
+    {
+      "ide": "122466",
+      "date": "1937-06-17",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Gogo Delys"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-06-17 (12) Guest - Gogo Delys.mp3",
+          "time": "897",
+          "size": "28695991"
+        }
+      ]
+    },
+    {
+      "ide": "122467",
+      "date": "1937-06-24",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Countess Olga Albani"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Riding High",
+          "name": "Riding High 37-06-24 (13) Guest - Countess Olga Albani.mp3",
+          "time": "891",
+          "size": "28522956"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-04-01",
+      "dow": "Th",
+      "time": "7:15 PM",
+      "end": "1937-06-24",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Cycle Trades of America",
+      "begin": "1937-04-01",
+      "end": "1937-06-24"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Riding High"
+    },
+    {
+      "title": "All Star Cycle Program"
+    }
+  ]
+}

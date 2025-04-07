@@ -1,0 +1,633 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322175734-b427f651.jpg",
+      "label": "Adventures Of Doc Savage CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Doc_Savage",
+      "label": "Wikipedia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/ds_.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logd1016.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "312362",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thousand-headed Man Chapter 5"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Doc Savage",
+          "name": "Doc Savage Thousand-headed Man Chapter 5_OTRRPG.mp3",
+          "time": "1440",
+          "size": "23122340"
+        }
+      ]
+    },
+    {
+      "ide": "312363",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thousand-headed Man Chapter 6"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Doc Savage",
+          "name": "Doc Savage Thousand-headed Man Chapter 6_OTRRPG.mp3",
+          "time": "1409",
+          "size": "22631238"
+        }
+      ]
+    },
+    {
+      "ide": "248386",
+      "date": "1934-02-10",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Red Death (This log was originally prepared by Will Murray), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21381",
+      "date": "1934-02-17",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Golden Legacy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248370",
+      "date": "1934-05-12",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Green Ghost, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248363",
+      "date": "1934-05-19",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Box of Fear, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248382",
+      "date": "1934-05-26",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Phantom Terror, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248374",
+      "date": "1934-06-02",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mantrap Mesa"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248367",
+      "date": "1934-06-09",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Fast Workers"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248380",
+      "date": "1934-06-16",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Needle in a Chinese Haystack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248376",
+      "date": "1934-06-23",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Monk Called It Justice"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248394",
+      "date": "1934-06-30",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "White Haired Devil, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248381",
+      "date": "1934-07-07",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Oilfield Ogres, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248366",
+      "date": "1934-07-14",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Fainting Lady, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248383",
+      "date": "1934-07-21",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Poison Cargo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248369",
+      "date": "1934-07-28",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Find Curly Morgan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248371",
+      "date": "1934-08-04",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Growing Wizard, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248387",
+      "date": "1934-10-06",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Red Death, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248384",
+      "date": "1935-03-16",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Poison Cargo"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248368",
+      "date": "1935-03-23",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Find Curley Morgan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248372",
+      "date": "1935-03-30",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Growing Wizard, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248365",
+      "date": "1943-01-06",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Doc Savage"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21382",
+      "date": "1943-01-20",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Disappointing Parcel, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21383",
+      "date": "1943-01-27",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Island of Doom, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21384",
+      "date": "1943-02-03",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death Stalks the Morgue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21385",
+      "date": "1943-02-10",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mysterious Weeds, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21386",
+      "date": "1943-02-17",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Crawling Terror, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21387",
+      "date": "1943-02-24",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Black Stick, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21388",
+      "date": "1943-03-03",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Journey into Oblivion"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21389",
+      "date": "1943-03-10",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hour of Murder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21390",
+      "date": "1943-03-17",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pharaoh's Wisdom"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21391",
+      "date": "1943-03-24",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Accursed City, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21392",
+      "date": "1943-03-31",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deadly Treasure, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248390",
+      "date": "1943-04-07",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Subway to Hell"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248377",
+      "date": "1943-04-14",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Monster of the Sea"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248391",
+      "date": "1943-04-21",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Voice That Cried 'kill!', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248364",
+      "date": "1943-04-28",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cult of Satan"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248393",
+      "date": "1943-05-05",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "When Dead Men Walk"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248388",
+      "date": "1943-05-12",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Screeching Ghost, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248385",
+      "date": "1943-05-19",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ransom or Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248379",
+      "date": "1943-05-26",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248375",
+      "date": "1943-06-02",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Miracle Maniac"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248389",
+      "date": "1943-06-09",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Skull Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248392",
+      "date": "1943-06-16",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Voice That Cried 'kill!', The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248373",
+      "date": "1943-06-23",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Living Evil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "248378",
+      "date": "1943-06-30",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Is a Business"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "21380",
+      "date": "1985-09-30",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kidnapped"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Adventure"
+    },
+    {
+      "genre": "Mystery"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventures of Doc Savage, The"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5023",
+      "first": "Phil",
+      "last": "Rizzuto",
+      "f": "Noted Role",
+      "character": "Sportscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314440",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bill Stern 1954"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phil Rizzuto's Sports Caravan",
+          "name": "Phil Rizzuto's Sports Caravan 01 Bill Stern 1954_OTRRPG.mp3",
+          "time": "693",
+          "size": "11172116"
+        }
+      ]
+    },
+    {
+      "ide": "314441",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mel Allen 1954"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Phil Rizzuto's Sports Caravan",
+          "name": "Phil Rizzuto's Sports Caravan 02 Mel Allen 1954_OTRRPG.mp3",
+          "time": "693",
+          "size": "11167099"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Sports"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Phil Rizzuto's Sport's Caravan"
+    }
+  ]
+}

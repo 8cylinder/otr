@@ -1,0 +1,149 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [
+    {
+      "info": "According to Dunning, it was called Men's Conference from 1923-1930."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "899",
+      "first": "S. Parkes",
+      "last": "Cadman",
+      "f": "Noted Role",
+      "character": "Preacher"
+    },
+    {
+      "idperson": "2015",
+      "first": "Harry Emerson",
+      "last": "Fosdick",
+      "f": "Noted Role",
+      "character": "Preacher"
+    },
+    {
+      "idperson": "2652",
+      "first": "Paula",
+      "last": "Hemminghaus",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "5545",
+      "first": "Ralph W.",
+      "last": "Sockman",
+      "f": "Noted Role",
+      "character": "Preacher"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Religion"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1933-00-00",
+      "dow": "Su",
+      "time": "10:00 AM",
+      "end": "1960-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1928-06-03",
+      "dow": "Su",
+      "time": "4:00 PM",
+      "end": "1960-00-00",
+      "length": "90",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Federal Council Of Churches",
+      "begin": "1928-06-03",
+      "end": "1965-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Radio Pulpit"
+    },
+    {
+      "title": "National Radio Pulpit"
+    },
+    {
+      "title": "Men's Conference"
+    }
+  ]
+}

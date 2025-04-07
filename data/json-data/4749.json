@@ -1,0 +1,136 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/H Series/Home Folks Frolic/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5995",
+      "first": "Ernest",
+      "last": "Tubb",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48071",
+      "first": "Owen",
+      "last": "Bradley",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "48072",
+      "first": "The",
+      "last": "Beasley Sisters",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "48073",
+      "first": "The",
+      "last": "Aunt Jemima Quartet",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Country music and variety show."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313790",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - I'm Satisfied"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Home Folks Frolic",
+          "name": "Home Folks Frolic xxxxx xxx 1st Song - I'm Satisfied_OTRRPG.mp3",
+          "time": "685",
+          "size": "11047092"
+        },
+        {
+          "path": "H",
+          "folder": "Home Folks Frolic",
+          "name": "Home Folks Frolic xx-xx-x First Song - I'm Satisfied.mp3",
+          "time": "696",
+          "size": "5567698"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Country Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1952-09-08",
+      "dow": "M",
+      "time": "3:45 PM",
+      "end": "1953-06-08",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Quaker Oats Company",
+      "begin": "1952-00-00",
+      "end": "1953-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Home Folks"
+    }
+  ]
+}

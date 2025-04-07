@@ -1,0 +1,761 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "DIAR"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322181412-36098ca0.jpg",
+      "label": "Diary of Fate",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Diary-of-Fate.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-2906-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Diary-of-Fate.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logd1019.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "228",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "1977-09-01",
+      "source": "Airwaves/aw11_Sep77.pdf",
+      "idpytype2": "4",
+      "title": "Airwaves #11 Sep77",
+      "author": ""
+    },
+    {
+      "idprint": "349",
+      "idtype": "4",
+      "page": "43",
+      "article": "",
+      "url": "",
+      "date": "1982-02-01",
+      "source": "Collectors Corner/CC_33_Winter_Spring_82.pdf",
+      "idpytype2": "4",
+      "title": "Collectors Corner #33 Winter Spring 82",
+      "author": ""
+    },
+    {
+      "idprint": "350",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "1982-07-01",
+      "source": "Collectors Corner/CC_34_Summer_82.pdf",
+      "idpytype2": "4",
+      "title": "Collectors Corner #34 Summer 82",
+      "author": ""
+    },
+    {
+      "idprint": "1114",
+      "idtype": "4",
+      "page": "6",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_01.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #1",
+      "author": ""
+    },
+    {
+      "idprint": "1118",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1979-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01)",
+      "author": ""
+    },
+    {
+      "idprint": "1120",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "2008-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01Rev)_79.pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01Rev) 1979",
+      "author": ""
+    },
+    {
+      "idprint": "1583",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "2003-02-01",
+      "source": "OTR Digest_1990s/OTRDigest_(100)Winter03.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (100) Winter 2003",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "249039",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sheila Dawson Entry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51984",
+      "date": "1947-12-15",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Charles Elliot Entry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51985",
+      "date": "1947-12-22",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "John Wellington Entry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51986",
+      "date": "1947-12-29",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "51987",
+      "date": "1948-01-05",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "51988",
+      "date": "1948-01-12",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "51989",
+      "date": "1948-01-19",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "51990",
+      "date": "1948-01-26",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "51991",
+      "date": "1948-02-02",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "51992",
+      "date": "1948-02-09",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Howard Thompson Entry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "51993",
+      "date": "1948-02-16",
+      "epnum": "10",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "51994",
+      "date": "1948-02-23",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Peter Drake Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.02.23 Peter Drake.mp3",
+          "time": "1796",
+          "size": "7290452"
+        }
+      ]
+    },
+    {
+      "ide": "51995",
+      "date": "1948-03-02",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "John Carthage Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.03.02 John Carthage.mp3",
+          "time": "1740",
+          "size": "7067057"
+        }
+      ]
+    },
+    {
+      "ide": "51996",
+      "date": "1948-03-09",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trina Crawley Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.03.09 Trina Crowley.mp3",
+          "time": "1738",
+          "size": "7061310"
+        }
+      ]
+    },
+    {
+      "ide": "51997",
+      "date": "1948-03-16",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Joe Mattock Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.03.16 Joe Mattuck.mp3",
+          "time": "1733",
+          "size": "7037900"
+        }
+      ]
+    },
+    {
+      "ide": "51998",
+      "date": "1948-03-23",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Reese Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.03.23 Paul Reese.mp3",
+          "time": "1720",
+          "size": "6986907"
+        }
+      ]
+    },
+    {
+      "ide": "51999",
+      "date": "1948-03-30",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Edward Mathews Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.03.30 Edward Matthews.mp3",
+          "time": "1744",
+          "size": "7085451"
+        }
+      ]
+    },
+    {
+      "ide": "52000",
+      "date": "1948-04-06",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tyler White Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.04.06 Tyler White.mp3",
+          "time": "1742",
+          "size": "7076143"
+        }
+      ]
+    },
+    {
+      "ide": "52001",
+      "date": "1948-04-13",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Henrick Potenoff Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.04.13 Henrick Potenoff.mp3",
+          "time": "1765",
+          "size": "7169567"
+        }
+      ]
+    },
+    {
+      "ide": "52002",
+      "date": "1948-04-20",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Craig Norton Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.04.20 Craig Norton.mp3",
+          "time": "1743",
+          "size": "7079071"
+        }
+      ]
+    },
+    {
+      "ide": "52003",
+      "date": "1948-04-27",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Albert Ricker Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.04.27 Albert Ricker.mp3",
+          "time": "1798",
+          "size": "7300800"
+        }
+      ]
+    },
+    {
+      "ide": "52004",
+      "date": "1948-05-04",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "David Dexter Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.05.04 David Dexter.mp3",
+          "time": "1799",
+          "size": "7304873"
+        }
+      ]
+    },
+    {
+      "ide": "52005",
+      "date": "1948-05-11",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "52006",
+      "date": "1948-05-18",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lloyd Mawson Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.05.18 Lloyd Mawson.mp3",
+          "time": "1814",
+          "size": "7364328"
+        }
+      ]
+    },
+    {
+      "ide": "52007",
+      "date": "1948-05-25",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Walter Vincent Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.05.25 Walter Vincent.mp3",
+          "time": "1786",
+          "size": "7250334"
+        }
+      ]
+    },
+    {
+      "ide": "52008",
+      "date": "1948-06-01",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Phillip Vale Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.06.01 Phillip Vale.mp3",
+          "time": "1792",
+          "size": "7274049"
+        }
+      ]
+    },
+    {
+      "ide": "52009",
+      "date": "1948-06-08",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marvin Thomas Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.06.08 Marvin Thomas.mp3",
+          "time": "1782",
+          "size": "7234031"
+        }
+      ]
+    },
+    {
+      "ide": "52010",
+      "date": "1948-06-15",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Nelson Walker Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.06.15 Nelson Walker.mp3",
+          "time": "1757",
+          "size": "7134453"
+        }
+      ]
+    },
+    {
+      "ide": "52011",
+      "date": "1948-06-22",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Janice Bennet Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.06.22 Janice Bennett.mp3",
+          "time": "1653",
+          "size": "6719317"
+        }
+      ]
+    },
+    {
+      "ide": "52012",
+      "date": "1948-06-29",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Victor Wakeman Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.06.29 Victor Wakeman.mp3",
+          "time": "1631",
+          "size": "6633635"
+        }
+      ]
+    },
+    {
+      "ide": "52013",
+      "date": "1948-07-06",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Keith Raymond Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.07.06 Keith Raymond.mp3",
+          "time": "1664",
+          "size": "6763827"
+        }
+      ]
+    },
+    {
+      "ide": "52014",
+      "date": "1948-07-13",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "John Haines Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.07.13 John Haynes.mp3",
+          "time": "1628",
+          "size": "6621299"
+        }
+      ]
+    },
+    {
+      "ide": "52015",
+      "date": "1948-07-20",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Matt Cooper Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.07.20 Matt Cooper.mp3",
+          "time": "1671",
+          "size": "6790573"
+        }
+      ]
+    },
+    {
+      "ide": "52016",
+      "date": "1948-07-27",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stanley Becker Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.07.27 Stanley Becker.mp3",
+          "time": "1651",
+          "size": "6712420"
+        }
+      ]
+    },
+    {
+      "ide": "52017",
+      "date": "1948-08-03",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rolly Andrews Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.08.03 Rollie Andrews.mp3",
+          "time": "1674",
+          "size": "6802595"
+        }
+      ]
+    },
+    {
+      "ide": "52018",
+      "date": "1948-08-10",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Darrell James Entry"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Diary of Fate",
+          "name": "Diary of Fate 1948.08.10 Darrell James.mp3",
+          "time": "1667",
+          "size": "6776053"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Mystery"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Diary of Fate"
+    }
+  ]
+}

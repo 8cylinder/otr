@@ -1,0 +1,134 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2881",
+      "first": "Doris",
+      "last": "Hursley",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "2881",
+      "first": "Doris",
+      "last": "Hursley",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "2882",
+      "first": "Frank",
+      "last": "Hursley",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "2882",
+      "first": "Frank",
+      "last": "Hursley",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "7204",
+      "first": "Caesar",
+      "last": "Patrillo",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "49011",
+      "first": "Paul",
+      "last": "Brentson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "50331",
+      "first": "Russ",
+      "last": "Davis",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "6174",
+      "first": "John",
+      "last": "Walsh",
+      "f": "Noted Role",
+      "character": "Narrator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "War"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-06-23",
+      "dow": "F",
+      "time": "8:30 PM",
+      "end": "1944-09-08",
+      "length": "25",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1944-09-12",
+      "dow": "Tu",
+      "time": "10:00 PM",
+      "end": "1945-08-14",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "William J. Wrigley Company",
+      "begin": "1944-06-23",
+      "end": "1945-08-14"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Service to the Front"
+    }
+  ]
+}

@@ -1,0 +1,6085 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrrlibrary.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322164213-8dd531b8.jpg",
+      "label": "Big Story CD back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322164216-6ab23eb1.jpg",
+      "label": "Big Story CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322164219-438276eb.jpg",
+      "label": "Big Story CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/The_Big_Story_%28radio/TV%29",
+      "label": "Wikipedia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-The-Big-Story.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-1379-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logb1047.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19501951eve.html",
+      "label": "Evening Ratings: (1950-1951: #13)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19511952eve.html",
+      "label": "Evening Ratings: (1951-1952: #15)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19521953eve.html",
+      "label": "Evening Ratings: (1952-1953: #11)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19531954eve.html",
+      "label": "Evening Ratings: (1953-1954: #4)",
+      "idtype": "8"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1950s/19541955eve.html",
+      "label": "Evening Ratings: (1954-1955: #8)",
+      "idtype": "8"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/B Series/Big Story, The/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Sound Effects: Al Scott"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "1056",
+      "first": "Ernest",
+      "last": "Chappell",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1661",
+      "first": "Robert",
+      "last": "Dryden",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2089",
+      "first": "Alice",
+      "last": "Frost",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2136",
+      "first": "Betty",
+      "last": "Garde",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2335",
+      "first": "Bernard",
+      "last": "Grant",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4659",
+      "first": "Arnold",
+      "last": "Perl",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "4826",
+      "first": "William 'Bill'",
+      "last": "Quinn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5344",
+      "first": "Vladimir",
+      "last": "Selinsky",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5497",
+      "first": "Robert",
+      "last": "Sloane",
+      "f": "Noted Role",
+      "character": "Narrator"
+    },
+    {
+      "idperson": "5497",
+      "first": "Robert",
+      "last": "Sloane",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5497",
+      "first": "Robert",
+      "last": "Sloane",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7185",
+      "first": "Tom",
+      "last": "Victor",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "7187",
+      "first": "Gail",
+      "last": "Ingram",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "7188",
+      "first": "Max",
+      "last": "Ehrlich",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "4793",
+      "first": "Bernard",
+      "last": "Prockter",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "7186",
+      "first": "Harry",
+      "last": "Ingram",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "2527",
+      "first": "Cy",
+      "last": "Harrice",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6976",
+      "first": "Robert Lewis",
+      "last": "Shayon",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "3314",
+      "first": "Berry",
+      "last": "Kroeger",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3411",
+      "first": "Joseph 'Joe'",
+      "last": "Latham",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4680",
+      "first": "George O.",
+      "last": "Petrie",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "6401",
+      "first": "Ward",
+      "last": "Wilson",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "25372",
+      "first": "Merrill",
+      "last": "Joels",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "4835",
+      "first": "Bryna",
+      "last": "Raeburn",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "3915",
+      "first": "Grace",
+      "last": "Matthews",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4852",
+      "first": "Al",
+      "last": "Ramsen",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "12297",
+      "first": "Bill",
+      "last": "Lipton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5724",
+      "first": "Amzie",
+      "last": "Strickland",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "349",
+      "idtype": "4",
+      "page": "43",
+      "article": "",
+      "url": "",
+      "date": "1982-02-01",
+      "source": "Collectors Corner/CC_33_Winter_Spring_82.pdf",
+      "idpytype2": "4",
+      "title": "Collectors Corner #33 Winter Spring 82",
+      "author": ""
+    },
+    {
+      "idprint": "350",
+      "idtype": "4",
+      "page": "27",
+      "article": "",
+      "url": "",
+      "date": "1982-07-01",
+      "source": "Collectors Corner/CC_34_Summer_82.pdf",
+      "idpytype2": "4",
+      "title": "Collectors Corner #34 Summer 82",
+      "author": ""
+    },
+    {
+      "idprint": "1099",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1970-01-01",
+      "source": "Misc/Don_Maris_Flyer_(01)_70.pdf",
+      "idpytype2": "4",
+      "title": "Don Maris Flyer (01) 1970",
+      "author": ""
+    },
+    {
+      "idprint": "1101",
+      "idtype": "4",
+      "page": "16",
+      "article": "",
+      "url": "",
+      "date": "1971-12-01",
+      "source": "Misc/Double_R_Radio_Flyer_(05)_Dec71.pdf",
+      "idpytype2": "4",
+      "title": "Double R Radio Flyer (05) Dec 1971",
+      "author": ""
+    },
+    {
+      "idprint": "403",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1981-08-01",
+      "source": "Hello Again/HA_V12_(08)_Aug81.pdf",
+      "idpytype2": "4",
+      "title": "Hello Again - Vol 12 #08 Aug 1981",
+      "author": ""
+    },
+    {
+      "idprint": "726",
+      "idtype": "4",
+      "page": "4",
+      "article": "",
+      "url": "",
+      "date": "1978-02-01",
+      "source": "Illustrated Press/IP_020.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#20) - Feb 1978",
+      "author": ""
+    },
+    {
+      "idprint": "886",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "2000-03-01",
+      "source": "Illustrated Press/IP_278.pdf",
+      "idpytype2": "4",
+      "title": "IP 00 03 278",
+      "author": ""
+    },
+    {
+      "idprint": "922",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "2004-03-01",
+      "source": "Illustrated Press/IP_318.pdf",
+      "idpytype2": "4",
+      "title": "IP 04 03 318",
+      "author": ""
+    },
+    {
+      "idprint": "1115",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1900-01-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_02.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #2",
+      "author": ""
+    },
+    {
+      "idprint": "1488",
+      "idtype": "4",
+      "page": "25",
+      "article": "",
+      "url": "",
+      "date": "2004-02-01",
+      "source": "Nostalgia Digest/NostalgiaDigest_V30_(01)Winter04.pdf",
+      "idpytype2": "4",
+      "title": "Nostalgia Digest - V30 (01) Winter04",
+      "author": ""
+    },
+    {
+      "idprint": "1118",
+      "idtype": "4",
+      "page": "3",
+      "article": "",
+      "url": "",
+      "date": "1979-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01)",
+      "author": ""
+    },
+    {
+      "idprint": "1119",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "1979-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01A).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01A)",
+      "author": ""
+    },
+    {
+      "idprint": "1120",
+      "idtype": "4",
+      "page": "18",
+      "article": "",
+      "url": "",
+      "date": "2008-05-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(01Rev)_79.pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (01Rev) 1979",
+      "author": ""
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "21",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "1573",
+      "idtype": "4",
+      "page": "22",
+      "article": "",
+      "url": "",
+      "date": "1988-05-01",
+      "source": "OTR Digest_1980s/OTRDigest_(027)MayJun88.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (27) May-Jun 1988",
+      "author": ""
+    },
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    },
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Ein Heldenleben -Strauss"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "28512",
+      "date": "1947-04-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "[NOTE  -   'The Case of the' & 'Case of the' have been shortened to 'TCOT']"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28513",
+      "date": "1947-04-02",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Kid and the Box [Joseph Garretson], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28514",
+      "date": "1947-04-09",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Black Thirty-nine [Meigs Frost], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28515",
+      "date": "1947-04-16",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Stain On the Sidewalk [Gene Cooper], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28516",
+      "date": "1947-04-23",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Cop Killers [Ray Sprigle]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28517",
+      "date": "1947-04-30",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Without a Name [James McGuire], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28518",
+      "date": "1947-05-07",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Widow of Havre de Grace [Ed Freeman], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28519",
+      "date": "1947-05-14",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Black Legion Murder [Ruth Montgomery], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28520",
+      "date": "1947-05-21",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tactless Texan [Gene Howe], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28521",
+      "date": "1947-05-28",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double Trouble [Lawrence Goldberg]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28522",
+      "date": "1947-06-04",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thirteenth Key [James Fusco], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_47-06-04_010_The_Thirteenth_Key_James_Fusco.mp3",
+          "time": "1482",
+          "size": "5929503"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 47-06-04 (010) The Thirteenth Key [James Fusco].mp3",
+          "time": "1482",
+          "size": "5931028"
+        }
+      ]
+    },
+    {
+      "ide": "28523",
+      "date": "1947-06-11",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Tattooed Corpse [Red McNalley]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28524",
+      "date": "1947-06-18",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Forger of Floral Park [Ed Mowery], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28525",
+      "date": "1947-06-25",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Little Big Shot [J S Daschbach]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28526",
+      "date": "1947-07-02",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mutiny In the Big House [Morgan Blake]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28527",
+      "date": "1947-07-09",
+      "epnum": "15",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Reporter and the Blood Hound [Robert C Dunne], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28528",
+      "date": "1947-07-16",
+      "epnum": "16",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Thousand Dollars for One [Johnny Johnston], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28529",
+      "date": "1947-07-23",
+      "epnum": "17",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Iron Boss [Frank Shenkel], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28530",
+      "date": "1947-07-30",
+      "epnum": "18",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lovelorn Extortioner [Andrew Viglietta], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28531",
+      "date": "1947-08-06",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Little Man Who Changed His Name [David Sharnay]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28532",
+      "date": "1947-08-13",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Clubber and the Lady [Margrete Daney], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28533",
+      "date": "1947-08-20",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Clean Sweep [William J Pape], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28534",
+      "date": "1947-08-27",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Who Licked the Kangaroo [Allen Dowling], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28535",
+      "date": "1947-09-03",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lethal Ladies of Munhall [Edward Kasun], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28536",
+      "date": "1947-09-10",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Christmas in April [Robert W 'Red' Fenwick]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28537",
+      "date": "1947-09-17",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TCOT Cornered Cat [Walter Winchell]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28538",
+      "date": "1947-09-24",
+      "epnum": "26",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Lonely Heart [Guy Housely]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28539",
+      "date": "1947-10-01",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TCOT Counterfeit Coins [Jack Adams]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_47-10-01_027_TCOT_Counterfeit_Coins_Jack_Adams.mp3",
+          "time": "1775",
+          "size": "28393767"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 47-10-01 (027) The Case of the Counterfeit Coins [Jack Adams].mp3",
+          "time": "1728",
+          "size": "6914068"
+        }
+      ]
+    },
+    {
+      "ide": "28540",
+      "date": "1947-10-08",
+      "epnum": "28",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Leery Librarian [Jack Setters]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28541",
+      "date": "1947-10-15",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bobby-Sox Kid from Bayonne [Dorothy Kilgallen], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_47-10-15_029_The_Bobby-Sox_Kid_from_Bayonne_Dorothy_Kilgallen.mp3",
+          "time": "1752",
+          "size": "28031412"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 471015 029 The Bobby-Sox Kid From Bayonne [Dorothy Kilgallen]_OTRRPG.mp3",
+          "time": "1750",
+          "size": "28074781"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 47-10-15 (029) The Bobby-Sox Kid from Bayonne [Dorothy Kilgallen].mp3",
+          "time": "1752",
+          "size": "28033044"
+        }
+      ]
+    },
+    {
+      "ide": "28542",
+      "date": "1947-10-22",
+      "epnum": "30",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Eager Beaver of Buffalo [Eddie de Castro], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28543",
+      "date": "1947-10-29",
+      "epnum": "31",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Baffling Beautician [Charles Mooney]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28544",
+      "date": "1947-11-05",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Peculiar Paperhanger [Paul Hochuli]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28545",
+      "date": "1947-11-12",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Sinister Stranger [Harry Romanoff]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28546",
+      "date": "1947-11-19",
+      "epnum": "34",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Vase of the Literary Lodger [Nellie Kenyon], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28547",
+      "date": "1947-11-26",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TCOT Unfinished Love Song [Howard Beaufait]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_47-11-26_035_TCOT_Unfinished_Love_Song_Howard_Beaufait.mp3",
+          "time": "1757",
+          "size": "28109145"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 471126 035 TCOT Unfinished Love Song [Howard Beaufait]_OTRRPG.mp3",
+          "time": "1755",
+          "size": "28152514"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 47-11-26 (035) TCOT Unfinished Love Song [Howard Beaufait].mp3",
+          "time": "1757",
+          "size": "28110868"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "thebigstory_202011",
+          "name": "Big Story 47-11-26 (035) Unfinished Love Song [Howard Beaufait, Cleveland News].mp3",
+          "time": "1764",
+          "size": "18969991"
+        }
+      ]
+    },
+    {
+      "ide": "28548",
+      "date": "1947-12-03",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TCOT Cardboard Killer [Jack Allen]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28549",
+      "date": "1947-12-10",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TCOT Final Curtain [Aubrey Maddock]"
+        },
+        {
+          "title": "The Case of the Final Curtain - Aubrey Maddock Hartford Daily Courant"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_47-12-10_037_TCOT_Final_Curtain_Aubrey_Maddock.mp3",
+          "time": "1771",
+          "size": "28338595"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 471210 037 TCOT Final Curtain [Aubrey Maddock]_OTRRPG.mp3",
+          "time": "1771",
+          "size": "28348485"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 47-12-10 (037) The Case of the Final Curtain [Aubrey Maddock].mp3",
+          "time": "1727",
+          "size": "13820170"
+        }
+      ]
+    },
+    {
+      "ide": "28550",
+      "date": "1947-12-17",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TCOT Ambitious Hobo [Russell Wilson]"
+        },
+        {
+          "title": "The Case of the Ambitious Hobo - Russell Wilson Des Moines Tribune"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_47-12-17_038_TCOT_Ambitious_Hobo_Russell_Wilson.mp3",
+          "time": "1786",
+          "size": "28568893"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 47-12-17 (038) The Case of the Ambitious Hobo [Russell Wilson].mp3",
+          "time": "1966",
+          "size": "15728650"
+        }
+      ]
+    },
+    {
+      "ide": "28551",
+      "date": "1947-12-24",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Merry Christmas from the Maji [Marshall Morgan]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28552",
+      "date": "1947-12-31",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder on Seventy Seven [Frank Winge]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28553",
+      "date": "1948-01-07",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Manhunt in Manhattan [Ted Prager]"
+        },
+        {
+          "title": "Manhunt in Manhattan, Ted Prager, NY Daily News"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_48-01-07_041_Manhunt_in_Manhattan_Ted_Prager.mp3",
+          "time": "1781",
+          "size": "28490732"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 48-01-07 (041) Manhunt in Manhattan [Ted Prager].MP3",
+          "time": "1582",
+          "size": "6328340"
+        }
+      ]
+    },
+    {
+      "ide": "28554",
+      "date": "1948-01-14",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Solid Citizen [William A White]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28555",
+      "date": "1948-01-21",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lady Luck and the Lady Reporter [Martha Strayer]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28556",
+      "date": "1948-01-28",
+      "epnum": "44",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Impatient Partner [George A Buchanan Jr]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28557",
+      "date": "1948-02-04",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Kid Named Mickey [Virginia Bohlin], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28558",
+      "date": "1948-02-11",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Crime That Had to Happen [Eugene Travis], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28559",
+      "date": "1948-02-18",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Hurricane [Cecil Warren], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28560",
+      "date": "1948-02-25",
+      "epnum": "48",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paid In Full [W F Carmichael]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28561",
+      "date": "1948-03-03",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Behind the Story [Peter Dixon], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28562",
+      "date": "1948-03-10",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Concrete Evidence [Roy Dystra & James Gavagan]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28563",
+      "date": "1948-03-17",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Hush Hush Operation [Paul W Fisher]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28564",
+      "date": "1948-03-24",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "In the Line of Duty [Aaron Dudley]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28565",
+      "date": "1948-03-31",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Other Guy's Shoes [William W Chance Jr], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28566",
+      "date": "1948-04-07",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Case for Edgar Allen Poe [Harry Reutlinger], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28567",
+      "date": "1948-04-14",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Makes a Pretty Picture [Edward Griffin]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28568",
+      "date": "1948-04-21",
+      "epnum": "56",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "For Better, for Worse [Charles W Wells]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28569",
+      "date": "1948-04-28",
+      "epnum": "57",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guilty With an Explanation [Kathryn Steffan]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28570",
+      "date": "1948-05-05",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pillars of Society [William Miller]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_48-05-05_058_Pillars_of_Society_William_Miller.mp3",
+          "time": "1779",
+          "size": "28468998"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 480505 058 Pillars of Society [William Miller]_OTRRPG.mp3",
+          "time": "1779",
+          "size": "28478877"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 48-05-05 (058) Pillars of Society [William Miller].mp3",
+          "time": "1743",
+          "size": "13946004"
+        }
+      ]
+    },
+    {
+      "ide": "28571",
+      "date": "1948-05-12",
+      "epnum": "59",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "TCOT Lucky Longshot [Robert Early] (Part 2 Only)"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_48-05-12_059_TCOT_Lucky_Longshot_Robert_Early_Part_2_Only.mp3",
+          "time": "906",
+          "size": "14491203"
+        }
+      ]
+    },
+    {
+      "ide": "28572",
+      "date": "1948-05-19",
+      "epnum": "60",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deadline Murder [Rolf K Mills], The"
+        },
+        {
+          "title": "Rolf K. Mills of the Minneapolis Morning Tribune"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_48-05-19_060_The_Deadline_Murder_Rolf_K_Mills.mp3",
+          "time": "1775",
+          "size": "28402124"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 480519 060 The Deadline Murder [Rolf K Mills]_OTRRPG.mp3",
+          "time": "1775",
+          "size": "28412005"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 48-05-19 (060) The Deadline Murder [Rolf K Mills].mp3",
+          "time": "1729",
+          "size": "13834260"
+        }
+      ]
+    },
+    {
+      "ide": "28573",
+      "date": "1948-05-26",
+      "epnum": "61",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder By Memory [George Cox]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28574",
+      "date": "1948-06-02",
+      "epnum": "62",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Is a Big Mistake [Ray Helgeson]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28575",
+      "date": "1948-06-09",
+      "epnum": "63",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Boy Who Was Lost to Society [Jack Frank], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28576",
+      "date": "1948-06-16",
+      "epnum": "64",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Kid Who Met a Killer [Jack Hoins], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28577",
+      "date": "1948-06-23",
+      "epnum": "65",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Bill Pinney's recall of conversation reported by a bartender leads him to believe train wreck is unsuccessful murder attempt) ***pre-empted for GOP Convention in major broadcast areas**"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28578",
+      "date": "1948-06-30",
+      "epnum": "66",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hate Between a Brother and a Sister [A B Hendry], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_48-06-30_066_The_Hate_Between_a_Brother_and_a_Sister_A_B_Hendry_pt_1_only.mp3",
+          "time": "945",
+          "size": "15119400"
+        }
+      ]
+    },
+    {
+      "ide": "28579",
+      "date": "1948-07-07",
+      "epnum": "67",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Woman Who Was a Witch [George Cleveland Bullette], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_48-07-07_067_The_Woman_Who_Was_a_Witch_George_Cleveland_Bullette_pt_2_only.mp3",
+          "time": "850",
+          "size": "13592178"
+        }
+      ]
+    },
+    {
+      "ide": "28580",
+      "date": "1948-07-14",
+      "epnum": "68",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story of C A Paul, Charlotte, NC reporter) ***pre-empted for Democratic Convention**"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28581",
+      "date": "1948-07-21",
+      "epnum": "69",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lottery Racket [Keeler McCartney], The"
+        },
+        {
+          "title": "Reporter Cleans Up Lottery, Keeler McCartney, Atlanta Constitution"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_48-07-21_069_The_Lottery_Racket_Keeler_McCartney.mp3",
+          "time": "1752",
+          "size": "28024293"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 480721 069 The Lottery Racket [Keeler McCartney]_OTRRPG.mp3",
+          "time": "1749",
+          "size": "28067662"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 48-07-21 (069) The Lottery Racket [Keeler McCartney].mp3",
+          "time": "1751",
+          "size": "28024852"
+        }
+      ]
+    },
+    {
+      "ide": "28582",
+      "date": "1948-07-28",
+      "epnum": "70",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Two and Two Make Death [Pat Foley]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28583",
+      "date": "1948-08-04",
+      "epnum": "71",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Good Friday Hold-up [Bill Gardner], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28584",
+      "date": "1948-08-11",
+      "epnum": "72",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Woman Who Could Not Be Found [Paul McCarthy], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28585",
+      "date": "1948-08-18",
+      "epnum": "73",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ride On a Double Track [Bill Pinney] (rebroadcast of 48/06/23)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28586",
+      "date": "1948-08-25",
+      "epnum": "74",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Million Dollar Story [Ella Fleishman]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28587",
+      "date": "1948-09-01",
+      "epnum": "75",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Big Guy and the Little Guy [Dan Parker], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28588",
+      "date": "1948-09-08",
+      "epnum": "76",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Case That Broke All the Rules [Harry Friedenberg], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28589",
+      "date": "1948-09-15",
+      "epnum": "77",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Race Against Time [C A Paul]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28590",
+      "date": "1948-09-22",
+      "epnum": "78",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Confessions of a Friendly Cop [Harry Kodinsky]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28591",
+      "date": "1948-09-29",
+      "epnum": "79",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Is Jesse James Alive [Frank Hall & Lindsey Whitten]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28592",
+      "date": "1948-10-06",
+      "epnum": "80",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Black Dahlia Murder Case, The [Jack Latta]"
+        },
+        {
+          "title": "A Weird Confession"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28593",
+      "date": "1948-10-13",
+      "epnum": "81",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Apartment House Robberies [Roy J Battersby]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28594",
+      "date": "1948-10-20",
+      "epnum": "82",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Music In the Moonlight [A M Rochlen]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28595",
+      "date": "1948-10-27",
+      "epnum": "83",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Violence of Human Beings [Arville Schlaleben], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28596",
+      "date": "1948-11-03",
+      "epnum": "84",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Is to Own Your Own House [Billy Hout]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28597",
+      "date": "1948-11-10",
+      "epnum": "85",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Hitch-hiking Reporter [Helen Guertin]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28598",
+      "date": "1948-11-17",
+      "epnum": "86",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "License to Murder [Conrad Collier], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28599",
+      "date": "1948-11-24",
+      "epnum": "87",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "It Was a Little Too Lake [John Ellert]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28600",
+      "date": "1948-12-01",
+      "epnum": "88",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Just a Murderer [Albert F Baenziger]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28601",
+      "date": "1948-12-08",
+      "epnum": "89",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Disappearance in Broad Daylight [Hubert Holloway]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28602",
+      "date": "1948-12-15",
+      "epnum": "90",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "You're Never Too Old [Max Schwartz]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28603",
+      "date": "1948-12-22",
+      "epnum": "91",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Night After Christmas [John Wagner], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28604",
+      "date": "1948-12-29",
+      "epnum": "92",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Picture In the Paper [Wesley Chalk]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28605",
+      "date": "1949-01-05",
+      "epnum": "93",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murderous Kid [Al Aaronson]"
+        },
+        {
+          "title": "Frightened Boy Who Killed out of Fear [Al Aaronson]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_49-01-05_093_Murderous_Kid_Al_Aaronson.mp3",
+          "time": "1781",
+          "size": "28499085"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 490105 092 Frightened Boy Who Killed out of Fear [Al Aaronson]_OTRRPG.mp3",
+          "time": "1778",
+          "size": "28463408"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 49-01-05 (093) Murderous Kid [Al Aaronson].MP3",
+          "time": "1748",
+          "size": "6991882"
+        }
+      ]
+    },
+    {
+      "ide": "28606",
+      "date": "1949-01-12",
+      "epnum": "94",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Twenty Year Nightmare [Leigh Culley], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28607",
+      "date": "1949-01-19",
+      "epnum": "95",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Little Man Who Never Hurt Anybody [Gerald Gunthrup], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28608",
+      "date": "1949-01-26",
+      "epnum": "96",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jig Saw [Joseph Wirges]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_49-01-26_096_Jig_Saw_Joseph_Wirges.mp3",
+          "time": "1672",
+          "size": "6686104"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 49-01-26 (096) Jig Saw [Joseph Wirges].mp3",
+          "time": "1671",
+          "size": "6686730"
+        }
+      ]
+    },
+    {
+      "ide": "28609",
+      "date": "1949-02-02",
+      "epnum": "97",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Living Death House [William M Hart], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28610",
+      "date": "1949-02-09",
+      "epnum": "98",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "What's the Use of Living [Celestine Sibley]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28611",
+      "date": "1949-02-16",
+      "epnum": "99",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dead Men Do Tell Tales [Morgan Brassell]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28612",
+      "date": "1949-02-23",
+      "epnum": "100",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Juvenile Hold-up Haven [Joseph Saldana]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28613",
+      "date": "1949-03-02",
+      "epnum": "101",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Coward Who Was a Killer [Robert M Cour], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28614",
+      "date": "1949-03-09",
+      "epnum": "102",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Respected Chemist Dead [Ike McAnally]"
+        },
+        {
+          "title": "Ike McAnally of the Cleveland News"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_49-03-09_102_Respected_Chemist_Dead_Ike_McAnally.mp3",
+          "time": "1823",
+          "size": "14587110"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 49-03-09 (102) Respected Chemist Dead [Ike McAnally].mp3",
+          "time": "1823",
+          "size": "14587914"
+        }
+      ]
+    },
+    {
+      "ide": "28615",
+      "date": "1949-03-16",
+      "epnum": "103",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder In the Great Northwest [Don Magnuson]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28616",
+      "date": "1949-03-23",
+      "epnum": "104",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rendezvous With a Killer [Lester Allen]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28617",
+      "date": "1949-03-30",
+      "epnum": "105",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Victim Can Remain Alive [Phil Clifford]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28618",
+      "date": "1949-04-06",
+      "epnum": "106",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery of the Most Daring Jail Break [Harry McCormick]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28619",
+      "date": "1949-04-13",
+      "epnum": "107",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Silent Killer [B F Sylvester], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28620",
+      "date": "1949-04-20",
+      "epnum": "108",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Blind Alley Murderer [Herbert B Mayer]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28621",
+      "date": "1949-04-27",
+      "epnum": "109",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story of a Legal Lynching [James Ewing], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28622",
+      "date": "1949-05-04",
+      "epnum": "110",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Unbelievable Murder [Joseph Clarke], An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28623",
+      "date": "1949-05-11",
+      "epnum": "111",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Debt to an Ex-convict [Dudley McClure]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28624",
+      "date": "1949-05-18",
+      "epnum": "112",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Hate That Ended In Death [Charles C Clayton], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28625",
+      "date": "1949-05-25",
+      "epnum": "113",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Paid Off a Killer [Ted Prager]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28626",
+      "date": "1949-06-01",
+      "epnum": "114",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Girl Who Vanished [Elizabeth Oldfield], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28627",
+      "date": "1949-06-08",
+      "epnum": "115",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bitterest Man On the Earth [Julian C Houseman], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_49-06-08_115_The_Bitterest_Man_On_the_Earth_Julian_C_Houseman.mp3",
+          "time": "1791",
+          "size": "28663783"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 490608 114 The Bitterest Man On the Earth [Julian C Houseman]_OTRRPG.mp3",
+          "time": "1791",
+          "size": "28673658"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 49-06-08 (115) The Bitterest Man On the Earth [Julian C Houseman, Richmond News Leader].mp3",
+          "time": "1759",
+          "size": "7035820"
+        }
+      ]
+    },
+    {
+      "ide": "28628",
+      "date": "1949-06-15",
+      "epnum": "116",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "To Hit a Phantom [Bill Foley]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28629",
+      "date": "1949-06-22",
+      "epnum": "117",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "To Stop a Murder [Ray Maxwell]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28630",
+      "date": "1949-06-29",
+      "epnum": "118",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Never Forgot a Face [Paul Moore]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28631",
+      "date": "1949-07-06",
+      "epnum": "119",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Oil Tycoon Found Dead [H A (Danny) Dean]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28632",
+      "date": "1949-07-13",
+      "epnum": "120",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Two Fateful Phone Calls [Roy Girardin]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28633",
+      "date": "1949-07-20",
+      "epnum": "121",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poison Pen Murders [Tom Mercer], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_49-07-20_121_The_Poison_Pen_Murders_Tom_Mercer.mp3",
+          "time": "1486",
+          "size": "23778663"
+        }
+      ]
+    },
+    {
+      "ide": "28634",
+      "date": "1949-07-27",
+      "epnum": "122",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "In a Dead Girl's Dream [Frank Winge & Peg Kennedy]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28635",
+      "date": "1949-08-03",
+      "epnum": "123",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Blind Prejudice On Trial [George Goodwin]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28636",
+      "date": "1949-08-10",
+      "epnum": "124",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cold Trail to a Killer [Jack Foster]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28637",
+      "date": "1949-08-17",
+      "epnum": "125",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Two Bandits Terrorized a Great City [Clayton Darrah]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28638",
+      "date": "1949-08-24",
+      "epnum": "126",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dead Illusion Can Destroy [Marie Wathen], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28639",
+      "date": "1949-08-31",
+      "epnum": "127",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Ace That Beat Three of a Kind [Edward M Freeman], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28640",
+      "date": "1949-09-07",
+      "epnum": "128",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Wronged Man Freed [William Miller]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28641",
+      "date": "1949-09-14",
+      "epnum": "129",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Pile of Cold Ashes [Prevost Coulter], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28642",
+      "date": "1949-09-21",
+      "epnum": "130",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mass Murderer Tracked Down [Jack Heise]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28643",
+      "date": "1949-09-28",
+      "epnum": "131",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Who Died Four Times [Henry Gaskell], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28644",
+      "date": "1949-10-05",
+      "epnum": "132",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Written In Blood [Ralph J Hennings], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28645",
+      "date": "1949-10-12",
+      "epnum": "133",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Loneliest Man On Earth [Ray Sprigle], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_49-10-12_133_The_Loneliest_Man_On_Earth_Ray_Sprigle.mp3",
+          "time": "1662",
+          "size": "26599055"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 491012 132 The Loneliest Man on Earth [Ray Springle] {AFRS}_OTRRPG.mp3",
+          "time": "1538",
+          "size": "24613037"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 49-10-12 The Lonliest Man On Earth.mp3",
+          "time": "1538",
+          "size": "24601675"
+        }
+      ]
+    },
+    {
+      "ide": "28646",
+      "date": "1949-10-19",
+      "epnum": "134",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "June and Moon [Dan W Green]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28647",
+      "date": "1949-10-26",
+      "epnum": "135",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Corn Cob Killer [Harold Faller], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28648",
+      "date": "1949-11-02",
+      "epnum": "136",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Two Bodies are Better Than One [Jack Hull]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28649",
+      "date": "1949-11-09",
+      "epnum": "137",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Little Things Add Up [Walthall Littlepage], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28650",
+      "date": "1949-11-16",
+      "epnum": "138",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Bringing the Victims Back to Life [Frank Sturken]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28651",
+      "date": "1949-11-23",
+      "epnum": "139",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Crime Committed Against Society [Elizabeth Beecher]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28652",
+      "date": "1949-11-30",
+      "epnum": "140",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Too Much Soup [Norman Agathon]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28653",
+      "date": "1949-12-07",
+      "epnum": "141",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "My First Story is The Big Story [Joseph 'Bud' Henry]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28654",
+      "date": "1949-12-14",
+      "epnum": "142",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three Golden Coins [Nolan Bullock]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_49-12-14_142_Three_Golden_Coins_Nolan_Bullock.mp3",
+          "time": "1502",
+          "size": "24027766"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 491214 142 Three Golden Coins [Nolan Bullock]_OTRRPG.mp3",
+          "time": "1499",
+          "size": "24071320"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 49-12-14 (142) Three Coins Spell Death (Nolan Bullock).mp3",
+          "time": "1502",
+          "size": "12014026"
+        }
+      ]
+    },
+    {
+      "ide": "28655",
+      "date": "1949-12-21",
+      "epnum": "143",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Who Missed Three Christmas [James A Kelly], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28656",
+      "date": "1949-12-28",
+      "epnum": "144",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Covering Two Stories Simultaneously [Paul Fairleigh]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28657",
+      "date": "1950-01-04",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder and a Frustrated Father [Sam Melnick]"
+        },
+        {
+          "title": "Murder and a Frustrated Father, Sam Melnick, United Press"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_50-01-04_145_Murder_and_a_Frustrated_Father_Sam_Melnick.mp3",
+          "time": "1537",
+          "size": "24587422"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 500104 145 Murder And A Frustrated Father [Sam Melnick]_OTRRPG.mp3",
+          "time": "1534",
+          "size": "24630791"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 50-01-04 (145) Murder and a Frustrated Father.mp3",
+          "time": "1537",
+          "size": "24597331"
+        }
+      ]
+    },
+    {
+      "ide": "28658",
+      "date": "1950-01-11",
+      "epnum": "146",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gambling, Divorce and Murder [Frank McCulloch]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_50-01-11_146_Gambling_Divorce_and_Murder_Frank_McCulloch.mp3",
+          "time": "1535",
+          "size": "24556495"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 500111 146 Gambling, Divorce And Murder [Frank McCulloch]_OTRRPG.mp3",
+          "time": "1533",
+          "size": "24599509"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 50-01-11 (146) Gambling, Divorce and Murder.mp3",
+          "time": "1535",
+          "size": "24566104"
+        }
+      ]
+    },
+    {
+      "ide": "28659",
+      "date": "1950-01-18",
+      "epnum": "147",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story to Save My Life [Morris S Dean], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28660",
+      "date": "1950-01-25",
+      "epnum": "148",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Love and Trust and Friendship [Ernest A Warden]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28661",
+      "date": "1950-02-01",
+      "epnum": "149",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Little Girl Hostage [Clayton Maxwell]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28662",
+      "date": "1950-02-08",
+      "epnum": "150",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Investors Flock as Market Climbs [Sidney Cavanaugh]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28663",
+      "date": "1950-02-15",
+      "epnum": "151",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Brutal Crime Solved [Dorothy Porter Pope]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28664",
+      "date": "1950-02-22",
+      "epnum": "152",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Two Hot Rods [Jerry Blizen]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28665",
+      "date": "1950-03-01",
+      "epnum": "153",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Twenty Six Years to Explode Frame-up [Ralph Goll]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_50-03-01_153_Twenty_Six_Years_to_Explode_Frame-up_Ralph_Goll.mp3",
+          "time": "1526",
+          "size": "24419408"
+        }
+      ]
+    },
+    {
+      "ide": "28666",
+      "date": "1950-03-08",
+      "epnum": "154",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Trades Full Page for Killer [Edward M Miller]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28667",
+      "date": "1950-03-15",
+      "epnum": "155",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story of Two Dreams [Justin Riordan], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28668",
+      "date": "1950-03-22",
+      "epnum": "156",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Look In Just One More Place [Allen Kohan]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28669",
+      "date": "1950-03-29",
+      "epnum": "157",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story I Couldn't Write [Louis H Gollop], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28670",
+      "date": "1950-04-05",
+      "epnum": "158",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Shotgun Murder Solved [Ray Pittman]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28671",
+      "date": "1950-04-12",
+      "epnum": "159",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Senseless Murder [Woody Barron], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28672",
+      "date": "1950-04-19",
+      "epnum": "160",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Two Birds With One Stone [Skip Henderson]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28673",
+      "date": "1950-04-26",
+      "epnum": "161",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Crime of Passion [Ken Hogg], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28674",
+      "date": "1950-05-03",
+      "epnum": "162",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Stain of Murder [Joseph Schoen], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28675",
+      "date": "1950-05-10",
+      "epnum": "163",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Shot In the Arm [Charles Russell], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28676",
+      "date": "1950-05-17",
+      "epnum": "164",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Triple Murder Delays Wedding [Robert Loving]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28677",
+      "date": "1950-05-24",
+      "epnum": "165",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder No One Knew About [Virgil Pierson], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28678",
+      "date": "1950-05-31",
+      "epnum": "166",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killed for Two Pieces of Cardboard [Albert Spiers]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28679",
+      "date": "1950-06-07",
+      "epnum": "167",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Corpse In the Shallow Grave [Carl de Bloom], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28680",
+      "date": "1950-06-14",
+      "epnum": "168",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder for Profit [Frank Toughill]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28681",
+      "date": "1950-06-21",
+      "epnum": "169",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Death In the Family [William Noble]"
+        },
+        {
+          "title": "An American Atrocity, William T Noble, LaPeer Michigan Press"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_50-06-21_169_Death_In_the_Family_William_Noble.mp3",
+          "time": "1533",
+          "size": "24532242"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 500621 168 Death In the Family [William Noble] {AFRS}_OTRRPG.mp3",
+          "time": "1533",
+          "size": "24542121"
+        }
+      ]
+    },
+    {
+      "ide": "28682",
+      "date": "1950-06-28",
+      "epnum": "170",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Greatness of the People [Ernest Hood], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28683",
+      "date": "1950-07-05",
+      "epnum": "171",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Petty Crook Gets Big Ideas [O F Brinkman], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28684",
+      "date": "1950-07-12",
+      "epnum": "172",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hunch That Paid Off [Bill Griffith]"
+        },
+        {
+          "title": "The Hunch That Paid Off, William Griffith, Youngstown Vindicator"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_50-07-12_172_Hunch_That_Paid_Off_Bill_Griffith.mp3",
+          "time": "1532",
+          "size": "24506328"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 500712 172 Hunch That Paid off [Bill Griffith]_OTRRPG.mp3",
+          "time": "1532",
+          "size": "24515942"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 50-07-12 (172) Hunch That Paid Off.mp3",
+          "time": "1532",
+          "size": "24515942"
+        }
+      ]
+    },
+    {
+      "ide": "28685",
+      "date": "1950-07-19",
+      "epnum": "173",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Beautiful Girl and an Ugly Murder [Hal Wilson], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28686",
+      "date": "1950-07-26",
+      "epnum": "174",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Intuition Solves a Baffling Crime [Ruth Mugglebee]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28687",
+      "date": "1950-08-02",
+      "epnum": "175",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Police Question Mystery Suspect [William A Graves]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28688",
+      "date": "1950-08-09",
+      "epnum": "176",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Reporter and a Corpse [Ralph Nelson]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28689",
+      "date": "1950-08-16",
+      "epnum": "177",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Police Seek Hazelwood Killer [Chester Potter]"
+        },
+        {
+          "title": "The Code of the Underworld, Chester Potter, Pittsburgh Press"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28690",
+      "date": "1950-08-23",
+      "epnum": "178",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Accident Victim Found In Canyon [Jim Hart]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28691",
+      "date": "1950-08-30",
+      "epnum": "179",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Enough Rope Will Hang the Killer [Lee Fuhrman]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28692",
+      "date": "1950-09-06",
+      "epnum": "180",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Obstinacy Is a Virtue [Harold Ballew]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28693",
+      "date": "1950-09-13",
+      "epnum": "181",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Tattooed Blonde Marked for Murder [Alfred Gladwell]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28694",
+      "date": "1950-09-20",
+      "epnum": "182",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Joe Carton and Shoe Box Sadie [John Kamps]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28695",
+      "date": "1950-09-27",
+      "epnum": "183",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer Everybody Had Seen [Gene Wortsman], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28696",
+      "date": "1950-10-04",
+      "epnum": "184",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Pleas for Exoneration Rejected [Joseph C Haff]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28697",
+      "date": "1950-10-11",
+      "epnum": "185",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "End of an Eel-fisherman's Spear [Henry C Lapious], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28698",
+      "date": "1950-10-18",
+      "epnum": "186",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Puritan Morality and Violent Death [Albert I Prince]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_50-10-18_186_Puritan_Morality_and_Violent_Death_Albert_I_Prince.mp3",
+          "time": "1535",
+          "size": "24568621"
+        }
+      ]
+    },
+    {
+      "ide": "28699",
+      "date": "1950-10-25",
+      "epnum": "187",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Persistence and Courage [Kenneth C Adams]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28700",
+      "date": "1950-11-01",
+      "epnum": "188",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Story Is Evidence [Walter W Beasley], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28701",
+      "date": "1950-11-08",
+      "epnum": "189",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bobby Soxer Story [Paul Schoenstein]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_50-11-08_189_Bobby_Soxer_Story_Paul_Schoenstein.mp3",
+          "time": "1447",
+          "size": "23152143"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "thebigstory_202011",
+          "name": "Big Story 50-11-08 (189) Bobby Sox Hustling, Girl Gangs & Vice [NY Journal American, Paul Schoenstein].mp3",
+          "time": "1590",
+          "size": "13243737"
+        }
+      ]
+    },
+    {
+      "ide": "28702",
+      "date": "1950-11-15",
+      "epnum": "190",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead Certainty [Kenneth McCormick], A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_50-11-15_190_A_Dead_Certainty_Kenneth_McCormick.mp3",
+          "time": "1535",
+          "size": "24560666"
+        }
+      ]
+    },
+    {
+      "ide": "28703",
+      "date": "1950-11-22",
+      "epnum": "191",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "One and One Sometimes Make Four [Richard J Connelly]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28704",
+      "date": "1950-11-29",
+      "epnum": "192",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Triple Murder [T R Johnson]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_50-11-29_192_Triple_Murder_T_R_Johnson.mp3",
+          "time": "1374",
+          "size": "5497433"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 50-11-29 (192) Triple Murder [T R Johnson].MP3",
+          "time": "1374",
+          "size": "5498890"
+        }
+      ]
+    },
+    {
+      "ide": "28705",
+      "date": "1950-12-06",
+      "epnum": "193",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Paul Gray's Missing Wife [Bernard Beckwith]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_50-12-06_193_Paul_Grays_Missing_Wife_Bernard_Beckwith.mp3",
+          "time": "1592",
+          "size": "12739730"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 50-12-06 (193) Paul Gray's Missing Wife [Bernard Beckwith].mp3",
+          "time": "1592",
+          "size": "12740618"
+        }
+      ]
+    },
+    {
+      "ide": "28706",
+      "date": "1950-12-13",
+      "epnum": "194",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Identity Sought In Mysterious Drowning [William E Bailey]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28707",
+      "date": "1950-12-20",
+      "epnum": "195",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Holiday With Murder [Joseph Saldana], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28708",
+      "date": "1950-12-27",
+      "epnum": "196",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Body In the Lobby [Fred H Weinberg]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28709",
+      "date": "1951-01-03",
+      "epnum": "197",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Stroud Arrested [Patricia Carmichael]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28710",
+      "date": "1951-01-10",
+      "epnum": "198",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Who Killed His Wife [Dolph Frantz]"
+        },
+        {
+          "title": "Character References to Kill"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28711",
+      "date": "1951-01-17",
+      "epnum": "199",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Most Dangerous Killer [Lawrence Dame], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28712",
+      "date": "1951-01-24",
+      "epnum": "200",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Rediscovered an Old Friend [Emile Gauvreau]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28713",
+      "date": "1951-01-31",
+      "epnum": "201",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Five Components of Murder [Gene McLain], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28714",
+      "date": "1951-02-07",
+      "epnum": "202",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Chain of Murders [David Bloom], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28715",
+      "date": "1951-02-14",
+      "epnum": "203",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mob Conquered By Truth [Paul Tiblier], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28716",
+      "date": "1951-02-21",
+      "epnum": "204",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Sensible Rules Catches Senseless [George McVey]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28717",
+      "date": "1951-02-28",
+      "epnum": "205",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Window Killer [Edward Gottlieb]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28718",
+      "date": "1951-03-07",
+      "epnum": "206",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Little Late Coming Home [Charles Ewing], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28719",
+      "date": "1951-03-14",
+      "epnum": "207",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murderer Befriends Cub Reporter [Edward J Newmeier]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28720",
+      "date": "1951-03-21",
+      "epnum": "208",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Weather Changed the Verdict [John Booker], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28721",
+      "date": "1951-03-28",
+      "epnum": "209",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Too Many Suspects [Eugene Moriarty]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28722",
+      "date": "1951-04-04",
+      "epnum": "210",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Poker Game Ends In Death [William E Doherty]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_51-04-04_210_Poker_Game_Ends_In_Death_William_E_Doherty.mp3",
+          "time": "1468",
+          "size": "5870897"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "thebigstory_202011",
+          "name": "Big Story 51-04-04 (210) Poker Game Ends In Death [William E Doherty, Chicago Sun Times] AFRS.mp3",
+          "time": "1420",
+          "size": "17362399"
+        }
+      ]
+    },
+    {
+      "ide": "28723",
+      "date": "1951-04-11",
+      "epnum": "211",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Missing Woman [John Conolly], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28724",
+      "date": "1951-04-18",
+      "epnum": "212",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Upside Down Corpse [Henry O Reno], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28725",
+      "date": "1951-04-25",
+      "epnum": "213",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "More Tragic Than Murder [Virgil Hill]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28726",
+      "date": "1951-05-02",
+      "epnum": "214",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Passed Hat Collects Killer [Peter Panfeld]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28727",
+      "date": "1951-05-09",
+      "epnum": "215",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Whole Family Poisoned [Margaret Eakin], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28728",
+      "date": "1951-05-16",
+      "epnum": "216",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Thirteen is an Unlucky Number [Hugh Sparrow]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28729",
+      "date": "1951-05-23",
+      "epnum": "217",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Forever Was Two Weeks [Sam Wilson]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28730",
+      "date": "1951-05-30",
+      "epnum": "218",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Half-forgotten Memory [Paul Presbrey], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28731",
+      "date": "1951-06-06",
+      "epnum": "219",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Most Impersonal Thing [Theodore T McFarland], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28732",
+      "date": "1951-06-13",
+      "epnum": "220",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Children Living In Terror [Robert Court]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28733",
+      "date": "1951-06-20",
+      "epnum": "221",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Shakespeare Traps a Killer [Granger F Mitchell]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28734",
+      "date": "1951-06-27",
+      "epnum": "222",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Hard Luck Ends Violently [Glenn Perrins]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28735",
+      "date": "1951-07-04",
+      "epnum": "223",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Stupidest Criminal Becomes Smart [Floyd Carl Jr.], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28736",
+      "date": "1951-07-11",
+      "epnum": "224",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lead Turned to Ashes [Herb Krone]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28737",
+      "date": "1951-07-18",
+      "epnum": "225",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Fire Singes More Than Intended [Sidney W Hooper]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28738",
+      "date": "1951-07-25",
+      "epnum": "226",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Wife Poisoned [Bus Bergen]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_51-07-25_226_Wife_Poisoned_Bus_Bergen.mp3",
+          "time": "1447",
+          "size": "23145445"
+        }
+      ]
+    },
+    {
+      "ide": "28739",
+      "date": "1951-08-01",
+      "epnum": "227",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Excitement Found In Death [Jack Sutphin]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28740",
+      "date": "1951-08-08",
+      "epnum": "228",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "End of His Rope [Al Gaskill], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28741",
+      "date": "1951-08-15",
+      "epnum": "229",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Police Probe Mystery Deaths [Edward L Blake]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28742",
+      "date": "1951-08-22",
+      "epnum": "230",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Vanished In Mid-air [William E Brennan]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28743",
+      "date": "1951-08-29",
+      "epnum": "231",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Strange Human Triangle [Harry Neigher]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28744",
+      "date": "1951-09-05",
+      "epnum": "232",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer Talks His Own Doom [Jack Weeks]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28745",
+      "date": "1951-09-12",
+      "epnum": "233",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death In the Lonely Lava Desert [Mike Forbes]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28746",
+      "date": "1951-09-19",
+      "epnum": "234",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Answer Was In His Dream [Henry Pointon], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28747",
+      "date": "1951-09-26",
+      "epnum": "235",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Delinquency Grows; Action Demanded [Edgar E Frady]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28748",
+      "date": "1951-10-03",
+      "epnum": "236",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Contradictory Theories Lead to Killer [Albert J Schottelkotte]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28749",
+      "date": "1951-10-10",
+      "epnum": "237",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murdered Boy Found In River [Paul M Conaway]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28750",
+      "date": "1951-10-17",
+      "epnum": "238",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer Good For Nothing [James E Fuller]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28751",
+      "date": "1951-10-24",
+      "epnum": "239",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Houseboat at Dead Man's Bend [Ned R E Smith], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "330369",
+      "date": "1951-10-28",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jimmy Durante, Jack Carson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28752",
+      "date": "1951-10-31",
+      "epnum": "240",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Secret Room [Norman Bergsma], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28753",
+      "date": "1951-11-07",
+      "epnum": "241",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Police Act to Limit Violence [William B Moorhead]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28754",
+      "date": "1951-11-14",
+      "epnum": "242",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Body Found Near Coalville [Cluster M Nilsson]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28755",
+      "date": "1951-11-21",
+      "epnum": "243",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Jailbreak of Innocent Man [Clyde Mann]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28756",
+      "date": "1951-11-28",
+      "epnum": "244",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gambling Scandle Uncovered [Rolfe Edmondson]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28757",
+      "date": "1951-12-05",
+      "epnum": "245",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Connoisseur of Beauty [Bart Richards], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28758",
+      "date": "1951-12-12",
+      "epnum": "246",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Reporter Asks for Inquest In Farm Death [Marguerite Brown]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28759",
+      "date": "1951-12-19",
+      "epnum": "247",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Unlucky Man [Thomas C Gallagher] (ak-Santa Key Witness In Crime), The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28760",
+      "date": "1951-12-26",
+      "epnum": "248",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Small Town Shot, The [Shandy Hill]"
+        },
+        {
+          "title": "Killer Confesses In Strangling Murder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28761",
+      "date": "1952-01-02",
+      "epnum": "249",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Dangerous Story [Clark Lobb]"
+        },
+        {
+          "title": "Death Trap Just Missed"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28762",
+      "date": "1952-01-09",
+      "epnum": "250",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cord Around Her Neck [Stuart Whitehouse], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28763",
+      "date": "1952-01-16",
+      "epnum": "251",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Vanishing Family [Wallace B McCollum]"
+        },
+        {
+          "title": "Too Late to Stop the Horror"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28764",
+      "date": "1952-01-23",
+      "epnum": "252",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gang Reprisals Feared [James Orie Collins]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28765",
+      "date": "1952-01-30",
+      "epnum": "253",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Park Mystery Solved [Albert O James]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28766",
+      "date": "1952-02-06",
+      "epnum": "254",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Almost Perfect Crime [Rudy Haas]"
+        },
+        {
+          "title": "Sinclair Mystery Baffles Police"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28767",
+      "date": "1952-02-13",
+      "epnum": "255",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Teenage Murder [Wilson McGee]"
+        },
+        {
+          "title": "Suspect Grilled In Kerns Mystery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28768",
+      "date": "1952-02-20",
+      "epnum": "256",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Deadly Passenger [Roy Hanna]"
+        },
+        {
+          "title": "Abandoned Car Leads to Murderer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28769",
+      "date": "1952-02-27",
+      "epnum": "257",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Doctor's Killers [Maury Russell]"
+        },
+        {
+          "title": "The Lady MacBeth of Idaho"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28770",
+      "date": "1952-03-05",
+      "epnum": "258",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Pointed Nose [Roy Jennings]"
+        },
+        {
+          "title": "Why Men Murder"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28771",
+      "date": "1952-03-12",
+      "epnum": "259",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Loving Wife [Victor Bate]"
+        },
+        {
+          "title": "Attack Victim Near Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28772",
+      "date": "1952-03-19",
+      "epnum": "260",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Friendly Betrayal [Alan Cowperthwaite]"
+        },
+        {
+          "title": "To Avenge a Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_52-03-19_260_Friendly_Betrayal_Alan_Cowperthwaite_aka-To_Avenge_a_Murder.mp3",
+          "time": "1741",
+          "size": "6962207"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 52-03-19 (260) To Avenge a Murder [Alan Cowperthwaite].mp3",
+          "time": "1740",
+          "size": "6963210"
+        },
+        {
+          "path": "archive.org/download/",
+          "folder": "thebigstory_202011",
+          "name": "Big Story 52-03-19 (260) ReporterRisksLifeToAvengeFriendsMurder[AlanCopperthwaite HelenaMTIndRec].mp3",
+          "time": "1834",
+          "size": "16958544"
+        }
+      ]
+    },
+    {
+      "ide": "28773",
+      "date": "1952-03-26",
+      "epnum": "261",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "New American Tragedy [Leo W Sheridan]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28774",
+      "date": "1952-04-02",
+      "epnum": "262",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Red Crescent [John Flanagan Jr]"
+        },
+        {
+          "title": "The Crescent Shaped Stain"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28775",
+      "date": "1952-04-09",
+      "epnum": "263",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Public Opinion [Charles Manning]"
+        },
+        {
+          "title": "Four Desperate Men"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28776",
+      "date": "1952-04-16",
+      "epnum": "264",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Human Torch [Victorine Belanger]"
+        },
+        {
+          "title": "Face to Face With a Killer"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28777",
+      "date": "1952-04-23",
+      "epnum": "265",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Tigress and the Cub [Willis O'Rourke]"
+        },
+        {
+          "title": "Warehouse Robberies Continue"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28778",
+      "date": "1952-04-30",
+      "epnum": "266",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Frightened Killer[James O Heyrock]"
+        },
+        {
+          "title": "Missing Seventeen Year Old"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28779",
+      "date": "1952-05-07",
+      "epnum": "267",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Double Disappearance [Lucien Haas]"
+        },
+        {
+          "title": "Colorado River Mystery Deepens"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28780",
+      "date": "1952-05-14",
+      "epnum": "268",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Forgotten Man [Jack Mackay]"
+        },
+        {
+          "title": "A Forgotten Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28781",
+      "date": "1952-05-21",
+      "epnum": "269",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Shot In the Dark [Tom Omstead], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28782",
+      "date": "1952-05-28",
+      "epnum": "270",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Suicide or Murder [Richard S Jacobson]"
+        },
+        {
+          "title": "The Truth About a Very Strange Death"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28783",
+      "date": "1952-06-04",
+      "epnum": "271",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "War Trophy Weapon [Richard Morris]"
+        },
+        {
+          "title": "On a Book Shelf"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28784",
+      "date": "1952-06-11",
+      "epnum": "272",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Inevitable Murder [Eugene Parker]"
+        },
+        {
+          "title": "Police Hunt Missing Boy"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28785",
+      "date": "1952-06-18",
+      "epnum": "273",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Triple Murder [John A Corkery]"
+        },
+        {
+          "title": "Crowd Keeps Death Vigil"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28786",
+      "date": "1952-06-25",
+      "epnum": "274",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Mistaken Murder [Null Adams]"
+        },
+        {
+          "title": "Backwoods Slaying Still a Mystery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28787",
+      "date": "1952-07-02",
+      "epnum": "275",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Who Forgot to Be Afraid [Jean Barrett], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28788",
+      "date": "1952-08-27",
+      "epnum": "276",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Boy, Ten Fights for Family [James S Pooler]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28789",
+      "date": "1952-09-03",
+      "epnum": "277",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Made Up Story Is the Truth [Eddie Krell]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28790",
+      "date": "1952-09-10",
+      "epnum": "278",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Smalltime Gambler [Frank R Doherty]"
+        },
+        {
+          "title": "The Gamble"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28791",
+      "date": "1952-09-17",
+      "epnum": "279",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Body Beneath the Porch [William G Gagnon]"
+        },
+        {
+          "title": "Wichita Shocked By Fiendish Crime"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28792",
+      "date": "1952-09-24",
+      "epnum": "280",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Hoffner Case, The - A Challenge to Justice [Edward J Mowery]"
+        },
+        {
+          "title": "Hold-up Murders Terrorize City"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28793",
+      "date": "1952-10-01",
+      "epnum": "281",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Capture of a Sniper, The [Jerome Smith]"
+        },
+        {
+          "title": "Mystery Slayer Sought"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28794",
+      "date": "1952-10-08",
+      "epnum": "282",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Body Found On Tamiami Trail [William H Adams]"
+        },
+        {
+          "title": "Hot Lead Catches a Cold Blooded Killer"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_52-10-08_282_Body_Found_On_Tamiami_Trail_William_H_Adams_aka-Hot_Lead_Catches.mp3",
+          "time": "1477",
+          "size": "23639119"
+        }
+      ]
+    },
+    {
+      "ide": "28795",
+      "date": "1952-10-15",
+      "epnum": "283",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder of a Merchant [Sam Hood]"
+        },
+        {
+          "title": "The Answer's In the Books"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28796",
+      "date": "1952-10-22",
+      "epnum": "284",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mother's Plea, A [Arthur E Pflanz]"
+        },
+        {
+          "title": "A Dying Mother's Request"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28797",
+      "date": "1952-10-29",
+      "epnum": "285",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Single Clue [Grady Bennett]]"
+        },
+        {
+          "title": "Reputation of an Innocent Man"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28798",
+      "date": "1952-11-05",
+      "epnum": "286",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer That Didn't Exist [William K Garrett], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28799",
+      "date": "1952-11-12",
+      "epnum": "287",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Silent Witnesses Spoke Loudest [Jack Cosgrove]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28800",
+      "date": "1952-11-19",
+      "epnum": "288",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gangster's Moll, The [Ralph Cropper]"
+        },
+        {
+          "title": "Tri-State Gang Escape"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28801",
+      "date": "1952-11-26",
+      "epnum": "289",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Miracle, The [Marvin Sleeper]"
+        },
+        {
+          "title": "Georgia Boy Flies to New York"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28802",
+      "date": "1952-12-03",
+      "epnum": "290",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer Ignorant of Law [Alfred D Whelton]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28803",
+      "date": "1952-12-10",
+      "epnum": "291",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Vital Clue, The [Bob Hall]"
+        },
+        {
+          "title": "The Unseen Witness"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28804",
+      "date": "1952-12-17",
+      "epnum": "292",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Another Jeckyl and Hyde [Arthur Shinske]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28805",
+      "date": "1952-12-24",
+      "epnum": "293",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Santa Claus Reporter [William Key]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28806",
+      "date": "1952-12-31",
+      "epnum": "294",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer Couldn't Hold His Money [Harold E Mills]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28807",
+      "date": "1953-01-07",
+      "epnum": "295",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Oath Sworn In Blood [Rex T Newman], An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28808",
+      "date": "1953-01-14",
+      "epnum": "296",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Weekend Burglar, The [Alfred E Clark]"
+        },
+        {
+          "title": "Reporter Traps Running Suspect"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28809",
+      "date": "1953-01-21",
+      "epnum": "297",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cab Driver Sought In Fatal Shooting [Art Petacque]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28810",
+      "date": "1953-01-28",
+      "epnum": "298",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Reformed Criminal [Bert Murray]"
+        },
+        {
+          "title": "Neighbors Back Good Citizen"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28811",
+      "date": "1953-02-04",
+      "epnum": "299",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three Gangsters, The [Don Morrisey]"
+        },
+        {
+          "title": "The Biggest Catch"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_53-02-04_299_The_Three_Gangsters_Don_Morrisey_aka-The_Biggest_Catch.mp3",
+          "time": "1520",
+          "size": "24313254"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The 530204 297 The Three Gangsters aka The Biggest Catch [Donald Morrisey, Elkhorn, WI Independent] {AFRS#178}_OTRRPG.mp3",
+          "time": "1521",
+          "size": "37409438"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "Big Story, The - 1953-02-04 (178) - The Three Gangsters (aka The Biggest Catch) (Donald Morrisey, Elkhorn, WI Independent) AFRS.mp3",
+          "time": "1514",
+          "size": "12114265"
+        }
+      ]
+    },
+    {
+      "ide": "28812",
+      "date": "1953-02-11",
+      "epnum": "300",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Silent Woman [Robert L Chase]"
+        },
+        {
+          "title": "Reporter Gets Story After 19 Years"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28813",
+      "date": "1953-02-18",
+      "epnum": "301",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Silk Kimono and a Trigger Temper [J Edward Reid], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28814",
+      "date": "1953-02-25",
+      "epnum": "302",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Born to Lose [Pat Kelly]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28815",
+      "date": "1953-03-04",
+      "epnum": "303",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Perfect Crime [Douglas Wildey]"
+        },
+        {
+          "title": "Mystery Case Comes to Light"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28816",
+      "date": "1953-03-11",
+      "epnum": "304",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder of Flora Downs [Jack G Shough], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28817",
+      "date": "1953-03-18",
+      "epnum": "305",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Boy Struck By Hit and Run Driver [Niver Beaman]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28818",
+      "date": "1953-03-25",
+      "epnum": "306",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Assignment Jailbird [Don Kellerman]"
+        },
+        {
+          "title": "Call for Prison Reform"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28819",
+      "date": "1953-04-01",
+      "epnum": "307",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Miracle Phone Call [Dorothy W Patterson], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "thebigstory_202011",
+          "name": "Big Story 53-04-01 (307) The Miracle Phone Call [DorothyPatterson,PatersonNJMorningCall].mp3",
+          "time": "1547",
+          "size": "18759444"
+        }
+      ]
+    },
+    {
+      "ide": "28820",
+      "date": "1953-04-08",
+      "epnum": "308",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "University Coed Missing [Gene Lowall]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28821",
+      "date": "1953-04-15",
+      "epnum": "309",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Trial By Fire [C J Hansen], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28822",
+      "date": "1953-04-22",
+      "epnum": "310",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Motorists Warned About Hitch-hikers [Thane Smith]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28823",
+      "date": "1953-04-29",
+      "epnum": "311",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Mystery Man Found [A Alfred Marcello]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28824",
+      "date": "1953-05-06",
+      "epnum": "312",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Trout Rock Cave Key to Mystery [Robert J Billeter]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28825",
+      "date": "1953-05-13",
+      "epnum": "313",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Clark Story Puzzles Police [Patricia Leeds]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28826",
+      "date": "1953-05-20",
+      "epnum": "314",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Buried Deep In a Heart [J Harold Brislin]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28827",
+      "date": "1953-05-27",
+      "epnum": "315",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Woman Talked and Trapped a Killer [John M McGuire], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28828",
+      "date": "1953-06-03",
+      "epnum": "316",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Missing Gun Traps Killer [Sam A Jaffe]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28829",
+      "date": "1953-06-10",
+      "epnum": "317",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Both an End and a Beginning [Bob Bourne]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28830",
+      "date": "1953-06-17",
+      "epnum": "318",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Missing Car, Man and Murder [John DeMott], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28831",
+      "date": "1953-09-23",
+      "epnum": "319",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Nation Wide Search for Missing Woman [Edan Wright]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28832",
+      "date": "1953-09-30",
+      "epnum": "320",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Back From the Dead [Joseph P Browne]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "thebigstory_202011",
+          "name": "Big Story 53-09-30 (320) Back From the Dead [JosephBrowne,PittsburghSunTelegraph].mp3",
+          "time": "1557",
+          "size": "17458551"
+        }
+      ]
+    },
+    {
+      "ide": "28833",
+      "date": "1953-10-07",
+      "epnum": "321",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Anonymous Confession to Murder [Al Lanier], An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28834",
+      "date": "1953-10-14",
+      "epnum": "322",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Best Man to a Corpse [Colin W McAllister]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28835",
+      "date": "1953-10-21",
+      "epnum": "323",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Police at Standstill in Mystery Woman Case [Ed Engeldow]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28836",
+      "date": "1953-10-28",
+      "epnum": "324",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Voice from the Grave [Gene McLain], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28837",
+      "date": "1953-11-04",
+      "epnum": "325",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Miracle In the Wilderness [Jane Reno], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28838",
+      "date": "1953-11-11",
+      "epnum": "326",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Investigation of Alcoholic Homes Planned [Paul D Quick]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28839",
+      "date": "1953-11-18",
+      "epnum": "327",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Lured Back to the Scene of the Crime [Charles McKinney]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28840",
+      "date": "1953-11-25",
+      "epnum": "328",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Heart of a Nation [Chet Holcombe], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28841",
+      "date": "1953-12-02",
+      "epnum": "329",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Search On for Mystery Man! [Vern Lechliter]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28842",
+      "date": "1953-12-09",
+      "epnum": "330",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Single Hour Turned Into a Lifetime [Emil Slaboda], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28843",
+      "date": "1953-12-16",
+      "epnum": "331",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer Who Had to Hide [O E Bud Rouse], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28844",
+      "date": "1953-12-23",
+      "epnum": "332",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "City That Answered With Its Heart [Jack Boucher], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28845",
+      "date": "1953-12-30",
+      "epnum": "333",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Legislation Sought to Break Racket [Trudy Prokop]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28846",
+      "date": "1954-01-06",
+      "epnum": "334",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "No Trace of Forgers [Wallace Beene]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28847",
+      "date": "1954-01-13",
+      "epnum": "335",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Teenage Gang War Flares [Stuart McClure]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28848",
+      "date": "1954-01-20",
+      "epnum": "336",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Girl Found Strangled In Woods [James Burr Miller]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28849",
+      "date": "1954-01-27",
+      "epnum": "337",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Too Terrible to Be Believed [Arthur Mielke]"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_54-01-27_337_Too_Terrible_to_Be_Believed_Arthur_Mielke.mp3",
+          "time": "1601",
+          "size": "6403690"
+        },
+        {
+          "path": "B",
+          "folder": "Big Story, The",
+          "name": "The Big Story 54-01-27 (337) Too Terrible To Be Believed [Arthur Mielke].mp3",
+          "time": "1601",
+          "size": "6403135"
+        }
+      ]
+    },
+    {
+      "ide": "28850",
+      "date": "1954-02-03",
+      "epnum": "338",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Death of a Machine [Willard C Haselbush], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28851",
+      "date": "1954-02-10",
+      "epnum": "339",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Thousand to One [Virginia Marhadue, Joseph Kordick], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28852",
+      "date": "1954-02-17",
+      "epnum": "340",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder Is Never an Accident [William P Montgomery]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28853",
+      "date": "1954-02-24",
+      "epnum": "341",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Alibi Found for One Who Forgot [Ken McCormick]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28854",
+      "date": "1954-03-03",
+      "epnum": "342",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Tragedy Turned Into Triumph [Milt Sosin]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28855",
+      "date": "1954-03-10",
+      "epnum": "343",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer's Word Enemy [Thomas F Gilliland], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28856",
+      "date": "1954-03-17",
+      "epnum": "344",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "I Gave Back Two Lives [John McDowell]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28857",
+      "date": "1954-03-24",
+      "epnum": "345",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Witness to Violence and Death [John Cahlan], A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_54-03-24_345_A_Witness_to_Violence_and_Death_John_Cahlan.mp3",
+          "time": "1491",
+          "size": "23851397"
+        }
+      ]
+    },
+    {
+      "ide": "28858",
+      "date": "1954-03-31",
+      "epnum": "346",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Who Couldn't Run [Ken Alstad], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28859",
+      "date": "1954-04-07",
+      "epnum": "347",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer Couldn't Cheat Death [George Spagna], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28860",
+      "date": "1954-04-14",
+      "epnum": "348",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Easter Miracle [Roger Dove], An"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28861",
+      "date": "1954-04-21",
+      "epnum": "349",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Convict's Past [Del Carnes], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28862",
+      "date": "1954-04-28",
+      "epnum": "350",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Breaking a Vicious Racket [Bill McIllwain]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28863",
+      "date": "1954-05-05",
+      "epnum": "351",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cold Blooded Murder [Katherine McLaughlin], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28864",
+      "date": "1954-05-12",
+      "epnum": "352",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Power of a Ruler Broken [Hugh Parks], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28865",
+      "date": "1954-05-19",
+      "epnum": "353",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Little Man Commits Big Crime [Matty Rumin]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28866",
+      "date": "1954-05-26",
+      "epnum": "354",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Boy Who Made a Mistake [Martin Dreyer], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28867",
+      "date": "1954-06-02",
+      "epnum": "355",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Killer Who Was Afraid to Live [Donna Mikels], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28868",
+      "date": "1954-09-08",
+      "epnum": "356",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Plugged Half-dollar [Gene Lindsay], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28869",
+      "date": "1954-09-15",
+      "epnum": "357",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Gambled for His Life [Al Kaufman]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28870",
+      "date": "1954-09-22",
+      "epnum": "358",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Indicted Legman [Theodore C Links]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28871",
+      "date": "1954-09-29",
+      "epnum": "359",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Living Death [Valerie Nicholson]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28872",
+      "date": "1954-10-06",
+      "epnum": "360",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ugly Story of a Man [Charles J Gleeson], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "thebigstory_202011",
+          "name": "Big Story 54-10-06 (360) The Ugly Story of a Man [CharlesGleeson,WillowsJournal].mp3",
+          "time": "1575",
+          "size": "19176713"
+        }
+      ]
+    },
+    {
+      "ide": "28873",
+      "date": "1954-10-13",
+      "epnum": "361",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Riding With a Killer [Jack Hardin]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28874",
+      "date": "1954-10-20",
+      "epnum": "362",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Deadly Sound of Laughing [Sid Hughes], The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Big_Story_Singles",
+          "name": "Big_Story_The_54-10-20_362_The_Deadly_Sound_of_Laughing_Sid_Hughes.mp3",
+          "time": "1557",
+          "size": "24918443"
+        }
+      ]
+    },
+    {
+      "ide": "28875",
+      "date": "1954-10-27",
+      "epnum": "363",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Two Murders from One Accident [Harry J Karafin]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28876",
+      "date": "1954-11-03",
+      "epnum": "364",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Headline for a Woman's Life [Bernard Averbaugh], A"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28877",
+      "date": "1954-11-10",
+      "epnum": "365",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Baffled Lie Detector [Jack Coats]"
+        },
+        {
+          "title": "To Prove a Lie Detector Wrong"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28878",
+      "date": "1954-11-17",
+      "epnum": "366",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Deluded Dentist [Tom Allan]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28879",
+      "date": "1954-11-24",
+      "epnum": "367",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Golden Door [Victor Cohn], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28880",
+      "date": "1954-12-01",
+      "epnum": "368",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Murder In a Police Station [Bernard Kelly]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28881",
+      "date": "1954-12-08",
+      "epnum": "369",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Cause for Divorce [Betty Jane Holder]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28882",
+      "date": "1954-12-15",
+      "epnum": "370",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Neighbor Found Murdered [Thomas J Loomis Jr]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28883",
+      "date": "1954-12-22",
+      "epnum": "371",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Man Without a Childhood [Eugene V Moran], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28884",
+      "date": "1954-12-29",
+      "epnum": "372",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Circus Tragedy [Jack Thale]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28885",
+      "date": "1955-01-05",
+      "epnum": "373",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Criminal That Played with Fire [Arthur E Brooks], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28886",
+      "date": "1955-01-12",
+      "epnum": "374",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Unluckiest Man In the World [Day Churchman]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28887",
+      "date": "1955-01-19",
+      "epnum": "375",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Careless Husband [Ned Garrity]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28888",
+      "date": "1955-01-26",
+      "epnum": "376",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Forgotten Man [Nat Berg]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28889",
+      "date": "1955-02-02",
+      "epnum": "377",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Terrified Town [Charles Manos]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28890",
+      "date": "1955-02-09",
+      "epnum": "378",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "One-Man Rampage [Denne B Petitclero], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28891",
+      "date": "1955-02-16",
+      "epnum": "379",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Innocent Pawn [Joe Azbell]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28892",
+      "date": "1955-02-23",
+      "epnum": "380",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Overlooked Witness [Joseph R Bianco], The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28893",
+      "date": "1955-03-02",
+      "epnum": "381",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Accidental Murder [Clark Porteous]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28894",
+      "date": "1955-03-09",
+      "epnum": "382",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "TCOT Double Life [Charles Griffe]"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "28895",
+      "date": "1955-03-16",
+      "epnum": "383",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Baffling Murder Solved [James McGuire]"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-04-02",
+      "dow": "W",
+      "time": "10:00 PM",
+      "end": "1951-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1951-00-00",
+      "dow": "W",
+      "time": "9:30 PM",
+      "end": "1954-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1954-00-00",
+      "dow": "W",
+      "time": "9:30 PM",
+      "end": "1955-03-24",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Big Story, The"
+    }
+  ]
+}

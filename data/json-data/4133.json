@@ -1,0 +1,545 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/G Series/Glenn Miller - Moonlight Serenade/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Original Log by The Glenn Miller Archives This log combines 6 Glenn Miller logs but does not contain I Sustain The Wings due to overlapping dates. The first Part of this log does not have the remotes show 'name' because usually no name was announced and the existing logs have duplicate dates for example (Glenn Miller Time and Glenn Miller's Music, etc). G I Jive [ Unknown Episode] Featuring American Patrol [378] "
+    }
+  ],
+  "people": [
+    {
+      "idperson": "4150",
+      "first": "Glenn",
+      "last": "Miller",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "318410",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Glenn Interview"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 42-xx-xx Glenn Interview.mp3",
+          "time": "385",
+          "size": "1155512"
+        }
+      ]
+    },
+    {
+      "ide": "322916",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Glenn Miller Interview"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1942.xx.xx Glenn Miller Interview.mp3",
+          "time": "513",
+          "size": "2159954"
+        }
+      ]
+    },
+    {
+      "ide": "322917",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Interview With Glenn Miller By Paul Douglas"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1944.xx.xx Interview With Glenn Miller By Paul Douglas.mp3",
+          "time": "271",
+          "size": "1192630"
+        }
+      ]
+    },
+    {
+      "ide": "322895",
+      "date": "1940-01-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Rug Cutters Swing"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1940.01.30 First Song Rug Cutters Swing.mp3",
+          "time": "865",
+          "size": "3569325"
+        }
+      ]
+    },
+    {
+      "ide": "322896",
+      "date": "1940-04-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song The Woodpecker Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1940.04.03 First Song The Woodpecker Song.mp3",
+          "time": "868",
+          "size": "3579778"
+        }
+      ]
+    },
+    {
+      "ide": "322897",
+      "date": "1940-04-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song A Hat With Cherries"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1940.04.11 First Song A Hat With Cherries.mp3",
+          "time": "633",
+          "size": "2638847"
+        }
+      ]
+    },
+    {
+      "ide": "322898",
+      "date": "1940-05-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Polka Dots And Moonbeams"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1940.05.28 First Song Polka Dots And Moonbeams.mp3",
+          "time": "875",
+          "size": "3606537"
+        }
+      ]
+    },
+    {
+      "ide": "322899",
+      "date": "1940-06-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Solitude"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1940.06.13 First Song Solitude.mp3",
+          "time": "819",
+          "size": "3384464"
+        }
+      ]
+    },
+    {
+      "ide": "322900",
+      "date": "1940-09-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Stardust"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1940.09.17 First Song Stardust.mp3",
+          "time": "871",
+          "size": "3590100"
+        }
+      ]
+    },
+    {
+      "ide": "322901",
+      "date": "1940-11-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Midnight On The Nile"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1940.11.04 First Song Midnight On The Nile.mp3",
+          "time": "1514",
+          "size": "6165589"
+        }
+      ]
+    },
+    {
+      "ide": "322902",
+      "date": "1940-11-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Five Oclock Whistle"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1940.11.19 First Song Five Oclock Whistle.mp3",
+          "time": "815",
+          "size": "3369858"
+        }
+      ]
+    },
+    {
+      "ide": "322903",
+      "date": "1940-11-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Slumber Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1940.11.27 First Song Slumber Song.mp3",
+          "time": "822",
+          "size": "3397011"
+        }
+      ]
+    },
+    {
+      "ide": "322904",
+      "date": "1941-05-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Sweeter Than The Sweetest"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1941.05.06 First Song Sweeter Than The Sweetest.mp3",
+          "time": "735",
+          "size": "3049086"
+        }
+      ]
+    },
+    {
+      "ide": "322905",
+      "date": "1941-12-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Jingle Bells"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Light Crust Dough Boys",
+          "name": "Light Crust Doughboys 1943.12.24 First Song Jingle Bells.mp3",
+          "time": "564",
+          "size": "2363291"
+        }
+      ]
+    },
+    {
+      "ide": "322906",
+      "date": "1942-05-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song String Of Pearls"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1942.05.05 First Song String Of Pearls.mp3",
+          "time": "859",
+          "size": "3542051"
+        }
+      ]
+    },
+    {
+      "ide": "322907",
+      "date": "1942-05-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Dvoraks Largo"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1942.05.06 First Song Dvoraks Largo.mp3",
+          "time": "852",
+          "size": "3517594"
+        }
+      ]
+    },
+    {
+      "ide": "322908",
+      "date": "1942-05-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Shh Its A Military Secret"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1942.05.14 First Song Shh Its A Military Secret.mp3",
+          "time": "839",
+          "size": "3464120"
+        }
+      ]
+    },
+    {
+      "ide": "322909",
+      "date": "1942-06-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Something To Remember You By"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1942.06.23 First Song Something To Remember You By.mp3",
+          "time": "848",
+          "size": "3498085"
+        }
+      ]
+    },
+    {
+      "ide": "322910",
+      "date": "1942-06-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song People Like You And Me"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1942.06.25 First Song People Like You And Me.mp3",
+          "time": "816",
+          "size": "3373207"
+        }
+      ]
+    },
+    {
+      "ide": "322911",
+      "date": "1942-07-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Moonlight Cocktail"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1942.07.14 First Song Moonlight Cocktail.mp3",
+          "time": "837",
+          "size": "3456478"
+        }
+      ]
+    },
+    {
+      "ide": "322912",
+      "date": "1942-07-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song Sweet Eloise"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1942.07.16 First Song Sweet Eloise.mp3",
+          "time": "840",
+          "size": "3469840"
+        }
+      ]
+    },
+    {
+      "ide": "322913",
+      "date": "1942-08-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song At Last"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1942.08.18 First Song At Last.mp3",
+          "time": "803",
+          "size": "3319679"
+        }
+      ]
+    },
+    {
+      "ide": "322914",
+      "date": "1942-09-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song I Got A Gal In Kalamazoo"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - Moonlight Serenade",
+          "name": "Glenn Miller - Moonlight Serenade 1942.09.23 First Song I Got A Gal In Kalamazoo.mp3",
+          "time": "824",
+          "size": "3402887"
+        }
+      ]
+    },
+    {
+      "ide": "322915",
+      "date": "1942-09-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song In The Mood"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "Glenn Miller - I Sustain The Wings",
+          "name": "Glenn Miller I Sustain The Wings 1945.11.17 First Song In The Mood.mp3",
+          "time": "1320",
+          "size": "5388169"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Glenn Miller - Moonlight Serenade"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/Tennessee Jamboree/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5540",
+      "first": "Hank",
+      "last": "Snow",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "48071",
+      "first": "Owen",
+      "last": "Bradley",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "315566",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Do You Wonder Why"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tennessee Jamboree",
+          "name": "Tennessee Jamboree xxxxxx 73 1st Song - Do You Wonder Why {AFRS} (128-48)_OTRRPG.mp3",
+          "time": "1547",
+          "size": "24769144"
+        },
+        {
+          "path": "T",
+          "folder": "Tennessee Jamboree",
+          "name": "Tennessee Jamboree xx-xx-xx (73) First Song - Do You Wonder Why (AFRS).mp3",
+          "time": "1549",
+          "size": "12393345"
+        }
+      ]
+    },
+    {
+      "ide": "315565",
+      "date": "1950-04-11",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Somebody Else's Trouble"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Tennessee Jamboree",
+          "name": "Tennessee Jamboree 500411 xxx 1st Song - Somebody Else's Trouble_OTRRPG.mp3",
+          "time": "1755",
+          "size": "28159805"
+        },
+        {
+          "path": "T",
+          "folder": "Tennessee Jamboree",
+          "name": "Tennessee Jamboree 50-04-11 First Song - Somebody Else's Trouble.mp3",
+          "time": "1757",
+          "size": "28117120"
+        },
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Tennesse Jamboree 50-04-11 First Song - Somebody Else's Trouble.mp3",
+          "time": "1757",
+          "size": "14058265"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Country Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1949-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "9:30 PM",
+      "end": "1950-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Tennessee Jamboree"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/Twin Views Of The News/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2145",
+      "first": "Hy",
+      "last": "Gardner",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    },
+    {
+      "idperson": "6150",
+      "first": "Danton",
+      "last": "Walker",
+      "f": "Noted Role",
+      "character": "Newscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "315930",
+      "date": "1949-08-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ray Bolger and Bennett Cerf are Interviewed. From the Stork Club"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Twin Views Of The News",
+          "name": "Twin Views of The News 490821 Ray Bolger and Bennett Cerf are Interviewed. From the Stork Club_OTRRPG.mp3",
+          "time": "904",
+          "size": "14474711"
+        },
+        {
+          "path": "T",
+          "folder": "Twin Views Of The News",
+          "name": "Twin Views of The News 490821 Ray Bolger and Bennett Cerf are Interviewed. From the Stork Club.mp3",
+          "time": "900",
+          "size": "7197977"
+        }
+      ]
+    },
+    {
+      "ide": "315931",
+      "date": "1949-09-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hy Gardner Interviews Texas Millionaire Glen McCarthy"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Twin Views Of The News",
+          "name": "Twin Views of The News 490904 Hy Gardner Interviews Texas Millionaire Glen McCarthy_OTRRPG.mp3",
+          "time": "895",
+          "size": "14325500"
+        },
+        {
+          "path": "T",
+          "folder": "Twin Views Of The News",
+          "name": "Twin Views of The News 490904 Hy Gardner Interviews Texas Millionaire Glen McCarthy.mp3",
+          "time": "890",
+          "size": "7123721"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Gossip"
+    },
+    {
+      "genre": "News"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-09-14",
+      "dow": "Sa",
+      "time": "10:00 PM",
+      "end": "1948-09-19",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1947-09-14",
+      "end": "1948-09-19"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Twin Views of the News"
+    }
+  ]
+}

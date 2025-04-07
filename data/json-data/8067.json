@@ -1,0 +1,371 @@
+{
+  "avail": [],
+  "codes": [
+    {
+      "code": "SEBL"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Sexton Blake, Detective/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "www.sextonblake.co.uk/",
+      "label": "Blakiana - The Sexton Blake Resource",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "103",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    },
+    {
+      "idprint": "1125",
+      "idtype": "4",
+      "page": "166",
+      "article": "",
+      "url": "",
+      "date": "1971-09-01",
+      "source": "Misc/Sound_Tapes_Of_The_Past_Sep71.pdf",
+      "idpytype2": "4",
+      "title": "Sound Tapes Of The Past Sep71",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "128954",
+      "date": "1967-08-24",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lilies for the Ladies"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-08-24 (01) Lillies for the Ladies.mp3",
+          "time": "1783",
+          "size": "8916021"
+        }
+      ]
+    },
+    {
+      "ide": "128955",
+      "date": "1967-08-31",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sin Eaters, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-08-31 (02) The Sin Eaters.mp3",
+          "time": "1671",
+          "size": "8355557"
+        }
+      ]
+    },
+    {
+      "ide": "128956",
+      "date": "1967-09-07",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "128957",
+      "date": "1967-09-14",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bluebeard's Key"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-09-14 (04) Bluebeard's Key.mp3",
+          "time": "1803",
+          "size": "9017240"
+        }
+      ]
+    },
+    {
+      "ide": "128958",
+      "date": "1967-09-21",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Vampire Moon, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-09-21 (05) The Vampire Moon.mp3",
+          "time": "1792",
+          "size": "8960138"
+        }
+      ]
+    },
+    {
+      "ide": "128959",
+      "date": "1967-09-28",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "128960",
+      "date": "1967-10-05",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fifth Dimension, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-10-05 (07) Fifth Dimension.mp3",
+          "time": "1752",
+          "size": "8762016"
+        }
+      ]
+    },
+    {
+      "ide": "128961",
+      "date": "1967-10-12",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "128962",
+      "date": "1967-10-19",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Class Ticket to Nowhere"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-10-19 (09) First Class Ticket to.mp3",
+          "time": "1649",
+          "size": "3299338"
+        }
+      ]
+    },
+    {
+      "ide": "128963",
+      "date": "1967-10-26",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Enchanted Editor, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-10-26 (10) The Enchanted Editor.mp3",
+          "time": "1770",
+          "size": "7081144"
+        }
+      ]
+    },
+    {
+      "ide": "128964",
+      "date": "1967-11-02",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Eight Swords, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-11-02 (11) The Eight Swords.mp3",
+          "time": "1750",
+          "size": "8751242"
+        }
+      ]
+    },
+    {
+      "ide": "128965",
+      "date": "1967-11-09",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Murder of Crows, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-11-09 (12) A Murder of Crows.mp3",
+          "time": "1714",
+          "size": "8570548"
+        }
+      ]
+    },
+    {
+      "ide": "128966",
+      "date": "1967-11-16",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Double and Quit"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-11-16 (13) Double and Quit.mp3",
+          "time": "1810",
+          "size": "9053876"
+        }
+      ]
+    },
+    {
+      "ide": "128967",
+      "date": "1967-11-23",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You Must Be Joking"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake Detective 1967.11.23 You Must Be Joking.mp3",
+          "time": "1601",
+          "size": "6512056"
+        }
+      ]
+    },
+    {
+      "ide": "128968",
+      "date": "1967-11-30",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Conjurer's Coffin"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-11-30 (15) Conjurer's Coffin.mp3",
+          "time": "1534",
+          "size": "3067914"
+        }
+      ]
+    },
+    {
+      "ide": "128969",
+      "date": "1967-12-07",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Blood of Ramses, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-12-07 (16) The Blood of Ramses.mp3",
+          "time": "1727",
+          "size": "8636113"
+        }
+      ]
+    },
+    {
+      "ide": "128970",
+      "date": "1967-12-14",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "No Trees for the Peak"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Sexton Blake, Detective",
+          "name": "Sexton Blake, Detective 67-12-14 (17) No Trees for the Peak.mp3",
+          "time": "1728",
+          "size": "8643695"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Private Detective"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Sexton Blake (BBC)"
+    }
+  ]
+}

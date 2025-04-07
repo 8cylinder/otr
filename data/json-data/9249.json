@@ -1,0 +1,931 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,790368,00.html",
+      "label": "1942-04-20: Distinction in '41",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,853878,00.html",
+      "label": "1949-07-25: Program Preview",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,884322,00.html",
+      "label": "1941-03-24: MBS Soapbox",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9249-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2865",
+      "first": "Hubert H.",
+      "last": "Humphrey",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "4951",
+      "first": "James",
+      "last": "Reston",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "47213",
+      "first": "John",
+      "last": "Howe",
+      "f": "Noted Role",
+      "character": "Moderator"
+    },
+    {
+      "idperson": "47213",
+      "first": "John",
+      "last": "Howe",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "5111",
+      "first": "Eleanor",
+      "last": "Roosevelt",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "147191",
+      "date": "1933-10-15",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Episode"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147192",
+      "date": "1938-01-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ludlow Amendment, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147193",
+      "date": "1938-02-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Civil Liberties"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147194",
+      "date": "1938-03-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Seizure of Austria, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147195",
+      "date": "1938-03-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Monopoly and Competition - What Are Monopolies"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147196",
+      "date": "1938-07-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Can America's Press Be Free"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147197",
+      "date": "1938-07-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Purchasing Power and Prosperity"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147198",
+      "date": "1938-11-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Thirty Dollars Every Thursday"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147199",
+      "date": "1939-04-16",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Room to Live - an Analysis of Population Pressure and Aggression"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147200",
+      "date": "1939-09-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will There Be a Blackout of Peace in America"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147201",
+      "date": "1939-09-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Will Congress Do"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147202",
+      "date": "1941-11-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Philippines - Asset or Liability, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147203",
+      "date": "1941-12-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Canada - a Neighbor at War"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147204",
+      "date": "1944-08-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Peace as a World Race Problem"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147205",
+      "date": "1944-10-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Presidentcy, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147206",
+      "date": "1947-11-02",
+      "epnum": "182",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Much American Aid for Europe"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147207",
+      "date": "1948-01-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will the Marshall Plan Succeed"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147208",
+      "date": "1948-03-07",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Russian Economic Octopus, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147209",
+      "date": "1948-03-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Communist Manifesto from 1848 to 1948, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147210",
+      "date": "1948-09-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great Books in the Western World, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147211",
+      "date": "1948-10-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Berlin Crisis and the United Nations, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147212",
+      "date": "1948-10-17",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "France and the United Nations"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147213",
+      "date": "1948-12-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should the Republican Party Do Now"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147214",
+      "date": "1948-12-26",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is American Education Meeting the Postwar Challenge"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147215",
+      "date": "1949-01-02",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "You and the Federal Courts"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147216",
+      "date": "1949-01-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should We Have a National Compulsory Health Insurance System"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147217",
+      "date": "1949-01-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should We Do About the Federal Budget"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147218",
+      "date": "1949-02-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Should President Truman's Civil Rights Program Be Adopted"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.02.06 Should Trumans Civil Rights Program Be Adopted.mp3",
+          "time": "1665",
+          "size": "6769747"
+        }
+      ]
+    },
+    {
+      "ide": "324455",
+      "date": "1949-02-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "National Resources Progress And Poverty"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.02.13 National Resources Progress And Poverty.mp3",
+          "time": "1822",
+          "size": "7395216"
+        }
+      ]
+    },
+    {
+      "ide": "324456",
+      "date": "1949-03-06",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The North Atlantic Pact And Russia"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.03.06 The North Atlantic Pact And Russia.mp3",
+          "time": "1700",
+          "size": "6908707"
+        }
+      ]
+    },
+    {
+      "ide": "324457",
+      "date": "1949-03-13",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guilt By Association"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.03.13 Guilt By Association.mp3",
+          "time": "1593",
+          "size": "6480284"
+        }
+      ]
+    },
+    {
+      "ide": "324458",
+      "date": "1949-03-20",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Should Society Expect Of Colleges And Universities"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.03.20 What Should Society Expect Of Colleges And Universities.mp3",
+          "time": "1835",
+          "size": "7447999"
+        }
+      ]
+    },
+    {
+      "ide": "324459",
+      "date": "1949-03-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Bomb And The Next War"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.03.27 The Bomb And The Next War.mp3",
+          "time": "1820",
+          "size": "7389246"
+        }
+      ]
+    },
+    {
+      "ide": "147219",
+      "date": "1949-04-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Adolescent in American Culture, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.04.03 Adolescence In American Culture.mp3",
+          "time": "1827",
+          "size": "7414539"
+        }
+      ]
+    },
+    {
+      "ide": "147220",
+      "date": "1949-04-10",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cancer Research Today"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.04.10 Cancer Research Today.mp3",
+          "time": "1607",
+          "size": "6537546"
+        }
+      ]
+    },
+    {
+      "ide": "324460",
+      "date": "1949-04-24",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Goethe And The Unity Of Mankind Today"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.04.24 Goethe And The Unity Of Mankind Today.mp3",
+          "time": "1720",
+          "size": "6988540"
+        }
+      ]
+    },
+    {
+      "ide": "324461",
+      "date": "1949-05-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Powerful Is Labor Leadership"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.05.08 How Powerful Is Labor Leadership.mp3",
+          "time": "1689",
+          "size": "6865759"
+        }
+      ]
+    },
+    {
+      "ide": "147221",
+      "date": "1949-05-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Democracy"
+        },
+        {
+          "title": "World Hope"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.05.15 Democracy World Hope.mp3",
+          "time": "1784",
+          "size": "7244836"
+        }
+      ]
+    },
+    {
+      "ide": "147222",
+      "date": "1949-05-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Must We Lose South China Too"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "324462",
+      "date": "1949-05-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "India After Gandhi"
+        }
+      ],
+      "files": [
+        {
+          "path": "U",
+          "folder": "University Of Chicago Roundtable",
+          "name": "University Of Chicago Roundtable 1949.05.29 India After Gandhi.mp3",
+          "time": "1667",
+          "size": "6776825"
+        }
+      ]
+    },
+    {
+      "ide": "147223",
+      "date": "1950-01-08",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rape of Culture, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147224",
+      "date": "1950-01-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Morals and Higher Education"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147225",
+      "date": "1950-01-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "What Choices Do We Have in China"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147226",
+      "date": "1950-05-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Coal Industry, The"
+        },
+        {
+          "title": "The Sick Industry"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147227",
+      "date": "1952-01-27",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fight Against Ignorance, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147228",
+      "date": "1952-02-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How Effective Is the North Atlantic Alliance"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147229",
+      "date": "1953-06-14",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Child in Today's Culture, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147230",
+      "date": "1953-06-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Is American Foreign Policy Obsolete"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147231",
+      "date": "1953-07-05",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Book Burning and Censorship"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147232",
+      "date": "1953-07-19",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "More Jobs for Senior Citizens"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147233",
+      "date": "1954-05-09",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Trial in the Hearing Room, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147234",
+      "date": "1955-05-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Language We Speak, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147235",
+      "date": "1955-05-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Desegregation, One Year Later"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147236",
+      "date": "1955-05-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Where Are Tomorrow's Scientists"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147237",
+      "date": "1955-05-29",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Return to Religion, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "147238",
+      "date": "1955-06-12",
+      "epnum": "",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Last Episode"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1933-10-15",
+      "dow": "Su",
+      "time": "12:00 PM",
+      "end": "1955-06-12",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "University of Chicago Round Table, The"
+    }
+  ]
+}

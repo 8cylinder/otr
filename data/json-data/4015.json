@@ -1,0 +1,346 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323044147-edb31838.jpg",
+      "label": "General Motors Symphony Concert",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1930s/19301931eve.html",
+      "label": "Evening Ratings: (1930-1931: #7)",
+      "idtype": "8"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/G Series/General Motors Hour/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [
+    {
+      "info": "Erno Rapee with a 70-piece symphony orchestra."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "48936",
+      "first": "Donald",
+      "last": "Voorhees",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "1636",
+      "first": "Jessica",
+      "last": "Dragonette",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "39538",
+      "first": "Olga",
+      "last": "Albani",
+      "f": "Noted Role",
+      "character": "Vocalist"
+    },
+    {
+      "idperson": "4803",
+      "first": "Arthur",
+      "last": "Pryor",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5419",
+      "first": "Nathaniel 'Nat'",
+      "last": "Shilkret",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "5547",
+      "first": "Cesare",
+      "last": "Sodero",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "40712",
+      "first": "Chic",
+      "last": "Sale",
+      "f": "Noted Role",
+      "character": "Humorist"
+    },
+    {
+      "idperson": "5894",
+      "first": "Ed",
+      "last": "Thorgerson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5908",
+      "first": "Lawrence",
+      "last": "Tibbett",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "5908",
+      "first": "Lawrence",
+      "last": "Tibbett",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "6241",
+      "first": "Joe",
+      "last": "Weber",
+      "f": "Noted Role",
+      "character": "Comedian"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Romeo and Juliet Overture"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "67628",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Elephant Walk"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "General Motors Hour",
+          "name": "General Motors Hour xx-xx-xx (003) Elephant Walk.mp3",
+          "time": "2225",
+          "size": "17798985"
+        }
+      ]
+    },
+    {
+      "ide": "67626",
+      "date": "0000-00-00",
+      "epnum": "406",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "End of the Affair"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "General Motors Hour",
+          "name": "General Motors Hour xx-xx-xx (406) End of the Affair.mp3",
+          "time": "3600",
+          "size": "28800484"
+        }
+      ]
+    },
+    {
+      "ide": "67625",
+      "date": "0000-00-00",
+      "epnum": "410",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Be Your Age"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "General Motors Hour",
+          "name": "General Motors Hour xx-xx-xx (410) Be Your Age.mp3",
+          "time": "3509",
+          "size": "28073536"
+        }
+      ]
+    },
+    {
+      "ide": "67624",
+      "date": "0000-00-00",
+      "epnum": "414",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Night Holds Terror, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "General Motors Hour",
+          "name": "General Motors Hour xx-xx-xx (414) The Night Holds Terror.mp3",
+          "time": "3369",
+          "size": "26954257"
+        }
+      ]
+    },
+    {
+      "ide": "67623",
+      "date": "0000-00-00",
+      "epnum": "418",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Marsha Akers"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "General Motors Hour",
+          "name": "General Motors Hour xx-xx-xx (418) Marsha Akers.mp3",
+          "time": "3623",
+          "size": "28988237"
+        }
+      ]
+    },
+    {
+      "ide": "67622",
+      "date": "0000-00-00",
+      "epnum": "420",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Invitation to Murder"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "General Motors Hour",
+          "name": "General Motors Hour xx-xx-xx (420) Invitation to Murder.mp3",
+          "time": "3481",
+          "size": "27846286"
+        }
+      ]
+    },
+    {
+      "ide": "67627",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Citadel, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "General Motors Hour",
+          "name": "General Motors Hour xx-xx-xx (008) The Citadel.mp3",
+          "time": "2145",
+          "size": "17163814"
+        }
+      ]
+    },
+    {
+      "ide": "322879",
+      "date": "1959-06-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Ghost Train"
+        }
+      ],
+      "files": [
+        {
+          "path": "G",
+          "folder": "General Motors Hour",
+          "name": "General Motors Hour 1959.06.18 The Ghost Train.mp3",
+          "time": "3076",
+          "size": "12413287"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Anthology Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1927-00-00",
+      "dow": "M",
+      "time": "9:30 PM",
+      "end": "1931-10-00",
+      "length": "60",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "General Motors",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "General Motors Concert, The"
+    },
+    {
+      "title": "General Motors Family Party"
+    },
+    {
+      "title": "General Motors Hour"
+    },
+    {
+      "title": "General Motors Program"
+    },
+    {
+      "title": "Family Party"
+    }
+  ]
+}

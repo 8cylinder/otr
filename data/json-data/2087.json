@@ -1,0 +1,119 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "307870",
+      "date": "1947-05-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christ Way To Fulness Of Life"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Church Of The Air",
+          "name": "Church of The Air 470525 Christ Way To Fullness of Life_OTRRPG.mp3",
+          "time": "894",
+          "size": "14377822"
+        },
+        {
+          "path": "C",
+          "folder": "Church Of The Air",
+          "name": "Church of the Air 5-25-47 Christ Way To Fulness Of Life.mp3",
+          "time": "893",
+          "size": "7144869"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1931-09-13",
+      "dow": "Su",
+      "time": "10:00 AM",
+      "end": "1947-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1931-09-13",
+      "dow": "Su",
+      "time": "1:00 PM",
+      "end": "1947-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1947-00-00",
+      "dow": "Su",
+      "time": "10:00 AM",
+      "end": "1956-00-00",
+      "length": "60",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Church Of The Air"
+    },
+    {
+      "title": "CBS Church of the Air"
+    },
+    {
+      "title": "CBS Church Of The Air"
+    }
+  ]
+}

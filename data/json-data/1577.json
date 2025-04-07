@@ -1,0 +1,140 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1519",
+      "first": "Clark",
+      "last": "Dennis",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "24022",
+      "first": "The",
+      "last": "Honeydreamers",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "42385",
+      "first": "Bob",
+      "last": "Smith",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "46081",
+      "first": "Bobbie",
+      "last": "Nicholson",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "2659",
+      "first": "Skitch",
+      "last": "Henderson",
+      "f": "Noted Role",
+      "character": "Co-host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311087",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Donald Duck"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Bob Smith Show xx-xx-xx Guest - Donald Duck.mp3",
+          "time": "1471",
+          "size": "11767639"
+        }
+      ]
+    },
+    {
+      "ide": "245945",
+      "date": "1947-08-25",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Bob Smith Show - Guest - Donald Duck"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bob Smith Show",
+          "name": "Bob Smith Show 470825 Guest - Donald Duck.mp3",
+          "time": "1561",
+          "size": "25056987"
+        },
+        {
+          "path": "B",
+          "folder": "Bob Smith Show",
+          "name": "Bob Smith Show 470825 xxx Guest - Donald Duck_OTRRPG.mp3",
+          "time": "1469",
+          "size": "23578949"
+        },
+        {
+          "path": "B",
+          "folder": "Bob Smith Show",
+          "name": "Bob Smith Show, The 47-08-25 Guest - Donald Duck.mp3",
+          "time": "1562",
+          "size": "24986689"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Bob Smith Show, The"
+    }
+  ]
+}

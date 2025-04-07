@@ -1,0 +1,159 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Say It With Music/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3185",
+      "first": "Alan",
+      "last": "Kent",
+      "f": "Noted Role",
+      "character": "Co-Creator"
+    },
+    {
+      "idperson": "48093",
+      "first": "Croom",
+      "last": "Johnson",
+      "f": "Noted Role",
+      "character": "Co-creator"
+    },
+    {
+      "idperson": "3565",
+      "first": "Art",
+      "last": "Linkletter",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "319991",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Music of Jerome Kern (AFRS #3)(c)"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Say It With Music",
+          "name": "Say it With Music-19xx-xx-xx_xxxx_Music of Jerome Kern (AFRS #3)(c).mp3",
+          "time": "1809",
+          "size": "21710758"
+        }
+      ]
+    },
+    {
+      "ide": "314881",
+      "date": "1951-03-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - There's Gonna Be A Great Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Say It With Music",
+          "name": "Say It With Music 510318 152 1st Song - There's Gonna Be A Great Day_OTRRPG.mp3",
+          "time": "835",
+          "size": "13376275"
+        },
+        {
+          "path": "S",
+          "folder": "Say It With Music",
+          "name": "Say It With Music 51-03-xx (152) First Song - There's Gonna Be a Great Day.mp3",
+          "time": "835",
+          "size": "6683273"
+        }
+      ]
+    },
+    {
+      "ide": "314882",
+      "date": "1951-03-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Singing In The Rain"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Say It With Music",
+          "name": "Say It With Music 510318 153 1st Song - Singing In The Rain_OTRRPG.mp3",
+          "time": "877",
+          "size": "14046682"
+        },
+        {
+          "path": "S",
+          "folder": "Say It With Music",
+          "name": "Say It With Music 51-03-xx (153) First Song - Singing in the Rain.mp3",
+          "time": "877",
+          "size": "7013897"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1940-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1951-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Say It with Music"
+    }
+  ]
+}

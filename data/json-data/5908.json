@@ -1,0 +1,203 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "29091",
+      "first": "",
+      "last": "Mac McGuire and His Harmony Rangers",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "A MIdday show broadcast on the Mutual Network featuring Country Music by Mac Mcguire and his band the Harmony Rangers"
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "309738",
+      "date": "1945-02-01",
+      "epnum": "145",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - When My Sugar Walks Down The Street (128-48)"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Harmony Rangers",
+          "name": "Harmony Rangers 450201 #145 1st; 'When My Sugar Walks Down The Street' AFRS (128-48).Mp3",
+          "time": "1559",
+          "size": "25021780"
+        },
+        {
+          "path": "M",
+          "folder": "Mac McGuire",
+          "name": "Mac McGuire & His Harmony Rangers 450201 145 1st Song - When My Sugar Walks Down The Street (128-48)_OTRRPG.mp3",
+          "time": "1559",
+          "size": "24962774"
+        },
+        {
+          "path": "M",
+          "folder": "Mac McGuire",
+          "name": "Mac McGuire & His Harmony Rangers 450201 145 1st Song - When My Sugar Walks Down The Street (128-48).mp3",
+          "time": "1557",
+          "size": "18685611"
+        }
+      ]
+    },
+    {
+      "ide": "309739",
+      "date": "1951-11-22",
+      "epnum": "119",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - My Little Girl (128-48)"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Harmony Rangers",
+          "name": "Harmony Rangers 511122 #119 1st; 'My Little Girl' AFRS.mp3",
+          "time": "1511",
+          "size": "24257620"
+        },
+        {
+          "path": "M",
+          "folder": "Mac McGuire",
+          "name": "Mac McGuire & His Harmony Rangers 511122 xxx 1st Song - My Little Girl (128-48)_OTRRPG.mp3",
+          "time": "1512",
+          "size": "24198486"
+        },
+        {
+          "path": "M",
+          "folder": "Mac McGuire",
+          "name": "Mac McGuire & His Harmony Rangers 511122 xxx 1st Song - My Little Girl (128-48).mp3",
+          "time": "1509",
+          "size": "18113447"
+        },
+        {
+          "path": "H",
+          "folder": "Harmony Rangers",
+          "name": "Harmony Rangers 51-11-30 First Tune - My Little Girl.mp3",
+          "time": "1515",
+          "size": "12116818"
+        }
+      ]
+    },
+    {
+      "ide": "309740",
+      "date": "1951-12-23",
+      "epnum": "123",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Down Yonder (128-48)"
+        }
+      ],
+      "files": [
+        {
+          "path": "H",
+          "folder": "Harmony Rangers",
+          "name": "Harmony Rangers 511222 #123 1st; 'Down Yonder' AFRS.mp3",
+          "time": "1258",
+          "size": "20212948"
+        },
+        {
+          "path": "M",
+          "folder": "Mac McGuire",
+          "name": "Mac McGuire & His Harmony Rangers 511223 xxx 1st Song - Down Yonder (128-48)_OTRRPG.mp3",
+          "time": "1259",
+          "size": "20153814"
+        },
+        {
+          "path": "M",
+          "folder": "Mac McGuire",
+          "name": "Mac McGuire & His Harmony Rangers 511223 xxx 1st Song - Down Yonder (128-48).mp3",
+          "time": "1257",
+          "size": "15084233"
+        },
+        {
+          "path": "H",
+          "folder": "Harmony Rangers",
+          "name": "Harmony Rangers 51-11-23 First Tune - Down Yonder.mp3",
+          "time": "1260",
+          "size": "10079698"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1952-12-20",
+      "dow": "Sa",
+      "time": "4:30 PM",
+      "end": "1953-02-07",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Mac Mcguire Show"
+    },
+    {
+      "title": "Mac Mcguire & The Harmony Rangers"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/P Series/Pickard Family/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "880",
+      "first": "Walter T. 'Wally'",
+      "last": "Butterworth",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "18714",
+      "first": "The",
+      "last": "Pickard Family",
+      "f": "Noted Role",
+      "character": "vocals"
+    },
+    {
+      "idperson": "50745",
+      "first": "Thomas",
+      "last": "Breen",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "311192",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pickard Family(XERA) 39-xx-xx First Song - Walk The Streets of Glory"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Singles & Doubles - Pt 2",
+          "name": "Pickard Family(XERA) 39-xx-xx First Song - Walk The Streets of Glory.mp3",
+          "time": "1044",
+          "size": "8349569"
+        }
+      ]
+    },
+    {
+      "ide": "314460",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Walking On The Streets of Glory"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Pickard Family",
+          "name": "Pickard Family (XERA) 3908xx 1st Song - Walking On The Streets of Glory_OTRRPG.mp3",
+          "time": "946",
+          "size": "15219189"
+        },
+        {
+          "path": "P",
+          "folder": "Pickard Family",
+          "name": "Pickard Family (XERA) 39-xx-xx First Song - Walk The Streets of Glory.mp3",
+          "time": "1044",
+          "size": "8349569"
+        }
+      ]
+    },
+    {
+      "ide": "314461",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Walking On The Streets of Glory (2)"
+        }
+      ],
+      "files": [
+        {
+          "path": "P",
+          "folder": "Pickard Family",
+          "name": "Pickard Family (XERA) 3908xx 1st Song - Walking On The Streets of Glory (2)_OTRRPG.mp3",
+          "time": "1041",
+          "size": "16742422"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Country Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1928-00-00",
+      "dow": "F",
+      "time": "8:00 PM",
+      "end": "1929-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1929-00-00",
+      "dow": "Sa",
+      "time": "8:00 PM",
+      "end": "1930-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1930-00-00",
+      "dow": "Sa",
+      "time": "7:45 PM",
+      "end": "1931-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1931-00-00",
+      "dow": "Th",
+      "time": "8:30 PM",
+      "end": "1932-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1935-00-00",
+      "dow": "M,W,F",
+      "time": "9:00 PM",
+      "end": "1936-00-00",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Interwoven Socks",
+      "begin": "1928-00-00",
+      "end": "1929-00-00"
+    },
+    {
+      "sponsor": "Billiken Shoes",
+      "begin": "1929-00-00",
+      "end": "1931-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Pickard Family, The"
+    }
+  ]
+}

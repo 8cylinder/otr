@@ -1,0 +1,886 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/E Series/Eyes Aloft/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,932884,00.html",
+      "label": "1942-11-12: Spotter Glamor",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Eyes-Aloft.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Eyes-Aloft.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3459-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1985",
+      "first": "Henry",
+      "last": "Fonda",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "2977",
+      "first": "Gordon",
+      "last": "Jenkins",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "6322",
+      "first": "Gayne",
+      "last": "Whitman",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "6322",
+      "first": "Gayne",
+      "last": "Whitman",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "35778",
+      "first": "Robert L. 'Bob'",
+      "last": "Redd",
+      "f": "Director",
+      "character": ""
+    },
+    {
+      "idperson": "35778",
+      "first": "Robert L. 'Bob'",
+      "last": "Redd",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "39562",
+      "first": "Ben",
+      "last": "Alexander",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "4192",
+      "first": "Shirley",
+      "last": "Mitchell",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "5129",
+      "first": "Earle",
+      "last": "Ross",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Eyes Aloft was the result of an appeal by the Army to help bolster the Aircraft Warning System on the West Coast, where fear of a Japanese attack was widespread in the months following Pearl Harbor. - On the Air: The Encyclopedia of Old-Time Radio by John Dunning"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Eyes Aloft"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "56899",
+      "date": "1942-08-17",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Premiere"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-08-17 (01) Premiere.mp3",
+          "time": "1757",
+          "size": "7026521"
+        }
+      ]
+    },
+    {
+      "ide": "56900",
+      "date": "1942-08-24",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Henry Fonda"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-08-24 (02) Guest - Henry Fonda.mp3",
+          "time": "1777",
+          "size": "7108244"
+        }
+      ]
+    },
+    {
+      "ide": "56901",
+      "date": "1942-08-31",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56902",
+      "date": "1942-09-07",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "G Witman"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-09-07 (04) Gayne Whitman.mp3",
+          "time": "1721",
+          "size": "6883685"
+        }
+      ]
+    },
+    {
+      "ide": "56903",
+      "date": "1942-09-14",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56904",
+      "date": "1942-09-21",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56905",
+      "date": "1942-09-28",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56906",
+      "date": "1942-10-05",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ken Carpenter"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-10-05 (08) Ken Carpenter.mp3",
+          "time": "1762",
+          "size": "7048575"
+        }
+      ]
+    },
+    {
+      "ide": "56907",
+      "date": "1942-10-12",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Son Takes Over For Dad"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56908",
+      "date": "1942-10-19",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Give a Man a Bicycle"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-10-19 (10) Give a Man a Bicycle.mp3",
+          "time": "1742",
+          "size": "6967081"
+        }
+      ]
+    },
+    {
+      "ide": "56909",
+      "date": "1942-10-26",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tribute to Navy Day"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-10-26 (11) Tribute to Navy Day.mp3",
+          "time": "1760",
+          "size": "7041034"
+        }
+      ]
+    },
+    {
+      "ide": "56910",
+      "date": "1942-11-02",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tribute to U.S. Transportation Corps"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56911",
+      "date": "1942-11-09",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How a Filter Center Works"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-11-09 (13) How a Filter Center Works.mp3",
+          "time": "1791",
+          "size": "7163213"
+        }
+      ]
+    },
+    {
+      "ide": "56912",
+      "date": "1942-11-16",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gas Rationing News"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-11-16 (14) Gas Rationing News.mp3",
+          "time": "1463",
+          "size": "5852486"
+        }
+      ]
+    },
+    {
+      "ide": "56913",
+      "date": "1942-11-23",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Santa Maria Idea, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-11-23 (15) The Santa Maria Idea.mp3",
+          "time": "1742",
+          "size": "6966349"
+        }
+      ]
+    },
+    {
+      "ide": "56914",
+      "date": "1942-11-30",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dog Who Barks at Planes, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-11-30 (16) The Dog Who Barks at Planes.mp3",
+          "time": "1678",
+          "size": "6711192"
+        }
+      ]
+    },
+    {
+      "ide": "56915",
+      "date": "1942-12-07",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Special Pearl Harbor Memorial"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-12-07 (17) Special Pearl Harbor Memorial.mp3",
+          "time": "1760",
+          "size": "7039188"
+        }
+      ]
+    },
+    {
+      "ide": "56916",
+      "date": "1942-12-14",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Maisie and the Observer's Shack"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56917",
+      "date": "1942-12-21",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Christmas Week Special, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 42-12-21 (19) The Christmas Week Special.mp3",
+          "time": "1800",
+          "size": "14399236"
+        }
+      ]
+    },
+    {
+      "ide": "56918",
+      "date": "1942-12-28",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New Years Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "56919",
+      "date": "1943-01-04",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56920",
+      "date": "1943-01-11",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Why Do I Come Here"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 43-01-11 (22) Why Do I Come Here.mp3",
+          "time": "1753",
+          "size": "7014204"
+        }
+      ]
+    },
+    {
+      "ide": "56921",
+      "date": "1943-01-18",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Contest Winner"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 43-01-18 (23) Contest Winner.mp3",
+          "time": "1800",
+          "size": "7201654"
+        }
+      ]
+    },
+    {
+      "ide": "56922",
+      "date": "1943-01-25",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Great American Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 43-01-25 (24) Great American Story.mp3",
+          "time": "1768",
+          "size": "7071257"
+        }
+      ]
+    },
+    {
+      "ide": "56923",
+      "date": "1943-02-01",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Kingsmen"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 43-02-01 (25) Kingsmen.mp3",
+          "time": "1771",
+          "size": "7084829"
+        }
+      ]
+    },
+    {
+      "ide": "56924",
+      "date": "1943-02-08",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hollywood Men, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 43-02-08 (26) The Hollywood Men.mp3",
+          "time": "1747",
+          "size": "6988490"
+        }
+      ]
+    },
+    {
+      "ide": "56925",
+      "date": "1943-02-15",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Will WACs Take Over Ground Observer Corps"
+        }
+      ],
+      "files": [
+        {
+          "path": "E",
+          "folder": "Eyes Aloft",
+          "name": "Eyes Aloft 43-02-15 (27) Will WACs Take Over Ground Observer Corps.mp3",
+          "time": "1736",
+          "size": "6944637"
+        }
+      ]
+    },
+    {
+      "ide": "56926",
+      "date": "1943-02-22",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56927",
+      "date": "1943-03-01",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56928",
+      "date": "1943-03-08",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56929",
+      "date": "1943-03-15",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56930",
+      "date": "1943-03-22",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56931",
+      "date": "1943-03-29",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56932",
+      "date": "1943-04-05",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56933",
+      "date": "1943-04-12",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56934",
+      "date": "1943-04-19",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56935",
+      "date": "1943-04-26",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56936",
+      "date": "1943-05-03",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56937",
+      "date": "1943-05-10",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56938",
+      "date": "1943-05-17",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56939",
+      "date": "1943-05-24",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56940",
+      "date": "1943-05-31",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56941",
+      "date": "1943-06-07",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56942",
+      "date": "1943-06-14",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56943",
+      "date": "1943-06-21",
+      "epnum": "45",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56944",
+      "date": "1943-06-28",
+      "epnum": "46",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56945",
+      "date": "1943-07-05",
+      "epnum": "47",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56946",
+      "date": "1943-07-12",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56947",
+      "date": "1943-07-19",
+      "epnum": "49",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56948",
+      "date": "1943-07-26",
+      "epnum": "50",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56949",
+      "date": "1943-08-02",
+      "epnum": "51",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56950",
+      "date": "1943-08-09",
+      "epnum": "52",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56951",
+      "date": "1943-08-16",
+      "epnum": "53",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56952",
+      "date": "1943-08-23",
+      "epnum": "54",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56953",
+      "date": "1943-08-31",
+      "epnum": "55",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56954",
+      "date": "1943-09-06",
+      "epnum": "56",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56955",
+      "date": "1943-09-13",
+      "epnum": "57",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56956",
+      "date": "1943-09-20",
+      "epnum": "58",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56957",
+      "date": "1943-09-27",
+      "epnum": "59",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56958",
+      "date": "1943-10-04",
+      "epnum": "60",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "56959",
+      "date": "1943-10-11",
+      "epnum": "61",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    },
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1942-08-24",
+      "dow": "M",
+      "time": "6:30 PM",
+      "end": "1943-10-11",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Eyes Aloft"
+    }
+  ]
+}

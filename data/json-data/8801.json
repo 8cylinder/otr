@@ -1,0 +1,492 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064610-4a16d9e9.jpg",
+      "label": "Tenth Man, The CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064612-71a81fd0.jpg",
+      "label": "Tenth Man, The CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/24/20210324064615-66c6d27c.jpg",
+      "label": "Tenth Man, The CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_The_Tenth_Man_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-The-Tenth-Man.html",
+      "label": "Digital Deli Too",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8801-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-The-Tenth-Man.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_The_Tenth_Man_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "437",
+      "first": "Jackson",
+      "last": "Beck",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "466",
+      "first": "Ralph",
+      "last": "Bellamy",
+      "f": "Noted Role",
+      "character": "Narrator"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "141011",
+      "date": "1947-10-17",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Punishment Without Crime"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_47-10-17__01_Punishment_Without_Crime.mp3",
+          "time": "1017",
+          "size": "7120286"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 471017 01 Punishment Without Crime (40-44)_OTRRPG.mp3",
+          "time": "708",
+          "size": "7163639"
+        }
+      ]
+    },
+    {
+      "ide": "140603",
+      "date": "1947-10-31",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Silent Men, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_47-10-31__02_The_Silent_Men.mp3",
+          "time": "881",
+          "size": "7045590"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 471031 02 The Silent Men (32-44)_OTRRPG.mp3",
+          "time": "701",
+          "size": "7088943"
+        }
+      ]
+    },
+    {
+      "ide": "141012",
+      "date": "1947-11-07",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Child Is Father To The Man, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_47-11-07__03_The_Child_Is_Father_To_The_Man.mp3",
+          "time": "887",
+          "size": "7092149"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 471107 03 The Child Is Father To The Man (56-44)_OTRRPG.mp3",
+          "time": "882",
+          "size": "7135534"
+        }
+      ]
+    },
+    {
+      "ide": "141013",
+      "date": "1947-11-14",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Folks At Home, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_47-11-14__04_The_Old_Folks_At_Home.mp3",
+          "time": "746",
+          "size": "7459768"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 471114 04 The Old Folks At Home (40-44)_OTRRPG.mp3",
+          "time": "742",
+          "size": "7503153"
+        }
+      ]
+    },
+    {
+      "ide": "141014",
+      "date": "1947-11-21",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Which World For Susan"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_47-11-21__05_Which_World_For_Susan.mp3",
+          "time": "682",
+          "size": "6820268"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 471121 05 Which World For Susan (48-44)_OTRRPG.mp3",
+          "time": "848",
+          "size": "6863621"
+        }
+      ]
+    },
+    {
+      "ide": "141015",
+      "date": "1947-11-28",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Love Without Words"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_47-11-28__06_Love_Without_Words.mp3",
+          "time": "951",
+          "size": "6656758"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 471128 06 Love Without Words (32-44)_OTRRPG.mp3",
+          "time": "662",
+          "size": "6700111"
+        }
+      ]
+    },
+    {
+      "ide": "141016",
+      "date": "1947-12-05",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "On Wings Of Clay"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_47-12-05__07_On_Wings_Of_Clay.mp3",
+          "time": "855",
+          "size": "6843892"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 471205 07 On Wings of Clay (32-44)_OTRRPG.mp3",
+          "time": "851",
+          "size": "6887277"
+        }
+      ]
+    },
+    {
+      "ide": "141017",
+      "date": "1947-12-12",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out Of The Shadows"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_47-12-12__08_Out_Of_The_Shadows.mp3",
+          "time": "1170",
+          "size": "7020657"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 471212 08 Out of The Shadows (32-44)_OTRRPG.mp3",
+          "time": "699",
+          "size": "7064042"
+        }
+      ]
+    },
+    {
+      "ide": "141018",
+      "date": "1947-12-19",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Figs From Thistles"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_47-12-19__09_Figs_From_Thistles.mp3",
+          "time": "698",
+          "size": "6983076"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 471219 09 Figs From Thistles (32-44)_OTRRPG.mp3",
+          "time": "496",
+          "size": "7026461"
+        }
+      ]
+    },
+    {
+      "ide": "141019",
+      "date": "1947-12-26",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doctor Troubleshooter"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_47-12-26__10_Doctor_Troubleshooter.mp3",
+          "time": "987",
+          "size": "6910544"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 471226 10 Doctor Troubleshooter (48-44)_OTRRPG.mp3",
+          "time": "859",
+          "size": "6953896"
+        }
+      ]
+    },
+    {
+      "ide": "141020",
+      "date": "1948-01-02",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Tie That Binds, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_48-01-02__11_The_Tie_That_Binds.mp3",
+          "time": "877",
+          "size": "7014389"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 480102 11 The Tie That Binds (32-44)_OTRRPG.mp3",
+          "time": "872",
+          "size": "7057773"
+        }
+      ]
+    },
+    {
+      "ide": "140602",
+      "date": "1948-01-09",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Out Of Sight Out Of Mind"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_48-01-09__12_Out_Of_Sight_Out_Of_Mind.mp3",
+          "time": "693",
+          "size": "6931149"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 480109 12 Out of Sight Out of Mind (32-44)_OTRRPG.mp3",
+          "time": "693",
+          "size": "6940887"
+        }
+      ]
+    },
+    {
+      "ide": "141021",
+      "date": "1948-01-16",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lady And The Lawmakers, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_The_Tenth_Man_Singles",
+          "name": "The_Tenth_Man_48-01-16__13_The_Lady_And_The_Lawmakers.mp3",
+          "time": "858",
+          "size": "6866673"
+        },
+        {
+          "path": "T",
+          "folder": "Tenth Man",
+          "name": "Tenth Man 480116 13 The Lady And The Lawmakers (32-44)_OTRRPG.mp3",
+          "time": "854",
+          "size": "6910025"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1947-10-17",
+      "dow": "",
+      "time": "",
+      "end": "1948-01-08",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "National Mental Health Foundation",
+      "begin": "1947-10-17",
+      "end": "1948-01-09"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Tenth Man, The"
+    }
+  ]
+}

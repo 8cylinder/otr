@@ -1,0 +1,142 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,856820,00.html",
+      "label": "1951-05-07: Under the Gun",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,859114,00.html",
+      "label": "1950-12-25: Hear It Now",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "324475",
+      "date": "1952-12-21",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "With Morgan Beatty"
+        }
+      ],
+      "files": [
+        {
+          "path": "V",
+          "folder": "Voices And Events Of",
+          "name": "Voices And Events Of 1953 1952.12.21 With Morgan Beatty.mp3",
+          "time": "3483",
+          "size": "14040221"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1949-07-10",
+      "dow": "Su",
+      "time": "5:30 PM",
+      "end": "1949-09-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1950-04-02",
+      "dow": "Su",
+      "time": "5:00 PM",
+      "end": "1950-05-07",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1950-08-12",
+      "dow": "Sa",
+      "time": "7:00 PM",
+      "end": "1950-09-02",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Voices And Events"
+    }
+  ]
+}

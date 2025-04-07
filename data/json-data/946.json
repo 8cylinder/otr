@@ -1,0 +1,147 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/A Series/Art Of Living/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4626",
+      "first": "Norman Vincent",
+      "last": "Peale",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "Barcarolle'"
+    }
+  ],
+  "episodes": [
+    {
+      "ide": "24262",
+      "date": "1949-06-11",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Relax and Renew Joyous Power"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "24263",
+      "date": "1949-06-18",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "How To Overcome Obstacles - Norman Vincent Peale"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Art Of Living",
+          "name": "Art of Living 490618 xxx How To Overcome Obstacles - Norman Vincent Peale (192-44)_OTRRPG.mp3",
+          "time": "885",
+          "size": "21252512"
+        },
+        {
+          "path": "A",
+          "folder": "Art Of Living",
+          "name": "Art_of_Living_061849_How_to_overcome_obstacles_-_Norman_Vincent_Peale.mp3",
+          "time": "882",
+          "size": "7057993"
+        }
+      ]
+    },
+    {
+      "ide": "24264",
+      "date": "1949-06-25",
+      "epnum": "0",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The Formula For Eliminating Your Worries- Norman Vincent Peale"
+        }
+      ],
+      "files": [
+        {
+          "path": "A",
+          "folder": "Art Of Living",
+          "name": "Art of Living 490625 xxx The Formula For Eliminating Your Worries- Norman Vincent Peale (192-44)_OTRRPG.mp3",
+          "time": "890",
+          "size": "21377086"
+        },
+        {
+          "path": "A",
+          "folder": "Art Of Living",
+          "name": "Art_of_Living_062549_How_to_stop_your_worries_-_Norman_Vincent_Peale.mp3",
+          "time": "887",
+          "size": "7099385"
+        }
+      ]
+    },
+    {
+      "ide": "24265",
+      "date": "1949-07-02",
+      "epnum": "0",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "How To Keep From Being Irritated"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Nonfiction"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Art Of Living, The"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/W Series/Whats My Line/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "article",
+      "url": "www.otrr.org/FILES/Articles/Martin_Grams_Jr_Articles/Edgar_Bergen_And_Charlie_McCarthy_Show.htm",
+      "label": "The Edgar Bergen and Charlie McCarthy Show: An Episode Guide and Brief History by Martin Grams, Jr.",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-9497-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1396",
+      "first": "John Charles",
+      "last": "Daly",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "726",
+      "first": "Donald",
+      "last": "Briggs",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "1035",
+      "first": "Bennett",
+      "last": "Cerf",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "2033",
+      "first": "Arlene",
+      "last": "Francis",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "3205",
+      "first": "Dorothy",
+      "last": "Kilgallen",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "48065",
+      "first": "Hal",
+      "last": "Brock",
+      "f": "Noted Role",
+      "character": "Panelist"
+    },
+    {
+      "idperson": "6401",
+      "first": "Ward",
+      "last": "Wilson",
+      "f": "Noted Role",
+      "character": "Host - One of Many"
+    },
+    {
+      "idperson": "6401",
+      "first": "Ward",
+      "last": "Wilson",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "316070",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mystery Guest - Milton Berle"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whats My Line",
+          "name": "What's My Line 58xxxx xxx Mystery Guest - Milton Berle_OTRRPG.mp3",
+          "time": "1547",
+          "size": "24832249"
+        }
+      ]
+    },
+    {
+      "ide": "320946",
+      "date": "1958-01-01",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Nick Adams"
+        }
+      ],
+      "files": [
+        {
+          "path": "W",
+          "folder": "Whats My Line",
+          "name": "Whats My Line 58-xx-xx Guest - Nick Adams.mp3",
+          "time": "1549",
+          "size": "12398593"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Game Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1952-05-20",
+      "dow": "Tu",
+      "time": "10:00 PM",
+      "end": "1952-08-27",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1952-09-03",
+      "dow": "W",
+      "time": "9:30 PM",
+      "end": "1953-07-01",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Philip Morris and Company (Cigarettes)",
+      "begin": "1952-05-20",
+      "end": "1952-11-26"
+    },
+    {
+      "sponsor": "Jules Montenier",
+      "begin": "1952-12-03",
+      "end": "1953-07-01"
+    }
+  ],
+  "titles": [
+    {
+      "title": "What's My Line?"
+    },
+    {
+      "title": "Whats My Line"
+    }
+  ]
+}

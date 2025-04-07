@@ -1,0 +1,228 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/drwest_mg.html",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4499",
+      "first": "George",
+      "last": "Olsen",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5435",
+      "first": "Ethel",
+      "last": "Shutta",
+      "f": "Guest",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "53543",
+      "date": "1936-02-22",
+      "epnum": "1",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Joe Cook (This log was originally prepared by Martin Grams)"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53544",
+      "date": "1936-02-29",
+      "epnum": "2",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Kate Smith"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53545",
+      "date": "1936-03-07",
+      "epnum": "3",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Wallace Beery"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53546",
+      "date": "1936-03-14",
+      "epnum": "4",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest(s) - Tom Howard and George Sheldon"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53547",
+      "date": "1936-03-21",
+      "epnum": "5",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Lou Holtz"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53548",
+      "date": "1936-03-28",
+      "epnum": "6",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Doc Rockwell"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53549",
+      "date": "1936-04-04",
+      "epnum": "7",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Harry Richman"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53550",
+      "date": "1936-04-11",
+      "epnum": "8",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Joe Penner"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53551",
+      "date": "1936-04-18",
+      "epnum": "9",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Bill Robinson"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53552",
+      "date": "1936-04-25",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "53553",
+      "date": "1936-05-02",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest - Irvin S. Cobb"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53554",
+      "date": "1936-05-09",
+      "epnum": "12",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest(s) - Fred, Dorothy and Paul Stone"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "53555",
+      "date": "1936-05-16",
+      "epnum": "13",
+      "exists": "0",
+      "titles": [
+        {
+          "title": "Guest(s) - Joan Blondell and Burt Wheeler"
+        }
+      ],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Variety"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1936-02-22",
+      "dow": "Sa",
+      "time": "10:30 PM",
+      "end": "1936-05-16",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Dr. West's Celebrity Night"
+    },
+    {
+      "title": "Celebrity Night"
+    }
+  ]
+}

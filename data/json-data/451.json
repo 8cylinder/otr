@@ -1,0 +1,1772 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "-1",
+      "web": "www.otrr.org",
+      "dtpub": "",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "",
+      "author": ""
+    }
+  ],
+  "codes": [
+    {
+      "code": "AOHH"
+    }
+  ],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050014-2ff574fb.jpg",
+      "label": "Horatio Hornblower Jewel Case back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050027-e9dedcd2.jpg",
+      "label": "Horatio Hornblower Jewel Case Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323050031-893876a3.jpg",
+      "label": "Horatio Hornblower CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323051138-f7ef9eb4.jpg",
+      "label": "Horatio Hornblower CD Cover",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323051206-a93c8185.jpg",
+      "label": "Horatio Hornblower",
+      "idtype": "12"
+    },
+    {
+      "type": "wikipedia",
+      "url": "en.wikipedia.org/wiki/Horatio_Hornblower",
+      "label": "Wikipedia",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.enteringthemindseye.com/horatiohornblower.html",
+      "label": "Entering The Mind's Eye",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/otrlogs2/hornblow.log.txt",
+      "label": "Old Time Radio Program Logs By Frank Passage and Others",
+      "idtype": "5"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logh1012.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/H Series/Horatio Hornblower/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5952",
+      "first": "Harry Alan",
+      "last": "Towers",
+      "f": "Producer",
+      "character": ""
+    },
+    {
+      "idperson": "4903",
+      "first": "Michael",
+      "last": "Redgrave",
+      "f": "Noted Role",
+      "character": "Horatio Hornblower"
+    },
+    {
+      "idperson": "44762",
+      "first": "Sidney",
+      "last": "Torch",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "1099",
+      "idtype": "4",
+      "page": "2",
+      "article": "",
+      "url": "",
+      "date": "1970-01-01",
+      "source": "Misc/Don_Maris_Flyer_(01)_70.pdf",
+      "idpytype2": "4",
+      "title": "Don Maris Flyer (01) 1970",
+      "author": ""
+    },
+    {
+      "idprint": "1229",
+      "idtype": "4",
+      "page": "48",
+      "article": "",
+      "url": "",
+      "date": "2001-01-01",
+      "source": "NARA News/Nara News V29 01 Winter2001.pdf",
+      "idpytype2": "4",
+      "title": "NARA News - V(29) 01 Winter2001",
+      "author": ""
+    },
+    {
+      "idprint": "1508",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "2000-02-01",
+      "source": "Nostalgia Digest/NostalgiaDigest_V26_(02)FebMar00.pdf",
+      "idpytype2": "4",
+      "title": "NostalgiaDigest V26 (02)FebMar00",
+      "author": ""
+    },
+    {
+      "idprint": "1121",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1980-01-01",
+      "source": "Misc/Old_Radio_Warehouse_Catalog_(02).pdf",
+      "idpytype2": "4",
+      "title": "Old Radio Warehouse Catalog (02)",
+      "author": ""
+    },
+    {
+      "idprint": "1584",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "2003-10-01",
+      "source": "OTR Digest_1990s/OTRDigest_(103)Fall03.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (103) Fall 2003",
+      "author": ""
+    },
+    {
+      "idprint": "1585",
+      "idtype": "4",
+      "page": "11",
+      "article": "",
+      "url": "",
+      "date": "2004-10-01",
+      "source": "OTR Digest_1990s/OTRDigest_(107)Fall04.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (107) Fall 2004",
+      "author": ""
+    },
+    {
+      "idprint": "1649",
+      "idtype": "4",
+      "page": "12",
+      "article": "",
+      "url": "",
+      "date": "2001-07-01",
+      "source": "OTR Digest_1990s/OTRDigest_(098)Summer01.pdf",
+      "idpytype2": "4",
+      "title": "OTR Digest (98) Summer 2001",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2367",
+      "idtype": "4",
+      "page": "8",
+      "article": "",
+      "url": "",
+      "date": "1972-01-01",
+      "source": "Remember Radio/Remember_Radio_Catalog.pdf",
+      "idpytype2": "4",
+      "title": "Remember Radio Catalog",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "317306",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Horatio Hornblower Synopsis"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "01 Horatio Hornblower Synopsis.mp3",
+          "time": "79.54",
+          "size": "1209725"
+        }
+      ]
+    },
+    {
+      "ide": "317307",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Michael Redgrave"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "02 Michael Redgrave.mp3",
+          "time": "241",
+          "size": "3557840"
+        }
+      ]
+    },
+    {
+      "ide": "78289",
+      "date": "1952-07-07",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Horatio Deals with a Mad King"
+        },
+        {
+          "title": "Admiral Hornblower Leads a Fleet Against Denmark & Sweden"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-07-07 (01) Horatio Deals with a Mad King.mp3",
+          "time": "1317",
+          "size": "5268842"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 520707 001 Admiral Hornblower Leads a Fleet Against Denmark & Sweden (256-44).mp3",
+          "time": "1886",
+          "size": "60427730"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 520707 001 Admiral Hornblower Leads a Fleet Against Denmark & Sweden (cleaned).flac",
+          "time": "1886",
+          "size": "62701071"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-07-07 (01) Horatio Deals with a Mad King.mp3",
+          "time": "1317",
+          "size": "5268842"
+        }
+      ]
+    },
+    {
+      "ide": "78290",
+      "date": "1952-07-14",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Horatio Captures the Natividad"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-07-14 (02) Horatio Captures the Natividad.mp3",
+          "time": "1320",
+          "size": "5281590"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-07-14 (02) Horatio Captures the Natividad.mp3",
+          "time": "1320",
+          "size": "5281590"
+        }
+      ]
+    },
+    {
+      "ide": "78291",
+      "date": "1952-07-21",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Shaky Alliance with El Supremo"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-07-21 (03) Shaky Alliance with El Supremo.mp3",
+          "time": "1302",
+          "size": "5208290"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-07-21 (03) Shakey Alliance with El Supremo.mp3",
+          "time": "1302",
+          "size": "5207195"
+        }
+      ]
+    },
+    {
+      "ide": "78292",
+      "date": "1952-07-28",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Battle Against El Supremo"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-07-28 (04) Battle Against El Supremo.mp3",
+          "time": "1331",
+          "size": "5324008"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-07-28 (04) Battle Against El Supremo.mp3",
+          "time": "1331",
+          "size": "5324008"
+        }
+      ]
+    },
+    {
+      "ide": "78293",
+      "date": "1952-08-04",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Lydia Sinks the Natividad"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-08-04 (05) Lydia Sinks the Natividad.mp3",
+          "time": "1305",
+          "size": "5219100"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-08-04 (05) Lydia Sinks the Natividad.mp3",
+          "time": "1305",
+          "size": "5219100"
+        }
+      ]
+    },
+    {
+      "ide": "78294",
+      "date": "1952-08-11",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Damaged Lydia Heads for Panama"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-08-11 (06) Damaged Lydia Heads for Panama.mp3",
+          "time": "1295",
+          "size": "5179608"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-08-11 (06) Damaged Lydia Heads for Panama.mp3",
+          "time": "1295",
+          "size": "5179608"
+        }
+      ]
+    },
+    {
+      "ide": "78295",
+      "date": "1952-08-18",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Return to the Fleet"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-08-18 (07) Return to the Fleet.mp3",
+          "time": "1322",
+          "size": "5288267"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-08-18 (07) Return to the Fleet.mp3",
+          "time": "1322",
+          "size": "5288267"
+        }
+      ]
+    },
+    {
+      "ide": "78296",
+      "date": "1952-08-25",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Return to the Sea"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-08-25 (08) Return to the Sea.mp3",
+          "time": "1308",
+          "size": "5232885"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-08-25 (08) Return to the Sea.mp3",
+          "time": "1308",
+          "size": "5232885"
+        }
+      ]
+    },
+    {
+      "ide": "78297",
+      "date": "1952-09-01",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Protecting the Convoy"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-09-01 (09) Protecting the Convoy.mp3",
+          "time": "1294",
+          "size": "5175211"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-09-01 (09) Protecting the Convoy.mp3",
+          "time": "1294",
+          "size": "5175211"
+        }
+      ]
+    },
+    {
+      "ide": "78298",
+      "date": "1952-09-08",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Disguised as a French Ship"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-09-08 (10) Disguised as a French Ship.mp3",
+          "time": "1308",
+          "size": "5233313"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-09-08 (10) Disguised as a French Ship.mp3",
+          "time": "1308",
+          "size": "5233313"
+        }
+      ]
+    },
+    {
+      "ide": "78299",
+      "date": "1952-10-03",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guerrilla Action"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-10-03 (11) Guerrilla Action.mp3",
+          "time": "1312",
+          "size": "5251298"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-10-03 (11) Guerilla Action.mp3",
+          "time": "1312",
+          "size": "5249393"
+        }
+      ]
+    },
+    {
+      "ide": "78300",
+      "date": "1952-10-10",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spanish Fail to Attack"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-10-10 (12) Spanish Fail to Attack.mp3",
+          "time": "1343",
+          "size": "5375953"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-10-10 (12) Spanish Fail to Attact.mp3",
+          "time": "1343",
+          "size": "5373534"
+        }
+      ]
+    },
+    {
+      "ide": "78301",
+      "date": "1952-10-17",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Takes on the French Fleet"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-10-17 (13) Takes on the French Fleet.mp3",
+          "time": "1352",
+          "size": "5406974"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-10-17 (13) Takes on the French Fleet.mp3",
+          "time": "1352",
+          "size": "5406974"
+        }
+      ]
+    },
+    {
+      "ide": "78302",
+      "date": "1952-10-24",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mutiny on the Flame"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-10-24 (14) Mutiny on the Flame.mp3",
+          "time": "1338",
+          "size": "5350544"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-10-24 (14) Mutiny on the Flame.mp3",
+          "time": "1338",
+          "size": "5350544"
+        }
+      ]
+    },
+    {
+      "ide": "78303",
+      "date": "1952-10-31",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Disguised as the Flame"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-10-31 (15) Disguised as the Flame.mp3",
+          "time": "1308",
+          "size": "5232682"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-10-31 (15) Disguised as the Flame.mp3",
+          "time": "1308",
+          "size": "5232682"
+        }
+      ]
+    },
+    {
+      "ide": "78304",
+      "date": "1952-11-07",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Courtmartial of Berry McCool, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-11-07 (16) The Court Martial of Berry McCool.mp3",
+          "time": "1310",
+          "size": "5240654"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-11-07 (16) The Courtmartial of Berry McCool.mp3",
+          "time": "1309",
+          "size": "5238126"
+        }
+      ]
+    },
+    {
+      "ide": "78305",
+      "date": "1952-11-14",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Capture of Le Havre, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-11-14 (17) The Capture of Le Havre.mp3",
+          "time": "1345",
+          "size": "5384418"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-11-14 (17) The Capture of Le Harve.mp3",
+          "time": "1345",
+          "size": "5381874"
+        }
+      ]
+    },
+    {
+      "ide": "78306",
+      "date": "1952-11-21",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Acting Governor of Le Havre"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-11-21 (18) Acting Governor of Le Havre.mp3",
+          "time": "1304",
+          "size": "5216512"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-11-21 (18) Acting Governor of Le Harve.mp3",
+          "time": "1303",
+          "size": "5214088"
+        }
+      ]
+    },
+    {
+      "ide": "78307",
+      "date": "1952-11-28",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Barbara Joins Horatio"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-11-28 (19) Barbara Joins Horatio.mp3",
+          "time": "1264",
+          "size": "5056929"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-11-28 (19) Barbara Joins Horatio.mp3",
+          "time": "1264",
+          "size": "5056929"
+        }
+      ]
+    },
+    {
+      "ide": "78308",
+      "date": "1952-12-05",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Napoleon Returns"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-12-05 (20) Napoleon Returns.mp3",
+          "time": "1312",
+          "size": "5248767"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-12-05 (20) Napoleon Returns.mp3",
+          "time": "1312",
+          "size": "5248767"
+        }
+      ]
+    },
+    {
+      "ide": "78309",
+      "date": "1952-12-12",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Napoleon Is Defeated"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-12-12 (21) Napoleon Is Defeated.mp3",
+          "time": "1170",
+          "size": "4681392"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-12-12 (21) Napoleon Is Defeated.mp3",
+          "time": "1170",
+          "size": "4681392"
+        }
+      ]
+    },
+    {
+      "ide": "78310",
+      "date": "1952-12-19",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prisoner in 1811, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-12-19 (22) A Prisoner in 1811.mp3",
+          "time": "1284",
+          "size": "5135503"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-12-19 (22) A Prisoner in 1811.mp3",
+          "time": "1284",
+          "size": "5135503"
+        }
+      ]
+    },
+    {
+      "ide": "78311",
+      "date": "1952-12-26",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Horatio Meets Marie and Escapes"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 52-12-26 (23) Horatio Meets Marie and Escapes.mp3",
+          "time": "1274",
+          "size": "5096227"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 52-12-26 (23) Horatio Meets Marie and Escapes.mp3",
+          "time": "1274",
+          "size": "5096227"
+        }
+      ]
+    },
+    {
+      "ide": "78312",
+      "date": "1953-01-02",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Horatio Captures a Ship"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-01-02 (24) Horatio Captures a Ship.mp3",
+          "time": "1278",
+          "size": "5111893"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-01-02 (24) Horatio Captures a Ship.mp3",
+          "time": "1278",
+          "size": "5111893"
+        }
+      ]
+    },
+    {
+      "ide": "78313",
+      "date": "1953-01-09",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rejoining the Fleet"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-01-09 (25) Rejoining the Fleet.mp3",
+          "time": "1156",
+          "size": "4623086"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-01-09 (25) Rejoining the Fleet.mp3",
+          "time": "1156",
+          "size": "4623086"
+        }
+      ]
+    },
+    {
+      "ide": "78314",
+      "date": "1953-01-16",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Horatio Is Court Martialed"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-01-16 (26) Horatio Is Court Martialed.mp3",
+          "time": "1130",
+          "size": "4520275"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-01-16 (26) Horatio Is Court Martialed.mp3",
+          "time": "1130",
+          "size": "4520275"
+        }
+      ]
+    },
+    {
+      "ide": "78315",
+      "date": "1953-01-23",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Into the Baltic"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-01-23 (27) Into the Baltic.mp3",
+          "time": "1665",
+          "size": "6661677"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-01-23 (27) Into the Baltic.mp3",
+          "time": "1665",
+          "size": "6661677"
+        }
+      ]
+    },
+    {
+      "ide": "78316",
+      "date": "1953-01-30",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chasing the Blanche Fleur"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-01-30 (28) Chasing the Blanche Fleur.mp3",
+          "time": "1666",
+          "size": "6664418"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-01-30 (28) Chasing the Blanche Fluer.mp3",
+          "time": "1666",
+          "size": "6662712"
+        }
+      ]
+    },
+    {
+      "ide": "78317",
+      "date": "1953-02-06",
+      "epnum": "29",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alliance with Russia"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-02-06 (29) Alliance with Russia.mp3",
+          "time": "1282",
+          "size": "5129444"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-02-06 (29) Alliance with Russia.mp3",
+          "time": "1282",
+          "size": "5129444"
+        }
+      ]
+    },
+    {
+      "ide": "78318",
+      "date": "1953-02-13",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Reception with the Czar"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-02-13 (30) Reception with the Czar.mp3",
+          "time": "1258",
+          "size": "5031854"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-02-13 (30) Reception with the Czar.mp3",
+          "time": "1258",
+          "size": "5031854"
+        }
+      ]
+    },
+    {
+      "ide": "78319",
+      "date": "1953-02-20",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Attack on Fort at Fisher's Half"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-02-20 (31) Attack on Fort at Fisher's Half.mp3",
+          "time": "1279",
+          "size": "5114618"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-02-20 (31) Attack on Fort at Fisher's Half.mp3",
+          "time": "1279",
+          "size": "5114618"
+        }
+      ]
+    },
+    {
+      "ide": "78320",
+      "date": "1953-02-27",
+      "epnum": "32",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Port of Riga"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-02-27 (32) Port of Riga.mp3",
+          "time": "1285",
+          "size": "5141766"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-02-27 (32) Port of Riga.mp3",
+          "time": "1285",
+          "size": "5141766"
+        }
+      ]
+    },
+    {
+      "ide": "78321",
+      "date": "1953-03-06",
+      "epnum": "33",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Delaying the French"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-03-06 (33) Delaying the French.mp3",
+          "time": "1234",
+          "size": "4935928"
+        }
+      ]
+    },
+    {
+      "ide": "78322",
+      "date": "1953-03-13",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "French Are Stopped, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-03-13 (34) The French Are Stopped.mp3",
+          "time": "1142",
+          "size": "4568963"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-03-13 (34) The French Are Stopped.mp3",
+          "time": "1142",
+          "size": "4568963"
+        }
+      ]
+    },
+    {
+      "ide": "78323",
+      "date": "1953-03-20",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Duel, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-03-20 (35) The Duel.mp3",
+          "time": "1277",
+          "size": "5107907"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-03-20 (35) The Duel.mp3",
+          "time": "1277",
+          "size": "5107907"
+        }
+      ]
+    },
+    {
+      "ide": "78324",
+      "date": "1953-03-27",
+      "epnum": "36",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spanish Leave Napoleon, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-03-27 (36) The Spanish Leave Napoleon.mp3",
+          "time": "1247",
+          "size": "4987344"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-03-27 (36) The Spanish Leave Napoleon.mp3",
+          "time": "1247",
+          "size": "4987344"
+        }
+      ]
+    },
+    {
+      "ide": "78325",
+      "date": "1953-04-03",
+      "epnum": "37",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Hornblower's First Command"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-04-03 (37) Hornblower's First Command.mp3",
+          "time": "1189",
+          "size": "4755168"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-04-03 (37) Hornblower's First Command.mp3",
+          "time": "1189",
+          "size": "4755168"
+        }
+      ]
+    },
+    {
+      "ide": "78326",
+      "date": "1953-04-10",
+      "epnum": "38",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prisoner of the French on the 'Peek'"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-04-10 (38) Prisoner of the French on the 'Peek'.mp3",
+          "time": "1196",
+          "size": "4784435"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-04-10 (38) Prisoner of the French on the 'peek'.mp3",
+          "time": "1196",
+          "size": "4784435"
+        }
+      ]
+    },
+    {
+      "ide": "78327",
+      "date": "1953-04-17",
+      "epnum": "39",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "With the 43rd Marines"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-04-17 (39) With the 43rd Marines.mp3",
+          "time": "1286",
+          "size": "5143029"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-04-17 (39) With the 43rd Marines.mp3",
+          "time": "1286",
+          "size": "5143029"
+        }
+      ]
+    },
+    {
+      "ide": "78328",
+      "date": "1953-04-24",
+      "epnum": "40",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Spain Becomes Neutral"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-04-24 (40) Spain Becomes Neutral.mp3",
+          "time": "1268",
+          "size": "5071767"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-04-24 (40) Spain Becomes Neutral.mp3",
+          "time": "1268",
+          "size": "5071767"
+        }
+      ]
+    },
+    {
+      "ide": "78329",
+      "date": "1953-05-01",
+      "epnum": "41",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Exam for Lieutenant"
+        },
+        {
+          "title": "Disquised as the Brig Flame"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-05-01 (41) Exam for Lieutenant.mp3",
+          "time": "1767",
+          "size": "7067102"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-05-01 (41) Exam for Lieutenant.mp3",
+          "time": "1767",
+          "size": "7067102"
+        }
+      ]
+    },
+    {
+      "ide": "78330",
+      "date": "1953-05-08",
+      "epnum": "42",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Quarantined for the Plague"
+        },
+        {
+          "title": "The Barry McCool Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-05-08 (42) Quarantined for the Plague.mp3",
+          "time": "1268",
+          "size": "5073122"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-05-08 (42) Quartined for the Plague.mp3",
+          "time": "1268",
+          "size": "5071770"
+        }
+      ]
+    },
+    {
+      "ide": "78331",
+      "date": "1953-05-15",
+      "epnum": "43",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Chasing the Papillion"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-05-15 (43) Chasing the Papillion.mp3",
+          "time": "1265",
+          "size": "5061318"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-05-15 (43) Chasing the Papillion.mp3",
+          "time": "1265",
+          "size": "5061318"
+        }
+      ]
+    },
+    {
+      "ide": "78332",
+      "date": "1953-05-22",
+      "epnum": "44",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Command of the La Mouche"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-05-22 (44) Command of the La Mouche.mp3",
+          "time": "1252",
+          "size": "5009634"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-05-22 (44) Command of the La Mouch.mp3",
+          "time": "1252",
+          "size": "5007403"
+        }
+      ]
+    },
+    {
+      "ide": "78333",
+      "date": "1953-05-29",
+      "epnum": "45",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prisoner and Rescue of Spanish"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-05-29 (45) Prisoner and Rescue of Spanish.mp3",
+          "time": "1288",
+          "size": "5153069"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-05-29 (45) Prisoner and Rescue of Spanish.mp3",
+          "time": "1288",
+          "size": "5153069"
+        }
+      ]
+    },
+    {
+      "ide": "78334",
+      "date": "1953-06-05",
+      "epnum": "46",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Meeting with Bush"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-06-05 (46) First Meeting with Bush.mp3",
+          "time": "1218",
+          "size": "4874283"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-06-05 (46) First Meeting with Bush.mp3",
+          "time": "1218",
+          "size": "4874283"
+        }
+      ]
+    },
+    {
+      "ide": "78335",
+      "date": "1953-06-12",
+      "epnum": "47",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Planning Mutiny on the Renown"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-06-12 (47) Planning Mutiny on the Renown.mp3",
+          "time": "1258",
+          "size": "5032162"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-06-12 (47) Planning Mutiny on the Renoun.mp3",
+          "time": "1257",
+          "size": "5030188"
+        }
+      ]
+    },
+    {
+      "ide": "78336",
+      "date": "1953-06-19",
+      "epnum": "48",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Attact on Haiti Fails"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-06-19 (48) First Attact on Haiti Fails.mp3",
+          "time": "1257",
+          "size": "5027260"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-06-19 (48) First Attact on Haiti Fails.mp3",
+          "time": "1257",
+          "size": "5027260"
+        }
+      ]
+    },
+    {
+      "ide": "78337",
+      "date": "1953-06-26",
+      "epnum": "49",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Attack on Haitian Fort"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-06-26 (49) Attack on Haitian Fort.mp3",
+          "time": "1276",
+          "size": "5105890"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-06-26 (49) Attact on Haiti Fort.mp3",
+          "time": "1276",
+          "size": "5105674"
+        }
+      ]
+    },
+    {
+      "ide": "78338",
+      "date": "1953-07-03",
+      "epnum": "50",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Yellow Fever"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-07-03 (50) Yellow Fever.mp3",
+          "time": "1286",
+          "size": "5145528"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-07-03 (50) Yellow Fever.mp3",
+          "time": "1286",
+          "size": "5145528"
+        }
+      ]
+    },
+    {
+      "ide": "78339",
+      "date": "1953-07-10",
+      "epnum": "51",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fighting the Spanish on the Renown"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-07-10 (51) Fighting the Spanish on the Renown.mp3",
+          "time": "1260",
+          "size": "5040354"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-07-10 (51) Fighting the Spanish on the Renoun.mp3",
+          "time": "1260",
+          "size": "5039597"
+        }
+      ]
+    },
+    {
+      "ide": "78340",
+      "date": "1953-07-17",
+      "epnum": "52",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Promoted to Captain of the Retribution"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Horatio_Hornblower_Singles",
+          "name": "Horatio Hornblower 53-07-17 (52) Promoted to Captain of the Retribution.mp3",
+          "time": "1825",
+          "size": "7298461"
+        },
+        {
+          "path": "H",
+          "folder": "Horatio Hornblower",
+          "name": "Horatio Hornblower 53-07-17 (52) Promoted to Captain of the Retribution.mp3",
+          "time": "1825",
+          "size": "7298461"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Action"
+    },
+    {
+      "genre": "Adventure"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1952-00-03",
+      "dow": "F",
+      "time": "9:00 PM",
+      "end": "1952-00-31",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1952-07-07",
+      "dow": "M",
+      "time": "8:00 PM",
+      "end": "1952-09-08",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1952-11-07",
+      "dow": "F",
+      "time": "9:30 PM",
+      "end": "1952-12-12",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1954-01-22",
+      "dow": "Th",
+      "time": "9:30 PM",
+      "end": "1954-03-26",
+      "length": "30",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1957-03-06",
+      "dow": "W",
+      "time": "8:30 PM",
+      "end": "1957-05-22",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventures of Horatio Hornblower, The"
+    },
+    {
+      "title": "Horatio Hornblower, The Adventures Of"
+    },
+    {
+      "title": "Adventures Of Horatio Hornblower, The**"
+    }
+  ]
+}

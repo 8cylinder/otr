@@ -1,0 +1,212 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "11374",
+      "first": "Red",
+      "last": "Barber",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5201",
+      "first": "Babe",
+      "last": "Ruth",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "11374",
+      "first": "Red",
+      "last": "Barber",
+      "f": "Noted Role",
+      "character": "Sportscaster"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314721",
+      "date": "1947-04-15",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Opening Day For The Baseball Season"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Barber Show",
+          "name": "Red Barber Show 470415 xxx Opening Day For The Baseball Season_OTRRPG.mp3",
+          "time": "834",
+          "size": "13427991"
+        }
+      ]
+    },
+    {
+      "ide": "310570",
+      "date": "1947-08-12",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest Babe Ruth"
+        }
+      ],
+      "files": [
+        {
+          "path": "R",
+          "folder": "Red Barber Show",
+          "name": "Red Barber Show 47-08-12 Guest - Babe Ruth.mp3",
+          "time": "884",
+          "size": "7074585"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Interview"
+    },
+    {
+      "genre": "Sports"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1940-04-19",
+      "dow": "F",
+      "time": "9:15 PM",
+      "end": "1940-05-24",
+      "length": "15",
+      "country": "USA",
+      "network": "Mutual"
+    },
+    {
+      "begin": "1946-09-23",
+      "dow": "M,Tu,W,Th,F",
+      "time": "6:30 PM",
+      "end": "1948-01-02",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1948-12-18",
+      "dow": "Sa",
+      "time": "5:30 PM",
+      "end": "1949-03-05",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "0000-00-00",
+      "dow": "Sa",
+      "time": "",
+      "end": "1950-02-18",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1946-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1950-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-10-22",
+      "dow": "M,W,F",
+      "time": "7:30 PM",
+      "end": "1946-03-01",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Wm. Denouth and Co.",
+      "begin": "1940-04-19",
+      "end": "1940-05-24"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Red Barber"
+    },
+    {
+      "title": "Catbird Seat"
+    },
+    {
+      "title": "Red Barber - On Sports"
+    },
+    {
+      "title": "Red Barber Show"
+    },
+    {
+      "title": "Red Barber's Star Review"
+    }
+  ]
+}

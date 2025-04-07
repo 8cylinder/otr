@@ -1,0 +1,179 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/L Series/Let",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4208",
+      "first": "Vaughn",
+      "last": "Monroe",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313961",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Love and Affection"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go With Music",
+          "name": "Let's Go With Music xxxxxx 01 1st Song - Love and Affection_OTRRPG.mp3",
+          "time": "892",
+          "size": "14289128"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go With Music",
+          "name": "Let's Go With Music xxxxxx 01 First Song - Love and Affection.mp3",
+          "time": "888",
+          "size": "14221312"
+        }
+      ]
+    },
+    {
+      "ide": "313962",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - This Is My Song"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go With Music",
+          "name": "Let's Go With Music xxxxxx 02 1st Song - This Is My Song_OTRRPG.mp3",
+          "time": "896",
+          "size": "14350565"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go With Music",
+          "name": "Let's Go With Music xxxxxx 02 First Song - This Is My Song.mp3",
+          "time": "192",
+          "size": "3080192"
+        }
+      ]
+    },
+    {
+      "ide": "313963",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Vaya Con Dios"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go With Music",
+          "name": "Let's Go With Music xxxxxx 05 1st Song - Vaya Con Dios_OTRRPG.mp3",
+          "time": "903",
+          "size": "14462158"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go With Music",
+          "name": "Let's Go With Music xx-xx-xx (05) First Song -.mp3",
+          "time": "900",
+          "size": "7202872"
+        }
+      ]
+    },
+    {
+      "ide": "313964",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song - Please Don't Talk About Me When I'm Gone"
+        }
+      ],
+      "files": [
+        {
+          "path": "L",
+          "folder": "Let's Go With Music",
+          "name": "Let's Go With Music xxxxxx 06 1st Song - Please Don't Talk About Me When I'm Gone_OTRRPG.mp3",
+          "time": "881",
+          "size": "14108592"
+        },
+        {
+          "path": "L",
+          "folder": "Let's Go With Music",
+          "name": "Let's Go With Music xx-xx-xx (06) First Song -.mp3",
+          "time": "878",
+          "size": "7025864"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [],
+  "sponsors": [
+    {
+      "sponsor": "National Guard",
+      "begin": "0000-00-00",
+      "end": "0000-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Let's Go with Music"
+    }
+  ]
+}

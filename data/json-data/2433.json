@@ -1,0 +1,235 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3387",
+      "first": "Frances",
+      "last": "Langford",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "4075",
+      "first": "Martha",
+      "last": "Mears",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "4437",
+      "first": "Donald",
+      "last": "Novis",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "4437",
+      "first": "Donald",
+      "last": "Novis",
+      "f": "Guest",
+      "character": ""
+    },
+    {
+      "idperson": "5869",
+      "first": "Conrad",
+      "last": "Thibault",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "48936",
+      "first": "Donald",
+      "last": "Voorhees",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "50720",
+      "first": "Eddie",
+      "last": "Wragge",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "313047",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "My Old Blackie"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Colgate House Party",
+          "name": "Colgate House Party xxxxxx My Old Blackie (commercial record) (64-44).mp3",
+          "time": "142",
+          "size": "1212150"
+        }
+      ]
+    },
+    {
+      "ide": "313048",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "When I Come To The End Of The Trail"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Colgate House Party",
+          "name": "Colgate House Party xxxxxx When I Come To The End of The Trail (commercial record) (64-44).mp3",
+          "time": "150",
+          "size": "1272054"
+        }
+      ]
+    },
+    {
+      "ide": "313043",
+      "date": "1934-09-24",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st- 'I Idolize My Baby's Eyes'. Fishing Story"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Colgate House Party",
+          "name": "Colgate House Party 340924 13 1st- 'I Idolize My Baby's Eyes'. Fishing Story (64-44).mp3",
+          "time": "1785",
+          "size": "14357334"
+        }
+      ]
+    },
+    {
+      "ide": "313044",
+      "date": "1934-10-01",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st- 'Blue Room'. Lawyer Joe Cook"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Colgate House Party",
+          "name": "Colgate House Party 341001 14 1st- 'Blue Room'. Lawyer Joe Cook NOISY (64-44).mp3",
+          "time": "1770",
+          "size": "14231910"
+        }
+      ]
+    },
+    {
+      "ide": "313045",
+      "date": "1934-10-08",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st- 'She's Just a Wild, Wild Rose'. Training for the Football Season"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Colgate House Party",
+          "name": "Colgate House Party 341008 15 1st- 'She's Just a Wild, Wild Rose'. Training for the Football Season NOISY (64-44).mp3",
+          "time": "1745",
+          "size": "14033686"
+        }
+      ]
+    },
+    {
+      "ide": "313046",
+      "date": "1934-10-15",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st- 'Oh Gee, Oh Joy' Revolving Doors"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Colgate House Party",
+          "name": "Colgate House Party 341015 16 1st- 'Oh Gee, Oh Joy' Revolving Doors (64-44).mp3",
+          "time": "1760",
+          "size": "14154326"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1934-03-03",
+      "dow": "Sa",
+      "time": "9:00 PM",
+      "end": "1934-06-23",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1934-07-02",
+      "dow": "M",
+      "time": "9:30 PM",
+      "end": "1935-02-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Colgate House Party"
+    }
+  ]
+}

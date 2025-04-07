@@ -1,0 +1,114 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4658",
+      "first": "Ray",
+      "last": "Perkins",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Songs"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1930-00-00",
+      "dow": "F",
+      "time": "10:00 AM",
+      "end": "1931-12-25",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1931-08-31",
+      "dow": "M,W,F",
+      "time": "",
+      "end": "1931-08-14",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC"
+    },
+    {
+      "begin": "1931-12-08",
+      "dow": "Tu,Sa",
+      "time": "",
+      "end": "1932-05-31",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1932-05-31",
+      "dow": "Tu,Th",
+      "time": "7:30 PM",
+      "end": "1932-11-24",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1939-01-30",
+      "dow": "M",
+      "time": "6:30 PM",
+      "end": "1940-01-29",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1940-02-05",
+      "dow": "M,W,F",
+      "time": "8:30 AM",
+      "end": "1941-03-28",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Blue"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Woodbury",
+      "begin": "1931-12-08",
+      "end": "1932-05-31"
+    },
+    {
+      "sponsor": "Wasey Products Company (Barbasol)",
+      "begin": "1932-05-31",
+      "end": "1932-11-24"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Ray Perkins"
+    }
+  ]
+}

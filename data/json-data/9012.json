@@ -1,0 +1,80 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,711848,00.html",
+      "label": "1944-06-19: Elementary Esthetics",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,885291,00.html",
+      "label": "1944-01-03: Blue Sale",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "News"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1944-06-05",
+      "dow": "M,W,F",
+      "time": "3:29 PM",
+      "end": "1945-06-25",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1944-09-23",
+      "dow": "Th",
+      "time": "",
+      "end": "1945-07-16",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Welch's",
+      "begin": "1944-06-05",
+      "end": "1945-07-25"
+    },
+    {
+      "sponsor": "O-Cedar",
+      "begin": "1944-11-23",
+      "end": "1945-08-16"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Time Views The News"
+    }
+  ]
+}

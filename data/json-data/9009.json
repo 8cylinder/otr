@@ -1,0 +1,210 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "3160",
+      "first": "Hal",
+      "last": "Kemp",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "3160",
+      "first": "Hal",
+      "last": "Kemp",
+      "f": "Musician",
+      "character": ""
+    },
+    {
+      "idperson": "43079",
+      "first": "Judy",
+      "last": "Starr",
+      "f": "Noted Role",
+      "character": "Vocals"
+    },
+    {
+      "idperson": "4034",
+      "first": "Barry",
+      "last": "McKinley",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "4034",
+      "first": "Barry",
+      "last": "McKinley",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "1127",
+      "idtype": "4",
+      "page": "21",
+      "article": "",
+      "url": "",
+      "date": "2008-09-01",
+      "source": "Misc/The_Radio_Store_Fall74.pdf",
+      "idpytype2": "4",
+      "title": "The Radio Store Fall 74",
+      "author": ""
+    },
+    {
+      "idprint": "1114",
+      "idtype": "4",
+      "page": "13",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Misc/Mar_Bren_Sound_Supp_01.pdf",
+      "idpytype2": "4",
+      "title": "Mar-Bren Sound Company - Supplement #1",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    }
+  ],
+  "synopses": [],
+  "themes": [
+    {
+      "theme": "A Little Boy,  Little Girl, Little Moon'"
+    },
+    {
+      "theme": "How I'll Miss You When Summer Has Gone"
+    }
+  ],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1937-05-17",
+      "dow": "M",
+      "time": "7:00 PM",
+      "end": "1937-11-08",
+      "length": "0",
+      "country": "USA",
+      "network": "NBC Blue"
+    },
+    {
+      "begin": "1938-04-19",
+      "dow": "",
+      "time": "",
+      "end": "1939-10-24",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1939-05-02",
+      "dow": "Tu",
+      "time": "10:00 PM",
+      "end": "1939-10-24",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1938-04-19",
+      "dow": "Tu",
+      "time": "10:00 PM",
+      "end": "1938-10-11",
+      "length": "30",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Griffen Shoe Polish",
+      "begin": "1937-05-17",
+      "end": "1937-11-08"
+    },
+    {
+      "sponsor": "Griffen Shoe Polish",
+      "begin": "1938-04-19",
+      "end": "1939-10-24"
+    },
+    {
+      "sponsor": "Griffen Shoe Polish",
+      "begin": "1938-04-19",
+      "end": "1938-10-11"
+    },
+    {
+      "sponsor": "Griffen Shoe Polish",
+      "begin": "1939-05-02",
+      "end": "1939-10-24"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Time to Shine"
+    },
+    {
+      "title": "All-Wife Revue"
+    },
+    {
+      "title": "Tic Toc Revue"
+    },
+    {
+      "title": "All-Wife Melody Revue"
+    },
+    {
+      "title": "Time to Shine with Hal Kemp"
+    }
+  ]
+}

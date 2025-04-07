@@ -1,0 +1,61 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "4803",
+      "first": "Arthur",
+      "last": "Pryor",
+      "f": "Noted Role",
+      "character": "Host"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1931-03-16",
+      "dow": "M,Tu,W,Th,F,Sa",
+      "time": "8:00 PM",
+      "end": "1931-11-02",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Cremo Cigars",
+      "begin": "1931-03-06",
+      "end": "1931-11-02"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Pryor's Cremo Band"
+    }
+  ]
+}

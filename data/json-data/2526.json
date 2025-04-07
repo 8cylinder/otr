@@ -1,0 +1,387 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library%20Files/C%20Series/Confession/",
+      "label": "Library Files",
+      "idtype": "16"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Confession.html",
+      "label": "Digitaldelitwo",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.digitaldeliftp.com/DigitalDeliToo/dd2jb-Confession.html",
+      "label": "Digital Deli Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [
+    {
+      "info": "The series was presented in cooperation with the California State Department of Corrections.'; - Source: Radio's Golden Years, Vincent Terrace"
+    }
+  ],
+  "people": [
+    {
+      "idperson": "1083",
+      "first": "Virginia",
+      "last": "Christine",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "2072",
+      "first": "Paul",
+      "last": "Frees",
+      "f": "Noted Role",
+      "character": "Director of the CSDOC"
+    },
+    {
+      "idperson": "46527",
+      "first": "Richard A.",
+      "last": "McGee",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "46528",
+      "first": "J. Frederick",
+      "last": "Albech",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "601",
+      "idtype": "4",
+      "page": "17",
+      "article": "",
+      "url": "",
+      "date": "1990-10-01",
+      "source": "Illustrated Press/IP_169.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press #169 Oct 90",
+      "author": ""
+    },
+    {
+      "idprint": "2768",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Sperdvac Radiogram",
+      "idpytype2": "5",
+      "title": "On the Air : The Encyclopedia of Old-Time Radio",
+      "author": "Dunning, John"
+    },
+    {
+      "idprint": "83",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-03-17",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "30",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-10-06",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2821",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Collector's Corner",
+      "idpytype2": "5",
+      "title": "Radio's Golden Years - The Encyclopedia of Radio Programs 1930-1960",
+      "author": "Terrace, Vincent"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Confession had a texture and sound not unlike Dragnet: indeed, the Dragnet influence was evident throughout. These were true stories of crime and punishment, the most obvious difference that Dragnet began with the crime while Confession unfolded in reverse order, from the end... - On the Air: The Encyclopedia of Old-Time Radio by John Dunning"
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "48236",
+      "date": "1953-07-05",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Doris Kane Case, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confession",
+          "name": "Confession 53-07-05 (01) The Doris Kane Case.mp3",
+          "time": "1772",
+          "size": "14173946"
+        }
+      ]
+    },
+    {
+      "ide": "48237",
+      "date": "1953-07-12",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Martin Everett Case, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confession",
+          "name": "Confession 53-07-12 (02) The Martin Everett Case.mp3",
+          "time": "1776",
+          "size": "14208223"
+        }
+      ]
+    },
+    {
+      "ide": "48238",
+      "date": "1953-07-19",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Anna Carlson Case, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confession",
+          "name": "Confession 53-07-19 (03) The Anna Carlson Case.mp3",
+          "time": "1788",
+          "size": "14302262"
+        }
+      ]
+    },
+    {
+      "ide": "48239",
+      "date": "1953-07-26",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "James W Hardis Case, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "48240",
+      "date": "1953-08-02",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Esther Phillips Case, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confession",
+          "name": "Confession 53-08-02 (05) The Esther Phillips Case.mp3",
+          "time": "1767",
+          "size": "14134454"
+        }
+      ]
+    },
+    {
+      "ide": "48241",
+      "date": "1953-08-09",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Peter W Greer Case, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confession",
+          "name": "Confession 53-08-09 (06) The Peter W Greer Case.mp3",
+          "time": "1770",
+          "size": "14157022"
+        }
+      ]
+    },
+    {
+      "ide": "48242",
+      "date": "1953-08-16",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "George S Decker Case, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confession",
+          "name": "Confession 53-08-16 (07) The George S Decker Case.mp3",
+          "time": "1767",
+          "size": "14136753"
+        }
+      ]
+    },
+    {
+      "ide": "48243",
+      "date": "1953-08-23",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "James V Madsen Case"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confession",
+          "name": "Confession 53-08-23 (08) James V Madsen Case.mp3",
+          "time": "1735",
+          "size": "13878031"
+        }
+      ]
+    },
+    {
+      "ide": "48244",
+      "date": "1953-08-30",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Leo J Fowler Case"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confession",
+          "name": "Confession 53-08-30 (09) Leo J Fowler Case.mp3",
+          "time": "1753",
+          "size": "14021598"
+        }
+      ]
+    },
+    {
+      "ide": "48245",
+      "date": "1953-09-06",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "George S Andress Case, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confession",
+          "name": "Confession 53-09-06 (10) The George S Andress Case.mp3",
+          "time": "1765",
+          "size": "14117738"
+        }
+      ]
+    },
+    {
+      "ide": "48246",
+      "date": "1953-09-13",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Roger S Chapman Case, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Confession",
+          "name": "Confession 53-09-13 (11) The Roger S Chapman Case.mp3",
+          "time": "1778",
+          "size": "14220764"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Crime"
+    },
+    {
+      "genre": "Nonfiction"
+    },
+    {
+      "genre": "Anthology"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Confession"
+    },
+    {
+      "title": "Confession Stories"
+    }
+  ]
+}

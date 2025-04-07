@@ -1,0 +1,85 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314811",
+      "date": "0000-00-00",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "A Saga of New York"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Saga of New York",
+          "name": "A Saga xxxxxx A Saga of New York {AFRS}_OTRRPG.mp3",
+          "time": "1505",
+          "size": "24084390"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1955-03-15",
+      "dow": "Tu,Th",
+      "time": "7:30 PM",
+      "end": "1955-05-26",
+      "length": "25",
+      "country": "USA",
+      "network": "ABC"
+    },
+    {
+      "begin": "1955-05-30",
+      "dow": "M,Tu,W,Th,F",
+      "time": "7:45 PM",
+      "end": "1955-10-28",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Saga"
+    }
+  ]
+}

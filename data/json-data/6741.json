@@ -1,0 +1,405 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/N Series/Nehi Program, The/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-6741-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "744",
+      "first": "Norman",
+      "last": "Brokenshire",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "5361",
+      "first": "George H.",
+      "last": "Shackley",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "111422",
+      "date": "1932-05-23",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Music In My Fingers"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 320523 01 1st Song - Music In My Fingers (192-44)_OTRRPG.mp3",
+          "time": "847",
+          "size": "20326602"
+        },
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-05-23 (01) First Song - Music In My Fingers.mp3",
+          "time": "868",
+          "size": "13892948"
+        }
+      ]
+    },
+    {
+      "ide": "111423",
+      "date": "1932-05-25",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Rain On The Roof"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 320525 02 1st Song - Rain On The Roof (192-44)_OTRRPG.mp3",
+          "time": "874",
+          "size": "20977642"
+        },
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-05-25 (02) First Song - Rain On The Roof.mp3",
+          "time": "881",
+          "size": "14094822"
+        }
+      ]
+    },
+    {
+      "ide": "111424",
+      "date": "1932-05-27",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - The Wooden Soldier And The China Doll"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 320527 03 1st Song - The Wooden Soldier And The China Doll (192-44)_OTRRPG.mp3",
+          "time": "855",
+          "size": "20522540"
+        },
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-05-27 (03) First Song - The Wooden Soldier And The China Doll.mp3",
+          "time": "853",
+          "size": "13642172"
+        }
+      ]
+    },
+    {
+      "ide": "111425",
+      "date": "1932-05-30",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - A Moment In The Dark"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 350715 15 1st Song - A Moment In The Dark (192-44)_OTRRPG.mp3",
+          "time": "876",
+          "size": "21023212"
+        },
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-05-xx (04) First Song - A Moment In The Dark.mp3",
+          "time": "882",
+          "size": "14110287"
+        }
+      ]
+    },
+    {
+      "ide": "111426",
+      "date": "1932-06-01",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Time On My Hands"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 320601 05 1st Song - Time On My Hands (192-44)_OTRRPG.mp3",
+          "time": "865",
+          "size": "20759168"
+        },
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-06-01 (05) First Song - Time On My Hands.mp3",
+          "time": "877",
+          "size": "14035472"
+        }
+      ]
+    },
+    {
+      "ide": "111427",
+      "date": "1932-06-03",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Jealousy"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-06-03 (06) First Song - Jealousy.mp3",
+          "time": "858",
+          "size": "13726182"
+        }
+      ]
+    },
+    {
+      "ide": "111428",
+      "date": "1932-06-05",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Hindustan"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 320605 07 1st Song - Hindustan (192-44)_OTRRPG.mp3",
+          "time": "851",
+          "size": "20432396"
+        },
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-06-05 (07) First Song - Hindustan.mp3",
+          "time": "830",
+          "size": "13287743"
+        }
+      ]
+    },
+    {
+      "ide": "111429",
+      "date": "1932-06-08",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Somebody Loves You"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 320608 08 1st Song - Somebody Loves You (192-44)_OTRRPG.mp3",
+          "time": "839",
+          "size": "20155704"
+        },
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-06-08 (08) First Song - Somebody Loves You.mp3",
+          "time": "826",
+          "size": "13214610"
+        }
+      ]
+    },
+    {
+      "ide": "111430",
+      "date": "1932-06-10",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Bambalina"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-06-10 (09) First Song - Bambalina.mp3",
+          "time": "862",
+          "size": "13785532"
+        }
+      ]
+    },
+    {
+      "ide": "111431",
+      "date": "1932-06-13",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "111432",
+      "date": "1932-06-15",
+      "epnum": "11",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "111433",
+      "date": "1932-06-17",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Round My Heart"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 320617 12 1st Song - Round My Heart (192-44)_OTRRPG.mp3",
+          "time": "875",
+          "size": "21001430"
+        },
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-06-17 (12) First Song - Round My Heart.mp3",
+          "time": "852",
+          "size": "13627544"
+        }
+      ]
+    },
+    {
+      "ide": "111434",
+      "date": "1932-06-24",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Just Like You"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 320624 13 1st Song - Just Like You (192-44)_OTRRPG.mp3",
+          "time": "880",
+          "size": "21141654"
+        },
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-06-24 (13) First Song - Just Like You.mp3",
+          "time": "886",
+          "size": "14169219"
+        }
+      ]
+    },
+    {
+      "ide": "111435",
+      "date": "1932-07-08",
+      "epnum": "14",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "256322",
+      "date": "1932-07-15",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "First Song - Crazy Rhythm"
+        }
+      ],
+      "files": [
+        {
+          "path": "N",
+          "folder": "Nehi Program, The",
+          "name": "Nehi Program 32-07-15 (15) First Song - Crazy Rhythm.mp3",
+          "time": "873",
+          "size": "6983690"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Nehi Program"
+    }
+  ]
+}

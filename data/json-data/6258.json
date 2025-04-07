@@ -1,0 +1,512 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [
+    {
+      "code": "MICK"
+    }
+  ],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323171311-8cffd47f.jpg",
+      "label": "Mickey Mouse Theater - 2",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323171312-7d6ae98d.jpg",
+      "label": "Mickey Mouse Theater - 1",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.voicechasers.com/database/showprod.php?prodid=205",
+      "label": "Voice Chasers",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logm1032.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    },
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/M Series/Mickey Mouse Theater Of The Air/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1568",
+      "first": "Walt",
+      "last": "Disney",
+      "f": "Noted Role",
+      "character": "Mickey Mouse"
+    },
+    {
+      "idperson": "4338",
+      "first": "Clarence",
+      "last": "Nash",
+      "f": "Noted Role",
+      "character": "Donald Duck"
+    },
+    {
+      "idperson": "50151",
+      "first": "John 'Bud'",
+      "last": "Hiestand",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "601",
+      "first": "Thelma",
+      "last": "Boardman",
+      "f": "Noted Role",
+      "character": "Minnie Mouse"
+    },
+    {
+      "idperson": "815",
+      "first": "Stuart",
+      "last": "Buchanan",
+      "f": "Noted Role",
+      "character": "Goofy"
+    },
+    {
+      "idperson": "2213",
+      "first": "Florence",
+      "last": "Gill",
+      "f": "Noted Role",
+      "character": "Clarabelle Cow"
+    },
+    {
+      "idperson": "4164",
+      "first": "Felix",
+      "last": "Mills",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2849",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "Scarecrow Press",
+      "idpytype2": "5",
+      "title": "Handbook of Old Time Radio",
+      "author": "Swartz, Ph.D., Jon D., Reinehr, Robert C. "
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "104961",
+      "date": "1938-01-02",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robin Hood"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104962",
+      "date": "1938-01-09",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Snow White"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mickey Mouse Theater Of The Air",
+          "name": "Mickey Mouse Theater of the Air 38-01-09 (02) Snow White.mp3",
+          "time": "1786",
+          "size": "28578300"
+        }
+      ]
+    },
+    {
+      "ide": "104963",
+      "date": "1938-01-16",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Donald Duck's Band"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mickey Mouse Theater Of The Air",
+          "name": "Mickey Mouse Theater of the Air 1938.01.16 Donald Duck And His Webfoot Sextet.mp3",
+          "time": "1822",
+          "size": "7395643"
+        }
+      ]
+    },
+    {
+      "ide": "104964",
+      "date": "1938-01-23",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Riverboat, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104965",
+      "date": "1938-01-30",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ali Baba"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104966",
+      "date": "1938-02-06",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "South Of The Border"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104967",
+      "date": "1938-02-13",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mother Goose Land"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mickey Mouse Theater Of The Air",
+          "name": "Mickey Mouse Theater of the Air 38-02-13 (07) Mother Goose Land.mp3",
+          "time": "1729",
+          "size": "27660468"
+        }
+      ]
+    },
+    {
+      "ide": "104968",
+      "date": "1938-02-20",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Gypsy Band, The"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104969",
+      "date": "1938-02-27",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cinderella"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mickey Mouse Theater Of The Air",
+          "name": "Mickey Mouse Theater of the Air 38-02-27 (09) Cinderella.mp3",
+          "time": "1735",
+          "size": "13888090"
+        }
+      ]
+    },
+    {
+      "ide": "104970",
+      "date": "1938-03-06",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "King Neptune"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mickey Mouse Theater Of The Air",
+          "name": "Mickey Mouse Theater of the Air 38-03-06 (10) King Neptune.mp3",
+          "time": "1792",
+          "size": "28679367"
+        }
+      ]
+    },
+    {
+      "ide": "104971",
+      "date": "1938-03-13",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Pied Piper, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mickey Mouse Theater Of The Air",
+          "name": "Mickey Mouse Theater of the Air 38-03-13 (11) The Pied Piper.mp3",
+          "time": "1781",
+          "size": "28500060"
+        }
+      ]
+    },
+    {
+      "ide": "104972",
+      "date": "1938-03-20",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "104973",
+      "date": "1938-03-27",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "In Ancient China"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104974",
+      "date": "1938-04-03",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Woman in the Shoe, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mickey Mouse Theater Of The Air",
+          "name": "Mickey Mouse Theater of the Air 38-04-03 (14) The Old Woman in the Shoe.mp3",
+          "time": "1798",
+          "size": "28773427"
+        }
+      ]
+    },
+    {
+      "ide": "104975",
+      "date": "1938-04-10",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Long John Silver"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104976",
+      "date": "1938-04-17",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "King Authur"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mickey Mouse Theater Of The Air",
+          "name": "Mickey Mouse Theater of the Air 1938.04.17 Princess Snow White.mp3",
+          "time": "1799",
+          "size": "7302826"
+        }
+      ]
+    },
+    {
+      "ide": "104977",
+      "date": "1938-04-24",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Who Killed Cock Robin"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104978",
+      "date": "1938-05-01",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cowboy Show"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104979",
+      "date": "1938-05-08",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "William Tell"
+        }
+      ],
+      "files": []
+    },
+    {
+      "ide": "104980",
+      "date": "1938-05-15",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Old Macdonald"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Mickey Mouse Theater Of The Air",
+          "name": "Mickey Mouse Theater of the Air 38-05-15 (20) Old MacDonald.mp3",
+          "time": "1798",
+          "size": "71903242"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Children"
+    },
+    {
+      "genre": "Youth"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1938-01-02",
+      "dow": "Su",
+      "time": "",
+      "end": "1938-05-22",
+      "length": "30",
+      "country": "USA",
+      "network": "NBC Red"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Lever Bros. (Pepsodent)",
+      "begin": "1938-01-02",
+      "end": "1939-05-22"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Mickey Mouse Theatre of the Air, The"
+    },
+    {
+      "title": "Mickey Mouse Theatre Of The Air, The"
+    }
+  ]
+}

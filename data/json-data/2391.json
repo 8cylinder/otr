@@ -1,0 +1,95 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "2030",
+      "first": "Walt",
+      "last": "Framer",
+      "f": "Noted Role",
+      "character": "Creator"
+    },
+    {
+      "idperson": "29577",
+      "first": "Rose",
+      "last": "Marie",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "14563",
+      "first": "Stanley Earl",
+      "last": "Cowan",
+      "f": "Director",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "308316",
+      "date": "1948-04-30",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st Song Never Make Eyes"
+        }
+      ],
+      "files": [
+        {
+          "path": "C",
+          "folder": "Club Hollywood",
+          "name": "Club Hollywood 480430 1st Song Never Make Eyes_OTRRPG.mp3",
+          "time": "1664",
+          "size": "26701741"
+        },
+        {
+          "path": "C",
+          "folder": "Club Hollywood",
+          "name": "Club Hollywood 48-04-30.mp3",
+          "time": "1644",
+          "size": "13153972"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Club Hollywood"
+    }
+  ]
+}

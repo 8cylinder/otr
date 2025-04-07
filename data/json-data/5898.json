@@ -1,0 +1,263 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/T Series/Time For Reason/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,798030,00.html",
+      "label": "1947-06-23: Program Preview",
+      "idtype": "11"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "813",
+      "first": "Dr. Lyman",
+      "last": "Bryson",
+      "f": "Noted Role",
+      "character": "Host"
+    },
+    {
+      "idperson": "813",
+      "first": "Dr. Lyman",
+      "last": "Bryson",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "2854",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2198",
+      "idtype": "4",
+      "page": "19",
+      "article": "",
+      "url": "",
+      "date": "1947-08-01",
+      "source": "Radio Mirror/Radio Mirror 4708.pdf",
+      "idpytype2": "4",
+      "title": "Radio Mirror 4708",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314473",
+      "date": "1947-02-03",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "About Radio"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Time For Reason",
+          "name": "Time For Reason 470203 xxx About Radio_OTRRPG.mp3",
+          "time": "876",
+          "size": "14087318"
+        },
+        {
+          "path": "T",
+          "folder": "Time For Reason",
+          "name": "Time For Reason 47-02-03 About Radio.mp3",
+          "time": "878",
+          "size": "14053899"
+        }
+      ]
+    },
+    {
+      "ide": "314474",
+      "date": "1947-06-28",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "America's Leadership For Freedom (Op Cut)"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Time For Reason",
+          "name": "Time For Reason 470628 xxx America's Leadership For Freedom (Op Cut)_OTRRPG.mp3",
+          "time": "823",
+          "size": "13250176"
+        },
+        {
+          "path": "T",
+          "folder": "Time For Reason",
+          "name": "Time For Reason 47-06-29 America's Leadership For Freedom (o.mp3",
+          "time": "825",
+          "size": "13216727"
+        }
+      ]
+    },
+    {
+      "ide": "314475",
+      "date": "1947-08-31",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "The East End of Europe"
+        }
+      ],
+      "files": [
+        {
+          "path": "T",
+          "folder": "Time For Reason",
+          "name": "Time For Reason 470831 xxx The East End of Europe_OTRRPG.mp3",
+          "time": "881",
+          "size": "14277918"
+        },
+        {
+          "path": "T",
+          "folder": "Time For Reason",
+          "name": "Time For Reason 47-08-31 The East End Of Europe.mp3",
+          "time": "890",
+          "size": "14244488"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Discussion"
+    },
+    {
+      "genre": "Interview"
+    },
+    {
+      "genre": "Talk Show"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1946-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1946-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-03-25",
+      "dow": "Su",
+      "time": "1:30 PM",
+      "end": "1947-10-05",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Sustained",
+      "begin": "1946-00-00",
+      "end": "1946-00-00"
+    },
+    {
+      "sponsor": "Sustained",
+      "begin": "1945-03-24",
+      "end": "1947-10-05"
+    },
+    {
+      "sponsor": "Sustained",
+      "begin": "1945-03-25",
+      "end": "1947-10-05"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Problems of Peace"
+    },
+    {
+      "title": "Time For Reason"
+    },
+    {
+      "title": "Lyman Bryson"
+    },
+    {
+      "title": "Problems Of Peace"
+    },
+    {
+      "title": "Problems Of The Peace "
+    },
+    {
+      "title": "Time for Reason (About Radio)"
+    }
+  ]
+}

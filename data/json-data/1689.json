@@ -1,0 +1,213 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "timeMag",
+      "url": "0,9171,765996,00.html",
+      "label": "1941-08-25: Big Week for Michael",
+      "idtype": "11"
+    },
+    {
+      "type": "timeMag",
+      "url": "0,9171,933503,00.html",
+      "label": "1945-04-09: Right to the Heart",
+      "idtype": "11"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19421943day.html",
+      "label": "Daytime Ratings: (1942-1943: #18)",
+      "idtype": "7"
+    },
+    {
+      "type": "web",
+      "url": "www.old-time.com/ratings/by season/1940s/19431944day.html",
+      "label": "Daytime Ratings: (1943-1944: #19)",
+      "idtype": "7"
+    }
+  ],
+  "infos": [
+    {
+      "info": "When the series resumed on July 16, 1945 after a brief hiatus, it was known as ';A Woman's Life'; for the brief period it remained on the air."
+    }
+  ],
+  "people": [
+    {
+      "idperson": "4612",
+      "first": "Mary",
+      "last": "Patton",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "20153",
+      "first": "Don",
+      "last": "MacLaughlin",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "39565",
+      "first": "Joan",
+      "last": "Alexander",
+      "f": "Cast Member",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "116",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1927-01-01",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "Today's Radio Program",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "14",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1931-01-04",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR BROADCAST THIS WEEK",
+      "author": ""
+    },
+    {
+      "idprint": "2752",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "www.otrrpedia.net/webmaster/200810.php#owen",
+      "date": "0000-00-00",
+      "source": "OtrrPedia Forum",
+      "idpytype2": "5",
+      "title": "Big Broadcast 1920-1950, The",
+      "author": "Buxton, Frank and Owen, Bill"
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "Bright Horizon is a spin-off from Big Sister, with the character of Michael West leaving to become the star of this series."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "307845",
+      "date": "1944-05-04",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Margaret Tells All to Michael"
+        }
+      ],
+      "files": [
+        {
+          "path": "B",
+          "folder": "Bright Horizon",
+          "name": "Bright Horizon 1944-05-04 Margaret Tells All to Michael.mp3",
+          "time": "785",
+          "size": "9505533"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Romance"
+    },
+    {
+      "genre": "Serial"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1941-08-25",
+      "dow": "M,Tu,W,Th,F",
+      "time": "11:30 AM",
+      "end": "1945-07-06",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-07-16",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1945-11-30",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    },
+    {
+      "begin": "1945-07-09",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1946-03-00",
+      "length": "15",
+      "country": "USA",
+      "network": "CBS"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Lever Brothers Swan Soap",
+      "begin": "1945-07-09",
+      "end": "1946-03-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Bright Horizon"
+    },
+    {
+      "title": "Woman's Life, A"
+    }
+  ]
+}

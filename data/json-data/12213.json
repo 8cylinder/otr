@@ -1,0 +1,71 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1056",
+      "first": "Ernest",
+      "last": "Chappell",
+      "f": "Writer",
+      "character": ""
+    },
+    {
+      "idperson": "3776",
+      "first": "Ted",
+      "last": "Malone",
+      "f": "Noted Role",
+      "character": "Star"
+    },
+    {
+      "idperson": "7136",
+      "first": "Rosa",
+      "last": "Rio",
+      "f": "Noted Role",
+      "character": "Organist"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1943-00-00",
+      "dow": "M,Tu,W,Th,F",
+      "time": "",
+      "end": "1947-00-00",
+      "length": "15",
+      "country": "USA",
+      "network": "ABC"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": "Westinghouse",
+      "begin": "1943-00-00",
+      "end": "1947-00-00"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Westinghouse Presents Ted Malone"
+    }
+  ]
+}

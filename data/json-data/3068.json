@@ -1,0 +1,797 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322181757-278972e3.jpg",
+      "label": "Down Our Way CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322181805-6ed8f3aa.jpg",
+      "label": "Down Our Way CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/22/20210322181814-eda08494.jpg",
+      "label": "Down Our Way CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Down_Our_Way_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-3068-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    },
+    {
+      "type": "archive",
+      "url": "details/OTRR_Down_Our_Way_Singles",
+      "label": "Library Files",
+      "idtype": "17"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2022/11/07/20221107162406-24f78d20.jpg",
+      "label": "Down Our Way Ad 480125",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2022/11/07/20221107162408-0af918ae.jpg",
+      "label": "Down Our Way Ad 480125",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2022/11/07/20221107162410-bd59a918.jpg",
+      "label": "Down Our Way Ad 480516",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2022/11/07/20221107162415-b90de8f3.jpg",
+      "label": "Down Our Way Article 480125",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2022/11/07/20221107162418-d268db2d.jpg",
+      "label": "Down Our Way Ad 471228",
+      "idtype": "12"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "251030",
+      "date": "0000-00-00",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Alice Might Leave Town"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep01_Alice_Might_Leave_Town.mp3",
+          "time": "1618",
+          "size": "12943447"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 01 Alice Might Leave Town (64-22)_OTRRPG.mp3",
+          "time": "1617",
+          "size": "12939392"
+        }
+      ]
+    },
+    {
+      "ide": "185726",
+      "date": "0000-00-00",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cleaning Out The Attic"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep10_Cleaning_Out_The_Attic.mp3",
+          "time": "1600",
+          "size": "12801643"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 10 Cleaning Out The Attic (64-22)_OTRRPG.mp3",
+          "time": "1596",
+          "size": "12844690"
+        }
+      ]
+    },
+    {
+      "ide": "185727",
+      "date": "0000-00-00",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fireman's Ball, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep11_The_Firemans_Ball.mp3",
+          "time": "1601",
+          "size": "12805192"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 11 The Fireman's Ball (64-22)_OTRRPG.mp3",
+          "time": "1596",
+          "size": "12848239"
+        }
+      ]
+    },
+    {
+      "ide": "185728",
+      "date": "0000-00-00",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Patience To Start Shelter For Stray Animals"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep12_Patience_To_Start_Shelter_For_Stray_Animals.mp3",
+          "time": "1595",
+          "size": "12757570"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 12 Patience To Start Shelter For Stray Animals (64-22)_OTRRPG.mp3",
+          "time": "1590",
+          "size": "12800616"
+        }
+      ]
+    },
+    {
+      "ide": "185729",
+      "date": "0000-00-00",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Professor's Talent Show, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep13_The_Professors_Talent_Show.mp3",
+          "time": "1600",
+          "size": "12796424"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 13 The Professor's Talent Show (64-22)_OTRRPG.mp3",
+          "time": "1595",
+          "size": "12839470"
+        }
+      ]
+    },
+    {
+      "ide": "185730",
+      "date": "0000-00-00",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "New School Teacher, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep14_The_New_School_Teacher.mp3",
+          "time": "1604",
+          "size": "12830483"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 14 The New School Teacher (64-22)_OTRRPG.mp3",
+          "time": "1599",
+          "size": "12873529"
+        }
+      ]
+    },
+    {
+      "ide": "185731",
+      "date": "0000-00-00",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Looking For Old Stocks"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep15_Looking_For_Old_Stocks.mp3",
+          "time": "1626",
+          "size": "13005190"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 15 Looking For Old Stocks (64-22)_OTRRPG.mp3",
+          "time": "1621",
+          "size": "13048236"
+        }
+      ]
+    },
+    {
+      "ide": "185732",
+      "date": "0000-00-00",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fire Prevention Week"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep16_Fire_Prevention_Week.mp3",
+          "time": "1591",
+          "size": "12729126"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 16 Fire Prevention Week (64-22)_OTRRPG.mp3",
+          "time": "1587",
+          "size": "12772172"
+        }
+      ]
+    },
+    {
+      "ide": "185733",
+      "date": "0000-00-00",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Stopping A Farm Auction"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep17_Stopping_A_Farm_Auction.mp3",
+          "time": "1599",
+          "size": "12792449"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 17 Stopping A Farm Auction (64-22)_OTRRPG.mp3",
+          "time": "1595",
+          "size": "12835496"
+        }
+      ]
+    },
+    {
+      "ide": "185734",
+      "date": "0000-00-00",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Patience Plans On Leaving"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep18_Patience_Plans_On_Leaving.mp3",
+          "time": "1607",
+          "size": "12858280"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 18 Patience Plans On Leaving (64-22)_OTRRPG.mp3",
+          "time": "1603",
+          "size": "12901326"
+        }
+      ]
+    },
+    {
+      "ide": "185735",
+      "date": "0000-00-00",
+      "epnum": "19",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Brownie Is Missing"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep19_Brownie_Is_Missing.mp3",
+          "time": "1599",
+          "size": "12794952"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 19 Brownie Is Missing (64-22)_OTRRPG.mp3",
+          "time": "1595",
+          "size": "12837999"
+        }
+      ]
+    },
+    {
+      "ide": "154450",
+      "date": "0000-00-00",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Surprise Birthday Party For Ben"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep02_Surprise_Birthday_Party_For_Ben.mp3",
+          "time": "1611",
+          "size": "12889214"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 02 Surprise Birthday Party For Ben (64-22)_OTRRPG.mp3",
+          "time": "1611",
+          "size": "12890240"
+        }
+      ]
+    },
+    {
+      "ide": "185736",
+      "date": "0000-00-00",
+      "epnum": "20",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ben's New Organ"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep20_Bens_New_Organ.mp3",
+          "time": "1607",
+          "size": "12854717"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 20 Ben's New Organ (64-22)_OTRRPG.mp3",
+          "time": "1602",
+          "size": "12897764"
+        }
+      ]
+    },
+    {
+      "ide": "185737",
+      "date": "0000-00-00",
+      "epnum": "21",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Prowler Troubles"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep21_Prowler_Troubles.mp3",
+          "time": "1606",
+          "size": "12848252"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 21 The Jacob's 33rd Anniversary (64-22)_OTRRPG.mp3",
+          "time": "1602",
+          "size": "12891298"
+        }
+      ]
+    },
+    {
+      "ide": "185738",
+      "date": "0000-00-00",
+      "epnum": "22",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Jacob's 33rd Anniversary, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep22_The_Jacobs_33rd_Anniversary.mp3",
+          "time": "1601",
+          "size": "12810415"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 22 Prowler Troubles (64-22)_OTRRPG.mp3",
+          "time": "1597",
+          "size": "12853461"
+        }
+      ]
+    },
+    {
+      "ide": "185739",
+      "date": "0000-00-00",
+      "epnum": "23",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cliff's Birthday Party"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep23_Cliffs_Birthday_Party.mp3",
+          "time": "1605",
+          "size": "12838006"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 23 Cliff's Birthday Party (64-22)_OTRRPG.mp3",
+          "time": "1600",
+          "size": "12881052"
+        }
+      ]
+    },
+    {
+      "ide": "185740",
+      "date": "0000-00-00",
+      "epnum": "24",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Sam Mullins Breaks Into The Store"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep24_Sam_Mullins_Breaks_Into_The_Store.mp3",
+          "time": "1607",
+          "size": "12858079"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 24 Sam Mullins Breaks Into The Store (64-22)_OTRRPG.mp3",
+          "time": "1603",
+          "size": "12901125"
+        }
+      ]
+    },
+    {
+      "ide": "185741",
+      "date": "0000-00-00",
+      "epnum": "25",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Country Music Group Singing Prize"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep25_Country_Music_Group_Singing_Prize.mp3",
+          "time": "1614",
+          "size": "12908652"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 25 Country Music Group Singing Prize (64-22)_OTRRPG.mp3",
+          "time": "1613",
+          "size": "12908672"
+        }
+      ]
+    },
+    {
+      "ide": "185742",
+      "date": "0000-00-00",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Raising Money For Homeless Kids"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep26_Raising_Money_For_Homeless_Kids.mp3",
+          "time": "1602",
+          "size": "12816805"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 26 Raising Money For Homeless Kids (64-22)_OTRRPG.mp3",
+          "time": "1597",
+          "size": "12855775"
+        }
+      ]
+    },
+    {
+      "ide": "154449",
+      "date": "0000-00-00",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Horseshoe Contest, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep03_The_Horseshoe_Contest.mp3",
+          "time": "1608",
+          "size": "12862037"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 03 The Horseshoe Contest (64-22)_OTRRPG.mp3",
+          "time": "1603",
+          "size": "12905084"
+        }
+      ]
+    },
+    {
+      "ide": "154448",
+      "date": "0000-00-00",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Someone Breaks Into Patience's  House"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep04_Someone_Breaks_Into_Patiences_House.mp3",
+          "time": "1608",
+          "size": "12861844"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 04 Someone Breaks Into Patience's House (64-22)_OTRRPG.mp3",
+          "time": "1603",
+          "size": "12904890"
+        }
+      ]
+    },
+    {
+      "ide": "154447",
+      "date": "0000-00-00",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Ben's Talking Pigeon"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep05_Bens_Talking_Pigeon.mp3",
+          "time": "1604",
+          "size": "12833197"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 05 Ben's Talking Pidgeon (64-22)_OTRRPG.mp3",
+          "time": "1600",
+          "size": "12876245"
+        }
+      ]
+    },
+    {
+      "ide": "154446",
+      "date": "0000-00-00",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Rival Singing Group Forms, A"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep06_A_Rival_Singing_Group_Forms.mp3",
+          "time": "1601",
+          "size": "12808544"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 06 A Rival Singing Group Forms (64-22)_OTRRPG.mp3",
+          "time": "1597",
+          "size": "12851591"
+        }
+      ]
+    },
+    {
+      "ide": "185723",
+      "date": "0000-00-00",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Slogan For The Store"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep07_Slogan_For_The_Store.mp3",
+          "time": "1594",
+          "size": "12752321"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 07 Slogan For The Store (64-22)_OTRRPG.mp3",
+          "time": "1590",
+          "size": "12795369"
+        }
+      ]
+    },
+    {
+      "ide": "185724",
+      "date": "0000-00-00",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Fixing Up Cliff's Room"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep08_Fixing_Up_Cliffs_Room.mp3",
+          "time": "1600",
+          "size": "12802896"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 08 Fixing Up Cliff's Room (64-22)_OTRRPG.mp3",
+          "time": "1596",
+          "size": "12845944"
+        }
+      ]
+    },
+    {
+      "ide": "185725",
+      "date": "0000-00-00",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Men's Cooking Contest"
+        }
+      ],
+      "files": [
+        {
+          "path": "archive.org/download/",
+          "folder": "OTRR_Down_Our_Way_Singles",
+          "name": "Down_Our_Way_xx-xx-xx_ep09_Mens_Cooking_Contest.mp3",
+          "time": "1598",
+          "size": "12786387"
+        },
+        {
+          "path": "D",
+          "folder": "Down Our Way",
+          "name": "Down Our Way xxxxxx 09 Men's Cooking Contest (64-22)_OTRRPG.mp3",
+          "time": "1594",
+          "size": "12829433"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Music"
+    },
+    {
+      "genre": "Sitcom"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Down Our Way"
+    }
+  ]
+}

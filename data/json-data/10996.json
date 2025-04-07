@@ -1,0 +1,99 @@
+{
+  "avail": [
+    {
+      "avail": "0",
+      "idprint": "4413",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "",
+      "source": "",
+      "idpytype2": "",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [],
+  "links": [],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "6820",
+      "first": "Josef",
+      "last": "Cherniavsky",
+      "f": "Musician",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "314265",
+      "date": "1939-04-22",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Saluting Shirley Temple"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "My Lucky Break",
+          "name": "My Lucky Break 390422 xxx Saluting Shirley Temple_OTRRPG.mp3",
+          "time": "1773",
+          "size": "28450280"
+        }
+      ]
+    },
+    {
+      "ide": "330751",
+      "date": "1939-04-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    },
+    {
+      "genre": "Music"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1939-01-01",
+      "dow": "Su",
+      "time": "6:00 PM",
+      "end": "1939-09-17",
+      "length": "30",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "My Lucky Break"
+    }
+  ]
+}

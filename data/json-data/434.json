@@ -1,0 +1,335 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185250-5b21c985.jpg",
+      "label": "Adventures of Danny Marsdon CD Back",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185251-022a7df6.jpg",
+      "label": "Adventures of Danny Marsdon CD Front",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/25/20210325185252-42545413.jpg",
+      "label": "Adventures of Danny Marsdon CD Label",
+      "idtype": "12"
+    },
+    {
+      "type": "web",
+      "url": "www.otrsite.com/logs/logd1010.htm",
+      "label": "Jerry Haendiges' Vintage Radio Logs",
+      "idtype": "5"
+    }
+  ],
+  "infos": [],
+  "people": [],
+  "prints": [
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    },
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "155773",
+      "date": "1948-10-06",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Four Prisoners, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-10-06 (01) Out of the Ivory Tower.mp3",
+          "time": "705",
+          "size": "2822174"
+        }
+      ]
+    },
+    {
+      "ide": "155774",
+      "date": "1948-10-13",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Without a Heart, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-10-13 (02) What Is a Canadian.mp3",
+          "time": "807",
+          "size": "3229726"
+        }
+      ]
+    },
+    {
+      "ide": "155775",
+      "date": "1948-10-20",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Three Hands, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-10-20 (03) The Triangle of Plenty.mp3",
+          "time": "746",
+          "size": "2983966"
+        }
+      ]
+    },
+    {
+      "ide": "155776",
+      "date": "1948-10-27",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Man Who Wanted Cash, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-10-27 (04) Free Enterprize.mp3",
+          "time": "756",
+          "size": "3024926"
+        }
+      ]
+    },
+    {
+      "ide": "155777",
+      "date": "1948-11-04",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Mayor and the Corpse, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-11-04 (05) Communisum.mp3",
+          "time": "759",
+          "size": "3037214"
+        }
+      ]
+    },
+    {
+      "ide": "155778",
+      "date": "1948-11-11",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Dead Man's Bones, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-11-11 (06) Security.mp3",
+          "time": "815",
+          "size": "3260446"
+        }
+      ]
+    },
+    {
+      "ide": "155779",
+      "date": "1948-11-18",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Disappearing Cats, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-11-18 (07) National Unity.mp3",
+          "time": "755",
+          "size": "3022878"
+        }
+      ]
+    },
+    {
+      "ide": "155780",
+      "date": "1948-11-25",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "College Crime, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-11-25 (08) Taxes.mp3",
+          "time": "757",
+          "size": "3026974"
+        }
+      ]
+    },
+    {
+      "ide": "155781",
+      "date": "1948-12-01",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Robber of Fallboro, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-12-01 (09) Education.mp3",
+          "time": "761",
+          "size": "3043358"
+        }
+      ]
+    },
+    {
+      "ide": "155782",
+      "date": "1948-12-08",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Invisible Clock, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-12-08 (10) The Friend Nobody Loved.mp3",
+          "time": "768",
+          "size": "3074078"
+        }
+      ]
+    },
+    {
+      "ide": "155783",
+      "date": "1948-12-15",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cafe Society Case, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-12-15 (11) Citizenship.mp3",
+          "time": "834",
+          "size": "3336222"
+        }
+      ]
+    },
+    {
+      "ide": "155784",
+      "date": "1948-12-22",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Cleopatra's Snake"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-12-22 (12) The Farmer.mp3",
+          "time": "767",
+          "size": "3069982"
+        }
+      ]
+    },
+    {
+      "ide": "155785",
+      "date": "1948-12-29",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Airport Disasters, The"
+        }
+      ],
+      "files": [
+        {
+          "path": "D",
+          "folder": "Danny Marsden",
+          "name": "Danny Marsdon 48-12-29 (13) World Trade.mp3",
+          "time": "690",
+          "size": "2762782"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Adventures of Danny Marsdon, The"
+    }
+  ]
+}

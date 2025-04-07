@@ -1,0 +1,921 @@
+{
+  "avail": [
+    {
+      "avail": "24",
+      "idprint": "2780",
+      "web": "",
+      "dtpub": "0000-00-00",
+      "url": "0",
+      "source": "",
+      "idpytype2": "",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "codes": [],
+  "known": [
+    {
+      "known": "0",
+      "idprint": "4413",
+      "web": "",
+      "url": "",
+      "source": "",
+      "idpytype": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/S Series/Speaking of Liberty/",
+      "label": "Library Files",
+      "idtype": "15"
+    },
+    {
+      "type": "web",
+      "url": "otrrlibrary.org/OTRRLib/Library Files/themes/Theme-8349-01.mp3",
+      "label": "Introduction/Theme Song",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5709",
+      "first": "Rex",
+      "last": "Stout",
+      "f": "Noted Role",
+      "character": "Emcee"
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "4413",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "5th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    }
+  ],
+  "synopses": [
+    {
+      "synopsis": "About freedom and the war in Europe."
+    }
+  ],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "152350",
+      "date": "1941-04-17",
+      "epnum": "1",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Carl Van Doren"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410417 01 Guest - Carl Van Doren_OTRRPG.mp3",
+          "time": "856",
+          "size": "13783238"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-04-17 (01) Guest - Carl Van Doren.mp3",
+          "time": "859",
+          "size": "6870331"
+        }
+      ]
+    },
+    {
+      "ide": "152351",
+      "date": "1941-04-24",
+      "epnum": "2",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Edmund Taylor"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410424 02 Guest - Edmund Taylor_OTRRPG.mp3",
+          "time": "836",
+          "size": "13461827"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-04-24 (02) Guest - Edmund Taylor.mp3",
+          "time": "839",
+          "size": "6709415"
+        }
+      ]
+    },
+    {
+      "ide": "152352",
+      "date": "1941-05-01",
+      "epnum": "3",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Christopher Faddim"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410501 03 Guest - Christopher Fraddim_OTRRPG.mp3",
+          "time": "840",
+          "size": "13520347"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-05-01 (03) Guest - Christopher Fraddim.mp3",
+          "time": "842",
+          "size": "6738677"
+        }
+      ]
+    },
+    {
+      "ide": "152353",
+      "date": "1941-05-08",
+      "epnum": "4",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Lin Yu Tang"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410508 04 Guest - Lin Yu Tang_OTRRPG.mp3",
+          "time": "844",
+          "size": "13582615"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-05-08 (04) Guest - Lin Yu Tang.mp3",
+          "time": "846",
+          "size": "6769808"
+        }
+      ]
+    },
+    {
+      "ide": "152354",
+      "date": "1941-05-15",
+      "epnum": "5",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Fannie Hurst"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410515 05 Guest - Fannie Hurst_OTRRPG.mp3",
+          "time": "833",
+          "size": "13413760"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-05-15 (05) Guest - Fannie Hurst.mp3",
+          "time": "836",
+          "size": "6685382"
+        }
+      ]
+    },
+    {
+      "ide": "152355",
+      "date": "1941-05-22",
+      "epnum": "6",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Gerald Van Patton"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410522 06 Guest - Gerald Van Patten_OTRRPG.mp3",
+          "time": "865",
+          "size": "13923258"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-05-22 (06) Guest - Gerald Van Patten.mp3",
+          "time": "867",
+          "size": "6940342"
+        }
+      ]
+    },
+    {
+      "ide": "152356",
+      "date": "1941-05-29",
+      "epnum": "7",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Louis Adamek"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410529 07 Guest - Louis Adamek_OTRRPG.mp3",
+          "time": "843",
+          "size": "13567987"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-05-29 (07) Guest - Louis Adamek.mp3",
+          "time": "845",
+          "size": "6762704"
+        }
+      ]
+    },
+    {
+      "ide": "152357",
+      "date": "1941-06-05",
+      "epnum": "8",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Herbert Agar"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410605 08 Guest - Herbert Agar_OTRRPG.mp3",
+          "time": "834",
+          "size": "13428807"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-06-05 (08) Guest - Herbert Agar.mp3",
+          "time": "837",
+          "size": "6692905"
+        }
+      ]
+    },
+    {
+      "ide": "152358",
+      "date": "1941-06-12",
+      "epnum": "9",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Max Eastman"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410612 09 Guest - Max Eastman_OTRRPG.mp3",
+          "time": "844",
+          "size": "13584705"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-06-12 (09) Guest - Max Eastman.mp3",
+          "time": "846",
+          "size": "6770853"
+        }
+      ]
+    },
+    {
+      "ide": "152359",
+      "date": "1941-06-19",
+      "epnum": "10",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Alexander Berchtesgaden"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410619 10 Guest - Alexander Wolcott_OTRRPG.mp3",
+          "time": "861",
+          "size": "13863071"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-06-19 (10) Guest - Alexander Wolcott.mp3",
+          "time": "864",
+          "size": "6909700"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-06-19 (10) Guest - Alexander Woollcott.mp3",
+          "time": "864",
+          "size": "6910041"
+        }
+      ]
+    },
+    {
+      "ide": "152360",
+      "date": "1941-06-26",
+      "epnum": "11",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Florence Harriman"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410626 11 Guest - Florence Harriman_OTRRPG.mp3",
+          "time": "843",
+          "size": "13562977"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-06-26 (11) Guest - Florence Harriman.mp3",
+          "time": "845",
+          "size": "6760202"
+        }
+      ]
+    },
+    {
+      "ide": "152361",
+      "date": "1941-07-03",
+      "epnum": "12",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Eve Curie"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410703 12 Guest - Eve Curie (No Op Or Close)_OTRRPG.mp3",
+          "time": "828",
+          "size": "13328929"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-07-03 (12) Guest - Eve Curie (no op or cl).mp3",
+          "time": "830",
+          "size": "6642624"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-07-03 (12) Guest - Eve Curie.mp3",
+          "time": "830",
+          "size": "6642957"
+        }
+      ]
+    },
+    {
+      "ide": "152362",
+      "date": "1941-07-10",
+      "epnum": "13",
+      "exists": "1",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152363",
+      "date": "1941-07-17",
+      "epnum": "14",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Carl Crowle"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410717 14 Guest - Carl Crowle_OTRRPG.mp3",
+          "time": "845",
+          "size": "13597243"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-07-17 (14) Guest - Carl Crowle.mp3",
+          "time": "847",
+          "size": "6777333"
+        }
+      ]
+    },
+    {
+      "ide": "152364",
+      "date": "1941-07-24",
+      "epnum": "15",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Bertram Russell"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410724 15 Guest - Bertram Russell_OTRRPG.mp3",
+          "time": "849",
+          "size": "13660359"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-07-24 (15) Guest - Bertram Russell.mp3",
+          "time": "851",
+          "size": "6808684"
+        }
+      ]
+    },
+    {
+      "ide": "152365",
+      "date": "1941-07-31",
+      "epnum": "16",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Ernest Hauser"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410731 16 Guest - Ernest Hauser_OTRRPG.mp3",
+          "time": "847",
+          "size": "13631100"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-07-31 (16) Guest - Ernest Hauser.mp3",
+          "time": "849",
+          "size": "6794262"
+        }
+      ]
+    },
+    {
+      "ide": "152366",
+      "date": "1941-08-07",
+      "epnum": "17",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Douglas Miller"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410807 17 Guest - Douglas Miller_OTRRPG.mp3",
+          "time": "852",
+          "size": "13715947"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-08-07 (17) Guest - Douglas Miller.mp3",
+          "time": "854",
+          "size": "6836477"
+        }
+      ]
+    },
+    {
+      "ide": "152367",
+      "date": "1941-08-14",
+      "epnum": "18",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - John R Tunis"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 410814 18 Guest - John R Tunis_OTRRPG.mp3",
+          "time": "842",
+          "size": "13546253"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-08-14 (18) Guest - John R Tunis.mp3",
+          "time": "844",
+          "size": "6751629"
+        }
+      ]
+    },
+    {
+      "ide": "152368",
+      "date": "1941-08-21",
+      "epnum": "19",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152369",
+      "date": "1941-08-28",
+      "epnum": "20",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152370",
+      "date": "1941-09-04",
+      "epnum": "21",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152371",
+      "date": "1941-09-11",
+      "epnum": "22",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152372",
+      "date": "1941-09-18",
+      "epnum": "23",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152373",
+      "date": "1941-09-25",
+      "epnum": "24",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152374",
+      "date": "1941-10-02",
+      "epnum": "25",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152375",
+      "date": "1941-10-09",
+      "epnum": "26",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Carl Kramer"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 411009 26 Guest - Carl Karmer_OTRRPG.mp3",
+          "time": "769",
+          "size": "12378057"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-10-09 (26) Guest - Carl Karmer.mp3",
+          "time": "771",
+          "size": "6167530"
+        }
+      ]
+    },
+    {
+      "ide": "152376",
+      "date": "1941-10-16",
+      "epnum": "27",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Walter Miller"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 411016 27 Guest - Walter Miller_OTRRPG.mp3",
+          "time": "828",
+          "size": "13329334"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-10-16 (27) Guest - Walter Miller.mp3",
+          "time": "830",
+          "size": "6643379"
+        }
+      ]
+    },
+    {
+      "ide": "152377",
+      "date": "1941-10-23",
+      "epnum": "28",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Margaret Leach"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 411023 28 Guest - Margerite Leach_OTRRPG.mp3",
+          "time": "825",
+          "size": "13276673"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-10-23 (28) Guest - Margerite Leach.mp3",
+          "time": "827",
+          "size": "6616501"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-10-23 (28) Guest - Marguerite Leach.mp3",
+          "time": "827",
+          "size": "6616840"
+        }
+      ]
+    },
+    {
+      "ide": "152378",
+      "date": "1941-11-06",
+      "epnum": "30",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Pearl Buck"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 411106 30 Guest - Pearl Buck_OTRRPG.mp3",
+          "time": "855",
+          "size": "13762336"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-11-06 (30) Guest - Pearl Buck.mp3",
+          "time": "857",
+          "size": "6859879"
+        }
+      ]
+    },
+    {
+      "ide": "152379",
+      "date": "1941-11-13",
+      "epnum": "31",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Frank Gervasi"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 411113 31 Guest - Frank Gervozzi_OTRRPG.mp3",
+          "time": "842",
+          "size": "13548763"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-11-13 (31) Guest - Frank Gervozzi.mp3",
+          "time": "844",
+          "size": "6752885"
+        }
+      ]
+    },
+    {
+      "ide": "152380",
+      "date": "1941-11-20",
+      "epnum": "32",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152381",
+      "date": "1941-11-24",
+      "epnum": "33",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152382",
+      "date": "1941-12-04",
+      "epnum": "34",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Dorothy Fisher"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 411204 34 Guest - Dorothy Fisher_OTRRPG.mp3",
+          "time": "844",
+          "size": "13576766"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-12-04 (34) Guest - Dorothy Fisher.mp3",
+          "time": "846",
+          "size": "6767096"
+        }
+      ]
+    },
+    {
+      "ide": "152383",
+      "date": "1941-12-11",
+      "epnum": "35",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "Guest - Erskine Caldwell"
+        }
+      ],
+      "files": [
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking of Liberty 411211 35 Guest - Erskine Caldwell_OTRRPG.mp3",
+          "time": "727",
+          "size": "11706401"
+        },
+        {
+          "path": "S",
+          "folder": "Speaking of Liberty",
+          "name": "Speaking Of Liberty 41-12-11 (35) Guest - Erskine Caldwell.mp3",
+          "time": "729",
+          "size": "5831705"
+        }
+      ]
+    },
+    {
+      "ide": "152384",
+      "date": "1941-12-18",
+      "epnum": "36",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152385",
+      "date": "1941-12-25",
+      "epnum": "37",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152386",
+      "date": "1942-01-01",
+      "epnum": "38",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152387",
+      "date": "1942-01-08",
+      "epnum": "39",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152388",
+      "date": "1942-01-15",
+      "epnum": "40",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152389",
+      "date": "1942-01-22",
+      "epnum": "41",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152390",
+      "date": "1942-01-29",
+      "epnum": "42",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    },
+    {
+      "ide": "152391",
+      "date": "1942-02-05",
+      "epnum": "43",
+      "exists": "0",
+      "titles": [],
+      "files": []
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama"
+    }
+  ],
+  "histories": [
+    {
+      "begin": "1941-04-14",
+      "dow": "Th",
+      "time": "6:30 PM",
+      "end": "1943-02-05",
+      "length": "15",
+      "country": "USA",
+      "network": "NBC"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Speaking of Liberty"
+    }
+  ]
+}

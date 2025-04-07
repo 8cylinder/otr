@@ -1,0 +1,149 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "OTRR Library",
+      "url": "/Library Files/F Series/Frank Singiser/",
+      "label": "Library Files",
+      "idtype": "15"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "5470",
+      "first": "Frank",
+      "last": "Singiser",
+      "f": "Cast Member",
+      "character": ""
+    },
+    {
+      "idperson": "47231",
+      "first": "Ed",
+      "last": "Pearson",
+      "f": "Announcer",
+      "character": ""
+    },
+    {
+      "idperson": "5620",
+      "first": "Charles",
+      "last": "Stark",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "2780",
+      "idtype": "5",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "",
+      "idpytype2": "5",
+      "title": "4th Revised Ultimate History of Network Radio Programming and Guide to ALL Circulating Shows, The",
+      "author": "Hickerson, Jay"
+    },
+    {
+      "idprint": "2854",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "0000-00-00",
+      "source": "The Old Radio Times",
+      "idpytype2": "5",
+      "title": "Archives of the Airwaves (7 Volumes)",
+      "author": "Paulson, Roger C."
+    },
+    {
+      "idprint": "738",
+      "idtype": "4",
+      "page": "9",
+      "article": "",
+      "url": "",
+      "date": "1996-10-01",
+      "source": "Illustrated Press/IP_241.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#241) - Oct 1996",
+      "author": ""
+    },
+    {
+      "idprint": "42",
+      "idtype": "1",
+      "page": "",
+      "article": "",
+      "url": "",
+      "date": "1929-12-29",
+      "source": "New York Times",
+      "idpytype2": "2",
+      "title": "RADIO PROGRAMS SCHEDULED FOR THE CURRENT WEEK New York",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "318266",
+      "date": "1944-07-18",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News and Comments"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frank Singiser",
+          "name": "Frank Singiser 44-07-18 News and Comments.mp3",
+          "time": "888",
+          "size": "3551193"
+        }
+      ]
+    },
+    {
+      "ide": "318267",
+      "date": "1944-12-23",
+      "epnum": "",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "News and Comments"
+        }
+      ],
+      "files": [
+        {
+          "path": "F",
+          "folder": "Frank Singiser",
+          "name": "Frank Singiser 44-12-23 News and Comments.mp3",
+          "time": "887",
+          "size": "3546803"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [
+    {
+      "begin": "1943-00-00",
+      "dow": "",
+      "time": "",
+      "end": "1947-00-00",
+      "length": "0",
+      "country": "USA",
+      "network": "Mutual"
+    }
+  ],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Frank Singiser"
+    }
+  ]
+}

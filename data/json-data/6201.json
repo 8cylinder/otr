@@ -1,0 +1,99 @@
+{
+  "avail": [],
+  "codes": [],
+  "known": [],
+  "links": [
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323171018-d6358284.jpg",
+      "label": "Melody Ranch Gene Autry 01",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323171021-6e0c3ee5.jpg",
+      "label": "Melody Ranch Gene Autry 02",
+      "idtype": "12"
+    },
+    {
+      "type": "art",
+      "url": "otrr.org/piwigo/upload/2021/03/23/20210323171023-3dee77c7.jpg",
+      "label": "Melody Ranch Gene Autry 03",
+      "idtype": "12"
+    },
+    {
+      "type": "archive",
+      "url": "archive.org/details/OTRR_Melody_Ranch_Singles",
+      "label": "OTRR at archive.org",
+      "idtype": "1"
+    }
+  ],
+  "infos": [],
+  "people": [
+    {
+      "idperson": "1331",
+      "first": "Lou",
+      "last": "Crosby",
+      "f": "Announcer",
+      "character": ""
+    }
+  ],
+  "prints": [
+    {
+      "idprint": "765",
+      "idtype": "4",
+      "page": "5",
+      "article": "",
+      "url": "",
+      "date": "1999-01-01",
+      "source": "Illustrated Press/IP_266.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#266) - Jan 1999",
+      "author": ""
+    },
+    {
+      "idprint": "777",
+      "idtype": "4",
+      "page": "7",
+      "article": "",
+      "url": "",
+      "date": "1978-11-01",
+      "source": "Illustrated Press/IP_029.pdf",
+      "idpytype2": "4",
+      "title": "Illustrated Press (#29) - Nov 1978",
+      "author": ""
+    }
+  ],
+  "synopses": [],
+  "themes": [],
+  "episodes": [
+    {
+      "ide": "329887",
+      "date": "1951-04-28",
+      "epnum": "293",
+      "exists": "1",
+      "titles": [
+        {
+          "title": "1st 'Is You is or is You Ain't My Baby'"
+        }
+      ],
+      "files": [
+        {
+          "path": "M",
+          "folder": "Master Control",
+          "name": "Master Control 610512 xxx Host, Nick Ramsey. Real Estate Developer, On Board A Sub, Creator Of Kukla Fran & Ollie {AFRTS#49}.mp3",
+          "time": "1799",
+          "size": "28859023"
+        }
+      ]
+    }
+  ],
+  "genres": [],
+  "histories": [],
+  "sponsors": [],
+  "titles": [
+    {
+      "title": "Melody Ranch"
+    }
+  ]
+}
