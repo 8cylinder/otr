@@ -16,7 +16,9 @@ ID_DB = Path("/home/sm/projects/otr/data/data.json")
 SHOWS_DB = Path("/home/sm/projects/otr/data/json-data")
 
 
-def find_match(title: str, target_ratio: float, files: list[Path]) -> None:
+def find_match(
+    title: str, target_ratio: float, files: list[Path], episode_regex: str
+) -> None:
 
     show_id = get_show_title_id(title, target_ratio)
 
@@ -26,40 +28,91 @@ def find_match(title: str, target_ratio: float, files: list[Path]) -> None:
     show_data = json.load(open(show_json_file))
 
     show_title = show_data["titles"][0]
+    # if there are multiple titles, ask the user to choose one
     if len(show_data["titles"]) > 1:
         print()
         titles: list[tuple[str]] = [(i["title"],) for i in show_data["titles"]]
-        template = "[bold]{}[/bold]"
-        title = choose(titles, template, "[green]Multiple titles found, choose one")[0]
+        template = "[bold]{}[/]"
+        show_title = choose(
+            titles,
+            template,
+            "[green]More than one title found for this show, choose one",
+        )[0]
 
-    console.print(f"title: [bold]{title}[/bold]")
+    if show_title.lower().endswith("the"):
+        show_title = show_title.replace(", the", "")
+        show_title = re.sub(r", the$", "", show_title, flags=re.IGNORECASE)
+        show_title = "The " + show_title
+    # console.print(f"show title: [bold]{show_title}[/bold]")
 
     episodes_data = show_data["episodes"]
     for episode in files:
-        episode_regex = "ex_(.*$)"
-        episode_data = find_episode_match(episode.stem, episode_regex, episodes_data)
+        print()
+        console.print(f"[blue]{episode}")
+        ep = find_episode_match(episode.stem, episode_regex, episodes_data)
+        # console.print(f"episode data: [b]{ep}[/]")
+        fname = f'[green]{show_title}--e{ep["epnum"]}--{ep["date"]}--{ep["title"]}.mp3'
+        fname = re.sub("[ _]", "-", fname)
+        fname = re.sub("--+", "--", fname)
+        fname = fname.lower()
+        console.print(fname)
 
 
 def find_episode_match(
     file_episode: str, episode_regex: str, episodes: list[dict[str, Any]]
 ) -> dict[str, Any]:
-    titles = [{"id": i["epnum"], "title": i["titles"]} for i in episodes if i["titles"]]
+    # for i, e in enumerate(episodes):
+    #     print(e)
+    #     if i == 3:
+    #         exit()
+
+    titles = [
+        {"epnum": i["epnum"], "date": i["date"], "title": i["titles"]}
+        for i in episodes
+        if i["titles"]
+    ]
+    # pp(titles)
     matches = []
     for episode in titles:
-        for title in episode["title"]:
+        # print(file_episode, episode)
+        # continue
+        for i, title in enumerate(episode["title"]):
+            # print(i, file_episode, title["title"])
+
+            # continue
+            match_to = file_episode
             match = re.search(episode_regex, file_episode)
-            match_to = ""
+            # print(match, episode_regex)
             if match:
                 match_to = match.groups()[0]
             matched_ratio = jaro.jaro_winkler_metric(title["title"], match_to)
             # matches.append((title["title"], matched_ratio, episode["id"]))
-            matches.append([matched_ratio, {"episode": episode}])
+            # matches.append([matched_ratio, {"episode": episode}])
+            # pp(episode)
+            matches.append(
+                [
+                    matched_ratio,
+                    {
+                        "title": title["title"],
+                        "date": episode["date"],
+                        "epnum": episode["epnum"],
+                    },
+                ]
+            )
+            # print(i, matched_ratio, match_to, title["title"])
+
+    # exit()
+
     matches.sort(key=lambda x: x[0], reverse=True)  # sort by confidence
-    pp(matches)
-    match = matches[0]
-    # pp(matches)
-    console.print(f"[b]{matches[0][0]}[/b] - {file_episode}")
-    return match["episode"]
+
+    # pp(match)
+    # title = matches[0][1]["title"]
+    # print(title)
+    # print(title)
+    # exit()
+    # console.print(f"[b]{match[0][1]}[/b] - {file_episode}")
+    # exit()
+    return matches[0][1]
 
 
 def get_show_title_id(title: str, target_ratio: float) -> int:
@@ -85,9 +138,7 @@ def get_show_title_id(title: str, target_ratio: float) -> int:
     # convert the confidence value to a percent
     matches_p = [(f"{j*100:.0f}%", i, k) for i, j, k in matches]
     column_template = "[blue]{}[/blue]  [bold]{}[/bold]"
-    show = choose(
-        matches_p, column_template, "[green]Multiple titles found, choose one"
-    )
+    show = choose(matches_p, column_template, "[green]Choose a show title")
     show_id = int(show[2])
     return show_id
 
@@ -96,7 +147,7 @@ def choose_title_from_many(matches: list[str]) -> str:
     for i, match in enumerate(matches):
         counter = i + 1
         console.print(f"[green]{counter:>2})[/green] [bold]{match}")
-    chosen = Prompt.ask("[green]Multiple titles found, choose one")
+    chosen = Prompt.ask("[green]C Multiple titles found, choose one")
     try:
         return matches[int(chosen) - 1]
     except IndexError:

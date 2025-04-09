@@ -85,7 +85,7 @@ def fuzzy(
     title = files[0].stem
     if show_name:
         title = show_name
-    find_match(title, target_ratio, files)
+    find_match(title, target_ratio, files, episode_re)
 
 
 # fmt: off
